@@ -1,0 +1,128 @@
+name: Submit an OA or interview question
+description: A question you were asked in an OA, phone screen or onsite — with the level and role it was for.
+title: "[OA]: Company — Level — question title"
+labels: ["sighting"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks — sightings from experienced candidates are what this list is built on.
+
+        **Source-safe details only.** No screenshots, no account-only assessment pages, no
+        private recruiter messages, no copied problem statements, and nothing covered by an NDA
+        you signed. Two or three sentences in your own words are enough for a maintainer to
+        verify it and build a practice-safe version. See
+        [CONTRIBUTING.md](https://github.com/kevin-2023-code/Tech-OA-Questions/blob/HEAD/CONTRIBUTING.md).
+  - type: input
+    id: company
+    attributes:
+      label: Company
+      placeholder: Anthropic
+    validations:
+      required: true
+  - type: dropdown
+    id: role
+    attributes:
+      label: Role
+      options:
+        - Software engineer
+        - Machine learning engineer
+        - Research scientist / research engineer
+        - AI engineer
+        - Quant researcher
+        - Quant developer
+        - Quant trader
+        - Data scientist
+        - Other / not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Level
+      description: The level the loop was for. This is the column every list here is cut by.
+      options:
+        - Senior (≈ L5 / E5 / SDE III)
+        - Staff+ (≈ L6 / E6 / Principal and above)
+        - Mid (≈ L4 / E4 / SDE II)
+        - New grad
+        - Intern
+        - Manager
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: round
+    attributes:
+      label: Round
+      options:
+        - Online assessment (OA)
+        - Phone screen
+        - Onsite / virtual onsite
+        - Take-home
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: format
+    attributes:
+      label: Format
+      options:
+        - Coding / algorithm
+        - System design
+        - Object-oriented / low-level design
+        - SQL
+        - AI coding (with an assistant)
+        - ML coding (implement a model, layer or training step)
+        - ML system design
+        - Probability / brainteaser / mental math
+        - Research talk or paper discussion
+        - Behavioural
+        - Not sure
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Question title
+      description: The title shown in the assessment, or a short descriptive one.
+      placeholder: Implement a KV cache for autoregressive decoding
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary, in your own words
+      description: What was the task, and what did the follow-ups push on? Do not paste the original prompt.
+    validations:
+      required: true
+  - type: input
+    id: date-seen
+    attributes:
+      label: Date seen
+      description: A day if you remember it, otherwise the month. This drives the 🔥 / 🆕 markers.
+      placeholder: 2026-10-02
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Where it came from
+      placeholder: My own loop / a public post / a friend's report
+    validations:
+      required: true
+  - type: input
+    id: existing-link
+    attributes:
+      label: Existing TrueInterview link
+      description: If the question is already on the site, paste its URL.
+      placeholder: https://trueinterview.io/questions/some-slug
+    validations:
+      required: false
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Before you submit
+      options:
+        - label: This is a summary in my own words — not a screenshot, not a copied problem statement, and not covered by an NDA I signed.
+          required: true

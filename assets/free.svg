@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="24" viewBox="0 0 84 24" role="img" aria-label="Solve free on TrueInterview">
+  <title>Solve free on TrueInterview — no paid plan needed</title>
+  <rect width="84" height="24" rx="6" fill="#C2410C"/>
+  <rect x="0.5" y="0.5" width="83" height="23" rx="5.5" fill="none" stroke="#000000" stroke-opacity="0.12"/>
+  <path d="M13 7.5v9l7-4.5z" fill="#FFFFFF"/>
+  <text x="50" y="16.2" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="700" fill="#FFFFFF" text-anchor="middle">Free</text>
+</svg>

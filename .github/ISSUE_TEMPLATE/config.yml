@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Practise these questions
+    url: https://trueinterview.io/problems
+    about: Every title in this list opens the real problem in a runnable workspace.
+  - name: What each list selects
+    url: https://github.com/kevin-2023-code/Tech-OA-Questions/blob/HEAD/lists/README.md
+    about: How "Senior & Staff+", "ML & Research Scientist", "AI labs", "Quant firms" and "MAANG+" are defined.

@@ -1,0 +1,54 @@
+name: Sync OA list
+
+# Hourly, because the product is freshness: 🔥 and 🆕 expire on a clock, so a run
+# that finds no new question still has work to do. Off the hour, and off the
+# minute the sister repositories sync on.
+on:
+  schedule:
+    - cron: "41 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Never two syncs at once; queue rather than cancel, so the repository is never
+# left a sync behind.
+concurrency:
+  group: sync-oa-list
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Verify the renderers before pointing them at live data
+        run: python3 -m unittest discover -s scripts -p "test_*.py" -v
+
+      - name: Sync from the live catalog
+        run: python3 scripts/sync.py --snapshot-out "$RUNNER_TEMP/snapshot.json" | tee "$RUNNER_TEMP/sync.log"
+
+      - name: Confirm the render is a pure function of the snapshot
+        # A second render of the same read must change nothing; if it does, the
+        # hourly job would commit noise for ever.
+        run: python3 scripts/sync.py --catalog-file "$RUNNER_TEMP/snapshot.json" --check
+
+      - name: Commit
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # -A over the tree: the sync only ever writes README.md and the
+          # directories in GENERATED_DIRS, and deletes orphans inside them.
+          git add -A
+          git commit -m "Sync OA list from trueinterview.io" -m "$(tail -n 1 "$RUNNER_TEMP/sync.log")"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

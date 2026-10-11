@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="24" viewBox="0 0 84 24" role="img" aria-label="Practice on TrueInterview">
+  <title>Practice on TrueInterview</title>
+  <rect width="84" height="24" rx="6" fill="#1C1B18"/>
+  <rect x="0.5" y="0.5" width="83" height="23" rx="5.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/>
+  <path d="M13 7.5v9l7-4.5z" fill="#FB923C"/>
+  <text x="50" y="16.2" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#FFFFFF" text-anchor="middle">Practice</text>
+</svg>
