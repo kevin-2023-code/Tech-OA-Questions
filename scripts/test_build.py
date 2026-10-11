@@ -206,6 +206,20 @@ class Structure(unittest.TestCase):
         self.assertNotIn("New grad loop", block)
 
 
+class Insights(unittest.TestCase):
+    def test_level_mix_counts_each_question_once_at_its_top_level(self):
+        block = "\n".join(build.insights_block(model.load(snapshot())))
+        # Staff+: attention-grad, rl-eval (coding) and news-feed (system design).
+        self.assertIn("| 🚀 Staff+ | 3 | 67% | 33% | 0% | 0% | 0% |", block)
+        # Senior: kv-cache, order-book, rate-limiter, undated, ml-ranking — not the Staff+ three.
+        self.assertIn("| 🎯 Senior | 5 | 100% |", block)
+
+    def test_oa_share_names_its_denominator(self):
+        block = "\n".join(build.insights_block(model.load(snapshot())))
+        # Quant firms: order-book and dice-game are OA, market-maker is not.
+        self.assertIn("| 📈 Quant firms | 3 | 67% |", block)
+
+
 class Guides(unittest.TestCase):
     def test_role_is_read_from_the_title(self):
         self.assertEqual(model.guide_role("OpenAI Research Scientist Interview Process"), "Research Scientist")

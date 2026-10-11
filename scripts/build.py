@@ -574,7 +574,7 @@ def build_readme(catalog: Catalog, today: date) -> str:
         f"{num(oa)} OA · {num(recent)} reported in the last {RECENT_DAYS} days · {num(free)} free",
         "",
         f"[**▶ Practice on TrueInterview**]({SITE}/problems) &nbsp;·&nbsp; [**📝 Submit an OA**]({SUBMIT}) &nbsp;·&nbsp; "
-        f"[**🗣️ Interview reports**]({SITE}/interviews) &nbsp;·&nbsp; [**⭐ Star for hourly updates**](https://github.com/{REPO}/stargazers)",
+        f"[**🗣️ Interview reports**]({SITE}/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)",
         "",
         "</div>",
         "",
@@ -590,6 +590,7 @@ def build_readme(catalog: Catalog, today: date) -> str:
         "**By format:** " + " · ".join(f"[{FORMAT_SHORT[f]} ({num(sum(1 for q in qs if q.format == f))})](formats/{f}.md)" for f in FORMATS if any(q.format == f for q in qs))
         + f" &nbsp;·&nbsp; [🆓 Free to solve ({num(free)})](lists/free.md)",
         "",
+        *insights_block(catalog),
         "## 🏢 Companies",
         "",
     ]
@@ -662,16 +663,87 @@ def build_readme(catalog: Catalog, today: date) -> str:
         "No screenshots, no copied problem statements: see [CONTRIBUTING.md](CONTRIBUTING.md). "
         "Rows are generated from the catalog, so please do not open a pull request against a table.",
         "",
+        "**Built something on the data?** A study planner, a Discord bot, a chart — open an issue with the link and we will list it here. "
+        "[`data/questions.csv`](data/questions.csv) and [`data/questions.jsonl`](data/questions.jsonl) carry every row with its companies, round, level and role, refreshed hourly.",
+        "",
         "## More from TrueInterview",
         "",
         f"- [**Tech-Interview-Questions**]({SISTER}) — every company's loop, interview-process guides and what companies are asking, counted.",
         f"- [**New-Grad-Opportunities**]({NEW_GRAD}) · [**Internship-Opportunities**]({INTERNSHIPS}) — open roles, refreshed daily.",
         "",
         "<sub>Questions are listed by title and metadata only; statements and solutions live on "
-        f"[TrueInterview]({SITE}). Code in this repository is MIT-licensed. "
-        "If this list saved you an evening, ⭐ star it — that is how the next experienced candidate finds it.</sub>",
+        f"[TrueInterview]({SITE}). Code in this repository is MIT-licensed.</sub>",
     ]
     return "\n".join(lines) + "\n"
+
+
+LEVEL_BANDS = (
+    ("staff-plus", "🚀 Staff+"),
+    ("senior", "🎯 Senior"),
+    ("junior", "Mid"),
+    ("new-grad", "New grad & intern"),
+)
+INSIGHT_FORMATS = ("algorithm", "system-design", "object-oriented-programming", "sql", "ai-coding")
+
+
+def _top_band(q: Question) -> str | None:
+    """The most senior rung a question was reported at, folded into four bands."""
+    if "staff-plus" in q.levels:
+        return "staff-plus"
+    if "senior" in q.levels:
+        return "senior"
+    if "junior" in q.levels:
+        return "junior"
+    if "new-grad" in q.levels or "intern" in q.levels:
+        return "new-grad"
+    return None
+
+
+def _share(part: int, whole: int) -> str:
+    return f"{round(100 * part / whole)}%" if whole else "—"
+
+
+def insights_block(catalog: Catalog) -> list[str]:
+    """What the loop is made of at each level, and how much of it is an OA at each
+    kind of employer — counted from the bank on every sync, never asserted. Every
+    share is over the row count printed beside it."""
+    qs = catalog.questions
+    head = "| | Questions | " + " | ".join(FORMAT_SHORT[f] for f in INSIGHT_FORMATS) + " |"
+    rule = "| :-- | --: | " + " | ".join("--:" for _ in INSIGHT_FORMATS) + " |"
+    level_rows = []
+    for band, label in LEVEL_BANDS:
+        rows = [q for q in qs if _top_band(q) == band]
+        if not rows:
+            continue
+        counts = Counter(q.format for q in rows)
+        level_rows.append(f"| {label} | {num(len(rows))} | " + " | ".join(_share(counts[f], len(rows)) for f in INSIGHT_FORMATS) + " |")
+    group_rows = []
+    for group in GROUPS:
+        rows = [q for q in qs if group.id in q.groups]
+        if not rows:
+            continue
+        oa = sum(1 for q in rows if "oa" in q.rounds)
+        counts = Counter(q.format for q in rows)
+        group_rows.append(f"| {group.emoji} {group.label} | {num(len(rows))} | {_share(oa, len(rows))} | "
+                          + " | ".join(_share(counts[f], len(rows)) for f in ("algorithm", "system-design", "object-oriented-programming")) + " |")
+    if not level_rows:
+        return []
+    lines = [
+        "## 📊 What changes as you go up a level",
+        "",
+        "<sub>Share of each format among the questions reported at that level (a question counts once, at the most senior level it was reported at). Recounted every sync.</sub>",
+        "",
+        head, rule, *level_rows, "",
+    ]
+    if group_rows:
+        lines += [
+            "<sub>And by employer: how much of what candidates reported came from an **OA round**, and the format mix.</sub>",
+            "",
+            "| | Questions | From an OA | Coding | System design | OOD / LLD |",
+            "| :-- | --: | --: | --: | --: | --: |",
+            *group_rows, "",
+        ]
+    return lines
 
 
 def _round_links(qs) -> str:

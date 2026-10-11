@@ -10,7 +10,7 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 
 **4,121 questions** · **2,825 at Senior/Staff+** · **294 ML & research** · **197 quant** · 674 OA · 872 reported in the last 90 days · 398 free
 
-[**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**⭐ Star for hourly updates**](https://github.com/kevin-2023-code/Tech-OA-Questions/stargazers)
+[**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
 </div>
 
@@ -29,6 +29,25 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 **By round:** [📝 OA (674)](rounds/oa.md) · [📞 Phone (2,107)](rounds/phone-screen.md) · [🏢 Onsite (1,640)](rounds/onsite.md) · [🏠 Take-home (10)](rounds/take-home.md)
 
 **By format:** [Coding (2,426)](formats/algorithm.md) · [System design (700)](formats/system-design.md) · [OOD / LLD (589)](formats/object-oriented-programming.md) · [SQL (297)](formats/sql.md) · [AI coding (109)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (398)](lists/free.md)
+
+## 📊 What changes as you go up a level
+
+<sub>Share of each format among the questions reported at that level (a question counts once, at the most senior level it was reported at). Recounted every sync.</sub>
+
+| | Questions | Coding | System design | OOD / LLD | SQL | AI coding |
+| :-- | --: | --: | --: | --: | --: | --: |
+| 🚀 Staff+ | 490 | 11% | 73% | 5% | 6% | 4% |
+| 🎯 Senior | 2,335 | 58% | 13% | 17% | 10% | 3% |
+| Mid | 1,000 | 76% | 4% | 15% | 3% | 2% |
+| New grad & intern | 281 | 87% | 0% | 8% | 2% | 2% |
+
+<sub>And by employer: how much of what candidates reported came from an **OA round**, and the format mix.</sub>
+
+| | Questions | From an OA | Coding | System design | OOD / LLD |
+| :-- | --: | --: | --: | --: | --: |
+| 🧠 AI labs | 356 | 9% | 40% | 25% | 24% |
+| 📈 Quant firms | 276 | 36% | 74% | 6% | 16% |
+| 🏛️ MAANG+ | 1,171 | 12% | 59% | 18% | 12% |
 
 ## 🏢 Companies
 
@@ -233,9 +252,11 @@ What candidates said happened in the room — newest first, AI labs, quant firms
 
 Saw a question in an OA or a loop? [**Submit it**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) — company, role, level, round and a short source-safe summary. No screenshots, no copied problem statements: see [CONTRIBUTING.md](CONTRIBUTING.md). Rows are generated from the catalog, so please do not open a pull request against a table.
 
+**Built something on the data?** A study planner, a Discord bot, a chart — open an issue with the link and we will list it here. [`data/questions.csv`](data/questions.csv) and [`data/questions.jsonl`](data/questions.jsonl) carry every row with its companies, round, level and role, refreshed hourly.
+
 ## More from TrueInterview
 
 - [**Tech-Interview-Questions**](https://github.com/kevin-2023-code/Tech-Interview-Questions) — every company's loop, interview-process guides and what companies are asking, counted.
 - [**New-Grad-Opportunities**](https://github.com/kevin-2023-code/New-Grad-Opportunities) · [**Internship-Opportunities**](https://github.com/kevin-2023-code/Internship-Opportunities) — open roles, refreshed daily.
 
-<sub>Questions are listed by title and metadata only; statements and solutions live on [TrueInterview](https://trueinterview.io). Code in this repository is MIT-licensed. If this list saved you an evening, ⭐ star it — that is how the next experienced candidate finds it.</sub>
+<sub>Questions are listed by title and metadata only; statements and solutions live on [TrueInterview](https://trueinterview.io). Code in this repository is MIT-licensed.</sub>
