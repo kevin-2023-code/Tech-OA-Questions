@@ -771,7 +771,7 @@ def faq_block(catalog: Catalog, today: date) -> list[str]:
     lines += item(
         "What is an OA (online assessment)?",
         "A timed set of problems you solve alone, usually on HackerRank, CodeSignal or a company's own platform, often before a human has read your CV. "
-        f"{num(oa)} questions here were reported from an OA round — see [every OA question](rounds/oa.md).",
+        + (f"{num(oa)} questions here were reported from an OA round — see [every OA question](rounds/oa.md)." if oa else ""),
     )
     if staff and newgrad:
         lines += item(
@@ -780,7 +780,8 @@ def faq_block(catalog: Catalog, today: date) -> list[str]:
             f"of the {num(len(newgrad))} reported at new-grad and intern loops, {ng_code} are coding. "
             "The [level table above](#-what-changes-as-you-go-up-a-level) is recounted every sync.",
         )
-    if groups["quant"] and groups["ai-labs"]:
+    # Linked pages exist only at MIN_LIST_ROWS and up; the answer goes with them.
+    if len(groups["quant"]) >= MIN_LIST_ROWS and len(groups["ai-labs"]) >= MIN_LIST_ROWS:
         lines += item(
             "Do quant firms and AI labs still use OAs?",
             f"Quant firms do: {quant_oa} of the {num(len(groups['quant']))} quant-firm questions came from an OA round, against {ai_oa} of the "

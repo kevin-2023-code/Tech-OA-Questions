@@ -221,12 +221,22 @@ class Insights(unittest.TestCase):
 
 
 class Faq(unittest.TestCase):
+    @staticmethod
+    def faq(snap=None):
+        return render(snap)["README.md"].split("## FAQ")[1].split("## Contribute")[0]
+
     def test_answers_carry_live_counts(self):
-        readme = render()["README.md"]
-        faq = readme.split("## FAQ")[1].split("## Contribute")[0]
-        self.assertIn("Of the 3 questions reported at Staff+ loops, 33% are system design", faq)
+        faq = self.faq()
         self.assertIn("67% of the 3 quant-firm questions came from an OA round", faq)
+        self.assertIn("10 of 12 questions carry one", faq)
         self.assertEqual(faq.count("<details>"), faq.count("</details>"))
+
+    def test_level_answer_needs_both_ends_of_the_ladder(self):
+        # The fixture has no new-grad-only row, so there is nothing to compare.
+        self.assertNotIn("Staff+ loops", self.faq())
+        snap = snapshot()
+        snap["questions"].append(q("fizzbuzz", ["acme-widgets"], seniority=["new-grad"], reported="2026-09-02"))
+        self.assertIn("Of the 3 questions reported at Staff+ loops, 33% are system design", self.faq(snap))
 
 
 class Guides(unittest.TestCase):
