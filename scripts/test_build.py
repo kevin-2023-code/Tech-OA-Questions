@@ -220,6 +220,15 @@ class Insights(unittest.TestCase):
         self.assertIn("| 📈 Quant firms | 3 | 67% |", block)
 
 
+class Faq(unittest.TestCase):
+    def test_answers_carry_live_counts(self):
+        readme = render()["README.md"]
+        faq = readme.split("## FAQ")[1].split("## Contribute")[0]
+        self.assertIn("Of the 3 questions reported at Staff+ loops, 33% are system design", faq)
+        self.assertIn("67% of the 3 quant-firm questions came from an OA round", faq)
+        self.assertEqual(faq.count("<details>"), faq.count("</details>"))
+
+
 class Guides(unittest.TestCase):
     def test_role_is_read_from_the_title(self):
         self.assertEqual(model.guide_role("OpenAI Research Scientist Interview Process"), "Research Scientist")

@@ -248,6 +248,57 @@ What candidates said happened in the room — newest first, AI labs, quant firms
 | ▶ **Runnable, not a screenshot** | Every title opens the real problem in an editor; coding, OOD and SQL get a judged verdict. **Free** rows open without a paid plan. |
 | 📦 **Data, not just markdown** | [`data/questions.csv`](data/questions.csv) and [`data/questions.jsonl`](data/questions.jsonl): every row with its companies, round, level and role. |
 
+## FAQ
+
+<details>
+<summary><b>What is an OA (online assessment)?</b></summary>
+
+A timed set of problems you solve alone, usually on HackerRank, CodeSignal or a company's own platform, often before a human has read your CV. 674 questions here were reported from an OA round — see [every OA question](rounds/oa.md).
+
+</details>
+
+<details>
+<summary><b>What do Senior and Staff interviews test that new-grad interviews don't?</b></summary>
+
+System design. Of the 490 questions reported at Staff+ loops, 73% are system design; of the 281 reported at new-grad and intern loops, 87% are coding. The [level table above](#-what-changes-as-you-go-up-a-level) is recounted every sync.
+
+</details>
+
+<details>
+<summary><b>Do quant firms and AI labs still use OAs?</b></summary>
+
+Quant firms do: 36% of the 276 quant-firm questions came from an OA round, against 9% of the 356 at AI labs, where most questions come from phone screens and onsites. See [quant firms](lists/quant.md) and [AI labs](lists/ai-labs.md).
+
+</details>
+
+<details>
+<summary><b>Where do the questions come from, and how is the level decided?</b></summary>
+
+From candidates' reports of their own OAs and interview loops, curated on TrueInterview. The level is the one the candidate reported, or one inferred from their write-up; 4,107 of 4,121 questions carry one. A question with no level on record is in no level list.
+
+</details>
+
+<details>
+<summary><b>How often is this updated?</b></summary>
+
+Every hour, by a scheduled GitHub Action that reads TrueInterview's public API. 🔥 marks a question reported in the last 14 days and 🆕 one in the last 45; the markers expire on their own, so the top of every list is what is being asked now.
+
+</details>
+
+<details>
+<summary><b>Is it free?</b></summary>
+
+The list and the data files are. Each title opens the full problem on TrueInterview; the 398 rows with an orange **Free** button open without a paid plan, and the rest need one. [Every free question →](lists/free.md)
+
+</details>
+
+<details>
+<summary><b>Can I use the data?</b></summary>
+
+Yes — [`data/questions.csv`](data/questions.csv) and [`data/questions.jsonl`](data/questions.jsonl) carry every row with its companies, round, level, role and dates. If you build something on them, open an issue and we will link it.
+
+</details>
+
 ## Contribute
 
 Saw a question in an OA or a loop? [**Submit it**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) — company, role, level, round and a short source-safe summary. No screenshots, no copied problem statements: see [CONTRIBUTING.md](CONTRIBUTING.md). Rows are generated from the catalog, so please do not open a pull request against a table.

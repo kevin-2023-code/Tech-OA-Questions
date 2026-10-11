@@ -657,6 +657,7 @@ def build_readme(catalog: Catalog, today: date) -> str:
         "| ▶ **Runnable, not a screenshot** | Every title opens the real problem in an editor; coding, OOD and SQL get a judged verdict. **Free** rows open without a paid plan. |",
         "| 📦 **Data, not just markdown** | [`data/questions.csv`](data/questions.csv) and [`data/questions.jsonl`](data/questions.jsonl): every row with its companies, round, level and role. |",
         "",
+        *faq_block(catalog, today),
         "## Contribute",
         "",
         f"Saw a question in an OA or a loop? [**Submit it**]({SUBMIT}) — company, role, level, round and a short source-safe summary. "
@@ -743,6 +744,70 @@ def insights_block(catalog: Catalog) -> list[str]:
             "| :-- | --: | --: | --: | --: | --: |",
             *group_rows, "",
         ]
+    return lines
+
+
+def faq_block(catalog: Catalog, today: date) -> list[str]:
+    """The questions people search for, answered from this repository's own
+    counts. Collapsed, so they cost the page nothing — and plain text, so a
+    search engine or an answer engine can quote them."""
+    qs = catalog.questions
+    total = len(qs)
+    staff = [q for q in qs if _top_band(q) == "staff-plus"]
+    newgrad = [q for q in qs if _top_band(q) == "new-grad"]
+    staff_sd = _share(sum(1 for q in staff if q.format == "system-design"), len(staff))
+    ng_code = _share(sum(1 for q in newgrad if q.format == "algorithm"), len(newgrad))
+    groups = {g.id: [q for q in qs if g.id in q.groups] for g in GROUPS}
+    quant_oa = _share(sum(1 for q in groups["quant"] if "oa" in q.rounds), len(groups["quant"]))
+    ai_oa = _share(sum(1 for q in groups["ai-labs"] if "oa" in q.rounds), len(groups["ai-labs"]))
+    with_level = sum(1 for q in qs if q.levels)
+    free = sum(1 for q in qs if q.free)
+    oa = sum(1 for q in qs if "oa" in q.rounds)
+
+    def item(question: str, answer: str) -> list[str]:
+        return ["<details>", f"<summary><b>{question}</b></summary>", "", answer, "", "</details>", ""]
+
+    lines = ["## FAQ", ""]
+    lines += item(
+        "What is an OA (online assessment)?",
+        "A timed set of problems you solve alone, usually on HackerRank, CodeSignal or a company's own platform, often before a human has read your CV. "
+        f"{num(oa)} questions here were reported from an OA round — see [every OA question](rounds/oa.md).",
+    )
+    if staff and newgrad:
+        lines += item(
+            "What do Senior and Staff interviews test that new-grad interviews don't?",
+            f"System design. Of the {num(len(staff))} questions reported at Staff+ loops, {staff_sd} are system design; "
+            f"of the {num(len(newgrad))} reported at new-grad and intern loops, {ng_code} are coding. "
+            "The [level table above](#-what-changes-as-you-go-up-a-level) is recounted every sync.",
+        )
+    if groups["quant"] and groups["ai-labs"]:
+        lines += item(
+            "Do quant firms and AI labs still use OAs?",
+            f"Quant firms do: {quant_oa} of the {num(len(groups['quant']))} quant-firm questions came from an OA round, against {ai_oa} of the "
+            f"{num(len(groups['ai-labs']))} at AI labs, where most questions come from phone screens and onsites. "
+            "See [quant firms](lists/quant.md) and [AI labs](lists/ai-labs.md).",
+        )
+    lines += item(
+        "Where do the questions come from, and how is the level decided?",
+        "From candidates' reports of their own OAs and interview loops, curated on TrueInterview. The level is the one the candidate reported, "
+        f"or one inferred from their write-up; {num(with_level)} of {num(total)} questions carry one. "
+        "A question with no level on record is in no level list.",
+    )
+    lines += item(
+        "How often is this updated?",
+        "Every hour, by a scheduled GitHub Action that reads TrueInterview's public API. 🔥 marks a question reported in the last 14 days and 🆕 one in the last 45; "
+        "the markers expire on their own, so the top of every list is what is being asked now.",
+    )
+    lines += item(
+        "Is it free?",
+        f"The list and the data files are. Each title opens the full problem on TrueInterview; the {num(free)} rows with an orange **Free** button open without a paid plan, "
+        "and the rest need one. [Every free question →](lists/free.md)",
+    )
+    lines += item(
+        "Can I use the data?",
+        "Yes — [`data/questions.csv`](data/questions.csv) and [`data/questions.jsonl`](data/questions.jsonl) carry every row with its companies, round, level, role and dates. "
+        "If you build something on them, open an issue and we will link it.",
+    )
     return lines
 
 
