@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,426 questions** · 1,416 at Senior/Staff+ · 526 reported in the last 90 days · 285 free to solve
+**2,426 questions** · 1,416 at Senior/Staff+ · 531 reported in the last 90 days · 285 free to solve
 
 **Rounds:** 📝 OA (548) · 📞 Phone (1,453) · 🏢 Onsite (615) · 🏠 Take-home (2)
 
@@ -19,6 +19,8 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[ByteDance](../companies/bytedance.md)** | [Maximum Candies Allocated to K Children](https://trueinterview.io/questions/399fbb4a-5f57-5d2c-bf6b-ead8141c2dd9) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/399fbb4a-5f57-5d2c-bf6b-ead8141c2dd9) | Jun 2026 |
+| **[Upstart](../companies/upstart.md)** | [Maximum Cities Visited Traveling West to East with Lexicographic City Names](https://trueinterview.io/questions/fd4b3743-ae4a-56c3-8ddc-875d67c82fb9) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/fd4b3743-ae4a-56c3-8ddc-875d67c82fb9) | Jun 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Maximum Number of Events That Can Be Attended II](https://trueinterview.io/questions/2d61f2ea-00fb-5c13-83f6-50a8e8095178) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/2d61f2ea-00fb-5c13-83f6-50a8e8095178) | Jun 2026 |
 | **[Oracle](../companies/oracle.md)** / [eBay](../companies/ebay.md) / [NVIDIA](../companies/nvidia.md) | [Maximum on Both Sides](https://trueinterview.io/questions/f547b32a-e42e-4a0e-899e-a8d686990998) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f547b32a-e42e-4a0e-899e-a8d686990998) | Jun 2026 |
 | **[Snowflake](../companies/snowflake.md)** / [Citadel](../companies/citadel.md) / [Two Sigma](../companies/two-sigma.md) / +1 | [Maximum Throughput](https://trueinterview.io/questions/maximum-throughput) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-throughput) | Jun 2026 |
@@ -316,7 +318,6 @@
 | **[Lyft](../companies/lyft.md)** | [Reconstruct a BST from Preorder Traversal](https://trueinterview.io/questions/reconstruct-a-bst-from-preorder-traversal) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/reconstruct-a-bst-from-preorder-traversal) | Apr 14, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Same N-ary Tree Comparison](https://trueinterview.io/questions/same-nary-tree-comparison) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/same-nary-tree-comparison) | Apr 14, 2026 |
 | **[Meta](../companies/meta.md)** | [Compiler Optimization](https://trueinterview.io/questions/f55a5bd8-785a-44d0-9ab6-11d996f3ca36) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f55a5bd8-785a-44d0-9ab6-11d996f3ca36) | Apr 13, 2026 |
-| **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) | [Rotting Oranges](https://trueinterview.io/questions/rotting-oranges) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/rotting-oranges) | Apr 13, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Solve Four Coding Assessment Tasks](https://trueinterview.io/questions/solve-four-coding-assessment-tasks) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-coding-assessment-tasks) | Apr 13, 2026 |
 | **[Uber](../companies/uber.md)** | [Find a Bounded Subarray and Largest Square](https://trueinterview.io/questions/find-a-bounded-subarray-and-largest-square) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-a-bounded-subarray-and-largest-square) | Apr 12, 2026 |
 | **[Waymo](../companies/waymo.md)** | [Find Largest Adjacent Sorted Difference](https://trueinterview.io/questions/find-largest-adjacent-sorted-difference) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-largest-adjacent-sorted-difference) | Apr 12, 2026 |
@@ -418,6 +419,5 @@
 | **[Netflix](../companies/netflix.md)** | [Inverted Index with Phrase Search](https://trueinterview.io/questions/b72512c1-88e3-415d-ae28-a7cd4a1110a6) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b72512c1-88e3-415d-ae28-a7cd4a1110a6) | Apr 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** / [Point72](../companies/point72.md) | [IPO Share Allocation](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | Apr 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Microsoft](../companies/microsoft.md) / [Visa](../companies/visa.md) | [Jump Game](https://trueinterview.io/questions/25fc504b-0fcb-40f7-9453-780b842efd06) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/25fc504b-0fcb-40f7-9453-780b842efd06) | Apr 2026 |
-| **[Two Sigma](../companies/two-sigma.md)** / [Waymo](../companies/waymo.md) | [Jump Game Series](https://trueinterview.io/questions/e6c27750-a318-4f3c-a767-bd7b64e702a8) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e6c27750-a318-4f3c-a767-bd7b64e702a8) | Apr 2026 |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · **3** · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>

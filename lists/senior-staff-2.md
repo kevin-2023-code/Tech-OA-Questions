@@ -6,7 +6,7 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**2,825 questions** · 2,825 at Senior/Staff+ · 639 reported in the last 90 days · 223 free to solve
+**2,825 questions** · 2,825 at Senior/Staff+ · 641 reported in the last 90 days · 223 free to solve
 
 **Rounds:** 📝 OA (226) · 📞 Phone (1,508) · 🏢 Onsite (1,323) · 🏠 Take-home (8)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Oracle](../companies/oracle.md)** | [Design an Internal Metrics Ingestion Service](https://trueinterview.io/questions/design-an-internal-metrics-ingestion-service) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-internal-metrics-ingestion-service) | Aug 14, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Group Anagrams (LC 49)](https://trueinterview.io/questions/group-anagrams-lc-49) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/group-anagrams-lc-49) | Aug 14, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Cumulative Purchases by Product Type](https://trueinterview.io/questions/cumulative-purchases-by-product-type) | Phone | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/cumulative-purchases-by-product-type) | Aug 13, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Evaluate a Migration from MySQL to MongoDB](https://trueinterview.io/questions/evaluate-a-migration-from-mysql-to-mongodb) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/evaluate-a-migration-from-mysql-to-mongodb) | Aug 13, 2026 |
@@ -206,6 +207,7 @@
 | **[Amazon](../companies/amazon.md)** | [Top K Slowest Requests from Logs](https://trueinterview.io/questions/9a6cfc3c-e9ec-5766-b7d6-c9ab05882217) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/9a6cfc3c-e9ec-5766-b7d6-c9ab05882217) | Aug 2026 |
 | **[Google](../companies/google.md)** | [Tournament Champion Probability](https://trueinterview.io/questions/1a008971-1fb9-5940-880b-d2b73ab4e4c0) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/1a008971-1fb9-5940-880b-d2b73ab4e4c0) | Aug 2026 |
 | **[Citadel](../companies/citadel.md)** | [Town Temperature Regression Analysis](https://trueinterview.io/questions/40633852-5eda-59ea-9c7a-4e233abff5ec) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/40633852-5eda-59ea-9c7a-4e233abff5ec) | Aug 2026 |
+| **[Pinterest](../companies/pinterest.md)** / [Google](../companies/google.md) | [Trie Autocomplete / Prefix Search](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Aug 2026 |
 | **[MongoDB](../companies/mongodb.md)** | [Union Iterator for Two Sorted Iterators (Dedup, Streaming, O(1) Extra Space)](https://trueinterview.io/questions/89497b58-2eb1-4f78-9306-fbb8927e39f7) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/89497b58-2eb1-4f78-9306-fbb8927e39f7) | Aug 2026 |
 | **[Meta](../companies/meta.md)** / [eBay](../companies/ebay.md) | [Valid Number](https://trueinterview.io/questions/lc-valid-number) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/lc-valid-number) | Aug 2026 |
 | **[Meta](../companies/meta.md)** / [Microsoft](../companies/microsoft.md) | [Valid Palindrome II](https://trueinterview.io/questions/valid-palindrome-ii) | Phone · Onsite | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-palindrome-ii) | Aug 2026 |
@@ -400,7 +402,6 @@
 | **[Anthropic](../companies/anthropic.md)** | [Token Usage Calculation](https://trueinterview.io/questions/1f861fb5-8d4f-46c0-b1f4-d2599788cc8a) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/1f861fb5-8d4f-46c0-b1f4-d2599788cc8a) | Jul 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Tokenize (Python)](https://trueinterview.io/questions/tokenize-python) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/tokenize-python) | Jul 2026 |
 | **[Netflix](../companies/netflix.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +1 | [Topological Sort / Course Schedule for Ads](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | Jul 2026 |
-| **[Pinterest](../companies/pinterest.md)** / [Google](../companies/google.md) | [Trie Autocomplete / Prefix Search](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Jul 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Worker / Employee Grant Management](https://trueinterview.io/questions/oa-worker-management) | OA | New grad · **Senior** · Manager | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-worker-management) | Jul 2026 |
 | **[Meta](../companies/meta.md)** | [Attention Implementation + Flash / Linear Attention Follow-ups](https://trueinterview.io/questions/attention-implementation-and-follow-ups) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/attention-implementation-and-follow-ups) | Jun 30, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [HPC Host Control Plane and Job Coordination](https://trueinterview.io/questions/hpc-host-control-plane-and-job-coordination) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/hpc-host-control-plane-and-job-coordination) | Jun 30, 2026 |
@@ -420,6 +421,5 @@
 | **[ByteDance](../companies/bytedance.md)** | [Elements Appearing More Than n/3 in a Sorted Array](https://trueinterview.io/questions/sorted-array-elements-more-than-one-third) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sorted-array-elements-more-than-one-third) | Jun 26, 2026 |
 | **[Google](../companies/google.md)** | [Meeting Rooms / Interval Scheduling Variants](https://trueinterview.io/questions/meeting-rooms-variants) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/meeting-rooms-variants) | Jun 26, 2026 |
 | **[Meta](../companies/meta.md)** / [ByteDance](../companies/bytedance.md) / [Instacart](../companies/instacart.md) / +1 | [Basic Calculator I / II](https://trueinterview.io/questions/basic-calculator-i-ii) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/basic-calculator-i-ii) | Jun 24, 2026 |
-| **[Okta](../companies/okta.md)** | [CD Rental System (Java DSA / LLD)](https://trueinterview.io/questions/cd-rental-system) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cd-rental-system) | Jun 24, 2026 |
 
 <sub>Page [1](senior-staff.md) · **2** · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md)</sub>

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**1,640 questions** · 1,323 at Senior/Staff+ · 357 reported in the last 90 days · 115 free to solve
+**1,640 questions** · 1,323 at Senior/Staff+ · 361 reported in the last 90 days · 115 free to solve
 
 **By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (537)
 
@@ -19,6 +19,9 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Amazon](../companies/amazon.md)** | [Design Amazon Kindle](https://trueinterview.io/questions/design-amazon-kindle) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-amazon-kindle) | Jul 2026 |
+| **[OpenAI](../companies/openai.md)** | [Design an Agent Harness and Evaluation System](https://trueinterview.io/questions/design-an-agent-harness-and-evaluation-system) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-agent-harness-and-evaluation-system) | Jul 2026 |
+| **[Google](../companies/google.md)** | [Design an Enterprise AI Adoption Agent for a Global Company](https://trueinterview.io/questions/design-an-enterprise-ai-adoption-agent-for-a-global-company) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-enterprise-ai-adoption-agent-for-a-global-company) | Jul 2026 |
 | **[Lead Bank](../companies/lead-bank.md)** | [Design an Event Store with CRUD and Sorted Insert (Binary Search) + Pagination](https://trueinterview.io/questions/97172098-125e-4cbc-8fd0-ce5d3e64799c) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/97172098-125e-4cbc-8fd0-ce5d3e64799c) | Jul 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design an in-memory rate limiter (token bucket / sliding window)](https://trueinterview.io/questions/91b46503-5a56-4b8a-a1f3-b4f15da02b11) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/91b46503-5a56-4b8a-a1f3-b4f15da02b11) | Jul 2026 |
 | **[Confluent](../companies/confluent.md)** | [Design an LRU Cache with a Constant-Time Average](https://trueinterview.io/questions/design-an-lru-cache-with-a-constant-time-average) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-lru-cache-with-a-constant-time-average) | Jul 2026 |
@@ -74,7 +77,6 @@
 | **[Snowflake](../companies/snowflake.md)** | [Three-Color Map Coloring](https://trueinterview.io/questions/three-color-map-coloring) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/three-color-map-coloring) | Jul 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Tokenize (Python)](https://trueinterview.io/questions/tokenize-python) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/tokenize-python) | Jul 2026 |
 | **[Netflix](../companies/netflix.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +1 | [Topological Sort / Course Schedule for Ads](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | Jul 2026 |
-| **[Pinterest](../companies/pinterest.md)** / [Google](../companies/google.md) | [Trie Autocomplete / Prefix Search](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Jul 2026 |
 | **[Tradedesk](../companies/tradedesk.md)** | [Versioned Recipe Management System](https://trueinterview.io/questions/7cc2781a-4716-537b-86f0-af8491a58f8b) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/7cc2781a-4716-537b-86f0-af8491a58f8b) | Jul 2026 |
 | **[Meta](../companies/meta.md)** | [Attention Implementation + Flash / Linear Attention Follow-ups](https://trueinterview.io/questions/attention-implementation-and-follow-ups) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/attention-implementation-and-follow-ups) | Jun 30, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Dependency Ordering With Topological Sort](https://trueinterview.io/questions/topological-sort-with-ordering) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/topological-sort-with-ordering) | Jun 29, 2026 |
@@ -123,7 +125,6 @@
 | **[Airbnb](../companies/airbnb.md)** / [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / +7 | [Design Hotel Booking System](https://trueinterview.io/questions/booking-system-design) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/booking-system-design) | Jun 17, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Design Underground System](https://trueinterview.io/questions/design-underground-system) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-underground-system) | Jun 16, 2026 |
 | **[Rippling](../companies/rippling.md)** / [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / +1 | [Median of Two Sorted Arrays](https://trueinterview.io/questions/median-of-two-sorted-arrays) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/median-of-two-sorted-arrays) | Jun 16, 2026 |
-| **[ByteDance](../companies/bytedance.md)** / [Amazon](../companies/amazon.md) | [Number of Islands and Grid BFS Variants](https://trueinterview.io/questions/number-of-islands-family) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-family) | Jun 16, 2026 |
 | **[Uber](../companies/uber.md)** | [Rate Limiter (Coding + Trade-offs)](https://trueinterview.io/questions/phone-screen-rate-limiter) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/phone-screen-rate-limiter) | Jun 16, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Real-time Market Data System](https://trueinterview.io/questions/real-time-market-data-system) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/real-time-market-data-system) | Jun 16, 2026 |
 | **[Apple](../companies/apple.md)** / [Scale AI](../companies/scale-ai.md) | [Transformer Attention Mask and Heads Coding](https://trueinterview.io/questions/transformer-attention-mask-and-heads-coding) | Phone · Onsite | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/transformer-attention-mask-and-heads-coding) | Jun 16, 2026 |
@@ -418,6 +419,5 @@
 | **[Anthropic](../companies/anthropic.md)** | [Compute Exclusive Time from Stack Events](https://trueinterview.io/questions/compute-exclusive-time-from-stack-events) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-exclusive-time-from-stack-events) | Apr 16, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +4 | [Design Typehead Suggestion](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Apr 16, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Sliding-Window Stream Session Bucketing](https://trueinterview.io/questions/sliding-window-stream-bucketing) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sliding-window-stream-bucketing) | Apr 16, 2026 |
-| **[NVIDIA](../companies/nvidia.md)** | [2-D Matrix Transpose with Memory-Layout Discussion](https://trueinterview.io/questions/matrix-transpose-memory-layout) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transpose-memory-layout) | Apr 15, 2026 |
 
 <sub>Page [1](onsite.md) · **2** · [3](onsite-3.md) · [4](onsite-4.md) · [5](onsite-5.md)</sub>

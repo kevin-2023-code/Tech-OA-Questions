@@ -6,7 +6,7 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**2,825 questions** · 2,825 at Senior/Staff+ · 639 reported in the last 90 days · 223 free to solve
+**2,825 questions** · 2,825 at Senior/Staff+ · 641 reported in the last 90 days · 223 free to solve
 
 **Rounds:** 📝 OA (226) · 📞 Phone (1,508) · 🏢 Onsite (1,323) · 🏠 Take-home (8)
 
@@ -265,6 +265,7 @@
 | **[Google](../companies/google.md)** | [Remove at Most One Blocker to Minimize Signal Completion Time](https://trueinterview.io/questions/05834c64-3f82-5628-8732-14c6759ded40) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/05834c64-3f82-5628-8732-14c6759ded40) | 🆕 Sep 2026 |
 | **[Oracle](../companies/oracle.md)** | [Replace a Range of Nodes in a Linked List](https://trueinterview.io/questions/3ff8e86f-0abd-5967-bf35-5f1aac1c42e6) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3ff8e86f-0abd-5967-bf35-5f1aac1c42e6) | 🆕 Sep 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Return All Target Expressions With Addition and Multiplication Precedence](https://trueinterview.io/questions/bf50f7be-58b2-52b0-bd29-97cc8b5eb546) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bf50f7be-58b2-52b0-bd29-97cc8b5eb546) | 🆕 Sep 2026 |
+| **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) | [Rotting Oranges](https://trueinterview.io/questions/rotting-oranges) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/rotting-oranges) | 🆕 Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Scale a NoSQL Key–Value Store to One Million QPS](https://trueinterview.io/questions/scale-a-nosql-key-value-store-to-one-million-qps) | Onsite | New grad · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/scale-a-nosql-key-value-store-to-one-million-qps) | 🆕 Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Shortest Word Distance II](https://trueinterview.io/questions/a87d7c6b-06c5-5d2c-9924-55712f12b1e0) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a87d7c6b-06c5-5d2c-9924-55712f12b1e0) | 🆕 Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [Simulate Plant Infection With Controlled Burning](https://trueinterview.io/questions/simulate-plant-infection-with-controlled-burning) | Onsite | Mid · **Senior** · Manager | Coding | [![Practice][p]](https://trueinterview.io/questions/simulate-plant-infection-with-controlled-burning) | 🆕 Sep 2026 |
@@ -420,6 +421,5 @@
 | **[OpenAI](../companies/openai.md)** | [Simulate Infection Spread with Immunity and Recovery](https://trueinterview.io/questions/simulate-infection-spread-with-immunity-and-recovery) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/simulate-infection-spread-with-immunity-and-recovery) | Aug 15, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Design a Software Load Balancer](https://trueinterview.io/questions/design-a-software-load-balancer) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-software-load-balancer) | Aug 14, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Design a Synchronously Replicated Hash Map](https://trueinterview.io/questions/design-a-synchronously-replicated-hash-map) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-synchronously-replicated-hash-map) | Aug 14, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Design an Internal Metrics Ingestion Service](https://trueinterview.io/questions/design-an-internal-metrics-ingestion-service) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-internal-metrics-ingestion-service) | Aug 14, 2026 |
 
 <sub>Page **1** · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md)</sub>

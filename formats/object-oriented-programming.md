@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**589 questions** · 418 at Senior/Staff+ · 120 reported in the last 90 days · 61 free to solve
+**589 questions** · 418 at Senior/Staff+ · 121 reported in the last 90 days · 61 free to solve
 
 **Rounds:** 📝 OA (45) · 📞 Phone (214) · 🏢 Onsite (389) · 🏠 Take-home (1)
 
@@ -127,6 +127,7 @@
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Implement Heap Insert](https://trueinterview.io/questions/21b6a445-4f44-5df6-b4fe-1c7a01c4aac6) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/21b6a445-4f44-5df6-b4fe-1c7a01c4aac6) | Aug 2026 |
 | **[Databricks](../companies/databricks.md)** | [KV Store with Sliding-Window Average Latency](https://trueinterview.io/questions/908ac171-29c9-53ff-b6ad-26faa94d0b1c) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/908ac171-29c9-53ff-b6ad-26faa94d0b1c) | Aug 2026 |
 | **[LinkedIn](../companies/linkedin.md)** / [Amazon](../companies/amazon.md) / [Microsoft](../companies/microsoft.md) / +3 | [LRU Cache + Thread-Safe Follow-up](https://trueinterview.io/questions/coding-lru-cache-multithread) | Phone · Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/coding-lru-cache-multithread) | Aug 2026 |
+| **[Amazon](../companies/amazon.md)** | [Minesweeper Game Design](https://trueinterview.io/questions/minesweeper-game-design) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/minesweeper-game-design) | Aug 2026 |
 | **[Uber](../companies/uber.md)** / [Apple](../companies/apple.md) / [Google](../companies/google.md) | [Number of Islands in a Matrix](https://trueinterview.io/questions/a7b479fc-577c-42fb-a470-9124376c4b85) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a7b479fc-577c-42fb-a470-9124376c4b85) | Aug 2026 |
 | **[Snowflake](../companies/snowflake.md)** / [ByteDance](../companies/bytedance.md) / [Netflix](../companies/netflix.md) | [Parallel Courses III](https://trueinterview.io/questions/parallel-courses-iii) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/parallel-courses-iii) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** | [Pizza / Restaurant System](https://trueinterview.io/questions/pizza-restaurant-ood) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/pizza-restaurant-ood) | Aug 2026 |
@@ -302,7 +303,6 @@
 | **[Oracle](../companies/oracle.md)** / [Shopify](../companies/shopify.md) | [LRU Cache with Expiration](https://trueinterview.io/questions/lru-cache-with-expiration) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/lru-cache-with-expiration) | Apr 14, 2026 |
 | **[Asana](../companies/asana.md)** | [Design and Solve a Rotatable Jigsaw Puzzle](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Phone | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Apr 13, 2026 |
 | **[Databricks](../companies/databricks.md)** / [Amazon](../companies/amazon.md) | [Design Lazy Array](https://trueinterview.io/questions/implement-lazyarray-with-deferred-function-execution) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-lazyarray-with-deferred-function-execution) | Apr 13, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Minesweeper Game Design](https://trueinterview.io/questions/minesweeper-game-design) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/minesweeper-game-design) | Apr 13, 2026 |
 | **[Faire](../companies/faire.md)** | [Design an API for Pascal Triangle](https://trueinterview.io/questions/design-an-api-for-pascal-triangle) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-api-for-pascal-triangle) | Apr 10, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Implement SQL Table and DNA Ordering](https://trueinterview.io/questions/implement-sql-table-and-dna-ordering) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-sql-table-and-dna-ordering) | Apr 10, 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Design a Streaming Job Scheduler](https://trueinterview.io/questions/design-a-streaming-job-scheduler) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-streaming-job-scheduler) | Apr 9, 2026 |

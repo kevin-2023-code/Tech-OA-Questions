@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,107 questions** · 1,508 at Senior/Staff+ · 461 reported in the last 90 days · 212 free to solve
+**2,107 questions** · 1,508 at Senior/Staff+ · 466 reported in the last 90 days · 212 free to solve
 
 **By employer group:** 🧠 AI labs (183) · 📈 Quant firms (139) · 🏛️ MAANG+ (592)
 
@@ -19,6 +19,8 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Bloomberg](../companies/bloomberg.md)** | [Active Users Sliding Window](https://trueinterview.io/questions/active-users-sliding-window) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/active-users-sliding-window) | May 3, 2026 |
+| **[Google](../companies/google.md)** | [Friend Graph with Timeline (Friend / Unfriend Events)](https://trueinterview.io/questions/friend-graph-with-timeline) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/friend-graph-with-timeline) | May 3, 2026 |
 | **[Apple](../companies/apple.md)** | [Substring Pattern Matches](https://trueinterview.io/questions/substring-pattern-matches) | Phone | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/substring-pattern-matches) | May 3, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Web Crawler](https://trueinterview.io/questions/web-crawler) | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/web-crawler) | May 3, 2026 |
 | **[Mercor](../companies/mercor.md)** | [Code Review: Thread Safety of a Python Compute-and-Cache Function](https://trueinterview.io/questions/code-review-thread-safety-of-a-python-compute-and-cache-function) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/code-review-thread-safety-of-a-python-compute-and-cache-function) | May 1, 2026 |
@@ -166,7 +168,6 @@
 | **[eBay](../companies/ebay.md)** | [Design an Ad Assignment API](https://trueinterview.io/questions/design-an-ad-assignment-api) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-ad-assignment-api) | Apr 13, 2026 |
 | **[Asana](../companies/asana.md)** | [Design and Solve a Rotatable Jigsaw Puzzle](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Phone | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Apr 13, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design Real-time Like Interation System](https://trueinterview.io/questions/design-like-unlike-favorite-system) | OA · Phone · Onsite | New grad · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-like-unlike-favorite-system) | Apr 13, 2026 |
-| **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) | [Rotting Oranges](https://trueinterview.io/questions/rotting-oranges) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/rotting-oranges) | Apr 13, 2026 |
 | **[Waymo](../companies/waymo.md)** | [Find Largest Adjacent Sorted Difference](https://trueinterview.io/questions/find-largest-adjacent-sorted-difference) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-largest-adjacent-sorted-difference) | Apr 12, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve Two String Problems](https://trueinterview.io/questions/solve-two-string-problems-3) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-string-problems-3) | Apr 12, 2026 |
 | **[Meta](../companies/meta.md)** | [Validate abbreviations and brackets](https://trueinterview.io/questions/validate-abbreviations-and-brackets) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-abbreviations-and-brackets) | Apr 12, 2026 |
@@ -415,7 +416,6 @@
 | **[Amplitude](../companies/amplitude.md)** | [Swap the K-th Node from the End with the Head in a Singly Linked List](https://trueinterview.io/questions/ca30acde-9531-4647-a4ae-ef65515ec71f) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ca30acde-9531-4647-a4ae-ef65515ec71f) | Mar 2026 |
 | **[Uber](../companies/uber.md)** / [Meta](../companies/meta.md) | [Verifying an Alien Dictionary](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Mar 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Walking with Boost Stations (Greedy Simulation)](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Mar 2026 |
-| **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) | [Weighted Sum of Nested Integer Array by Depth_inverse](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Mar 2026 |
 | **[StackAdapt](../companies/stackadapt.md)** | [Windowed Map (Time-Windowed Key-Value Store) with O(1) Operations and Window Average](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Mar 2026 |
 | **[Harvey](../companies/harvey.md)** | [Word Level Match and Tagging](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Mar 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Aggregate user logs into 30-minute sessions](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Feb 28, 2026 |

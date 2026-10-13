@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,426 questions** · 1,416 at Senior/Staff+ · 526 reported in the last 90 days · 285 free to solve
+**2,426 questions** · 1,416 at Senior/Staff+ · 531 reported in the last 90 days · 285 free to solve
 
 **Rounds:** 📝 OA (548) · 📞 Phone (1,453) · 🏢 Onsite (615) · 🏠 Take-home (2)
 
@@ -197,6 +197,7 @@
 | **[Oracle](../companies/oracle.md)** | [Replace a Range of Nodes in a Linked List](https://trueinterview.io/questions/3ff8e86f-0abd-5967-bf35-5f1aac1c42e6) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3ff8e86f-0abd-5967-bf35-5f1aac1c42e6) | 🆕 Sep 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Return All Target Expressions With Addition and Multiplication Precedence](https://trueinterview.io/questions/bf50f7be-58b2-52b0-bd29-97cc8b5eb546) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bf50f7be-58b2-52b0-bd29-97cc8b5eb546) | 🆕 Sep 2026 |
 | **[Microsoft](../companies/microsoft.md)** / [ByteDance](../companies/bytedance.md) | [Reverse a Linked List](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | 🆕 Sep 2026 |
+| **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) | [Rotting Oranges](https://trueinterview.io/questions/rotting-oranges) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/rotting-oranges) | 🆕 Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [Simulate Plant Infection With Controlled Burning](https://trueinterview.io/questions/simulate-plant-infection-with-controlled-burning) | Onsite | Mid · **Senior** · Manager | Coding | [![Practice][p]](https://trueinterview.io/questions/simulate-plant-infection-with-controlled-burning) | 🆕 Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Sliding-Window Ad Click Counter](https://trueinterview.io/questions/ea41a698-48dd-51f0-92ce-3f9a925b628a) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ea41a698-48dd-51f0-92ce-3f9a925b628a) | 🆕 Sep 2026 |
 | **[Oracle](../companies/oracle.md)** | [Spiral Matrix (LC 54)](https://trueinterview.io/questions/spiral-matrix-lc54) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-lc54) | 🆕 Sep 2026 |
@@ -218,6 +219,7 @@
 | **[OpenAI](../companies/openai.md)** | [Vectorized 1-NN and Neural Network Forward Pass](https://trueinterview.io/questions/vectorized-1-nn-and-neural-network-forward-pass) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/vectorized-1-nn-and-neural-network-forward-pass) | 🆕 Sep 2026 |
 | **[Stripe](../companies/stripe.md)** | [Verify Business Name Overlap with Nickname](https://trueinterview.io/questions/ebf98d3b-d473-5ce3-858d-a80947f240ce) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ebf98d3b-d473-5ce3-858d-a80947f240ce) | 🆕 Sep 2026 |
 | **[Stripe](../companies/stripe.md)** | [Verify Business Records by Required Fields](https://trueinterview.io/questions/f8231511-f6ac-545f-b959-3920ee7eac6c) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f8231511-f6ac-545f-b959-3920ee7eac6c) | 🆕 Sep 2026 |
+| **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) | [Weighted Sum of Nested Integer Array by Depth_inverse](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | 🆕 Sep 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Wiki Page Shortest-Click Path](https://trueinterview.io/questions/wiki-page-shortest-path) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/wiki-page-shortest-path) | 🆕 Sep 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Shopify](../companies/shopify.md) | [Word Search](https://trueinterview.io/questions/word-search) | Phone | Intern · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search) | 🆕 Sep 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +3 | [Word Search II](https://trueinterview.io/questions/word-search-ii) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search-ii) | 🆕 Sep 2026 |
@@ -417,7 +419,5 @@
 | **[Amazon](../companies/amazon.md)** | [Make Array Bitonic](https://trueinterview.io/questions/make-array-bitonic) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/make-array-bitonic) | Aug 2026 |
 | **[Google](../companies/google.md)** | [Max Subarray Filled With Zeros](https://trueinterview.io/questions/b86bae80-9169-4a97-ad99-54516018ff73) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b86bae80-9169-4a97-ad99-54516018ff73) | Aug 2026 |
 | **[Oracle](../companies/oracle.md)** | [Maximum Height of Each Island](https://trueinterview.io/questions/712ca994-03d3-589e-9d9b-9ea213f907da) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/712ca994-03d3-589e-9d9b-9ea213f907da) | Aug 2026 |
-| **[Amazon](../companies/amazon.md)** / [Netflix](../companies/netflix.md) | [Maximum Interval Overlap Count](https://trueinterview.io/questions/maximum-interval-overlap-count) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-interval-overlap-count) | Aug 2026 |
-| **[Oracle](../companies/oracle.md)** | [Maximum Movie Rating with No Two Consecutive Skips](https://trueinterview.io/questions/425e7c94-efc5-5797-afd4-194d39da160c) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/425e7c94-efc5-5797-afd4-194d39da160c) | Aug 2026 |
 
 <sub>Page **1** · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>

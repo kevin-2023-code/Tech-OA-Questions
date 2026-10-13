@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,426 questions** · 1,416 at Senior/Staff+ · 526 reported in the last 90 days · 285 free to solve
+**2,426 questions** · 1,416 at Senior/Staff+ · 531 reported in the last 90 days · 285 free to solve
 
 **Rounds:** 📝 OA (548) · 📞 Phone (1,453) · 🏢 Onsite (615) · 🏠 Take-home (2)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Two Sigma](../companies/two-sigma.md)** / [Waymo](../companies/waymo.md) | [Jump Game Series](https://trueinterview.io/questions/e6c27750-a318-4f3c-a767-bd7b64e702a8) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e6c27750-a318-4f3c-a767-bd7b64e702a8) | Apr 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Log Parser for Top N Items](https://trueinterview.io/questions/7c107386-3c24-4acd-9385-b7d274fca67b) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7c107386-3c24-4acd-9385-b7d274fca67b) | Apr 2026 |
 | **[Amazon](../companies/amazon.md)** | [Longest Subarray with Target Sum](https://trueinterview.io/questions/d531db52-2fa4-461d-b372-0f1f8e05a22b) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/d531db52-2fa4-461d-b372-0f1f8e05a22b) | Apr 2026 |
 | **[Uber](../companies/uber.md)** / [Meta](../companies/meta.md) | [Making a Large Island](https://trueinterview.io/questions/making-a-large-island) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/making-a-large-island) | Apr 2026 |
@@ -242,7 +243,6 @@
 | **[Uber](../companies/uber.md)** / [Meta](../companies/meta.md) | [Verifying an Alien Dictionary](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Mar 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Walking with Boost Stations (Greedy Simulation)](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Mar 2026 |
 | **[Snowflake](../companies/snowflake.md)** / [Anthropic](../companies/anthropic.md) | [Web URL Crawler at Scale](https://trueinterview.io/questions/web-url-crawler-at-scale) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/web-url-crawler-at-scale) | Mar 2026 |
-| **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) | [Weighted Sum of Nested Integer Array by Depth_inverse](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Mar 2026 |
 | **[StackAdapt](../companies/stackadapt.md)** | [Windowed Map (Time-Windowed Key-Value Store) with O(1) Operations and Window Average](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Mar 2026 |
 | **[Harvey](../companies/harvey.md)** | [Word Level Match and Tagging](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Mar 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Aggregate user logs into 30-minute sessions](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Feb 28, 2026 |

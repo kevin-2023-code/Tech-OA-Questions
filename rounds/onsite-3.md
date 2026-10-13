@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**1,640 questions** · 1,323 at Senior/Staff+ · 357 reported in the last 90 days · 115 free to solve
+**1,640 questions** · 1,323 at Senior/Staff+ · 361 reported in the last 90 days · 115 free to solve
 
 **By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (537)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[NVIDIA](../companies/nvidia.md)** | [2-D Matrix Transpose with Memory-Layout Discussion](https://trueinterview.io/questions/matrix-transpose-memory-layout) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transpose-memory-layout) | Apr 15, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Implement ordering and undo executor](https://trueinterview.io/questions/implement-ordering-and-undo-executor) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-ordering-and-undo-executor) | Apr 15, 2026 |
 | **[Uber](../companies/uber.md)** | [ML Coding from Scratch (Regression / Markov / Facility)](https://trueinterview.io/questions/mle-onsite-ml-coding-from-scratch) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-onsite-ml-coding-from-scratch) | Apr 15, 2026 |
 | **[Meta](../companies/meta.md)** | [Notification Ranking (Multi-source)](https://trueinterview.io/questions/mlsd-notification-ranking) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/mlsd-notification-ranking) | Apr 15, 2026 |
@@ -36,7 +37,6 @@
 | **[OpenAI](../companies/openai.md)** | [Design a Real-Time Sensor Intelligence System](https://trueinterview.io/questions/design-a-real-time-sensor-intelligence-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-real-time-sensor-intelligence-system) | Apr 13, 2026 |
 | **[Databricks](../companies/databricks.md)** / [Amazon](../companies/amazon.md) | [Design Lazy Array](https://trueinterview.io/questions/implement-lazyarray-with-deferred-function-execution) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-lazyarray-with-deferred-function-execution) | Apr 13, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design Real-time Like Interation System](https://trueinterview.io/questions/design-like-unlike-favorite-system) | OA · Phone · Onsite | New grad · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-like-unlike-favorite-system) | Apr 13, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Minesweeper Game Design](https://trueinterview.io/questions/minesweeper-game-design) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/minesweeper-game-design) | Apr 13, 2026 |
 | **[Figma](../companies/figma.md)** | [ML Model Design — Prompt-to-Design Generation](https://trueinterview.io/questions/prompt-to-design-generation) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/prompt-to-design-generation) | Apr 13, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design Delayed/Scheduled Payment System](https://trueinterview.io/questions/design-delayed-scheduled-payment-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-delayed-scheduled-payment-system) | Apr 12, 2026 |
 | **[Uber](../companies/uber.md)** | [Find a Bounded Subarray and Largest Square](https://trueinterview.io/questions/find-a-bounded-subarray-and-largest-square) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-a-bounded-subarray-and-largest-square) | Apr 12, 2026 |

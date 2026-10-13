@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**4,121 questions** · 2,825 at Senior/Staff+ · 860 reported in the last 90 days · 395 free to solve
+**4,121 questions** · 2,825 at Senior/Staff+ · 866 reported in the last 90 days · 395 free to solve
 
 **Rounds:** 📝 OA (674) · 📞 Phone (2,107) · 🏢 Onsite (1,640) · 🏠 Take-home (10)
 
@@ -17,6 +17,9 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[eBay](../companies/ebay.md)** | [Implement a Prefix-Based Word Store](https://trueinterview.io/questions/solve-dependency-prefix-and-cache-problems-implement-a-prefix-based-word-store) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/solve-dependency-prefix-and-cache-problems-implement-a-prefix-based-word-store) | May 2026 |
+| **[Google](../companies/google.md)** | [Implement a Simplified Transformer Forward Pass](https://trueinterview.io/questions/b581f4c7-dd8a-486e-b735-9c330c32a910) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b581f4c7-dd8a-486e-b735-9c330c32a910) | May 2026 |
+| **[Google](../companies/google.md)** | [Implement a Web Crawler with BFS and DFS](https://trueinterview.io/questions/implement-a-web-crawler-with-bfs-and-dfs) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-a-web-crawler-with-bfs-and-dfs) | May 2026 |
 | **[OpenAI](../companies/openai.md)** | [Implement an Async Message Bus for sendAsyncMessage (Simulation)](https://trueinterview.io/questions/b06f318b-6c42-43eb-baec-ae8a0e10c31e) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b06f318b-6c42-43eb-baec-ae8a0e10c31e) | May 2026 |
 | **[Google](../companies/google.md)** | [Implement deleteDirectory with getChildrenPaths and deleteFile APIs](https://trueinterview.io/questions/4e02ab32-f7f8-4070-b12a-604e8470808c) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/4e02ab32-f7f8-4070-b12a-604e8470808c) | May 2026 |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Implement itoa()](https://trueinterview.io/questions/4856d68c-2108-40c6-aac6-9ef1c545e397) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4856d68c-2108-40c6-aac6-9ef1c545e397) | May 2026 |
@@ -244,9 +247,7 @@
 | **[Asana](../companies/asana.md)** | [Design and Solve a Rotatable Jigsaw Puzzle](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Phone | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Apr 13, 2026 |
 | **[Databricks](../companies/databricks.md)** / [Amazon](../companies/amazon.md) | [Design Lazy Array](https://trueinterview.io/questions/implement-lazyarray-with-deferred-function-execution) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-lazyarray-with-deferred-function-execution) | Apr 13, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design Real-time Like Interation System](https://trueinterview.io/questions/design-like-unlike-favorite-system) | OA · Phone · Onsite | New grad · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-like-unlike-favorite-system) | Apr 13, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Minesweeper Game Design](https://trueinterview.io/questions/minesweeper-game-design) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/minesweeper-game-design) | Apr 13, 2026 |
 | **[Figma](../companies/figma.md)** | [ML Model Design — Prompt-to-Design Generation](https://trueinterview.io/questions/prompt-to-design-generation) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/prompt-to-design-generation) | Apr 13, 2026 |
-| **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) | [Rotting Oranges](https://trueinterview.io/questions/rotting-oranges) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/rotting-oranges) | Apr 13, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Solve Four Coding Assessment Tasks](https://trueinterview.io/questions/solve-four-coding-assessment-tasks) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-coding-assessment-tasks) | Apr 13, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design Delayed/Scheduled Payment System](https://trueinterview.io/questions/design-delayed-scheduled-payment-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-delayed-scheduled-payment-system) | Apr 12, 2026 |
 | **[Uber](../companies/uber.md)** | [Find a Bounded Subarray and Largest Square](https://trueinterview.io/questions/find-a-bounded-subarray-and-largest-square) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-a-bounded-subarray-and-largest-square) | Apr 12, 2026 |
@@ -416,6 +417,5 @@
 | **[Visa](../companies/visa.md)** / [LinkedIn](../companies/linkedin.md) | [Find K Closest Elements](https://trueinterview.io/questions/7bedae5f-5feb-4c90-95d3-db93bbb7a7a2) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/7bedae5f-5feb-4c90-95d3-db93bbb7a7a2) | Apr 2026 |
 | **[Apple](../companies/apple.md)** / [Google](../companies/google.md) | [Find K Pairs with Smallest Sums](https://trueinterview.io/questions/find-k-pairs-with-smallest-sums) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-k-pairs-with-smallest-sums) | Apr 2026 |
 | **[Meta](../companies/meta.md)** / [DoorDash](../companies/doordash.md) | [Find Peak Element](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Apr 2026 |
-| **[Roblox](../companies/roblox.md)** | [Find the Most Frequent Log Call](https://trueinterview.io/questions/find-the-most-frequent-log-call) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-most-frequent-log-call) | Apr 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · **5** · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md)</sub>

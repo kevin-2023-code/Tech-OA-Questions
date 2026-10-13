@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**4,121 questions** · 2,825 at Senior/Staff+ · 860 reported in the last 90 days · 395 free to solve
+**4,121 questions** · 2,825 at Senior/Staff+ · 866 reported in the last 90 days · 395 free to solve
 
 **Rounds:** 📝 OA (674) · 📞 Phone (2,107) · 🏢 Onsite (1,640) · 🏠 Take-home (10)
 
@@ -17,6 +17,9 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[DoorDash](../companies/doordash.md)** | [Code Craft: Validate Cart](https://trueinterview.io/questions/code-craft-validate-cart) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/code-craft-validate-cart) | Jun 10, 2026 |
+| **[Vanta](../companies/vanta.md)** | [DAU / MAU Internal Analytics System](https://trueinterview.io/questions/dau-mau-analytics-system) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/dau-mau-analytics-system) | Jun 10, 2026 |
+| **[Google](../companies/google.md)** | [Employee Hierarchy Add / Delete](https://trueinterview.io/questions/employee-hierarchy-add-delete) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/employee-hierarchy-add-delete) | Jun 10, 2026 |
 | **[Google](../companies/google.md)** / [Affirm](../companies/affirm.md) / [Uber](../companies/uber.md) | [Evaluate String Expression](https://trueinterview.io/questions/nested-function-expression-evaluator) | Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/nested-function-expression-evaluator) | Jun 10, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Find Duplicate Files](https://trueinterview.io/questions/42afe615-f6b2-494c-807f-37c309841f8b) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/42afe615-f6b2-494c-807f-37c309841f8b) | Jun 10, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Matching Contacts](https://trueinterview.io/questions/matching-contacts) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/matching-contacts) | Jun 10, 2026 |
@@ -414,8 +417,5 @@
 | **[Palantir](../companies/palantir.md)** | [Implement a Balanced Session Manager](https://trueinterview.io/questions/6b7a482e-7173-44d2-a93e-b90670a7ab10) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/6b7a482e-7173-44d2-a93e-b90670a7ab10) | May 2026 |
 | **[Expedia](../companies/expedia.md)** | [Implement a Basic Tokenizer and Train a Simple LLM-like Model in a Notebook Case Study](https://trueinterview.io/questions/3fce3482-1d0c-4a6c-b134-e4ac6a07601b) | Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/3fce3482-1d0c-4a6c-b134-e4ac6a07601b) | May 2026 |
 | **[Harvey](../companies/harvey.md)** | [Implement a Hierarchical File System](https://trueinterview.io/questions/implement-a-hierarchical-file-system) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-hierarchical-file-system) | May 2026 |
-| **[eBay](../companies/ebay.md)** | [Implement a Prefix-Based Word Store](https://trueinterview.io/questions/solve-dependency-prefix-and-cache-problems-implement-a-prefix-based-word-store) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/solve-dependency-prefix-and-cache-problems-implement-a-prefix-based-word-store) | May 2026 |
-| **[Google](../companies/google.md)** | [Implement a Simplified Transformer Forward Pass](https://trueinterview.io/questions/b581f4c7-dd8a-486e-b735-9c330c32a910) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b581f4c7-dd8a-486e-b735-9c330c32a910) | May 2026 |
-| **[Google](../companies/google.md)** | [Implement a Web Crawler with BFS and DFS](https://trueinterview.io/questions/implement-a-web-crawler-with-bfs-and-dfs) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-a-web-crawler-with-bfs-and-dfs) | May 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · **4** · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md)</sub>

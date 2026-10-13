@@ -6,7 +6,7 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**2,825 questions** · 2,825 at Senior/Staff+ · 639 reported in the last 90 days · 223 free to solve
+**2,825 questions** · 2,825 at Senior/Staff+ · 641 reported in the last 90 days · 223 free to solve
 
 **Rounds:** 📝 OA (226) · 📞 Phone (1,508) · 🏢 Onsite (1,323) · 🏠 Take-home (8)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Okta](../companies/okta.md)** | [CD Rental System (Java DSA / LLD)](https://trueinterview.io/questions/cd-rental-system) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cd-rental-system) | Jun 24, 2026 |
 | **[Okta](../companies/okta.md)** | [Concurrent Simple Bank System](https://trueinterview.io/questions/concurrent-simple-bank-system) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/concurrent-simple-bank-system) | Jun 24, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Forest Parent Array Delete Node](https://trueinterview.io/questions/forest-parent-array-delete-node) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/forest-parent-array-delete-node) | Jun 24, 2026 |
 | **[Okta](../companies/okta.md)** | [Reverse Substrings Between Each Pair of Parentheses](https://trueinterview.io/questions/reverse-substrings-in-parentheses) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/reverse-substrings-in-parentheses) | Jun 24, 2026 |
@@ -420,6 +421,5 @@
 | **[Amazon](../companies/amazon.md)** | [Implement Cache and Rotate Matrix](https://trueinterview.io/questions/implement-cache-and-rotate-matrix) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-cache-and-rotate-matrix) | Apr 20, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Implement Sliding Windows and LRU Cache](https://trueinterview.io/questions/implement-sliding-windows-and-lru-cache) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-sliding-windows-and-lru-cache) | Apr 20, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Snowflake](../companies/snowflake.md) | [Merge Two Sorted Lists](https://trueinterview.io/questions/merge-two-sorted-lists) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/merge-two-sorted-lists) | Apr 20, 2026 |
-| **[Upstart](../companies/upstart.md)** | [Move across a server grid efficiently](https://trueinterview.io/questions/implement-three-assessment-functions-move-across-a-server-grid-efficiently) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-three-assessment-functions-move-across-a-server-grid-efficiently) | Apr 20, 2026 |
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · **3** · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md)</sub>

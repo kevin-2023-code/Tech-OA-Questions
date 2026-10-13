@@ -6,7 +6,7 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**2,825 questions** · 2,825 at Senior/Staff+ · 639 reported in the last 90 days · 223 free to solve
+**2,825 questions** · 2,825 at Senior/Staff+ · 641 reported in the last 90 days · 223 free to solve
 
 **Rounds:** 📝 OA (226) · 📞 Phone (1,508) · 🏢 Onsite (1,323) · 🏠 Take-home (8)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Upstart](../companies/upstart.md)** | [Move across a server grid efficiently](https://trueinterview.io/questions/implement-three-assessment-functions-move-across-a-server-grid-efficiently) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-three-assessment-functions-move-across-a-server-grid-efficiently) | Apr 20, 2026 |
 | **[Okta](../companies/okta.md)** | [Python + SQL Technical Round (Typing, Debugging, Joins)](https://trueinterview.io/questions/python-sql-debugging-round) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/python-sql-debugging-round) | Apr 20, 2026 |
 | **[Okta](../companies/okta.md)** | [Validate IPv4 Addresses in an Array](https://trueinterview.io/questions/ipv4-validation) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ipv4-validation) | Apr 20, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Compute Minimum Parentheses Additions](https://trueinterview.io/questions/compute-minimum-parentheses-additions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-minimum-parentheses-additions) | Apr 19, 2026 |
@@ -75,7 +76,6 @@
 | **[Databricks](../companies/databricks.md)** / [Amazon](../companies/amazon.md) | [Design Lazy Array](https://trueinterview.io/questions/implement-lazyarray-with-deferred-function-execution) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-lazyarray-with-deferred-function-execution) | Apr 13, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design Real-time Like Interation System](https://trueinterview.io/questions/design-like-unlike-favorite-system) | OA · Phone · Onsite | New grad · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-like-unlike-favorite-system) | Apr 13, 2026 |
 | **[Figma](../companies/figma.md)** | [ML Model Design — Prompt-to-Design Generation](https://trueinterview.io/questions/prompt-to-design-generation) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/prompt-to-design-generation) | Apr 13, 2026 |
-| **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) | [Rotting Oranges](https://trueinterview.io/questions/rotting-oranges) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/rotting-oranges) | Apr 13, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design Delayed/Scheduled Payment System](https://trueinterview.io/questions/design-delayed-scheduled-payment-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-delayed-scheduled-payment-system) | Apr 12, 2026 |
 | **[Uber](../companies/uber.md)** | [Find a Bounded Subarray and Largest Square](https://trueinterview.io/questions/find-a-bounded-subarray-and-largest-square) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-a-bounded-subarray-and-largest-square) | Apr 12, 2026 |
 | **[Waymo](../companies/waymo.md)** | [Find Largest Adjacent Sorted Difference](https://trueinterview.io/questions/find-largest-adjacent-sorted-difference) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-largest-adjacent-sorted-difference) | Apr 12, 2026 |

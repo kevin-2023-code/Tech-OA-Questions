@@ -6,7 +6,7 @@
 
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,171 questions** · 832 at Senior/Staff+ · 302 reported in the last 90 days · 70 free to solve
+**1,171 questions** · 832 at Senior/Staff+ · 308 reported in the last 90 days · 70 free to solve
 
 **Rounds:** 📝 OA (139) · 📞 Phone (592) · 🏢 Onsite (537) · 🏠 Take-home (1)
 
@@ -21,6 +21,10 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Google](../companies/google.md)** | [Active Communication Top Users](https://trueinterview.io/questions/active-communication-top-users) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/active-communication-top-users) | Jun 23, 2026 |
+| **[Google](../companies/google.md)** | [Expression Tree Single-Leaf Mutation](https://trueinterview.io/questions/expression-tree-single-leaf-mutation) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/expression-tree-single-leaf-mutation) | Jun 23, 2026 |
+| **[Google](../companies/google.md)** | [Streaming Points: Emit K Within Distance](https://trueinterview.io/questions/streaming-points-k-within-distance) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/streaming-points-k-within-distance) | Jun 23, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Caesar Cipher with Case Preservation](https://trueinterview.io/questions/caesar-cipher) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/caesar-cipher) | Jun 22, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Detect and Break a Linked-List Cycle](https://trueinterview.io/questions/linked-list-detect-break-cycle) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/linked-list-detect-break-cycle) | Jun 22, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Minimum Bills and Coins for an Amount](https://trueinterview.io/questions/min-bills-coins-change) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/min-bills-coins-change) | Jun 22, 2026 |
 | **[Uber](../companies/uber.md)** / [Anthropic](../companies/anthropic.md) / [Google](../companies/google.md) / +3 | [Design Facebook Messenger](https://trueinterview.io/questions/design-messenger) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-messenger) | Jun 21, 2026 |
@@ -28,7 +32,6 @@
 | **[Amazon](../companies/amazon.md)** | [Minimum Operations to Sort by Rotate and Flip](https://trueinterview.io/questions/minimum-operations-to-sort-by-rotate-and-flip) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-operations-to-sort-by-rotate-and-flip) | Jun 19, 2026 |
 | **[Meta](../companies/meta.md)** | [Find Shortest Unique Prefix](https://trueinterview.io/questions/shortest-unique-prefix) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-unique-prefix) | Jun 18, 2026 |
 | **[Airbnb](../companies/airbnb.md)** / [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / +7 | [Design Hotel Booking System](https://trueinterview.io/questions/booking-system-design) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/booking-system-design) | Jun 17, 2026 |
-| **[ByteDance](../companies/bytedance.md)** / [Amazon](../companies/amazon.md) | [Number of Islands and Grid BFS Variants](https://trueinterview.io/questions/number-of-islands-family) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-family) | Jun 16, 2026 |
 | **[Apple](../companies/apple.md)** / [Scale AI](../companies/scale-ai.md) | [Transformer Attention Mask and Heads Coding](https://trueinterview.io/questions/transformer-attention-mask-and-heads-coding) | Phone · Onsite | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/transformer-attention-mask-and-heads-coding) | Jun 16, 2026 |
 | **[Google](../companies/google.md)** | [First Bad Version with Parallel Search Follow-up](https://trueinterview.io/questions/first-bad-version-parallel-search) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/first-bad-version-parallel-search) | Jun 15, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Event Filter & Queue Routing Service](https://trueinterview.io/questions/event-filter-routing-service) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/event-filter-routing-service) | Jun 11, 2026 |
@@ -212,8 +215,6 @@
 | **[Oracle](../companies/oracle.md)** / [Microsoft](../companies/microsoft.md) | [Minimum Swaps to Group Evens First](https://trueinterview.io/questions/sort-array-by-parity-min-swaps) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/sort-array-by-parity-min-swaps) | Apr 14, 2026 |
 | **[Meta](../companies/meta.md)** | [Compiler Optimization](https://trueinterview.io/questions/f55a5bd8-785a-44d0-9ab6-11d996f3ca36) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f55a5bd8-785a-44d0-9ab6-11d996f3ca36) | Apr 13, 2026 |
 | **[Databricks](../companies/databricks.md)** / [Amazon](../companies/amazon.md) | [Design Lazy Array](https://trueinterview.io/questions/implement-lazyarray-with-deferred-function-execution) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-lazyarray-with-deferred-function-execution) | Apr 13, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Minesweeper Game Design](https://trueinterview.io/questions/minesweeper-game-design) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/minesweeper-game-design) | Apr 13, 2026 |
-| **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) | [Rotting Oranges](https://trueinterview.io/questions/rotting-oranges) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/rotting-oranges) | Apr 13, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Merge Values into Blocks](https://trueinterview.io/questions/min-ops-to-make-array-contiguous) | OA | — | Coding | [![Practice][p]](https://trueinterview.io/questions/min-ops-to-make-array-contiguous) | Apr 12, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve Two String Problems](https://trueinterview.io/questions/solve-two-string-problems-3) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-string-problems-3) | Apr 12, 2026 |
 | **[Meta](../companies/meta.md)** | [Validate abbreviations and brackets](https://trueinterview.io/questions/validate-abbreviations-and-brackets) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-abbreviations-and-brackets) | Apr 12, 2026 |
@@ -365,7 +366,6 @@
 | **[Google](../companies/google.md)** | [Split Data into Minimum Chunks with Max Chunk Size](https://trueinterview.io/questions/fc7b2dd9-fee5-40a3-94b2-66a433d95628) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/fc7b2dd9-fee5-40a3-94b2-66a433d95628) | Mar 2026 |
 | **[Meta](../companies/meta.md)** | [Unique Characters](https://trueinterview.io/questions/b765dd59-a8f5-468c-a15e-e2b80ec674f6) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b765dd59-a8f5-468c-a15e-e2b80ec674f6) | Mar 2026 |
 | **[Uber](../companies/uber.md)** / [Meta](../companies/meta.md) | [Verifying an Alien Dictionary](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Mar 2026 |
-| **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) | [Weighted Sum of Nested Integer Array by Depth_inverse](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Mar 2026 |
 | **[Meta](../companies/meta.md)** | [Check and infer custom alphabet](https://trueinterview.io/questions/check-and-infer-custom-alphabet) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/check-and-infer-custom-alphabet) | Feb 28, 2026 |
 | **[Apple](../companies/apple.md)** | [Write a Debounce Function](https://trueinterview.io/questions/write-a-debounce-function) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/write-a-debounce-function) | Feb 27, 2026 |
 | **[Apple](../companies/apple.md)** | [Design a Deck of Cards](https://trueinterview.io/questions/design-a-deck-of-cards) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-deck-of-cards) | Feb 26, 2026 |

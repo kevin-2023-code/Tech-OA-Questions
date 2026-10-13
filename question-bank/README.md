@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**4,121 questions** · 2,825 at Senior/Staff+ · 860 reported in the last 90 days · 395 free to solve
+**4,121 questions** · 2,825 at Senior/Staff+ · 866 reported in the last 90 days · 395 free to solve
 
 **Rounds:** 📝 OA (674) · 📞 Phone (2,107) · 🏢 Onsite (1,640) · 🏠 Take-home (10)
 
@@ -338,6 +338,7 @@
 | **[Oracle](../companies/oracle.md)** | [Replace a Range of Nodes in a Linked List](https://trueinterview.io/questions/3ff8e86f-0abd-5967-bf35-5f1aac1c42e6) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3ff8e86f-0abd-5967-bf35-5f1aac1c42e6) | 🆕 Sep 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Return All Target Expressions With Addition and Multiplication Precedence](https://trueinterview.io/questions/bf50f7be-58b2-52b0-bd29-97cc8b5eb546) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bf50f7be-58b2-52b0-bd29-97cc8b5eb546) | 🆕 Sep 2026 |
 | **[Microsoft](../companies/microsoft.md)** / [ByteDance](../companies/bytedance.md) | [Reverse a Linked List](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | 🆕 Sep 2026 |
+| **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) | [Rotting Oranges](https://trueinterview.io/questions/rotting-oranges) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/rotting-oranges) | 🆕 Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Scale a NoSQL Key–Value Store to One Million QPS](https://trueinterview.io/questions/scale-a-nosql-key-value-store-to-one-million-qps) | Onsite | New grad · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/scale-a-nosql-key-value-store-to-one-million-qps) | 🆕 Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Shortest Word Distance II](https://trueinterview.io/questions/a87d7c6b-06c5-5d2c-9924-55712f12b1e0) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a87d7c6b-06c5-5d2c-9924-55712f12b1e0) | 🆕 Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Simplified Autocomplete System](https://trueinterview.io/questions/10bfe093-3d82-4bd5-a250-c65af800e04c) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/10bfe093-3d82-4bd5-a250-c65af800e04c) | 🆕 Sep 2026 |
@@ -367,6 +368,7 @@
 | **[Stripe](../companies/stripe.md)** | [Verify Business Records by Required Fields](https://trueinterview.io/questions/f8231511-f6ac-545f-b959-3920ee7eac6c) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f8231511-f6ac-545f-b959-3920ee7eac6c) | 🆕 Sep 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Violation Log Analyzer](https://trueinterview.io/questions/violation-log-analyzer) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/violation-log-analyzer) | 🆕 Sep 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Virtual Credit Card Validator (Case Study)](https://trueinterview.io/questions/virtual-credit-card-validator) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/virtual-credit-card-validator) | 🆕 Sep 2026 |
+| **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) | [Weighted Sum of Nested Integer Array by Depth_inverse](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | 🆕 Sep 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Wiki Page Shortest-Click Path](https://trueinterview.io/questions/wiki-page-shortest-path) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/wiki-page-shortest-path) | 🆕 Sep 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Shopify](../companies/shopify.md) | [Word Search](https://trueinterview.io/questions/word-search) | Phone | Intern · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search) | 🆕 Sep 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +3 | [Word Search II](https://trueinterview.io/questions/word-search-ii) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search-ii) | 🆕 Sep 2026 |
@@ -415,7 +417,5 @@
 | **[Anthropic](../companies/anthropic.md)** | [Review and Scale an Inference Service Design](https://trueinterview.io/questions/review-and-scale-an-inference-service-design) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/review-and-scale-an-inference-service-design) | Aug 27, 2026 |
 | **[Amazon](../companies/amazon.md)** / [Meta](../companies/meta.md) | [Sort Elements by Frequency](https://trueinterview.io/questions/3486512d-d05e-42de-b149-76d9f0e11814) | Phone · Onsite | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3486512d-d05e-42de-b149-76d9f0e11814) | Aug 27, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Spreadsheet Cell Relationships](https://trueinterview.io/questions/spreadsheet-cell-relationships) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/spreadsheet-cell-relationships) | Aug 27, 2026 |
-| **[Palantir](../companies/palantir.md)** | [Stack Item and Category Coupons with an Eighty-Percent Cap](https://trueinterview.io/questions/stack-item-and-category-coupons-with-an-eighty-percent-cap) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/stack-item-and-category-coupons-with-an-eighty-percent-cap) | Aug 27, 2026 |
-| **[Scale AI](../companies/scale-ai.md)** | [Design and Simulate a Four-Player Card Game](https://trueinterview.io/questions/design-and-simulate-a-four-player-card-game) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-simulate-a-four-player-card-game) | Aug 26, 2026 |
 
 <sub>Page **1** · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md)</sub>
