@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**1,640 questions** · 1,323 at Senior/Staff+ · 360 reported in the last 90 days · 115 free to solve
+**1,640 questions** · 1,323 at Senior/Staff+ · 357 reported in the last 90 days · 115 free to solve
 
 **By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (537)
 
@@ -22,7 +22,6 @@
 | **[xAI](../companies/xai.md)** | [Radix Cache](https://trueinterview.io/questions/radix-cache) | Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/radix-cache) | — |
 | **[Uber](../companies/uber.md)** | [React Parking Lot System](https://trueinterview.io/questions/893e8e44-58d9-4d46-80c6-fecceb6d3b43) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/893e8e44-58d9-4d46-80c6-fecceb6d3b43) | — |
 | **[Microsoft](../companies/microsoft.md)** | [React Performance Review](https://trueinterview.io/questions/90794d67-2f02-4fea-8b1a-2c0d024a0416) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/90794d67-2f02-4fea-8b1a-2c0d024a0416) | — |
-| **[Verkada](../companies/verkada.md)** | [React UI Implementation from Figma (Flexbox/Grid heavy)](https://trueinterview.io/questions/fdefc42f-efc5-4cce-b95d-a9881714b78c) | Onsite | New grad | AI coding | [![Practice][p]](https://trueinterview.io/questions/fdefc42f-efc5-4cce-b95d-a9881714b78c) | — |
 | **[LinkedIn](../companies/linkedin.md)** | [Real-Time Scalable Spam Email Detection System Design](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
 | **[OpenAI](../companies/openai.md)** | [Reproduce Double Descent in Linear Regression](https://trueinterview.io/questions/a5c37bda-f1a1-528d-b6aa-0968b57e250a) | Onsite | New grad · Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/a5c37bda-f1a1-528d-b6aa-0968b57e250a) | — |
@@ -35,6 +34,7 @@
 | **[OpenAI](../companies/openai.md)** | [Spreadsheet Implementation with Cycle Detection and Caching](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | — |
 | **[Airtable](../companies/airtable.md)** | [Table Editing](https://trueinterview.io/questions/85fd5957-a580-4a82-b7b0-a1c5d8c86f27) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/85fd5957-a580-4a82-b7b0-a1c5d8c86f27) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Test 15s to 60s video length change](https://trueinterview.io/questions/test-15s-to-60s-video-length-change) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/test-15s-to-60s-video-length-change) | — |
+| **[LinkedIn](../companies/linkedin.md)** / [Meta](../companies/meta.md) | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |
 | **[Coinbase](../companies/coinbase.md)** | [Transaction History System with Add, Delete, and Balance Calculation](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | — |
 | **[Meta](../companies/meta.md)** | [Validate complete binary tree](https://trueinterview.io/questions/validate-complete-binary-tree) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-complete-binary-tree) | — |
 | **[Lyft](../companies/lyft.md)** | [Web Crawler with Communication Constraint](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | — |

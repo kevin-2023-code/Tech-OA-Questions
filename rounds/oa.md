@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**674 questions** · 226 at Senior/Staff+ · 107 reported in the last 90 days · 119 free to solve
+**674 questions** · 226 at Senior/Staff+ · 105 reported in the last 90 days · 117 free to solve
 
 **By employer group:** 🧠 AI labs (33) · 📈 Quant firms (98) · 🏛️ MAANG+ (139)
 
@@ -80,7 +80,6 @@
 | **[Oracle](../companies/oracle.md)** | [Add One to a Number Represented by Digits Without ArrayList](https://trueinterview.io/questions/928c453b-ec05-5a5d-ab6c-58c7147da117) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/928c453b-ec05-5a5d-ab6c-58c7147da117) | Aug 2026 |
 | **[Visa](../companies/visa.md)** / [Oracle](../companies/oracle.md) | [Best Time to Buy and Sell Stock](https://trueinterview.io/questions/b22b8d56-b468-4bec-86db-22b981d32761) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b22b8d56-b468-4bec-86db-22b981d32761) | Aug 2026 |
 | **[Meta](../companies/meta.md)** | [Check for Duplicate within Range](https://trueinterview.io/questions/171ba77d-6489-4fad-8a63-72730222cf83) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/171ba77d-6489-4fad-8a63-72730222cf83) | Aug 2026 |
-| **[Apple](../companies/apple.md)** | [Classify the Difference Between Two Calendar Dates](https://trueinterview.io/questions/1fd937c6-7de8-57d7-9b2d-c96a07d39ab2) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/1fd937c6-7de8-57d7-9b2d-c96a07d39ab2) | Aug 2026 |
 | **[Upstart](../companies/upstart.md)** | [Compute File Size on Disk](https://trueinterview.io/questions/a211b99f-1398-5507-9083-717ef2216133) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a211b99f-1398-5507-9083-717ef2216133) | Aug 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Count Numbers with an Even Number of Digits](https://trueinterview.io/questions/d8685168-d442-5d0b-bd80-b6a7479d500e) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/d8685168-d442-5d0b-bd80-b6a7479d500e) | Aug 2026 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** / [Citadel](../companies/citadel.md) / [Voleon](../companies/voleon.md) | [Count Palindromic Substrings](https://trueinterview.io/questions/palindromic-substrings) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/palindromic-substrings) | Aug 2026 |
@@ -89,7 +88,6 @@
 | **[MongoDB](../companies/mongodb.md)** | [Find a Value by Key in Nested JSON](https://trueinterview.io/questions/b6932b13-bdf4-55b5-b902-2726b5238185) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b6932b13-bdf4-55b5-b902-2726b5238185) | Aug 2026 |
 | **[Google](../companies/google.md)** / [Microsoft](../companies/microsoft.md) / [Verkada](../companies/verkada.md) | [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-common-free-days-2) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** | [Find Duplicates in Integer List](https://trueinterview.io/questions/bd0e2b57-f5bc-4ccc-9f1b-a850c9b902c2) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bd0e2b57-f5bc-4ccc-9f1b-a850c9b902c2) | Aug 2026 |
-| **[Apple](../companies/apple.md)** | [First Unique Element IV](https://trueinterview.io/questions/933927db-2acf-4529-88cf-b16cfd184b00) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/933927db-2acf-4529-88cf-b16cfd184b00) | Aug 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Generate Lexicographically Sorted String Subsets](https://trueinterview.io/questions/0de96483-d0cb-5095-8e67-dc544847a643) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/0de96483-d0cb-5095-8e67-dc544847a643) | Aug 2026 |
 | **[OpenAI](../companies/openai.md)** | [GPU Credit Calculator](https://trueinterview.io/questions/d01fe6d8-e86a-4cf8-b36d-900107f35f74) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/d01fe6d8-e86a-4cf8-b36d-900107f35f74) | Aug 2026 |
 | **[Capital One](../companies/capital-one.md)** / [ByteDance](../companies/bytedance.md) | [House Segments After Deletions](https://trueinterview.io/questions/house-segments-after-deletions) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/house-segments-after-deletions) | Aug 2026 |
@@ -419,5 +417,7 @@
 | **[Capital One](../companies/capital-one.md)** | [Color Match-Three Grid](https://trueinterview.io/questions/color-match-three-grid) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/color-match-three-grid) | Jan 9, 2026 |
 | **[Perplexity](../companies/perplexity.md)** | [Byte Tokenizer](https://trueinterview.io/questions/8edaef48-6a51-41bc-aa63-1a491ca4bcf3) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8edaef48-6a51-41bc-aa63-1a491ca4bcf3) | Jan 6, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Find Earliest Available Meeting Slot](https://trueinterview.io/questions/find-earliest-available-meeting-slot) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-earliest-available-meeting-slot) | Jan 5, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Bagging from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | Jan 4, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [k-Means from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-k-means-from-scratch) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/codesignal-ml-rs-oa-k-means-from-scratch) | Jan 4, 2026 |
 
 <sub>Page **1** · [2](oa-2.md)</sub>

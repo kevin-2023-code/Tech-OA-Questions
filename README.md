@@ -8,7 +8,7 @@
 
 Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anthropic, xAI**, **Citadel, Two Sigma, Squarepoint**, **Meta, Amazon, Google** and 128 more — **every row tagged with the level and the round it was asked in.** Synced hourly.
 
-**4,121 questions** · **2,825 at Senior/Staff+** · **294 ML & research** · **197 quant** · 674 OA · 870 reported in the last 90 days · 398 free
+**4,121 questions** · **2,825 at Senior/Staff+** · **294 ML & research** · **197 quant** · 674 OA · 860 reported in the last 90 days · 395 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
@@ -28,7 +28,7 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 
 **By round:** [📝 OA (674)](rounds/oa.md) · [📞 Phone (2,107)](rounds/phone-screen.md) · [🏢 Onsite (1,640)](rounds/onsite.md) · [🏠 Take-home (10)](rounds/take-home.md)
 
-**By format:** [Coding (2,426)](formats/algorithm.md) · [System design (700)](formats/system-design.md) · [OOD / LLD (589)](formats/object-oriented-programming.md) · [SQL (297)](formats/sql.md) · [AI coding (109)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (398)](lists/free.md)
+**By format:** [Coding (2,426)](formats/algorithm.md) · [System design (700)](formats/system-design.md) · [OOD / LLD (589)](formats/object-oriented-programming.md) · [SQL (297)](formats/sql.md) · [AI coding (109)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (395)](lists/free.md)
 
 ## 📊 What changes as you go up a level
 
@@ -235,7 +235,7 @@ What candidates said happened in the room — newest first, AI labs, quant firms
 | **Uber** | Software Engineer | **Senior** | [Uber Senior Software Engineer Interview Experience](https://trueinterview.io/interviews/b0cbabe9-08e0-4f09-aff4-1a9e1c3313e1) | Sep 27, 2026 |
 | **Stripe** | Software Engineer | **Senior** | [Stripe OA Interview Experience](https://trueinterview.io/interviews/81361fdd-0cb7-47a2-82cf-2dfe921530c8) | Sep 27, 2026 |
 
-[**2,997 reports on the board →**](https://trueinterview.io/interviews)
+[**2,993 reports on the board →**](https://trueinterview.io/interviews)
 
 ## Why this list
 

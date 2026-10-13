@@ -6,7 +6,7 @@
 
 > **Who:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**490 questions** · 490 at Senior/Staff+ · 104 reported in the last 90 days · 25 free to solve
+**490 questions** · 490 at Senior/Staff+ · 103 reported in the last 90 days · 25 free to solve
 
 **Rounds:** 📝 OA (10) · 📞 Phone (231) · 🏢 Onsite (272) · 🏠 Take-home (3)
 
@@ -109,7 +109,6 @@
 | **[ByteDance](../companies/bytedance.md)** | [Evaluate a Migration from MySQL to MongoDB](https://trueinterview.io/questions/evaluate-a-migration-from-mysql-to-mongodb) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/evaluate-a-migration-from-mysql-to-mongodb) | Aug 13, 2026 |
 | **[Airwallex](../companies/airwallex.md)** | [Design a High-Demand Ticketing System](https://trueinterview.io/questions/design-a-high-demand-ticketing-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-high-demand-ticketing-system) | Aug 9, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Bounded Event Stream Unique-Key Queries](https://trueinterview.io/questions/538d12a1-cb8b-5e5c-8a83-6766bfef0c5c) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/538d12a1-cb8b-5e5c-8a83-6766bfef0c5c) | Aug 2026 |
-| **[Pinterest](../companies/pinterest.md)** / [Apple](../companies/apple.md) | [Convert BST to Sorted Doubly Linked List (LC 426)](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Aug 2026 |
 | **[Apple](../companies/apple.md)** | [Design APIs for a Voting System](https://trueinterview.io/questions/design-apis-for-a-voting-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-apis-for-a-voting-system) | Aug 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Design Distributed AI Model Downloader](https://trueinterview.io/questions/distributed-model-deployment-system-design) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/distributed-model-deployment-system-design) | Aug 2026 |
 | **[OpenAI](../companies/openai.md)** / [Atlassian](../companies/atlassian.md) / [Databricks](../companies/databricks.md) / +5 | [Design Distributed Web Crawler](https://trueinterview.io/questions/design-distributed-web-crawler-4) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-distributed-web-crawler-4) | Aug 2026 |
@@ -185,6 +184,7 @@
 | **[Affirm](../companies/affirm.md)** | [Design Installment-Loan Payment Processing](https://trueinterview.io/questions/design-installment-loan-payment-processing) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-installment-loan-payment-processing) | Apr 19, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Mechanistic Interpretability Take-Home — Sample-Aspect Double Descent](https://trueinterview.io/questions/mech-interp-take-home) | Take-home | **Senior** · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/mech-interp-take-home) | Apr 19, 2026 |
 | **[Waymo](../companies/waymo.md)** | [Choose Passenger Drop-off Location](https://trueinterview.io/questions/sd-passenger-dropoff-location-ml) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-passenger-dropoff-location-ml) | Apr 18, 2026 |
+| **[Pinterest](../companies/pinterest.md)** / [Apple](../companies/apple.md) | [Convert BST to Sorted Doubly Linked List (LC 426)](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Apr 18, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a Product Search System](https://trueinterview.io/questions/design-a-product-search-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-product-search-system) | Apr 18, 2026 |
 | **[Meta](../companies/meta.md)** | [DE AI-Native Full-Stack Round](https://trueinterview.io/questions/de-ai-native-full-stack-round) | Phone | Mid · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/de-ai-native-full-stack-round) | Apr 17, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Distributed Job Scheduler / Calendar Service](https://trueinterview.io/questions/sd-job-scheduler) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-job-scheduler) | Apr 17, 2026 |

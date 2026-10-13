@@ -8,6 +8,8 @@
 
 **Rounds:** 📞 Phone (1) · 🏢 Onsite (4)
 
+**📖 Loop guides:** [Overview](https://trueinterview.io/study/gusto-interview-process)
+
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg

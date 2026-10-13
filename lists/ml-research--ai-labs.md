@@ -8,7 +8,7 @@
 >
 > **Where:** Employers the shared company registry files under *AI labs & AI infrastructure* — OpenAI, Anthropic, xAI, Microsoft AI, Perplexity, Scale AI and the rest.
 
-**76 questions** · 68 at Senior/Staff+ · 16 reported in the last 90 days · 5 free to solve
+**76 questions** · 68 at Senior/Staff+ · 15 reported in the last 90 days · 5 free to solve
 
 **Rounds:** 📝 OA (2) · 📞 Phone (38) · 🏢 Onsite (48) · 🏠 Take-home (1)
 
@@ -33,7 +33,6 @@
 | **[C3 AI](../companies/c3-ai.md)** | [Evaluate a Retrieval-Augmented Generation System](https://trueinterview.io/questions/evaluate-a-retrieval-augmented-generation-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/evaluate-a-retrieval-augmented-generation-system) | Aug 21, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Agents / Coding with LLMs](https://trueinterview.io/questions/agents-coding-llm-tool-use) | Phone | New grad · Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/agents-coding-llm-tool-use) | Aug 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Batch Image Processor](https://trueinterview.io/questions/batch-image-processor) | Phone · Onsite | New grad · Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/batch-image-processor) | Aug 2026 |
-| **[Anthropic](../companies/anthropic.md)** | [RL Fundamentals — GRPO Debug](https://trueinterview.io/questions/rl-fundamentals-grpo-debug) | Phone · Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/rl-fundamentals-grpo-debug) | Aug 2026 |
 | **[OpenAI](../companies/openai.md)** | [Sharded Matmul and Backprop Debugging](https://trueinterview.io/questions/sharded-matmul-backprop-debugging) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sharded-matmul-backprop-debugging) | Jul 31, 2026 |
 | **[Microsoft AI](../companies/microsoft-ai.md)** / [Microsoft](../companies/microsoft.md) | [Beam Search Decoding](https://trueinterview.io/questions/beam-search-decoding) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/beam-search-decoding) | Jul 29, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design a Highly Available Conversational AI Service](https://trueinterview.io/questions/design-a-highly-available-conversational-ai-service) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-highly-available-conversational-ai-service) | Jul 17, 2026 |
@@ -73,6 +72,7 @@
 | **[OpenAI](../companies/openai.md)** | [RAG / Search ML Design (oral)](https://trueinterview.io/questions/rag-search-ml-design) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/rag-search-ml-design) | Mar 22, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Code Reading — 400-line PyTorch Refactor](https://trueinterview.io/questions/code-reading-pytorch-refactor) | Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/code-reading-pytorch-refactor) | Mar 9, 2026 |
 | **[Microsoft](../companies/microsoft.md)** / [Microsoft AI](../companies/microsoft-ai.md) | [Streaming Stop Token](https://trueinterview.io/questions/streaming-stop-token-detection) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/streaming-stop-token-detection) | Mar 3, 2026 |
+| **[Anthropic](../companies/anthropic.md)** | [RL Fundamentals — GRPO Debug](https://trueinterview.io/questions/rl-fundamentals-grpo-debug) | Phone · Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/rl-fundamentals-grpo-debug) | Mar 2, 2026 |
 | **[xAI](../companies/xai.md)** / [Amazon](../companies/amazon.md) / [OpenAI](../companies/openai.md) | [Design a RAG System](https://trueinterview.io/questions/design-a-rag-system) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-rag-system) | Mar 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Implement Top-p (Nucleus) Sampling in NumPy](https://trueinterview.io/questions/26db71f3-0ec8-4274-af98-d5bd29bdcf73) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/26db71f3-0ec8-4274-af98-d5bd29bdcf73) | Mar 2026 |
 | **[Anthropic](../companies/anthropic.md)** / [OpenAI](../companies/openai.md) | [ML Programming Screen — QKV Attention & einsum](https://trueinterview.io/questions/ml-programming-screen) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ml-programming-screen) | Feb 18, 2026 |

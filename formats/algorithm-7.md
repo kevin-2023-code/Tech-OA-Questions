@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,426 questions** · 1,416 at Senior/Staff+ · 534 reported in the last 90 days · 288 free to solve
+**2,426 questions** · 1,416 at Senior/Staff+ · 526 reported in the last 90 days · 285 free to solve
 
 **Rounds:** 📝 OA (548) · 📞 Phone (1,453) · 🏢 Onsite (615) · 🏠 Take-home (2)
 
@@ -19,8 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| — | [Subtree of Another Tree](https://trueinterview.io/questions/subtree-of-another-tree) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/subtree-of-another-tree) | — |
-| **[Meta](../companies/meta.md)** | [Sum of Elements Between Two Numbers](https://trueinterview.io/questions/5372bd2a-ef24-4fab-91fa-e7fa5c798b91) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/5372bd2a-ef24-4fab-91fa-e7fa5c798b91) | — |
 | **[Affirm](../companies/affirm.md)** | [Sum of Islands Max](https://trueinterview.io/questions/sum-of-islands-max) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sum-of-islands-max) | — |
 | — | [Sum of Two Integers](https://trueinterview.io/questions/sum-of-two-integers) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sum-of-two-integers) | — |
 | **[Palantir](../companies/palantir.md)** / [SoFi](../companies/sofi.md) | [Swap Parity](https://trueinterview.io/questions/cf402112-727c-4f9f-b976-8d9352ad3615) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/cf402112-727c-4f9f-b976-8d9352ad3615) | — |
@@ -29,6 +27,7 @@
 | **[Shopify](../companies/shopify.md)** | [Terminal Robot Simulator with Multiple Robots](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | — |
 | **[GEICO](../companies/geico.md)** | [Text Editor String Operations: Insert, Delete, Get Character](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Tool Changer](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | — |
+| **[Amazon](../companies/amazon.md)** | [Top-to-Bottom Reachability and Minimum-Cost Paths in a Binary Grid](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | — |
 | **[Block](../companies/block.md)** | [Tournament Progression Chart with JavaScript Simulation and UI](https://trueinterview.io/questions/5d30d8fe-838b-4c5a-9e01-a47461a797fc) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/5d30d8fe-838b-4c5a-9e01-a47461a797fc) | — |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Track simulations and report timeouts](https://trueinterview.io/questions/track-simulations-and-report-timeouts) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/track-simulations-and-report-timeouts) | — |
 | **[Boston Consulting Group](../companies/boston-consulting-group.md)** | [Transform and aggregate messy event data](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | — |
@@ -41,6 +40,7 @@
 | **[Meta](../companies/meta.md)** | [Validate complete binary tree](https://trueinterview.io/questions/validate-complete-binary-tree) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-complete-binary-tree) | — |
 | **[Google](../companies/google.md)** | [Validate Tree Given Parent Array](https://trueinterview.io/questions/783f51be-4588-4e1e-ad45-e296bf8082d7) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/783f51be-4588-4e1e-ad45-e296bf8082d7) | — |
 | **[Meta](../companies/meta.md)** | [Validate Word Abbreviation With Numeric Substrings](https://trueinterview.io/questions/a4c89deb-7388-4d5c-a0c9-776a23ed31aa) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/a4c89deb-7388-4d5c-a0c9-776a23ed31aa) | — |
+| **[Snowflake](../companies/snowflake.md)** | [Vowel Substring](https://trueinterview.io/questions/1d80c735-5231-4343-a34b-0dade4106bdb) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/1d80c735-5231-4343-a34b-0dade4106bdb) | — |
 | **[Confluent](../companies/confluent.md)** | [Wildcard Matching](https://trueinterview.io/questions/wildcard-matching) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/wildcard-matching) | — |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** / [Google](../companies/google.md) | [Winner in a Dot Grid Game](https://trueinterview.io/questions/winner-in-a-dot-grid-game-2) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/winner-in-a-dot-grid-game-2) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Word Compression](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | — |

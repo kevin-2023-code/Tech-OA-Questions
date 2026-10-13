@@ -8,6 +8,8 @@
 
 **Rounds:** 📝 OA (1) · 📞 Phone (5)
 
+**📖 Loop guides:** [Overview](https://trueinterview.io/study/bobyard-interview-process)
+
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg

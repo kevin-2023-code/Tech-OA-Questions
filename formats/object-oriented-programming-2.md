@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**589 questions** · 418 at Senior/Staff+ · 121 reported in the last 90 days · 61 free to solve
+**589 questions** · 418 at Senior/Staff+ · 120 reported in the last 90 days · 61 free to solve
 
 **Rounds:** 📝 OA (45) · 📞 Phone (214) · 🏢 Onsite (389) · 🏠 Take-home (1)
 
@@ -19,9 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Atlassian](../companies/atlassian.md)** | [Customer Service Rating](https://trueinterview.io/questions/customer-service-rating) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/customer-service-rating) | Feb 2026 |
-| **[Bloomberg](../companies/bloomberg.md)** | [Design an Ordered Stream](https://trueinterview.io/questions/03ad9796-e965-4a19-8245-bf84d20faefc) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/03ad9796-e965-4a19-8245-bf84d20faefc) | Feb 2026 |
-| **[OpenAI](../companies/openai.md)** | [GPU Credits II (Modified): Balance Query Returns None When Subtract Fails](https://trueinterview.io/questions/27d03a78-b011-4752-b7f4-b9aa6f92ad54) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/27d03a78-b011-4752-b7f4-b9aa6f92ad54) | Feb 2026 |
 | **[Sigmacomputing](../companies/sigmacomputing.md)** | [Implement a SigmaTable layer that builds computed columns and summaries on top of a data warehouse table without storing customer data](https://trueinterview.io/questions/c1c46947-457b-4138-afd0-d9ca9e90151d) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c1c46947-457b-4138-afd0-d9ca9e90151d) | Feb 2026 |
 | **[Databricks](../companies/databricks.md)** | [Lazy Array (Delayed Evaluation Array)](https://trueinterview.io/questions/240da66e-fee4-4897-a81e-75c7dad94bff) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/240da66e-fee4-4897-a81e-75c7dad94bff) | Feb 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [LLM Training Dataset Quality Check for Excel Copilot Tasks](https://trueinterview.io/questions/cca976aa-f821-4b1f-ba1a-44dafd0b7d8d) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cca976aa-f821-4b1f-ba1a-44dafd0b7d8d) | Feb 2026 |
@@ -182,11 +179,13 @@
 | **[Netflix](../companies/netflix.md)** | [Countdown Latch](https://trueinterview.io/questions/countdown-latch) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/countdown-latch) | — |
 | **[Shopify](../companies/shopify.md)** | [Design a 2D Robot with Turning and Movement + CLI](https://trueinterview.io/questions/a917e16a-22aa-4528-9a7f-f579c8782e91) | Onsite | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a917e16a-22aa-4528-9a7f-f579c8782e91) | — |
 | **[Google](../companies/google.md)** | [Design Bookshelf Class](https://trueinterview.io/questions/f5a2b1e1-d029-4c8b-8917-96b16beaf8f4) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f5a2b1e1-d029-4c8b-8917-96b16beaf8f4) | — |
+| **[Amazon](../companies/amazon.md)** / [Salesforce](../companies/salesforce.md) | [Design Elevator Control System](https://trueinterview.io/questions/design-elevator-control-system) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-elevator-control-system) | — |
 | **[Coinbase](../companies/coinbase.md)** / [Anthropic](../companies/anthropic.md) / [HubSpot](../companies/hubspot.md) / +2 | [Design In-memory Database with Backup](https://trueinterview.io/questions/design-in-memory-database-with-backup-2) | OA · Onsite | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-in-memory-database-with-backup-2) | — |
 | **[Confluent](../companies/confluent.md)** | [Design Infinite Queue with GetRandom O(1)](https://trueinterview.io/questions/design-infinite-queue-with-getrandom-o-1) | Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-infinite-queue-with-getrandom-o-1) | — |
 | **[Capital One](../companies/capital-one.md)** | [Design late-tolerant streaming window aggregator](https://trueinterview.io/questions/design-late-tolerant-streaming-window-aggregator) | Phone | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-late-tolerant-streaming-window-aggregator) | — |
 | **[Confluent](../companies/confluent.md)** | [Design Scalable TinyURL Service with One-to-One URL Mapping](https://trueinterview.io/questions/de4acc6e-512d-4f63-8ca0-4520fda00b7a) | Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/de4acc6e-512d-4f63-8ca0-4520fda00b7a) | — |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Design System for Downstream Data Retrieval](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | Onsite | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | — |
+| **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
 | **[Amazon](../companies/amazon.md)** | [Design Unix File Search](https://trueinterview.io/questions/design-unix-file-search) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-file-search) | — |
 | **[xAI](../companies/xai.md)** | [Durable KV Cache](https://trueinterview.io/questions/durable-kv-cache) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/durable-kv-cache) | — |
 | **[Gusto](../companies/gusto.md)** | [Efficient Key-Value Store with Insert, Retrieve, Delete Operations](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | — |
@@ -206,6 +205,7 @@
 | **[StackAdapt](../companies/stackadapt.md)** | [SongShuffler with Cooldown to Prevent Recent Repeats](https://trueinterview.io/questions/f2ece2d0-63e8-4cff-8b0b-adcbdb3fd61a) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f2ece2d0-63e8-4cff-8b0b-adcbdb3fd61a) | — |
 | **[OpenAI](../companies/openai.md)** | [Spreadsheet Implementation with Cycle Detection and Caching](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | — |
 | **[Airtable](../companies/airtable.md)** | [Table Editing](https://trueinterview.io/questions/85fd5957-a580-4a82-b7b0-a1c5d8c86f27) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/85fd5957-a580-4a82-b7b0-a1c5d8c86f27) | — |
+| **[LinkedIn](../companies/linkedin.md)** / [Meta](../companies/meta.md) | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |
 | **[Coinbase](../companies/coinbase.md)** | [Transaction History System with Add, Delete, and Balance Calculation](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | — |
 | **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/windowed-key-value-store) | — |
 
