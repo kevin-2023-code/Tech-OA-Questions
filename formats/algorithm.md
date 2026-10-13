@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,426 questions** · 1,416 at Senior/Staff+ · 536 reported in the last 90 days · 288 free to solve
+**2,426 questions** · 1,416 at Senior/Staff+ · 534 reported in the last 90 days · 288 free to solve
 
 **Rounds:** 📝 OA (548) · 📞 Phone (1,453) · 🏢 Onsite (615) · 🏠 Take-home (2)
 
@@ -233,8 +233,8 @@
 | **[Squarepoint](../companies/squarepoint.md)** | [Count Files Safely from Bash](https://trueinterview.io/questions/count-files-safely-from-bash) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-files-safely-from-bash) | 🆕 Aug 29, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Find Values Whose Removal Minimizes Pairing Cost](https://trueinterview.io/questions/find-values-whose-removal-minimizes-pairing-cost) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-values-whose-removal-minimizes-pairing-cost) | 🆕 Aug 29, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** / [Uber](../companies/uber.md) | [Shortest Subarray with at Least K Distinct Values](https://trueinterview.io/questions/shortest-subarray-with-at-least-k-distinct-values) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-subarray-with-at-least-k-distinct-values) | 🆕 Aug 29, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Accounts Merge (LC 721)](https://trueinterview.io/questions/accounts-merge-lc721) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/accounts-merge-lc721) | 🆕 Aug 28, 2026 |
-| **[Snapchat](../companies/snapchat.md)** | [Find the Smallest Range Covering K Sorted Lists](https://trueinterview.io/questions/find-the-smallest-range-covering-k-sorted-lists) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-smallest-range-covering-k-sorted-lists) | 🆕 Aug 28, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Accounts Merge (LC 721)](https://trueinterview.io/questions/accounts-merge-lc721) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/accounts-merge-lc721) | Aug 28, 2026 |
+| **[Snapchat](../companies/snapchat.md)** | [Find the Smallest Range Covering K Sorted Lists](https://trueinterview.io/questions/find-the-smallest-range-covering-k-sorted-lists) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-smallest-range-covering-k-sorted-lists) | Aug 28, 2026 |
 | **[Palantir](../companies/palantir.md)** | [Apply Item Coupons with Exact Per-Item Cent Rounding](https://trueinterview.io/questions/apply-item-coupons-with-exact-per-item-cent-rounding) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/apply-item-coupons-with-exact-per-item-cent-rounding) | Aug 27, 2026 |
 | **[Waymo](../companies/waymo.md)** | [Minimize Total Grid Distance to Every Building](https://trueinterview.io/questions/minimize-total-grid-distance-to-every-building) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimize-total-grid-distance-to-every-building) | Aug 27, 2026 |
 | **[IBM](../companies/ibm.md)** | [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Aug 27, 2026 |
