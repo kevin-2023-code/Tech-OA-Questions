@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**589 questions** · 418 at Senior/Staff+ · 121 reported in the last 90 days · 61 free to solve
+**589 questions** · 418 at Senior/Staff+ · 120 reported in the last 90 days · 61 free to solve
 
 **Rounds:** 📝 OA (45) · 📞 Phone (214) · 🏢 Onsite (389) · 🏠 Take-home (1)
 
@@ -77,7 +77,7 @@
 | **[Airbnb](../companies/airbnb.md)** | [Design an In-Memory Object Manager with TTL](https://trueinterview.io/questions/design-an-in-memory-object-manager-with-ttl) | OA | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-object-manager-with-ttl) | 🆕 Aug 30, 2026 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Locate Cars with a Boolean Square-Scan API](https://trueinterview.io/questions/locate-cars-with-a-boolean-square-scan-api) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/locate-cars-with-a-boolean-square-scan-api) | 🆕 Aug 30, 2026 |
 | **[Disney](../companies/disney.md)** | [Thread-Safe Buffered Batch Writer for Streaming Records into a Database](https://trueinterview.io/questions/thread-safe-buffered-batch-writer-for-streaming-records-into-a-database) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/thread-safe-buffered-batch-writer-for-streaming-records-into-a-database) | 🆕 Aug 30, 2026 |
-| **[Airbnb](../companies/airbnb.md)** | [Define a File Store with User Quotas and Compression](https://trueinterview.io/questions/define-a-file-store-with-user-quotas-and-compression) | OA | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/define-a-file-store-with-user-quotas-and-compression) | 🆕 Aug 29, 2026 |
+| **[Airbnb](../companies/airbnb.md)** | [Define a File Store with User Quotas and Compression](https://trueinterview.io/questions/define-a-file-store-with-user-quotas-and-compression) | OA | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/define-a-file-store-with-user-quotas-and-compression) | Aug 29, 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Design and Implement a Thread-Safe LRU Cache](https://trueinterview.io/questions/design-and-implement-a-thread-safe-lru-cache) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-implement-a-thread-safe-lru-cache) | Aug 28, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Model Elevator Dispatch for Sequential and Overlapping Calls](https://trueinterview.io/questions/model-elevator-dispatch-for-sequential-and-overlapping-calls) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/model-elevator-dispatch-for-sequential-and-overlapping-calls) | Aug 28, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Model Infection, Immunity, Delayed Death, and Burn Interventions on a Grid](https://trueinterview.io/questions/model-infection-immunity-delayed-death-and-burn-interventions-on-a-grid) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/model-infection-immunity-delayed-death-and-burn-interventions-on-a-grid) | Aug 27, 2026 |

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**1,640 questions** · 1,323 at Senior/Staff+ · 361 reported in the last 90 days · 115 free to solve
+**1,640 questions** · 1,323 at Senior/Staff+ · 360 reported in the last 90 days · 115 free to solve
 
 **By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (537)
 
@@ -184,7 +184,7 @@
 | **[Microsoft](../companies/microsoft.md)** | [Keep Stable Unique Column Names Across Schema Changes](https://trueinterview.io/questions/keep-stable-unique-column-names-across-schema-changes) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/keep-stable-unique-column-names-across-schema-changes) | 🆕 Aug 30, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Recover Sorted Digits from Scrambled English Number Words](https://trueinterview.io/questions/recover-sorted-digits-from-scrambled-english-number-words) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/recover-sorted-digits-from-scrambled-english-number-words) | 🆕 Aug 30, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Top Songs by Country Leaderboard](https://trueinterview.io/questions/top-songs-by-country-leaderboard) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/top-songs-by-country-leaderboard) | 🆕 Aug 30, 2026 |
-| **[Google](../companies/google.md)** | [Large-Scale Interactive Map Visualization](https://trueinterview.io/questions/interactive-map-100m-datapoints) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/interactive-map-100m-datapoints) | 🆕 Aug 29, 2026 |
+| **[Google](../companies/google.md)** | [Large-Scale Interactive Map Visualization](https://trueinterview.io/questions/interactive-map-100m-datapoints) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/interactive-map-100m-datapoints) | Aug 29, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Accounts Merge (LC 721)](https://trueinterview.io/questions/accounts-merge-lc721) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/accounts-merge-lc721) | Aug 28, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Model Elevator Dispatch for Sequential and Overlapping Calls](https://trueinterview.io/questions/model-elevator-dispatch-for-sequential-and-overlapping-calls) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/model-elevator-dispatch-for-sequential-and-overlapping-calls) | Aug 28, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Design Distributed Sorting Around an Explicit Helper Contract](https://trueinterview.io/questions/design-distributed-sorting-around-an-explicit-helper-contract) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-distributed-sorting-around-an-explicit-helper-contract) | Aug 27, 2026 |
