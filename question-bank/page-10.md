@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**4,121 questions** · 2,825 at Senior/Staff+ · 865 reported in the last 90 days · 395 free to solve
+**4,121 questions** · 2,821 at Senior/Staff+ · 862 reported in the last 90 days · 395 free to solve
 
 **Rounds:** 📝 OA (674) · 📞 Phone (2,107) · 🏢 Onsite (1,640) · 🏠 Take-home (10)
 
@@ -188,7 +188,7 @@
 | **[Thumbtack](../companies/thumbtack.md)** | [Design streaming new-vs-returning monthly metrics](https://trueinterview.io/questions/design-streaming-new-vs-returning-monthly-metrics) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-streaming-new-vs-returning-monthly-metrics) | — |
 | **[Amazon](../companies/amazon.md)** | [Design student–course data models and SQL](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | Onsite | **Senior** · **Staff+** | SQL | [![Practice][p]](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | — |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Design System for Downstream Data Retrieval](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | Onsite | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | — |
-| **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
+| **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
 | **[Amazon](../companies/amazon.md)** | [Design Unix File Search](https://trueinterview.io/questions/design-unix-file-search) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-file-search) | — |
 | **[Yelp](../companies/yelp.md)** / [Uber](../companies/uber.md) | [Design Yelp](https://trueinterview.io/questions/design-yelp-2) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-yelp-2) | — |
 | **[Visa](../companies/visa.md)** | [Designing Real-Time Instant Messaging Application with Media Support](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | — |
@@ -223,7 +223,7 @@
 | **[Moveworks](../companies/moveworks.md)** | [Find Maximum Number of Strings](https://trueinterview.io/questions/3e15b4f6-57e4-466f-a91d-f7ce9dd81019) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/3e15b4f6-57e4-466f-a91d-f7ce9dd81019) | — |
 | **[Amazon](../companies/amazon.md)** | [Find Middle and Cycle Start in Linked List](https://trueinterview.io/questions/77fafabb-4814-4d6d-a77a-8490798dc751) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/77fafabb-4814-4d6d-a77a-8490798dc751) | — |
 | **[Cisco](../companies/cisco.md)** | [Find Minimum Cost to Shift Machines](https://trueinterview.io/questions/71de7e3c-61cc-4603-a234-49b9aef8e4ad) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/71de7e3c-61cc-4603-a234-49b9aef8e4ad) | — |
-| **[Salesforce](../companies/salesforce.md)** | [Find Minimum Idleness](https://trueinterview.io/questions/b08f5fe9-fac6-4eb6-bed8-55c09b0b46fe) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b08f5fe9-fac6-4eb6-bed8-55c09b0b46fe) | — |
+| **[Salesforce](../companies/salesforce.md)** | [Find Minimum Idleness](https://trueinterview.io/questions/b08f5fe9-fac6-4eb6-bed8-55c09b0b46fe) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b08f5fe9-fac6-4eb6-bed8-55c09b0b46fe) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Find Missing and Duplicate Number in an Array](https://trueinterview.io/questions/0d030286-48a6-45c2-8f5d-d66af3b65f86) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/0d030286-48a6-45c2-8f5d-d66af3b65f86) | — |
 | **[Google](../companies/google.md)** | [Find most co‑purchased product pairs in SQL](https://trueinterview.io/questions/find-most-copurchased-product-pairs-in-sql) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/find-most-copurchased-product-pairs-in-sql) | — |
 | **[PayPal](../companies/paypal.md)** | [Find Reachable Good Endings in Choose Your Own Adventure Book](https://trueinterview.io/questions/15808a55-af32-4748-a811-48bd2ef1f829) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/15808a55-af32-4748-a811-48bd2ef1f829) | — |

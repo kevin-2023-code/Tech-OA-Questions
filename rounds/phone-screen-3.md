@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,107 questions** · 1,508 at Senior/Staff+ · 465 reported in the last 90 days · 212 free to solve
+**2,107 questions** · 1,506 at Senior/Staff+ · 464 reported in the last 90 days · 212 free to solve
 
 **By employer group:** 🧠 AI labs (183) · 📈 Quant firms (139) · 🏛️ MAANG+ (592)
 
@@ -81,7 +81,7 @@
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Meta](../companies/meta.md) | [Nearest Exit in a 2D Grid (BFS)](https://trueinterview.io/questions/f81c8862-7d95-4d4f-9537-73b6b1642297) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f81c8862-7d95-4d4f-9537-73b6b1642297) | May 2026 |
 | **[Waymo](../companies/waymo.md)** | [Optimize Tensor Runtime Kernels](https://trueinterview.io/questions/optimize-tensor-runtime-kernels) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/optimize-tensor-runtime-kernels) | May 2026 |
 | **[Meta](../companies/meta.md)** | [Optimize Word Container / String Matching Queries (ParanoidEcho)](https://trueinterview.io/questions/32cfb5cb-1695-45bf-9da9-61408d95d237) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/32cfb5cb-1695-45bf-9da9-61408d95d237) | May 2026 |
-| **[Reddit](../companies/reddit.md)** | [Reconstruct Billing Status](https://trueinterview.io/questions/billing-status-replay-ood) | Phone · Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/billing-status-replay-ood) | May 2026 |
+| **[Reddit](../companies/reddit.md)** | [Reconstruct Billing Status](https://trueinterview.io/questions/billing-status-replay-ood) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/billing-status-replay-ood) | May 2026 |
 | **[Capital One](../companies/capital-one.md)** / [WeRide](../companies/weride.md) | [Reorder a Singly Linked List in L0→Ln→L1→Ln-1… Order](https://trueinterview.io/questions/e27d7596-6980-4345-a298-499dd7bbad87) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e27d7596-6980-4345-a298-499dd7bbad87) | May 2026 |
 | **[Amazon](../companies/amazon.md)** | [Replace tokens in a string using delimiter-based key-value rules](https://trueinterview.io/questions/901b3947-032c-4b3b-9e08-90eb36b9d95b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/901b3947-032c-4b3b-9e08-90eb36b9d95b) | May 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Cisco](../companies/cisco.md) / +1 | [Rotate a Matrix by 90 Degrees In Place](https://trueinterview.io/questions/8d60f16e-18e8-4945-a6a8-affa6c78ae56) | OA · Phone · Onsite | Intern · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/8d60f16e-18e8-4945-a6a8-affa6c78ae56) | May 2026 |

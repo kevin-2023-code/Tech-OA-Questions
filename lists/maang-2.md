@@ -6,7 +6,7 @@
 
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,171 questions** · 832 at Senior/Staff+ · 308 reported in the last 90 days · 70 free to solve
+**1,171 questions** · 829 at Senior/Staff+ · 308 reported in the last 90 days · 70 free to solve
 
 **Rounds:** 📝 OA (139) · 📞 Phone (592) · 🏢 Onsite (537) · 🏠 Take-home (1)
 
@@ -195,7 +195,7 @@
 | **[Amazon](../companies/amazon.md)** | [Array Generation Service](https://trueinterview.io/questions/lex-largest-string-via-state-flips) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/lex-largest-string-via-state-flips) | Apr 19, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [SFT Sample Packing](https://trueinterview.io/questions/sft-sample-packing) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sft-sample-packing) | Apr 19, 2026 |
 | **[Apple](../companies/apple.md)** | [Ads Click Aggregator](https://trueinterview.io/questions/ad-click-aggregator) | Phone · Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/ad-click-aggregator) | Apr 18, 2026 |
-| **[Pinterest](../companies/pinterest.md)** / [Apple](../companies/apple.md) | [Convert BST to Sorted Doubly Linked List (LC 426)](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Apr 18, 2026 |
+| **[Pinterest](../companies/pinterest.md)** / [Apple](../companies/apple.md) | [Convert BST to Sorted Doubly Linked List (LC 426)](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Onsite | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Apr 18, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a Product Search System](https://trueinterview.io/questions/design-a-product-search-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-product-search-system) | Apr 18, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Implement K-Means and Detect Divisible Subarrays](https://trueinterview.io/questions/implement-k-means-and-detect-divisible-subarrays) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-k-means-and-detect-divisible-subarrays) | Apr 18, 2026 |
 | **[Tesla](../companies/tesla.md)** / [Microsoft](../companies/microsoft.md) | [Minimum Absolute Difference Pairs](https://trueinterview.io/questions/minimum-absolute-difference-pairs) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-absolute-difference-pairs) | Apr 18, 2026 |

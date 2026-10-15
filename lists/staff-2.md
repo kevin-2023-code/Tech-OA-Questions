@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**490 questions** · 490 at Senior/Staff+ · 103 reported in the last 90 days · 25 free to solve
+**488 questions** · 488 at Senior/Staff+ · 103 reported in the last 90 days · 25 free to solve
 
-**Rounds:** 📝 OA (10) · 📞 Phone (231) · 🏢 Onsite (272) · 🏠 Take-home (3)
+**Rounds:** 📝 OA (10) · 📞 Phone (229) · 🏢 Onsite (272) · 🏠 Take-home (3)
 
-**Companies:** [Meta (70)](../companies/meta.md) · [Amazon (39)](../companies/amazon.md) · [OpenAI (30)](../companies/openai.md) · [ByteDance (29)](../companies/bytedance.md) · [Google (27)](../companies/google.md) · [LinkedIn (27)](../companies/linkedin.md) · [Microsoft (25)](../companies/microsoft.md) · [Uber (17)](../companies/uber.md) · [Roblox (16)](../companies/roblox.md) · [Databricks (15)](../companies/databricks.md) · [Apple (13)](../companies/apple.md) · [DoorDash (13)](../companies/doordash.md) · [Pinterest (13)](../companies/pinterest.md) · [Capital One (12)](../companies/capital-one.md) · [Airbnb (11)](../companies/airbnb.md)
+**Companies:** [Meta (70)](../companies/meta.md) · [Amazon (39)](../companies/amazon.md) · [OpenAI (30)](../companies/openai.md) · [ByteDance (29)](../companies/bytedance.md) · [Google (27)](../companies/google.md) · [LinkedIn (27)](../companies/linkedin.md) · [Microsoft (25)](../companies/microsoft.md) · [Uber (17)](../companies/uber.md) · [Roblox (16)](../companies/roblox.md) · [Databricks (15)](../companies/databricks.md) · [DoorDash (13)](../companies/doordash.md) · [Pinterest (13)](../companies/pinterest.md) · [Apple (12)](../companies/apple.md) · [Capital One (12)](../companies/capital-one.md) · [Airbnb (11)](../companies/airbnb.md)
 
 <sub>Page [1](staff.md) · **2**</sub>
 
@@ -21,8 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Stripe](../companies/stripe.md)** | [Design an idempotent SQL ETL for late data](https://trueinterview.io/questions/design-an-idempotent-sql-etl-for-late-data) | Phone | **Senior** · **Staff+** | SQL | [![Practice][p]](https://trueinterview.io/questions/design-an-idempotent-sql-etl-for-late-data) | — |
-| **[Amazon](../companies/amazon.md)** | [Design an operations dashboard with justifications](https://trueinterview.io/questions/design-an-operations-dashboard-with-justifications) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-operations-dashboard-with-justifications) | — |
 | **[NVIDIA](../companies/nvidia.md)** | [Design and explain robust web APIs for ML inference](https://trueinterview.io/questions/design-and-explain-robust-web-apis-for-ml-inference) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-and-explain-robust-web-apis-for-ml-inference) | — |
 | **[Boston Consulting Group](../companies/boston-consulting-group.md)** | [Design and sample for credit default prediction](https://trueinterview.io/questions/design-and-sample-for-credit-default-prediction) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-and-sample-for-credit-default-prediction) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Design and validate a cost-sensitive classifier](https://trueinterview.io/questions/design-and-validate-a-cost-sensitive-classifier) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-and-validate-a-cost-sensitive-classifier) | — |

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**589 questions** · 418 at Senior/Staff+ · 120 reported in the last 90 days · 61 free to solve
+**589 questions** · 416 at Senior/Staff+ · 120 reported in the last 90 days · 61 free to solve
 
 **Rounds:** 📝 OA (45) · 📞 Phone (214) · 🏢 Onsite (389) · 🏠 Take-home (1)
 
@@ -172,7 +172,7 @@
 | **[PayPal](../companies/paypal.md)** | [API Call and Data Processing](https://trueinterview.io/questions/69704f7c-4eae-4ac6-a2f9-e547e1e42039) | Onsite | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/69704f7c-4eae-4ac6-a2f9-e547e1e42039) | Mar 2025 |
 | **[Oracle](../companies/oracle.md)** | [Body-Temperature Measurement Classes](https://trueinterview.io/questions/ood-patient-temperature-classes) | Onsite | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/ood-patient-temperature-classes) | Jan 15, 2025 |
 | **[Lyft](../companies/lyft.md)** | [Alien Base Attack](https://trueinterview.io/questions/alien-base-attack) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/alien-base-attack) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Bank System Class with Deposit, Withdraw, and Balance Check](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Bank System Class with Deposit, Withdraw, and Balance Check](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | Onsite | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | — |
 | **[Intuit](../companies/intuit.md)** | [BankAccount Deposit and Withdraw Methods with Tests](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | — |
 | **[Cisco](../companies/cisco.md)** | [Chessboard Piece Placement with Opposite Color Constraints](https://trueinterview.io/questions/d4eb414f-978e-4cea-acc3-df07a404c79f) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/d4eb414f-978e-4cea-acc3-df07a404c79f) | — |
 | **[Amazon](../companies/amazon.md)** | [Concurrent Job Scheduler](https://trueinterview.io/questions/6010f396-e828-4075-a3c9-73203ba748bf) | Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/6010f396-e828-4075-a3c9-73203ba748bf) | — |
@@ -185,7 +185,7 @@
 | **[Capital One](../companies/capital-one.md)** | [Design late-tolerant streaming window aggregator](https://trueinterview.io/questions/design-late-tolerant-streaming-window-aggregator) | Phone | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-late-tolerant-streaming-window-aggregator) | — |
 | **[Confluent](../companies/confluent.md)** | [Design Scalable TinyURL Service with One-to-One URL Mapping](https://trueinterview.io/questions/de4acc6e-512d-4f63-8ca0-4520fda00b7a) | Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/de4acc6e-512d-4f63-8ca0-4520fda00b7a) | — |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Design System for Downstream Data Retrieval](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | Onsite | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | — |
-| **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
+| **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
 | **[Amazon](../companies/amazon.md)** | [Design Unix File Search](https://trueinterview.io/questions/design-unix-file-search) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-file-search) | — |
 | **[xAI](../companies/xai.md)** | [Durable KV Cache](https://trueinterview.io/questions/durable-kv-cache) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/durable-kv-cache) | — |
 | **[Gusto](../companies/gusto.md)** | [Efficient Key-Value Store with Insert, Retrieve, Delete Operations](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | — |

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**4,121 questions** · 2,825 at Senior/Staff+ · 865 reported in the last 90 days · 395 free to solve
+**4,121 questions** · 2,821 at Senior/Staff+ · 862 reported in the last 90 days · 395 free to solve
 
 **Rounds:** 📝 OA (674) · 📞 Phone (2,107) · 🏢 Onsite (1,640) · 🏠 Take-home (10)
 
@@ -159,7 +159,7 @@
 | **[Apple](../companies/apple.md)** / [ByteDance](../companies/bytedance.md) | [Shortest Path in a Grid with Obstacle Removal](https://trueinterview.io/questions/shortest-path-in-grid-with-obstacle-removal) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-path-in-grid-with-obstacle-removal) | Jun 2026 |
 | **[OpenAI](../companies/openai.md)** / [Uber](../companies/uber.md) | [Snapshot Social Graph](https://trueinterview.io/questions/social-network-with-snapshots) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/social-network-with-snapshots) | Jun 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Sort Colors in a RecordCollection In-Place](https://trueinterview.io/questions/6402ad69-f7b4-5827-a495-d1f675ef19eb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/6402ad69-f7b4-5827-a495-d1f675ef19eb) | Jun 2026 |
-| **[Salesforce](../companies/salesforce.md)** | [Split Array into K Parts with Minimum Sum of Maxima](https://trueinterview.io/questions/54c46fcb-af9b-4954-80f6-8f6bd2449d00) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/54c46fcb-af9b-4954-80f6-8f6bd2449d00) | Jun 2026 |
+| **[Salesforce](../companies/salesforce.md)** | [Split Array into K Parts with Minimum Sum of Maxima](https://trueinterview.io/questions/54c46fcb-af9b-4954-80f6-8f6bd2449d00) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/54c46fcb-af9b-4954-80f6-8f6bd2449d00) | Jun 2026 |
 | **[Anthropic](../companies/anthropic.md)** / [Google](../companies/google.md) | [String Tokenization](https://trueinterview.io/questions/coding-q6-tokenizer) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/coding-q6-tokenizer) | Jun 2026 |
 | **[Rippling](../companies/rippling.md)** / [Meta](../companies/meta.md) | [Task Management Filtering and Sorting](https://trueinterview.io/questions/159a317a-4e4a-5e58-8900-ec4aae417823) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/159a317a-4e4a-5e58-8900-ec4aae417823) | Jun 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Task Scheduling to Minimize Overall Completion Deadline (with Dependencies and Heap Optimization)](https://trueinterview.io/questions/69a906b1-a3e0-43a1-a3c1-267fc6556d5c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/69a906b1-a3e0-43a1-a3c1-267fc6556d5c) | Jun 2026 |

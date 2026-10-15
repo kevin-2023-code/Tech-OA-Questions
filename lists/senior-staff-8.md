@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**2,825 questions** · 2,825 at Senior/Staff+ · 641 reported in the last 90 days · 223 free to solve
+**2,821 questions** · 2,821 at Senior/Staff+ · 638 reported in the last 90 days · 223 free to solve
 
-**Rounds:** 📝 OA (226) · 📞 Phone (1,508) · 🏢 Onsite (1,323) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (226) · 📞 Phone (1,506) · 🏢 Onsite (1,321) · 🏠 Take-home (8)
 
-**Companies:** [Meta (278)](../companies/meta.md) · [Amazon (186)](../companies/amazon.md) · [Google (181)](../companies/google.md) · [ByteDance (174)](../companies/bytedance.md) · [Uber (162)](../companies/uber.md) · [OpenAI (136)](../companies/openai.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (106)](../companies/apple.md) · [LinkedIn (105)](../companies/linkedin.md) · [DoorDash (86)](../companies/doordash.md) · [Pinterest (82)](../companies/pinterest.md) · [Snowflake (78)](../companies/snowflake.md) · [Netflix (77)](../companies/netflix.md) · [Oracle (70)](../companies/oracle.md) · [Databricks (68)](../companies/databricks.md)
+**Companies:** [Meta (277)](../companies/meta.md) · [Amazon (184)](../companies/amazon.md) · [Google (181)](../companies/google.md) · [ByteDance (174)](../companies/bytedance.md) · [Uber (162)](../companies/uber.md) · [OpenAI (136)](../companies/openai.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (105)](../companies/apple.md) · [LinkedIn (105)](../companies/linkedin.md) · [DoorDash (86)](../companies/doordash.md) · [Pinterest (82)](../companies/pinterest.md) · [Snowflake (78)](../companies/snowflake.md) · [Netflix (77)](../companies/netflix.md) · [Oracle (70)](../companies/oracle.md) · [Databricks (68)](../companies/databricks.md)
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · **8**</sub>
 
@@ -21,10 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Netflix](../companies/netflix.md)** | [Write SQL for rolling frequency caps](https://trueinterview.io/questions/write-sql-for-rolling-frequency-caps) | Onsite | **Senior** · **Staff+** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-rolling-frequency-caps) | — |
-| **[Stripe](../companies/stripe.md)** | [Write SQL for snapshot features and labels](https://trueinterview.io/questions/write-sql-for-snapshot-features-and-labels) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-snapshot-features-and-labels) | — |
-| **[Meta](../companies/meta.md)** | [Write SQL for social feed metrics and ties](https://trueinterview.io/questions/write-sql-for-social-feed-metrics-and-ties) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-social-feed-metrics-and-ties) | — |
-| **[Capital One](../companies/capital-one.md)** | [Write SQL for theme-park revenue and visits](https://trueinterview.io/questions/write-sql-for-theme-park-revenue-and-visits) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-theme-park-revenue-and-visits) | — |
 | **[Point72](../companies/point72.md)** | [Write SQL for top student per department](https://trueinterview.io/questions/write-sql-for-top-student-per-department) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-top-student-per-department) | — |
 | **[Meta](../companies/meta.md)** | [Write SQL for video-call recipients and FR activity](https://trueinterview.io/questions/write-sql-for-video-call-recipients-and-fr-activity) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-video-call-recipients-and-fr-activity) | — |
 | **[Meta](../companies/meta.md)** | [Write SQL for visibility, calls, and cohort activity](https://trueinterview.io/questions/write-sql-for-visibility-calls-and-cohort-activity) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-visibility-calls-and-cohort-activity) | — |

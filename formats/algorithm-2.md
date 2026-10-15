@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,426 questions** · 1,416 at Senior/Staff+ · 531 reported in the last 90 days · 285 free to solve
+**2,426 questions** · 1,414 at Senior/Staff+ · 528 reported in the last 90 days · 285 free to solve
 
 **Rounds:** 📝 OA (548) · 📞 Phone (1,453) · 🏢 Onsite (615) · 🏠 Take-home (2)
 
@@ -201,7 +201,7 @@
 | **[Citadel](../companies/citadel.md)** | [External Merge Sort with a Heap](https://trueinterview.io/questions/565b03c7-1825-58a7-92d3-8c508446951d) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/565b03c7-1825-58a7-92d3-8c508446951d) | Jul 2026 |
 | **[Datadog](../companies/datadog.md)** | [File System Deletion](https://trueinterview.io/questions/f72ed4df-74c4-5b6f-94fd-d875a160e518) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f72ed4df-74c4-5b6f-94fd-d875a160e518) | Jul 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Filter Numbers Greater Than the Average](https://trueinterview.io/questions/cd12a6b3-ba3b-5639-be01-4b54adbee445) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cd12a6b3-ba3b-5639-be01-4b54adbee445) | Jul 2026 |
-| **[Google](../companies/google.md)** | [Find a Horizontal Cut That Bisects Total Rectangle Area](https://trueinterview.io/questions/04ff203b-beaf-5ddb-8988-57f1ba8b4d18) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/04ff203b-beaf-5ddb-8988-57f1ba8b4d18) | Jul 2026 |
+| **[Google](../companies/google.md)** | [Find a Horizontal Cut That Bisects Total Rectangle Area](https://trueinterview.io/questions/04ff203b-beaf-5ddb-8988-57f1ba8b4d18) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/04ff203b-beaf-5ddb-8988-57f1ba8b4d18) | Jul 2026 |
 | **[Oscar Health](../companies/oscar-health.md)** | [Find Clients Outside Provider Coverage](https://trueinterview.io/questions/77313b88-1a9b-5047-b402-fced2dc1919c) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/77313b88-1a9b-5047-b402-fced2dc1919c) | Jul 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Find Closest Dashmart](https://trueinterview.io/questions/find-closest-dashmart) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-closest-dashmart) | Jul 2026 |
 | **[Databricks](../companies/databricks.md)** | [Find Path in Fibonacci Tree](https://trueinterview.io/questions/find-path-between-nodes-in-k-th-order-fibonacci-tree) | Phone · Onsite | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/find-path-between-nodes-in-k-th-order-fibonacci-tree) | Jul 2026 |

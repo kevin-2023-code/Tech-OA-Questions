@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**2,825 questions** · 2,825 at Senior/Staff+ · 641 reported in the last 90 days · 223 free to solve
+**2,821 questions** · 2,821 at Senior/Staff+ · 638 reported in the last 90 days · 223 free to solve
 
-**Rounds:** 📝 OA (226) · 📞 Phone (1,508) · 🏢 Onsite (1,323) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (226) · 📞 Phone (1,506) · 🏢 Onsite (1,321) · 🏠 Take-home (8)
 
-**Companies:** [Meta (278)](../companies/meta.md) · [Amazon (186)](../companies/amazon.md) · [Google (181)](../companies/google.md) · [ByteDance (174)](../companies/bytedance.md) · [Uber (162)](../companies/uber.md) · [OpenAI (136)](../companies/openai.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (106)](../companies/apple.md) · [LinkedIn (105)](../companies/linkedin.md) · [DoorDash (86)](../companies/doordash.md) · [Pinterest (82)](../companies/pinterest.md) · [Snowflake (78)](../companies/snowflake.md) · [Netflix (77)](../companies/netflix.md) · [Oracle (70)](../companies/oracle.md) · [Databricks (68)](../companies/databricks.md)
+**Companies:** [Meta (277)](../companies/meta.md) · [Amazon (184)](../companies/amazon.md) · [Google (181)](../companies/google.md) · [ByteDance (174)](../companies/bytedance.md) · [Uber (162)](../companies/uber.md) · [OpenAI (136)](../companies/openai.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (105)](../companies/apple.md) · [LinkedIn (105)](../companies/linkedin.md) · [DoorDash (86)](../companies/doordash.md) · [Pinterest (82)](../companies/pinterest.md) · [Snowflake (78)](../companies/snowflake.md) · [Netflix (77)](../companies/netflix.md) · [Oracle (70)](../companies/oracle.md) · [Databricks (68)](../companies/databricks.md)
 
 <sub>Page [1](senior-staff.md) · **2** · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md)</sub>
 
@@ -331,7 +331,7 @@
 | **[Datadog](../companies/datadog.md)** | [File System Deletion](https://trueinterview.io/questions/f72ed4df-74c4-5b6f-94fd-d875a160e518) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f72ed4df-74c4-5b6f-94fd-d875a160e518) | Jul 2026 |
 | **[Figma](../companies/figma.md)** | [File System Permissions](https://trueinterview.io/questions/file-system-permissions) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/file-system-permissions) | Jul 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [File Systems](https://trueinterview.io/questions/oa-file-systems) | OA | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-file-systems) | Jul 2026 |
-| **[Google](../companies/google.md)** | [Find a Horizontal Cut That Bisects Total Rectangle Area](https://trueinterview.io/questions/04ff203b-beaf-5ddb-8988-57f1ba8b4d18) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/04ff203b-beaf-5ddb-8988-57f1ba8b4d18) | Jul 2026 |
+| **[Google](../companies/google.md)** | [Find a Horizontal Cut That Bisects Total Rectangle Area](https://trueinterview.io/questions/04ff203b-beaf-5ddb-8988-57f1ba8b4d18) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/04ff203b-beaf-5ddb-8988-57f1ba8b4d18) | Jul 2026 |
 | **[Oscar Health](../companies/oscar-health.md)** | [Find Clients Outside Provider Coverage](https://trueinterview.io/questions/77313b88-1a9b-5047-b402-fced2dc1919c) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/77313b88-1a9b-5047-b402-fced2dc1919c) | Jul 2026 |
 | **[Expedia](../companies/expedia.md)** | [Find Round-Trip Flight Itineraries](https://trueinterview.io/questions/33618d05-1e81-5f3a-a11c-df55a693eaa0) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/33618d05-1e81-5f3a-a11c-df55a693eaa0) | Jul 2026 |
 | **[OpenAI](../companies/openai.md)** | [Find the Incorrect Data Labeler](https://trueinterview.io/questions/d2fcfdcf-7015-535c-aecb-8729bdd9edcf) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/d2fcfdcf-7015-535c-aecb-8729bdd9edcf) | Jul 2026 |

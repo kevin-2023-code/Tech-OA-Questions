@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**1,640 questions** · 1,323 at Senior/Staff+ · 360 reported in the last 90 days · 115 free to solve
+**1,640 questions** · 1,321 at Senior/Staff+ · 358 reported in the last 90 days · 115 free to solve
 
 **By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (537)
 
@@ -302,7 +302,7 @@
 | **[Netflix](../companies/netflix.md)** | [Aggregate D1 retention cohorts in SQL](https://trueinterview.io/questions/aggregate-d1-retention-cohorts-in-sql) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/aggregate-d1-retention-cohorts-in-sql) | — |
 | **[Squarepoint](../companies/squarepoint.md)** / [Google](../companies/google.md) | [ATM Queue](https://trueinterview.io/questions/b45eec89-6a1c-477b-b359-11cae3cf9e5f) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b45eec89-6a1c-477b-b359-11cae3cf9e5f) | — |
 | **[Capital One](../companies/capital-one.md)** | [Audit flight data quality from metadata](https://trueinterview.io/questions/audit-flight-data-quality-from-metadata) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/audit-flight-data-quality-from-metadata) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Bank System Class with Deposit, Withdraw, and Balance Check](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Bank System Class with Deposit, Withdraw, and Balance Check](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | Onsite | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | — |
 | **[Intuit](../companies/intuit.md)** | [BankAccount Deposit and Withdraw Methods with Tests](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | — |
 | **[Stripe](../companies/stripe.md)** | [Bitfont Repository: Implement Decoders and Compose Them](https://trueinterview.io/questions/c3826719-e927-4380-9e5e-e54bd82496c4) | Onsite | New grad · Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/c3826719-e927-4380-9e5e-e54bd82496c4) | — |
 | **[Capital One](../companies/capital-one.md)** | [Build a causal ML pipeline end-to-end](https://trueinterview.io/questions/build-a-causal-ml-pipeline-end-to-end) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/build-a-causal-ml-pipeline-end-to-end) | — |
@@ -371,7 +371,7 @@
 | **[Thumbtack](../companies/thumbtack.md)** | [Design streaming new-vs-returning monthly metrics](https://trueinterview.io/questions/design-streaming-new-vs-returning-monthly-metrics) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-streaming-new-vs-returning-monthly-metrics) | — |
 | **[Amazon](../companies/amazon.md)** | [Design student–course data models and SQL](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | Onsite | **Senior** · **Staff+** | SQL | [![Practice][p]](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | — |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Design System for Downstream Data Retrieval](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | Onsite | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | — |
-| **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
+| **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
 | **[Amazon](../companies/amazon.md)** | [Design Unix File Search](https://trueinterview.io/questions/design-unix-file-search) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-file-search) | — |
 | **[Yelp](../companies/yelp.md)** / [Uber](../companies/uber.md) | [Design Yelp](https://trueinterview.io/questions/design-yelp-2) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-yelp-2) | — |
 | **[Visa](../companies/visa.md)** | [Designing Real-Time Instant Messaging Application with Media Support](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | — |

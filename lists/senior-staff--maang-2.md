@@ -8,11 +8,11 @@
 >
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**832 questions** · 832 at Senior/Staff+ · 206 reported in the last 90 days · 53 free to solve
+**829 questions** · 829 at Senior/Staff+ · 206 reported in the last 90 days · 53 free to solve
 
-**Rounds:** 📝 OA (50) · 📞 Phone (434) · 🏢 Onsite (421) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (50) · 📞 Phone (432) · 🏢 Onsite (420) · 🏠 Take-home (1)
 
-**Companies:** [Meta (278)](../companies/meta.md) · [Amazon (186)](../companies/amazon.md) · [Google (181)](../companies/google.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (106)](../companies/apple.md) · [Netflix (77)](../companies/netflix.md)
+**Companies:** [Meta (277)](../companies/meta.md) · [Amazon (184)](../companies/amazon.md) · [Google (181)](../companies/google.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (105)](../companies/apple.md) · [Netflix (77)](../companies/netflix.md)
 
 <sub>Page [1](senior-staff--maang.md) · **2** · [3](senior-staff--maang-3.md)</sub>
 
@@ -222,7 +222,7 @@
 | **[Meta](../companies/meta.md)** | [Return all root-to-leaf path sums](https://trueinterview.io/questions/return-all-root-to-leaf-path-sums) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/return-all-root-to-leaf-path-sums) | Dec 15, 2025 |
 | **[Meta](../companies/meta.md)** | [Solve linked list, tree, and grid problems](https://trueinterview.io/questions/solve-linked-list-tree-and-grid-problems) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-linked-list-tree-and-grid-problems) | Dec 15, 2025 |
 | **[Meta](../companies/meta.md)** | [Solve shipping capacity and expression insertion](https://trueinterview.io/questions/solve-shipping-capacity-and-expression-insertion) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-shipping-capacity-and-expression-insertion) | Dec 15, 2025 |
-| **[Apple](../companies/apple.md)** | [Online Token Processing, Embeddings, and Classification](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Dec 11, 2025 |
+| **[Apple](../companies/apple.md)** | [Online Token Processing, Embeddings, and Classification](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Dec 11, 2025 |
 | **[Apple](../companies/apple.md)** | [Count Value Occurrences in a Binary Tree](https://trueinterview.io/questions/count-value-occurrences-in-a-binary-tree) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/count-value-occurrences-in-a-binary-tree) | Dec 10, 2025 |
 | **[Meta](../companies/meta.md)** | [Implement string and basic ML algorithms](https://trueinterview.io/questions/implement-string-and-basic-ml-algorithms) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-string-and-basic-ml-algorithms) | Dec 8, 2025 |
 | **[Google](../companies/google.md)** | [Return the Lexicographically Smallest Two-Sum Index Pair](https://trueinterview.io/questions/return-the-lexicographically-smallest-two-sum-index-pair) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/return-the-lexicographically-smallest-two-sum-index-pair) | Dec 8, 2025 |
@@ -293,7 +293,6 @@
 | **[Amazon](../companies/amazon.md)** | [Add and Search Word](https://trueinterview.io/questions/add-and-search-word) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/add-and-search-word) | — |
 | **[Amazon](../companies/amazon.md)** | [Add Non-Overlapping Intervals and Query Point Coverage](https://trueinterview.io/questions/cd18c960-2e58-5dfb-8bb7-7557de4179d7) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/cd18c960-2e58-5dfb-8bb7-7557de4179d7) | — |
 | **[Netflix](../companies/netflix.md)** | [Aggregate D1 retention cohorts in SQL](https://trueinterview.io/questions/aggregate-d1-retention-cohorts-in-sql) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/aggregate-d1-retention-cohorts-in-sql) | — |
-| **[Meta](../companies/meta.md)** / [Apple](../companies/apple.md) | [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
 | **[Google](../companies/google.md)** | [Analyze video flags and reviews with SQL](https://trueinterview.io/questions/analyze-video-flags-and-reviews-with-sql) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/analyze-video-flags-and-reviews-with-sql) | — |
 | **[Amazon](../companies/amazon.md)** | [Append country tables and rank salaries in USD](https://trueinterview.io/questions/append-country-tables-and-rank-salaries-in-usd) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/append-country-tables-and-rank-salaries-in-usd) | — |
 | **[Squarepoint](../companies/squarepoint.md)** / [Google](../companies/google.md) | [ATM Queue](https://trueinterview.io/questions/b45eec89-6a1c-477b-b359-11cae3cf9e5f) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b45eec89-6a1c-477b-b359-11cae3cf9e5f) | — |
@@ -369,7 +368,6 @@
 | **[Confluent](../companies/confluent.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +4 | [Design Spotify](https://trueinterview.io/questions/design-spotify-2) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-spotify-2) | — |
 | **[Amazon](../companies/amazon.md)** | [Design SQL/Pandas aggregations on retail schema](https://trueinterview.io/questions/design-sql-pandas-aggregations-on-retail-schema) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/design-sql-pandas-aggregations-on-retail-schema) | — |
 | **[Amazon](../companies/amazon.md)** | [Design student–course data models and SQL](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | Onsite | **Senior** · **Staff+** | SQL | [![Practice][p]](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | — |
-| **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
 | **[Amazon](../companies/amazon.md)** | [Design Unix File Search](https://trueinterview.io/questions/design-unix-file-search) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-file-search) | — |
 | **[Apple](../companies/apple.md)** | [Detect sessions and gaps using SQL LEAD](https://trueinterview.io/questions/detect-sessions-and-gaps-using-sql-lead) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/detect-sessions-and-gaps-using-sql-lead) | — |
 | **[Amazon](../companies/amazon.md)** | [Find All Distinct Pairs of Stocks](https://trueinterview.io/questions/0f41501f-5cbf-4b7a-911f-a47ed3c3c7e2) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/0f41501f-5cbf-4b7a-911f-a47ed3c3c7e2) | — |
@@ -423,5 +421,7 @@
 | **[Amazon](../companies/amazon.md)** | [Solve stock, BFS path, and merge intervals](https://trueinterview.io/questions/solve-stock-bfs-path-and-merge-intervals) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-stock-bfs-path-and-merge-intervals) | — |
 | **[Amazon](../companies/amazon.md)** | [Solve two string DP/hash problems](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | — |
 | **[Amazon](../companies/amazon.md)** | [SQL Interview Questions (Window Functions and CTE)](https://trueinterview.io/questions/66986c12-8cc7-460c-8d29-f7dcec6170d1) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/66986c12-8cc7-460c-8d29-f7dcec6170d1) | — |
+| **[LinkedIn](../companies/linkedin.md)** / [Meta](../companies/meta.md) | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |
+| **[Meta](../companies/meta.md)** | [Top 3 Customers by Book Purchases in Specific Categories](https://trueinterview.io/questions/48ac9704-e9a2-4d9e-ae72-7e46d09b96ad) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/48ac9704-e9a2-4d9e-ae72-7e46d09b96ad) | — |
 
 <sub>Page [1](senior-staff--maang.md) · **2** · [3](senior-staff--maang-3.md)</sub>

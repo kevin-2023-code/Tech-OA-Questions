@@ -8,11 +8,11 @@
 >
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**157 questions** · 157 at Senior/Staff+ · 25 reported in the last 90 days · 6 free to solve
+**156 questions** · 156 at Senior/Staff+ · 25 reported in the last 90 days · 6 free to solve
 
-**Rounds:** 📝 OA (2) · 📞 Phone (71) · 🏢 Onsite (93) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (2) · 📞 Phone (70) · 🏢 Onsite (93) · 🏠 Take-home (1)
 
-**Companies:** [Meta (70)](../companies/meta.md) · [Amazon (39)](../companies/amazon.md) · [Google (27)](../companies/google.md) · [Microsoft (25)](../companies/microsoft.md) · [Apple (13)](../companies/apple.md) · [Netflix (7)](../companies/netflix.md)
+**Companies:** [Meta (70)](../companies/meta.md) · [Amazon (39)](../companies/amazon.md) · [Google (27)](../companies/google.md) · [Microsoft (25)](../companies/microsoft.md) · [Apple (12)](../companies/apple.md) · [Netflix (7)](../companies/netflix.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -61,7 +61,7 @@
 | **[Google](../companies/google.md)** | [Design Calendar Event Conflict Handling](https://trueinterview.io/questions/design-calendar-event-conflict-handling) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-calendar-event-conflict-handling) | Apr 25, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design A Low-Latency Product Price Update API](https://trueinterview.io/questions/design-a-low-latency-product-price-update-api) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-low-latency-product-price-update-api) | Apr 24, 2026 |
 | **[Meta](../companies/meta.md)** / [Microsoft](../companies/microsoft.md) | [Design Ticket Booking System](https://trueinterview.io/questions/system-design-ticketmaster) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-ticketmaster) | Apr 22, 2026 |
-| **[Pinterest](../companies/pinterest.md)** / [Apple](../companies/apple.md) | [Convert BST to Sorted Doubly Linked List (LC 426)](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Apr 18, 2026 |
+| **[Pinterest](../companies/pinterest.md)** / [Apple](../companies/apple.md) | [Convert BST to Sorted Doubly Linked List (LC 426)](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Onsite | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/bst-to-doubly-linked-list) | Apr 18, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a Product Search System](https://trueinterview.io/questions/design-a-product-search-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-product-search-system) | Apr 18, 2026 |
 | **[Meta](../companies/meta.md)** | [DE AI-Native Full-Stack Round](https://trueinterview.io/questions/de-ai-native-full-stack-round) | Phone | Mid · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/de-ai-native-full-stack-round) | Apr 17, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +4 | [Design Typehead Suggestion](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Apr 16, 2026 |
@@ -105,7 +105,6 @@
 | **[Microsoft](../companies/microsoft.md)** | [Design device telemetry pipeline for real-time and batch](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | OA | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | Dec 17, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a cloud console main page](https://trueinterview.io/questions/design-a-cloud-console-main-page) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-cloud-console-main-page) | Dec 15, 2025 |
 | **[Apple](../companies/apple.md)** | [Design a multimodal RAG assistant](https://trueinterview.io/questions/design-a-multimodal-rag-assistant) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-multimodal-rag-assistant) | Dec 15, 2025 |
-| **[Apple](../companies/apple.md)** | [Online Token Processing, Embeddings, and Classification](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Dec 11, 2025 |
 | **[Meta](../companies/meta.md)** | [Model entities for feed content and shares](https://trueinterview.io/questions/model-entities-for-feed-content-and-shares) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/model-entities-for-feed-content-and-shares) | Dec 1, 2025 |
 | **[Meta](../companies/meta.md)** | [How would you predict a car’s turning intention?](https://trueinterview.io/questions/how-would-you-predict-a-car-s-turning-intention) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/how-would-you-predict-a-car-s-turning-intention) | Nov 24, 2025 |
 | **[Meta](../companies/meta.md)** | [How would you validate a driving simulator’s realism?](https://trueinterview.io/questions/how-would-you-validate-a-driving-simulator-s-realism) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/how-would-you-validate-a-driving-simulator-s-realism) | Nov 24, 2025 |

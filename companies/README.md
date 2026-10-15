@@ -8,14 +8,14 @@ Counts are per company: a question reported at three employers is on three pages
 
 | Company | Group | Questions | Senior/Staff+ | ML & research | Quant roles | Last reported |
 | :-- | :-- | --: | --: | --: | --: | :-- |
-| [Meta](meta.md) | 🏛️ MAANG+ | 334 | 278 | 20 | — | Sep 2026 |
-| [Amazon](amazon.md) | 🏛️ MAANG+ | 320 | 186 | 23 | 2 | Sep 2026 |
+| [Meta](meta.md) | 🏛️ MAANG+ | 334 | 277 | 20 | — | Sep 2026 |
+| [Amazon](amazon.md) | 🏛️ MAANG+ | 320 | 184 | 23 | 2 | Sep 2026 |
 | [Google](google.md) | 🏛️ MAANG+ | 266 | 181 | 6 | 4 | Sep 2026 |
 | [ByteDance](bytedance.md) | — | 255 | 174 | 15 | 3 | Sep 2026 |
 | [Uber](uber.md) | — | 217 | 162 | 12 | 2 | Sep 2026 |
 | [Microsoft](microsoft.md) | 🏛️ MAANG+ | 186 | 135 | 17 | 2 | Sep 2026 |
 | [OpenAI](openai.md) | 🧠 AI labs | 144 | 136 | 40 | — | Sep 2026 |
-| [Apple](apple.md) | 🏛️ MAANG+ | 142 | 106 | 20 | — | Sep 2026 |
+| [Apple](apple.md) | 🏛️ MAANG+ | 142 | 105 | 20 | — | Sep 2026 |
 | [Snowflake](snowflake.md) | — | 128 | 78 | 3 | — | Sep 2026 |
 | [LinkedIn](linkedin.md) | — | 116 | 105 | 9 | — | Sep 2026 |
 | [DoorDash](doordash.md) | — | 107 | 86 | 6 | — | Sep 2026 |
@@ -31,7 +31,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Databricks](databricks.md) | — | 79 | 68 | 3 | — | Sep 2026 |
 | [Airbnb](airbnb.md) | — | 78 | 67 | 5 | — | Sep 2026 |
 | [Citadel](citadel.md) | 📈 Quant firms | 72 | 32 | — | 50 | Sep 2026 |
-| [Coinbase](coinbase.md) | — | 72 | 52 | 3 | 1 | Sep 2026 |
+| [Coinbase](coinbase.md) | — | 72 | 51 | 3 | 1 | Sep 2026 |
 | [Snapchat](snapchat.md) | — | 69 | 56 | 4 | 1 | Sep 2026 |
 | [Waymo](waymo.md) | — | 62 | 40 | 10 | 1 | Sep 2026 |
 | [Atlassian](atlassian.md) | — | 61 | 56 | 3 | — | Sep 2026 |

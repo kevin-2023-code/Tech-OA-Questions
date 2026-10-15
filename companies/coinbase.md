@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Coinbase on TrueInterview](https://trueinterview.io/problems/company/coinbase) · [How Coinbase interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/coinbase/README.md)
 
-**72 questions** · Senior & Staff+ 52 · ML & Research Scientist 3 · Quant researcher & developer 1 · last reported Sep 2026
+**72 questions** · Senior & Staff+ 51 · ML & Research Scientist 3 · Quant researcher & developer 1 · last reported Sep 2026
 
 **Rounds:** 📝 OA (19) · 📞 Phone (13) · 🏢 Onsite (42)
 
@@ -43,7 +43,7 @@
 | [NFT Generation](https://trueinterview.io/questions/27760151-a268-44bf-9ada-8883fb82565f) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/27760151-a268-44bf-9ada-8883fb82565f) | May 2026 |
 | [Implement an In-Memory Database](https://trueinterview.io/questions/implement-an-in-memory-database-2) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-an-in-memory-database-2) | Apr 29, 2026 |
 | [In-Memory Database](https://trueinterview.io/questions/in-memory-database)<br><sub>also [Anthropic](../companies/anthropic.md) / [Applied Intuition](../companies/applied-intuition.md)</sub> | OA | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-database) | Apr 28, 2026 |
-| [Food Delivery System (Multi-Level Coding)](https://trueinterview.io/questions/food-delivery-system-2) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/food-delivery-system-2) | Apr 20, 2026 |
+| [Food Delivery System (Multi-Level Coding)](https://trueinterview.io/questions/food-delivery-system-2) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/food-delivery-system-2) | Apr 20, 2026 |
 | [Implement Game Physics and Block Mining](https://trueinterview.io/questions/implement-game-physics-and-block-mining) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-game-physics-and-block-mining) | Apr 2, 2026 |
 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-stock-order-trade-management-system)<br><sub>also [Robinhood](../companies/robinhood.md) / [Databricks](../companies/databricks.md) / [Square](../companies/square.md)</sub> | Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Apr 2026 |
 | [Food Delivery System](https://trueinterview.io/questions/food-delivery-system) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/food-delivery-system) | Apr 2026 |
@@ -75,7 +75,7 @@
 | [Execution Task with Promise Chains](https://trueinterview.io/questions/7296b5d5-6b1c-4ff1-ae43-012cb3886ad1) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7296b5d5-6b1c-4ff1-ae43-012cb3886ad1) | Dec 2025 |
 | [Find Shortest Path for All Items](https://trueinterview.io/questions/6b165ecf-6592-4940-ab4d-0bb42c54a0e5) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/6b165ecf-6592-4940-ab4d-0bb42c54a0e5) | Dec 2025 |
 | [Shortest paths in a restaurant grid](https://trueinterview.io/questions/solve-restaurant-path-and-order-event-tasks-shortest-paths-in-a-restaurant-grid) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-restaurant-path-and-order-event-tasks-shortest-paths-in-a-restaurant-grid) | Dec 2025 |
-| [Bank System Class with Deposit, Withdraw, and Balance Check](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | — |
+| [Bank System Class with Deposit, Withdraw, and Balance Check](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | Onsite | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | — |
 | [Compute adoption, latency, and cross-region transactions](https://trueinterview.io/questions/compute-adoption-latency-and-cross-region-transactions) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-adoption-latency-and-cross-region-transactions) | — |
 | [Design In-memory Database with Backup](https://trueinterview.io/questions/design-in-memory-database-with-backup-2)<br><sub>also [Anthropic](../companies/anthropic.md) / [HubSpot](../companies/hubspot.md) / [Microsoft AI](../companies/microsoft-ai.md) / +1</sub> | OA · Onsite | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-in-memory-database-with-backup-2) | — |
 | [Design KYC experiment amid crypto volatility](https://trueinterview.io/questions/design-kyc-experiment-amid-crypto-volatility) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-kyc-experiment-amid-crypto-volatility) | — |

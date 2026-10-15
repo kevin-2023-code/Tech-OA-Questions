@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,107 questions** · 1,508 at Senior/Staff+ · 465 reported in the last 90 days · 212 free to solve
+**2,107 questions** · 1,506 at Senior/Staff+ · 464 reported in the last 90 days · 212 free to solve
 
 **By employer group:** 🧠 AI labs (183) · 📈 Quant firms (139) · 🏛️ MAANG+ (592)
 
@@ -313,7 +313,7 @@
 | **[Rippling](../companies/rippling.md)** | [Clarify and Find Common Ancestors in a Graph](https://trueinterview.io/questions/clarify-and-find-common-ancestors-in-a-graph) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/clarify-and-find-common-ancestors-in-a-graph) | Dec 12, 2025 |
 | **[DoorDash](../companies/doordash.md)** | [Code Craft: Common Restaurant Pickup Order (LCS Variant)](https://trueinterview.io/questions/code-craft-common-restaurant-list) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/code-craft-common-restaurant-list) | Dec 11, 2025 |
 | **[Uber](../companies/uber.md)** | [Measure feature impact with switchback, PSM, and CACE](https://trueinterview.io/questions/measure-feature-impact-with-switchback-psm-and-cace) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-feature-impact-with-switchback-psm-and-cace) | Dec 11, 2025 |
-| **[Apple](../companies/apple.md)** | [Online Token Processing, Embeddings, and Classification](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Dec 11, 2025 |
+| **[Apple](../companies/apple.md)** | [Online Token Processing, Embeddings, and Classification](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Dec 11, 2025 |
 | **[Anthropic](../companies/anthropic.md)** | [Performance Modeling — Matmul Arithmetic Intensity](https://trueinterview.io/questions/performance-engineer-modeling) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/performance-engineer-modeling) | Dec 11, 2025 |
 | **[Roblox](../companies/roblox.md)** | [Remove Prefix String](https://trueinterview.io/questions/remove-prefix-strings) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/remove-prefix-strings) | Dec 11, 2025 |
 | **[ByteDance](../companies/bytedance.md)** | [Reverse nodes in even-length linked-list groups](https://trueinterview.io/questions/reverse-nodes-in-even-length-linked-list-groups) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/reverse-nodes-in-even-length-linked-list-groups) | Dec 11, 2025 |

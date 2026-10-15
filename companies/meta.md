@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Meta on TrueInterview](https://trueinterview.io/problems/company/meta) · [How Meta interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/meta/README.md)
 
-🏛️ MAANG+ · **334 questions** · Senior & Staff+ 278 · ML & Research Scientist 20 · last reported Sep 2026
+🏛️ MAANG+ · **334 questions** · Senior & Staff+ 277 · ML & Research Scientist 20 · last reported Sep 2026
 
 **Rounds:** 📝 OA (31) · 📞 Phone (183) · 🏢 Onsite (143) · 🏠 Take-home (1)
 
@@ -274,7 +274,7 @@
 | [Compute interval mode, BST range sum, exclusive time](https://trueinterview.io/questions/compute-interval-mode-bst-range-sum-exclusive-time) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-interval-mode-bst-range-sum-exclusive-time) | Oct 2, 2025 |
 | [Simplify Expression](https://trueinterview.io/questions/simplify-parentheses-expression)<br><sub>also [Oracle](../companies/oracle.md) / [Google](../companies/google.md)</sub> | Onsite | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/simplify-parentheses-expression) | Jun 10, 2025 |
 | [Ads Impression SQL Query](https://trueinterview.io/questions/cd8e263f-9929-49d1-804b-210708292d39) | OA | Intern · New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/cd8e263f-9929-49d1-804b-210708292d39) | — |
-| [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170)<br><sub>also [Apple](../companies/apple.md)</sub> | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
+| [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170)<br><sub>also [Apple](../companies/apple.md)</sub> | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
 | [Build a model to infer home vs office vs public](https://trueinterview.io/questions/build-a-model-to-infer-home-vs-office-vs-public) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/build-a-model-to-infer-home-vs-office-vs-public) | — |
 | [Build dashboard; diagnose engagement–purchase gap](https://trueinterview.io/questions/build-dashboard-diagnose-engagementpurchase-gap) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/build-dashboard-diagnose-engagementpurchase-gap) | — |
 | [Build predictive model for feature rollout targeting](https://trueinterview.io/questions/build-predictive-model-for-feature-rollout-targeting) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/build-predictive-model-for-feature-rollout-targeting) | — |

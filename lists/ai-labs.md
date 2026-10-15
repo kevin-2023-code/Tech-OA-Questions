@@ -6,7 +6,7 @@
 
 > **Where:** Employers the shared company registry files under *AI labs & AI infrastructure* — OpenAI, Anthropic, xAI, Microsoft AI, Perplexity, Scale AI and the rest.
 
-**356 questions** · 308 at Senior/Staff+ · 89 reported in the last 90 days · 50 free to solve
+**356 questions** · 308 at Senior/Staff+ · 88 reported in the last 90 days · 50 free to solve
 
 **Rounds:** 📝 OA (33) · 📞 Phone (183) · 🏢 Onsite (182) · 🏠 Take-home (5)
 
@@ -58,8 +58,8 @@
 | **[OpenAI](../companies/openai.md)** | [Prefix Matrix Products and Backpropagation](https://trueinterview.io/questions/prefix-matrix-products-and-backpropagation) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/prefix-matrix-products-and-backpropagation) | 🆕 Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [Simulate Plant Infection With Controlled Burning](https://trueinterview.io/questions/simulate-plant-infection-with-controlled-burning) | Onsite | Mid · **Senior** · Manager | Coding | [![Practice][p]](https://trueinterview.io/questions/simulate-plant-infection-with-controlled-burning) | 🆕 Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [Vectorized 1-NN and Neural Network Forward Pass](https://trueinterview.io/questions/vectorized-1-nn-and-neural-network-forward-pass) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/vectorized-1-nn-and-neural-network-forward-pass) | 🆕 Sep 2026 |
-| **[Mercor](../companies/mercor.md)** | [Design a Project-to-Contractor Matching System](https://trueinterview.io/questions/design-a-project-to-contractor-matching-system) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-project-to-contractor-matching-system) | 🆕 Aug 30, 2026 |
-| **[Mercor](../companies/mercor.md)** | [Shortest Grid Path with Obstacle Eliminations](https://trueinterview.io/questions/shortest-grid-path-with-obstacle-eliminations) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-grid-path-with-obstacle-eliminations) | 🆕 Aug 30, 2026 |
+| **[Mercor](../companies/mercor.md)** | [Design a Project-to-Contractor Matching System](https://trueinterview.io/questions/design-a-project-to-contractor-matching-system) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-project-to-contractor-matching-system) | Aug 30, 2026 |
+| **[Mercor](../companies/mercor.md)** | [Shortest Grid Path with Obstacle Eliminations](https://trueinterview.io/questions/shortest-grid-path-with-obstacle-eliminations) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-grid-path-with-obstacle-eliminations) | Aug 30, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Design Distributed Sorting Around an Explicit Helper Contract](https://trueinterview.io/questions/design-distributed-sorting-around-an-explicit-helper-contract) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-distributed-sorting-around-an-explicit-helper-contract) | Aug 27, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Model Infection, Immunity, Delayed Death, and Burn Interventions on a Grid](https://trueinterview.io/questions/model-infection-immunity-delayed-death-and-burn-interventions-on-a-grid) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/model-infection-immunity-delayed-death-and-burn-interventions-on-a-grid) | Aug 27, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Review and Scale an Inference Service Design](https://trueinterview.io/questions/review-and-scale-an-inference-service-design) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/review-and-scale-an-inference-service-design) | Aug 27, 2026 |
