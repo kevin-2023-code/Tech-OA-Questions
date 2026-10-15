@@ -8,7 +8,7 @@
 
 Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anthropic, xAI**, **Citadel, Two Sigma, Squarepoint**, **Meta, Amazon, Google** and 128 more — **every row tagged with the level and the round it was asked in.** Synced hourly.
 
-**4,121 questions** · **2,821 at Senior/Staff+** · **294 ML & research** · **197 quant** · 674 OA · 862 reported in the last 90 days · 395 free
+**4,122 questions** · **2,819 at Senior/Staff+** · **294 ML & research** · **197 quant** · 673 OA · 862 reported in the last 90 days · 395 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
@@ -20,15 +20,15 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 
 | Who you are ↓ · Where you're interviewing → | 🧠 **AI labs** | 📈 **Quant firms** | 🏛️ **MAANG+** | 🌐 **All companies** |
 | :-- | :-: | :-: | :-: | :-: |
-| 🎯 **Senior & Staff+**<br><sub>≈ L5 / E5 and up</sub> | [**308**](lists/senior-staff--ai-labs.md) | [**124**](lists/senior-staff--quant.md) | [**829**](lists/senior-staff--maang.md) | [**2,821**](lists/senior-staff.md) |
-| 🚀 **Staff+ only**<br><sub>≈ L6 / E6 and up</sub> | [**61**](lists/staff--ai-labs.md) | [**13**](lists/staff--quant.md) | [**156**](lists/staff--maang.md) | [**488**](lists/staff.md) |
+| 🎯 **Senior & Staff+**<br><sub>≈ L5 / E5 and up</sub> | [**308**](lists/senior-staff--ai-labs.md) | [**124**](lists/senior-staff--quant.md) | [**830**](lists/senior-staff--maang.md) | [**2,819**](lists/senior-staff.md) |
+| 🚀 **Staff+ only**<br><sub>≈ L6 / E6 and up</sub> | [**60**](lists/staff--ai-labs.md) | [**13**](lists/staff--quant.md) | [**156**](lists/staff--maang.md) | [**482**](lists/staff.md) |
 | 🔬 **ML & Research Scientist**<br><sub>MLE · Research scientist · AI engineer</sub> | [**76**](lists/ml-research--ai-labs.md) | — | [**91**](lists/ml-research--maang.md) | [**294**](lists/ml-research.md) |
 | 📊 **Quant researcher & developer**<br><sub>QR · QD · QT</sub> | — | [**194**](lists/quant-roles--quant.md) | [**8**](lists/quant-roles--maang.md) | [**197**](lists/quant-roles.md) |
-| 🗂️ **Every level**<br><sub>incl. new grad & unclassified</sub> | [**356**](lists/ai-labs.md) | [**276**](lists/quant.md) | [**1,171**](lists/maang.md) | [**4,121**](question-bank/README.md) |
+| 🗂️ **Every level**<br><sub>incl. new grad & unclassified</sub> | [**356**](lists/ai-labs.md) | [**276**](lists/quant.md) | [**1,172**](lists/maang.md) | [**4,122**](question-bank/README.md) |
 
-**By round:** [📝 OA (674)](rounds/oa.md) · [📞 Phone (2,107)](rounds/phone-screen.md) · [🏢 Onsite (1,640)](rounds/onsite.md) · [🏠 Take-home (10)](rounds/take-home.md)
+**By round:** [📝 OA (673)](rounds/oa.md) · [📞 Phone (2,109)](rounds/phone-screen.md) · [🏢 Onsite (1,641)](rounds/onsite.md) · [🏠 Take-home (10)](rounds/take-home.md)
 
-**By format:** [Coding (2,426)](formats/algorithm.md) · [System design (700)](formats/system-design.md) · [OOD / LLD (589)](formats/object-oriented-programming.md) · [SQL (297)](formats/sql.md) · [AI coding (109)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (395)](lists/free.md)
+**By format:** [Coding (2,427)](formats/algorithm.md) · [System design (700)](formats/system-design.md) · [OOD / LLD (589)](formats/object-oriented-programming.md) · [SQL (297)](formats/sql.md) · [AI coding (109)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (395)](lists/free.md)
 
 ## 📊 What changes as you go up a level
 
@@ -36,10 +36,10 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 
 | | Questions | Coding | System design | OOD / LLD | SQL | AI coding |
 | :-- | --: | --: | --: | --: | --: | --: |
-| 🚀 Staff+ | 488 | 11% | 73% | 5% | 6% | 4% |
-| 🎯 Senior | 2,333 | 58% | 13% | 17% | 10% | 3% |
-| Mid | 1,002 | 75% | 4% | 15% | 3% | 2% |
-| New grad & intern | 280 | 87% | 0% | 8% | 2% | 2% |
+| 🚀 Staff+ | 482 | 10% | 74% | 5% | 6% | 4% |
+| 🎯 Senior | 2,337 | 58% | 13% | 17% | 10% | 3% |
+| Mid | 1,004 | 75% | 4% | 15% | 3% | 2% |
+| New grad & intern | 284 | 87% | 0% | 8% | 2% | 2% |
 
 <sub>And by employer: how much of what candidates reported came from an **OA round**, and the format mix.</sub>
 
@@ -47,7 +47,7 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 | :-- | --: | --: | --: | --: | --: |
 | 🧠 AI labs | 356 | 9% | 40% | 25% | 24% |
 | 📈 Quant firms | 276 | 36% | 74% | 6% | 16% |
-| 🏛️ MAANG+ | 1,171 | 12% | 59% | 18% | 12% |
+| 🏛️ MAANG+ | 1,172 | 12% | 59% | 18% | 12% |
 
 ## 🏢 Companies
 
@@ -55,7 +55,7 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 
 **📈 Quant firms:** [Citadel (72)](companies/citadel.md) · [Two Sigma (41)](companies/two-sigma.md) · [Squarepoint (34)](companies/squarepoint.md) · [Akuna Capital (31)](companies/akuna-capital.md) · [Point72 (29)](companies/point72.md) · [Optiver (23)](companies/optiver.md) · [Hudson River Trading (18)](companies/hudson-river-trading.md) · [Jane Street (11)](companies/jane-street.md) · [Voleon (11)](companies/voleon.md) · [Chicago Trading (5)](companies/chicago-trading.md) · [IMC (4)](companies/imc.md) · [DRW (3)](companies/drw.md) · [SIG (3)](companies/sig.md)
 
-**🏛️ MAANG+:** [Meta (334)](companies/meta.md) · [Amazon (320)](companies/amazon.md) · [Google (266)](companies/google.md) · [Microsoft (186)](companies/microsoft.md) · [Apple (142)](companies/apple.md) · [Netflix (88)](companies/netflix.md)
+**🏛️ MAANG+:** [Meta (335)](companies/meta.md) · [Amazon (320)](companies/amazon.md) · [Google (266)](companies/google.md) · [Microsoft (186)](companies/microsoft.md) · [Apple (142)](companies/apple.md) · [Netflix (88)](companies/netflix.md)
 
 <details>
 <summary><b>🌐 + 97 more companies</b></summary>
@@ -196,7 +196,7 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 | **[Uber](companies/uber.md)** / [Amazon](companies/amazon.md) / [Bloomberg](companies/bloomberg.md) / +2 | [Meeting Rooms](https://trueinterview.io/questions/meeting-rooms-2) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/meeting-rooms-2) | 🆕 Sep 2026 |
 | **[ByteDance](companies/bytedance.md)** / [Amazon](companies/amazon.md) / [Uber](companies/uber.md) | [Meeting Rooms III](https://trueinterview.io/questions/c7deeb3e-3110-567c-bdbd-2d0511efaf01) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c7deeb3e-3110-567c-bdbd-2d0511efaf01) | 🆕 Sep 2026 |
 
-[**All 4,121 questions, every company, newest first →**](question-bank/README.md)
+[**All 4,122 questions, every company, newest first →**](question-bank/README.md)
 
 ## 📖 How the loop runs — by role
 

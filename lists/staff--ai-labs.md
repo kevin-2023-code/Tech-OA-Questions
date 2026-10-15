@@ -8,11 +8,11 @@
 >
 > **Where:** Employers the shared company registry files under *AI labs & AI infrastructure* — OpenAI, Anthropic, xAI, Microsoft AI, Perplexity, Scale AI and the rest.
 
-**61 questions** · 61 at Senior/Staff+ · 21 reported in the last 90 days · 8 free to solve
+**60 questions** · 60 at Senior/Staff+ · 20 reported in the last 90 days · 8 free to solve
 
-**Rounds:** 📝 OA (3) · 📞 Phone (23) · 🏢 Onsite (39) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (3) · 📞 Phone (22) · 🏢 Onsite (39) · 🏠 Take-home (2)
 
-**Companies:** [OpenAI (30)](../companies/openai.md) · [Anthropic (10)](../companies/anthropic.md) · [Perplexity (4)](../companies/perplexity.md) · [C3 AI (3)](../companies/c3-ai.md) · [Microsoft AI (3)](../companies/microsoft-ai.md) · [xAI (3)](../companies/xai.md) · [Cohere (2)](../companies/cohere.md) · [Cursor (2)](../companies/cursor.md) · [Mercor (2)](../companies/mercor.md) · [Scale AI (2)](../companies/scale-ai.md) · [Harvey (1)](../companies/harvey.md) · [Mistral AI (1)](../companies/mistral-ai.md) · [Moveworks (1)](../companies/moveworks.md)
+**Companies:** [OpenAI (29)](../companies/openai.md) · [Anthropic (10)](../companies/anthropic.md) · [Perplexity (4)](../companies/perplexity.md) · [C3 AI (3)](../companies/c3-ai.md) · [Microsoft AI (3)](../companies/microsoft-ai.md) · [xAI (3)](../companies/xai.md) · [Cohere (2)](../companies/cohere.md) · [Cursor (2)](../companies/cursor.md) · [Mercor (2)](../companies/mercor.md) · [Scale AI (2)](../companies/scale-ai.md) · [Harvey (1)](../companies/harvey.md) · [Mistral AI (1)](../companies/mistral-ai.md) · [Moveworks (1)](../companies/moveworks.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -40,7 +40,6 @@
 | **[OpenAI](../companies/openai.md)** | [Design a Time-Windowed GPU Credit Ledger](https://trueinterview.io/questions/design-a-time-windowed-gpu-credit-ledger) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-time-windowed-gpu-credit-ledger) | Aug 16, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Design Distributed AI Model Downloader](https://trueinterview.io/questions/distributed-model-deployment-system-design) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/distributed-model-deployment-system-design) | Aug 2026 |
 | **[OpenAI](../companies/openai.md)** / [Atlassian](../companies/atlassian.md) / [Databricks](../companies/databricks.md) / +5 | [Design Distributed Web Crawler](https://trueinterview.io/questions/design-distributed-web-crawler-4) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-distributed-web-crawler-4) | Aug 2026 |
-| **[OpenAI](../companies/openai.md)** | [Versioned User Follow Graph with Snapshots](https://trueinterview.io/questions/a2405f87-543a-54c9-8884-3b476be29ece) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/a2405f87-543a-54c9-8884-3b476be29ece) | Aug 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design a Highly Available Conversational AI Service](https://trueinterview.io/questions/design-a-highly-available-conversational-ai-service) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-highly-available-conversational-ai-service) | Jul 17, 2026 |
 | **[Coinbase](../companies/coinbase.md)** / [Anthropic](../companies/anthropic.md) | [Bank System](https://trueinterview.io/questions/bank-system) | OA | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bank-system) | Jul 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Design GPU Inference Serving System](https://trueinterview.io/questions/inference-api-system-design) | Phone · Onsite | **Senior** · **Staff+** · Manager | System design | [![Practice][p]](https://trueinterview.io/questions/inference-api-system-design) | Jul 2026 |

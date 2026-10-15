@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**4,121 questions** · 2,821 at Senior/Staff+ · 862 reported in the last 90 days · 395 free to solve
+**4,122 questions** · 2,819 at Senior/Staff+ · 862 reported in the last 90 days · 395 free to solve
 
-**Rounds:** 📝 OA (674) · 📞 Phone (2,107) · 🏢 Onsite (1,640) · 🏠 Take-home (10)
+**Rounds:** 📝 OA (673) · 📞 Phone (2,109) · 🏢 Onsite (1,641) · 🏠 Take-home (10)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · **5** · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md)</sub>
 

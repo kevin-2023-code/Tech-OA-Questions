@@ -8,11 +8,11 @@
 >
 > **Where:** Employers the shared company registry files under *Quant trading & hedge funds* — Jane Street, Citadel, Hudson River Trading, Two Sigma, Optiver and the rest.
 
-**13 questions** · 13 at Senior/Staff+ · 4 reported in the last 90 days · 2 free to solve
+**13 questions** · 13 at Senior/Staff+ · 4 reported in the last 90 days · 1 free to solve
 
 **Rounds:** 📞 Phone (10) · 🏢 Onsite (3)
 
-**Companies:** [Jane Street (5)](../companies/jane-street.md) · [Citadel (4)](../companies/citadel.md) · [Chicago Trading (1)](../companies/chicago-trading.md) · [Optiver (1)](../companies/optiver.md) · [Squarepoint (1)](../companies/squarepoint.md) · [Voleon (1)](../companies/voleon.md)
+**Companies:** [Citadel (5)](../companies/citadel.md) · [Jane Street (5)](../companies/jane-street.md) · [Optiver (1)](../companies/optiver.md) · [Squarepoint (1)](../companies/squarepoint.md) · [Voleon (1)](../companies/voleon.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -25,7 +25,6 @@
 | **[Citadel](../companies/citadel.md)** | [Choose 200 of a Million Records to Label, Improving on Uniform Random Sampling](https://trueinterview.io/questions/choose-200-of-a-million-records-to-label-improving-on-uniform-random-sampling) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/choose-200-of-a-million-records-to-label-improving-on-uniform-random-sampling) | Aug 29, 2026 |
 | **[Jane Street](../companies/jane-street.md)** | [Design Exchange and Instrument Abstractions for Quote Arbitrage](https://trueinterview.io/questions/design-exchange-and-instrument-abstractions-for-quote-arbitrage) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-exchange-and-instrument-abstractions-for-quote-arbitrage) | Aug 24, 2026 |
 | **[Jane Street](../companies/jane-street.md)** | [Process One Million Quote Updates per Second](https://trueinterview.io/questions/process-one-million-quote-updates-per-second) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/process-one-million-quote-updates-per-second) | Aug 24, 2026 |
-| **[Chicago Trading](../companies/chicago-trading.md)** | [Simplified Producer-Consumer System with Thread-Safe Bounded Storage](https://trueinterview.io/questions/15eeeb4d-047a-5c82-b3f2-0fe0eb40fe1c) | Phone | **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/15eeeb4d-047a-5c82-b3f2-0fe0eb40fe1c) | Jul 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +5 | [Trapping Rain Water](https://trueinterview.io/questions/trapping-rain-water) | Phone | Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/trapping-rain-water) | Jun 2026 |
 | **[Citadel](../companies/citadel.md)** | [Design Inventory Availability and Order Placement](https://trueinterview.io/questions/design-inventory-availability-and-order-placement) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-inventory-availability-and-order-placement) | Apr 6, 2026 |
 | **[Jane Street](../companies/jane-street.md)** | [Design a Real-vs-Fake DNA Classifier](https://trueinterview.io/questions/design-a-real-vs-fake-dna-classifier) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-real-vs-fake-dna-classifier) | Jan 27, 2026 |
@@ -33,4 +32,5 @@
 | **[Jane Street](../companies/jane-street.md)** | [Validate order book data across multiple databases](https://trueinterview.io/questions/validate-order-book-data-across-multiple-databases) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/validate-order-book-data-across-multiple-databases) | Dec 15, 2025 |
 | **[Optiver](../companies/optiver.md)** | [Low-Latency Trading System Design](https://trueinterview.io/questions/trading-system-design) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/trading-system-design) | Dec 13, 2025 |
 | **[Voleon](../companies/voleon.md)** | [Analyze time-zoned events with pandas](https://trueinterview.io/questions/analyze-time-zoned-events-with-pandas) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/analyze-time-zoned-events-with-pandas) | — |
+| **[Citadel](../companies/citadel.md)** | [Design city home-price prediction system](https://trueinterview.io/questions/design-city-home-price-prediction-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-city-home-price-prediction-system) | — |
 | **[Citadel](../companies/citadel.md)** | [Estimate OLS via streaming sufficient statistics](https://trueinterview.io/questions/estimate-ols-via-streaming-sufficient-statistics) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/estimate-ols-via-streaming-sufficient-statistics) | — |

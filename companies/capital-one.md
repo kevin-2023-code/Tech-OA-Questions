@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Team Ranking Based on Scores and Goal Difference](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | 🆕 Sep 16, 2026 |
+| [Team Ranking Based on Scores and Goal Difference](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | 🆕 Sep 16, 2026 |
 | [Find Repeated-Value Patterns in a Matrix](https://trueinterview.io/questions/find-repeated-value-patterns-in-a-matrix) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/find-repeated-value-patterns-in-a-matrix) | 🆕 Sep 7, 2026 |
 | [Banking System with Transaction Activity](https://trueinterview.io/questions/29511aba-ee37-4801-8081-956ebe7d0a75) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/29511aba-ee37-4801-8081-956ebe7d0a75) | 🆕 Sep 2026 |
 | [Check Alternating Peaks and Valleys in a Circular Array](https://trueinterview.io/questions/2a51b3dc-6f2d-5830-89b2-7515275b4bad) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/2a51b3dc-6f2d-5830-89b2-7515275b4bad) | 🆕 Sep 2026 |

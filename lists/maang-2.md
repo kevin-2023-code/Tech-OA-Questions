@@ -6,11 +6,11 @@
 
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,171 questions** · 829 at Senior/Staff+ · 308 reported in the last 90 days · 70 free to solve
+**1,172 questions** · 830 at Senior/Staff+ · 308 reported in the last 90 days · 70 free to solve
 
-**Rounds:** 📝 OA (139) · 📞 Phone (592) · 🏢 Onsite (537) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (139) · 📞 Phone (593) · 🏢 Onsite (538) · 🏠 Take-home (1)
 
-**Companies:** [Meta (334)](../companies/meta.md) · [Amazon (320)](../companies/amazon.md) · [Google (266)](../companies/google.md) · [Microsoft (186)](../companies/microsoft.md) · [Apple (142)](../companies/apple.md) · [Netflix (88)](../companies/netflix.md)
+**Companies:** [Meta (335)](../companies/meta.md) · [Amazon (320)](../companies/amazon.md) · [Google (266)](../companies/google.md) · [Microsoft (186)](../companies/microsoft.md) · [Apple (142)](../companies/apple.md) · [Netflix (88)](../companies/netflix.md)
 
 <sub>Page [1](maang.md) · **2** · [3](maang-3.md)</sub>
 
@@ -303,6 +303,7 @@
 | **[Amazon](../companies/amazon.md)** | [Recursive Schema Validation](https://trueinterview.io/questions/schema-validation-recursive) | Onsite | **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/schema-validation-recursive) | Mar 21, 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Mar 21, 2026 |
 | **[Meta](../companies/meta.md)** | [Execute matrix transformation commands](https://trueinterview.io/questions/solve-four-online-assessment-problems-execute-matrix-transformation-commands) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-online-assessment-problems-execute-matrix-transformation-commands) | Mar 19, 2026 |
+| **[Meta](../companies/meta.md)** | [Mouse and Cheese / Maze Rewards](https://trueinterview.io/questions/mouse-and-cheese-maze-rewards) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/mouse-and-cheese-maze-rewards) | Mar 19, 2026 |
 | **[Meta](../companies/meta.md)** | [Schedule round trips](https://trueinterview.io/questions/solve-four-online-assessment-problems-schedule-round-trips) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-online-assessment-problems-schedule-round-trips) | Mar 19, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Resumable Batch Dataloader with Weighted Sampling](https://trueinterview.io/questions/resumable-batch-dataloader) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/resumable-batch-dataloader) | Mar 18, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Line Intersection Points](https://trueinterview.io/questions/line-intersection-points) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/line-intersection-points) | Mar 17, 2026 |
@@ -381,7 +382,7 @@
 | **[Google](../companies/google.md)** | [Design a Dormitory Room-Assignment System](https://trueinterview.io/questions/design-a-dormitory-room-assignment-system-ood) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-dormitory-room-assignment-system-ood) | Feb 22, 2026 |
 | **[Meta](../companies/meta.md)** | [Find Kth Largest and Tree Ancestors](https://trueinterview.io/questions/find-kth-largest-and-tree-ancestors) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-kth-largest-and-tree-ancestors) | Feb 22, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Music Player with Frequency Priority](https://trueinterview.io/questions/music-player-frequency-priority) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/music-player-frequency-priority) | Feb 22, 2026 |
-| **[Snowflake](../companies/snowflake.md)** / [Google](../companies/google.md) | [Grep With Context Lines](https://trueinterview.io/questions/grep-with-context-lines) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/grep-with-context-lines) | Feb 19, 2026 |
+| **[Snowflake](../companies/snowflake.md)** / [Google](../companies/google.md) | [Grep With Context Lines](https://trueinterview.io/questions/grep-with-context-lines) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/grep-with-context-lines) | Feb 19, 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** / [Microsoft](../companies/microsoft.md) | [Add Two Strings with a Single-Digit Adder](https://trueinterview.io/questions/add-two-strings-with-single-digit-adder) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/add-two-strings-with-single-digit-adder) | Feb 18, 2026 |
 | **[Capital One](../companies/capital-one.md)** / [Meta](../companies/meta.md) | [Battery Usage with Recharge Cycle](https://trueinterview.io/questions/battery-recharge-cycle) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/battery-recharge-cycle) | Feb 18, 2026 |
 | **[Meta](../companies/meta.md)** | [Connect next pointers for each tree level](https://trueinterview.io/questions/connect-next-pointers-for-each-tree-level) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/connect-next-pointers-for-each-tree-level) | Feb 17, 2026 |
@@ -420,6 +421,5 @@
 | **[Microsoft](../companies/microsoft.md)** | [Parse Email Addresses from a Log String](https://trueinterview.io/questions/parse-emails-state-machine) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/parse-emails-state-machine) | Feb 1, 2026 |
 | **[Meta](../companies/meta.md)** | [Posts and Replies Engagement](https://trueinterview.io/questions/posts-and-replies-engagement) | Phone | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/posts-and-replies-engagement) | Feb 1, 2026 |
 | **[Google](../companies/google.md)** | [Restaurant Waitlist: join / delete / find_first_match](https://trueinterview.io/questions/waitlist-data-structure-with-table-size-match) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/waitlist-data-structure-with-table-size-match) | Feb 1, 2026 |
-| **[Meta](../companies/meta.md)** | [Solve tree view and parentheses cleanup](https://trueinterview.io/questions/solve-tree-view-and-parentheses-cleanup) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-tree-view-and-parentheses-cleanup) | Feb 1, 2026 |
 
 <sub>Page [1](maang.md) · **2** · [3](maang-3.md)</sub>

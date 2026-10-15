@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**4,121 questions** · 2,821 at Senior/Staff+ · 862 reported in the last 90 days · 395 free to solve
+**4,122 questions** · 2,819 at Senior/Staff+ · 862 reported in the last 90 days · 395 free to solve
 
-**Rounds:** 📝 OA (674) · 📞 Phone (2,107) · 🏢 Onsite (1,640) · 🏠 Take-home (10)
+**Rounds:** 📝 OA (673) · 📞 Phone (2,109) · 🏢 Onsite (1,641) · 🏠 Take-home (10)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · **7** · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md)</sub>
 
@@ -17,11 +17,12 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[IBM](../companies/ibm.md)** | [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Feb 22, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Music Player with Frequency Priority](https://trueinterview.io/questions/music-player-frequency-priority) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/music-player-frequency-priority) | Feb 22, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Round-Robin Tournament Schedule](https://trueinterview.io/questions/round-robin-tournament-schedule) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/round-robin-tournament-schedule) | Feb 22, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Streaming Social-Media Mentions & Aggregation](https://trueinterview.io/questions/streaming-social-media-mentions-aggregation) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/streaming-social-media-mentions-aggregation) | Feb 22, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Banking — Deposit / Withdraw / Transaction / Balance](https://trueinterview.io/questions/banking-transactions-class) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/banking-transactions-class) | Feb 19, 2026 |
-| **[Snowflake](../companies/snowflake.md)** / [Google](../companies/google.md) | [Grep With Context Lines](https://trueinterview.io/questions/grep-with-context-lines) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/grep-with-context-lines) | Feb 19, 2026 |
+| **[Snowflake](../companies/snowflake.md)** / [Google](../companies/google.md) | [Grep With Context Lines](https://trueinterview.io/questions/grep-with-context-lines) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/grep-with-context-lines) | Feb 19, 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** / [Microsoft](../companies/microsoft.md) | [Add Two Strings with a Single-Digit Adder](https://trueinterview.io/questions/add-two-strings-with-single-digit-adder) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/add-two-strings-with-single-digit-adder) | Feb 18, 2026 |
 | **[Capital One](../companies/capital-one.md)** / [Meta](../companies/meta.md) | [Battery Usage with Recharge Cycle](https://trueinterview.io/questions/battery-recharge-cycle) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/battery-recharge-cycle) | Feb 18, 2026 |
 | **[Shopify](../companies/shopify.md)** | [Build model to predict package delivery time](https://trueinterview.io/questions/build-model-to-predict-package-delivery-time) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/build-model-to-predict-package-delivery-time) | Feb 18, 2026 |
@@ -241,7 +242,7 @@
 | **[Confluent](../companies/confluent.md)** | [Warehouse Loading: Reach TargetWeight at Any Point with Reordered +/- Weights](https://trueinterview.io/questions/a15b120c-3931-4891-9663-20471e3207cb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a15b120c-3931-4891-9663-20471e3207cb) | Feb 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Water Pouring Problem](https://trueinterview.io/questions/b70c9cb6-02b6-445e-bc21-2135d02ea01b) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b70c9cb6-02b6-445e-bc21-2135d02ea01b) | Feb 2026 |
 | **[Citadel](../companies/citadel.md)** / [ByteDance](../companies/bytedance.md) | [Wildcard / Regex String Matching (`*` operator)](https://trueinterview.io/questions/wildcard-regex-matching) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/wildcard-regex-matching) | Feb 2026 |
-| **[Bloomberg](../companies/bloomberg.md)** | [Word Search in 2D Grid](https://trueinterview.io/questions/word-search-grid) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search-grid) | Feb 2026 |
+| **[Bloomberg](../companies/bloomberg.md)** | [Word Search in 2D Grid](https://trueinterview.io/questions/word-search-grid) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search-grid) | Feb 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Wordle Character Compare](https://trueinterview.io/questions/wordle-character-compare) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/wordle-character-compare) | Feb 2026 |
 | **[Amazon](../companies/amazon.md)** | [Prefix Frequency Partition](https://trueinterview.io/questions/equal-block-prefix-via-prefix-hash) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/equal-block-prefix-via-prefix-hash) | Jan 31, 2026 |
 | **[Amazon](../companies/amazon.md)** | [VM Inventory Rental — Heap Simulation](https://trueinterview.io/questions/vm-inventory-rental-heap) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/vm-inventory-rental-heap) | Jan 31, 2026 |
@@ -416,6 +417,5 @@
 | **[Citadel](../companies/citadel.md)** | [Find Earliest Available Meeting Slot](https://trueinterview.io/questions/find-earliest-available-meeting-slot) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-earliest-available-meeting-slot) | Jan 5, 2026 |
 | **[Uber](../companies/uber.md)** | [Number of Ways to Earn Points](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Jan 5, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Pandigital Sum](https://trueinterview.io/questions/pandigital-sum) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/pandigital-sum) | Jan 5, 2026 |
-| **[Uber](../companies/uber.md)** | [Print Folder Path Given Node ID](https://trueinterview.io/questions/print-folder-path-given-node-id) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/print-folder-path-given-node-id) | Jan 5, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · **7** · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md)</sub>

@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**4,121 questions** · 2,821 at Senior/Staff+ · 862 reported in the last 90 days · 395 free to solve
+**4,122 questions** · 2,819 at Senior/Staff+ · 862 reported in the last 90 days · 395 free to solve
 
-**Rounds:** 📝 OA (674) · 📞 Phone (2,107) · 🏢 Onsite (1,640) · 🏠 Take-home (10)
+**Rounds:** 📝 OA (673) · 📞 Phone (2,109) · 🏢 Onsite (1,641) · 🏠 Take-home (10)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · **4** · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md)</sub>
 
@@ -314,7 +314,7 @@
 | **[Reddit](../companies/reddit.md)** | [Design Tennis Scoring with Pluggable Rules](https://trueinterview.io/questions/design-tennis-scoring-with-pluggable-rules) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tennis-scoring-with-pluggable-rules) | May 6, 2026 |
 | **[Meta](../companies/meta.md)** | [Harmful / Weapon-Sales Content Detection](https://trueinterview.io/questions/mlsd-harmful-content-detection) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/mlsd-harmful-content-detection) | May 6, 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [NFT Feature Generation](https://trueinterview.io/questions/nft-feature-generation) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/nft-feature-generation) | May 6, 2026 |
-| **[Waymo](../companies/waymo.md)** | [Randomly Populate Grid with Connected Equal-Size Token Regions](https://trueinterview.io/questions/random-grid-token-fill) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/random-grid-token-fill) | May 6, 2026 |
+| **[Waymo](../companies/waymo.md)** | [Randomly Populate Grid with Connected Equal-Size Token Regions](https://trueinterview.io/questions/random-grid-token-fill) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/random-grid-token-fill) | May 6, 2026 |
 | **[Ramp](../companies/ramp.md)** | [URL Maze Traversal](https://trueinterview.io/questions/url-maze-graph-traversal) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/url-maze-graph-traversal) | May 6, 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Worker Salary](https://trueinterview.io/questions/worker-salary-oa) | OA | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/worker-salary-oa) | May 6, 2026 |
 | **[Meta](../companies/meta.md)** | [AI-Enabled System Design — Agent System](https://trueinterview.io/questions/system-design-ai-enabled-agent-system) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-ai-enabled-agent-system) | May 5, 2026 |

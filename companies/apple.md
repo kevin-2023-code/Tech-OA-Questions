@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Apple on TrueInterview](https://trueinterview.io/problems/company/apple) · [How Apple interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/apple/README.md)
 
-🏛️ MAANG+ · **142 questions** · Senior & Staff+ 105 · ML & Research Scientist 20 · last reported Sep 2026
+🏛️ MAANG+ · **142 questions** · Senior & Staff+ 104 · ML & Research Scientist 20 · last reported Sep 2026
 
 **Rounds:** 📝 OA (14) · 📞 Phone (107) · 🏢 Onsite (41)
 
@@ -31,7 +31,7 @@
 | [Sparse Matrix Multiplication (LC 311)](https://trueinterview.io/questions/sparse-matrix-multiplication) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/sparse-matrix-multiplication) | Aug 26, 2026 |
 | [Choose File Storage Tiers Using Access Predictions](https://trueinterview.io/questions/choose-file-storage-tiers-using-access-predictions) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/choose-file-storage-tiers-using-access-predictions) | Aug 24, 2026 |
 | [Forecast Storage Demand Across 100 Data Centers](https://trueinterview.io/questions/forecast-storage-demand-across-100-data-centers) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/forecast-storage-demand-across-100-data-centers) | Aug 24, 2026 |
-| [Copy List with Random Pointer (LC 138)](https://trueinterview.io/questions/copy-list-with-random-pointer-2) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/copy-list-with-random-pointer-2) | Aug 16, 2026 |
+| [Copy List with Random Pointer (LC 138)](https://trueinterview.io/questions/copy-list-with-random-pointer-2) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/copy-list-with-random-pointer-2) | Aug 16, 2026 |
 | [Cross-Device Wallpaper Synchronization](https://trueinterview.io/questions/cross-device-wallpaper-synchronization) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/cross-device-wallpaper-synchronization) | Aug 16, 2026 |
 | [Trade In Payouts](https://trueinterview.io/questions/trade-in-payouts) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/trade-in-payouts) | Aug 13, 2026 |
 | [Large-Scale Media Transfer to ML Compute](https://trueinterview.io/questions/large-scale-media-transfer-to-ml-compute) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/large-scale-media-transfer-to-ml-compute) | Aug 8, 2026 |
@@ -149,12 +149,12 @@
 | [Design Disk-Based Inventory Serving](https://trueinterview.io/questions/design-disk-based-inventory-serving) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-disk-based-inventory-serving) | Oct 28, 2025 |
 | [Scale Digit-Square Convergence Requests](https://trueinterview.io/questions/scale-digit-square-convergence-requests) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/scale-digit-square-convergence-requests) | Oct 28, 2025 |
 | [Solve Digit-Square and Grid BFS Problems](https://trueinterview.io/questions/solve-digit-square-and-grid-bfs-problems) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-digit-square-and-grid-bfs-problems) | Oct 28, 2025 |
-| [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170)<br><sub>also [Meta](../companies/meta.md)</sub> | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
-| [Classify the Difference Between Two Calendar Dates](https://trueinterview.io/questions/1fd937c6-7de8-57d7-9b2d-c96a07d39ab2) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/1fd937c6-7de8-57d7-9b2d-c96a07d39ab2) | — |
+| [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170)<br><sub>also [Meta](../companies/meta.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
+| [Classify the Difference Between Two Calendar Dates](https://trueinterview.io/questions/1fd937c6-7de8-57d7-9b2d-c96a07d39ab2) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1fd937c6-7de8-57d7-9b2d-c96a07d39ab2) | — |
 | [Compute optimal matrix-chain multiplication order](https://trueinterview.io/questions/compute-optimal-matrix-chain-multiplication-order) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-optimal-matrix-chain-multiplication-order) | — |
 | [Detect sessions and gaps using SQL LEAD](https://trueinterview.io/questions/detect-sessions-and-gaps-using-sql-lead) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/detect-sessions-and-gaps-using-sql-lead) | — |
 | [Find longest uniform substring after k replacements](https://trueinterview.io/questions/find-longest-uniform-substring-after-k-replacements) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-longest-uniform-substring-after-k-replacements) | — |
-| [First Unique Element IV](https://trueinterview.io/questions/933927db-2acf-4529-88cf-b16cfd184b00) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/933927db-2acf-4529-88cf-b16cfd184b00) | — |
+| [First Unique Element IV](https://trueinterview.io/questions/933927db-2acf-4529-88cf-b16cfd184b00) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/933927db-2acf-4529-88cf-b16cfd184b00) | — |
 | [Graph Valid Tree](https://trueinterview.io/questions/graph-valid-tree) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/graph-valid-tree) | — |
 | [Python Debugging — Fix a Loop Condition Bug](https://trueinterview.io/questions/e9adef64-7ceb-4294-bae4-8d77a203ee81) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e9adef64-7ceb-4294-bae4-8d77a203ee81) | — |
 | [Reverse String Using Stream](https://trueinterview.io/questions/cd0c8b7a-32b1-466f-8b99-1eea4d72719b) | OA | — | Coding | [![Practice][p]](https://trueinterview.io/questions/cd0c8b7a-32b1-466f-8b99-1eea4d72719b) | — |

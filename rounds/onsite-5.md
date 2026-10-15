@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**1,640 questions** · 1,321 at Senior/Staff+ · 358 reported in the last 90 days · 115 free to solve
+**1,641 questions** · 1,323 at Senior/Staff+ · 358 reported in the last 90 days · 115 free to solve
 
-**By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (537)
+**By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (538)
 
-**Companies:** [Amazon (151)](../companies/amazon.md) · [Meta (143)](../companies/meta.md) · [Google (126)](../companies/google.md) · [Microsoft (92)](../companies/microsoft.md) · [Uber (87)](../companies/uber.md) · [ByteDance (79)](../companies/bytedance.md) · [OpenAI (79)](../companies/openai.md) · [LinkedIn (62)](../companies/linkedin.md) · [Netflix (59)](../companies/netflix.md) · [Databricks (54)](../companies/databricks.md) · [Snowflake (53)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Pinterest (48)](../companies/pinterest.md) · [Airbnb (47)](../companies/airbnb.md) · [Stripe (44)](../companies/stripe.md)
+**Companies:** [Amazon (151)](../companies/amazon.md) · [Meta (144)](../companies/meta.md) · [Google (126)](../companies/google.md) · [Microsoft (92)](../companies/microsoft.md) · [Uber (87)](../companies/uber.md) · [ByteDance (79)](../companies/bytedance.md) · [OpenAI (79)](../companies/openai.md) · [LinkedIn (62)](../companies/linkedin.md) · [Netflix (59)](../companies/netflix.md) · [Databricks (54)](../companies/databricks.md) · [Snowflake (53)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Pinterest (48)](../companies/pinterest.md) · [Airbnb (47)](../companies/airbnb.md) · [Stripe (44)](../companies/stripe.md)
 
 <sub>Page [1](onsite.md) · [2](onsite-2.md) · [3](onsite-3.md) · [4](onsite-4.md) · **5**</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Anthropic](../companies/anthropic.md)** | [Python Data Analysis on a Provided Dataset (Capacity Management Context)](https://trueinterview.io/questions/d03ad0c8-580a-4af4-8619-328ea8011719) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/d03ad0c8-580a-4af4-8619-328ea8011719) | — |
 | **[xAI](../companies/xai.md)** | [Radix Cache](https://trueinterview.io/questions/radix-cache) | Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/radix-cache) | — |
 | **[Uber](../companies/uber.md)** | [React Parking Lot System](https://trueinterview.io/questions/893e8e44-58d9-4d46-80c6-fecceb6d3b43) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/893e8e44-58d9-4d46-80c6-fecceb6d3b43) | — |
 | **[Microsoft](../companies/microsoft.md)** | [React Performance Review](https://trueinterview.io/questions/90794d67-2f02-4fea-8b1a-2c0d024a0416) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/90794d67-2f02-4fea-8b1a-2c0d024a0416) | — |
@@ -34,7 +35,7 @@
 | **[OpenAI](../companies/openai.md)** | [Spreadsheet Implementation with Cycle Detection and Caching](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | — |
 | **[Airtable](../companies/airtable.md)** | [Table Editing](https://trueinterview.io/questions/85fd5957-a580-4a82-b7b0-a1c5d8c86f27) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/85fd5957-a580-4a82-b7b0-a1c5d8c86f27) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Test 15s to 60s video length change](https://trueinterview.io/questions/test-15s-to-60s-video-length-change) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/test-15s-to-60s-video-length-change) | — |
-| **[LinkedIn](../companies/linkedin.md)** / [Meta](../companies/meta.md) | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |
+| **[LinkedIn](../companies/linkedin.md)** / [Meta](../companies/meta.md) | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |
 | **[Coinbase](../companies/coinbase.md)** | [Transaction History System with Add, Delete, and Balance Calculation](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | — |
 | **[Meta](../companies/meta.md)** | [Validate complete binary tree](https://trueinterview.io/questions/validate-complete-binary-tree) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-complete-binary-tree) | — |
 | **[Lyft](../companies/lyft.md)** | [Web Crawler with Communication Constraint](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | — |

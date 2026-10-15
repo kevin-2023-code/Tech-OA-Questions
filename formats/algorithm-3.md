@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,426 questions** · 1,414 at Senior/Staff+ · 528 reported in the last 90 days · 285 free to solve
+**2,427 questions** · 1,411 at Senior/Staff+ · 528 reported in the last 90 days · 285 free to solve
 
-**Rounds:** 📝 OA (548) · 📞 Phone (1,453) · 🏢 Onsite (615) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (547) · 📞 Phone (1,455) · 🏢 Onsite (616) · 🏠 Take-home (2)
 
-**Companies:** [Amazon (195)](../companies/amazon.md) · [Google (189)](../companies/google.md) · [ByteDance (174)](../companies/bytedance.md) · [Meta (171)](../companies/meta.md) · [Uber (154)](../companies/uber.md) · [Microsoft (119)](../companies/microsoft.md) · [Apple (98)](../companies/apple.md) · [Snowflake (95)](../companies/snowflake.md) · [Salesforce (68)](../companies/salesforce.md) · [Oracle (61)](../companies/oracle.md) · [Bloomberg (59)](../companies/bloomberg.md) · [Pinterest (57)](../companies/pinterest.md) · [LinkedIn (56)](../companies/linkedin.md) · [OpenAI (54)](../companies/openai.md) · [Citadel (51)](../companies/citadel.md)
+**Companies:** [Amazon (195)](../companies/amazon.md) · [Google (189)](../companies/google.md) · [ByteDance (174)](../companies/bytedance.md) · [Meta (172)](../companies/meta.md) · [Uber (154)](../companies/uber.md) · [Microsoft (119)](../companies/microsoft.md) · [Apple (98)](../companies/apple.md) · [Snowflake (95)](../companies/snowflake.md) · [Salesforce (68)](../companies/salesforce.md) · [Oracle (61)](../companies/oracle.md) · [Bloomberg (59)](../companies/bloomberg.md) · [Pinterest (57)](../companies/pinterest.md) · [LinkedIn (56)](../companies/linkedin.md) · [OpenAI (54)](../companies/openai.md) · [Citadel (51)](../companies/citadel.md)
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · **3** · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>
 
@@ -123,7 +123,7 @@
 | **[Waymo](../companies/waymo.md)** | [Count Same-Color Squares in an Unbounded Grid](https://trueinterview.io/questions/same-color-squares-in-grid) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/same-color-squares-in-grid) | May 6, 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Crypto Order Management (Kafka Consumer)](https://trueinterview.io/questions/crypto-order-management-kafka) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/crypto-order-management-kafka) | May 6, 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [NFT Feature Generation](https://trueinterview.io/questions/nft-feature-generation) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/nft-feature-generation) | May 6, 2026 |
-| **[Waymo](../companies/waymo.md)** | [Randomly Populate Grid with Connected Equal-Size Token Regions](https://trueinterview.io/questions/random-grid-token-fill) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/random-grid-token-fill) | May 6, 2026 |
+| **[Waymo](../companies/waymo.md)** | [Randomly Populate Grid with Connected Equal-Size Token Regions](https://trueinterview.io/questions/random-grid-token-fill) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/random-grid-token-fill) | May 6, 2026 |
 | **[Ramp](../companies/ramp.md)** | [URL Maze Traversal](https://trueinterview.io/questions/url-maze-graph-traversal) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/url-maze-graph-traversal) | May 6, 2026 |
 | **[Apple](../companies/apple.md)** | [Bag-of-Words Similarity Search from Scratch](https://trueinterview.io/questions/bag-of-words-similarity-search-from-scratch) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/bag-of-words-similarity-search-from-scratch) | May 5, 2026 |
 | **[Waymo](../companies/waymo.md)** | [Count Squares Formed by Segments](https://trueinterview.io/questions/count-squares-formed-by-segments) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-squares-formed-by-segments) | May 5, 2026 |

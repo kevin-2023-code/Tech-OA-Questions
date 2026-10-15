@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**674 questions** · 226 at Senior/Staff+ · 105 reported in the last 90 days · 117 free to solve
+**673 questions** · 220 at Senior/Staff+ · 105 reported in the last 90 days · 117 free to solve
 
 **By employer group:** 🧠 AI labs (33) · 📈 Quant firms (98) · 🏛️ MAANG+ (139)
 
@@ -22,7 +22,7 @@
 | **[Houzz](../companies/houzz.md)** | [Convert a Column Number to an Excel-Style Label](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | 🆕 Sep 18, 2026 |
 | **[SIG](../companies/sig.md)** | [Count Equal-Difference Triples After Each Add or Remove-All Operation](https://trueinterview.io/questions/count-equal-difference-triples-after-each-add-or-remove-all-operation) | OA | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/count-equal-difference-triples-after-each-add-or-remove-all-operation) | 🆕 Sep 17, 2026 |
 | **[SIG](../companies/sig.md)** | [Rotate a Square Matrix Clockwise While Both Diagonals Stay Fixed](https://trueinterview.io/questions/rotate-a-square-matrix-clockwise-while-both-diagonals-stay-fixed) | OA | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/rotate-a-square-matrix-clockwise-while-both-diagonals-stay-fixed) | 🆕 Sep 17, 2026 |
-| **[Capital One](../companies/capital-one.md)** | [Team Ranking Based on Scores and Goal Difference](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | 🆕 Sep 16, 2026 |
+| **[Capital One](../companies/capital-one.md)** | [Team Ranking Based on Scores and Goal Difference](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | 🆕 Sep 16, 2026 |
 | **[IBM](../companies/ibm.md)** | [VM Rental Revenue from Changing Stock](https://trueinterview.io/questions/vm-rental-revenue) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/vm-rental-revenue) | 🆕 Sep 14, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | 🆕 Sep 12, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Financial Account Ledger](https://trueinterview.io/questions/financial-account-ledger-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/financial-account-ledger-oa) | 🆕 Sep 11, 2026 |

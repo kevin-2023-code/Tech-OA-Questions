@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Bloomberg on TrueInterview](https://trueinterview.io/problems/company/bloomberg) · [How Bloomberg interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/bloomberg/README.md)
 
-**83 questions** · Senior & Staff+ 53 · Quant researcher & developer 1 · last reported Sep 2026
+**83 questions** · Senior & Staff+ 52 · Quant researcher & developer 1 · last reported Sep 2026
 
 **Rounds:** 📝 OA (4) · 📞 Phone (53) · 🏢 Onsite (39)
 
@@ -80,7 +80,7 @@
 | [Top-K Frequent Tickers (Stock Leaderboard)](https://trueinterview.io/questions/top-k-frequent-stock-tickers) | Phone · Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/top-k-frequent-stock-tickers) | Feb 2026 |
 | [Trie Data Structure](https://trueinterview.io/questions/a2b9e70f-efe6-45bc-a342-32df93289657) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a2b9e70f-efe6-45bc-a342-32df93289657) | Feb 2026 |
 | [Validate Stack Sequences](https://trueinterview.io/questions/29838791-2db8-4fd2-85df-b2c198bf9376)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/29838791-2db8-4fd2-85df-b2c198bf9376) | Feb 2026 |
-| [Word Search in 2D Grid](https://trueinterview.io/questions/word-search-grid) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search-grid) | Feb 2026 |
+| [Word Search in 2D Grid](https://trueinterview.io/questions/word-search-grid) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search-grid) | Feb 2026 |
 | [Wordle Character Compare](https://trueinterview.io/questions/wordle-character-compare) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/wordle-character-compare) | Feb 2026 |
 | [Array and DFS with Backtracking](https://trueinterview.io/questions/40de368d-03ee-43ac-8936-a91b44d9769d)<br><sub>also [SoFi](../companies/sofi.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md)</sub> | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/40de368d-03ee-43ac-8936-a91b44d9769d) | Jan 2026 |
 | [Evaluate Reverse Polish Notation](https://trueinterview.io/questions/3a77854f-49c9-41b1-9678-b0a29df247d9)<br><sub>also [Stripe](../companies/stripe.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a77854f-49c9-41b1-9678-b0a29df247d9) | Dec 2025 |

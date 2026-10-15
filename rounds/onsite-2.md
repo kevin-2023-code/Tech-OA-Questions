@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**1,640 questions** · 1,321 at Senior/Staff+ · 358 reported in the last 90 days · 115 free to solve
+**1,641 questions** · 1,323 at Senior/Staff+ · 358 reported in the last 90 days · 115 free to solve
 
-**By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (537)
+**By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (538)
 
-**Companies:** [Amazon (151)](../companies/amazon.md) · [Meta (143)](../companies/meta.md) · [Google (126)](../companies/google.md) · [Microsoft (92)](../companies/microsoft.md) · [Uber (87)](../companies/uber.md) · [ByteDance (79)](../companies/bytedance.md) · [OpenAI (79)](../companies/openai.md) · [LinkedIn (62)](../companies/linkedin.md) · [Netflix (59)](../companies/netflix.md) · [Databricks (54)](../companies/databricks.md) · [Snowflake (53)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Pinterest (48)](../companies/pinterest.md) · [Airbnb (47)](../companies/airbnb.md) · [Stripe (44)](../companies/stripe.md)
+**Companies:** [Amazon (151)](../companies/amazon.md) · [Meta (144)](../companies/meta.md) · [Google (126)](../companies/google.md) · [Microsoft (92)](../companies/microsoft.md) · [Uber (87)](../companies/uber.md) · [ByteDance (79)](../companies/bytedance.md) · [OpenAI (79)](../companies/openai.md) · [LinkedIn (62)](../companies/linkedin.md) · [Netflix (59)](../companies/netflix.md) · [Databricks (54)](../companies/databricks.md) · [Snowflake (53)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Pinterest (48)](../companies/pinterest.md) · [Airbnb (47)](../companies/airbnb.md) · [Stripe (44)](../companies/stripe.md)
 
 <sub>Page [1](onsite.md) · **2** · [3](onsite-3.md) · [4](onsite-4.md) · [5](onsite-5.md)</sub>
 
@@ -103,7 +103,7 @@
 | **[Google](../companies/google.md)** | [Streaming Points: Emit K Within Distance](https://trueinterview.io/questions/streaming-points-k-within-distance) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/streaming-points-k-within-distance) | Jun 23, 2026 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [Zero Compaction Array Coding](https://trueinterview.io/questions/zero-compaction-array-coding) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/zero-compaction-array-coding) | Jun 23, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Caesar Cipher with Case Preservation](https://trueinterview.io/questions/caesar-cipher) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/caesar-cipher) | Jun 22, 2026 |
-| **[Salesforce](../companies/salesforce.md)** | [Campaign Cost Weekly Partition](https://trueinterview.io/questions/campaign-cost-weekly-partition) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/campaign-cost-weekly-partition) | Jun 22, 2026 |
+| **[Salesforce](../companies/salesforce.md)** | [Campaign Cost Weekly Partition](https://trueinterview.io/questions/campaign-cost-weekly-partition) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/campaign-cost-weekly-partition) | Jun 22, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Code Review — Multi-PR Walkthrough](https://trueinterview.io/questions/code-review-multi-pr) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/code-review-multi-pr) | Jun 22, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Design an AI-Powered Jira Ticket Automation System](https://trueinterview.io/questions/design-an-ai-powered-jira-ticket-automation-system) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-ai-powered-jira-ticket-automation-system) | Jun 22, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Detect and Break a Linked-List Cycle](https://trueinterview.io/questions/linked-list-detect-break-cycle) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/linked-list-detect-break-cycle) | Jun 22, 2026 |
@@ -267,7 +267,7 @@
 | **[Coinbase](../companies/coinbase.md)** | [Crypto Order Management (Kafka Consumer)](https://trueinterview.io/questions/crypto-order-management-kafka) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/crypto-order-management-kafka) | May 6, 2026 |
 | **[Meta](../companies/meta.md)** | [Harmful / Weapon-Sales Content Detection](https://trueinterview.io/questions/mlsd-harmful-content-detection) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/mlsd-harmful-content-detection) | May 6, 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [NFT Feature Generation](https://trueinterview.io/questions/nft-feature-generation) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/nft-feature-generation) | May 6, 2026 |
-| **[Waymo](../companies/waymo.md)** | [Randomly Populate Grid with Connected Equal-Size Token Regions](https://trueinterview.io/questions/random-grid-token-fill) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/random-grid-token-fill) | May 6, 2026 |
+| **[Waymo](../companies/waymo.md)** | [Randomly Populate Grid with Connected Equal-Size Token Regions](https://trueinterview.io/questions/random-grid-token-fill) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/random-grid-token-fill) | May 6, 2026 |
 | **[Meta](../companies/meta.md)** | [AI-Enabled System Design — Agent System](https://trueinterview.io/questions/system-design-ai-enabled-agent-system) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-ai-enabled-agent-system) | May 5, 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Mining Block](https://trueinterview.io/questions/mining-block) | Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/mining-block) | May 5, 2026 |
 | **[Google](../companies/google.md)** | [Gate Entry / Exit Time Resolution with Tie-Break Rules](https://trueinterview.io/questions/gate-entry-exit-scheduler) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/gate-entry-exit-scheduler) | May 4, 2026 |

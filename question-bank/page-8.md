@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**4,121 questions** · 2,821 at Senior/Staff+ · 862 reported in the last 90 days · 395 free to solve
+**4,122 questions** · 2,819 at Senior/Staff+ · 862 reported in the last 90 days · 395 free to solve
 
-**Rounds:** 📝 OA (674) · 📞 Phone (2,107) · 🏢 Onsite (1,640) · 🏠 Take-home (10)
+**Rounds:** 📝 OA (673) · 📞 Phone (2,109) · 🏢 Onsite (1,641) · 🏠 Take-home (10)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · **8** · [9](page-9.md) · [10](page-10.md) · [11](page-11.md)</sub>
 
@@ -17,6 +17,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Uber](../companies/uber.md)** | [Print Folder Path Given Node ID](https://trueinterview.io/questions/print-folder-path-given-node-id) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/print-folder-path-given-node-id) | Jan 5, 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Product Feed and Shopping Recommendation System](https://trueinterview.io/questions/product-feed-and-shopping-recommendation-system) | Phone · Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/product-feed-and-shopping-recommendation-system) | Jan 5, 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Store a hierarchy and return all children](https://trueinterview.io/questions/store-a-hierarchy-and-return-all-children) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/store-a-hierarchy-and-return-all-children) | Jan 5, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Bagging from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | Jan 4, 2026 |
@@ -416,6 +417,5 @@
 | **[Expedia](../companies/expedia.md)** | [Design a listing connectivity ingestion service](https://trueinterview.io/questions/design-a-listing-connectivity-ingestion-service) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-listing-connectivity-ingestion-service) | Nov 5, 2025 |
 | **[Okta](../companies/okta.md)** | [Memory Allocator (Allocate / Free)](https://trueinterview.io/questions/memory-allocator-3) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/memory-allocator-3) | Nov 5, 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Communications Handler (CommsHandler)](https://trueinterview.io/questions/communications-handler) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/communications-handler) | Nov 4, 2025 |
-| **[Robinhood](../companies/robinhood.md)** | [Friendship and Balance Tracker](https://trueinterview.io/questions/friendship-and-balance-tracker) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/friendship-and-balance-tracker) | Nov 4, 2025 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · **8** · [9](page-9.md) · [10](page-10.md) · [11](page-11.md)</sub>

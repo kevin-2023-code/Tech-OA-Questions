@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Rubrik on TrueInterview](https://trueinterview.io/problems/company/rubrik) · [How Rubrik interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/rubrik/README.md)
 
-**19 questions** · Senior & Staff+ 13 · last reported Feb 2026
+**19 questions** · Senior & Staff+ 14 · last reported Feb 2026
 
 **Rounds:** 📝 OA (2) · 📞 Phone (17)
 
@@ -24,11 +24,11 @@
 | [String Shift](https://trueinterview.io/questions/dae58234-6fb4-4c0f-9168-307c63e27905) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/dae58234-6fb4-4c0f-9168-307c63e27905) | Feb 2025 |
 | [Bitonic Partitioning](https://trueinterview.io/questions/39978b32-5e85-4fb1-866a-878bc9a630ca) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/39978b32-5e85-4fb1-866a-878bc9a630ca) | — |
 | [Chain Merge](https://trueinterview.io/questions/f2173855-1f89-4b97-8dde-48f9a949a483) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f2173855-1f89-4b97-8dde-48f9a949a483) | — |
-| [Doing Smart Work](https://trueinterview.io/questions/c289bb51-4892-4291-99e5-08832daa7801) | Phone | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/c289bb51-4892-4291-99e5-08832daa7801) | — |
-| [Energy Crisis](https://trueinterview.io/questions/bd64beb0-36d0-4d3b-9dfe-063ea75dcdf4) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bd64beb0-36d0-4d3b-9dfe-063ea75dcdf4) | — |
+| [Doing Smart Work](https://trueinterview.io/questions/c289bb51-4892-4291-99e5-08832daa7801) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c289bb51-4892-4291-99e5-08832daa7801) | — |
+| [Energy Crisis](https://trueinterview.io/questions/bd64beb0-36d0-4d3b-9dfe-063ea75dcdf4) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bd64beb0-36d0-4d3b-9dfe-063ea75dcdf4) | — |
 | [Friendship String](https://trueinterview.io/questions/99375dc6-cb8e-404c-abc8-3d56c84f329c) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/99375dc6-cb8e-404c-abc8-3d56c84f329c) | — |
-| [Get Minimum Operations](https://trueinterview.io/questions/cb43fa07-ddf7-494b-9e87-878972064c9d) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/cb43fa07-ddf7-494b-9e87-878972064c9d) | — |
-| [Key Sum Management](https://trueinterview.io/questions/bb400936-26d5-47af-adf3-bfc0445aa432) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/bb400936-26d5-47af-adf3-bfc0445aa432) | — |
+| [Get Minimum Operations](https://trueinterview.io/questions/cb43fa07-ddf7-494b-9e87-878972064c9d) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/cb43fa07-ddf7-494b-9e87-878972064c9d) | — |
+| [Key Sum Management](https://trueinterview.io/questions/bb400936-26d5-47af-adf3-bfc0445aa432) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bb400936-26d5-47af-adf3-bfc0445aa432) | — |
 | [Maximize Happiness](https://trueinterview.io/questions/9a5a6369-36c2-41ca-923b-276bf08c2011) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/9a5a6369-36c2-41ca-923b-276bf08c2011) | — |
 | [Mike and Gems](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | — |
 | [Redistribute Megaseeds](https://trueinterview.io/questions/8b3d0ac6-7941-413d-bdc1-1e60684f1afb) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/8b3d0ac6-7941-413d-bdc1-1e60684f1afb) | — |

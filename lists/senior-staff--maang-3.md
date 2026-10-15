@@ -8,11 +8,11 @@
 >
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**829 questions** · 829 at Senior/Staff+ · 206 reported in the last 90 days · 53 free to solve
+**830 questions** · 830 at Senior/Staff+ · 205 reported in the last 90 days · 53 free to solve
 
-**Rounds:** 📝 OA (50) · 📞 Phone (432) · 🏢 Onsite (420) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (48) · 📞 Phone (434) · 🏢 Onsite (422) · 🏠 Take-home (1)
 
-**Companies:** [Meta (277)](../companies/meta.md) · [Amazon (184)](../companies/amazon.md) · [Google (181)](../companies/google.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (105)](../companies/apple.md) · [Netflix (77)](../companies/netflix.md)
+**Companies:** [Meta (278)](../companies/meta.md) · [Amazon (185)](../companies/amazon.md) · [Google (182)](../companies/google.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (104)](../companies/apple.md) · [Netflix (77)](../companies/netflix.md)
 
 <sub>Page [1](senior-staff--maang.md) · [2](senior-staff--maang-2.md) · **3**</sub>
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Amazon](../companies/amazon.md)** | [Top-to-Bottom Reachability and Minimum-Cost Paths in a Binary Grid](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | — |
 | **[Amazon](../companies/amazon.md)** | [Use LEFT JOIN to Find Missing Relationships](https://trueinterview.io/questions/6a588842-cf65-4bb1-944b-b4829bfe9511) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/6a588842-cf65-4bb1-944b-b4829bfe9511) | — |
 | **[Netflix](../companies/netflix.md)** | [User Last Order Date and Order Count SQL Query](https://trueinterview.io/questions/271dd842-2fcc-4d29-834a-4db7987216dd) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/271dd842-2fcc-4d29-834a-4db7987216dd) | — |
 | **[Meta](../companies/meta.md)** | [Validate complete binary tree](https://trueinterview.io/questions/validate-complete-binary-tree) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-complete-binary-tree) | — |

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Snowflake on TrueInterview](https://trueinterview.io/problems/company/snowflake) · [How Snowflake interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/snowflake/README.md)
 
-**128 questions** · Senior & Staff+ 78 · ML & Research Scientist 3 · last reported Sep 2026
+**128 questions** · Senior & Staff+ 76 · ML & Research Scientist 3 · last reported Sep 2026
 
 **Rounds:** 📝 OA (16) · 📞 Phone (89) · 🏢 Onsite (53)
 
@@ -103,7 +103,7 @@
 | [String-Command Calculator](https://trueinterview.io/questions/calculator-string-commands) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/calculator-string-commands) | Feb 26, 2026 |
 | [Min Coins to Pay with Change Allowed](https://trueinterview.io/questions/min-coins-with-change) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/min-coins-with-change) | Feb 25, 2026 |
 | [Service Failure Forensics](https://trueinterview.io/questions/service-failure-forensics) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/service-failure-forensics) | Feb 24, 2026 |
-| [Grep With Context Lines](https://trueinterview.io/questions/grep-with-context-lines)<br><sub>also [Google](../companies/google.md)</sub> | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/grep-with-context-lines) | Feb 19, 2026 |
+| [Grep With Context Lines](https://trueinterview.io/questions/grep-with-context-lines)<br><sub>also [Google](../companies/google.md)</sub> | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/grep-with-context-lines) | Feb 19, 2026 |
 | [N-Queens](https://trueinterview.io/questions/n-queens)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/n-queens) | Feb 16, 2026 |
 | [Merge Intervals](https://trueinterview.io/questions/merge-intervals)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +12</sub> | Phone | — | Coding | [![Free][f]](https://trueinterview.io/questions/merge-intervals) | Feb 4, 2026 |
 | [Top K Book Sales](https://trueinterview.io/questions/k-top-selling-books) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/k-top-selling-books) | Feb 1, 2026 |
@@ -124,7 +124,7 @@
 | [Valid Tic-Tac-Toe State (Extended)](https://trueinterview.io/questions/tic-tac-toe-valid-state-extended) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-valid-state-extended) | Nov 23, 2025 |
 | [ML Job Scheduler](https://trueinterview.io/questions/ml-job-scheduler)<br><sub>also [Netflix](../companies/netflix.md) / [Apple](../companies/apple.md)</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/ml-job-scheduler) | Nov 2025 |
 | [Unequal Elements](https://trueinterview.io/questions/unequal-elements) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/unequal-elements) | Jul 20, 2025 |
-| [Vowels Substring](https://trueinterview.io/questions/vowels-substring) | OA | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/vowels-substring) | Jul 20, 2025 |
+| [Vowels Substring](https://trueinterview.io/questions/vowels-substring) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/vowels-substring) | Jul 20, 2025 |
 | [Minimize Marbles in Grid](https://trueinterview.io/questions/c08bdfd1-9b28-482c-b014-65143dc1ed00) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/c08bdfd1-9b28-482c-b014-65143dc1ed00) | Jun 2025 |
 | [Calculate Fibonacci Number](https://trueinterview.io/questions/85108a7d-7e80-47be-bae4-69bca33e7216) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/85108a7d-7e80-47be-bae4-69bca33e7216) | Apr 2025 |
 | [Simple TypeScript Program](https://trueinterview.io/questions/3d8bad65-315a-4938-9ee9-e3567fcf8c55) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/3d8bad65-315a-4938-9ee9-e3567fcf8c55) | Apr 2025 |
@@ -134,13 +134,13 @@
 | [Determine if a Binary Tree is Perfect](https://trueinterview.io/questions/75c6f6e1-605a-4ddb-ac1a-cb0109ac3671) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/75c6f6e1-605a-4ddb-ac1a-cb0109ac3671) | Mar 2025 |
 | [Find Unique Number in Consecutive Pairs](https://trueinterview.io/questions/e16aea6c-a284-4b0f-8e45-02d87eb22027) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/e16aea6c-a284-4b0f-8e45-02d87eb22027) | Mar 2025 |
 | [Implement Trie with Non-Standard Alphabet](https://trueinterview.io/questions/a6dc4f5a-45a3-4687-a192-593d8fcd1712) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/a6dc4f5a-45a3-4687-a192-593d8fcd1712) | Mar 2025 |
-| [Minimum Value Weight](https://trueinterview.io/questions/5a6b8049-d36d-443f-b540-d8618d4e470c) | Phone | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/5a6b8049-d36d-443f-b540-d8618d4e470c) | Mar 2025 |
+| [Minimum Value Weight](https://trueinterview.io/questions/5a6b8049-d36d-443f-b540-d8618d4e470c) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/5a6b8049-d36d-443f-b540-d8618d4e470c) | Mar 2025 |
 | [Build a cohort dashboard with Streamlit and SQL](https://trueinterview.io/questions/build-a-cohort-dashboard-with-streamlit-and-sql) | Onsite | **Senior** · **Staff+** | SQL | [![Practice][p]](https://trueinterview.io/questions/build-a-cohort-dashboard-with-streamlit-and-sql) | — |
 | [Design an analytic warehouse for event data](https://trueinterview.io/questions/design-an-analytic-warehouse-for-event-data) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-analytic-warehouse-for-event-data) | — |
 | [Design and validate a cost-sensitive classifier](https://trueinterview.io/questions/design-and-validate-a-cost-sensitive-classifier) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-and-validate-a-cost-sensitive-classifier) | — |
-| [Determine Employees to Promote](https://trueinterview.io/questions/4833cb6c-1b0f-42e2-95f4-751c03039086) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4833cb6c-1b0f-42e2-95f4-751c03039086) | — |
+| [Determine Employees to Promote](https://trueinterview.io/questions/4833cb6c-1b0f-42e2-95f4-751c03039086) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/4833cb6c-1b0f-42e2-95f4-751c03039086) | — |
 | [Get Perfect Pairs Count](https://trueinterview.io/questions/b738f1a9-80bb-420c-b1e1-26d677279f90)<br><sub>also [Salesforce](../companies/salesforce.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b738f1a9-80bb-420c-b1e1-26d677279f90) | — |
-| [Maximum Order Volume](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | — |
+| [Maximum Order Volume](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | — |
 | [Query seven-day conversion with windows and dedupe](https://trueinterview.io/questions/query-seven-day-conversion-with-windows-and-dedupe) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/query-seven-day-conversion-with-windows-and-dedupe) | — |
 | [Role-Based Access Control with Inheritance and Deny Rules](https://trueinterview.io/questions/406c257a-cd8f-4c52-ba90-ea79a05da226) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/406c257a-cd8f-4c52-ba90-ea79a05da226) | — |
 | [Solve and optimize 3Sum and variants at scale](https://trueinterview.io/questions/solve-and-optimize-3sum-and-variants-at-scale) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-and-optimize-3sum-and-variants-at-scale) | — |

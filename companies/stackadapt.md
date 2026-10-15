@@ -6,7 +6,7 @@
 
 **5 questions** · Senior & Staff+ 4 · last reported Aug 2026
 
-**Rounds:** 📝 OA (1) · 📞 Phone (2) · 🏢 Onsite (2)
+**Rounds:** 📞 Phone (3) · 🏢 Onsite (2)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/stackadapt-interview-process)
 
@@ -20,5 +20,5 @@
 | [Median and Percentile from a Data Stream](https://trueinterview.io/questions/88889c89-92a7-5030-9755-7f876a069993) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/88889c89-92a7-5030-9755-7f876a069993) | Aug 2026 |
 | [Restaurant Recipe and Inventory Management](https://trueinterview.io/questions/ccad3380-939d-5dd7-80f7-ec94b71f9272) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ccad3380-939d-5dd7-80f7-ec94b71f9272) | Jul 2026 |
 | [Windowed Map (Time-Windowed Key-Value Store) with O(1) Operations and Window Average](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Mar 2026 |
-| [Priority-Based Rate-Limited Web Crawler Design](https://trueinterview.io/questions/b03b2470-1381-490c-9ac6-cd85d1245d22) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b03b2470-1381-490c-9ac6-cd85d1245d22) | — |
+| [Priority-Based Rate-Limited Web Crawler Design](https://trueinterview.io/questions/b03b2470-1381-490c-9ac6-cd85d1245d22) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b03b2470-1381-490c-9ac6-cd85d1245d22) | — |
 | [SongShuffler with Cooldown to Prevent Recent Repeats](https://trueinterview.io/questions/f2ece2d0-63e8-4cff-8b0b-adcbdb3fd61a) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f2ece2d0-63e8-4cff-8b0b-adcbdb3fd61a) | — |

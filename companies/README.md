@@ -8,15 +8,15 @@ Counts are per company: a question reported at three employers is on three pages
 
 | Company | Group | Questions | Senior/Staff+ | ML & research | Quant roles | Last reported |
 | :-- | :-- | --: | --: | --: | --: | :-- |
-| [Meta](meta.md) | 🏛️ MAANG+ | 334 | 277 | 20 | — | Sep 2026 |
-| [Amazon](amazon.md) | 🏛️ MAANG+ | 320 | 184 | 23 | 2 | Sep 2026 |
-| [Google](google.md) | 🏛️ MAANG+ | 266 | 181 | 6 | 4 | Sep 2026 |
+| [Meta](meta.md) | 🏛️ MAANG+ | 335 | 278 | 20 | — | Sep 2026 |
+| [Amazon](amazon.md) | 🏛️ MAANG+ | 320 | 185 | 23 | 2 | Sep 2026 |
+| [Google](google.md) | 🏛️ MAANG+ | 266 | 182 | 6 | 4 | Sep 2026 |
 | [ByteDance](bytedance.md) | — | 255 | 174 | 15 | 3 | Sep 2026 |
 | [Uber](uber.md) | — | 217 | 162 | 12 | 2 | Sep 2026 |
 | [Microsoft](microsoft.md) | 🏛️ MAANG+ | 186 | 135 | 17 | 2 | Sep 2026 |
 | [OpenAI](openai.md) | 🧠 AI labs | 144 | 136 | 40 | — | Sep 2026 |
-| [Apple](apple.md) | 🏛️ MAANG+ | 142 | 105 | 20 | — | Sep 2026 |
-| [Snowflake](snowflake.md) | — | 128 | 78 | 3 | — | Sep 2026 |
+| [Apple](apple.md) | 🏛️ MAANG+ | 142 | 104 | 20 | — | Sep 2026 |
+| [Snowflake](snowflake.md) | — | 128 | 76 | 3 | — | Sep 2026 |
 | [LinkedIn](linkedin.md) | — | 116 | 105 | 9 | — | Sep 2026 |
 | [DoorDash](doordash.md) | — | 107 | 86 | 6 | — | Sep 2026 |
 | [Pinterest](pinterest.md) | — | 101 | 82 | 13 | — | Sep 2026 |
@@ -26,7 +26,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Salesforce](salesforce.md) | — | 88 | 60 | — | — | Sep 2026 |
 | [Roblox](roblox.md) | — | 86 | 66 | 6 | — | Sep 2026 |
 | [Capital One](capital-one.md) | — | 84 | 49 | 7 | — | Sep 2026 |
-| [Bloomberg](bloomberg.md) | — | 83 | 53 | — | 1 | Sep 2026 |
+| [Bloomberg](bloomberg.md) | — | 83 | 52 | — | 1 | Sep 2026 |
 | [Anthropic](anthropic.md) | 🧠 AI labs | 79 | 66 | 14 | — | Sep 2026 |
 | [Databricks](databricks.md) | — | 79 | 68 | 3 | — | Sep 2026 |
 | [Airbnb](airbnb.md) | — | 78 | 67 | 5 | — | Sep 2026 |
@@ -73,7 +73,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Tradedesk](tradedesk.md) | — | 21 | 11 | — | — | Sep 2026 |
 | [Harvey](harvey.md) | 🧠 AI labs | 20 | 20 | 3 | — | Sep 2026 |
 | [Yelp](yelp.md) | — | 20 | 20 | — | — | Sep 2026 |
-| [Rubrik](rubrik.md) | — | 19 | 13 | — | — | Feb 2026 |
+| [Rubrik](rubrik.md) | — | 19 | 14 | — | — | Feb 2026 |
 | [Hudson River Trading](hudson-river-trading.md) | 📈 Quant firms | 18 | 6 | — | 17 | Aug 2026 |
 | [Affirm](affirm.md) | — | 17 | 12 | 1 | — | Sep 2026 |
 | [Whatnot](whatnot.md) | — | 17 | 16 | 1 | — | Sep 2026 |
@@ -88,7 +88,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Nuro](nuro.md) | — | 11 | 11 | 3 | — | Aug 2026 |
 | [Palantir](palantir.md) | — | 11 | 8 | — | — | Aug 2026 |
 | [Voleon](voleon.md) | 📈 Quant firms | 11 | 7 | — | 4 | Aug 2026 |
-| [Boston Consulting Group](boston-consulting-group.md) | — | 10 | 8 | — | 1 | Sep 2026 |
+| [Boston Consulting Group](boston-consulting-group.md) | — | 10 | 7 | — | 1 | Sep 2026 |
 | [CVS Health](cvs-health.md) | — | 10 | 10 | — | — | Oct 2025 |
 | [Airtable](airtable.md) | — | 8 | 8 | 1 | — | Jul 2026 |
 | [Airwallex](airwallex.md) | — | 8 | 7 | — | — | Sep 2026 |

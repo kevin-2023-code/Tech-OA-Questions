@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Boston Consulting Group on TrueInterview](https://trueinterview.io/problems/company/boston-consulting-group) · [How Boston Consulting Group interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/boston-consulting-group/README.md)
 
-**10 questions** · Senior & Staff+ 8 · Quant researcher & developer 1 · last reported Sep 2026
+**10 questions** · Senior & Staff+ 7 · Quant researcher & developer 1 · last reported Sep 2026
 
 **Rounds:** 📝 OA (4) · 📞 Phone (6) · 🏢 Onsite (1)
 
@@ -23,5 +23,5 @@
 | [Achieve 0.95 precision via thresholding](https://trueinterview.io/questions/achieve-0-95-precision-via-thresholding) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/achieve-0-95-precision-via-thresholding) | — |
 | [Design and sample for credit default prediction](https://trueinterview.io/questions/design-and-sample-for-credit-default-prediction) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-and-sample-for-credit-default-prediction) | — |
 | [Query top spenders and 7-day growth](https://trueinterview.io/questions/query-top-spenders-and-7-day-growth) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/query-top-spenders-and-7-day-growth) | — |
-| [Transform and aggregate messy event data](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | — |
-| [Transform messy transactions with pandas](https://trueinterview.io/questions/transform-messy-transactions-with-pandas) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-messy-transactions-with-pandas) | — |
+| [Transform and aggregate messy event data](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | — |
+| [Transform messy transactions with pandas](https://trueinterview.io/questions/transform-messy-transactions-with-pandas) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-messy-transactions-with-pandas) | — |

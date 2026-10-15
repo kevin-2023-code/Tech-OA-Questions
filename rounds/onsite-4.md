@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**1,640 questions** · 1,321 at Senior/Staff+ · 358 reported in the last 90 days · 115 free to solve
+**1,641 questions** · 1,323 at Senior/Staff+ · 358 reported in the last 90 days · 115 free to solve
 
-**By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (537)
+**By employer group:** 🧠 AI labs (182) · 📈 Quant firms (47) · 🏛️ MAANG+ (538)
 
-**Companies:** [Amazon (151)](../companies/amazon.md) · [Meta (143)](../companies/meta.md) · [Google (126)](../companies/google.md) · [Microsoft (92)](../companies/microsoft.md) · [Uber (87)](../companies/uber.md) · [ByteDance (79)](../companies/bytedance.md) · [OpenAI (79)](../companies/openai.md) · [LinkedIn (62)](../companies/linkedin.md) · [Netflix (59)](../companies/netflix.md) · [Databricks (54)](../companies/databricks.md) · [Snowflake (53)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Pinterest (48)](../companies/pinterest.md) · [Airbnb (47)](../companies/airbnb.md) · [Stripe (44)](../companies/stripe.md)
+**Companies:** [Amazon (151)](../companies/amazon.md) · [Meta (144)](../companies/meta.md) · [Google (126)](../companies/google.md) · [Microsoft (92)](../companies/microsoft.md) · [Uber (87)](../companies/uber.md) · [ByteDance (79)](../companies/bytedance.md) · [OpenAI (79)](../companies/openai.md) · [LinkedIn (62)](../companies/linkedin.md) · [Netflix (59)](../companies/netflix.md) · [Databricks (54)](../companies/databricks.md) · [Snowflake (53)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Pinterest (48)](../companies/pinterest.md) · [Airbnb (47)](../companies/airbnb.md) · [Stripe (44)](../companies/stripe.md)
 
 <sub>Page [1](onsite.md) · [2](onsite-2.md) · [3](onsite-3.md) · **4** · [5](onsite-5.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Snapchat](../companies/snapchat.md)** | [iOS Scrollable Grid & Swift Concurrency](https://trueinterview.io/questions/ios-scrollable-grid-and-swift-concurrency) | Phone · Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ios-scrollable-grid-and-swift-concurrency) | Jan 20, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Palindrome Number + Next-Greater Palindrome](https://trueinterview.io/questions/25b44e72-b83e-4f2d-b206-4b58550ea722) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/25b44e72-b83e-4f2d-b206-4b58550ea722) | Jan 20, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Design a Billing System for 300M Subscribers](https://trueinterview.io/questions/design-a-billing-system-for-300m-subscribers) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-billing-system-for-300m-subscribers) | Jan 19, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Find best downhill ski run from a start](https://trueinterview.io/questions/find-best-downhill-ski-run-from-a-start) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-best-downhill-ski-run-from-a-start) | Jan 19, 2026 |
@@ -371,7 +372,7 @@
 | **[Thumbtack](../companies/thumbtack.md)** | [Design streaming new-vs-returning monthly metrics](https://trueinterview.io/questions/design-streaming-new-vs-returning-monthly-metrics) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-streaming-new-vs-returning-monthly-metrics) | — |
 | **[Amazon](../companies/amazon.md)** | [Design student–course data models and SQL](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | Onsite | **Senior** · **Staff+** | SQL | [![Practice][p]](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | — |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Design System for Downstream Data Retrieval](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | Onsite | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | — |
-| **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
+| **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
 | **[Amazon](../companies/amazon.md)** | [Design Unix File Search](https://trueinterview.io/questions/design-unix-file-search) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-file-search) | — |
 | **[Yelp](../companies/yelp.md)** / [Uber](../companies/uber.md) | [Design Yelp](https://trueinterview.io/questions/design-yelp-2) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-yelp-2) | — |
 | **[Visa](../companies/visa.md)** | [Designing Real-Time Instant Messaging Application with Media Support](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | — |
@@ -418,6 +419,5 @@
 | **[Microsoft](../companies/microsoft.md)** | [Processing Service Logs for Error Detection and Reporting](https://trueinterview.io/questions/d179f051-5594-4883-b756-5c65264930c3) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/d179f051-5594-4883-b756-5c65264930c3) | — |
 | **[Amazon](../companies/amazon.md)** | [Prove new allocation outperforms manual baseline](https://trueinterview.io/questions/prove-new-allocation-outperforms-manual-baseline) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/prove-new-allocation-outperforms-manual-baseline) | — |
 | **[Meta](../companies/meta.md)** | [Prove source growth is cannibalization, not incremental](https://trueinterview.io/questions/prove-source-growth-is-cannibalization-not-incremental) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/prove-source-growth-is-cannibalization-not-incremental) | — |
-| **[Anthropic](../companies/anthropic.md)** | [Python Data Analysis on a Provided Dataset (Capacity Management Context)](https://trueinterview.io/questions/d03ad0c8-580a-4af4-8619-328ea8011719) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/d03ad0c8-580a-4af4-8619-328ea8011719) | — |
 
 <sub>Page [1](onsite.md) · [2](onsite-2.md) · [3](onsite-3.md) · **4** · [5](onsite-5.md)</sub>

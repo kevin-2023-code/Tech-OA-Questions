@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Google on TrueInterview](https://trueinterview.io/problems/company/google) · [How Google interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/google/README.md)
 
-🏛️ MAANG+ · **266 questions** · Senior & Staff+ 181 · ML & Research Scientist 6 · Quant researcher & developer 4 · last reported Sep 2026
+🏛️ MAANG+ · **266 questions** · Senior & Staff+ 182 · ML & Research Scientist 6 · Quant researcher & developer 4 · last reported Sep 2026
 
 **Rounds:** 📝 OA (23) · 📞 Phone (140) · 🏢 Onsite (126)
 
@@ -94,7 +94,7 @@
 | [Trie Autocomplete / Prefix Search](https://trueinterview.io/questions/trie-autocomplete-prefix-search)<br><sub>also [Pinterest](../companies/pinterest.md)</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Aug 2026 |
 | [Weighted LRU Cache](https://trueinterview.io/questions/weighted-lru-cache-2)<br><sub>also [xAI](../companies/xai.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | Intern · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/weighted-lru-cache-2) | Aug 2026 |
 | [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort)<br><sub>also [Point72](../companies/point72.md) / [Akuna Capital](../companies/akuna-capital.md)</sub> | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/array-frequency-sort) | Jul 29, 2026 |
-| [Batch and Streaming Log Deduplication](https://trueinterview.io/questions/batch-streaming-log-deduplication) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/batch-streaming-log-deduplication) | Jul 23, 2026 |
+| [Batch and Streaming Log Deduplication](https://trueinterview.io/questions/batch-streaming-log-deduplication) | Onsite | Mid · **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/batch-streaming-log-deduplication) | Jul 23, 2026 |
 | [Median Google Search Frequency](https://trueinterview.io/questions/median-google-search-frequency) | Onsite | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/median-google-search-frequency) | Jul 22, 2026 |
 | [Odd and Even Measurements](https://trueinterview.io/questions/odd-and-even-measurements) | Phone | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/odd-and-even-measurements) | Jul 22, 2026 |
 | [Minimum Direction Violations in a Directed Graph](https://trueinterview.io/questions/minimum-direction-violations-directed-graph) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-direction-violations-directed-graph) | Jul 19, 2026 |
@@ -201,7 +201,7 @@
 | [Apply Range Overwrite Queries](https://trueinterview.io/questions/apply-range-overwrite-queries) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/apply-range-overwrite-queries) | Feb 25, 2026 |
 | [Design an editable sequence with marker](https://trueinterview.io/questions/design-an-editable-sequence-with-marker) | Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-editable-sequence-with-marker) | Feb 24, 2026 |
 | [Design a Dormitory Room-Assignment System](https://trueinterview.io/questions/design-a-dormitory-room-assignment-system-ood) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-dormitory-room-assignment-system-ood) | Feb 22, 2026 |
-| [Grep With Context Lines](https://trueinterview.io/questions/grep-with-context-lines)<br><sub>also [Snowflake](../companies/snowflake.md)</sub> | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/grep-with-context-lines) | Feb 19, 2026 |
+| [Grep With Context Lines](https://trueinterview.io/questions/grep-with-context-lines)<br><sub>also [Snowflake](../companies/snowflake.md)</sub> | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/grep-with-context-lines) | Feb 19, 2026 |
 | [Compute conflicts and minimum meeting rooms](https://trueinterview.io/questions/compute-conflicts-and-minimum-meeting-rooms)<br><sub>also [Apple](../companies/apple.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-conflicts-and-minimum-meeting-rooms) | Feb 12, 2026 |
 | [Sum of Good Subarrays (Adjacent Diff ±1)](https://trueinterview.io/questions/good-subarrays-diff-one) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/good-subarrays-diff-one) | Feb 8, 2026 |
 | [Implement Batched Undo/Redo Layer](https://trueinterview.io/questions/implement-batched-undo-redo-layer) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-batched-undo-redo-layer) | Feb 4, 2026 |

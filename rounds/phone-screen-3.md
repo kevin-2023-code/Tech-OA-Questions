@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,107 questions** · 1,506 at Senior/Staff+ · 464 reported in the last 90 days · 212 free to solve
+**2,109 questions** · 1,508 at Senior/Staff+ · 464 reported in the last 90 days · 212 free to solve
 
-**By employer group:** 🧠 AI labs (183) · 📈 Quant firms (139) · 🏛️ MAANG+ (592)
+**By employer group:** 🧠 AI labs (183) · 📈 Quant firms (139) · 🏛️ MAANG+ (593)
 
-**Companies:** [Meta (183)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Amazon (153)](../companies/amazon.md) · [Google (140)](../companies/google.md) · [Uber (122)](../companies/uber.md) · [Apple (107)](../companies/apple.md) · [Snowflake (89)](../companies/snowflake.md) · [Microsoft (86)](../companies/microsoft.md) · [OpenAI (76)](../companies/openai.md) · [LinkedIn (60)](../companies/linkedin.md) · [Pinterest (58)](../companies/pinterest.md) · [DoorDash (55)](../companies/doordash.md) · [Bloomberg (53)](../companies/bloomberg.md) · [Roblox (53)](../companies/roblox.md) · [Citadel (50)](../companies/citadel.md)
+**Companies:** [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Amazon (153)](../companies/amazon.md) · [Google (140)](../companies/google.md) · [Uber (122)](../companies/uber.md) · [Apple (107)](../companies/apple.md) · [Snowflake (89)](../companies/snowflake.md) · [Microsoft (86)](../companies/microsoft.md) · [OpenAI (76)](../companies/openai.md) · [LinkedIn (60)](../companies/linkedin.md) · [Pinterest (58)](../companies/pinterest.md) · [DoorDash (55)](../companies/doordash.md) · [Bloomberg (53)](../companies/bloomberg.md) · [Roblox (53)](../companies/roblox.md) · [Citadel (50)](../companies/citadel.md)
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · **3** · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md)</sub>
 
@@ -305,6 +305,7 @@
 | **[DoorDash](../companies/doordash.md)** | [Build UI from Mockup with API](https://trueinterview.io/questions/frontend-vo-build-ui) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/frontend-vo-build-ui) | Mar 20, 2026 |
 | **[DoorDash](../companies/doordash.md)** | [DE / AE Screen: SQL + Python (Sliding Window + Joins)](https://trueinterview.io/questions/de-ae-sql-python-screen) | Phone | New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/de-ae-sql-python-screen) | Mar 20, 2026 |
 | **[Meta](../companies/meta.md)** | [Execute matrix transformation commands](https://trueinterview.io/questions/solve-four-online-assessment-problems-execute-matrix-transformation-commands) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-online-assessment-problems-execute-matrix-transformation-commands) | Mar 19, 2026 |
+| **[Meta](../companies/meta.md)** | [Mouse and Cheese / Maze Rewards](https://trueinterview.io/questions/mouse-and-cheese-maze-rewards) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/mouse-and-cheese-maze-rewards) | Mar 19, 2026 |
 | **[Meta](../companies/meta.md)** | [Schedule round trips](https://trueinterview.io/questions/solve-four-online-assessment-problems-schedule-round-trips) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-online-assessment-problems-schedule-round-trips) | Mar 19, 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [In-Memory Pub/Sub](https://trueinterview.io/questions/in-memory-pubsub) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/in-memory-pubsub) | Mar 18, 2026 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [Minimum Anagram Edits](https://trueinterview.io/questions/minimum-anagram-edits) | OA · Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-anagram-edits) | Mar 18, 2026 |
@@ -418,6 +419,5 @@
 | **[ByteDance](../companies/bytedance.md)** | [Walking with Boost Stations (Greedy Simulation)](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Mar 2026 |
 | **[StackAdapt](../companies/stackadapt.md)** | [Windowed Map (Time-Windowed Key-Value Store) with O(1) Operations and Window Average](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Mar 2026 |
 | **[Harvey](../companies/harvey.md)** | [Word Level Match and Tagging](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Mar 2026 |
-| **[Robinhood](../companies/robinhood.md)** | [Aggregate user logs into 30-minute sessions](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Feb 28, 2026 |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · **3** · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md)</sub>
