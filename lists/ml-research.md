@@ -6,7 +6,7 @@
 
 > **Who:** Asked for a **Machine Learning Engineer**, **Research Scientist** or **AI Engineer** role.
 
-**294 questions** · 259 at Senior/Staff+ · 39 reported in the last 90 days · 15 free to solve
+**294 questions** · 259 at Senior/Staff+ · 38 reported in the last 90 days · 15 free to solve
 
 **Rounds:** 📝 OA (13) · 📞 Phone (138) · 🏢 Onsite (174) · 🏠 Take-home (1)
 
@@ -36,8 +36,8 @@
 | **[OpenAI](../companies/openai.md)** | [Prefix Matrix Products and Backpropagation](https://trueinterview.io/questions/prefix-matrix-products-and-backpropagation) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/prefix-matrix-products-and-backpropagation) | 🆕 Sep 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Trace and Debug Agent Tool-Call Failures](https://trueinterview.io/questions/trace-and-debug-agent-tool-call-failures) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/trace-and-debug-agent-tool-call-failures) | 🆕 Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [Vectorized 1-NN and Neural Network Forward Pass](https://trueinterview.io/questions/vectorized-1-nn-and-neural-network-forward-pass) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/vectorized-1-nn-and-neural-network-forward-pass) | 🆕 Sep 2026 |
-| **[Nuro](../companies/nuro.md)** | [Design a Shared Distributed ML Training Platform](https://trueinterview.io/questions/design-a-shared-distributed-ml-training-platform) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-shared-distributed-ml-training-platform) | 🆕 Aug 31, 2026 |
-| **[Nuro](../companies/nuro.md)** | [Design an Autonomous-Vehicle Simulator](https://trueinterview.io/questions/design-an-autonomous-vehicle-simulator) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-autonomous-vehicle-simulator) | 🆕 Aug 31, 2026 |
+| **[Nuro](../companies/nuro.md)** | [Design a Shared Distributed ML Training Platform](https://trueinterview.io/questions/design-a-shared-distributed-ml-training-platform) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-shared-distributed-ml-training-platform) | Aug 31, 2026 |
+| **[Nuro](../companies/nuro.md)** | [Design an Autonomous-Vehicle Simulator](https://trueinterview.io/questions/design-an-autonomous-vehicle-simulator) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-autonomous-vehicle-simulator) | Aug 31, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Review and Scale an Inference Service Design](https://trueinterview.io/questions/review-and-scale-an-inference-service-design) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/review-and-scale-an-inference-service-design) | Aug 27, 2026 |
 | **[Apple](../companies/apple.md)** | [Choose File Storage Tiers Using Access Predictions](https://trueinterview.io/questions/choose-file-storage-tiers-using-access-predictions) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/choose-file-storage-tiers-using-access-predictions) | Aug 24, 2026 |
 | **[Apple](../companies/apple.md)** | [Forecast Storage Demand Across 100 Data Centers](https://trueinterview.io/questions/forecast-storage-demand-across-100-data-centers) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/forecast-storage-demand-across-100-data-centers) | Aug 24, 2026 |
