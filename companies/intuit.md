@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Valid Parentheses](https://trueinterview.io/questions/valid-parentheses)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +10</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/valid-parentheses) | 🆕 Sep 2026 |
+| [Valid Parentheses](https://trueinterview.io/questions/valid-parentheses)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +10</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/valid-parentheses) | Sep 2026 |
 | [Array Plus One with Large-Input Follow-Up](https://trueinterview.io/questions/array-plus-one-with-large-input-follow-up) | Phone | Mid · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/array-plus-one-with-large-input-follow-up) | Jun 28, 2026 |
 | [Premium Product Recommendation System](https://trueinterview.io/questions/premium-product-recommendation-system) | Phone · Onsite | Mid · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/premium-product-recommendation-system) | Jun 28, 2026 |
 | [Small Business Network: Degrees of Separation](https://trueinterview.io/questions/small-business-network-degrees-of-separation) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/small-business-network-degrees-of-separation) | May 8, 2026 |

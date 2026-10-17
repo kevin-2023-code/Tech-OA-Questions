@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Rate Limiter](https://trueinterview.io/questions/rate-limiter)<br><sub>also [Stripe](../companies/stripe.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +6</sub> | Onsite | New grad · Mid · **Senior** · **Staff+** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limiter) | 🆕 Sep 2026 |
+| [Rate Limiter](https://trueinterview.io/questions/rate-limiter)<br><sub>also [Stripe](../companies/stripe.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +6</sub> | Onsite | New grad · Mid · **Senior** · **Staff+** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limiter) | Sep 2026 |
 | [Minimize Total Grid Distance to Every Building](https://trueinterview.io/questions/minimize-total-grid-distance-to-every-building) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimize-total-grid-distance-to-every-building) | Aug 27, 2026 |
 | [Build an Arithmetic Expression to Reach a Target](https://trueinterview.io/questions/arithmetic-expression-reach-target) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/arithmetic-expression-reach-target) | Jul 9, 2026 |
 | [Race Car: Minimum Instructions to Reach a Target](https://trueinterview.io/questions/race-car-minimum-instructions) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/race-car-minimum-instructions) | Jul 6, 2026 |

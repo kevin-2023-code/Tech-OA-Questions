@@ -15,4 +15,4 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Lowest Common Ancestor of a Binary Tree](https://trueinterview.io/questions/lowest-common-ancestor-of-a-binary-tree)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +5</sub> | Phone | Intern · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/lowest-common-ancestor-of-a-binary-tree) | 🆕 Sep 2026 |
+| [Lowest Common Ancestor of a Binary Tree](https://trueinterview.io/questions/lowest-common-ancestor-of-a-binary-tree)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +5</sub> | Phone | Intern · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/lowest-common-ancestor-of-a-binary-tree) | Sep 2026 |

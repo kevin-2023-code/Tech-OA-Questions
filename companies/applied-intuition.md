@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [File Deduplication](https://trueinterview.io/questions/2c5a041b-d32a-53e1-9304-4b4d2680352f)<br><sub>also [Anthropic](../companies/anthropic.md)</sub> | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/2c5a041b-d32a-53e1-9304-4b4d2680352f) | 🆕 Sep 2026 |
+| [File Deduplication](https://trueinterview.io/questions/2c5a041b-d32a-53e1-9304-4b4d2680352f)<br><sub>also [Anthropic](../companies/anthropic.md)</sub> | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/2c5a041b-d32a-53e1-9304-4b4d2680352f) | Sep 2026 |
 | [Locate Cars with a Boolean Square-Scan API](https://trueinterview.io/questions/locate-cars-with-a-boolean-square-scan-api) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/locate-cars-with-a-boolean-square-scan-api) | Aug 30, 2026 |
 | [Resolve Variable Equations with Missing References and Cycles](https://trueinterview.io/questions/7d61d567-677d-5d12-a42f-d280477bfca1) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/7d61d567-677d-5d12-a42f-d280477bfca1) | Aug 2026 |
 | [Design Key-Value Store with Transactions](https://trueinterview.io/questions/design-key-value-store-with-transactions)<br><sub>also [Snowflake](../companies/snowflake.md) / [Lyft](../companies/lyft.md)</sub> | Phone · Onsite | Mid · **Senior** · **Staff+** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-key-value-store-with-transactions) | Jul 2026 |

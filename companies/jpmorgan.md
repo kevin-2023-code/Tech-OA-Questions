@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Grouped Binary Substrings](https://trueinterview.io/questions/grouped-binary-substrings)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/grouped-binary-substrings) | 🆕 Sep 2026 |
+| [Grouped Binary Substrings](https://trueinterview.io/questions/grouped-binary-substrings)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/grouped-binary-substrings) | Sep 2026 |
 | [Interval Consolidation](https://trueinterview.io/questions/interval-consolidation-oa) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/interval-consolidation-oa) | Jun 23, 2026 |
 | [Prerequisite Cycle](https://trueinterview.io/questions/prerequisite-cycle-oa) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/prerequisite-cycle-oa) | Jun 23, 2026 |
 | [Shopping Cart Latency and Inventory](https://trueinterview.io/questions/shopping-cart-latency-and-inventory) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/shopping-cart-latency-and-inventory) | Jun 23, 2026 |

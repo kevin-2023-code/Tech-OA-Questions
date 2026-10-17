@@ -15,7 +15,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Implement an LRU Cache (HashMap + Doubly Linked List) and Debug an Existing Implementation](https://trueinterview.io/questions/4d278295-f27d-4425-9bc3-2be3388a320c)<br><sub>also [Anthropic](../companies/anthropic.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/4d278295-f27d-4425-9bc3-2be3388a320c) | 🆕 Sep 2026 |
+| [Implement an LRU Cache (HashMap + Doubly Linked List) and Debug an Existing Implementation](https://trueinterview.io/questions/4d278295-f27d-4425-9bc3-2be3388a320c)<br><sub>also [Anthropic](../companies/anthropic.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/4d278295-f27d-4425-9bc3-2be3388a320c) | Sep 2026 |
 | [Find Redeemable Offers](https://trueinterview.io/questions/find-redeemable-offers) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-redeemable-offers) | Aug 12, 2026 |
 | [Aggregate Recent Transactions](https://trueinterview.io/questions/aggregate-recent-transactions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-recent-transactions) | Aug 7, 2026 |
 | [Group Loans by Top-Level Company](https://trueinterview.io/questions/group-loans-by-top-level-company) | Phone | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/group-loans-by-top-level-company) | Aug 6, 2026 |

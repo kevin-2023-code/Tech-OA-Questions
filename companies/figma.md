@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design)<br><sub>also [Robinhood](../companies/robinhood.md) / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +12</sub> | Phone · Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | 🆕 Sep 2026 |
+| [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design)<br><sub>also [Robinhood](../companies/robinhood.md) / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +12</sub> | Phone · Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | [Async Job Scheduler](https://trueinterview.io/questions/async-job-scheduler-design) | Phone · Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/async-job-scheduler-design) | Aug 12, 2026 |
 | [Design a Real-Time Canvas Comment System](https://trueinterview.io/questions/realtime-comments-design) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/realtime-comments-design) | Aug 12, 2026 |
 | [Select Table and Set Color](https://trueinterview.io/questions/figjam-table-selection-set-color) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/figjam-table-selection-set-color) | Aug 12, 2026 |

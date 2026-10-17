@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Time Based Key-Value Store](https://trueinterview.io/questions/time-based-key-value-store-2)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2</sub> | Onsite | Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/time-based-key-value-store-2) | 🆕 Sep 2026 |
+| [Time Based Key-Value Store](https://trueinterview.io/questions/time-based-key-value-store-2)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2</sub> | Onsite | Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/time-based-key-value-store-2) | Sep 2026 |
 | [Calculate Tax from Progressive Brackets](https://trueinterview.io/questions/calculate-tax-from-progressive-brackets) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-tax-from-progressive-brackets) | Aug 1, 2026 |
 | [Fairly Distribute Money With Limits](https://trueinterview.io/questions/15342126-93db-52f6-a234-8f5da3a03fb2) | Phone | **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/15342126-93db-52f6-a234-8f5da3a03fb2) | Aug 2026 |
 | [Log File API Statistics](https://trueinterview.io/questions/85c2d72c-1778-57ee-a65a-d35ae87f8b22) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/85c2d72c-1778-57ee-a65a-d35ae87f8b22) | Jun 2026 |

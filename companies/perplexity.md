@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design a Long-Running Query Service](https://trueinterview.io/questions/design-a-long-running-query-service) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-long-running-query-service) | 🆕 Sep 1, 2026 |
+| [Design a Long-Running Query Service](https://trueinterview.io/questions/design-a-long-running-query-service) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-long-running-query-service) | Sep 1, 2026 |
 | [Design In-Memory File System](https://trueinterview.io/questions/design-in-memory-file-system)<br><sub>also [Snowflake](../companies/snowflake.md) / [ByteDance](../companies/bytedance.md) / [Databricks](../companies/databricks.md)</sub> | Phone · Onsite | New grad · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-in-memory-file-system) | Aug 2026 |
 | [In-Memory Unix File System](https://trueinterview.io/questions/in-memory-unix-file-system)<br><sub>also [Harvey](../companies/harvey.md) / [Shopify](../companies/shopify.md)</sub> | Phone | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-unix-file-system) | Jun 15, 2026 |
 | [GPU Credits II](https://trueinterview.io/questions/gpu-credit-tracker)<br><sub>also [OpenAI](../companies/openai.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/gpu-credit-tracker) | Jun 8, 2026 |

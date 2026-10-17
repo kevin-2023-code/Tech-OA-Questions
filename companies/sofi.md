@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Basic Calculator](https://trueinterview.io/questions/basic-calculator-2)<br><sub>also [Netflix](../companies/netflix.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +5</sub> | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/basic-calculator-2) | 🆕 Sep 2026 |
+| [Basic Calculator](https://trueinterview.io/questions/basic-calculator-2)<br><sub>also [Netflix](../companies/netflix.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +5</sub> | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/basic-calculator-2) | Sep 2026 |
 | [Reachable Nodes in a Directed Graph](https://trueinterview.io/questions/reachable-nodes-in-directed-graph) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/reachable-nodes-in-directed-graph) | Jul 4, 2026 |
 | [Tic Tac Toe](https://trueinterview.io/questions/tic-tac-toe)<br><sub>also [Ramp](../companies/ramp.md) / [Databricks](../companies/databricks.md)</sub> | Phone | **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/tic-tac-toe) | Jul 2026 |
 | [Extend an Existing Codebase to Support Accessibility Requirements](https://trueinterview.io/questions/e09854da-00dd-4596-a22c-a1b2463a2a29) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/e09854da-00dd-4596-a22c-a1b2463a2a29) | Jun 2026 |

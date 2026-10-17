@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / [Google](../companies/google.md) / +6</sub> | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | 🆕 Sep 2026 |
+| [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / [Google](../companies/google.md) / +6</sub> | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | [Durable Key-Value Store Serialization](https://trueinterview.io/questions/durable-key-value-store-serialization)<br><sub>also [OpenAI](../companies/openai.md) / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +6</sub> | Onsite | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/durable-key-value-store-serialization) | Aug 2026 |
 | [Design an LRU Cache with a Constant-Time Average](https://trueinterview.io/questions/design-an-lru-cache-with-a-constant-time-average) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-lru-cache-with-a-constant-time-average) | Jul 2026 |
 | [Design News Feed](https://trueinterview.io/questions/design-news-feed)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [Google](../companies/google.md) / +12</sub> | Phone · Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-news-feed) | Jul 2026 |
