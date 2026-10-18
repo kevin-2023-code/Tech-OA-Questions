@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Shopify on TrueInterview](https://trueinterview.io/problems/company/shopify) · [How Shopify interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/shopify/README.md)
 
-**26 questions** · Senior & Staff+ 20 · ML & Research Scientist 4 · last reported Sep 2026
+**25 questions** · Senior & Staff+ 19 · ML & Research Scientist 4 · last reported Oct 2026
 
-**Rounds:** 📝 OA (5) · 📞 Phone (12) · 🏢 Onsite (11)
+**Rounds:** 📝 OA (5) · 📞 Phone (11) · 🏢 Onsite (10)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/shopify-interview-process)
 
@@ -17,10 +17,9 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | Intern · Mid · **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | 🆕 Oct 1, 2026 |
 | [Bank Account Simulation Class With Self-Written Tests at 90% Coverage](https://trueinterview.io/questions/bank-account-simulation-class-with-self-written-tests-at-90percent-coverage) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bank-account-simulation-class-with-self-written-tests-at-90percent-coverage) | 🆕 Sep 7, 2026 |
-| [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7</sub> | Phone | Intern · Mid · **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Sep 2026 |
-| [Word Search](https://trueinterview.io/questions/word-search)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md)</sub> | Phone | Intern · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search) | Sep 2026 |
-| [LRU Cache + Thread-Safe Follow-up](https://trueinterview.io/questions/coding-lru-cache-multithread)<br><sub>also [LinkedIn](../companies/linkedin.md) / [Amazon](../companies/amazon.md) / [Microsoft](../companies/microsoft.md) / +2</sub> | Phone · Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/coding-lru-cache-multithread) | Aug 2026 |
+| [Word Search](https://trueinterview.io/questions/word-search)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md)</sub> | Phone | Intern · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search) | Sep 2026 |
 | [In-Memory Unix File System](https://trueinterview.io/questions/in-memory-unix-file-system)<br><sub>also [Perplexity](../companies/perplexity.md) / [Harvey](../companies/harvey.md)</sub> | Phone | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-unix-file-system) | Jun 15, 2026 |
 | [Word Guessing Game (Wordle-style)](https://trueinterview.io/questions/word-guessing-game) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/word-guessing-game) | May 12, 2026 |
 | [Product Categorization / Taxonomy](https://trueinterview.io/questions/ml-system-design-product-categorization) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-product-categorization) | May 10, 2026 |

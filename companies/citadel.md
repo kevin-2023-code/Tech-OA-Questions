@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Citadel on TrueInterview](https://trueinterview.io/problems/company/citadel) · [How Citadel interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/citadel/README.md)
 
-📈 Quant firms · **72 questions** · Senior & Staff+ 32 · Quant researcher & developer 50 · last reported Sep 2026
+📈 Quant firms · **73 questions** · Senior & Staff+ 34 · Quant researcher & developer 51 · last reported Sep 2026
 
-**Rounds:** 📝 OA (12) · 📞 Phone (50) · 🏢 Onsite (14)
+**Rounds:** 📝 OA (12) · 📞 Phone (51) · 🏢 Onsite (14)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/citadel-interview-process)
 
@@ -31,6 +31,7 @@
 | [Reconcile Unmatched Buy and Sell Trades](https://trueinterview.io/questions/0060bc58-0dc6-5b92-a4a9-07bef5b895c0) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/0060bc58-0dc6-5b92-a4a9-07bef5b895c0) | Sep 2026 |
 | [Choose 200 of a Million Records to Label, Improving on Uniform Random Sampling](https://trueinterview.io/questions/choose-200-of-a-million-records-to-label-improving-on-uniform-random-sampling) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/choose-200-of-a-million-records-to-label-improving-on-uniform-random-sampling) | Aug 29, 2026 |
 | [Task Dependency Ordering](https://trueinterview.io/questions/task-dependency-ordering) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/task-dependency-ordering) | Aug 15, 2026 |
+| [Candy (LC 135)](https://trueinterview.io/questions/candy-lc-135) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/candy-lc-135) | Aug 8, 2026 |
 | [Fleet Configuration and Deployment Control Plane](https://trueinterview.io/questions/sre-configuration-deployment-control-plane) | Phone | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/sre-configuration-deployment-control-plane) | Aug 5, 2026 |
 | [SRE Python Fundamentals — Five-Question Set](https://trueinterview.io/questions/sre-python-fundamentals-set) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/sre-python-fundamentals-set) | Aug 5, 2026 |
 | [Best Time to Buy and Sell Stock II](https://trueinterview.io/questions/best-time-to-buy-and-sell-stock-ii)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +5</sub> | Phone | Intern · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/best-time-to-buy-and-sell-stock-ii) | Aug 2026 |
@@ -41,7 +42,7 @@
 | [Online Batched No-Intercept Regression](https://trueinterview.io/questions/73c7aafc-4208-59c9-9bc1-f3dddb06e125) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/73c7aafc-4208-59c9-9bc1-f3dddb06e125) | Aug 2026 |
 | [Piecewise Linear Interpolation with Extrapolation](https://trueinterview.io/questions/4796cc39-cf33-52af-9075-2fa0d3a0bf34) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4796cc39-cf33-52af-9075-2fa0d3a0bf34) | Aug 2026 |
 | [Print a Message Repeatedly with Blank Lines](https://trueinterview.io/questions/e3077f6d-c663-5701-8372-4cd14485be37) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e3077f6d-c663-5701-8372-4cd14485be37) | Aug 2026 |
-| [Search Suggestions System](https://trueinterview.io/questions/71e19ff2-b8a8-5480-98f6-5e934e6a5c13) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/71e19ff2-b8a8-5480-98f6-5e934e6a5c13) | Aug 2026 |
+| [Search Suggestions System](https://trueinterview.io/questions/71e19ff2-b8a8-5480-98f6-5e934e6a5c13)<br><sub>also [Amazon](../companies/amazon.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/71e19ff2-b8a8-5480-98f6-5e934e6a5c13) | Aug 2026 |
 | [Second Largest Distinct Value](https://trueinterview.io/questions/e94171d2-2436-5ce7-8c4f-ba711a9dc42b) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e94171d2-2436-5ce7-8c4f-ba711a9dc42b) | Aug 2026 |
 | [Square and Reverse a List](https://trueinterview.io/questions/053a4fe5-1f9c-51b1-a965-6f9698ca8bcd) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/053a4fe5-1f9c-51b1-a965-6f9698ca8bcd) | Aug 2026 |
 | [Town Temperature Regression Analysis](https://trueinterview.io/questions/40633852-5eda-59ea-9c7a-4e233abff5ec) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/40633852-5eda-59ea-9c7a-4e233abff5ec) | Aug 2026 |
@@ -88,4 +89,4 @@
 | [Implement lazy unique-merge generator for sorted streams](https://trueinterview.io/questions/implement-lazy-unique-merge-generator-for-sorted-streams) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-lazy-unique-merge-generator-for-sorted-streams) | — |
 | [Implement left join on Python lists, no packages](https://trueinterview.io/questions/implement-left-join-on-python-lists-no-packages) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-left-join-on-python-lists-no-packages) | — |
 | [Minimum Changes for a Palindromic Periodic Password](https://trueinterview.io/questions/5f178ac0-8422-5332-b151-6b030e7edb50) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/5f178ac0-8422-5332-b151-6b030e7edb50) | — |
-| [Statistics from a 256-Bucket Frequency Array](https://trueinterview.io/questions/d00a6fa5-a7cf-5259-903f-603e51c7bfea) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d00a6fa5-a7cf-5259-903f-603e51c7bfea) | — |
+| [Statistics from a 256-Bucket Frequency Array](https://trueinterview.io/questions/d00a6fa5-a7cf-5259-903f-603e51c7bfea) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/d00a6fa5-a7cf-5259-903f-603e51c7bfea) | — |

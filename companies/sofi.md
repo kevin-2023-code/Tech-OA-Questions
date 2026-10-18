@@ -6,7 +6,7 @@
 
 **30 questions** · Senior & Staff+ 17 · last reported Sep 2026
 
-**Rounds:** 📝 OA (5) · 📞 Phone (14) · 🏢 Onsite (12)
+**Rounds:** 📝 OA (4) · 📞 Phone (15) · 🏢 Onsite (12)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/sofi-interview-process)
 
@@ -31,13 +31,13 @@
 | [Second Most Frequent Tag from Flattened Triples](https://trueinterview.io/questions/e89bef94-d185-481f-94fe-b1ad86364481) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e89bef94-d185-481f-94fe-b1ad86364481) | Mar 2026 |
 | [React Loan Estimator](https://trueinterview.io/questions/react-loan-estimator) | Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/react-loan-estimator) | Feb 14, 2026 |
 | [Interactive Story Endings Reachability (Choices/Options)](https://trueinterview.io/questions/5a23f516-7bed-46d3-8874-942cca7863b5) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/5a23f516-7bed-46d3-8874-942cca7863b5) | Feb 2026 |
+| [Basic Text Justification (without full padding to fixed width)](https://trueinterview.io/questions/0187a685-9680-4dbf-8f34-9e316f33b78b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/0187a685-9680-4dbf-8f34-9e316f33b78b) | Jan 31, 2026 |
 | [Solve Time-Window and Binary Swap Problems](https://trueinterview.io/questions/solve-time-window-and-binary-swap-problems) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-time-window-and-binary-swap-problems) | Jan 20, 2026 |
 | [Permutations with Self-Written Tests](https://trueinterview.io/questions/permutations-with-self-written-tests) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/permutations-with-self-written-tests) | Jan 14, 2026 |
 | [Rock-Paper-Scissors Lineup](https://trueinterview.io/questions/rock-paper-scissors-lineup) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/rock-paper-scissors-lineup) | Jan 14, 2026 |
 | [Count Same-Bit Numbers](https://trueinterview.io/questions/count-same-bit-numbers) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/count-same-bit-numbers) | Jan 13, 2026 |
 | [Maximum Positive Prefixes](https://trueinterview.io/questions/maximum-positive-prefixes) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-positive-prefixes) | Jan 13, 2026 |
 | [Array and DFS with Backtracking](https://trueinterview.io/questions/40de368d-03ee-43ac-8936-a91b44d9769d)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md)</sub> | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/40de368d-03ee-43ac-8936-a91b44d9769d) | Jan 2026 |
-| [Basic Text Justification (without full padding to fixed width)](https://trueinterview.io/questions/0187a685-9680-4dbf-8f34-9e316f33b78b) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/0187a685-9680-4dbf-8f34-9e316f33b78b) | Jan 2026 |
 | [Maximum Occurring Character](https://trueinterview.io/questions/d73e4ed1-1ee4-479c-955e-249baf81ac1d) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/d73e4ed1-1ee4-479c-955e-249baf81ac1d) | Jan 2026 |
 | [LRU Cache II](https://trueinterview.io/questions/415e366d-5969-4953-9869-0c8106543ac6)<br><sub>also [Google](../companies/google.md) / [Citadel](../companies/citadel.md) / [Squarepoint](../companies/squarepoint.md)</sub> | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/415e366d-5969-4953-9869-0c8106543ac6) | Dec 2025 |
 | [Kanban Board Task Actions](https://trueinterview.io/questions/kanban-board-task-actions) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/kanban-board-task-actions) | Nov 14, 2025 |

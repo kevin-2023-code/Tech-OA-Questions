@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice NVIDIA on TrueInterview](https://trueinterview.io/problems/company/nvidia) · [How NVIDIA interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/nvidia/README.md)
 
-**37 questions** · Senior & Staff+ 22 · ML & Research Scientist 5 · last reported Sep 2026
+**38 questions** · Senior & Staff+ 23 · ML & Research Scientist 5 · last reported Sep 2026
 
-**Rounds:** 📝 OA (4) · 📞 Phone (23) · 🏢 Onsite (15)
+**Rounds:** 📝 OA (4) · 📞 Phone (24) · 🏢 Onsite (16)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/nvidia-interview-process) · [ML engineer](https://trueinterview.io/study/nvidia-machine-learning-engineer-interview-process) · [Infra](https://trueinterview.io/study/nvidia-infrastructure-engineer-interview-process)
 
@@ -31,6 +31,7 @@
 | [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39)<br><sub>also [Meta](../companies/meta.md) / [Microsoft](../companies/microsoft.md) / [Upstart](../companies/upstart.md)</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Jul 2026 |
 | [HPC Host Control Plane and Job Coordination](https://trueinterview.io/questions/hpc-host-control-plane-and-job-coordination) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/hpc-host-control-plane-and-job-coordination) | Jun 30, 2026 |
 | [Maximum on Both Sides](https://trueinterview.io/questions/f547b32a-e42e-4a0e-899e-a8d686990998)<br><sub>also [Oracle](../companies/oracle.md) / [eBay](../companies/ebay.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f547b32a-e42e-4a0e-899e-a8d686990998) | Jun 2026 |
+| [Sliding-Window Rate Limiter II](https://trueinterview.io/questions/sliding-window-rate-limiter)<br><sub>also [Roblox](../companies/roblox.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +10</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/sliding-window-rate-limiter) | May 2026 |
 | [String Encoding / Decoding Variants](https://trueinterview.io/questions/string-encoding-decoding) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/string-encoding-decoding) | Apr 26, 2026 |
 | [2-D Matrix Transpose with Memory-Layout Discussion](https://trueinterview.io/questions/matrix-transpose-memory-layout) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transpose-memory-layout) | Apr 15, 2026 |
 | [Disk Space Manager / KV Store with setAll](https://trueinterview.io/questions/storage-manager-and-kv-setall) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/storage-manager-and-kv-setall) | Apr 15, 2026 |
@@ -38,7 +39,7 @@
 | [Log Parser for Top N Items](https://trueinterview.io/questions/7c107386-3c24-4acd-9385-b7d274fca67b) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7c107386-3c24-4acd-9385-b7d274fca67b) | Apr 2026 |
 | [Real-Time Fraud Detection System](https://trueinterview.io/questions/real-time-fraud-detection-system) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/real-time-fraud-detection-system) | Mar 25, 2026 |
 | [Return all file paths via DFS](https://trueinterview.io/questions/return-all-file-paths-via-dfs) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/return-all-file-paths-via-dfs) | Mar 4, 2026 |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Mar 2026 |
+| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Mar 2026 |
 | [C++ Project Debugging with AI Tools](https://trueinterview.io/questions/cpp-debugging-with-ai-tools) | Onsite | **Senior** · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/cpp-debugging-with-ai-tools) | Feb 12, 2026 |
 | [Computation / Dependency Graph Validation and Pruning](https://trueinterview.io/questions/graph-validation-and-pruning) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/graph-validation-and-pruning) | Feb 12, 2026 |
 | [FP32 Tensor to Int8 Quantization](https://trueinterview.io/questions/fp32-to-int8-quantization) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/fp32-to-int8-quantization) | Feb 12, 2026 |

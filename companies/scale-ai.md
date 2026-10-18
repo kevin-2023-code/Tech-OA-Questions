@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Scale AI on TrueInterview](https://trueinterview.io/problems/company/scale-ai) · [How Scale AI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/scale-ai/README.md)
 
-🧠 AI labs · **21 questions** · Senior & Staff+ 17 · ML & Research Scientist 5 · last reported Aug 2026
+🧠 AI labs · **22 questions** · Senior & Staff+ 18 · ML & Research Scientist 5 · last reported Oct 2026
 
-**Rounds:** 📝 OA (1) · 📞 Phone (14) · 🏢 Onsite (8)
+**Rounds:** 📝 OA (1) · 📞 Phone (15) · 🏢 Onsite (9)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/scale-ai-interview-process)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Lowest Common Manager in an Org Chart (Binary-Tree LCA Family)](https://trueinterview.io/questions/lowest-common-manager-org-chart)<br><sub>also [Amazon](../companies/amazon.md)</sub> | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-manager-org-chart) | 🆕 Oct 1, 2026 |
 | [Design and Simulate a Four-Player Card Game](https://trueinterview.io/questions/design-and-simulate-a-four-player-card-game) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-simulate-a-four-player-card-game) | Aug 26, 2026 |
 | [Transformer Attention Mask and Heads Coding](https://trueinterview.io/questions/transformer-attention-mask-and-heads-coding)<br><sub>also [Apple](../companies/apple.md)</sub> | Phone · Onsite | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/transformer-attention-mask-and-heads-coding) | Jun 16, 2026 |
 | [Task Processor: Dependencies and Deadlines](https://trueinterview.io/questions/task-processor-dependencies-and-deadlines) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/task-processor-dependencies-and-deadlines) | Jun 14, 2026 |
@@ -35,6 +36,6 @@
 | [Create RESTful API with CSV and JSON Conversion](https://trueinterview.io/questions/44f4defb-82d9-46e7-a008-0c8e2f044a17) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/44f4defb-82d9-46e7-a008-0c8e2f044a17) | — |
 | [Design a large-scale ticketing system](https://trueinterview.io/questions/design-a-large-scale-ticketing-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-large-scale-ticketing-system) | — |
 | [Design pipeline using classification and embedding services](https://trueinterview.io/questions/design-pipeline-using-classification-and-embedding-services) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-pipeline-using-classification-and-embedding-services) | — |
-| [Explain worker state machine load balancer design](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | — |
+| [Explain worker state machine load balancer design](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | — |
 | [Find LCA in a N-ary tree via DFS](https://trueinterview.io/questions/find-lca-in-a-n-ary-tree-via-dfs) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-lca-in-a-n-ary-tree-via-dfs) | — |
 | [Minimum Distance in N-ary Tree](https://trueinterview.io/questions/minimum-distance-in-n-ary-tree-2)<br><sub>also [Google](../companies/google.md)</sub> | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-distance-in-n-ary-tree-2) | — |

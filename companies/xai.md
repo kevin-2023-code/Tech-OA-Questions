@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice xAI on TrueInterview](https://trueinterview.io/problems/company/xai) · [How xAI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/xai/README.md)
 
-🧠 AI labs · **38 questions** · Senior & Staff+ 33 · ML & Research Scientist 5 · last reported Sep 2026
+🧠 AI labs · **39 questions** · Senior & Staff+ 34 · ML & Research Scientist 5 · last reported Sep 2026
 
-**Rounds:** 📝 OA (2) · 📞 Phone (17) · 🏢 Onsite (24) · 🏠 Take-home (3)
+**Rounds:** 📝 OA (2) · 📞 Phone (18) · 🏢 Onsite (25) · 🏠 Take-home (3)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/xai-interview-process) · [SWE](https://trueinterview.io/study/xai-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/xai-machine-learning-engineer-interview-process) · [Infra](https://trueinterview.io/study/xai-infrastructure-engineer-interview-process)
 
@@ -27,6 +27,7 @@
 | [Tweets' Rolling Averages](https://trueinterview.io/questions/tweets-rolling-averages) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/tweets-rolling-averages) | Jul 22, 2026 |
 | [Design ChatGPT](https://trueinterview.io/questions/design-chatgpt)<br><sub>also [Amazon](../companies/amazon.md) / [Anthropic](../companies/anthropic.md) / [OpenAI](../companies/openai.md)</sub> | Phone · Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-chatgpt) | Jul 2026 |
 | [Transactional Key-Value Store](https://trueinterview.io/questions/transactional-key-value-store)<br><sub>also [Lyft](../companies/lyft.md)</sub> | Onsite | Intern · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/transactional-key-value-store) | Jun 2026 |
+| [Sliding-Window Rate Limiter II](https://trueinterview.io/questions/sliding-window-rate-limiter)<br><sub>also [Roblox](../companies/roblox.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +10</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/sliding-window-rate-limiter) | May 2026 |
 | [Data Parallel & FSDP Matrix Multiplication](https://trueinterview.io/questions/data-parallel-fsdp-matrix-multiplication) | Phone | **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/data-parallel-fsdp-matrix-multiplication) | Apr 4, 2026 |
 | [Multithreaded BankAccount Race-Condition Bug Hunt](https://trueinterview.io/questions/multithreaded-bank-account-bug-hunt) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/multithreaded-bank-account-bug-hunt) | Apr 4, 2026 |
 | [Resumable Iterator with Save / Restore State](https://trueinterview.io/questions/resumable-iterator-design) | Phone · Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/resumable-iterator-design) | Apr 2, 2026 |
@@ -35,7 +36,7 @@
 | [Design a Distributed KV Store](https://trueinterview.io/questions/design-a-distributed-kv-store) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-distributed-kv-store) | Apr 2026 |
 | [Design Token Limiter](https://trueinterview.io/questions/cc6f7ab2-4bdd-4914-85c9-f4912c2ffd73) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cc6f7ab2-4bdd-4914-85c9-f4912c2ffd73) | Apr 2026 |
 | [Design a RAG System](https://trueinterview.io/questions/design-a-rag-system)<br><sub>also [Amazon](../companies/amazon.md) / [OpenAI](../companies/openai.md)</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-rag-system) | Mar 2026 |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Mar 2026 |
+| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Mar 2026 |
 | [Twitter Spaces Active Time](https://trueinterview.io/questions/twitter-spaces-active-time) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/twitter-spaces-active-time) | Mar 2026 |
 | [Nested Structure Flatten and Unflatten](https://trueinterview.io/questions/nested-structure-flatten-and-unflatten) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/nested-structure-flatten-and-unflatten) | Feb 26, 2026 |
 | [Agentic Workflow for 1-Hour Movie Generation](https://trueinterview.io/questions/agentic-one-hour-movie-generation) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/agentic-one-hour-movie-generation) | Jan 29, 2026 |

@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice PayPal on TrueInterview](https://trueinterview.io/problems/company/paypal) · [How PayPal interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/paypal/README.md)
 
-**23 questions** · Senior & Staff+ 15 · last reported Sep 2026
+**24 questions** · Senior & Staff+ 15 · last reported Oct 2026
 
-**Rounds:** 📝 OA (2) · 📞 Phone (14) · 🏢 Onsite (7)
+**Rounds:** 📝 OA (3) · 📞 Phone (14) · 🏢 Onsite (7)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/paypal-interview-process)
 
@@ -17,9 +17,10 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Lowest Common Ancestor of a Binary Tree](https://trueinterview.io/questions/lowest-common-ancestor-of-a-binary-tree)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +5</sub> | Phone | Intern · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/lowest-common-ancestor-of-a-binary-tree) | Sep 2026 |
-| [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7</sub> | Phone | Intern · Mid · **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Sep 2026 |
+| [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | Intern · Mid · **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | 🆕 Oct 1, 2026 |
+| [Lowest Common Ancestor of a Binary Tree](https://trueinterview.io/questions/lowest-common-ancestor-of-a-binary-tree)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +4</sub> | Phone | Intern · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-ancestor-of-a-binary-tree) | Sep 2026 |
 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +3</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Aug 2026 |
+| [Bank System](https://trueinterview.io/questions/bank-system)<br><sub>also [Coinbase](../companies/coinbase.md) / [Anthropic](../companies/anthropic.md)</sub> | OA | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/bank-system) | Jul 2026 |
 | [Design a Payment Fraud Detection Service](https://trueinterview.io/questions/design-a-payment-fraud-detection-service)<br><sub>also [Stripe](../companies/stripe.md)</sub> | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-payment-fraud-detection-service) | May 2026 |
 | [Design a Cross-Border Money Transfer Service](https://trueinterview.io/questions/design-a-cross-border-money-transfer-service) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-cross-border-money-transfer-service) | Apr 14, 2026 |
 | [Minimize a String Using Allowed Swaps](https://trueinterview.io/questions/minimize-a-string-using-allowed-swaps) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimize-a-string-using-allowed-swaps) | Apr 14, 2026 |

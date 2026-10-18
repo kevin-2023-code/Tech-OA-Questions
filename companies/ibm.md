@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice IBM on TrueInterview](https://trueinterview.io/problems/company/ibm) · [How IBM interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/ibm/README.md)
 
-**33 questions** · Senior & Staff+ 7 · ML & Research Scientist 1 · last reported Sep 2026
+**34 questions** · Senior & Staff+ 7 · ML & Research Scientist 1 · last reported Sep 2026
 
-**Rounds:** 📝 OA (22) · 📞 Phone (10) · 🏢 Onsite (1)
+**Rounds:** 📝 OA (23) · 📞 Phone (10) · 🏢 Onsite (1)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/ibm-interview-process)
 
@@ -26,7 +26,7 @@
 | [Minimum Meeting Rooms](https://trueinterview.io/questions/b4adc8d7-199a-591e-a08e-e1bd7437a7f7)<br><sub>also [Ramp](../companies/ramp.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +9</sub> | Phone | New grad · Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/b4adc8d7-199a-591e-a08e-e1bd7437a7f7) | Aug 2026 |
 | [Maximum Concurrent Processes / Meeting Rooms](https://trueinterview.io/questions/maximum-concurrent-processes)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md)</sub> | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-concurrent-processes) | Jul 2026 |
 | [Card Packets with Identical Distribution](https://trueinterview.io/questions/card-packets-with-identical-distribution)<br><sub>also [Expedia](../companies/expedia.md)</sub> | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/card-packets-with-identical-distribution) | May 30, 2026 |
-| [Count 3^x * 5^y Numbers and Decreasing Subarrays](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | Apr 25, 2026 |
+| [Count 3^x * 5^y Numbers and Decreasing Subarrays](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | Apr 25, 2026 |
 | [Count strictly decreasing-by-1 subarrays of length at least 2](https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16) | Apr 2026 |
 | [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de)<br><sub>also [Meta](../companies/meta.md) / [Oracle](../companies/oracle.md)</sub> | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | Apr 2026 |
 | [Maximum Number of Palindromic Strings](https://trueinterview.io/questions/maximum-palindromic-strings)<br><sub>also [Salesforce](../companies/salesforce.md)</sub> | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-palindromic-strings) | Mar 19, 2026 |
@@ -41,6 +41,7 @@
 | [Find minimum operations to make array sorted](https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted) | Oct 3, 2025 |
 | [Write SQL to compute max and min marks](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | Oct 3, 2025 |
 | [Stock Maximum Profit](https://trueinterview.io/questions/9b10ab48-d72a-4df0-be8f-10a997cfdd02) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9b10ab48-d72a-4df0-be8f-10a997cfdd02) | Oct 2025 |
+| [Rate Limiter by IP Address](https://trueinterview.io/questions/rate-limiter-by-ip-address)<br><sub>also [Ramp](../companies/ramp.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/rate-limiter-by-ip-address) | Sep 29, 2025 |
 | [Minimum Link Reallocation to Connect Repositories](https://trueinterview.io/questions/minimum-link-reallocation) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-link-reallocation) | Sep 21, 2025 |
 | [Earliest Coordinate Reach with Optional Moves](https://trueinterview.io/questions/earliest-coordinate-reach-with-optional-moves) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/earliest-coordinate-reach-with-optional-moves) | Sep 9, 2025 |
 | [Sliding-Window Rate Limiter / Abuse IP Detection](https://trueinterview.io/questions/sliding-window-rate-limiter-and-abuse-ips) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/sliding-window-rate-limiter-and-abuse-ips) | Sep 9, 2025 |

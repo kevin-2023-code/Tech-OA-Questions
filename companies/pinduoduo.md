@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Pinduoduo on TrueInterview](https://trueinterview.io/problems/company/pinduoduo) · [How Pinduoduo interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/pinduoduo/README.md)
 
-**21 questions** · Senior & Staff+ 13 · last reported Sep 2026
+**21 questions** · Senior & Staff+ 13 · last reported Oct 2026
 
 **Rounds:** 📝 OA (1) · 📞 Phone (16) · 🏢 Onsite (4)
 
@@ -17,13 +17,13 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | Intern · Mid · **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | 🆕 Oct 1, 2026 |
 | [Longest Substring Without Repeating Characters II](https://trueinterview.io/questions/longest-substring-without-repeating-characters)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Sep 2026 |
-| [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7</sub> | Phone | Intern · Mid · **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Sep 2026 |
 | [Top K Frequent Elements](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +4</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47) | Sep 2026 |
 | [Valid Parentheses](https://trueinterview.io/questions/valid-parentheses)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +10</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/valid-parentheses) | Sep 2026 |
 | [Count Longest Substrings After Character Replacements](https://trueinterview.io/questions/count-longest-substrings-after-character-replacements) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-longest-substrings-after-character-replacements) | Aug 22, 2026 |
 | [Spiral Matrix (LC 54) + Follow-Ups](https://trueinterview.io/questions/spiral-matrix-traversal)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-traversal) | Aug 16, 2026 |
-| [Longest Repeating Character Replacement](https://trueinterview.io/questions/3a164a8b-39bc-46e6-9256-95cdcd72c714)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a164a8b-39bc-46e6-9256-95cdcd72c714) | Aug 2026 |
+| [Longest Repeating Character Replacement](https://trueinterview.io/questions/3a164a8b-39bc-46e6-9256-95cdcd72c714)<br><sub>also [ByteDance](../companies/bytedance.md) / [Microsoft](../companies/microsoft.md)</sub> | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a164a8b-39bc-46e6-9256-95cdcd72c714) | Aug 2026 |
 | [Search from the end in a sorted array (variant)](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb)<br><sub>also [Snapchat](../companies/snapchat.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +3</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb) | Aug 2026 |
 | [Spiral Matrix Generation](https://trueinterview.io/questions/spiral-matrix-generation) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-generation) | Aug 2026 |
 | [Transaction Settlement](https://trueinterview.io/questions/2d3f6203-6989-434b-88a1-3299068e034e) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/2d3f6203-6989-434b-88a1-3299068e034e) | Aug 2026 |

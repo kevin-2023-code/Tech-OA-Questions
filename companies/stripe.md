@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Stripe on TrueInterview](https://trueinterview.io/problems/company/stripe) · [How Stripe interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/stripe/README.md)
 
-**95 questions** · Senior & Staff+ 66 · ML & Research Scientist 3 · Quant researcher & developer 1 · last reported Sep 2026
+**103 questions** · Senior & Staff+ 74 · ML & Research Scientist 3 · Quant researcher & developer 1 · last reported Oct 2026
 
-**Rounds:** 📝 OA (24) · 📞 Phone (35) · 🏢 Onsite (44)
+**Rounds:** 📝 OA (26) · 📞 Phone (40) · 🏢 Onsite (45)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/stripe-interview-process)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Payment State Machine (OA)](https://trueinterview.io/questions/payment-state-machine-oa) | OA | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/payment-state-machine-oa) | 🔥 Oct 4, 2026 |
 | [Connect JSON Coordinates Through a Documented Drawing API](https://trueinterview.io/questions/connect-json-coordinates-through-a-documented-drawing-api) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/connect-json-coordinates-through-a-documented-drawing-api) | 🆕 Sep 11, 2026 |
 | [Design a String-Rule Validator for Transaction Records](https://trueinterview.io/questions/design-a-string-rule-validator-for-transaction-records) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-string-rule-validator-for-transaction-records) | 🆕 Sep 11, 2026 |
 | [Financial Account Ledger](https://trueinterview.io/questions/financial-account-ledger-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/financial-account-ledger-oa) | 🆕 Sep 11, 2026 |
@@ -24,7 +25,7 @@
 | [Specify Proximity-Based Request Routing](https://trueinterview.io/questions/specify-proximity-based-request-routing) | OA | New grad · Mid | System design | [![Practice][p]](https://trueinterview.io/questions/specify-proximity-based-request-routing) | 🆕 Sep 10, 2026 |
 | [Subtract Blocked Periods from Allowed Deployment Windows](https://trueinterview.io/questions/subtract-blocked-periods-from-allowed-deployment-windows) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/subtract-blocked-periods-from-allowed-deployment-windows) | 🆕 Sep 4, 2026 |
 | [Deployment Window Scheduler](https://trueinterview.io/questions/deployment-window-scheduler-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/deployment-window-scheduler-oa) | Sep 2026 |
-| [Find Directly Linked Merchants by Shared Attributes](https://trueinterview.io/questions/bd8e4f4a-1201-4022-83ab-7f907b98c0e3) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bd8e4f4a-1201-4022-83ab-7f907b98c0e3) | Sep 2026 |
+| [Find Directly Linked Merchants by Shared Attributes](https://trueinterview.io/questions/bd8e4f4a-1201-4022-83ab-7f907b98c0e3) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bd8e4f4a-1201-4022-83ab-7f907b98c0e3) | Sep 2026 |
 | [Find the Latest Balance for a Bank Account](https://trueinterview.io/questions/find-the-latest-balance-for-a-bank-account) | Phone | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/find-the-latest-balance-for-a-bank-account) | Sep 2026 |
 | [Find the Latest Bank Account Balance](https://trueinterview.io/questions/74133864-60db-59b8-b4f9-663c0ff1ad00) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/74133864-60db-59b8-b4f9-663c0ff1ad00) | Sep 2026 |
 | [Rate Limiter](https://trueinterview.io/questions/rate-limiter)<br><sub>also [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / [Google](../companies/google.md) / +6</sub> | Onsite | New grad · Mid · **Senior** · **Staff+** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limiter) | Sep 2026 |
@@ -42,7 +43,7 @@
 | [Design Payment System](https://trueinterview.io/questions/payment-platform-design)<br><sub>also [ByteDance](../companies/bytedance.md) / [Affirm](../companies/affirm.md) / [Expedia](../companies/expedia.md) / +6</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/payment-platform-design) | Aug 2026 |
 | [Fix an Async Race Condition in a React Data Fetching Component](https://trueinterview.io/questions/977b9f31-47ef-50c5-a2c4-3ab5337f9e78) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/977b9f31-47ef-50c5-a2c4-3ab5337f9e78) | Aug 2026 |
 | [Implement a Rule Parser and Evaluator](https://trueinterview.io/questions/c7629feb-54d2-4cfc-843b-ef1dfb7a0b03) | Onsite | Intern · New grad · Mid · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c7629feb-54d2-4cfc-843b-ef1dfb7a0b03) | Aug 2026 |
-| [Request Routing System](https://trueinterview.io/questions/request-routing-system) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/request-routing-system) | Aug 2026 |
+| [Request Routing System](https://trueinterview.io/questions/request-routing-system) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/request-routing-system) | Aug 2026 |
 | [Repeated Payments](https://trueinterview.io/questions/repeated-payments) | Onsite | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/repeated-payments) | Jul 22, 2026 |
 | [Bike Map](https://trueinterview.io/questions/bike-map) | Onsite | Intern · New grad · Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/bike-map) | Jul 2026 |
 | [Credit Card Fraud Detection](https://trueinterview.io/questions/credit-card-fraud-detection) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/credit-card-fraud-detection) | Jul 2026 |
@@ -103,12 +104,19 @@
 | [Payment Reconciliation](https://trueinterview.io/questions/payment-reconciliation-integration) | Onsite | **Senior** · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/payment-reconciliation-integration) | Oct 15, 2025 |
 | [Worker-Task Matching with Specialties](https://trueinterview.io/questions/worker-task-assignment) | OA · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/worker-task-assignment) | Oct 9, 2025 |
 | [Tabular Data Neural Network](https://trueinterview.io/questions/tabular-data-neural-network) | Phone | **Senior** · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/tabular-data-neural-network) | Oct 7, 2025 |
-| [Bitfont Repository: Implement Decoders and Compose Them](https://trueinterview.io/questions/c3826719-e927-4380-9e5e-e54bd82496c4) | Onsite | New grad · Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/c3826719-e927-4380-9e5e-e54bd82496c4) | — |
+| [Bitfont Repository: Implement Decoders and Compose Them](https://trueinterview.io/questions/c3826719-e927-4380-9e5e-e54bd82496c4) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/c3826719-e927-4380-9e5e-e54bd82496c4) | — |
 | [Compute Total Cost from Two Tables (SQL Aggregation + Join) with Tiered Fees Follow-up](https://trueinterview.io/questions/bdcdde80-7010-4c5f-b26c-7fc83901d0f9) | OA | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/bdcdde80-7010-4c5f-b26c-7fc83901d0f9) | — |
 | [Create a UI Component for Passport Validation](https://trueinterview.io/questions/6906bc8c-d026-4897-935f-ad4842034fa0) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/6906bc8c-d026-4897-935f-ad4842034fa0) | — |
+| [CSV Company Record Validation and Field Word Overlap](https://trueinterview.io/questions/1259af1d-bc05-5772-8818-4e27bb40a1c2) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/1259af1d-bc05-5772-8818-4e27bb40a1c2) | — |
+| [Deployment Window Scheduler — Part 1](https://trueinterview.io/questions/df27d016-b2c5-5794-9e64-f08fb60918d6) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/df27d016-b2c5-5794-9e64-f08fb60918d6) | — |
 | [Design a model for subscription adoption prediction](https://trueinterview.io/questions/design-a-model-for-subscription-adoption-prediction) | OA | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-model-for-subscription-adoption-prediction) | — |
 | [Design an idempotent SQL ETL for late data](https://trueinterview.io/questions/design-an-idempotent-sql-etl-for-late-data) | Phone | **Senior** · **Staff+** | SQL | [![Practice][p]](https://trueinterview.io/questions/design-an-idempotent-sql-etl-for-late-data) | — |
 | [Design metrics and write SQL for a case](https://trueinterview.io/questions/design-metrics-and-write-sql-for-a-case) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/design-metrics-and-write-sql-for-a-case) | — |
 | [Implement Additional Features Based on GitHub Issues](https://trueinterview.io/questions/bd847b49-a752-4430-9fe1-a52869f5fdf0) | Onsite | **Senior** · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/bd847b49-a752-4430-9fe1-a52869f5fdf0) | — |
+| [Match Payments to Invoices with a Forgiveness Range](https://trueinterview.io/questions/fe8f4837-094e-509a-b993-8d9ff63eb4c8) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/fe8f4837-094e-509a-b993-8d9ff63eb4c8) | — |
+| [Register Data Centers and Route to the Nearest Healthy Region](https://trueinterview.io/questions/3e1717c0-3f46-530e-867f-13b6cea2b132) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/3e1717c0-3f46-530e-867f-13b6cea2b132) | — |
+| [Render a Task Hierarchy from Flat Records](https://trueinterview.io/questions/74f0a23e-87e7-5cae-b6d5-cd172ce9ca2c) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/74f0a23e-87e7-5cae-b6d5-cd172ce9ca2c) | — |
+| [Split Tender: Gift Cards, Expiration, Surcharges, and Refunds](https://trueinterview.io/questions/3a47c1a0-fd3b-53f5-893c-89c8e19184eb) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3a47c1a0-fd3b-53f5-893c-89c8e19184eb) | — |
+| [Transaction Risk Rules with Boolean Expressions](https://trueinterview.io/questions/faff15a8-89a1-5476-9d42-5d7a4e1803c6) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/faff15a8-89a1-5476-9d42-5d7a4e1803c6) | — |
 | [Write SQL for snapshot features and labels](https://trueinterview.io/questions/write-sql-for-snapshot-features-and-labels) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-snapshot-features-and-labels) | — |
 | [Write SQL to detect recurring non-subscription users](https://trueinterview.io/questions/write-sql-to-detect-recurring-non-subscription-users) | OA | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-to-detect-recurring-non-subscription-users) | — |

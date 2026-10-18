@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Anthropic on TrueInterview](https://trueinterview.io/problems/company/anthropic) · [How Anthropic interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/anthropic/README.md)
 
-🧠 AI labs · **79 questions** · Senior & Staff+ 66 · ML & Research Scientist 14 · last reported Sep 2026
+🧠 AI labs · **78 questions** · Senior & Staff+ 64 · ML & Research Scientist 14 · last reported Sep 2026
 
-**Rounds:** 📝 OA (17) · 📞 Phone (35) · 🏢 Onsite (43) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (17) · 📞 Phone (35) · 🏢 Onsite (42) · 🏠 Take-home (2)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/anthropic-interview-process) · [SWE](https://trueinterview.io/study/anthropic-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/anthropic-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/anthropic-research-scientist-interview-process) · [AI engineer](https://trueinterview.io/study/anthropic-ai-engineer-interview-process) · [Infra](https://trueinterview.io/study/anthropic-infrastructure-engineer-interview-process)
 
@@ -18,7 +18,7 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Route and Batch Inference with Eight GPUs](https://trueinterview.io/questions/route-and-batch-inference-with-eight-gpus) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/route-and-batch-inference-with-eight-gpus) | 🆕 Sep 8, 2026 |
-| [Concurrent Web Crawler](https://trueinterview.io/questions/24ef32e6-b554-41ca-977b-307982b4d871) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/24ef32e6-b554-41ca-977b-307982b4d871) | Sep 2026 |
+| [Concurrent Web Crawler](https://trueinterview.io/questions/24ef32e6-b554-41ca-977b-307982b4d871)<br><sub>also [MongoDB](../companies/mongodb.md)</sub> | Phone | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/24ef32e6-b554-41ca-977b-307982b4d871) | Sep 2026 |
 | [Design Telemetry Ingestion and Reconcile Metric Names](https://trueinterview.io/questions/design-telemetry-ingestion-and-reconcile-metric-names) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-telemetry-ingestion-and-reconcile-metric-names) | Sep 2026 |
 | [Distributed Mode and Median](https://trueinterview.io/questions/distributed-mode-and-median) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/distributed-mode-and-median) | Sep 2026 |
 | [Estimate FFN Compute, Memory, and Sharding Communication](https://trueinterview.io/questions/estimate-ffn-compute-memory-and-sharding-communication) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/estimate-ffn-compute-memory-and-sharding-communication) | Sep 2026 |
@@ -32,7 +32,7 @@
 | [Batch Image Processor](https://trueinterview.io/questions/batch-image-processor) | Phone · Onsite | New grad · Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/batch-image-processor) | Aug 2026 |
 | [Design Distributed AI Model Downloader](https://trueinterview.io/questions/distributed-model-deployment-system-design) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/distributed-model-deployment-system-design) | Aug 2026 |
 | [Image Transformation using Python Libraries](https://trueinterview.io/questions/d5535584-0980-47fb-862d-6f9f7569791d) | Onsite | New grad · Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/d5535584-0980-47fb-862d-6f9f7569791d) | Aug 2026 |
-| [Bank System](https://trueinterview.io/questions/bank-system)<br><sub>also [Coinbase](../companies/coinbase.md)</sub> | OA | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bank-system) | Jul 2026 |
+| [Bank System](https://trueinterview.io/questions/bank-system)<br><sub>also [Coinbase](../companies/coinbase.md) / [PayPal](../companies/paypal.md)</sub> | OA | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/bank-system) | Jul 2026 |
 | [Banking System with Payments and Account Merging](https://trueinterview.io/questions/c8060613-c56e-5708-920f-2455777b3d9f)<br><sub>also [Ramp](../companies/ramp.md) / [Capital One](../companies/capital-one.md) / [Coinbase](../companies/coinbase.md) / +2</sub> | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c8060613-c56e-5708-920f-2455777b3d9f) | Jul 2026 |
 | [Design AI Prompt Playground](https://trueinterview.io/questions/prompt-playground-system-design) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/prompt-playground-system-design) | Jul 2026 |
 | [Design ChatGPT](https://trueinterview.io/questions/design-chatgpt)<br><sub>also [Amazon](../companies/amazon.md) / [OpenAI](../companies/openai.md) / [xAI](../companies/xai.md)</sub> | Phone · Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-chatgpt) | Jul 2026 |
@@ -41,7 +41,7 @@
 | [File Systems](https://trueinterview.io/questions/oa-file-systems) | OA | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-file-systems) | Jul 2026 |
 | [In-Memory Cache: Bug-Fix + Durability](https://trueinterview.io/questions/coding-q2-lru-cache-durability) | Phone · Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/coding-q2-lru-cache-durability) | Jul 2026 |
 | [In-Memory Key-Value Store with Nested Transactions and Value Counts](https://trueinterview.io/questions/20ebc05b-c152-573c-aa66-541458bdacc0)<br><sub>also [Lyft](../companies/lyft.md)</sub> | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/20ebc05b-c152-573c-aa66-541458bdacc0) | Jul 2026 |
-| [Longest-Match Tokenizer](https://trueinterview.io/questions/coding-q6-tokenizer-2) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/coding-q6-tokenizer-2) | Jul 2026 |
+| [Longest-Match Tokenizer](https://trueinterview.io/questions/coding-q6-tokenizer-2)<br><sub>also [Google](../companies/google.md)</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/coding-q6-tokenizer-2) | Jul 2026 |
 | [LRU Cache (Python)](https://trueinterview.io/questions/lru-cache-python) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/lru-cache-python) | Jul 2026 |
 | [Optimized Infection Simulation on a 2D Grid](https://trueinterview.io/questions/01599122-965f-57e6-99b0-d43238e938fc) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/01599122-965f-57e6-99b0-d43238e938fc) | Jul 2026 |
 | [Review and Improve a Flawed Design Document](https://trueinterview.io/questions/review-and-improve-a-flawed-design-document) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/review-and-improve-a-flawed-design-document) | Jul 2026 |
@@ -50,7 +50,6 @@
 | [Token Usage Calculation](https://trueinterview.io/questions/1f861fb5-8d4f-46c0-b1f4-d2599788cc8a) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/1f861fb5-8d4f-46c0-b1f4-d2599788cc8a) | Jul 2026 |
 | [Tokenize (Python)](https://trueinterview.io/questions/tokenize-python) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/tokenize-python) | Jul 2026 |
 | [Worker / Employee Grant Management](https://trueinterview.io/questions/oa-worker-management) | OA | New grad · **Senior** · Manager | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-worker-management) | Jul 2026 |
-| [Design Facebook Messenger](https://trueinterview.io/questions/design-messenger)<br><sub>also [Uber](../companies/uber.md) / [Google](../companies/google.md) / [Lyft](../companies/lyft.md) / +2</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-messenger) | Jun 21, 2026 |
 | [Infection Spread Simulation](https://trueinterview.io/questions/infection-spread-simulation)<br><sub>also [OpenAI](../companies/openai.md)</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/infection-spread-simulation) | Jun 19, 2026 |
 | [Bank System with Transfer/Accept and Merge](https://trueinterview.io/questions/oa-bank-system) | OA | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-bank-system) | Jun 15, 2026 |
 | [Repair Bootloader Program](https://trueinterview.io/questions/61e8a96a-9a4c-4360-8605-6dc9dced96a8) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/61e8a96a-9a4c-4360-8605-6dc9dced96a8) | Jun 15, 2026 |

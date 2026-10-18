@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Yelp on TrueInterview](https://trueinterview.io/problems/company/yelp) · [How Yelp interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/yelp/README.md)
 
-**20 questions** · Senior & Staff+ 20 · last reported Sep 2026
+**19 questions** · Senior & Staff+ 19 · last reported Sep 2026
 
-**Rounds:** 📞 Phone (13) · 🏢 Onsite (17)
+**Rounds:** 📞 Phone (12) · 🏢 Onsite (17)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -23,7 +23,6 @@
 | [Design News Feed](https://trueinterview.io/questions/design-news-feed)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [Confluent](../companies/confluent.md) / +12</sub> | Phone · Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-news-feed) | Jul 2026 |
 | [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9)<br><sub>also [ByteDance](../companies/bytedance.md) / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +6</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Jun 2026 |
 | [Cross-Platform Logging Library](https://trueinterview.io/questions/logging-library-design)<br><sub>also [Snowflake](../companies/snowflake.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +6</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/logging-library-design) | Mar 23, 2026 |
-| [Binary Tree: Subtree Sum, Maximum Path Value, and Path Nodes](https://trueinterview.io/questions/ac87144a-2edd-4973-bfa5-43b00c06912f)<br><sub>also [Uber](../companies/uber.md) / [DoorDash](../companies/doordash.md) / [Meta](../companies/meta.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ac87144a-2edd-4973-bfa5-43b00c06912f) | Mar 2026 |
 | [Count Alert Triggers](https://trueinterview.io/questions/count-alert-triggers) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/count-alert-triggers) | Apr 21, 2025 |
 | [Find Destination Node](https://trueinterview.io/questions/find-destination-node) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/find-destination-node) | Apr 20, 2025 |
 | [Jaccard Business Similarity](https://trueinterview.io/questions/jaccard-business-similarity) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/jaccard-business-similarity) | Apr 20, 2025 |

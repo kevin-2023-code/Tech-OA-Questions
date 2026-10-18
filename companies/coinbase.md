@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Coinbase on TrueInterview](https://trueinterview.io/problems/company/coinbase) · [How Coinbase interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/coinbase/README.md)
 
-**72 questions** · Senior & Staff+ 51 · ML & Research Scientist 3 · Quant researcher & developer 1 · last reported Sep 2026
+**72 questions** · Senior & Staff+ 50 · ML & Research Scientist 3 · Quant researcher & developer 1 · last reported Sep 2026
 
 **Rounds:** 📝 OA (19) · 📞 Phone (13) · 🏢 Onsite (42)
 
@@ -23,7 +23,7 @@
 | [Minimum Days to Execute Ordered Tasks with Cooldown](https://trueinterview.io/questions/aceaaa24-bfc7-5f9d-9dac-8462aa82ba07) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aceaaa24-bfc7-5f9d-9dac-8462aa82ba07) | Aug 2026 |
 | [Moving Average over a Sliding Window](https://trueinterview.io/questions/404adef3-580e-58ed-80ed-37af565360df) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/404adef3-580e-58ed-80ed-37af565360df) | Aug 2026 |
 | [AI Enhanced Pilot — Domain (AI-Assisted Coding Round)](https://trueinterview.io/questions/ai-enhanced-pilot-domain) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/ai-enhanced-pilot-domain) | Jul 2026 |
-| [Bank System](https://trueinterview.io/questions/bank-system)<br><sub>also [Anthropic](../companies/anthropic.md)</sub> | OA | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bank-system) | Jul 2026 |
+| [Bank System](https://trueinterview.io/questions/bank-system)<br><sub>also [Anthropic](../companies/anthropic.md) / [PayPal](../companies/paypal.md)</sub> | OA | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/bank-system) | Jul 2026 |
 | [Banking System with Payments and Account Merging](https://trueinterview.io/questions/c8060613-c56e-5708-920f-2455777b3d9f)<br><sub>also [Ramp](../companies/ramp.md) / [Anthropic](../companies/anthropic.md) / [Capital One](../companies/capital-one.md) / +2</sub> | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c8060613-c56e-5708-920f-2455777b3d9f) | Jul 2026 |
 | [Design Coinbase Explore](https://trueinterview.io/questions/sd-coinbase-explore-realtime-price)<br><sub>also [Robinhood](../companies/robinhood.md) / [Snapchat](../companies/snapchat.md)</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-coinbase-explore-realtime-price) | Jul 2026 |
 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-crypto-exchange-order-flow-system)<br><sub>also [Databricks](../companies/databricks.md) / [Robinhood](../companies/robinhood.md)</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-crypto-exchange-order-flow-system) | Jul 2026 |

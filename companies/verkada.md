@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Verkada on TrueInterview](https://trueinterview.io/problems/company/verkada) · [How Verkada interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/verkada/README.md)
 
-**32 questions** · Senior & Staff+ 15 · Quant researcher & developer 1 · last reported Sep 2026
+**32 questions** · Senior & Staff+ 14 · Quant researcher & developer 1 · last reported Sep 2026
 
 **Rounds:** 📝 OA (1) · 📞 Phone (19) · 🏢 Onsite (15)
 
@@ -19,7 +19,7 @@
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Design a Massive Live Two-Choice Voting System](https://trueinterview.io/questions/design-a-massive-live-two-choice-voting-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-massive-live-two-choice-voting-system) | 🆕 Sep 4, 2026 |
 | [Validate a Partially Filled Sudoku Board](https://trueinterview.io/questions/validate-a-partially-filled-sudoku-board) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-a-partially-filled-sudoku-board) | 🆕 Sep 4, 2026 |
-| [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0)<br><sub>also [Amazon](../companies/amazon.md) / [Microsoft](../companies/microsoft.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | Sep 2026 |
+| [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md)</sub> | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | Sep 2026 |
 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / [Goldman Sachs](../companies/goldman-sachs.md) / +2</sub> | Onsite | Intern · New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | Sep 2026 |
 | [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2)<br><sub>also [Google](../companies/google.md) / [Microsoft](../companies/microsoft.md)</sub> | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-common-free-days-2) | Aug 2026 |
 | [Design News Feed](https://trueinterview.io/questions/design-news-feed)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [Confluent](../companies/confluent.md) / +12</sub> | Phone · Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-news-feed) | Jul 2026 |
@@ -31,7 +31,7 @@
 | [Real-time status counting system design](https://trueinterview.io/questions/86e2e2dd-5c95-496d-ba7e-2e052ef2f37f) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/86e2e2dd-5c95-496d-ba7e-2e052ef2f37f) | Jun 2026 |
 | [Design Youtube](https://trueinterview.io/questions/design-youtube)<br><sub>also [OpenAI](../companies/openai.md) / [Amazon](../companies/amazon.md) / [Datadog](../companies/datadog.md) / +4</sub> | Phone · Onsite | **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-youtube) | May 2026 |
 | [Design Access Management System](https://trueinterview.io/questions/role-and-resource-access-system)<br><sub>also [Atlassian](../companies/atlassian.md) / [Expedia](../companies/expedia.md) / [Ramp](../companies/ramp.md) / +4</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/role-and-resource-access-system) | Apr 2026 |
-| [Find IPv4 Addresses in Nested Files](https://trueinterview.io/questions/d5905d81-f1d5-4f11-97ad-b8162610cc37) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d5905d81-f1d5-4f11-97ad-b8162610cc37) | Apr 2026 |
+| [Find IPv4 Addresses in Nested Files](https://trueinterview.io/questions/d5905d81-f1d5-4f11-97ad-b8162610cc37)<br><sub>also [Amazon](../companies/amazon.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d5905d81-f1d5-4f11-97ad-b8162610cc37) | Apr 2026 |
 | [Minimum Coin Combination Counts](https://trueinterview.io/questions/minimum-coin-combination-counts)<br><sub>also [Datadog](../companies/datadog.md) / [ByteDance](../companies/bytedance.md)</sub> | Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-coin-combination-counts) | Apr 2026 |
 | [React UI Implementation from Figma (Flexbox/Grid heavy)](https://trueinterview.io/questions/fdefc42f-efc5-4cce-b95d-a9881714b78c) | Onsite | New grad | AI coding | [![Practice][p]](https://trueinterview.io/questions/fdefc42f-efc5-4cce-b95d-a9881714b78c) | Apr 2026 |
 | [Add Two Large Integers Stored in Linked Lists (4 digits per node)](https://trueinterview.io/questions/68fd7f68-6e89-4955-b27b-d02bcde92cae) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/68fd7f68-6e89-4955-b27b-d02bcde92cae) | Mar 2026 |

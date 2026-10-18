@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Waymo on TrueInterview](https://trueinterview.io/problems/company/waymo) · [How Waymo interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/waymo/README.md)
 
-**62 questions** · Senior & Staff+ 40 · ML & Research Scientist 10 · Quant researcher & developer 1 · last reported Sep 2026
+**64 questions** · Senior & Staff+ 42 · ML & Research Scientist 11 · Quant researcher & developer 1 · last reported Sep 2026
 
-**Rounds:** 📝 OA (7) · 📞 Phone (32) · 🏢 Onsite (25)
+**Rounds:** 📝 OA (7) · 📞 Phone (34) · 🏢 Onsite (27)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/waymo-interview-process)
 
@@ -45,11 +45,12 @@
 | [Count Squares Formed by Segments](https://trueinterview.io/questions/count-squares-formed-by-segments) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-squares-formed-by-segments) | May 5, 2026 |
 | [Shortest Path from Source to Target Nodes (Dijkstra)](https://trueinterview.io/questions/dijkstra-shortest-path-to-targets) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/dijkstra-shortest-path-to-targets) | May 1, 2026 |
 | [Optimize Tensor Runtime Kernels](https://trueinterview.io/questions/optimize-tensor-runtime-kernels) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/optimize-tensor-runtime-kernels) | May 2026 |
+| [Sliding-Window Rate Limiter II](https://trueinterview.io/questions/sliding-window-rate-limiter)<br><sub>also [Roblox](../companies/roblox.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +10</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/sliding-window-rate-limiter) | May 2026 |
 | [Car Fleet Scheduler](https://trueinterview.io/questions/car-fleet-scheduler) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/car-fleet-scheduler) | Apr 24, 2026 |
 | [Elevator Operation Logic](https://trueinterview.io/questions/sd-elevator-operation-logic) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-elevator-operation-logic) | Apr 24, 2026 |
 | [Garage Occupancy per Timestamp](https://trueinterview.io/questions/garage-occupancy-per-timestamp) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/garage-occupancy-per-timestamp) | Apr 24, 2026 |
 | [Largest Rectangle Area](https://trueinterview.io/questions/max-area-rectangle-coordinate-set) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/max-area-rectangle-coordinate-set) | Apr 24, 2026 |
-| [Roadway Segment Speed Query](https://trueinterview.io/questions/roadway-segment-speed-query) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/roadway-segment-speed-query) | Apr 24, 2026 |
+| [Roadway Segment Speed Query](https://trueinterview.io/questions/roadway-segment-speed-query) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/roadway-segment-speed-query) | Apr 24, 2026 |
 | [Simulation Log Collection and Result Aggregation](https://trueinterview.io/questions/sd-simulation-log-aggregation) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-simulation-log-aggregation) | Apr 23, 2026 |
 | [Process Raw CSV for Downstream Consumers](https://trueinterview.io/questions/csv-parser-open-ended) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/csv-parser-open-ended) | Apr 22, 2026 |
 | [Behavior Prediction from Sensor + Camera Data](https://trueinterview.io/questions/sd-ml-behavior-prediction-from-sensors) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-ml-behavior-prediction-from-sensors) | Apr 18, 2026 |
@@ -66,6 +67,7 @@
 | [Minimum travel path for a pen-plotter to draw given strokes](https://trueinterview.io/questions/3381639d-07f5-4b35-b058-b7310ebb194d) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3381639d-07f5-4b35-b058-b7310ebb194d) | Apr 2026 |
 | [Prefix Autocomplete via Trie](https://trueinterview.io/questions/trie-prefix-autocomplete) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/trie-prefix-autocomplete) | Mar 27, 2026 |
 | [Car Maze with Incrementally Revealed Neighbors (DFS)](https://trueinterview.io/questions/car-maze-incremental-discovery-dfs) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/car-maze-incremental-discovery-dfs) | Mar 25, 2026 |
+| [Implement K-Means in NumPy or PyTorch](https://trueinterview.io/questions/implement-k-means-in-numpy-or-pytorch)<br><sub>also [Apple](../companies/apple.md) / [Microsoft](../companies/microsoft.md)</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/implement-k-means-in-numpy-or-pytorch) | Mar 25, 2026 |
 | [Sort a Quadratic-Transformed Sorted Array](https://trueinterview.io/questions/sort-transformed-quadratic-array) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/sort-transformed-quadratic-array) | Mar 23, 2026 |
 | [Ratings in the First and Third Active Months](https://trueinterview.io/questions/analyze-user-ride-activity-with-sql-ratings-in-the-first-and-third-active-months) | OA | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/analyze-user-ride-activity-with-sql-ratings-in-the-first-and-third-active-months) | Mar 14, 2026 |
 | [Compute Ride Metrics in SQL](https://trueinterview.io/questions/compute-ride-metrics-in-sql) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-ride-metrics-in-sql) | Mar 7, 2026 |
@@ -73,7 +75,7 @@
 | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d)<br><sub>also [Airbnb](../companies/airbnb.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
 | [LED Digit Display Invariant Under 180° Rotation](https://trueinterview.io/questions/strobogrammatic-led-display) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/strobogrammatic-led-display) | Mar 2026 |
 | [Run-Length Encoded String: Find by Index and Range Max](https://trueinterview.io/questions/run-length-encoding-find-by-index) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/run-length-encoding-find-by-index) | Mar 2026 |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Mar 2026 |
+| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Mar 2026 |
 | [Sort Target String by Custom Order](https://trueinterview.io/questions/custom-sort-string-by-order) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/custom-sort-string-by-order) | Mar 2026 |
 | [Gas Station Feasibility / Complete Circuit](https://trueinterview.io/questions/c190b4fe-494b-4c16-b5f1-2a480a0f4ab6)<br><sub>also [Bloomberg](../companies/bloomberg.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/c190b4fe-494b-4c16-b5f1-2a480a0f4ab6) | Feb 2026 |
 | [Two-Column Table: Place Divider to Minimize Total Height](https://trueinterview.io/questions/two-column-table-optimal-divider) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/two-column-table-optimal-divider) | Nov 14, 2025 |

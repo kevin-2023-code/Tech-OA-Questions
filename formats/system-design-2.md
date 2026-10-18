@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**700 questions** · 654 at Senior/Staff+ · 163 reported in the last 90 days · 34 free to solve
+**703 questions** · 656 at Senior/Staff+ · 166 reported in the last 90 days · 34 free to solve
 
-**Rounds:** 📝 OA (10) · 📞 Phone (247) · 🏢 Onsite (484) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (10) · 📞 Phone (247) · 🏢 Onsite (487) · 🏠 Take-home (1)
 
-**Companies:** [Meta (75)](../companies/meta.md) · [Amazon (50)](../companies/amazon.md) · [OpenAI (44)](../companies/openai.md) · [Google (39)](../companies/google.md) · [ByteDance (37)](../companies/bytedance.md) · [Uber (34)](../companies/uber.md) · [DoorDash (31)](../companies/doordash.md) · [Microsoft (30)](../companies/microsoft.md) · [LinkedIn (29)](../companies/linkedin.md) · [Roblox (26)](../companies/roblox.md) · [Databricks (25)](../companies/databricks.md) · [Airbnb (23)](../companies/airbnb.md) · [Apple (23)](../companies/apple.md) · [Snapchat (23)](../companies/snapchat.md) · [Netflix (21)](../companies/netflix.md)
+**Companies:** [Meta (74)](../companies/meta.md) · [Amazon (50)](../companies/amazon.md) · [OpenAI (44)](../companies/openai.md) · [ByteDance (38)](../companies/bytedance.md) · [Google (38)](../companies/google.md) · [Uber (34)](../companies/uber.md) · [Microsoft (32)](../companies/microsoft.md) · [DoorDash (31)](../companies/doordash.md) · [LinkedIn (29)](../companies/linkedin.md) · [Roblox (26)](../companies/roblox.md) · [Databricks (25)](../companies/databricks.md) · [Airbnb (23)](../companies/airbnb.md) · [Apple (23)](../companies/apple.md) · [Snapchat (22)](../companies/snapchat.md) · [Netflix (21)](../companies/netflix.md)
 
 <sub>Page [1](system-design.md) · **2**</sub>
 
@@ -19,8 +19,11 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Lyft](../companies/lyft.md)** | [Design an HR Document AI Platform](https://trueinterview.io/questions/design-an-hr-document-ai-platform) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-hr-document-ai-platform) | Mar 12, 2026 |
+| **[Meta](../companies/meta.md)** | [Design a location-based radius top-K search](https://trueinterview.io/questions/design-a-location-based-radius-top-k-search) | Onsite | **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-location-based-radius-top-k-search) | Mar 11, 2026 |
+| **[Tesla](../companies/tesla.md)** | [Ticketmaster-Style Seat Booking Design](https://trueinterview.io/questions/ticketmaster-double-booking-design) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/ticketmaster-double-booking-design) | Mar 11, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Design a Collaborative Spreadsheet (Google Sheets)](https://trueinterview.io/questions/google-sheets-design) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/google-sheets-design) | Mar 10, 2026 |
-| **[Salesforce](../companies/salesforce.md)** | [Design an Analytics Metrics Dashboard for ChatGPT / LLM Service](https://trueinterview.io/questions/analytics-dashboard-llm-product) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/analytics-dashboard-llm-product) | Mar 10, 2026 |
+| **[Salesforce](../companies/salesforce.md)** | [Design an Analytics Metrics Dashboard for ChatGPT / LLM Service](https://trueinterview.io/questions/analytics-dashboard-llm-product) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/analytics-dashboard-llm-product) | Mar 10, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Design demand-side ads relational tables](https://trueinterview.io/questions/design-demand-side-ads-relational-tables) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-demand-side-ads-relational-tables) | Mar 9, 2026 |
 | **[Uber](../companies/uber.md)** | [ML System Design (Recommendation / Feed Ranking / ETA)](https://trueinterview.io/questions/mle-onsite-ml-system-design) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/mle-onsite-ml-system-design) | Mar 9, 2026 |
 | **[Palantir](../companies/palantir.md)** | [Design a Server Metrics Monitor](https://trueinterview.io/questions/design-a-server-metrics-monitor) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-server-metrics-monitor) | Mar 8, 2026 |
@@ -297,7 +300,7 @@
 | **[Visa](../companies/visa.md)** | [Designing Real-Time Instant Messaging Application with Media Support](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | — |
 | **[LinkedIn](../companies/linkedin.md)** | [Do US members upload more videos than non-US?](https://trueinterview.io/questions/do-us-members-upload-more-videos-than-non-us) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/do-us-members-upload-more-videos-than-non-us) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Drive product decisions with causal product sense](https://trueinterview.io/questions/drive-product-decisions-with-causal-product-sense) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/drive-product-decisions-with-causal-product-sense) | — |
-| **[Scale AI](../companies/scale-ai.md)** | [Explain worker state machine load balancer design](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | — |
+| **[Scale AI](../companies/scale-ai.md)** | [Explain worker state machine load balancer design](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | — |
 | **[Google](../companies/google.md)** | [Find companies similar to a given client](https://trueinterview.io/questions/find-companies-similar-to-a-given-client) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/find-companies-similar-to-a-given-client) | — |
 | **[Amazon](../companies/amazon.md)** | [Game Shop Design](https://trueinterview.io/questions/0f33f62b-5a8a-40d0-a6bb-c637b20b3cdf) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/0f33f62b-5a8a-40d0-a6bb-c637b20b3cdf) | — |
 | **[Capital One](../companies/capital-one.md)** | [Identify and mitigate risks to break-even](https://trueinterview.io/questions/identify-and-mitigate-risks-to-break-even) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/identify-and-mitigate-risks-to-break-even) | — |
