@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Walmart Labs on TrueInterview](https://trueinterview.io/problems/company/walmart-labs) · [How Walmart Labs interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/walmart-labs/README.md)
 
-**29 questions** · Senior & Staff+ 18 · ML & Research Scientist 1 · last reported Sep 2026
+**35 questions** · Senior & Staff+ 23 · ML & Research Scientist 1 · last reported Sep 2026
 
-**Rounds:** 📝 OA (6) · 📞 Phone (14) · 🏢 Onsite (11)
+**Rounds:** 📝 OA (6) · 📞 Phone (17) · 🏢 Onsite (14)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/walmartlabs-interview-process)
 
@@ -28,9 +28,12 @@
 | [Permutation Maximizing Σ B\[i\] where B\[i\] > A\[i\]](https://trueinterview.io/questions/permutation-max-greater-sum) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/permutation-max-greater-sum) | May 7, 2026 |
 | [Insert Spaces Around Palindrome Layers](https://trueinterview.io/questions/shrink-palindrome-spaces) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/shrink-palindrome-spaces) | Apr 24, 2026 |
 | [Merge Intervals Returning Original Start/End Indices](https://trueinterview.io/questions/merge-intervals-with-indices) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/merge-intervals-with-indices) | Apr 24, 2026 |
+| [Walmart Behavioral / HM Loop](https://trueinterview.io/questions/walmart-bq-loop) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/walmart-bq-loop) | Apr 24, 2026 |
+| [Evaluate Last-Mile Product Metric Changes](https://trueinterview.io/questions/evaluate-last-mile-product-metric-changes) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-last-mile-product-metric-changes) | Apr 16, 2026 |
 | [Live Refactor: Function → Production Service](https://trueinterview.io/questions/function-to-service-refactor) | Phone | **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/function-to-service-refactor) | Apr 6, 2026 |
 | [Design State-Wide Temperature Sensor Ingestion](https://trueinterview.io/questions/design-sensor-temperature-ingestion) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-sensor-temperature-ingestion) | Mar 26, 2026 |
 | [Remove m Elements to Minimize Unique Count](https://trueinterview.io/questions/remove-m-minimize-unique-elements) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/remove-m-minimize-unique-elements) | Mar 26, 2026 |
+| [Answer leadership scenarios about influence and integrity](https://trueinterview.io/questions/answer-leadership-scenarios-about-influence-and-integrity) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/answer-leadership-scenarios-about-influence-and-integrity) | Mar 4, 2026 |
 | [Design Ticketmaster — Event Booking & Seat Reservation](https://trueinterview.io/questions/design-ticketmaster-event-booking) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-ticketmaster-event-booking) | Mar 3, 2026 |
 | [Two Sum with Smallest-Indices Tiebreak (+ 3 Sum Follow-up)](https://trueinterview.io/questions/two-sum-smallest-indices) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/two-sum-smallest-indices) | Mar 3, 2026 |
 | [3Sum (No Duplicate Triplets Assumed)](https://trueinterview.io/questions/8fc7c24f-4bbb-435d-9d6a-c35a8c021037) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/8fc7c24f-4bbb-435d-9d6a-c35a8c021037) | Mar 2026 |
@@ -39,10 +42,13 @@
 | [Plants Pesticide — Days Until Stable](https://trueinterview.io/questions/plants-pesticide-days) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/plants-pesticide-days) | Feb 24, 2026 |
 | [Poisonous Plants (Monotonic Stack)](https://trueinterview.io/questions/d9a75f75-3072-4976-9253-e2e13522a51a) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/d9a75f75-3072-4976-9253-e2e13522a51a) | Feb 2026 |
 | [Course Overlap by Student ID](https://trueinterview.io/questions/course-overlap) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/course-overlap) | Dec 31, 2025 |
+| [Spring Boot Verbal Quiz](https://trueinterview.io/questions/spring-boot-verbal-quiz) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/spring-boot-verbal-quiz) | Dec 31, 2025 |
 | [Validate Nonogram Solution](https://trueinterview.io/questions/validate-nonogram) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-nonogram) | Dec 31, 2025 |
 | [Validate N×N Grid as Latin Square](https://trueinterview.io/questions/validate-square-grid) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-square-grid) | Dec 31, 2025 |
 | [Predict Item Category](https://trueinterview.io/questions/mlsd-predict-item-category) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/mlsd-predict-item-category) | Dec 17, 2025 |
+| [Handle conflict and motivate engineering teams](https://trueinterview.io/questions/handle-conflict-and-motivate-engineering-teams) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/handle-conflict-and-motivate-engineering-teams) | Dec 9, 2025 |
 | [Find the First Corrupted Character](https://trueinterview.io/questions/8593ff20-396d-44a7-9fb2-21c5eee2d0e1)<br><sub>also [Amazon](../companies/amazon.md)</sub> | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/8593ff20-396d-44a7-9fb2-21c5eee2d0e1) | Dec 2025 |
 | [Design Walmart+ Membership System](https://trueinterview.io/questions/design-membership-system) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-membership-system) | Nov 20, 2025 |
+| [Check Output Correctness in Code](https://trueinterview.io/questions/d65899f8-0f93-47d6-9fd4-ca6ae30663bc) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/d65899f8-0f93-47d6-9fd4-ca6ae30663bc) | Nov 2025 |
 | [Design System for Downstream Data Retrieval](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | Onsite | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/45ec8907-7df9-4259-982a-45d245b3eab8) | — |
 | [Last-Mile Business Queries (Aggregations, Joins, Windows, Dates, Optimization)](https://trueinterview.io/questions/0621ce99-ba72-46ab-b3f0-3bbc90c0f217) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/0621ce99-ba72-46ab-b3f0-3bbc90c0f217) | — |

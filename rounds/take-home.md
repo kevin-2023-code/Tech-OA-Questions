@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**10 questions** · 8 at Senior/Staff+ · 0 reported in the last 90 days · 1 free to solve
+**12 questions** · 8 at Senior/Staff+ · 1 reported in the last 90 days · 3 free to solve
 
-**By employer group:** 🧠 AI labs (5) · 📈 Quant firms (1) · 🏛️ MAANG+ (1)
+**By employer group:** 🧠 AI labs (5) · 📈 Quant firms (2) · 🏛️ MAANG+ (1)
 
-**Companies:** [xAI (3)](../companies/xai.md) · [Anthropic (2)](../companies/anthropic.md) · [Instacart (1)](../companies/instacart.md) · [Meta (1)](../companies/meta.md) · [Optiver (1)](../companies/optiver.md) · [Salesforce (1)](../companies/salesforce.md) · [Tesla (1)](../companies/tesla.md)
+**Companies:** [xAI (3)](../companies/xai.md) · [Anthropic (2)](../companies/anthropic.md) · [Optiver (2)](../companies/optiver.md) · [Capital One (1)](../companies/capital-one.md) · [Instacart (1)](../companies/instacart.md) · [Meta (1)](../companies/meta.md) · [Salesforce (1)](../companies/salesforce.md) · [Tesla (1)](../companies/tesla.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -17,6 +17,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Capital One](../companies/capital-one.md)** | [NYC Green Taxi Data Science Challenge](https://trueinterview.io/questions/nyc-green-taxi-data-science-challenge) | Take-home | Intern | blog | [![Free][f]](https://trueinterview.io/questions/nyc-green-taxi-data-science-challenge) | Aug 28, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Full-Stack AI-Pairing Assessment](https://trueinterview.io/questions/full-stack-ai-assessment) | OA · Take-home | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/full-stack-ai-assessment) | Jun 22, 2026 |
 | **[Optiver](../companies/optiver.md)** | [Build Binary Tree from Edges / S-Expression](https://trueinterview.io/questions/binary-tree-from-edges) | OA · Take-home | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-from-edges) | Jun 15, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Mechanistic Interpretability Take-Home — Sample-Aspect Double Descent](https://trueinterview.io/questions/mech-interp-take-home) | Take-home | **Senior** · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/mech-interp-take-home) | Apr 19, 2026 |
@@ -25,5 +26,6 @@
 | **[Meta](../companies/meta.md)** | [AI Project Round (Take-Home-Style, NEW)](https://trueinterview.io/questions/ai-project-take-home-style-round) | Onsite · Take-home | **Senior** · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/ai-project-take-home-style-round) | Feb 3, 2026 |
 | **[xAI](../companies/xai.md)** | [Rate Limiter — Inbound + Outbound](https://trueinterview.io/questions/rate-limiter-design) | Onsite · Take-home | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/rate-limiter-design) | Jan 28, 2026 |
 | **[xAI](../companies/xai.md)** | [Twitter Insight Platform](https://trueinterview.io/questions/twitter-insight-platform-take-home) | OA · Take-home | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/twitter-insight-platform-take-home) | Jan 28, 2026 |
+| **[Optiver](../companies/optiver.md)** | [QR Take-Home Data Project & Presentation](https://trueinterview.io/questions/qr-take-home-data-project) | Onsite · Take-home | New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/qr-take-home-data-project) | Jan 12, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Performance Engineer Take-Home — Kernel Optimization](https://trueinterview.io/questions/performance-engineer-take-home) | Take-home | **Senior** · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/performance-engineer-take-home) | Dec 11, 2025 |
 | **[Tesla](../companies/tesla.md)** | [Robot Room Navigation Take-Home](https://trueinterview.io/questions/robot-room-navigation-takehome) | Take-home | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/robot-room-navigation-takehome) | Sep 24, 2025 |

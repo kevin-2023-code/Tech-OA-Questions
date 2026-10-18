@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Hudson River Trading on TrueInterview](https://trueinterview.io/problems/company/hudson-river-trading) · [How Hudson River Trading interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/hudson-river-trading/README.md)
 
-📈 Quant firms · **18 questions** · Senior & Staff+ 6 · Quant researcher & developer 17 · last reported Aug 2026
+📈 Quant firms · **22 questions** · Senior & Staff+ 10 · Quant researcher & developer 17 · last reported Aug 2026
 
-**Rounds:** 📝 OA (5) · 📞 Phone (10) · 🏢 Onsite (3)
+**Rounds:** 📝 OA (5) · 📞 Phone (14) · 🏢 Onsite (3)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/hudson-river-trading-interview-process)
 
@@ -23,9 +23,13 @@
 | [Two Sum Existence](https://trueinterview.io/questions/4afb91f6-e5ba-5712-a1db-c2970accb228) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4afb91f6-e5ba-5712-a1db-c2970accb228) | Jul 2026 |
 | [Guess Number II](https://trueinterview.io/questions/guess-number-ii) | Phone | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/guess-number-ii) | May 1, 2026 |
 | [Implement itoa()](https://trueinterview.io/questions/4856d68c-2108-40c6-aac6-9ef1c545e397) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4856d68c-2108-40c6-aac6-9ef1c545e397) | May 2026 |
+| [Linux Host and Filesystem Fundamentals](https://trueinterview.io/questions/linux-host-and-filesystem-fundamentals) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/linux-host-and-filesystem-fundamentals) | Apr 30, 2026 |
+| [Python Language and Runtime Fundamentals](https://trueinterview.io/questions/python-language-and-runtime-fundamentals) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/python-language-and-runtime-fundamentals) | Apr 30, 2026 |
+| [Explain Python and React performance fundamentals](https://trueinterview.io/questions/explain-python-and-react-performance-fundamentals) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-python-and-react-performance-fundamentals) | Apr 6, 2026 |
+| [Why pursue full-stack engineering?](https://trueinterview.io/questions/why-pursue-full-stack-engineering) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/why-pursue-full-stack-engineering) | Apr 6, 2026 |
 | [Implement buffer readers for char/int/string with pointer advancement](https://trueinterview.io/questions/dd77f43b-876b-4c4a-828b-2e48ea7294dc) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/dd77f43b-876b-4c4a-828b-2e48ea7294dc) | Apr 2026 |
 | [Template wrapper supporting std::map/unordered_map with int/string key/value and overloaded operations](https://trueinterview.io/questions/2a69b316-d0b1-47bf-b1a4-ad9f1d8ebe3f) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2a69b316-d0b1-47bf-b1a4-ad9f1d8ebe3f) | Apr 2026 |
-| [Exploratory Data Analysis & Modeling for Heart Disease Prediction](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Mar 2026 |
+| [Exploratory Data Analysis & Modeling for Heart Disease Prediction](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Onsite | Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Mar 2026 |
 | [Implement Modify in an Order Management System (Codebase Extension)](https://trueinterview.io/questions/23f63264-e86c-447a-aa50-6eb72f9e9609) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/23f63264-e86c-447a-aa50-6eb72f9e9609) | Mar 2026 |
 | [Count inversions in a permutation](https://trueinterview.io/questions/count-inversions-in-a-permutation) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-inversions-in-a-permutation) | Nov 28, 2025 |
 | [Implement a Coroutine Step by Step](https://trueinterview.io/questions/c0380879-c2f8-4102-a3e7-20383793ed48) | OA | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/c0380879-c2f8-4102-a3e7-20383793ed48) | Mar 2025 |

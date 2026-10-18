@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Nuro on TrueInterview](https://trueinterview.io/problems/company/nuro) · [How Nuro interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/nuro/README.md)
 
-**11 questions** · Senior & Staff+ 11 · ML & Research Scientist 3 · last reported Aug 2026
+**12 questions** · Senior & Staff+ 12 · ML & Research Scientist 3 · last reported Aug 2026
 
-**Rounds:** 📞 Phone (5) · 🏢 Onsite (6)
+**Rounds:** 📞 Phone (5) · 🏢 Onsite (7)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -19,6 +19,7 @@
 | [Compare Locks and MVCC in a Versioned Store](https://trueinterview.io/questions/compare-locks-and-mvcc-in-a-versioned-store) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/compare-locks-and-mvcc-in-a-versioned-store) | Aug 31, 2026 |
 | [Design a Shared Distributed ML Training Platform](https://trueinterview.io/questions/design-a-shared-distributed-ml-training-platform) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-shared-distributed-ml-training-platform) | Aug 31, 2026 |
 | [Design an Autonomous-Vehicle Simulator](https://trueinterview.io/questions/design-an-autonomous-vehicle-simulator) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-autonomous-vehicle-simulator) | Aug 31, 2026 |
+| [Explain Project Scope, Ownership, and Technical Challenges](https://trueinterview.io/questions/explain-project-scope-ownership-and-technical-challenges) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-project-scope-ownership-and-technical-challenges) | Aug 31, 2026 |
 | [Schedule CPU and GPU Video Processing](https://trueinterview.io/questions/schedule-cpu-and-gpu-video-processing) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/schedule-cpu-and-gpu-video-processing) | Aug 31, 2026 |
 | [Search Large Vehicle Records with Bounded Memory](https://trueinterview.io/questions/search-large-vehicle-records-with-bounded-memory) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/search-large-vehicle-records-with-bounded-memory) | Aug 31, 2026 |
 | [Check Vertical Reflection Symmetry with Duplicate Points](https://trueinterview.io/questions/check-vertical-reflection-symmetry-with-duplicate-points) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/check-vertical-reflection-symmetry-with-duplicate-points) | Feb 15, 2026 |

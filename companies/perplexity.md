@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Perplexity on TrueInterview](https://trueinterview.io/problems/company/perplexity) · [How Perplexity interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/perplexity/README.md)
 
-🧠 AI labs · **24 questions** · Senior & Staff+ 15 · ML & Research Scientist 5 · last reported Sep 2026
+🧠 AI labs · **26 questions** · Senior & Staff+ 17 · ML & Research Scientist 6 · last reported Sep 2026
 
-**Rounds:** 📝 OA (3) · 📞 Phone (13) · 🏢 Onsite (9)
+**Rounds:** 📝 OA (3) · 📞 Phone (15) · 🏢 Onsite (10)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/perplexity-interview-process) · [SWE](https://trueinterview.io/study/perplexity-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/perplexity-machine-learning-engineer-interview-process)
 
@@ -22,7 +22,7 @@
 | [Design In-Memory File System](https://trueinterview.io/questions/design-in-memory-file-system)<br><sub>also [Snowflake](../companies/snowflake.md) / [ByteDance](../companies/bytedance.md) / [Databricks](../companies/databricks.md)</sub> | Phone · Onsite | New grad · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-in-memory-file-system) | Aug 2026 |
 | [In-Memory Unix File System](https://trueinterview.io/questions/in-memory-unix-file-system)<br><sub>also [Harvey](../companies/harvey.md) / [Shopify](../companies/shopify.md)</sub> | Phone | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-unix-file-system) | Jun 15, 2026 |
 | [ToDo List with Task Dependencies](https://trueinterview.io/questions/todo-list-with-task-dependencies-ood) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/todo-list-with-task-dependencies-ood) | May 26, 2026 |
-| [Design Mint.com](https://trueinterview.io/questions/mint-com)<br><sub>also [Datadog](../companies/datadog.md)</sub> | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/mint-com) | May 2026 |
+| [Design Mint.com](https://trueinterview.io/questions/mint-com)<br><sub>also [Datadog](../companies/datadog.md)</sub> | Onsite | Mid | System design | [![Free][f]](https://trueinterview.io/questions/mint-com) | May 2026 |
 | [Fix Existing Code (Bug Fixing)](https://trueinterview.io/questions/2c71454e-9fe0-4ad3-bc61-28746db93b44) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/2c71454e-9fe0-4ad3-bc61-28746db93b44) | May 2026 |
 | [Log Processing (Parsing & Aggregation)](https://trueinterview.io/questions/f8c1cd11-0ad2-4dbd-8b4e-f3421a9beb8f) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f8c1cd11-0ad2-4dbd-8b4e-f3421a9beb8f) | May 2026 |
 | [Design Typehead Suggestion](https://trueinterview.io/questions/sd-typeahead-autocomplete)<br><sub>also [LinkedIn](../companies/linkedin.md) / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +3</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Apr 16, 2026 |
@@ -37,7 +37,9 @@
 | [Binary Classifier with Model Improvement](https://trueinterview.io/questions/binary-classifier-with-model-improvement) | Phone | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/binary-classifier-with-model-improvement) | Nov 22, 2025 |
 | [Stream Processing with Stop Words](https://trueinterview.io/questions/stream-processing-with-stop-words) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/stream-processing-with-stop-words) | Oct 12, 2025 |
 | [Embedding Model Server](https://trueinterview.io/questions/embedding-model-server) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/embedding-model-server) | Oct 9, 2025 |
+| [Behavioral and Project Deep-Dive](https://trueinterview.io/questions/behavioral-and-project-deep-dive) | Phone · Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/behavioral-and-project-deep-dive) | Oct 3, 2025 |
 | [Rental Car Surge Area Navigation](https://trueinterview.io/questions/premium-zone-escape-path) | Onsite | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/premium-zone-escape-path) | Oct 3, 2025 |
 | [Credit Tracker with Expiring Credits](https://trueinterview.io/questions/credit-tracker-with-expiring-credits) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/credit-tracker-with-expiring-credits) | Aug 9, 2025 |
+| [Map-Reduce and Blockwise Attention](https://trueinterview.io/questions/map-reduce-and-blockwise-attention) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/map-reduce-and-blockwise-attention) | Jul 3, 2025 |
 | [Design Perplexity Discover](https://trueinterview.io/questions/design-perplexity-discover) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-perplexity-discover) | — |
 | [Stream Deduplication with Near-Duplicate Detection](https://trueinterview.io/questions/stream-deduplication-with-near-duplicate-detection) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/stream-deduplication-with-near-duplicate-detection) | — |

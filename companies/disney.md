@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Disney on TrueInterview](https://trueinterview.io/problems/company/disney) · [How Disney interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/disney/README.md)
 
-**5 questions** · Senior & Staff+ 4 · ML & Research Scientist 1 · last reported Aug 2026
+**12 questions** · Senior & Staff+ 11 · ML & Research Scientist 1 · last reported Sep 2026
 
-**Rounds:** 📝 OA (1) · 📞 Phone (3) · 🏢 Onsite (1)
+**Rounds:** 📝 OA (1) · 📞 Phone (8) · 🏢 Onsite (3)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -15,8 +15,15 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Discuss Terraform, Infrastructure as Code, and AWS Experience](https://trueinterview.io/questions/discuss-terraform-infrastructure-as-code-and-aws-experience) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/discuss-terraform-infrastructure-as-code-and-aws-experience) | 🆕 Sep 8, 2026 |
+| [Discuss Your Proudest Project and Interest in a Role](https://trueinterview.io/questions/discuss-your-proudest-project-and-interest-in-a-role) | Phone | Mid · **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/discuss-your-proudest-project-and-interest-in-a-role) | 🆕 Sep 8, 2026 |
 | [Thread-Safe Buffered Batch Writer for Streaming Records into a Database](https://trueinterview.io/questions/thread-safe-buffered-batch-writer-for-streaming-records-into-a-database) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/thread-safe-buffered-batch-writer-for-streaming-records-into-a-database) | Aug 30, 2026 |
 | [Generate All Valid Combinations of Balanced Parentheses](https://trueinterview.io/questions/generate-all-valid-combinations-of-balanced-parentheses) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/generate-all-valid-combinations-of-balanced-parentheses) | Mar 27, 2026 |
 | [Design a frontend shopping cart and feature flags](https://trueinterview.io/questions/design-a-frontend-shopping-cart-and-feature-flags) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-frontend-shopping-cart-and-feature-flags) | Nov 24, 2025 |
+| [How do you manage collaboration and stakeholders?](https://trueinterview.io/questions/how-do-you-manage-collaboration-and-stakeholders) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-manage-collaboration-and-stakeholders) | Nov 24, 2025 |
+| [How would you run a mentoring-focused code review?](https://trueinterview.io/questions/how-would-you-run-a-mentoring-focused-code-review) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-run-a-mentoring-focused-code-review) | Nov 24, 2025 |
 | [Build Naive Bayes spam classifier with F1](https://trueinterview.io/questions/build-naive-bayes-spam-classifier-with-f1) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/build-naive-bayes-spam-classifier-with-f1) | Nov 1, 2025 |
 | [Determine if chasing points will meet](https://trueinterview.io/questions/determine-if-chasing-points-will-meet) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/determine-if-chasing-points-will-meet) | Nov 1, 2025 |
+| [Compute sample size and plan experiment](https://trueinterview.io/questions/compute-sample-size-and-plan-experiment) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/compute-sample-size-and-plan-experiment) | — |
+| [Demonstrate influential product leadership under ambiguity](https://trueinterview.io/questions/demonstrate-influential-product-leadership-under-ambiguity) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-influential-product-leadership-under-ambiguity) | — |
+| [Diagnose and decide on watch-time drop](https://trueinterview.io/questions/diagnose-and-decide-on-watch-time-drop) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-and-decide-on-watch-time-drop) | — |

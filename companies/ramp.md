@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Ramp on TrueInterview](https://trueinterview.io/problems/company/ramp) · [How Ramp interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/ramp/README.md)
 
-**33 questions** · Senior & Staff+ 15 · Quant researcher & developer 2 · last reported Sep 2026
+**36 questions** · Senior & Staff+ 16 · Quant researcher & developer 3 · last reported Sep 2026
 
-**Rounds:** 📝 OA (13) · 📞 Phone (14) · 🏢 Onsite (10)
+**Rounds:** 📝 OA (14) · 📞 Phone (16) · 🏢 Onsite (10)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/ramp-interview-process)
 
@@ -37,6 +37,8 @@
 | [Design a Spreadsheet with Formula Evaluation](https://trueinterview.io/questions/design-excel-sum-formula)<br><sub>also [OpenAI](../companies/openai.md)</sub> | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-excel-sum-formula) | Apr 2026 |
 | [Design Access Management System](https://trueinterview.io/questions/role-and-resource-access-system)<br><sub>also [Atlassian](../companies/atlassian.md) / [Expedia](../companies/expedia.md) / [Roblox](../companies/roblox.md) / +4</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/role-and-resource-access-system) | Apr 2026 |
 | [Reconcile Multiple Data Sources](https://trueinterview.io/questions/ai-coding-reconcile-multiple-data-sources) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ai-coding-reconcile-multiple-data-sources) | Apr 2026 |
+| [What Project Are You Proudest Of?](https://trueinterview.io/questions/what-project-are-you-proudest-of) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/what-project-are-you-proudest-of) | Apr 2026 |
+| [From Take-Home Script to Production: Python Trade-offs and Hardening a Data Job](https://trueinterview.io/questions/from-take-home-script-to-production-python-trade-offs-and-hardening-a-data-job) | OA | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/from-take-home-script-to-production-python-trade-offs-and-hardening-a-data-job) | Mar 9, 2026 |
 | [Frontend Hidden URL and React Wordle](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | Feb 26, 2026 |
 | [Multi-Level Warehouse Storage with Weighted Retrieval](https://trueinterview.io/questions/multi-level-warehouse-storage-with-weighted-retrieval) | OA | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/multi-level-warehouse-storage-with-weighted-retrieval) | Feb 11, 2026 |
 | [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization)<br><sub>also [Uber](../companies/uber.md) / [Microsoft](../companies/microsoft.md)</sub> | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/purchase-optimization) | Feb 11, 2026 |
@@ -45,6 +47,7 @@
 | [Track Users From Flight History](https://trueinterview.io/questions/track-users-from-flight-history) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/track-users-from-flight-history) | Jan 17, 2026 |
 | [Fetch and Display Hidden Flag with React](https://trueinterview.io/questions/60b7894d-1cef-40b7-83ec-aaa5f887617f) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/60b7894d-1cef-40b7-83ec-aaa5f887617f) | Jan 2026 |
 | [Detect Recurring Transactions](https://trueinterview.io/questions/detect-recurring-transactions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/detect-recurring-transactions) | Nov 22, 2025 |
+| [Async Video Behavioral Screen](https://trueinterview.io/questions/video-interview-behavioral) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/video-interview-behavioral) | Nov 10, 2025 |
 | [Rate Limiter by IP Address](https://trueinterview.io/questions/rate-limiter-by-ip-address)<br><sub>also [IBM](../companies/ibm.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/rate-limiter-by-ip-address) | Sep 29, 2025 |
 | [Cloud Storage System](https://trueinterview.io/questions/cloud-storage-system) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/cloud-storage-system) | Aug 2025 |
 | [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase)<br><sub>also [eBay](../companies/ebay.md)</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Apr 2025 |

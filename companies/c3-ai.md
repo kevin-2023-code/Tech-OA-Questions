@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice C3 AI on TrueInterview](https://trueinterview.io/problems/company/c3-ai) · [How C3 AI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/c3-ai/README.md)
 
-🧠 AI labs · **4 questions** · Senior & Staff+ 4 · ML & Research Scientist 1 · last reported Aug 2026
+🧠 AI labs · **9 questions** · Senior & Staff+ 9 · ML & Research Scientist 3 · last reported Aug 2026
 
-**Rounds:** 📞 Phone (2) · 🏢 Onsite (2)
+**Rounds:** 📞 Phone (5) · 🏢 Onsite (4)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -15,7 +15,12 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Compare Transformers and RNNs and Derive Attention Complexity](https://trueinterview.io/questions/compare-transformers-and-rnns-and-derive-attention-complexity) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/compare-transformers-and-rnns-and-derive-attention-complexity) | Aug 21, 2026 |
+| [Connect Bias-Variance Trade-offs to Bagging and Boosting](https://trueinterview.io/questions/connect-bias-variance-trade-offs-to-bagging-and-boosting) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/connect-bias-variance-trade-offs-to-bagging-and-boosting) | Aug 21, 2026 |
 | [Evaluate a Retrieval-Augmented Generation System](https://trueinterview.io/questions/evaluate-a-retrieval-augmented-generation-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/evaluate-a-retrieval-augmented-generation-system) | Aug 21, 2026 |
 | [Forecast Food Stocking Needs Under Waste and Stockout Costs](https://trueinterview.io/questions/forecast-food-stocking-needs-under-waste-and-stockout-costs) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/forecast-food-stocking-needs-under-waste-and-stockout-costs) | Aug 21, 2026 |
+| [Keep Gradient Descent from Stalling at Poor Solutions](https://trueinterview.io/questions/keep-gradient-descent-from-stalling-at-poor-solutions) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/keep-gradient-descent-from-stalling-at-poor-solutions) | Aug 21, 2026 |
+| [Explain an End-to-End ML Project to Mixed Audiences](https://trueinterview.io/questions/explain-an-end-to-end-ml-project-to-mixed-audiences) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-an-end-to-end-ml-project-to-mixed-audiences) | Aug 15, 2026 |
 | [Find the Intersection of Two Linked Chains](https://trueinterview.io/questions/find-the-intersection-of-two-linked-chains) | Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/find-the-intersection-of-two-linked-chains) | Aug 15, 2026 |
 | [Design a restaurant reservation system](https://trueinterview.io/questions/design-a-restaurant-reservation-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-restaurant-reservation-system) | Nov 7, 2025 |
+| [Describe challenge, influence, and mentorship outcomes](https://trueinterview.io/questions/describe-challenge-influence-and-mentorship-outcomes) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/describe-challenge-influence-and-mentorship-outcomes) | — |

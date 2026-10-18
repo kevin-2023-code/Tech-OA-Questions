@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Together AI on TrueInterview](https://trueinterview.io/problems/company/together-ai) · [How Together AI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/together-ai/README.md)
 
-🧠 AI labs · **2 questions** · Senior & Staff+ 2 · last reported Sep 2026
+🧠 AI labs · **6 questions** · Senior & Staff+ 6 · last reported Sep 2026
 
-**Rounds:** 📞 Phone (2)
+**Rounds:** 📞 Phone (6)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -15,5 +15,9 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Diagnose CPU Performance Problems on a Linux Server](https://trueinterview.io/questions/diagnose-cpu-performance-problems-on-a-linux-server) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-cpu-performance-problems-on-a-linux-server) | 🆕 Sep 15, 2026 |
+| [Diagnose Slow Network Throughput Including Containers](https://trueinterview.io/questions/diagnose-slow-network-throughput-including-containers) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-slow-network-throughput-including-containers) | 🆕 Sep 15, 2026 |
+| [Diagnose Storage I/O Performance and Identify the Workload](https://trueinterview.io/questions/diagnose-storage-i-o-performance-and-identify-the-workload) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-storage-i-o-performance-and-identify-the-workload) | 🆕 Sep 15, 2026 |
+| [Investigate a Server Saturated by Logging](https://trueinterview.io/questions/investigate-a-server-saturated-by-logging) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/investigate-a-server-saturated-by-logging) | 🆕 Sep 15, 2026 |
 | [Split a Chunked Text Stream into Line-Balanced Parts](https://trueinterview.io/questions/split-a-chunked-text-stream-into-line-balanced-parts) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/split-a-chunked-text-stream-into-line-balanced-parts) | 🆕 Sep 15, 2026 |
 | [Detect cycles and break them in pod dependencies](https://trueinterview.io/questions/detect-cycles-and-break-them-in-pod-dependencies) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/detect-cycles-and-break-them-in-pod-dependencies) | Feb 12, 2026 |

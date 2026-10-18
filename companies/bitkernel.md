@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Bitkernel on TrueInterview](https://trueinterview.io/problems/company/bitkernel) · [How Bitkernel interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/bitkernel/README.md)
 
-**1 questions** · Senior & Staff+ 1 · last reported Oct 2025
+**15 questions** · Senior & Staff+ 7 · ML & Research Scientist 1 · last reported Oct 2025
 
-**Rounds:** 📝 OA (1)
+**Rounds:** 📝 OA (15)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -15,4 +15,18 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Analyze TCP three-way handshake states](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | OA | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | Oct 24, 2025 |
+| [Choose best prompt for AI code debugging](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | Oct 24, 2025 |
+| [Classify concurrency anomaly between two transactions](https://trueinterview.io/questions/classify-concurrency-anomaly-between-two-transactions) | OA | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/classify-concurrency-anomaly-between-two-transactions) | Oct 24, 2025 |
+| [Convert binary tree traversals to forest count](https://trueinterview.io/questions/convert-binary-tree-traversals-to-forest-count) | OA | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/convert-binary-tree-traversals-to-forest-count) | Oct 24, 2025 |
+| [Count binary search steps for specific keys](https://trueinterview.io/questions/count-binary-search-steps-for-specific-keys) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/count-binary-search-steps-for-specific-keys) | Oct 24, 2025 |
+| [Count calls in recursive function evaluation](https://trueinterview.io/questions/count-calls-in-recursive-function-evaluation) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/count-calls-in-recursive-function-evaluation) | Oct 24, 2025 |
+| [Detect impossible binary search comparison sequence](https://trueinterview.io/questions/detect-impossible-binary-search-comparison-sequence) | OA | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/detect-impossible-binary-search-comparison-sequence) | Oct 24, 2025 |
+| [Evaluate C for-loop execution count](https://trueinterview.io/questions/evaluate-c-for-loop-execution-count) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-c-for-loop-execution-count) | Oct 24, 2025 |
+| [Identify incorrect HTTP status code description](https://trueinterview.io/questions/identify-incorrect-http-status-code-description) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/identify-incorrect-http-status-code-description) | Oct 24, 2025 |
+| [Identify incorrect statement about primary keys](https://trueinterview.io/questions/identify-incorrect-statement-about-primary-keys) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/identify-incorrect-statement-about-primary-keys) | Oct 24, 2025 |
+| [Identify incorrect statement about sockets](https://trueinterview.io/questions/identify-incorrect-statement-about-sockets) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/identify-incorrect-statement-about-sockets) | Oct 24, 2025 |
+| [Order SQL query logical processing steps](https://trueinterview.io/questions/order-sql-query-logical-processing-steps) | OA | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/order-sql-query-logical-processing-steps) | Oct 24, 2025 |
+| [Solve cups logic puzzle with one true statement](https://trueinterview.io/questions/solve-cups-logic-puzzle-with-one-true-statement) | OA | Intern · New grad | blog | [![Free][f]](https://trueinterview.io/questions/solve-cups-logic-puzzle-with-one-true-statement) | Oct 24, 2025 |
+| [Trace first pass of heap sort](https://trueinterview.io/questions/trace-first-pass-of-heap-sort) | OA | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/trace-first-pass-of-heap-sort) | Oct 24, 2025 |
 | [Implement popup and redirect in JavaScript](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | OA | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | Oct 3, 2025 |

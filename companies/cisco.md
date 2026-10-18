@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Cisco on TrueInterview](https://trueinterview.io/problems/company/cisco) · [How Cisco interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/cisco/README.md)
 
-**26 questions** · Senior & Staff+ 6 · last reported Aug 2026
+**27 questions** · Senior & Staff+ 7 · last reported Sep 2026
 
-**Rounds:** 📝 OA (19) · 📞 Phone (7) · 🏢 Onsite (3)
+**Rounds:** 📝 OA (19) · 📞 Phone (8) · 🏢 Onsite (3)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/cisco-interview-process)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Formalize a Minimum-Trip Transport Puzzle with Horses and Ladders](https://trueinterview.io/questions/formalize-a-minimum-trip-transport-puzzle-with-horses-and-ladders) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/formalize-a-minimum-trip-transport-puzzle-with-horses-and-ladders) | 🆕 Sep 17, 2026 |
 | [Longest Palindromic Substring](https://trueinterview.io/questions/longest-palindromic-substring)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / [eBay](../companies/ebay.md)</sub> | Phone | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-palindromic-substring) | Aug 2026 |
 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +3</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Aug 2026 |
 | [House Robber Series](https://trueinterview.io/questions/house-robber-series)<br><sub>also [Databricks](../companies/databricks.md) / [Amazon](../companies/amazon.md) / [Expedia](../companies/expedia.md) / +1</sub> | Phone · Onsite | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-series) | Jul 2026 |

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**608 questions** · 435 at Senior/Staff+ · 138 reported in the last 90 days · 63 free to solve
+**608 questions** · 435 at Senior/Staff+ · 138 reported in the last 90 days · 68 free to solve
 
 **Rounds:** 📝 OA (46) · 📞 Phone (217) · 🏢 Onsite (405) · 🏠 Take-home (1)
 
@@ -130,7 +130,7 @@
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Communications Handler (CommsHandler)](https://trueinterview.io/questions/communications-handler) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/communications-handler) | Nov 4, 2025 |
 | **[IMC](../companies/imc.md)** | [Design an in-memory hotel booking system](https://trueinterview.io/questions/design-an-in-memory-hotel-booking-system) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-hotel-booking-system) | Nov 3, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Design top-K frequency store for varying workloads](https://trueinterview.io/questions/design-top-k-frequency-store-for-varying-workloads) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-top-k-frequency-store-for-varying-workloads) | Nov 3, 2025 |
-| **[Akuna Capital](../companies/akuna-capital.md)** | [Enemy Factory with Shared Instances](https://trueinterview.io/questions/enemy-factory-shared-instances) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/enemy-factory-shared-instances) | Nov 2, 2025 |
+| **[Akuna Capital](../companies/akuna-capital.md)** | [Enemy Factory with Shared Instances](https://trueinterview.io/questions/enemy-factory-shared-instances) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/enemy-factory-shared-instances) | Nov 2, 2025 |
 | **[Dropbox](../companies/dropbox.md)** | [API Design for Long Running Requests](https://trueinterview.io/questions/ea7d38db-f5ac-4619-b82f-c7d0228d01ca) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ea7d38db-f5ac-4619-b82f-c7d0228d01ca) | Nov 2025 |
 | **[Datadog](../companies/datadog.md)** | [Buffer Write Implementation](https://trueinterview.io/questions/16e264d7-ba41-4958-96cb-06b6d50400ed) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/16e264d7-ba41-4958-96cb-06b6d50400ed) | Nov 2025 |
 | **[Datadog](../companies/datadog.md)** | [Design a Buffered File Writer](https://trueinterview.io/questions/ccd44a38-a924-48e6-b5c0-af34aa48b27e) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ccd44a38-a924-48e6-b5c0-af34aa48b27e) | Nov 2025 |
@@ -186,7 +186,7 @@
 | **[PayPal](../companies/paypal.md)** | [API Call and Data Processing](https://trueinterview.io/questions/69704f7c-4eae-4ac6-a2f9-e547e1e42039) | Onsite | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/69704f7c-4eae-4ac6-a2f9-e547e1e42039) | Mar 2025 |
 | **[Oracle](../companies/oracle.md)** | [Body-Temperature Measurement Classes](https://trueinterview.io/questions/ood-patient-temperature-classes) | Onsite | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/ood-patient-temperature-classes) | Jan 15, 2025 |
 | **[Lyft](../companies/lyft.md)** | [Alien Base Attack](https://trueinterview.io/questions/alien-base-attack) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/alien-base-attack) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Bank System Class with Deposit, Withdraw, and Balance Check](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | Onsite | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Bank System Class with Deposit, Withdraw, and Balance Check](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | Onsite | Intern · New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/bed9ddf9-c51d-4c94-b887-ffe3ba622a43) | — |
 | **[Intuit](../companies/intuit.md)** | [BankAccount Deposit and Withdraw Methods with Tests](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | — |
 | **[PayPal](../companies/paypal.md)** | [Banking System Operations](https://trueinterview.io/questions/aab753cb-ef8c-4f67-a2b4-d6c811f9c12e) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/aab753cb-ef8c-4f67-a2b4-d6c811f9c12e) | — |
 | **[Cisco](../companies/cisco.md)** | [Chessboard Piece Placement with Opposite Color Constraints](https://trueinterview.io/questions/d4eb414f-978e-4cea-acc3-df07a404c79f) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/d4eb414f-978e-4cea-acc3-df07a404c79f) | — |

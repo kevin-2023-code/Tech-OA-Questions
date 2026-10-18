@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Tubi on TrueInterview](https://trueinterview.io/problems/company/tubi) · [How Tubi interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/tubi/README.md)
 
-**6 questions** · Senior & Staff+ 6 · ML & Research Scientist 2 · last reported Feb 2026
+**12 questions** · Senior & Staff+ 11 · ML & Research Scientist 4 · last reported Feb 2026
 
-**Rounds:** 📞 Phone (6)
+**Rounds:** 📞 Phone (12)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -17,7 +17,13 @@
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Execute TTL Cache Operations with Fetch-on-Miss](https://trueinterview.io/questions/execute-ttl-cache-operations-with-fetch-on-miss) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/execute-ttl-cache-operations-with-fetch-on-miss) | Feb 16, 2026 |
 | [Make Cache Fetch Thread-Safe and Single-Flight](https://trueinterview.io/questions/make-cache-fetch-thread-safe-and-single-flight) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/make-cache-fetch-thread-safe-and-single-flight) | Feb 16, 2026 |
+| [Machine Learning Fundamentals: Tree Models, Training, Evaluation, and Embeddings](https://trueinterview.io/questions/machine-learning-fundamentals-tree-models-training-evaluation-and-embeddings) | Phone | New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/machine-learning-fundamentals-tree-models-training-evaluation-and-embeddings) | Feb 10, 2026 |
 | [Thumbnail Selection for a Streaming Catalog](https://trueinterview.io/questions/ml-system-design-thumbnail-selection-for-a-streaming-catalog) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-thumbnail-selection-for-a-streaming-catalog) | Feb 10, 2026 |
 | [Weighted Random Sampling by Index](https://trueinterview.io/questions/weighted-random-sampling-by-index) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/weighted-random-sampling-by-index) | Feb 10, 2026 |
+| [Explain ML basics and recommender tuning](https://trueinterview.io/questions/explain-ml-basics-and-recommender-tuning) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-ml-basics-and-recommender-tuning) | Jan 28, 2026 |
 | [Implement K-Means and compare with GMM](https://trueinterview.io/questions/implement-k-means-and-compare-with-gmm) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-k-means-and-compare-with-gmm) | Jan 28, 2026 |
 | [Compute daily net users from event logs](https://trueinterview.io/questions/compute-daily-net-users-from-event-logs) | Phone | Mid · **Senior** | SQL | [![Free][f]](https://trueinterview.io/questions/compute-daily-net-users-from-event-logs) | — |
+| [Determine A/B test sample size drivers](https://trueinterview.io/questions/determine-a-b-test-sample-size-drivers) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/determine-a-b-test-sample-size-drivers) | — |
+| [Diagnose and fix selection bias in experiments](https://trueinterview.io/questions/diagnose-and-fix-selection-bias-in-experiments) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-and-fix-selection-bias-in-experiments) | — |
+| [Explain p‑values to a product manager](https://trueinterview.io/questions/explain-pvalues-to-a-product-manager) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-pvalues-to-a-product-manager) | — |
+| [Measure Super Bowl ad impact with causal design](https://trueinterview.io/questions/measure-super-bowl-ad-impact-with-causal-design) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/measure-super-bowl-ad-impact-with-causal-design) | — |

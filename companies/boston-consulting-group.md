@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Boston Consulting Group on TrueInterview](https://trueinterview.io/problems/company/boston-consulting-group) · [How Boston Consulting Group interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/boston-consulting-group/README.md)
 
-**10 questions** · Senior & Staff+ 6 · Quant researcher & developer 1 · last reported Sep 2026
+**19 questions** · Senior & Staff+ 13 · Quant researcher & developer 1 · last reported Sep 2026
 
-**Rounds:** 📝 OA (4) · 📞 Phone (6) · 🏢 Onsite (1)
+**Rounds:** 📝 OA (8) · 📞 Phone (11) · 🏢 Onsite (1)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -20,8 +20,17 @@
 | [Nested String with Brackets Parsing](https://trueinterview.io/questions/nested-brackets-rich-text-parse)<br><sub>also [Figma](../companies/figma.md) / [Bloomberg](../companies/bloomberg.md)</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/nested-brackets-rich-text-parse) | Aug 4, 2026 |
 | [Palindrome String Check (Handle Empty and Null)](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352)<br><sub>also [Arista](../companies/arista.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352) | Mar 2026 |
 | [Implement palindrome check and valid parentheses](https://trueinterview.io/questions/implement-palindrome-check-and-valid-parentheses) | Phone | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-palindrome-check-and-valid-parentheses) | Jan 17, 2026 |
+| [Answer common behavioral questions using STAR](https://trueinterview.io/questions/answer-common-behavioral-questions-using-star) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/answer-common-behavioral-questions-using-star) | Dec 15, 2025 |
+| [Discuss languages, packages, and tools you know](https://trueinterview.io/questions/discuss-languages-packages-and-tools-you-know) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/discuss-languages-packages-and-tools-you-know) | Dec 15, 2025 |
 | [Achieve 0.95 precision via thresholding](https://trueinterview.io/questions/achieve-0-95-precision-via-thresholding) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/achieve-0-95-precision-via-thresholding) | — |
+| [Build and evaluate imbalanced binary classifier](https://trueinterview.io/questions/build-and-evaluate-imbalanced-binary-classifier) | OA | Mid · **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/build-and-evaluate-imbalanced-binary-classifier) | — |
+| [Compute averages and binomial/Poisson probabilities](https://trueinterview.io/questions/compute-averages-and-binomial-poisson-probabilities) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/compute-averages-and-binomial-poisson-probabilities) | — |
+| [Compute posterior and predictive coin probabilities](https://trueinterview.io/questions/compute-posterior-and-predictive-coin-probabilities) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/compute-posterior-and-predictive-coin-probabilities) | — |
+| [Defend MSE over MAE for car prices](https://trueinterview.io/questions/defend-mse-over-mae-for-car-prices) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/defend-mse-over-mae-for-car-prices) | — |
 | [Design and sample for credit default prediction](https://trueinterview.io/questions/design-and-sample-for-credit-default-prediction) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-and-sample-for-credit-default-prediction) | — |
+| [Explain AUC, activations, ensembles, and imbalance](https://trueinterview.io/questions/explain-auc-activations-ensembles-and-imbalance) | OA | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-auc-activations-ensembles-and-imbalance) | — |
 | [Query top spenders and 7-day growth](https://trueinterview.io/questions/query-top-spenders-and-7-day-growth) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/query-top-spenders-and-7-day-growth) | — |
+| [Reduce overfitting under constraints](https://trueinterview.io/questions/reduce-overfitting-under-constraints) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/reduce-overfitting-under-constraints) | — |
+| [Summarize impact and lessons from your resume](https://trueinterview.io/questions/summarize-impact-and-lessons-from-your-resume) | Phone | **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/summarize-impact-and-lessons-from-your-resume) | — |
 | [Transform and aggregate messy event data](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | — |
 | [Transform messy transactions with pandas](https://trueinterview.io/questions/transform-messy-transactions-with-pandas) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-messy-transactions-with-pandas) | — |

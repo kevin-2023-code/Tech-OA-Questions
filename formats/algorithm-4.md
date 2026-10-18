@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,516 questions** · 1,479 at Senior/Staff+ · 601 reported in the last 90 days · 282 free to solve
+**2,516 questions** · 1,479 at Senior/Staff+ · 601 reported in the last 90 days · 304 free to solve
 
 **Rounds:** 📝 OA (565) · 📞 Phone (1,515) · 🏢 Onsite (630) · 🏠 Take-home (2)
 
@@ -305,7 +305,7 @@
 | **[Amplitude](../companies/amplitude.md)** | [Swap the K-th Node from the End with the Head in a Singly Linked List](https://trueinterview.io/questions/ca30acde-9531-4647-a4ae-ef65515ec71f) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ca30acde-9531-4647-a4ae-ef65515ec71f) | Mar 2026 |
 | **[xAI](../companies/xai.md)** | [Twitter Spaces Active Time](https://trueinterview.io/questions/twitter-spaces-active-time) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/twitter-spaces-active-time) | Mar 2026 |
 | **[Meta](../companies/meta.md)** | [Unique Characters](https://trueinterview.io/questions/b765dd59-a8f5-468c-a15e-e2b80ec674f6) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b765dd59-a8f5-468c-a15e-e2b80ec674f6) | Mar 2026 |
-| **[Uber](../companies/uber.md)** / [Meta](../companies/meta.md) | [Verifying an Alien Dictionary](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Mar 2026 |
+| **[Uber](../companies/uber.md)** / [Meta](../companies/meta.md) | [Verifying an Alien Dictionary](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Mar 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Walking with Boost Stations (Greedy Simulation)](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Mar 2026 |
 | **[Snowflake](../companies/snowflake.md)** / [Anthropic](../companies/anthropic.md) | [Web URL Crawler at Scale](https://trueinterview.io/questions/web-url-crawler-at-scale) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/web-url-crawler-at-scale) | Mar 2026 |
 | **[StackAdapt](../companies/stackadapt.md)** | [Windowed Map (Time-Windowed Key-Value Store) with O(1) Operations and Window Average](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Mar 2026 |

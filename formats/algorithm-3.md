@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,516 questions** · 1,479 at Senior/Staff+ · 601 reported in the last 90 days · 282 free to solve
+**2,516 questions** · 1,479 at Senior/Staff+ · 601 reported in the last 90 days · 304 free to solve
 
 **Rounds:** 📝 OA (565) · 📞 Phone (1,515) · 🏢 Onsite (630) · 🏠 Take-home (2)
 
@@ -339,7 +339,7 @@
 | **[Meta](../companies/meta.md)** | [Minimum Add to Make Parentheses Valid II](https://trueinterview.io/questions/minimum-add-to-make-valid-parens) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-add-to-make-valid-parens) | Apr 23, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Convert IPv4 Ranges to CIDR Blocks](https://trueinterview.io/questions/convert-ipv4-ranges-to-cidr-blocks) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/convert-ipv4-ranges-to-cidr-blocks) | Apr 22, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Copy Neighbor Sums Between Binary Trees](https://trueinterview.io/questions/copy-neighbor-sums-between-binary-trees) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/copy-neighbor-sums-between-binary-trees) | Apr 22, 2026 |
-| **[Intuit](../companies/intuit.md)** | [Pandas Meeting Work-Duration Calculation](https://trueinterview.io/questions/pandas-meeting-work-duration) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/pandas-meeting-work-duration) | Apr 22, 2026 |
+| **[Intuit](../companies/intuit.md)** | [Pandas Meeting Work-Duration Calculation](https://trueinterview.io/questions/pandas-meeting-work-duration) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/pandas-meeting-work-duration) | Apr 22, 2026 |
 | **[Ramp](../companies/ramp.md)** | [Find an Exit in a URL Maze](https://trueinterview.io/questions/find-an-exit-in-a-url-maze) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-an-exit-in-a-url-maze) | Apr 21, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Flatten a Nested Integer List](https://trueinterview.io/questions/flatten-a-nested-integer-list) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/flatten-a-nested-integer-list) | Apr 21, 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** | [No-intercept linear regression](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-no-intercept-linear-regression) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-no-intercept-linear-regression) | Apr 21, 2026 |

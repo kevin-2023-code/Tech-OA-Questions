@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice MongoDB on TrueInterview](https://trueinterview.io/problems/company/mongodb) · [How MongoDB interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/mongodb/README.md)
 
-**7 questions** · Senior & Staff+ 3 · last reported Sep 2026
+**8 questions** · Senior & Staff+ 4 · last reported Sep 2026
 
-**Rounds:** 📝 OA (1) · 📞 Phone (6)
+**Rounds:** 📝 OA (1) · 📞 Phone (7)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/mongodb-interview-process)
 
@@ -23,4 +23,5 @@
 | [Union Iterator for Two Sorted Iterators (Dedup, Streaming, O(1) Extra Space)](https://trueinterview.io/questions/89497b58-2eb1-4f78-9306-fbb8927e39f7) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/89497b58-2eb1-4f78-9306-fbb8927e39f7) | Aug 2026 |
 | [Binary Decoder / Simplified BSON Parser](https://trueinterview.io/questions/bde150ab-f900-5e06-8456-4650cdadd840) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bde150ab-f900-5e06-8456-4650cdadd840) | Jun 2026 |
 | [Minimum XOR Sum of Two Arrays](https://trueinterview.io/questions/4678a97e-3396-567b-86cc-2df3a6aed0b1) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4678a97e-3396-567b-86cc-2df3a6aed0b1) | Jun 2026 |
+| [How do you answer common HR screen questions?](https://trueinterview.io/questions/how-do-you-answer-common-hr-screen-questions) | Phone | **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-answer-common-hr-screen-questions) | Jan 5, 2026 |
 | [Implement a Bounded Concurrent Web Crawler](https://trueinterview.io/questions/556280bb-835d-572e-96bd-2dca3c6ac9c6) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/556280bb-835d-572e-96bd-2dca3c6ac9c6) | — |

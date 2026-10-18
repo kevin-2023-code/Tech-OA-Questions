@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice IMC on TrueInterview](https://trueinterview.io/problems/company/imc) · [How IMC interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/imc/README.md)
 
-📈 Quant firms · **4 questions** · Senior & Staff+ 4 · Quant researcher & developer 4 · last reported Aug 2026
+📈 Quant firms · **10 questions** · Senior & Staff+ 10 · Quant researcher & developer 9 · last reported Aug 2026
 
-**Rounds:** 📝 OA (2) · 📞 Phone (1) · 🏢 Onsite (1)
+**Rounds:** 📝 OA (2) · 📞 Phone (6) · 🏢 Onsite (2)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -16,6 +16,12 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Choose Between Two Machines and Allocate Work from Performance Curves](https://trueinterview.io/questions/choose-between-two-machines-and-allocate-work-from-performance-curves) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/choose-between-two-machines-and-allocate-work-from-performance-curves) | Aug 24, 2026 |
+| [Demonstrate Self-Awareness and a Practical Mentoring Plan](https://trueinterview.io/questions/demonstrate-self-awareness-and-a-practical-mentoring-plan) | Onsite | **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-self-awareness-and-a-practical-mentoring-plan) | Aug 24, 2026 |
+| [Compute the Probability for Two Uniform Variables](https://trueinterview.io/questions/compute-the-probability-for-two-uniform-variables) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compute-the-probability-for-two-uniform-variables) | Mar 5, 2026 |
 | [Find k-th recipient in command propagation order](https://trueinterview.io/questions/find-k-th-recipient-in-command-propagation-order) | OA | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/find-k-th-recipient-in-command-propagation-order) | Dec 15, 2025 |
+| [Analyze Optimal Funding Allocations Across Election Districts](https://trueinterview.io/questions/analyze-optimal-funding-allocations-across-election-districts) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/analyze-optimal-funding-allocations-across-election-districts) | Nov 30, 2025 |
+| [Choose and Defend a Betting Strategy Under Uncertain Odds](https://trueinterview.io/questions/choose-and-defend-a-betting-strategy-under-uncertain-odds) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/choose-and-defend-a-betting-strategy-under-uncertain-odds) | Nov 30, 2025 |
+| [Analyze time complexity and threading trade-offs](https://trueinterview.io/questions/analyze-time-complexity-and-threading-trade-offs) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/analyze-time-complexity-and-threading-trade-offs) | Nov 3, 2025 |
 | [Design an in-memory hotel booking system](https://trueinterview.io/questions/design-an-in-memory-hotel-booking-system) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-hotel-booking-system) | Nov 3, 2025 |
+| [Explain a project to non-technical stakeholders](https://trueinterview.io/questions/explain-a-project-to-non-technical-stakeholders) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/explain-a-project-to-non-technical-stakeholders) | Nov 3, 2025 |
 | [Choose container set to minimize waste](https://trueinterview.io/questions/choose-container-set-to-minimize-waste) | OA | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/choose-container-set-to-minimize-waste) | Oct 6, 2025 |

@@ -8,133 +8,134 @@ Counts are per company: a question reported at three employers is on three pages
 
 | Company | Group | Questions | Senior/Staff+ | ML & research | Quant roles | Last reported |
 | :-- | :-- | --: | --: | --: | --: | :-- |
-| [Amazon](amazon.md) | 🏛️ MAANG+ | 350 | 205 | 26 | 3 | Oct 2026 |
-| [Meta](meta.md) | 🏛️ MAANG+ | 337 | 279 | 20 | — | Oct 2026 |
-| [Google](google.md) | 🏛️ MAANG+ | 294 | 205 | 7 | 4 | Oct 2026 |
-| [ByteDance](bytedance.md) | — | 264 | 180 | 17 | 3 | Oct 2026 |
-| [Uber](uber.md) | — | 225 | 169 | 12 | 2 | Oct 2026 |
-| [Microsoft](microsoft.md) | 🏛️ MAANG+ | 207 | 151 | 21 | 2 | Oct 2026 |
-| [OpenAI](openai.md) | 🧠 AI labs | 158 | 147 | 40 | — | Oct 2026 |
-| [Apple](apple.md) | 🏛️ MAANG+ | 150 | 111 | 20 | — | Oct 2026 |
-| [Snowflake](snowflake.md) | — | 133 | 81 | 4 | — | Oct 2026 |
-| [LinkedIn](linkedin.md) | — | 118 | 107 | 9 | — | Oct 2026 |
-| [DoorDash](doordash.md) | — | 108 | 87 | 6 | — | Oct 2026 |
-| [Stripe](stripe.md) | — | 103 | 74 | 3 | 1 | Oct 2026 |
-| [Pinterest](pinterest.md) | — | 101 | 82 | 13 | — | Sep 2026 |
-| [Oracle](oracle.md) | — | 96 | 71 | 5 | — | Oct 2026 |
-| [Salesforce](salesforce.md) | — | 89 | 59 | — | — | Oct 2026 |
-| [Netflix](netflix.md) | 🏛️ MAANG+ | 88 | 77 | 7 | — | Oct 2026 |
-| [Roblox](roblox.md) | — | 87 | 66 | 6 | — | Sep 2026 |
-| [Bloomberg](bloomberg.md) | — | 86 | 55 | — | 1 | Oct 2026 |
-| [Capital One](capital-one.md) | — | 84 | 49 | 7 | — | Sep 2026 |
-| [Databricks](databricks.md) | — | 79 | 68 | 3 | — | Sep 2026 |
-| [Airbnb](airbnb.md) | — | 78 | 67 | 5 | — | Sep 2026 |
-| [Anthropic](anthropic.md) | 🧠 AI labs | 78 | 64 | 14 | — | Sep 2026 |
-| [Citadel](citadel.md) | 📈 Quant firms | 73 | 34 | — | 51 | Sep 2026 |
-| [Coinbase](coinbase.md) | — | 72 | 50 | 3 | 1 | Sep 2026 |
-| [Snapchat](snapchat.md) | — | 70 | 56 | 4 | 1 | Oct 2026 |
-| [Waymo](waymo.md) | — | 64 | 42 | 11 | 1 | Sep 2026 |
-| [Atlassian](atlassian.md) | — | 61 | 56 | 3 | — | Sep 2026 |
-| [Goldman Sachs](goldman-sachs.md) | — | 53 | 28 | 2 | 1 | Oct 2026 |
-| [Rippling](rippling.md) | — | 49 | 42 | — | — | Oct 2026 |
-| [eBay](ebay.md) | — | 45 | 29 | 2 | — | Oct 2026 |
-| [Tesla](tesla.md) | — | 45 | 25 | 5 | — | Sep 2026 |
-| [Robinhood](robinhood.md) | — | 44 | 39 | 3 | — | Sep 2026 |
-| [Lyft](lyft.md) | — | 43 | 31 | 3 | — | Oct 2026 |
-| [Two Sigma](two-sigma.md) | 📈 Quant firms | 41 | 21 | 1 | 28 | Aug 2026 |
-| [xAI](xai.md) | 🧠 AI labs | 39 | 34 | 5 | — | Sep 2026 |
-| [Instacart](instacart.md) | — | 38 | 25 | 3 | — | Sep 2026 |
-| [NVIDIA](nvidia.md) | — | 38 | 23 | 5 | — | Sep 2026 |
-| [Reddit](reddit.md) | — | 35 | 29 | 9 | — | Sep 2026 |
-| [Expedia](expedia.md) | — | 34 | 23 | 2 | — | Sep 2026 |
-| [IBM](ibm.md) | — | 34 | 7 | 1 | — | Oct 2026 |
-| [Squarepoint](squarepoint.md) | 📈 Quant firms | 34 | 16 | — | 18 | Aug 2026 |
-| [Ramp](ramp.md) | — | 33 | 15 | — | 2 | Sep 2026 |
+| [Meta](meta.md) | 🏛️ MAANG+ | 485 | 422 | 28 | — | Oct 2026 |
+| [Amazon](amazon.md) | 🏛️ MAANG+ | 467 | 289 | 52 | 3 | Oct 2026 |
+| [Google](google.md) | 🏛️ MAANG+ | 380 | 278 | 18 | 4 | Oct 2026 |
+| [ByteDance](bytedance.md) | — | 345 | 248 | 28 | 3 | Oct 2026 |
+| [Uber](uber.md) | — | 264 | 205 | 14 | 2 | Oct 2026 |
+| [Microsoft](microsoft.md) | 🏛️ MAANG+ | 239 | 179 | 27 | 2 | Oct 2026 |
+| [Capital One](capital-one.md) | — | 193 | 148 | 12 | 2 | Sep 2026 |
+| [Apple](apple.md) | 🏛️ MAANG+ | 181 | 135 | 28 | — | Oct 2026 |
+| [OpenAI](openai.md) | 🧠 AI labs | 175 | 163 | 47 | — | Oct 2026 |
+| [DoorDash](doordash.md) | — | 149 | 128 | 10 | — | Oct 2026 |
+| [Snowflake](snowflake.md) | — | 145 | 93 | 4 | — | Oct 2026 |
+| [LinkedIn](linkedin.md) | — | 137 | 125 | 12 | — | Oct 2026 |
+| [Pinterest](pinterest.md) | — | 121 | 100 | 19 | — | Sep 2026 |
+| [Stripe](stripe.md) | — | 118 | 88 | 3 | 1 | Oct 2026 |
+| [Oracle](oracle.md) | — | 108 | 83 | 6 | — | Oct 2026 |
+| [Netflix](netflix.md) | 🏛️ MAANG+ | 104 | 93 | 10 | — | Oct 2026 |
+| [Roblox](roblox.md) | — | 102 | 79 | 7 | — | Sep 2026 |
+| [Salesforce](salesforce.md) | — | 100 | 70 | 2 | — | Oct 2026 |
+| [Anthropic](anthropic.md) | 🧠 AI labs | 99 | 85 | 19 | — | Sep 2026 |
+| [Bloomberg](bloomberg.md) | — | 91 | 57 | — | 1 | Oct 2026 |
+| [Citadel](citadel.md) | 📈 Quant firms | 91 | 48 | — | 65 | Sep 2026 |
+| [Airbnb](airbnb.md) | — | 89 | 77 | 7 | — | Sep 2026 |
+| [Snapchat](snapchat.md) | — | 89 | 72 | 12 | 1 | Oct 2026 |
+| [Databricks](databricks.md) | — | 88 | 76 | 3 | — | Sep 2026 |
+| [Coinbase](coinbase.md) | — | 86 | 64 | 3 | 1 | Sep 2026 |
+| [Waymo](waymo.md) | — | 74 | 52 | 13 | 1 | Sep 2026 |
+| [Goldman Sachs](goldman-sachs.md) | — | 68 | 32 | 3 | 6 | Oct 2026 |
+| [Atlassian](atlassian.md) | — | 64 | 59 | 3 | — | Sep 2026 |
+| [Instacart](instacart.md) | — | 64 | 51 | 3 | — | Sep 2026 |
+| [Rippling](rippling.md) | — | 58 | 49 | — | — | Oct 2026 |
+| [NVIDIA](nvidia.md) | — | 54 | 39 | 7 | — | Sep 2026 |
+| [Robinhood](robinhood.md) | — | 53 | 47 | 3 | — | Oct 2026 |
+| [Tesla](tesla.md) | — | 52 | 30 | 6 | — | Sep 2026 |
+| [Lyft](lyft.md) | — | 51 | 37 | 4 | — | Oct 2026 |
+| [Two Sigma](two-sigma.md) | 📈 Quant firms | 50 | 28 | 2 | 35 | Aug 2026 |
+| [Upstart](upstart.md) | — | 49 | 31 | — | — | Sep 2026 |
+| [eBay](ebay.md) | — | 48 | 32 | 2 | — | Oct 2026 |
+| [Reddit](reddit.md) | — | 47 | 41 | 13 | — | Sep 2026 |
+| [Squarepoint](squarepoint.md) | 📈 Quant firms | 45 | 24 | — | 28 | Sep 2026 |
+| [xAI](xai.md) | 🧠 AI labs | 43 | 37 | 6 | — | Sep 2026 |
+| [Expedia](expedia.md) | — | 41 | 30 | 3 | — | Sep 2026 |
+| [Point72](point72.md) | 📈 Quant firms | 41 | 22 | 2 | 20 | Aug 2026 |
+| [Shopify](shopify.md) | — | 41 | 34 | 6 | — | Oct 2026 |
+| [IBM](ibm.md) | — | 40 | 9 | 2 | — | Oct 2026 |
+| [Intuit](intuit.md) | — | 38 | 25 | 3 | — | Sep 2026 |
+| [PayPal](paypal.md) | — | 37 | 27 | — | — | Oct 2026 |
+| [SoFi](sofi.md) | — | 37 | 22 | — | — | Sep 2026 |
+| [Ramp](ramp.md) | — | 36 | 16 | — | 3 | Sep 2026 |
+| [Akuna Capital](akuna-capital.md) | 📈 Quant firms | 35 | 4 | — | 31 | Aug 2026 |
+| [Optiver](optiver.md) | 📈 Quant firms | 35 | 6 | — | 28 | Aug 2026 |
+| [Walmart Labs](walmart-labs.md) | — | 35 | 23 | 1 | — | Sep 2026 |
+| [Scale AI](scale-ai.md) | 🧠 AI labs | 34 | 28 | 11 | — | Oct 2026 |
 | [Verkada](verkada.md) | — | 32 | 14 | — | 1 | Oct 2026 |
-| [Akuna Capital](akuna-capital.md) | 📈 Quant firms | 31 | 4 | — | 27 | Aug 2026 |
-| [SoFi](sofi.md) | — | 30 | 17 | — | — | Sep 2026 |
+| [Confluent](confluent.md) | — | 30 | 22 | — | — | Sep 2026 |
 | [Applied Intuition](applied-intuition.md) | — | 29 | 18 | — | — | Sep 2026 |
-| [Confluent](confluent.md) | — | 29 | 21 | — | — | Sep 2026 |
-| [Point72](point72.md) | 📈 Quant firms | 29 | 15 | 1 | 13 | Aug 2026 |
-| [Upstart](upstart.md) | — | 29 | 11 | — | — | Sep 2026 |
-| [Walmart Labs](walmart-labs.md) | — | 29 | 18 | 1 | — | Sep 2026 |
-| [Intuit](intuit.md) | — | 28 | 17 | 1 | — | Sep 2026 |
-| [Datadog](datadog.md) | — | 27 | 18 | 2 | — | Sep 2026 |
-| [Cisco](cisco.md) | — | 26 | 6 | — | — | Aug 2026 |
-| [Shopify](shopify.md) | — | 25 | 19 | 4 | — | Oct 2026 |
-| [PayPal](paypal.md) | — | 24 | 15 | — | — | Oct 2026 |
-| [Perplexity](perplexity.md) | 🧠 AI labs | 24 | 15 | 5 | — | Sep 2026 |
-| [Figma](figma.md) | — | 23 | 21 | 4 | — | Sep 2026 |
-| [Optiver](optiver.md) | 📈 Quant firms | 23 | 5 | — | 20 | Aug 2026 |
-| [JPMorgan](jpmorgan.md) | — | 22 | 9 | — | 2 | Sep 2026 |
-| [Scale AI](scale-ai.md) | 🧠 AI labs | 22 | 18 | 5 | — | Oct 2026 |
+| [Figma](figma.md) | — | 29 | 26 | 5 | — | Sep 2026 |
+| [Datadog](datadog.md) | — | 28 | 19 | 2 | — | Sep 2026 |
+| [JPMorgan](jpmorgan.md) | — | 28 | 13 | — | 4 | Sep 2026 |
+| [Cisco](cisco.md) | — | 27 | 7 | — | — | Sep 2026 |
+| [Pinduoduo](pinduoduo.md) | — | 27 | 18 | — | — | Oct 2026 |
+| [Perplexity](perplexity.md) | 🧠 AI labs | 26 | 17 | 6 | — | Sep 2026 |
+| [Harvey](harvey.md) | 🧠 AI labs | 23 | 23 | 3 | — | Sep 2026 |
+| [Hudson River Trading](hudson-river-trading.md) | 📈 Quant firms | 22 | 10 | — | 17 | Aug 2026 |
+| [Tradedesk](tradedesk.md) | — | 22 | 12 | — | — | Sep 2026 |
 | [WeRide](weride.md) | — | 22 | 11 | — | — | Sep 2026 |
-| [Pinduoduo](pinduoduo.md) | — | 21 | 13 | — | — | Oct 2026 |
-| [Tradedesk](tradedesk.md) | — | 21 | 11 | — | — | Sep 2026 |
-| [Harvey](harvey.md) | 🧠 AI labs | 20 | 20 | 3 | — | Sep 2026 |
+| [Yelp](yelp.md) | — | 22 | 22 | — | — | Sep 2026 |
+| [Dropbox](dropbox.md) | — | 21 | 18 | — | — | Jun 2026 |
+| [CVS Health](cvs-health.md) | — | 20 | 20 | — | — | Oct 2025 |
+| [Boston Consulting Group](boston-consulting-group.md) | — | 19 | 13 | — | 1 | Sep 2026 |
 | [Rubrik](rubrik.md) | — | 19 | 14 | — | — | Feb 2026 |
-| [Yelp](yelp.md) | — | 19 | 19 | — | — | Sep 2026 |
-| [Hudson River Trading](hudson-river-trading.md) | 📈 Quant firms | 18 | 6 | — | 17 | Aug 2026 |
-| [Affirm](affirm.md) | — | 17 | 12 | 1 | — | Sep 2026 |
-| [Whatnot](whatnot.md) | — | 17 | 16 | 1 | — | Sep 2026 |
-| [Dropbox](dropbox.md) | — | 15 | 12 | — | — | Jun 2026 |
+| [Whatnot](whatnot.md) | — | 19 | 18 | 1 | — | Sep 2026 |
+| [Affirm](affirm.md) | — | 18 | 13 | 1 | — | Sep 2026 |
+| [Voleon](voleon.md) | 📈 Quant firms | 18 | 14 | 1 | 7 | Sep 2026 |
+| [Square](square.md) | — | 16 | 13 | 1 | — | Jun 2026 |
+| [Thumbtack](thumbtack.md) | — | 16 | 16 | — | — | — |
+| [Bitkernel](bitkernel.md) | — | 15 | 7 | 1 | — | Oct 2025 |
+| [Jane Street](jane-street.md) | 📈 Quant firms | 15 | 14 | — | 15 | Aug 2026 |
+| [Vanta](vanta.md) | — | 15 | 8 | 1 | — | Sep 2026 |
 | [Visa](visa.md) | — | 15 | 12 | — | — | Sep 2026 |
-| [Square](square.md) | — | 14 | 11 | — | — | Jun 2026 |
-| [Vanta](vanta.md) | — | 14 | 7 | 1 | — | Sep 2026 |
+| [Mercor](mercor.md) | 🧠 AI labs | 14 | 14 | 1 | 1 | Sep 2026 |
+| [Airwallex](airwallex.md) | — | 13 | 12 | 1 | — | Sep 2026 |
 | [HubSpot](hubspot.md) | — | 13 | 10 | — | — | Jul 2026 |
 | [Microsoft AI](microsoft-ai.md) | 🧠 AI labs | 13 | 11 | 3 | — | Sep 2026 |
-| [Okta](okta.md) | — | 12 | 8 | — | — | Aug 2026 |
-| [Jane Street](jane-street.md) | 📈 Quant firms | 11 | 11 | — | 11 | Aug 2026 |
-| [Nuro](nuro.md) | — | 11 | 11 | 3 | — | Aug 2026 |
-| [Palantir](palantir.md) | — | 11 | 8 | — | — | Aug 2026 |
-| [Voleon](voleon.md) | 📈 Quant firms | 11 | 7 | — | 4 | Aug 2026 |
-| [Boston Consulting Group](boston-consulting-group.md) | — | 10 | 6 | — | 1 | Sep 2026 |
-| [CVS Health](cvs-health.md) | — | 10 | 10 | — | — | Oct 2025 |
-| [Airtable](airtable.md) | — | 9 | 9 | 1 | — | Jul 2026 |
-| [Airwallex](airwallex.md) | — | 8 | 7 | — | — | Sep 2026 |
-| [Asana](asana.md) | — | 8 | 8 | — | — | Apr 2026 |
-| [Discord](discord.md) | — | 8 | 8 | — | — | Jun 2026 |
-| [Amplitude](amplitude.md) | — | 7 | 5 | — | — | Apr 2026 |
-| [Glean](glean.md) | — | 7 | 7 | 2 | — | Apr 2026 |
+| [Okta](okta.md) | — | 13 | 9 | — | — | Aug 2026 |
+| [Disney](disney.md) | — | 12 | 11 | 1 | — | Sep 2026 |
+| [Nuro](nuro.md) | — | 12 | 12 | 3 | — | Aug 2026 |
+| [Onemain Financial](onemain-financial.md) | — | 12 | 12 | — | — | Apr 2026 |
+| [Palantir](palantir.md) | — | 12 | 9 | — | — | Aug 2026 |
+| [Tubi](tubi.md) | — | 12 | 11 | 4 | — | Feb 2026 |
+| [Airtable](airtable.md) | — | 11 | 11 | 1 | — | Jul 2026 |
+| [Asana](asana.md) | — | 11 | 10 | — | — | Apr 2026 |
+| [Axon](axon.md) | — | 11 | 11 | — | — | Mar 2026 |
+| [Discord](discord.md) | — | 11 | 11 | — | — | Jun 2026 |
+| [AMD](amd.md) | — | 10 | 9 | 1 | — | Sep 2026 |
+| [DRW](drw.md) | 📈 Quant firms | 10 | 7 | — | 8 | Sep 2026 |
+| [Glean](glean.md) | — | 10 | 10 | 2 | — | Apr 2026 |
+| [IMC](imc.md) | 📈 Quant firms | 10 | 10 | — | 9 | Aug 2026 |
+| [C3 AI](c3-ai.md) | 🧠 AI labs | 9 | 9 | 3 | — | Aug 2026 |
+| [Mistral AI](mistral-ai.md) | 🧠 AI labs | 9 | 9 | 6 | — | Sep 2026 |
+| [SIG](sig.md) | 📈 Quant firms | 9 | 3 | — | 6 | Sep 2026 |
+| [Amplitude](amplitude.md) | — | 8 | 6 | — | — | Apr 2026 |
+| [MongoDB](mongodb.md) | — | 8 | 4 | — | — | Sep 2026 |
+| [Arista](arista.md) | — | 7 | 2 | — | — | Aug 2026 |
+| [Bobyard](bobyard.md) | — | 7 | 1 | — | — | Aug 2026 |
+| [Cursor](cursor.md) | 🧠 AI labs | 7 | 7 | — | — | Aug 2026 |
+| [GEICO](geico.md) | — | 7 | 6 | — | — | Aug 2026 |
 | [Lead Bank](lead-bank.md) | — | 7 | 5 | — | — | Jul 2026 |
-| [MongoDB](mongodb.md) | — | 7 | 3 | — | — | Sep 2026 |
-| [Arista](arista.md) | — | 6 | 2 | — | — | Aug 2026 |
-| [Axon](axon.md) | — | 6 | 6 | — | — | Mar 2026 |
-| [Bobyard](bobyard.md) | — | 6 | 1 | — | — | Aug 2026 |
+| [Wayfair](wayfair.md) | — | 7 | 7 | — | — | Sep 2026 |
 | [Circle](circle.md) | — | 6 | 2 | — | — | May 2026 |
-| [GEICO](geico.md) | — | 6 | 5 | — | — | Aug 2026 |
+| [Gusto](gusto.md) | — | 6 | 5 | — | — | Sep 2026 |
 | [Luma AI](luma-ai.md) | 🧠 AI labs | 6 | — | 2 | 1 | Aug 2026 |
 | [Moveworks](moveworks.md) | 🧠 AI labs | 6 | 4 | — | — | Mar 2026 |
-| [Tubi](tubi.md) | — | 6 | 6 | 2 | — | Feb 2026 |
-| [Wayfair](wayfair.md) | — | 6 | 6 | — | — | Sep 2026 |
+| [Together AI](together-ai.md) | 🧠 AI labs | 6 | 6 | — | — | Sep 2026 |
 | [ZipHQ](ziphq.md) | — | 6 | 6 | — | — | Sep 2026 |
 | [Block](block.md) | — | 5 | 2 | — | — | May 2026 |
 | [Chicago Trading](chicago-trading.md) | 📈 Quant firms | 5 | 3 | — | 3 | Aug 2026 |
-| [Cursor](cursor.md) | 🧠 AI labs | 5 | 5 | — | — | Aug 2026 |
-| [Disney](disney.md) | — | 5 | 4 | 1 | — | Aug 2026 |
 | [Faire](faire.md) | — | 5 | 1 | — | — | Apr 2026 |
-| [Gusto](gusto.md) | — | 5 | 4 | — | — | Sep 2026 |
-| [Mercor](mercor.md) | 🧠 AI labs | 5 | 5 | 1 | — | Sep 2026 |
+| [Millennium](millennium.md) | — | 5 | 5 | — | 2 | Apr 2026 |
 | [OKX](okx.md) | — | 5 | 3 | — | — | Aug 2026 |
 | [Rokt](rokt.md) | — | 5 | 2 | — | — | Oct 2026 |
 | [Sigmacomputing](sigmacomputing.md) | — | 5 | 2 | — | — | Jul 2026 |
 | [StackAdapt](stackadapt.md) | — | 5 | 4 | — | — | Aug 2026 |
-| [Thumbtack](thumbtack.md) | — | 5 | 5 | — | — | — |
-| [C3 AI](c3-ai.md) | 🧠 AI labs | 4 | 4 | 1 | — | Aug 2026 |
-| [IMC](imc.md) | 📈 Quant firms | 4 | 4 | — | 4 | Aug 2026 |
-| [AMD](amd.md) | — | 3 | 3 | — | — | Sep 2026 |
-| [Brex](brex.md) | — | 3 | 1 | — | — | May 2026 |
+| [Brex](brex.md) | — | 4 | 2 | — | — | May 2026 |
+| [Siemens](siemens.md) | — | 4 | 4 | 4 | — | Sep 2026 |
 | [Cohere](cohere.md) | 🧠 AI labs | 3 | 3 | 1 | — | Sep 2026 |
-| [DRW](drw.md) | 📈 Quant firms | 3 | 2 | — | 1 | Oct 2025 |
-| [Onemain Financial](onemain-financial.md) | — | 3 | 3 | — | — | Apr 2026 |
 | [Oscar Health](oscar-health.md) | — | 3 | 3 | — | — | Jul 2026 |
-| [SIG](sig.md) | 📈 Quant firms | 3 | 2 | — | 1 | Sep 2026 |
 | [StubHub](stubhub.md) | — | 3 | 3 | — | — | Jun 2026 |
-| [Mistral AI](mistral-ai.md) | 🧠 AI labs | 2 | 2 | 1 | — | Apr 2026 |
+| [Indeed](indeed.md) | — | 2 | 2 | 1 | — | Sep 2026 |
 | [Render](render.md) | — | 2 | 2 | — | — | Sep 2026 |
-| [Together AI](together-ai.md) | 🧠 AI labs | 2 | 2 | — | — | Sep 2026 |
-| [Bitkernel](bitkernel.md) | — | 1 | 1 | — | — | Oct 2025 |
 | [Houzz](houzz.md) | — | 1 | — | — | — | Sep 2026 |
-| [Indeed](indeed.md) | — | 1 | 1 | 1 | — | Aug 2026 |
 | [Nclusion](nclusion.md) | — | 1 | — | — | — | Sep 2026 |
-| [Siemens](siemens.md) | — | 1 | 1 | 1 | — | Sep 2026 |

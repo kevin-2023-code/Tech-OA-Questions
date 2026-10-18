@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**109 questions** · 80 at Senior/Staff+ · 14 reported in the last 90 days · 9 free to solve
+**109 questions** · 80 at Senior/Staff+ · 14 reported in the last 90 days · 10 free to solve
 
 **Rounds:** 📝 OA (13) · 📞 Phone (19) · 🏢 Onsite (83) · 🏠 Take-home (6)
 
@@ -72,7 +72,7 @@
 | **[Coinbase](../companies/coinbase.md)** | [Render Blog Posts (Multi-Stage CodeSignal)](https://trueinterview.io/questions/fe-render-blog-posts-oa) | OA | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/fe-render-blog-posts-oa) | Mar 9, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Code Review of a Python Repository](https://trueinterview.io/questions/code-review-oa) | OA · Take-home | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/code-review-oa) | Mar 5, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [RL Fundamentals — GRPO Debug](https://trueinterview.io/questions/rl-fundamentals-grpo-debug) | Phone · Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/rl-fundamentals-grpo-debug) | Mar 2, 2026 |
-| **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Exploratory Data Analysis & Modeling for Heart Disease Prediction](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Mar 2026 |
+| **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Exploratory Data Analysis & Modeling for Heart Disease Prediction](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Onsite | Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Mar 2026 |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Implement Modify in an Order Management System (Codebase Extension)](https://trueinterview.io/questions/23f63264-e86c-447a-aa50-6eb72f9e9609) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/23f63264-e86c-447a-aa50-6eb72f9e9609) | Mar 2026 |
 | **[OpenAI](../companies/openai.md)** | [Jetpack Compose: Build a UI Similar to Google Translate Home Screen](https://trueinterview.io/questions/ecec4fb8-cd2f-4da0-9620-145885b2aa3f) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/ecec4fb8-cd2f-4da0-9620-145885b2aa3f) | Mar 2026 |
 | **[SoFi](../companies/sofi.md)** | [Lazy-loaded List with Paginated Fetch (10 items per page)](https://trueinterview.io/questions/46d6b649-f860-4586-8310-80c7f23f264d) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/46d6b649-f860-4586-8310-80c7f23f264d) | Mar 2026 |

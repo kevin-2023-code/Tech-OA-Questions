@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Yelp on TrueInterview](https://trueinterview.io/problems/company/yelp) · [How Yelp interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/yelp/README.md)
 
-**19 questions** · Senior & Staff+ 19 · last reported Sep 2026
+**22 questions** · Senior & Staff+ 22 · last reported Sep 2026
 
-**Rounds:** 📞 Phone (12) · 🏢 Onsite (17)
+**Rounds:** 📞 Phone (14) · 🏢 Onsite (18)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -18,6 +18,8 @@
 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design)<br><sub>also [Robinhood](../companies/robinhood.md) / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +12</sub> | Phone · Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | [Design Notification System](https://trueinterview.io/questions/design-a-notification-system-for-reddit)<br><sub>also [Reddit](../companies/reddit.md) / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +9</sub> | Onsite | Mid · **Senior** · Manager | System design | [![Free][f]](https://trueinterview.io/questions/design-a-notification-system-for-reddit) | Sep 2026 |
 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +6</sub> | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| [Estimate Experiment Duration with Power Analysis](https://trueinterview.io/questions/estimate-experiment-duration-with-power-analysis) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/estimate-experiment-duration-with-power-analysis) | Aug 27, 2026 |
+| [Recommend a Decision After a Nonsignificant Experiment](https://trueinterview.io/questions/recommend-a-decision-after-a-nonsignificant-experiment) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/recommend-a-decision-after-a-nonsignificant-experiment) | Aug 27, 2026 |
 | [Return Integers in Descending Ranked Order](https://trueinterview.io/questions/return-integers-in-descending-ranked-order) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/return-integers-in-descending-ranked-order) | Aug 27, 2026 |
 | [Design Payment System](https://trueinterview.io/questions/payment-platform-design)<br><sub>also [ByteDance](../companies/bytedance.md) / [Affirm](../companies/affirm.md) / [Expedia](../companies/expedia.md) / +6</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/payment-platform-design) | Aug 2026 |
 | [Design News Feed](https://trueinterview.io/questions/design-news-feed)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [Confluent](../companies/confluent.md) / +12</sub> | Phone · Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-news-feed) | Jul 2026 |
@@ -33,4 +35,5 @@
 | [Compute and Rank by Jaccard Similarity](https://trueinterview.io/questions/compute-and-rank-by-jaccard-similarity) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-and-rank-by-jaccard-similarity) | — |
 | [Design a Cold-Start-Aware Recommender](https://trueinterview.io/questions/design-a-cold-start-aware-recommender) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-cold-start-aware-recommender) | — |
 | [Design Yelp](https://trueinterview.io/questions/design-yelp-2)<br><sub>also [Uber](../companies/uber.md)</sub> | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-yelp-2) | — |
+| [Handle PM Ambiguity and Drive Outcomes](https://trueinterview.io/questions/handle-pm-ambiguity-and-drive-outcomes) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/handle-pm-ambiguity-and-drive-outcomes) | — |
 | [N-gram Split](https://trueinterview.io/questions/n-gram-split-2)<br><sub>also [xAI](../companies/xai.md)</sub> | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/n-gram-split-2) | — |

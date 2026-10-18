@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Okta on TrueInterview](https://trueinterview.io/problems/company/okta) · [How Okta interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/okta/README.md)
 
-**12 questions** · Senior & Staff+ 8 · last reported Aug 2026
+**13 questions** · Senior & Staff+ 9 · last reported Aug 2026
 
-**Rounds:** 📝 OA (2) · 📞 Phone (6) · 🏢 Onsite (6)
+**Rounds:** 📝 OA (2) · 📞 Phone (6) · 🏢 Onsite (7)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/okta-interview-process)
 
@@ -20,6 +20,7 @@
 | [Evaluate Role-Based Access with Deny Precedence](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Aug 20, 2026 |
 | [CD Rental System (Java DSA / LLD)](https://trueinterview.io/questions/cd-rental-system) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cd-rental-system) | Jun 24, 2026 |
 | [Concurrent Simple Bank System](https://trueinterview.io/questions/concurrent-simple-bank-system) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/concurrent-simple-bank-system) | Jun 24, 2026 |
+| [Hiring-Manager / Project Chat + AI Philosophy](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | Jun 24, 2026 |
 | [Reverse Substrings Between Each Pair of Parentheses](https://trueinterview.io/questions/reverse-substrings-in-parentheses) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/reverse-substrings-in-parentheses) | Jun 24, 2026 |
 | [Array Duplication — O(n) and Memory Trade-offs](https://trueinterview.io/questions/array-deduplication) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/array-deduplication) | Jun 2, 2026 |
 | [Sliding-Window Rate Limiter II](https://trueinterview.io/questions/sliding-window-rate-limiter)<br><sub>also [Roblox](../companies/roblox.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +10</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/sliding-window-rate-limiter) | May 2026 |

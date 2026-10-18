@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Whatnot on TrueInterview](https://trueinterview.io/problems/company/whatnot) · [How Whatnot interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/whatnot/README.md)
 
-**17 questions** · Senior & Staff+ 16 · ML & Research Scientist 1 · last reported Sep 2026
+**19 questions** · Senior & Staff+ 18 · ML & Research Scientist 1 · last reported Sep 2026
 
-**Rounds:** 📞 Phone (13) · 🏢 Onsite (6)
+**Rounds:** 📞 Phone (15) · 🏢 Onsite (6)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -23,12 +23,14 @@
 | [Solve Adjacent-Deletion and Sorted-Square Problems](https://trueinterview.io/questions/solve-adjacent-deletion-and-sorted-square-problems) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-adjacent-deletion-and-sorted-square-problems) | Apr 24, 2026 |
 | [Calculate Monthly Customer Retention](https://trueinterview.io/questions/calculate-monthly-customer-retention) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/calculate-monthly-customer-retention) | Mar 30, 2026 |
 | [Compute a Seven-Day Rolling Average](https://trueinterview.io/questions/compute-a-seven-day-rolling-average-2) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-a-seven-day-rolling-average-2) | Mar 30, 2026 |
+| [Define Marketplace Success Metrics and Investigate Their Movement](https://trueinterview.io/questions/define-marketplace-success-metrics-and-investigate-their-movement) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/define-marketplace-success-metrics-and-investigate-their-movement) | Mar 30, 2026 |
 | [Design Leetcode](https://trueinterview.io/questions/design-leetcode-2)<br><sub>also [Snowflake](../companies/snowflake.md) / [ByteDance](../companies/bytedance.md) / [Meta](../companies/meta.md) / +1</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-leetcode-2) | Mar 2026 |
 | [Build a Tic-Tac-Toe App](https://trueinterview.io/questions/build-a-tic-tac-toe-app) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/build-a-tic-tac-toe-app) | Jan 24, 2026 |
 | [Propose and Validate a Mobile App Improvement](https://trueinterview.io/questions/propose-and-validate-a-mobile-app-improvement) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/propose-and-validate-a-mobile-app-improvement) | Jan 24, 2026 |
 | [Synchronize Shared Data Across Two Lists](https://trueinterview.io/questions/synchronize-shared-data-across-two-lists) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/synchronize-shared-data-across-two-lists) | Jan 24, 2026 |
 | [Design trending livestream discovery](https://trueinterview.io/questions/design-trending-livestream-discovery) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-trending-livestream-discovery) | Jan 17, 2026 |
+| [Improve and debug the shopping app](https://trueinterview.io/questions/improve-and-debug-the-shopping-app) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/improve-and-debug-the-shopping-app) | Jan 17, 2026 |
 | [Remove All Adjacent Duplicates in String II](https://trueinterview.io/questions/86cbd462-a67b-46e8-8223-eb2f778bd5dc)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/86cbd462-a67b-46e8-8223-eb2f778bd5dc) | Jan 2026 |
 | [Build Transition Graph](https://trueinterview.io/questions/build-transition-graph-2)<br><sub>also [Atlassian](../companies/atlassian.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/build-transition-graph-2) | — |
-| [Count Singler Role Co-occurrences](https://trueinterview.io/questions/count-singler-role-co-occurrences-2)<br><sub>also [Atlassian](../companies/atlassian.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-singler-role-co-occurrences-2) | — |
+| [Count Singler Role Co-occurrences](https://trueinterview.io/questions/count-singler-role-co-occurrences-2)<br><sub>also [Atlassian](../companies/atlassian.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/count-singler-role-co-occurrences-2) | — |
 | [Design A Kafka-like Distributed Message Queue](https://trueinterview.io/questions/design-a-kafka-like-distributed-message-queue)<br><sub>also [Confluent](../companies/confluent.md) / [Databricks](../companies/databricks.md) / [LinkedIn](../companies/linkedin.md)</sub> | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kafka-like-distributed-message-queue) | — |

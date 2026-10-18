@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**703 questions** · 656 at Senior/Staff+ · 171 reported in the last 90 days · 34 free to solve
+**703 questions** · 656 at Senior/Staff+ · 171 reported in the last 90 days · 39 free to solve
 
 **Rounds:** 📝 OA (10) · 📞 Phone (247) · 🏢 Onsite (487) · 🏠 Take-home (1)
 
@@ -70,7 +70,7 @@
 | **[ByteDance](../companies/bytedance.md)** | [Design video captioning under compute limits](https://trueinterview.io/questions/design-video-captioning-under-compute-limits) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-video-captioning-under-compute-limits) | Feb 12, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Model other agents in simulation](https://trueinterview.io/questions/model-other-agents-in-simulation) | Phone | Intern | System design | [![Practice][p]](https://trueinterview.io/questions/model-other-agents-in-simulation) | Feb 12, 2026 |
 | **[Databricks](../companies/databricks.md)** | [Optimize least-k revenue queries for read/write load](https://trueinterview.io/questions/optimize-least-k-revenue-queries-for-read-write-load) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/optimize-least-k-revenue-queries-for-read-write-load) | Feb 12, 2026 |
-| **[Axon](../companies/axon.md)** | [Design camera-footage upload with custody chain](https://trueinterview.io/questions/design-camera-footage-upload-with-custody-chain) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-camera-footage-upload-with-custody-chain) | Feb 11, 2026 |
+| **[Axon](../companies/axon.md)** | [Design camera-footage upload with custody chain](https://trueinterview.io/questions/design-camera-footage-upload-with-custody-chain) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-camera-footage-upload-with-custody-chain) | Feb 11, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design Frontend Feed Status App](https://trueinterview.io/questions/design-frontend-feed-status-app) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-frontend-feed-status-app) | Feb 11, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Personalized Chatbot Recommending Pins](https://trueinterview.io/questions/system-design-personalized-chat-recommend) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-personalized-chat-recommend) | Feb 11, 2026 |
 | **[Tubi](../companies/tubi.md)** | [Thumbnail Selection for a Streaming Catalog](https://trueinterview.io/questions/ml-system-design-thumbnail-selection-for-a-streaming-catalog) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-thumbnail-selection-for-a-streaming-catalog) | Feb 10, 2026 |
@@ -321,6 +321,6 @@
 | **[LinkedIn](../companies/linkedin.md)** | [Real-Time Scalable Spam Email Detection System Design](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Test 15s to 60s video length change](https://trueinterview.io/questions/test-15s-to-60s-video-length-change) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/test-15s-to-60s-video-length-change) | — |
-| **[Lyft](../companies/lyft.md)** | [Web Crawler with Communication Constraint](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | — |
+| **[Lyft](../companies/lyft.md)** | [Web Crawler with Communication Constraint](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | Onsite | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | — |
 
 <sub>Page [1](system-design.md) · **2**</sub>

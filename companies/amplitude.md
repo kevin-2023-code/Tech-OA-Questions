@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Amplitude on TrueInterview](https://trueinterview.io/problems/company/amplitude) · [How Amplitude interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/amplitude/README.md)
 
-**7 questions** · Senior & Staff+ 5 · last reported Apr 2026
+**8 questions** · Senior & Staff+ 6 · last reported Apr 2026
 
-**Rounds:** 📞 Phone (4) · 🏢 Onsite (3)
+**Rounds:** 📞 Phone (4) · 🏢 Onsite (4)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/amplitude-interview-process)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Describe Product and Team Collaboration](https://trueinterview.io/questions/describe-product-and-team-collaboration) | Onsite | Mid · **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/describe-product-and-team-collaboration) | Apr 2026 |
 | [Detect Cycles in Employee Reporting Structure](https://trueinterview.io/questions/f918843c-516e-47a2-b08a-6bf4c474cbf2) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f918843c-516e-47a2-b08a-6bf4c474cbf2) | Apr 2026 |
 | [Snake Game](https://trueinterview.io/questions/snake-game)<br><sub>also [Atlassian](../companies/atlassian.md)</sub> | Onsite | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/snake-game) | Apr 2026 |
 | [Validate Employees in a Hierarchy with Recursive Rules](https://trueinterview.io/questions/8454aac4-681d-44d1-a68c-79d85c0ee3e7) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/8454aac4-681d-44d1-a68c-79d85c0ee3e7) | Apr 2026 |

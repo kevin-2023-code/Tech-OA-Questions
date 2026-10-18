@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,516 questions** · 1,479 at Senior/Staff+ · 601 reported in the last 90 days · 282 free to solve
+**2,516 questions** · 1,479 at Senior/Staff+ · 601 reported in the last 90 days · 304 free to solve
 
 **Rounds:** 📝 OA (565) · 📞 Phone (1,515) · 🏢 Onsite (630) · 🏠 Take-home (2)
 
@@ -330,7 +330,7 @@
 | **[Google](../companies/google.md)** | [Maximum Related Numbers](https://trueinterview.io/questions/19b56bf2-394c-4931-aabe-3c28383eb7a3) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/19b56bf2-394c-4931-aabe-3c28383eb7a3) | Dec 2025 |
 | **[Meta](../companies/meta.md)** | [Minimum Length of Subarray with Min-Max Difference](https://trueinterview.io/questions/a4398c05-cc42-4b2b-804e-6e65102c2ecb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a4398c05-cc42-4b2b-804e-6e65102c2ecb) | Dec 2025 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Nested Parentheses](https://trueinterview.io/questions/a4f9512c-b596-4e84-8c15-20ae5e555c6f) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a4f9512c-b596-4e84-8c15-20ae5e555c6f) | Dec 2025 |
-| **[Pinterest](../companies/pinterest.md)** / [ByteDance](../companies/bytedance.md) | [Nested Set Equality](https://trueinterview.io/questions/nested-set-equality) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/nested-set-equality) | Dec 2025 |
+| **[Pinterest](../companies/pinterest.md)** / [ByteDance](../companies/bytedance.md) | [Nested Set Equality](https://trueinterview.io/questions/nested-set-equality) | Onsite | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/nested-set-equality) | Dec 2025 |
 | **[Optiver](../companies/optiver.md)** | [Optimize Cargo Transport Algorithm](https://trueinterview.io/questions/6031e550-cf37-42a2-813d-85aa4b2095dc) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/6031e550-cf37-42a2-813d-85aa4b2095dc) | Dec 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [QR HackerRank: Profitable Pairs and Delivery Order](https://trueinterview.io/questions/qr-hackerrank-profitable-pairs-and-delivery-order) | OA | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/qr-hackerrank-profitable-pairs-and-delivery-order) | Dec 2025 |
 | **[Meta](../companies/meta.md)** / [LinkedIn](../companies/linkedin.md) | [Robot Room Cleaner: Find Target](https://trueinterview.io/questions/7c0209a8-0314-4e7a-967c-5d751c4cf468) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/7c0209a8-0314-4e7a-967c-5d751c4cf468) | Dec 2025 |

@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Optiver on TrueInterview](https://trueinterview.io/problems/company/optiver) · [How Optiver interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/optiver/README.md)
 
-📈 Quant firms · **23 questions** · Senior & Staff+ 5 · Quant researcher & developer 20 · last reported Aug 2026
+📈 Quant firms · **35 questions** · Senior & Staff+ 6 · Quant researcher & developer 28 · last reported Aug 2026
 
-**Rounds:** 📝 OA (13) · 📞 Phone (8) · 🏢 Onsite (4) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (19) · 📞 Phone (11) · 🏢 Onsite (8) · 🏠 Take-home (2)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/optiver-interview-process) · [Research scientist](https://trueinterview.io/study/optiver-research-scientist-interview-process) · [Quant](https://trueinterview.io/study/optiver-quantitative-finance-interview-process)
 
@@ -24,19 +24,31 @@
 | [Days Between Dates (Days Between 3.0 V2)](https://trueinterview.io/questions/a94f7865-5feb-4f9c-93aa-327909c70dd6) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a94f7865-5feb-4f9c-93aa-327909c70dd6) | Jun 2026 |
 | [Thread-Safe Buy/Sell Without Overselling](https://trueinterview.io/questions/multithreaded-buy-sell-lock) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/multithreaded-buy-sell-lock) | May 30, 2026 |
 | [Count Ordered Sequences That Sum to a Target](https://trueinterview.io/questions/count-ordered-sequences-that-sum-to-a-target) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-ordered-sequences-that-sum-to-a-target) | Apr 28, 2026 |
+| [Trading Betting Game (EV / Market-Making)](https://trueinterview.io/questions/trading-betting-game) | Phone · Onsite | Intern · New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/trading-betting-game) | Mar 21, 2026 |
+| [Beat the Odds — Probability Test](https://trueinterview.io/questions/beat-the-odds-probability) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/beat-the-odds-probability) | Feb 16, 2026 |
+| [Likelihood / Event-Ordering Test](https://trueinterview.io/questions/likelihood-ordering-test) | OA | Intern · New grad | blog | [![Free][f]](https://trueinterview.io/questions/likelihood-ordering-test) | Feb 16, 2026 |
+| [Number Logic — Sequence / Find the Pattern](https://trueinterview.io/questions/number-logic-sequence) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/number-logic-sequence) | Feb 16, 2026 |
 | [Minimum Expected Asset Cost](https://trueinterview.io/questions/minimum-expected-asset-cost) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-expected-asset-cost) | Feb 6, 2026 |
 | [Target Stock Portfolio Operations](https://trueinterview.io/questions/target-stock-portfolio-operations) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/target-stock-portfolio-operations) | Feb 6, 2026 |
 | [Merge Intervals](https://trueinterview.io/questions/merge-intervals)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +12</sub> | Phone | — | Coding | [![Free][f]](https://trueinterview.io/questions/merge-intervals) | Feb 4, 2026 |
 | [Implement a Level-Aware Expiring Inventory Store](https://trueinterview.io/questions/implement-a-level-aware-expiring-inventory-store) | OA | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-level-aware-expiring-inventory-store) | Feb 3, 2026 |
+| [Compute probabilities and expectations in random processes](https://trueinterview.io/questions/compute-probabilities-and-expectations-in-random-processes) | OA | Intern · New grad | blog | [![Free][f]](https://trueinterview.io/questions/compute-probabilities-and-expectations-in-random-processes) | Feb 2026 |
 | [Schedule Orders onto Planes](https://trueinterview.io/questions/opticargo-flight-scheduling) | Phone · Onsite | Intern · New grad | AI coding | [![Practice][p]](https://trueinterview.io/questions/opticargo-flight-scheduling) | Jan 22, 2026 |
 | [Design Circular Queue (Ring Buffer)](https://trueinterview.io/questions/circular-queue-design) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/circular-queue-design) | Jan 16, 2026 |
+| [QR Take-Home Data Project & Presentation](https://trueinterview.io/questions/qr-take-home-data-project) | Onsite · Take-home | New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/qr-take-home-data-project) | Jan 12, 2026 |
+| [HR / Behavioral Phone Screen](https://trueinterview.io/questions/hr-behavioral-screen) | Phone | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/hr-behavioral-screen) | Dec 13, 2025 |
 | [Low-Latency Trading System Design](https://trueinterview.io/questions/trading-system-design) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/trading-system-design) | Dec 13, 2025 |
+| [Answer why SWE and why Optiver](https://trueinterview.io/questions/answer-why-swe-and-why-optiver) | Onsite | Intern | blog | [![Free][f]](https://trueinterview.io/questions/answer-why-swe-and-why-optiver) | Dec 5, 2025 |
 | [Optimize Cargo Transport Algorithm](https://trueinterview.io/questions/6031e550-cf37-42a2-813d-85aa4b2095dc) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/6031e550-cf37-42a2-813d-85aa4b2095dc) | Dec 2025 |
+| [Zap-N Reaction & Memory Mini-Games](https://trueinterview.io/questions/zap-n-reaction-games) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/zap-n-reaction-games) | Dec 2025 |
 | [Implement a News Publishing System with Topic Subscriptions and Delivery Limits](https://trueinterview.io/questions/implement-a-news-publishing-system-with-topic-subscriptions-and-delivery-limits) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-news-publishing-system-with-topic-subscriptions-and-delivery-limits) | Nov 25, 2025 |
 | [Order Book Matching Simulation](https://trueinterview.io/questions/order-book-matching) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/order-book-matching) | Nov 18, 2025 |
 | [News Aggregation / Subscription System](https://trueinterview.io/questions/news-subscription-system) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/news-subscription-system) | Nov 17, 2025 |
+| [Programming & Computer-System Knowledge Quiz](https://trueinterview.io/questions/coding-knowledge-test) | OA | New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/coding-knowledge-test) | Nov 17, 2025 |
+| [QR Technical Round — Brainteasers & Estimation](https://trueinterview.io/questions/qr-technical-brainteasers) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/qr-technical-brainteasers) | Nov 14, 2025 |
 | [Stock Transaction Sequence Counting (Catalan / DP)](https://trueinterview.io/questions/stock-transaction-counting) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/stock-transaction-counting) | Nov 3, 2025 |
 | [Design Squirrel Nut Tracker](https://trueinterview.io/questions/squirrel-nut-storage) | OA | Intern · New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/squirrel-nut-storage) | Oct 7, 2025 |
 | [Hot Air Balloon Festival Simulation](https://trueinterview.io/questions/balloon-festival-simulation) | OA | Intern · New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/balloon-festival-simulation) | Sep 9, 2025 |
 | [Currency Arbitrage Detection](https://trueinterview.io/questions/currency-arbitrage-detection) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/currency-arbitrage-detection) | Aug 26, 2025 |
+| [Market-Making Interval Estimation Game](https://trueinterview.io/questions/market-making-interval-game) | Phone | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/market-making-interval-game) | Aug 6, 2025 |
 | [Satellite Message Propagation](https://trueinterview.io/questions/satellite-message-propagation) | OA | Intern · New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/satellite-message-propagation) | Aug 5, 2025 |

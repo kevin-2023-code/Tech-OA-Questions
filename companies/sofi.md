@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice SoFi on TrueInterview](https://trueinterview.io/problems/company/sofi) · [How SoFi interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/sofi/README.md)
 
-**30 questions** · Senior & Staff+ 17 · last reported Sep 2026
+**37 questions** · Senior & Staff+ 22 · last reported Sep 2026
 
-**Rounds:** 📝 OA (4) · 📞 Phone (15) · 🏢 Onsite (12)
+**Rounds:** 📝 OA (4) · 📞 Phone (20) · 🏢 Onsite (14)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/sofi-interview-process)
 
@@ -20,12 +20,17 @@
 | [Basic Calculator](https://trueinterview.io/questions/basic-calculator-2)<br><sub>also [Netflix](../companies/netflix.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +5</sub> | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/basic-calculator-2) | Sep 2026 |
 | [Reachable Nodes in a Directed Graph](https://trueinterview.io/questions/reachable-nodes-in-directed-graph) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/reachable-nodes-in-directed-graph) | Jul 4, 2026 |
 | [Tic Tac Toe](https://trueinterview.io/questions/tic-tac-toe)<br><sub>also [Ramp](../companies/ramp.md) / [Databricks](../companies/databricks.md)</sub> | Phone | **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/tic-tac-toe) | Jul 2026 |
+| [Manager Behavioral and Project Deep Dive](https://trueinterview.io/questions/manager-behavioral-and-project-deep-dive) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/manager-behavioral-and-project-deep-dive) | Jun 4, 2026 |
 | [Extend an Existing Codebase to Support Accessibility Requirements](https://trueinterview.io/questions/e09854da-00dd-4596-a22c-a1b2463a2a29) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/e09854da-00dd-4596-a22c-a1b2463a2a29) | Jun 2026 |
 | [GIF Info Pagination by Tag](https://trueinterview.io/questions/gif-info-pagination-by-tag) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/gif-info-pagination-by-tag) | Jun 2026 |
 | [Highway Sensor Journey Count](https://trueinterview.io/questions/8a5951dd-3b82-4d0a-8d9a-0f615d59d1cb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8a5951dd-3b82-4d0a-8d9a-0f615d59d1cb) | Mar 6, 2026 |
 | [Build a Search Bar with HTML/CSS (No Framework)](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Mar 2026 |
+| [Demonstrate project impact and teach something](https://trueinterview.io/questions/demonstrate-project-impact-and-teach-something) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-project-impact-and-teach-something) | Mar 2026 |
+| [Describe Project and Collaboration Stories](https://trueinterview.io/questions/describe-project-and-collaboration-stories) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/describe-project-and-collaboration-stories) | Mar 2026 |
 | [Design a Multi-threaded Task Executor with Extensible Task Types (Semaphore-based)](https://trueinterview.io/questions/4e7be800-1e64-44b9-ada0-f2cb1c43c816) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/4e7be800-1e64-44b9-ada0-f2cb1c43c816) | Mar 2026 |
 | [Design market price change notifications](https://trueinterview.io/questions/design-market-price-change-notifications) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-market-price-change-notifications) | Mar 2026 |
+| [Explain benefits of a lockfile](https://trueinterview.io/questions/explain-benefits-of-a-lockfile) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/explain-benefits-of-a-lockfile) | Mar 2026 |
+| [Explain GC, singleton, and OOP principles](https://trueinterview.io/questions/explain-gc-singleton-and-oop-principles) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-gc-singleton-and-oop-principles) | Mar 2026 |
 | [K-th Unique Maximum from Two Sorted Arrays](https://trueinterview.io/questions/d26a94ba-3da5-4ebb-9dfd-ab1939adba62) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d26a94ba-3da5-4ebb-9dfd-ab1939adba62) | Mar 2026 |
 | [Lazy-loaded List with Paginated Fetch (10 items per page)](https://trueinterview.io/questions/46d6b649-f860-4586-8310-80c7f23f264d) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/46d6b649-f860-4586-8310-80c7f23f264d) | Mar 2026 |
 | [Second Most Frequent Tag from Flattened Triples](https://trueinterview.io/questions/e89bef94-d185-481f-94fe-b1ad86364481) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e89bef94-d185-481f-94fe-b1ad86364481) | Mar 2026 |
@@ -45,5 +50,7 @@
 | [Star Rating Component](https://trueinterview.io/questions/star-rating-component) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/star-rating-component) | Oct 6, 2025 |
 | [Anagram Sentence Substitutions](https://trueinterview.io/questions/anagram-sentence-substitutions) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/anagram-sentence-substitutions) | Sep 25, 2025 |
 | [Key-Value Store with getLast](https://trueinterview.io/questions/key-value-store-with-getlast) | Phone | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/key-value-store-with-getlast) | Jul 14, 2025 |
+| [Align with PM on ranking goals](https://trueinterview.io/questions/align-with-pm-on-ranking-goals) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/align-with-pm-on-ranking-goals) | — |
 | [Design a fintech homepage ranker](https://trueinterview.io/questions/design-a-fintech-homepage-ranker) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-fintech-homepage-ranker) | — |
+| [Plan and validate ranking experiment](https://trueinterview.io/questions/plan-and-validate-ranking-experiment) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/plan-and-validate-ranking-experiment) | — |
 | [Swap Parity](https://trueinterview.io/questions/cf402112-727c-4f9f-b976-8d9352ad3615)<br><sub>also [Palantir](../companies/palantir.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/cf402112-727c-4f9f-b976-8d9352ad3615) | — |

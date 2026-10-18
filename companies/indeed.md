@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Indeed on TrueInterview](https://trueinterview.io/problems/company/indeed) · [How Indeed interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/indeed/README.md)
 
-**1 questions** · Senior & Staff+ 1 · ML & Research Scientist 1 · last reported Aug 2026
+**2 questions** · Senior & Staff+ 2 · ML & Research Scientist 1 · last reported Sep 2026
 
-**Rounds:** 📞 Phone (1)
+**Rounds:** 📞 Phone (2)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -15,4 +15,5 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Compare Arrays and Linked Lists for Indexed Operations](https://trueinterview.io/questions/compare-arrays-and-linked-lists-for-indexed-operations) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compare-arrays-and-linked-lists-for-indexed-operations) | 🆕 Sep 16, 2026 |
 | [Redesign a Spam Classifier for Production](https://trueinterview.io/questions/redesign-a-spam-classifier-for-production) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/redesign-a-spam-classifier-for-production) | Aug 20, 2026 |

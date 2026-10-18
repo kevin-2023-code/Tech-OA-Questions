@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Affirm on TrueInterview](https://trueinterview.io/problems/company/affirm) · [How Affirm interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/affirm/README.md)
 
-**17 questions** · Senior & Staff+ 12 · ML & Research Scientist 1 · last reported Sep 2026
+**18 questions** · Senior & Staff+ 13 · ML & Research Scientist 1 · last reported Sep 2026
 
-**Rounds:** 📝 OA (2) · 📞 Phone (9) · 🏢 Onsite (8)
+**Rounds:** 📝 OA (2) · 📞 Phone (10) · 🏢 Onsite (8)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -26,6 +26,7 @@
 | [Design An Account Takeover Detection System](https://trueinterview.io/questions/account-takeover-prediction-system)<br><sub>also [Stripe](../companies/stripe.md) / [Robinhood](../companies/robinhood.md) / [Roblox](../companies/roblox.md) / +1</sub> | Onsite | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/account-takeover-prediction-system) | May 2026 |
 | [Design Installment-Loan Payment Processing](https://trueinterview.io/questions/design-installment-loan-payment-processing) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-installment-loan-payment-processing) | Apr 19, 2026 |
 | [Detect Fraud by Propagating Suspicious PII](https://trueinterview.io/questions/detect-fraud-by-propagating-suspicious-pii) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/detect-fraud-by-propagating-suspicious-pii) | Apr 19, 2026 |
+| [Describe your highest-impact project](https://trueinterview.io/questions/describe-your-highest-impact-project) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/describe-your-highest-impact-project) | Mar 7, 2026 |
 | [Count Reversing Triples](https://trueinterview.io/questions/count-reversing-triples) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-reversing-triples) | — |
 | [End Of Day Balance](https://trueinterview.io/questions/end-of-day-balance) | Onsite | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/end-of-day-balance) | — |
 | [High Correlation Seller](https://trueinterview.io/questions/high-correlation-seller) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/high-correlation-seller) | — |

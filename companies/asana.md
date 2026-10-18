@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Asana on TrueInterview](https://trueinterview.io/problems/company/asana) · [How Asana interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/asana/README.md)
 
-**8 questions** · Senior & Staff+ 8 · last reported Apr 2026
+**11 questions** · Senior & Staff+ 10 · last reported Apr 2026
 
-**Rounds:** 📞 Phone (3) · 🏢 Onsite (5)
+**Rounds:** 📞 Phone (4) · 🏢 Onsite (7)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -16,10 +16,13 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Design and Solve a Rotatable Jigsaw Puzzle](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Phone | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Apr 13, 2026 |
+| [Answer Manager Behavioral Prompts](https://trueinterview.io/questions/answer-manager-behavioral-prompts) | Onsite | Manager | blog | [![Free][f]](https://trueinterview.io/questions/answer-manager-behavioral-prompts) | Apr 2, 2026 |
 | [Compute Products Excluding Each Index](https://trueinterview.io/questions/compute-products-excluding-each-index) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-products-excluding-each-index) | Apr 2, 2026 |
 | [Design a 2048 Game](https://trueinterview.io/questions/design-a-2048-game) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-2048-game) | Apr 2, 2026 |
 | [Design a Collaborative Todo List](https://trueinterview.io/questions/design-a-collaborative-todo-list) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-collaborative-todo-list) | Apr 2, 2026 |
 | [Implement an ASCII Art Printer](https://trueinterview.io/questions/implement-an-ascii-art-printer) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-an-ascii-art-printer) | Apr 2, 2026 |
 | [Design a Twitter-like microblogging service](https://trueinterview.io/questions/design-a-twitter-like-microblogging-service) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-twitter-like-microblogging-service) | Feb 8, 2026 |
+| [Discuss projects, mentorship, and conflict resolution](https://trueinterview.io/questions/discuss-projects-mentorship-and-conflict-resolution) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/discuss-projects-mentorship-and-conflict-resolution) | Feb 8, 2026 |
 | [Explain code complexity and design two games](https://trueinterview.io/questions/explain-code-complexity-and-design-two-games) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/explain-code-complexity-and-design-two-games) | Feb 8, 2026 |
 | [Find frequent IPs from a huge file](https://trueinterview.io/questions/find-frequent-ips-from-a-huge-file) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/find-frequent-ips-from-a-huge-file) | Jan 7, 2026 |
+| [Implement core puzzle/array/grid routines](https://trueinterview.io/questions/implement-core-puzzle-array-grid-routines) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/implement-core-puzzle-array-grid-routines) | Jan 7, 2026 |

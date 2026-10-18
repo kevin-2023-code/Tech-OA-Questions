@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice xAI on TrueInterview](https://trueinterview.io/problems/company/xai) · [How xAI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/xai/README.md)
 
-🧠 AI labs · **39 questions** · Senior & Staff+ 34 · ML & Research Scientist 5 · last reported Sep 2026
+🧠 AI labs · **43 questions** · Senior & Staff+ 37 · ML & Research Scientist 6 · last reported Sep 2026
 
-**Rounds:** 📝 OA (2) · 📞 Phone (18) · 🏢 Onsite (25) · 🏠 Take-home (3)
+**Rounds:** 📝 OA (3) · 📞 Phone (21) · 🏢 Onsite (25) · 🏠 Take-home (3)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/xai-interview-process) · [SWE](https://trueinterview.io/study/xai-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/xai-machine-learning-engineer-interview-process) · [Infra](https://trueinterview.io/study/xai-infrastructure-engineer-interview-process)
 
@@ -26,6 +26,7 @@
 | [Weighted LRU Cache](https://trueinterview.io/questions/weighted-lru-cache-2)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / +6</sub> | Phone | Intern · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/weighted-lru-cache-2) | Aug 2026 |
 | [Tweets' Rolling Averages](https://trueinterview.io/questions/tweets-rolling-averages) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/tweets-rolling-averages) | Jul 22, 2026 |
 | [Design ChatGPT](https://trueinterview.io/questions/design-chatgpt)<br><sub>also [Amazon](../companies/amazon.md) / [Anthropic](../companies/anthropic.md) / [OpenAI](../companies/openai.md)</sub> | Phone · Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-chatgpt) | Jul 2026 |
+| [Most Challenging Project + Why xAI](https://trueinterview.io/questions/most-challenging-project-why-xai) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/most-challenging-project-why-xai) | Jun 19, 2026 |
 | [Transactional Key-Value Store](https://trueinterview.io/questions/transactional-key-value-store)<br><sub>also [Lyft](../companies/lyft.md)</sub> | Onsite | Intern · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/transactional-key-value-store) | Jun 2026 |
 | [Sliding-Window Rate Limiter II](https://trueinterview.io/questions/sliding-window-rate-limiter)<br><sub>also [Roblox](../companies/roblox.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +10</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/sliding-window-rate-limiter) | May 2026 |
 | [Data Parallel & FSDP Matrix Multiplication](https://trueinterview.io/questions/data-parallel-fsdp-matrix-multiplication) | Phone | **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/data-parallel-fsdp-matrix-multiplication) | Apr 4, 2026 |
@@ -33,6 +34,7 @@
 | [Resumable Iterator with Save / Restore State](https://trueinterview.io/questions/resumable-iterator-design) | Phone · Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/resumable-iterator-design) | Apr 2, 2026 |
 | [Distributed Rate Limiter](https://trueinterview.io/questions/distributed-rate-limiter)<br><sub>also [Atlassian](../companies/atlassian.md) / [Expedia](../companies/expedia.md) / [LinkedIn](../companies/linkedin.md) / +1</sub> | Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/distributed-rate-limiter) | Apr 1, 2026 |
 | [In-Memory Database — Levels 1–4 (TTL + Backup/Restore)](https://trueinterview.io/questions/in-memory-database-ttl-backup) | OA · Take-home | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/in-memory-database-ttl-backup) | Apr 1, 2026 |
+| [Answer technical-challenge and motivation questions](https://trueinterview.io/questions/answer-technical-challenge-and-motivation-questions) | OA | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/answer-technical-challenge-and-motivation-questions) | Apr 2026 |
 | [Design a Distributed KV Store](https://trueinterview.io/questions/design-a-distributed-kv-store) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-distributed-kv-store) | Apr 2026 |
 | [Design Token Limiter](https://trueinterview.io/questions/cc6f7ab2-4bdd-4914-85c9-f4912c2ffd73) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cc6f7ab2-4bdd-4914-85c9-f4912c2ffd73) | Apr 2026 |
 | [Design a RAG System](https://trueinterview.io/questions/design-a-rag-system)<br><sub>also [Amazon](../companies/amazon.md) / [OpenAI](../companies/openai.md)</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-rag-system) | Mar 2026 |
@@ -41,6 +43,7 @@
 | [Agentic Workflow for 1-Hour Movie Generation](https://trueinterview.io/questions/agentic-one-hour-movie-generation) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/agentic-one-hour-movie-generation) | Jan 29, 2026 |
 | [Rate Limiter — Inbound + Outbound](https://trueinterview.io/questions/rate-limiter-design) | Onsite · Take-home | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/rate-limiter-design) | Jan 28, 2026 |
 | [Twitter Insight Platform](https://trueinterview.io/questions/twitter-insight-platform-take-home) | OA · Take-home | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/twitter-insight-platform-take-home) | Jan 28, 2026 |
+| [Process vs Thread (Verbal CS Fundamentals)](https://trueinterview.io/questions/process-vs-thread-verbal) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/process-vs-thread-verbal) | Jan 27, 2026 |
 | [Checkers Game](https://trueinterview.io/questions/checkers-backend-design) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/checkers-backend-design) | Jan 26, 2026 |
 | [Design a schema for server engagement](https://trueinterview.io/questions/design-a-schema-for-server-engagement) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/design-a-schema-for-server-engagement) | Jan 17, 2026 |
 | [Implement two string utility functions](https://trueinterview.io/questions/implement-two-string-utility-functions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-two-string-utility-functions) | Jan 17, 2026 |
@@ -51,6 +54,7 @@
 | [In-Memory Key-Value Store with Transactions](https://trueinterview.io/questions/in-memory-key-value-store-with-transactions)<br><sub>also [Rippling](../companies/rippling.md)</sub> | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/in-memory-key-value-store-with-transactions) | Jan 2026 |
 | [Dynamic Batch Inference](https://trueinterview.io/questions/dynamic-batch-inference) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/dynamic-batch-inference) | Dec 14, 2025 |
 | [Find Bad GPU Nodes](https://trueinterview.io/questions/group-test-gpu-nodes) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/group-test-gpu-nodes) | Dec 14, 2025 |
+| [How Would You Prevent Hallucinations in an LLM-Based System?](https://trueinterview.io/questions/how-would-you-prevent-hallucinations-in-an-llm-based-system) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-prevent-hallucinations-in-an-llm-based-system) | Nov 21, 2025 |
 | [Design a Rate Limiter with Variable User Quotas](https://trueinterview.io/questions/design-a-rate-limiter-with-variable-user-quotas) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-rate-limiter-with-variable-user-quotas) | — |
 | [Durable KV Cache](https://trueinterview.io/questions/durable-kv-cache) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/durable-kv-cache) | — |
 | [N-gram Split](https://trueinterview.io/questions/n-gram-split-2)<br><sub>also [Yelp](../companies/yelp.md)</sub> | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/n-gram-split-2) | — |

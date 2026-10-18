@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice eBay on TrueInterview](https://trueinterview.io/problems/company/ebay) · [How eBay interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/ebay/README.md)
 
-**45 questions** · Senior & Staff+ 29 · ML & Research Scientist 2 · last reported Oct 2026
+**48 questions** · Senior & Staff+ 32 · ML & Research Scientist 2 · last reported Oct 2026
 
-**Rounds:** 📝 OA (13) · 📞 Phone (19) · 🏢 Onsite (18)
+**Rounds:** 📝 OA (13) · 📞 Phone (20) · 🏢 Onsite (20)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/ebay-interview-process)
 
@@ -20,8 +20,11 @@
 | [Print Execution Order in a DAG and Detect Cycles](https://trueinterview.io/questions/408b147f-c3d9-554c-ab3b-2b07e657b14a)<br><sub>also [ByteDance](../companies/bytedance.md) / [Amazon](../companies/amazon.md)</sub> | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/408b147f-c3d9-554c-ab3b-2b07e657b14a) | 🆕 Oct 2026 |
 | [Design Online Donation Service](https://trueinterview.io/questions/charity-donation-system)<br><sub>also [Lyft](../companies/lyft.md) / [DoorDash](../companies/doordash.md) / [Whatnot](../companies/whatnot.md)</sub> | Onsite | New grad · Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/charity-donation-system) | Sep 2026 |
 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [Confluent](../companies/confluent.md) / [Google](../companies/google.md) / +6</sub> | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| [Describe Your Most Technically Difficult Project](https://trueinterview.io/questions/describe-your-most-technically-difficult-project) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-your-most-technically-difficult-project) | Aug 26, 2026 |
 | [Search in Rotated Sorted Array](https://trueinterview.io/questions/search-in-rotated-sorted-array)<br><sub>also [ByteDance](../companies/bytedance.md) / [NVIDIA](../companies/nvidia.md)</sub> | Phone · Onsite | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/search-in-rotated-sorted-array) | Aug 21, 2026 |
 | [Design a Shopping Search Bar with Autocomplete](https://trueinterview.io/questions/design-a-shopping-search-bar-with-autocomplete) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-shopping-search-bar-with-autocomplete) | Aug 19, 2026 |
+| [Investing in Deliberate Professional Growth](https://trueinterview.io/questions/investing-in-deliberate-professional-growth) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/investing-in-deliberate-professional-growth) | Aug 19, 2026 |
+| [Answer senior behavioral questions](https://trueinterview.io/questions/answer-senior-behavioral-questions) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/answer-senior-behavioral-questions) | Aug 2026 |
 | [In-Flight Movie Pair (Two Sum Variant)](https://trueinterview.io/questions/in-flight-movie-pair-two-sum)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / +3</sub> | Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/in-flight-movie-pair-two-sum) | Aug 2026 |
 | [Longest Palindromic Substring](https://trueinterview.io/questions/longest-palindromic-substring)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / [Cisco](../companies/cisco.md)</sub> | Phone | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-palindromic-substring) | Aug 2026 |
 | [Minimum Meeting Rooms](https://trueinterview.io/questions/b4adc8d7-199a-591e-a08e-e1bd7437a7f7)<br><sub>also [Ramp](../companies/ramp.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +9</sub> | Phone | New grad · Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/b4adc8d7-199a-591e-a08e-e1bd7437a7f7) | Aug 2026 |

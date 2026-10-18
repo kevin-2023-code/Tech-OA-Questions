@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Gusto on TrueInterview](https://trueinterview.io/problems/company/gusto) · [How Gusto interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/gusto/README.md)
 
-**5 questions** · Senior & Staff+ 4 · last reported Sep 2026
+**6 questions** · Senior & Staff+ 5 · last reported Sep 2026
 
-**Rounds:** 📞 Phone (1) · 🏢 Onsite (4)
+**Rounds:** 📞 Phone (2) · 🏢 Onsite (4)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/gusto-interview-process)
 
@@ -21,4 +21,5 @@
 | [Calculate Tax from Progressive Brackets](https://trueinterview.io/questions/calculate-tax-from-progressive-brackets) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-tax-from-progressive-brackets) | Aug 1, 2026 |
 | [Fairly Distribute Money With Limits](https://trueinterview.io/questions/15342126-93db-52f6-a234-8f5da3a03fb2) | Phone | **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/15342126-93db-52f6-a234-8f5da3a03fb2) | Aug 2026 |
 | [Log File API Statistics](https://trueinterview.io/questions/85c2d72c-1778-57ee-a65a-d35ae87f8b22) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/85c2d72c-1778-57ee-a65a-d35ae87f8b22) | Jun 2026 |
+| [Compute p-values for 2 variants vs control](https://trueinterview.io/questions/compute-p-values-for-2-variants-vs-control) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compute-p-values-for-2-variants-vs-control) | Nov 2, 2025 |
 | [Efficient Key-Value Store with Insert, Retrieve, Delete Operations](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | — |

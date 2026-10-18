@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Wayfair on TrueInterview](https://trueinterview.io/problems/company/wayfair) · [How Wayfair interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/wayfair/README.md)
 
-**6 questions** · Senior & Staff+ 6 · last reported Sep 2026
+**7 questions** · Senior & Staff+ 7 · last reported Sep 2026
 
-**Rounds:** 📝 OA (2) · 📞 Phone (2) · 🏢 Onsite (2)
+**Rounds:** 📝 OA (2) · 📞 Phone (2) · 🏢 Onsite (3)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -15,6 +15,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Evaluate Post-Purchase Recommendation Emails](https://trueinterview.io/questions/evaluate-post-purchase-recommendation-emails) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-post-purchase-recommendation-emails) | 🆕 Sep 10, 2026 |
 | [Rank Homepage Modules for an E-Commerce Product](https://trueinterview.io/questions/rank-homepage-modules-for-an-e-commerce-product) | Onsite | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/rank-homepage-modules-for-an-e-commerce-product) | 🆕 Sep 10, 2026 |
 | [Set Bids for Search Advertising from Business Value](https://trueinterview.io/questions/set-bids-for-search-advertising-from-business-value) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/set-bids-for-search-advertising-from-business-value) | 🆕 Sep 10, 2026 |
 | [Simulate and Compare Multi-Armed Bandit Strategies](https://trueinterview.io/questions/simulate-and-compare-multi-armed-bandit-strategies) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/simulate-and-compare-multi-armed-bandit-strategies) | 🆕 Sep 10, 2026 |

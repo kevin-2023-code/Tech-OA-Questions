@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Confluent on TrueInterview](https://trueinterview.io/problems/company/confluent) · [How Confluent interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/confluent/README.md)
 
-**29 questions** · Senior & Staff+ 21 · last reported Sep 2026
+**30 questions** · Senior & Staff+ 22 · last reported Sep 2026
 
-**Rounds:** 📝 OA (4) · 📞 Phone (7) · 🏢 Onsite (20)
+**Rounds:** 📝 OA (4) · 📞 Phone (7) · 🏢 Onsite (21)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/confluent-interview-process)
 
@@ -33,6 +33,7 @@
 | [Function signature matching](https://trueinterview.io/questions/solve-signature-file-and-queue-problems-function-signature-matching) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-signature-file-and-queue-problems-function-signature-matching) | Feb 22, 2026 |
 | [Silent Sensor Detector (SensorHealth)](https://trueinterview.io/questions/37a8e59a-4ec6-441c-8df5-f86491863f52) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/37a8e59a-4ec6-441c-8df5-f86491863f52) | Feb 2026 |
 | [Warehouse Loading: Reach TargetWeight at Any Point with Reordered +/- Weights](https://trueinterview.io/questions/a15b120c-3931-4891-9663-20471e3207cb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a15b120c-3931-4891-9663-20471e3207cb) | Feb 2026 |
+| [Explain Linux Command Execution, Filesystems, and Isolation](https://trueinterview.io/questions/explain-linux-command-execution-filesystems-and-isolation) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-linux-command-execution-filesystems-and-isolation) | Jan 1, 2026 |
 | [Retrieve Token List](https://trueinterview.io/questions/cc6a0750-1741-4f8c-bdb3-7cca719d0b30) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cc6a0750-1741-4f8c-bdb3-7cca719d0b30) | Jan 2026 |
 | [Message Logger](https://trueinterview.io/questions/30531964-1441-416b-8417-b0bcd364f28e) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/30531964-1441-416b-8417-b0bcd364f28e) | Nov 2025 |
 | [Minimum Value to Get Positive Step by Step Sum](https://trueinterview.io/questions/3e9983d2-b98e-4f1e-b80a-0d32d1317fbd) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/3e9983d2-b98e-4f1e-b80a-0d32d1317fbd) | Nov 2025 |

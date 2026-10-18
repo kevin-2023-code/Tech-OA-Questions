@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice PayPal on TrueInterview](https://trueinterview.io/problems/company/paypal) · [How PayPal interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/paypal/README.md)
 
-**24 questions** · Senior & Staff+ 15 · last reported Oct 2026
+**37 questions** · Senior & Staff+ 27 · last reported Oct 2026
 
-**Rounds:** 📝 OA (3) · 📞 Phone (14) · 🏢 Onsite (7)
+**Rounds:** 📝 OA (3) · 📞 Phone (19) · 🏢 Onsite (15)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/paypal-interview-process)
 
@@ -25,8 +25,18 @@
 | [Design a Cross-Border Money Transfer Service](https://trueinterview.io/questions/design-a-cross-border-money-transfer-service) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-cross-border-money-transfer-service) | Apr 14, 2026 |
 | [Minimize a String Using Allowed Swaps](https://trueinterview.io/questions/minimize-a-string-using-allowed-swaps) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimize-a-string-using-allowed-swaps) | Apr 14, 2026 |
 | [Design a fraud mitigation strategy under constraints](https://trueinterview.io/questions/design-a-fraud-mitigation-strategy-under-constraints) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-fraud-mitigation-strategy-under-constraints) | Jan 2, 2026 |
+| [Explain fraud types and evaluate a fraud model](https://trueinterview.io/questions/explain-fraud-types-and-evaluate-a-fraud-model) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-fraud-types-and-evaluate-a-fraud-model) | Jan 2, 2026 |
+| [Interpret p-values and common pitfalls](https://trueinterview.io/questions/interpret-p-values-and-common-pitfalls) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/interpret-p-values-and-common-pitfalls) | Jan 2, 2026 |
+| [Answer career, manager, and team fit questions](https://trueinterview.io/questions/answer-career-manager-and-team-fit-questions) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/answer-career-manager-and-team-fit-questions) | Dec 16, 2025 |
+| [Design metrics and experiment for donation feature](https://trueinterview.io/questions/design-metrics-and-experiment-for-donation-feature) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/design-metrics-and-experiment-for-donation-feature) | Dec 16, 2025 |
+| [Decide if a dice-betting game is favorable](https://trueinterview.io/questions/decide-if-a-dice-betting-game-is-favorable) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/decide-if-a-dice-betting-game-is-favorable) | Dec 7, 2025 |
 | [Write SQL for top drivers and cancellation rates](https://trueinterview.io/questions/write-sql-for-top-drivers-and-cancellation-rates) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-top-drivers-and-cancellation-rates) | Dec 7, 2025 |
+| [Explain confounding with an Uber example](https://trueinterview.io/questions/explain-confounding-with-an-uber-example-2) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-confounding-with-an-uber-example-2) | Nov 20, 2025 |
+| [Reduce airport ride cancellations under causal constraints](https://trueinterview.io/questions/reduce-airport-cancellations-under-causal-constraints) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/reduce-airport-cancellations-under-causal-constraints) | Nov 3, 2025 |
 | [Compute Variance from a Python List](https://trueinterview.io/questions/compute-variance-from-a-python-list) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-variance-from-a-python-list) | Oct 29, 2025 |
+| [Diagnose drop in shopper order acceptance](https://trueinterview.io/questions/diagnose-drop-in-shopper-order-acceptance) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-drop-in-shopper-order-acceptance) | Oct 10, 2025 |
+| [Evaluate smart cart idea and design experiment](https://trueinterview.io/questions/evaluate-smart-cart-idea-and-design-experiment) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-smart-cart-idea-and-design-experiment) | Oct 10, 2025 |
+| [Explain p-values and interpret regressions](https://trueinterview.io/questions/explain-p-values-and-interpret-regressions) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-p-values-and-interpret-regressions) | Oct 10, 2025 |
 | [Binary Search Tree Pruning](https://trueinterview.io/questions/96ce5b2a-e210-4161-8bb4-f820289d7605) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/96ce5b2a-e210-4161-8bb4-f820289d7605) | Apr 2025 |
 | [Number of Unique Binary Trees](https://trueinterview.io/questions/25b64cd7-2596-4ac5-bdf2-abd7cc18aeb0) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/25b64cd7-2596-4ac5-bdf2-abd7cc18aeb0) | Apr 2025 |
 | [API Call and Data Processing](https://trueinterview.io/questions/69704f7c-4eae-4ac6-a2f9-e547e1e42039) | Onsite | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/69704f7c-4eae-4ac6-a2f9-e547e1e42039) | Mar 2025 |
@@ -34,10 +44,13 @@
 | [Minimum Steps to Move Balls to Respective Holes](https://trueinterview.io/questions/34c74942-4b06-414a-a41c-67e01abccddb) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/34c74942-4b06-414a-a41c-67e01abccddb) | Mar 2025 |
 | [Banking System Operations](https://trueinterview.io/questions/aab753cb-ef8c-4f67-a2b4-d6c811f9c12e) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/aab753cb-ef8c-4f67-a2b4-d6c811f9c12e) | — |
 | [Count User Logins (Singapore)](https://trueinterview.io/questions/1ab60462-b812-470d-9ebc-0efde6eed6cf) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1ab60462-b812-470d-9ebc-0efde6eed6cf) | — |
+| [Design an A/B for ATO rule](https://trueinterview.io/questions/design-an-a-b-for-ato-rule) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/design-an-a-b-for-ato-rule) | — |
 | [Find Reachable Good Endings in Choose Your Own Adventure Book](https://trueinterview.io/questions/15808a55-af32-4748-a811-48bd2ef1f829) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/15808a55-af32-4748-a811-48bd2ef1f829) | — |
+| [Influence policy with BI deliverables](https://trueinterview.io/questions/influence-policy-with-bi-deliverables) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/influence-policy-with-bi-deliverables) | — |
 | [Items Purchase (For Java Backend Engineer)](https://trueinterview.io/questions/3c62d850-e8cd-4ef4-98c8-5402ad26e12e) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3c62d850-e8cd-4ef4-98c8-5402ad26e12e) | — |
 | [K-Means Clustering Implementation with Manual Initialization](https://trueinterview.io/questions/a6c5b902-e069-4338-a552-3b4fb74531ca) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a6c5b902-e069-4338-a552-3b4fb74531ca) | — |
 | [Minimum Time to Schedule Processes on Degrading Processors](https://trueinterview.io/questions/599e3936-06f4-4c46-b61d-f155e3b6895f) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/599e3936-06f4-4c46-b61d-f155e3b6895f) | — |
 | [Modify Array](https://trueinterview.io/questions/92f5f467-65b4-44de-b437-09d22915f525) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/92f5f467-65b4-44de-b437-09d22915f525) | — |
+| [Optimize thresholds under fraud costs](https://trueinterview.io/questions/optimize-thresholds-under-fraud-costs) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/optimize-thresholds-under-fraud-costs) | — |
 | [Similar Password (Singapore)](https://trueinterview.io/questions/f3594e7e-7600-472c-b414-1cd919d3e0a0) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f3594e7e-7600-472c-b414-1cd919d3e0a0) | — |
 | [Word Search in 2D Grid with Diagonal Moves](https://trueinterview.io/questions/2368bd69-e229-442c-ba36-d37839e9d530) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/2368bd69-e229-442c-ba36-d37839e9d530) | — |

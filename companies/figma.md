@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Figma on TrueInterview](https://trueinterview.io/problems/company/figma) · [How Figma interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/figma/README.md)
 
-**23 questions** · Senior & Staff+ 21 · ML & Research Scientist 4 · last reported Sep 2026
+**29 questions** · Senior & Staff+ 26 · ML & Research Scientist 5 · last reported Sep 2026
 
-**Rounds:** 📝 OA (1) · 📞 Phone (13) · 🏢 Onsite (16)
+**Rounds:** 📝 OA (1) · 📞 Phone (17) · 🏢 Onsite (18)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/figma-interview-process)
 
@@ -18,8 +18,10 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design)<br><sub>also [Robinhood](../companies/robinhood.md) / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +12</sub> | Phone · Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
+| [Clarify a BERT Keyphrase Span-Extraction Task](https://trueinterview.io/questions/clarify-a-bert-keyphrase-span-extraction-task) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/clarify-a-bert-keyphrase-span-extraction-task) | Aug 25, 2026 |
 | [Async Job Scheduler](https://trueinterview.io/questions/async-job-scheduler-design) | Phone · Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/async-job-scheduler-design) | Aug 12, 2026 |
 | [Design a Real-Time Canvas Comment System](https://trueinterview.io/questions/realtime-comments-design) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/realtime-comments-design) | Aug 12, 2026 |
+| [Hiring Manager Behavioral](https://trueinterview.io/questions/hiring-manager-behavioral) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/hiring-manager-behavioral) | Aug 12, 2026 |
 | [Select Table and Set Color](https://trueinterview.io/questions/figjam-table-selection-set-color) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/figjam-table-selection-set-color) | Aug 12, 2026 |
 | [Sort Documents on a 2D Plane](https://trueinterview.io/questions/sort-documents-left-to-right) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sort-documents-left-to-right) | Aug 12, 2026 |
 | [Nested String with Brackets Parsing](https://trueinterview.io/questions/nested-brackets-rich-text-parse)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [Boston Consulting Group](../companies/boston-consulting-group.md)</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/nested-brackets-rich-text-parse) | Aug 4, 2026 |
@@ -27,16 +29,20 @@
 | [Display Sort](https://trueinterview.io/questions/bd0ea67e-c112-509d-9f77-688c4ae97445) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bd0ea67e-c112-509d-9f77-688c4ae97445) | Aug 2026 |
 | [Validate INDENT/DEDENT Token Sequence](https://trueinterview.io/questions/c9e11307-d41a-5d23-8371-436987ec6541) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c9e11307-d41a-5d23-8371-436987ec6541) | Aug 2026 |
 | [Resize Stacked Rectangles — Distribute Height](https://trueinterview.io/questions/resize-rectangles-distribute-height) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/resize-rectangles-distribute-height) | Jul 9, 2026 |
-| [Design Document Layer System](https://trueinterview.io/questions/document-layer-apply-undo) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/document-layer-apply-undo) | Jul 6, 2026 |
+| [Design Document Layer System](https://trueinterview.io/questions/document-layer-apply-undo) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/document-layer-apply-undo) | Jul 6, 2026 |
 | [File System Permissions](https://trueinterview.io/questions/file-system-permissions) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/file-system-permissions) | Jul 2026 |
 | [Path Existence in Directed and Undirected Graphs with a Blocked Edge](https://trueinterview.io/questions/e7f7ba6c-551c-5ef7-9ccc-04f30e4aa149) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e7f7ba6c-551c-5ef7-9ccc-04f30e4aa149) | Jul 2026 |
 | [Template String Formatter II](https://trueinterview.io/questions/template-string-formatter-ii) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/template-string-formatter-ii) | May 14, 2026 |
 | [Asset / Template Recommendation & Feed](https://trueinterview.io/questions/ml-recsys-assets-feed) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/ml-recsys-assets-feed) | Apr 13, 2026 |
 | [ML Model Design — Prompt-to-Design Generation](https://trueinterview.io/questions/prompt-to-design-generation) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/prompt-to-design-generation) | Apr 13, 2026 |
+| [Describe your most and least engaging work](https://trueinterview.io/questions/describe-your-most-and-least-engaging-work) | Phone | Mid · **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/describe-your-most-and-least-engaging-work) | Apr 9, 2026 |
 | [Design A Feed Recommendation System](https://trueinterview.io/questions/design-a-feed-recommendation-system-2)<br><sub>also [eBay](../companies/ebay.md) / [Perplexity](../companies/perplexity.md) / [Pinterest](../companies/pinterest.md)</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-feed-recommendation-system-2) | Apr 2026 |
 | [Design A Top K Popular Items System](https://trueinterview.io/questions/design-popular-products-for-a-shopping-homepage)<br><sub>also [Uber](../companies/uber.md) / [Atlassian](../companies/atlassian.md) / [Bloomberg](../companies/bloomberg.md) / +4</sub> | Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-popular-products-for-a-shopping-homepage) | Mar 24, 2026 |
 | [Data Engineer Screen — SQL Collaborator Model + IPv4 Validation](https://trueinterview.io/questions/data-engineer-sql-collaborator-ip-validation) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/data-engineer-sql-collaborator-ip-validation) | Mar 3, 2026 |
 | [Validate an IPv4 address string](https://trueinterview.io/questions/validate-an-ipv4-address-string) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-an-ipv4-address-string) | Jan 20, 2026 |
 | [Write SQL for first share and closest collaborator](https://trueinterview.io/questions/write-sql-for-first-share-and-closest-collaborator) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-first-share-and-closest-collaborator) | Jan 20, 2026 |
+| [Deep Dive — What Happens When You Access a URL](https://trueinterview.io/questions/deep-dive-url-request-lifecycle) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/deep-dive-url-request-lifecycle) | Feb 1, 2025 |
 | [BERT Span / Keyphrase Extraction](https://trueinterview.io/questions/bert-keyphrase-span-extraction) | Phone | Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/bert-keyphrase-span-extraction) | Dec 24, 2024 |
+| [Deliver a crisp self-introduction](https://trueinterview.io/questions/deliver-a-crisp-self-introduction) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/deliver-a-crisp-self-introduction) | Oct 2024 |
 | [Template & Instance System with Update Propagation](https://trueinterview.io/questions/template-instance-propagation-system) | Onsite | **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/template-instance-propagation-system) | May 28, 2024 |
+| [Negotiate Figma compensation analytically](https://trueinterview.io/questions/negotiate-figma-compensation-analytically) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/negotiate-figma-compensation-analytically) | — |

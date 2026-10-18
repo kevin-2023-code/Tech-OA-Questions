@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Palantir on TrueInterview](https://trueinterview.io/problems/company/palantir) · [How Palantir interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/palantir/README.md)
 
-**11 questions** · Senior & Staff+ 8 · last reported Aug 2026
+**12 questions** · Senior & Staff+ 9 · last reported Aug 2026
 
-**Rounds:** 📝 OA (3) · 📞 Phone (4) · 🏢 Onsite (4)
+**Rounds:** 📝 OA (3) · 📞 Phone (4) · 🏢 Onsite (5)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/palantir-interview-process)
 
@@ -23,6 +23,7 @@
 | [Implement a Balanced Session Manager](https://trueinterview.io/questions/6b7a482e-7173-44d2-a93e-b90670a7ab10) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/6b7a482e-7173-44d2-a93e-b90670a7ab10) | May 2026 |
 | [Design a Server Metrics Monitor](https://trueinterview.io/questions/design-a-server-metrics-monitor) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-server-metrics-monitor) | Mar 8, 2026 |
 | [Find Shortest Paths in Road Network](https://trueinterview.io/questions/find-shortest-paths-in-road-network) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-shortest-paths-in-road-network) | Mar 8, 2026 |
+| [Handle value conflicts and disagreeing with leadership](https://trueinterview.io/questions/handle-value-conflicts-and-disagreeing-with-leadership) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/handle-value-conflicts-and-disagreeing-with-leadership) | Jan 6, 2026 |
 | [Minimal Operations](https://trueinterview.io/questions/1eaa7066-9ac8-467b-a088-175cfbfda50e)<br><sub>also [Salesforce](../companies/salesforce.md) / [Akuna Capital](../companies/akuna-capital.md)</sub> | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/1eaa7066-9ac8-467b-a088-175cfbfda50e) | Jul 2025 |
 | [Efficient Text Search with Proximity Constraint](https://trueinterview.io/questions/213917cc-da0a-4482-8899-3cde0c1d35b6) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/213917cc-da0a-4482-8899-3cde0c1d35b6) | Mar 2025 |
 | [Minimize Path Value](https://trueinterview.io/questions/dd4f6e70-6178-4ec4-b51f-5c77cea28a3d)<br><sub>also [Salesforce](../companies/salesforce.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/dd4f6e70-6178-4ec4-b51f-5c77cea28a3d) | — |

@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Square on TrueInterview](https://trueinterview.io/problems/company/square) · [How Square interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/square/README.md)
 
-**14 questions** · Senior & Staff+ 11 · last reported Jun 2026
+**16 questions** · Senior & Staff+ 13 · ML & Research Scientist 1 · last reported Jun 2026
 
-**Rounds:** 📞 Phone (6) · 🏢 Onsite (9)
+**Rounds:** 📞 Phone (6) · 🏢 Onsite (11)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -18,6 +18,8 @@
 | [Design Hotel Booking System](https://trueinterview.io/questions/booking-system-design)<br><sub>also [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / +6</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/booking-system-design) | Jun 17, 2026 |
 | [Design Connect Four](https://trueinterview.io/questions/board-game-ood)<br><sub>also [Airbnb](../companies/airbnb.md) / [Snowflake](../companies/snowflake.md)</sub> | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/board-game-ood) | May 24, 2026 |
 | [Build a Trust-Aware BIN Database](https://trueinterview.io/questions/build-a-trust-aware-bin-database) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/build-a-trust-aware-bin-database) | Apr 27, 2026 |
+| [Explain an AI-Assisted Engineering Workflow You Can Defend](https://trueinterview.io/questions/explain-an-ai-assisted-engineering-workflow-you-can-defend) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-an-ai-assisted-engineering-workflow-you-can-defend) | Apr 27, 2026 |
+| [Lead a High-Leverage Project in a Regulated Legacy System](https://trueinterview.io/questions/lead-a-high-leverage-project-in-a-regulated-legacy-system) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/lead-a-high-leverage-project-in-a-regulated-legacy-system) | Apr 27, 2026 |
 | [Stock Trading Agent System Design](https://trueinterview.io/questions/stock-trading-agent-system-design)<br><sub>also [Databricks](../companies/databricks.md)</sub> | Phone · Onsite | **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/stock-trading-agent-system-design) | Apr 6, 2026 |
 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-stock-order-trade-management-system)<br><sub>also [Robinhood](../companies/robinhood.md) / [Coinbase](../companies/coinbase.md) / [Databricks](../companies/databricks.md)</sub> | Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Apr 2026 |
 | [Black Cell Covering Block List](https://trueinterview.io/questions/black-cell-covering-block-list) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/black-cell-covering-block-list) | Nov 11, 2025 |

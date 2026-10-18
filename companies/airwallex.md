@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Airwallex on TrueInterview](https://trueinterview.io/problems/company/airwallex) · [How Airwallex interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/airwallex/README.md)
 
-**8 questions** · Senior & Staff+ 7 · last reported Sep 2026
+**13 questions** · Senior & Staff+ 12 · ML & Research Scientist 1 · last reported Sep 2026
 
-**Rounds:** 📞 Phone (5) · 🏢 Onsite (4)
+**Rounds:** 📞 Phone (6) · 🏢 Onsite (8)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -16,10 +16,15 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Design a Real-Time Robot Chase Game on a Weighted Terrain Grid](https://trueinterview.io/questions/design-a-real-time-robot-chase-game-on-a-weighted-terrain-grid) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-real-time-robot-chase-game-on-a-weighted-terrain-grid) | 🆕 Sep 10, 2026 |
+| [How You Use AI Tools at Work and When You Would Delegate a Task to an Agent](https://trueinterview.io/questions/how-you-use-ai-tools-at-work-and-when-you-would-delegate-a-task-to-an-agent) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/how-you-use-ai-tools-at-work-and-when-you-would-delegate-a-task-to-an-agent) | 🆕 Sep 10, 2026 |
 | [Merge Hundreds of Paginated Sorted Sources into One Deduplicated Record Stream](https://trueinterview.io/questions/merge-hundreds-of-paginated-sorted-sources-into-one-deduplicated-record-stream) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/merge-hundreds-of-paginated-sorted-sources-into-one-deduplicated-record-stream) | 🆕 Sep 10, 2026 |
 | [Largest Square of Ones](https://trueinterview.io/questions/largest-square-of-ones) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/largest-square-of-ones) | Sep 2, 2026 |
 | [Design a Large-File Upload and Analysis Flow](https://trueinterview.io/questions/design-a-large-file-upload-and-analysis-flow)<br><sub>also [Pinterest](../companies/pinterest.md)</sub> | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-large-file-upload-and-analysis-flow) | Sep 1, 2026 |
 | [Design a High-Demand Ticketing System](https://trueinterview.io/questions/design-a-high-demand-ticketing-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-high-demand-ticketing-system) | Aug 9, 2026 |
 | [Largest Rectangle in Histogram](https://trueinterview.io/questions/largest-rectangle-histogram)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Phone · Onsite | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/largest-rectangle-histogram) | Jan 29, 2026 |
 | [Compute Moderation View Metrics](https://trueinterview.io/questions/compute-moderation-view-metrics) | Onsite | **Senior** · **Staff+** | SQL | [![Free][f]](https://trueinterview.io/questions/compute-moderation-view-metrics) | Nov 14, 2025 |
+| [Investigate Harassment Surge and Mitigation](https://trueinterview.io/questions/investigate-harassment-surge-and-mitigation) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/investigate-harassment-surge-and-mitigation) | Nov 14, 2025 |
 | [Monthly violation-type distribution.](https://trueinterview.io/questions/compute-moderation-view-metrics-monthly-violation-type-distribution) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-moderation-view-metrics-monthly-violation-type-distribution) | Nov 14, 2025 |
+| [How do you resolve partner conflict?](https://trueinterview.io/questions/how-do-you-resolve-partner-conflict) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-resolve-partner-conflict) | Oct 24, 2025 |
+| [Diagnose a dip in approval/conversion rate](https://trueinterview.io/questions/diagnose-a-dip-in-approval-conversion-rate) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-a-dip-in-approval-conversion-rate) | Oct 14, 2025 |
+| [How would you test swapping two CTA buttons?](https://trueinterview.io/questions/how-would-you-test-swapping-two-cta-buttons) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-test-swapping-two-cta-buttons) | Oct 14, 2025 |

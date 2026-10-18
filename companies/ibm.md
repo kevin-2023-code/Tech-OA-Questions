@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice IBM on TrueInterview](https://trueinterview.io/problems/company/ibm) · [How IBM interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/ibm/README.md)
 
-**34 questions** · Senior & Staff+ 7 · ML & Research Scientist 1 · last reported Oct 2026
+**40 questions** · Senior & Staff+ 9 · ML & Research Scientist 2 · last reported Oct 2026
 
-**Rounds:** 📝 OA (23) · 📞 Phone (10) · 🏢 Onsite (1)
+**Rounds:** 📝 OA (23) · 📞 Phone (14) · 🏢 Onsite (3)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/ibm-interview-process)
 
@@ -30,10 +30,16 @@
 | [Count strictly decreasing-by-1 subarrays of length at least 2](https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16) | Apr 2026 |
 | [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de)<br><sub>also [Meta](../companies/meta.md) / [Oracle](../companies/oracle.md)</sub> | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | Apr 2026 |
 | [Maximum Number of Palindromic Strings](https://trueinterview.io/questions/maximum-palindromic-strings)<br><sub>also [Salesforce](../companies/salesforce.md)</sub> | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-palindromic-strings) | Mar 19, 2026 |
+| [DevSecOps Kubernetes / CI-CD Technical Screen](https://trueinterview.io/questions/devsecops-kubernetes-cicd-screen) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/devsecops-kubernetes-cicd-screen) | Feb 23, 2026 |
 | [Maximum Palindromes After Cross-String Swaps](https://trueinterview.io/questions/maximum-palindromes-after-cross-string-swaps) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-palindromes-after-cross-string-swaps) | Feb 22, 2026 |
 | [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Feb 22, 2026 |
+| [Competency and Resume Interview](https://trueinterview.io/questions/competency-and-resume-interview) | Onsite | Intern · Mid | blog | [![Free][f]](https://trueinterview.io/questions/competency-and-resume-interview) | Feb 5, 2026 |
+| [How would you use generative AI at work?](https://trueinterview.io/questions/how-would-you-use-generative-ai-at-work) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-use-generative-ai-at-work) | Feb 2026 |
 | [Reverse Last Two Characters with a Space](https://trueinterview.io/questions/aed17c65-c5b3-4e56-a00d-9edbfd9f0f59) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/aed17c65-c5b3-4e56-a00d-9edbfd9f0f59) | Feb 2026 |
 | [Design a lead-scoring model](https://trueinterview.io/questions/design-a-lead-scoring-model) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-a-lead-scoring-model) | Jan 17, 2026 |
+| [Estimate free-trial conversion probability](https://trueinterview.io/questions/estimate-free-trial-conversion-probability) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/estimate-free-trial-conversion-probability) | Jan 17, 2026 |
+| [Describe building statistical vs ML models](https://trueinterview.io/questions/describe-building-statistical-vs-ml-models) | Phone | Intern · New grad | blog | [![Free][f]](https://trueinterview.io/questions/describe-building-statistical-vs-ml-models) | Nov 9, 2025 |
+| [How do you detect and fix multicollinearity?](https://trueinterview.io/questions/how-do-you-detect-and-fix-multicollinearity) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-detect-and-fix-multicollinearity) | Nov 9, 2025 |
 | [JSON Prediction Diff](https://trueinterview.io/questions/json-prediction-diff) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/json-prediction-diff) | Nov 7, 2025 |
 | [Minimum Insertions to Form Repeated abc Pattern](https://trueinterview.io/questions/minimum-insertions-to-abc-pattern) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-insertions-to-abc-pattern) | Nov 7, 2025 |
 | [Process Execution Time (Merge Inclusive Intervals)](https://trueinterview.io/questions/process-execution-time-merge-intervals)<br><sub>also [Capital One](../companies/capital-one.md)</sub> | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/process-execution-time-merge-intervals) | Nov 3, 2025 |

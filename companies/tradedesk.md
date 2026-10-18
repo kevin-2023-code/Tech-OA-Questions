@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Tradedesk on TrueInterview](https://trueinterview.io/problems/company/tradedesk) · [How Tradedesk interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/tradedesk/README.md)
 
-**21 questions** · Senior & Staff+ 11 · last reported Sep 2026
+**22 questions** · Senior & Staff+ 12 · last reported Sep 2026
 
-**Rounds:** 📝 OA (6) · 📞 Phone (9) · 🏢 Onsite (6)
+**Rounds:** 📝 OA (6) · 📞 Phone (9) · 🏢 Onsite (7)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/tradedesk-interview-process)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Debug a Frontend Component That Shows Wrong API Results](https://trueinterview.io/questions/debug-a-frontend-component-that-shows-wrong-api-results) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/debug-a-frontend-component-that-shows-wrong-api-results) | 🆕 Sep 15, 2026 |
 | [Implement a Publish-Subscribe Event Bus in JavaScript or TypeScript](https://trueinterview.io/questions/implement-a-publish-subscribe-event-bus-in-javascript-or-typescript) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-publish-subscribe-event-bus-in-javascript-or-typescript) | 🆕 Sep 15, 2026 |
 | [Object-Oriented Design of an Elevator Control System](https://trueinterview.io/questions/object-oriented-design-of-an-elevator-control-system) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/object-oriented-design-of-an-elevator-control-system) | 🆕 Sep 15, 2026 |
 | [Selection-State Class for an Infinite-Scroll Checkbox List with Select All](https://trueinterview.io/questions/selection-state-class-for-an-infinite-scroll-checkbox-list-with-select-all) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/selection-state-class-for-an-infinite-scroll-checkbox-list-with-select-all) | 🆕 Sep 15, 2026 |
