@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Microsoft AI on TrueInterview](https://trueinterview.io/problems/company/microsoft-ai) · [How Microsoft AI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/microsoft-ai/README.md)
 
-🧠 AI labs · **13 questions** · Senior & Staff+ 11 · ML & Research Scientist 3 · last reported Aug 2026
+🧠 AI labs · **13 questions** · Senior & Staff+ 11 · ML & Research Scientist 3 · last reported Sep 2026
 
 **Rounds:** 📝 OA (1) · 📞 Phone (5) · 🏢 Onsite (10)
 
@@ -15,13 +15,13 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game)<br><sub>also [OpenAI](../companies/openai.md) / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +1</sub> | Phone · Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 2026 |
 | [Design Distributed Web Crawler](https://trueinterview.io/questions/design-distributed-web-crawler-4)<br><sub>also [OpenAI](../companies/openai.md) / [Atlassian](../companies/atlassian.md) / [Databricks](../companies/databricks.md) / +4</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-distributed-web-crawler-4) | Aug 2026 |
-| [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game)<br><sub>also [OpenAI](../companies/openai.md) / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +1</sub> | Phone · Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Aug 2026 |
 | [Design Payment System](https://trueinterview.io/questions/payment-platform-design)<br><sub>also [ByteDance](../companies/bytedance.md) / [Affirm](../companies/affirm.md) / [Expedia](../companies/expedia.md) / +6</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/payment-platform-design) | Aug 2026 |
 | [Suffix Maximum Count](https://trueinterview.io/questions/suffix-maximum-count-2)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/suffix-maximum-count-2) | Aug 2026 |
 | [Top K Largest Elements](https://trueinterview.io/questions/top-k-largest-elements)<br><sub>also [Microsoft](../companies/microsoft.md) / [Amazon](../companies/amazon.md) / [Apple](../companies/apple.md) / +6</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/top-k-largest-elements) | Aug 2026 |
 | [Beam Search Decoding](https://trueinterview.io/questions/beam-search-decoding)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/beam-search-decoding) | Jul 29, 2026 |
-| [Design AI Chatbot App](https://trueinterview.io/questions/design-an-ai-chatbot-system)<br><sub>also [OpenAI](../companies/openai.md) / [Apple](../companies/apple.md) / [Databricks](../companies/databricks.md) / +1</sub> | Onsite | **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-an-ai-chatbot-system) | Jun 2026 |
+| [Design AI Chatbot App](https://trueinterview.io/questions/design-an-ai-chatbot-system)<br><sub>also [OpenAI](../companies/openai.md) / [Apple](../companies/apple.md) / [Databricks](../companies/databricks.md) / +1</sub> | Onsite | **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-an-ai-chatbot-system) | Jul 2026 |
 | [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9)<br><sub>also [ByteDance](../companies/bytedance.md) / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +6</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Jun 2026 |
 | [Segment Sequence Reconstruction](https://trueinterview.io/questions/segment-sequence-reconstruction-2)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/segment-sequence-reconstruction-2) | May 2026 |
 | [Design Typehead Suggestion](https://trueinterview.io/questions/sd-typeahead-autocomplete)<br><sub>also [LinkedIn](../companies/linkedin.md) / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +3</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Apr 16, 2026 |

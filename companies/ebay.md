@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice eBay on TrueInterview](https://trueinterview.io/problems/company/ebay) · [How eBay interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/ebay/README.md)
 
-**45 questions** · Senior & Staff+ 29 · ML & Research Scientist 2 · last reported Sep 2026
+**45 questions** · Senior & Staff+ 29 · ML & Research Scientist 2 · last reported Oct 2026
 
 **Rounds:** 📝 OA (13) · 📞 Phone (19) · 🏢 Onsite (18)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Print Execution Order in a DAG and Detect Cycles](https://trueinterview.io/questions/408b147f-c3d9-554c-ab3b-2b07e657b14a)<br><sub>also [ByteDance](../companies/bytedance.md) / [Amazon](../companies/amazon.md)</sub> | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/408b147f-c3d9-554c-ab3b-2b07e657b14a) | 🆕 Oct 2026 |
 | [Design Online Donation Service](https://trueinterview.io/questions/charity-donation-system)<br><sub>also [Lyft](../companies/lyft.md) / [DoorDash](../companies/doordash.md) / [Whatnot](../companies/whatnot.md)</sub> | Onsite | New grad · Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/charity-donation-system) | Sep 2026 |
 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [Confluent](../companies/confluent.md) / [Google](../companies/google.md) / +6</sub> | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | [Search in Rotated Sorted Array](https://trueinterview.io/questions/search-in-rotated-sorted-array)<br><sub>also [ByteDance](../companies/bytedance.md) / [NVIDIA](../companies/nvidia.md)</sub> | Phone · Onsite | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/search-in-rotated-sorted-array) | Aug 21, 2026 |
@@ -25,7 +26,6 @@
 | [Longest Palindromic Substring](https://trueinterview.io/questions/longest-palindromic-substring)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / [Cisco](../companies/cisco.md)</sub> | Phone | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-palindromic-substring) | Aug 2026 |
 | [Minimum Meeting Rooms](https://trueinterview.io/questions/b4adc8d7-199a-591e-a08e-e1bd7437a7f7)<br><sub>also [Ramp](../companies/ramp.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +9</sub> | Phone | New grad · Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/b4adc8d7-199a-591e-a08e-e1bd7437a7f7) | Aug 2026 |
 | [Number of Islands with Diagonal Connectivity](https://trueinterview.io/questions/305f8037-56c2-58a9-bf48-7aa7f999f65a)<br><sub>also [Google](../companies/google.md) / [LinkedIn](../companies/linkedin.md)</sub> | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/305f8037-56c2-58a9-bf48-7aa7f999f65a) | Aug 2026 |
-| [Print Execution Order in a DAG and Detect Cycles](https://trueinterview.io/questions/408b147f-c3d9-554c-ab3b-2b07e657b14a)<br><sub>also [ByteDance](../companies/bytedance.md) / [Amazon](../companies/amazon.md)</sub> | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/408b147f-c3d9-554c-ab3b-2b07e657b14a) | Aug 2026 |
 | [Valid Number](https://trueinterview.io/questions/lc-valid-number)<br><sub>also [Meta](../companies/meta.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/lc-valid-number) | Aug 2026 |
 | [Chinese Chess Horse Reachability with Blocked Legs](https://trueinterview.io/questions/8392aae1-1552-5e11-88a1-fe017ae1163b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8392aae1-1552-5e11-88a1-fe017ae1163b) | Jul 2026 |
 | [Find the K Smallest Elements from Multiple Sorted Arrays](https://trueinterview.io/questions/6c9270e7-bcc5-5ab3-9146-6dba3f254ef4) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/6c9270e7-bcc5-5ab3-9146-6dba3f254ef4) | Jul 2026 |

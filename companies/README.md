@@ -12,18 +12,18 @@ Counts are per company: a question reported at three employers is on three pages
 | [Meta](meta.md) | 🏛️ MAANG+ | 337 | 279 | 20 | — | Oct 2026 |
 | [Google](google.md) | 🏛️ MAANG+ | 294 | 205 | 7 | 4 | Oct 2026 |
 | [ByteDance](bytedance.md) | — | 264 | 180 | 17 | 3 | Oct 2026 |
-| [Uber](uber.md) | — | 225 | 169 | 12 | 2 | Sep 2026 |
+| [Uber](uber.md) | — | 225 | 169 | 12 | 2 | Oct 2026 |
 | [Microsoft](microsoft.md) | 🏛️ MAANG+ | 207 | 151 | 21 | 2 | Oct 2026 |
-| [OpenAI](openai.md) | 🧠 AI labs | 158 | 147 | 40 | — | Sep 2026 |
+| [OpenAI](openai.md) | 🧠 AI labs | 158 | 147 | 40 | — | Oct 2026 |
 | [Apple](apple.md) | 🏛️ MAANG+ | 150 | 111 | 20 | — | Oct 2026 |
 | [Snowflake](snowflake.md) | — | 133 | 81 | 4 | — | Oct 2026 |
 | [LinkedIn](linkedin.md) | — | 118 | 107 | 9 | — | Oct 2026 |
-| [DoorDash](doordash.md) | — | 108 | 87 | 6 | — | Sep 2026 |
+| [DoorDash](doordash.md) | — | 108 | 87 | 6 | — | Oct 2026 |
 | [Stripe](stripe.md) | — | 103 | 74 | 3 | 1 | Oct 2026 |
 | [Pinterest](pinterest.md) | — | 101 | 82 | 13 | — | Sep 2026 |
-| [Oracle](oracle.md) | — | 96 | 71 | 5 | — | Sep 2026 |
-| [Salesforce](salesforce.md) | — | 89 | 59 | — | — | Sep 2026 |
-| [Netflix](netflix.md) | 🏛️ MAANG+ | 88 | 77 | 7 | — | Sep 2026 |
+| [Oracle](oracle.md) | — | 96 | 71 | 5 | — | Oct 2026 |
+| [Salesforce](salesforce.md) | — | 89 | 59 | — | — | Oct 2026 |
+| [Netflix](netflix.md) | 🏛️ MAANG+ | 88 | 77 | 7 | — | Oct 2026 |
 | [Roblox](roblox.md) | — | 87 | 66 | 6 | — | Sep 2026 |
 | [Bloomberg](bloomberg.md) | — | 86 | 55 | — | 1 | Oct 2026 |
 | [Capital One](capital-one.md) | — | 84 | 49 | 7 | — | Sep 2026 |
@@ -32,25 +32,25 @@ Counts are per company: a question reported at three employers is on three pages
 | [Anthropic](anthropic.md) | 🧠 AI labs | 78 | 64 | 14 | — | Sep 2026 |
 | [Citadel](citadel.md) | 📈 Quant firms | 73 | 34 | — | 51 | Sep 2026 |
 | [Coinbase](coinbase.md) | — | 72 | 50 | 3 | 1 | Sep 2026 |
-| [Snapchat](snapchat.md) | — | 70 | 56 | 4 | 1 | Sep 2026 |
+| [Snapchat](snapchat.md) | — | 70 | 56 | 4 | 1 | Oct 2026 |
 | [Waymo](waymo.md) | — | 64 | 42 | 11 | 1 | Sep 2026 |
 | [Atlassian](atlassian.md) | — | 61 | 56 | 3 | — | Sep 2026 |
-| [Goldman Sachs](goldman-sachs.md) | — | 53 | 28 | 2 | 1 | Sep 2026 |
-| [Rippling](rippling.md) | — | 49 | 42 | — | — | Sep 2026 |
-| [eBay](ebay.md) | — | 45 | 29 | 2 | — | Sep 2026 |
+| [Goldman Sachs](goldman-sachs.md) | — | 53 | 28 | 2 | 1 | Oct 2026 |
+| [Rippling](rippling.md) | — | 49 | 42 | — | — | Oct 2026 |
+| [eBay](ebay.md) | — | 45 | 29 | 2 | — | Oct 2026 |
 | [Tesla](tesla.md) | — | 45 | 25 | 5 | — | Sep 2026 |
 | [Robinhood](robinhood.md) | — | 44 | 39 | 3 | — | Sep 2026 |
-| [Lyft](lyft.md) | — | 43 | 31 | 3 | — | Sep 2026 |
+| [Lyft](lyft.md) | — | 43 | 31 | 3 | — | Oct 2026 |
 | [Two Sigma](two-sigma.md) | 📈 Quant firms | 41 | 21 | 1 | 28 | Aug 2026 |
 | [xAI](xai.md) | 🧠 AI labs | 39 | 34 | 5 | — | Sep 2026 |
 | [Instacart](instacart.md) | — | 38 | 25 | 3 | — | Sep 2026 |
 | [NVIDIA](nvidia.md) | — | 38 | 23 | 5 | — | Sep 2026 |
 | [Reddit](reddit.md) | — | 35 | 29 | 9 | — | Sep 2026 |
 | [Expedia](expedia.md) | — | 34 | 23 | 2 | — | Sep 2026 |
-| [IBM](ibm.md) | — | 34 | 7 | 1 | — | Sep 2026 |
+| [IBM](ibm.md) | — | 34 | 7 | 1 | — | Oct 2026 |
 | [Squarepoint](squarepoint.md) | 📈 Quant firms | 34 | 16 | — | 18 | Aug 2026 |
 | [Ramp](ramp.md) | — | 33 | 15 | — | 2 | Sep 2026 |
-| [Verkada](verkada.md) | — | 32 | 14 | — | 1 | Sep 2026 |
+| [Verkada](verkada.md) | — | 32 | 14 | — | 1 | Oct 2026 |
 | [Akuna Capital](akuna-capital.md) | 📈 Quant firms | 31 | 4 | — | 27 | Aug 2026 |
 | [SoFi](sofi.md) | — | 30 | 17 | — | — | Sep 2026 |
 | [Applied Intuition](applied-intuition.md) | — | 29 | 18 | — | — | Sep 2026 |
@@ -78,11 +78,11 @@ Counts are per company: a question reported at three employers is on three pages
 | [Affirm](affirm.md) | — | 17 | 12 | 1 | — | Sep 2026 |
 | [Whatnot](whatnot.md) | — | 17 | 16 | 1 | — | Sep 2026 |
 | [Dropbox](dropbox.md) | — | 15 | 12 | — | — | Jun 2026 |
-| [Visa](visa.md) | — | 15 | 12 | — | — | Aug 2026 |
+| [Visa](visa.md) | — | 15 | 12 | — | — | Sep 2026 |
 | [Square](square.md) | — | 14 | 11 | — | — | Jun 2026 |
 | [Vanta](vanta.md) | — | 14 | 7 | 1 | — | Sep 2026 |
 | [HubSpot](hubspot.md) | — | 13 | 10 | — | — | Jul 2026 |
-| [Microsoft AI](microsoft-ai.md) | 🧠 AI labs | 13 | 11 | 3 | — | Aug 2026 |
+| [Microsoft AI](microsoft-ai.md) | 🧠 AI labs | 13 | 11 | 3 | — | Sep 2026 |
 | [Okta](okta.md) | — | 12 | 8 | — | — | Aug 2026 |
 | [Jane Street](jane-street.md) | 📈 Quant firms | 11 | 11 | — | 11 | Aug 2026 |
 | [Nuro](nuro.md) | — | 11 | 11 | 3 | — | Aug 2026 |
@@ -116,7 +116,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Gusto](gusto.md) | — | 5 | 4 | — | — | Sep 2026 |
 | [Mercor](mercor.md) | 🧠 AI labs | 5 | 5 | 1 | — | Sep 2026 |
 | [OKX](okx.md) | — | 5 | 3 | — | — | Aug 2026 |
-| [Rokt](rokt.md) | — | 5 | 2 | — | — | Sep 2026 |
+| [Rokt](rokt.md) | — | 5 | 2 | — | — | Oct 2026 |
 | [Sigmacomputing](sigmacomputing.md) | — | 5 | 2 | — | — | Jul 2026 |
 | [StackAdapt](stackadapt.md) | — | 5 | 4 | — | — | Aug 2026 |
 | [Thumbtack](thumbtack.md) | — | 5 | 5 | — | — | — |

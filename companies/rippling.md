@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Rippling on TrueInterview](https://trueinterview.io/problems/company/rippling) · [How Rippling interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/rippling/README.md)
 
-**49 questions** · Senior & Staff+ 42 · last reported Sep 2026
+**49 questions** · Senior & Staff+ 42 · last reported Oct 2026
 
 **Rounds:** 📝 OA (1) · 📞 Phone (30) · 🏢 Onsite (27)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Median of Two Sorted Arrays](https://trueinterview.io/questions/median-of-two-sorted-arrays)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +1</sub> | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/median-of-two-sorted-arrays) | 🆕 Oct 2026 |
 | [Design Raw and Computed Spreadsheet Views](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | 🆕 Sep 18, 2026 |
 | [Bill Deliveries with Historical Rates and Deferred Rounding](https://trueinterview.io/questions/bill-deliveries-with-historical-rates-and-deferred-rounding) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bill-deliveries-with-historical-rates-and-deferred-rounding) | 🆕 Sep 13, 2026 |
 | [Extend an Expense Rules Engine with Nested Boolean Conditions](https://trueinterview.io/questions/extend-an-expense-rules-engine-with-nested-boolean-conditions) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/extend-an-expense-rules-engine-with-nested-boolean-conditions) | 🆕 Sep 11, 2026 |
@@ -31,7 +32,6 @@
 | [Delivery Cost Calculate](https://trueinterview.io/questions/delivery-billing-system) | Phone · Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/delivery-billing-system) | Jun 18, 2026 |
 | [Expense System](https://trueinterview.io/questions/expense-rules-engine) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/expense-rules-engine) | Jun 18, 2026 |
 | [Design Hotel Booking System](https://trueinterview.io/questions/booking-system-design)<br><sub>also [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / +6</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/booking-system-design) | Jun 17, 2026 |
-| [Median of Two Sorted Arrays](https://trueinterview.io/questions/median-of-two-sorted-arrays)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +1</sub> | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/median-of-two-sorted-arrays) | Jun 16, 2026 |
 | [Logger System](https://trueinterview.io/questions/logger-system-ood) | Phone | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/logger-system-ood) | Jun 9, 2026 |
 | [Design a News Aggregation Feed](https://trueinterview.io/questions/design-a-news-aggregation-feed)<br><sub>also [Snapchat](../companies/snapchat.md)</sub> | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-news-aggregation-feed) | Jun 2026 |
 | [Task Management Filtering and Sorting](https://trueinterview.io/questions/159a317a-4e4a-5e58-8900-ec4aae417823)<br><sub>also [Meta](../companies/meta.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/159a317a-4e4a-5e58-8900-ec4aae417823) | Jun 2026 |
@@ -52,7 +52,6 @@
 | [Implement a balance tracker and interval merger](https://trueinterview.io/questions/implement-a-balance-tracker-and-interval-merger) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-balance-tracker-and-interval-merger) | Mar 10, 2026 |
 | [Delivery Cost Problem](https://trueinterview.io/questions/bff10176-f542-49a7-972c-e05025a0460d) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bff10176-f542-49a7-972c-e05025a0460d) | Mar 2026 |
 | [Design an Ad Event Aggregator](https://trueinterview.io/questions/design-an-ad-event-aggregator)<br><sub>also [Netflix](../companies/netflix.md) / [Apple](../companies/apple.md)</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-ad-event-aggregator) | Mar 2026 |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / [LinkedIn](../companies/linkedin.md) / +7</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Mar 2026 |
 | [Merge Intervals](https://trueinterview.io/questions/merge-intervals)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +12</sub> | Phone | — | Coding | [![Free][f]](https://trueinterview.io/questions/merge-intervals) | Feb 4, 2026 |
 | [Find the Best and Worst Completion of a Partial Numeric Hand](https://trueinterview.io/questions/find-the-best-and-worst-completion-of-a-partial-numeric-hand) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-best-and-worst-completion-of-a-partial-numeric-hand) | Jan 25, 2026 |
 | [In-Memory Key-Value Store with Transactions](https://trueinterview.io/questions/in-memory-key-value-store-with-transactions)<br><sub>also [xAI](../companies/xai.md)</sub> | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/in-memory-key-value-store-with-transactions) | Jan 2026 |
@@ -65,4 +64,5 @@
 | [Delivery Problem](https://trueinterview.io/questions/9723bf30-4088-44d6-819e-b5dbee4d6c4b) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/9723bf30-4088-44d6-819e-b5dbee4d6c4b) | Oct 2025 |
 | [Convert amounts between multiple currencies](https://trueinterview.io/questions/convert-amounts-between-multiple-currencies) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/convert-amounts-between-multiple-currencies) | — |
 | [Maximize Amount After Two Days of Conversions](https://trueinterview.io/questions/maximize-amount-after-two-days-of-conversions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-amount-after-two-days-of-conversions) | — |
+| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / [LinkedIn](../companies/linkedin.md) / +7</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | [SQL Aggregation and Percentage Calculation](https://trueinterview.io/questions/52404848-b8f6-477d-85a4-d58a360ae9e7) | OA | New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/52404848-b8f6-477d-85a4-d58a360ae9e7) | — |

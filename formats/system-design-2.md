@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**703 questions** · 656 at Senior/Staff+ · 166 reported in the last 90 days · 34 free to solve
+**703 questions** · 656 at Senior/Staff+ · 171 reported in the last 90 days · 34 free to solve
 
 **Rounds:** 📝 OA (10) · 📞 Phone (247) · 🏢 Onsite (487) · 🏠 Take-home (1)
 
@@ -37,7 +37,6 @@
 | **[Uber](../companies/uber.md)** | [Design cart management lifecycle service](https://trueinterview.io/questions/design-cart-management-lifecycle-service) | Phone | Manager | System design | [![Practice][p]](https://trueinterview.io/questions/design-cart-management-lifecycle-service) | Mar 1, 2026 |
 | **[Axon](../companies/axon.md)** | [Design fulfillment truck routing and inventory system](https://trueinterview.io/questions/design-fulfillment-truck-routing-and-inventory-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-fulfillment-truck-routing-and-inventory-system) | Mar 1, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Design a Global Config Deployment System](https://trueinterview.io/questions/design-a-global-config-deployment-system) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-global-config-deployment-system) | Mar 2026 |
-| **[DoorDash](../companies/doordash.md)** | [Design a multi-channel notification system](https://trueinterview.io/questions/design-a-multi-channel-notification-system-2) | OA | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-multi-channel-notification-system-2) | Mar 2026 |
 | **[xAI](../companies/xai.md)** / [Amazon](../companies/amazon.md) / [OpenAI](../companies/openai.md) | [Design a RAG System](https://trueinterview.io/questions/design-a-rag-system) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-rag-system) | Mar 2026 |
 | **[Tesla](../companies/tesla.md)** | [Design a remittance-file processing system](https://trueinterview.io/questions/design-booking-and-settlement-systems-design-a-remittance-file-processing-system) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-booking-and-settlement-systems-design-a-remittance-file-processing-system) | Mar 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Design a scalable recommendation serving system](https://trueinterview.io/questions/design-a-scalable-recommendation-serving-system) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-scalable-recommendation-serving-system) | Mar 2026 |
@@ -122,6 +121,7 @@
 | **[Capital One](../companies/capital-one.md)** | [Online Banking Application](https://trueinterview.io/questions/online-banking-application) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/online-banking-application) | Jan 17, 2026 |
 | **[Discord](../companies/discord.md)** | [Design Product Notification and Autocomplete Experiments](https://trueinterview.io/questions/design-product-notification-and-autocomplete-experiments) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-product-notification-and-autocomplete-experiments) | Jan 16, 2026 |
 | **[Meta](../companies/meta.md)** | [How would you drive product growth?](https://trueinterview.io/questions/how-would-you-drive-product-growth) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/how-would-you-drive-product-growth) | Jan 16, 2026 |
+| **[DoorDash](../companies/doordash.md)** | [Design a multi-channel notification system](https://trueinterview.io/questions/design-a-multi-channel-notification-system-2) | OA | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-multi-channel-notification-system-2) | Jan 14, 2026 |
 | **[Google](../companies/google.md)** | [Choose Fast or Cheap Models](https://trueinterview.io/questions/choose-fast-or-cheap-models) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/choose-fast-or-cheap-models) | Jan 10, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Host Listings Page — Aggregation Optimization](https://trueinterview.io/questions/host-listings-page-optimization) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/host-listings-page-optimization) | Jan 10, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Design a High-Throughput Distributed Cache](https://trueinterview.io/questions/high-throughput-cache-design) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/high-throughput-cache-design) | Jan 9, 2026 |

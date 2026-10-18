@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice IBM on TrueInterview](https://trueinterview.io/problems/company/ibm) · [How IBM interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/ibm/README.md)
 
-**34 questions** · Senior & Staff+ 7 · ML & Research Scientist 1 · last reported Sep 2026
+**34 questions** · Senior & Staff+ 7 · ML & Research Scientist 1 · last reported Oct 2026
 
 **Rounds:** 📝 OA (23) · 📞 Phone (10) · 🏢 Onsite (1)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Maximum Concurrent Processes / Meeting Rooms](https://trueinterview.io/questions/maximum-concurrent-processes)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md)</sub> | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-concurrent-processes) | 🆕 Oct 2026 |
 | [VM Rental Revenue from Changing Stock](https://trueinterview.io/questions/vm-rental-revenue) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/vm-rental-revenue) | 🆕 Sep 14, 2026 |
 | [Count Pythagorean Distance Triples in a Tree](https://trueinterview.io/questions/eb19b966-ee63-5b20-ba1d-112ee4780198) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/eb19b966-ee63-5b20-ba1d-112ee4780198) | Sep 2026 |
 | [Design Authentication Manager](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a)<br><sub>also [Oracle](../companies/oracle.md)</sub> | Onsite | New grad · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a) | Sep 2026 |
@@ -24,7 +25,6 @@
 | [Sum of XOR Values Over All Array Pairs](https://trueinterview.io/questions/05a3f338-fc03-5eac-9ba5-80a8b11965b1) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/05a3f338-fc03-5eac-9ba5-80a8b11965b1) | Sep 2026 |
 | [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Aug 27, 2026 |
 | [Minimum Meeting Rooms](https://trueinterview.io/questions/b4adc8d7-199a-591e-a08e-e1bd7437a7f7)<br><sub>also [Ramp](../companies/ramp.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +9</sub> | Phone | New grad · Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/b4adc8d7-199a-591e-a08e-e1bd7437a7f7) | Aug 2026 |
-| [Maximum Concurrent Processes / Meeting Rooms](https://trueinterview.io/questions/maximum-concurrent-processes)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md)</sub> | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-concurrent-processes) | Jul 2026 |
 | [Card Packets with Identical Distribution](https://trueinterview.io/questions/card-packets-with-identical-distribution)<br><sub>also [Expedia](../companies/expedia.md)</sub> | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/card-packets-with-identical-distribution) | May 30, 2026 |
 | [Count 3^x * 5^y Numbers and Decreasing Subarrays](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | Apr 25, 2026 |
 | [Count strictly decreasing-by-1 subarrays of length at least 2](https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16) | Apr 2026 |

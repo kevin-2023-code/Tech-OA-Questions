@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Oracle on TrueInterview](https://trueinterview.io/problems/company/oracle) · [How Oracle interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/oracle/README.md)
 
-**96 questions** · Senior & Staff+ 71 · ML & Research Scientist 5 · last reported Sep 2026
+**96 questions** · Senior & Staff+ 71 · ML & Research Scientist 5 · last reported Oct 2026
 
 **Rounds:** 📝 OA (9) · 📞 Phone (48) · 🏢 Onsite (42)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [LRU Cache + Thread-Safe Follow-up](https://trueinterview.io/questions/coding-lru-cache-multithread)<br><sub>also [LinkedIn](../companies/linkedin.md) / [Amazon](../companies/amazon.md) / [Apple](../companies/apple.md) / +2</sub> | Phone · Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/coding-lru-cache-multithread) | 🆕 Oct 2026 |
 | [Count Islands and Return the Largest Island Size](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | 🆕 Sep 11, 2026 |
 | [Classify Tree Nodes in SQL](https://trueinterview.io/questions/classify-tree-nodes-in-sql) | Phone | Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/classify-tree-nodes-in-sql) | 🆕 Sep 9, 2026 |
 | [Design a Five-Minute Top-K Error Log Service](https://trueinterview.io/questions/design-a-five-minute-top-k-error-log-service) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-five-minute-top-k-error-log-service) | 🆕 Sep 5, 2026 |
@@ -49,10 +50,9 @@
 | [Bottom View of a Binary Tree](https://trueinterview.io/questions/584d665b-bb3f-5462-8bf1-69df5c516571) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/584d665b-bb3f-5462-8bf1-69df5c516571) | Aug 2026 |
 | [Deploy Packages in Dependency Order](https://trueinterview.io/questions/610c4faf-c13d-5349-80df-fc912257f0c4) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/610c4faf-c13d-5349-80df-fc912257f0c4) | Aug 2026 |
 | [Design and Implement an In-Memory Cache with Eviction and Memory Bound](https://trueinterview.io/questions/d676765a-102e-4e09-bab7-29d3c707b374)<br><sub>also [Netflix](../companies/netflix.md)</sub> | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/d676765a-102e-4e09-bab7-29d3c707b374) | Aug 2026 |
-| [Dropped Requests Rate Limiter II](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | Aug 2026 |
+| [Dropped Requests (Rate Limiter)](https://trueinterview.io/questions/dropped-requests-rate-limiter)<br><sub>also [Snowflake](../companies/snowflake.md)</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/dropped-requests-rate-limiter) | Aug 2026 |
 | [Enumerate All Valid Grid Paths](https://trueinterview.io/questions/f945df71-38ee-5506-a41b-2b5b1c7306d2) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f945df71-38ee-5506-a41b-2b5b1c7306d2) | Aug 2026 |
 | [Lexicographically Maximum Substring](https://trueinterview.io/questions/97363544-69e6-5318-bbe1-a937ccd198fe) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/97363544-69e6-5318-bbe1-a937ccd198fe) | Aug 2026 |
-| [LRU Cache + Thread-Safe Follow-up](https://trueinterview.io/questions/coding-lru-cache-multithread)<br><sub>also [LinkedIn](../companies/linkedin.md) / [Amazon](../companies/amazon.md) / [Apple](../companies/apple.md) / +2</sub> | Phone · Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/coding-lru-cache-multithread) | Aug 2026 |
 | [Maximum Height of Each Island](https://trueinterview.io/questions/712ca994-03d3-589e-9d9b-9ea213f907da) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/712ca994-03d3-589e-9d9b-9ea213f907da) | Aug 2026 |
 | [Maximum Movie Rating with No Two Consecutive Skips](https://trueinterview.io/questions/425e7c94-efc5-5797-afd4-194d39da160c) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/425e7c94-efc5-5797-afd4-194d39da160c) | Aug 2026 |
 | [Partition a String into Exactly Three Palindromic Substrings](https://trueinterview.io/questions/99e7fc90-247c-5818-b72b-a1d00c992fe8) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/99e7fc90-247c-5818-b72b-a1d00c992fe8) | Aug 2026 |
@@ -79,7 +79,6 @@
 | [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de)<br><sub>also [Meta](../companies/meta.md) / [IBM](../companies/ibm.md)</sub> | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | Apr 2026 |
 | [Compute letter frequencies from encoded string](https://trueinterview.io/questions/compute-letter-frequencies-from-encoded-string) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-letter-frequencies-from-encoded-string) | Mar 1, 2026 |
 | [Return a valid course completion order](https://trueinterview.io/questions/return-a-valid-course-completion-order) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/return-a-valid-course-completion-order) | Mar 2026 |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Mar 2026 |
 | [Video Upload + Search with LLM](https://trueinterview.io/questions/system-design-video-upload-search) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-video-upload-search) | Feb 13, 2026 |
 | [Hospital Appointment Booking API](https://trueinterview.io/questions/hospital-appointment-booking-api) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/hospital-appointment-booking-api) | Feb 4, 2026 |
 | [Simplified Redis-Like KV / List Store](https://trueinterview.io/questions/simplified-redis-kv-store) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/simplified-redis-kv-store) | Feb 4, 2026 |
@@ -93,7 +92,6 @@
 | [Count Interior Islands After Flooding](https://trueinterview.io/questions/count-interior-islands-after-flooding) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-interior-islands-after-flooding) | Jan 9, 2026 |
 | [Container With Most Water](https://trueinterview.io/questions/container-with-most-water-2) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/container-with-most-water-2) | Jan 6, 2026 |
 | [First-Login Only-Once User Tracker (O(1) Worst-Case)](https://trueinterview.io/questions/first-unique-login-tracker) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/first-unique-login-tracker) | Dec 1, 2025 |
-| [Dropped Requests (Rate Limiter)](https://trueinterview.io/questions/dropped-requests-rate-limiter)<br><sub>also [Snowflake](../companies/snowflake.md)</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/dropped-requests-rate-limiter) | Nov 29, 2025 |
 | [Circular Prime Number Check](https://trueinterview.io/questions/circular-prime-number-check) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/circular-prime-number-check) | Nov 24, 2025 |
 | [Eliminate Adjacent Duplicate Characters](https://trueinterview.io/questions/eliminate-adjacent-duplicate-characters) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/eliminate-adjacent-duplicate-characters) | Nov 24, 2025 |
 | [Find the K-th Highest Debit](https://trueinterview.io/questions/find-the-k-th-highest-debit) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-k-th-highest-debit) | Nov 24, 2025 |
@@ -113,3 +111,5 @@
 | [Simplify Expression](https://trueinterview.io/questions/simplify-parentheses-expression)<br><sub>also [Google](../companies/google.md) / [Meta](../companies/meta.md)</sub> | Onsite | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/simplify-parentheses-expression) | Jun 10, 2025 |
 | [Maximum Completable Tasks with Prerequisites (Topological)](https://trueinterview.io/questions/course-prerequisites-task-count) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/course-prerequisites-task-count) | Apr 2, 2025 |
 | [Body-Temperature Measurement Classes](https://trueinterview.io/questions/ood-patient-temperature-classes) | Onsite | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/ood-patient-temperature-classes) | Jan 15, 2025 |
+| [Dropped Requests Rate Limiter II](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | — |
+| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |

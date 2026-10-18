@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Salesforce on TrueInterview](https://trueinterview.io/problems/company/salesforce) · [How Salesforce interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/salesforce/README.md)
 
-**89 questions** · Senior & Staff+ 59 · last reported Sep 2026
+**89 questions** · Senior & Staff+ 59 · last reported Oct 2026
 
 **Rounds:** 📝 OA (25) · 📞 Phone (42) · 🏢 Onsite (28) · 🏠 Take-home (1)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Minimum Operations to Transform an Integer Using ±2^i Steps](https://trueinterview.io/questions/2ea154e2-6476-46e8-a8bf-cc076ba222ec)<br><sub>also [Microsoft](../companies/microsoft.md) / [Google](../companies/google.md) / [Uber](../companies/uber.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/2ea154e2-6476-46e8-a8bf-cc076ba222ec) | 🆕 Oct 2026 |
 | [Coffee Ordering System Design](https://trueinterview.io/questions/coffee-ordering-system) | Phone · Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/coffee-ordering-system) | Sep 2026 |
 | [Convert a Sorted Doubly Linked List to an In-Place Balanced BST](https://trueinterview.io/questions/f1aaa02f-904d-5b17-9a24-32f73f3f56a7) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f1aaa02f-904d-5b17-9a24-32f73f3f56a7) | Sep 2026 |
 | [Design an Idempotent Payment Processing Platform](https://trueinterview.io/questions/design-an-idempotent-payment-processing-platform) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-idempotent-payment-processing-platform) | Sep 2026 |
@@ -100,7 +101,6 @@
 | [Minimize Length of Longest Substring](https://trueinterview.io/questions/58c4ff99-6edc-4bf8-a18a-33ee1f085852) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/58c4ff99-6edc-4bf8-a18a-33ee1f085852) | — |
 | [Minimize Path Value](https://trueinterview.io/questions/dd4f6e70-6178-4ec4-b51f-5c77cea28a3d)<br><sub>also [Palantir](../companies/palantir.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/dd4f6e70-6178-4ec4-b51f-5c77cea28a3d) | — |
 | [Minimum Meeting Rooms Required with Capacity Constraints](https://trueinterview.io/questions/f0d3360e-1035-46b3-8e10-09e89e4ab244) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f0d3360e-1035-46b3-8e10-09e89e4ab244) | — |
-| [Minimum Operations to Transform an Integer Using ±2^i Steps](https://trueinterview.io/questions/2ea154e2-6476-46e8-a8bf-cc076ba222ec)<br><sub>also [Microsoft](../companies/microsoft.md) / [Google](../companies/google.md) / [Uber](../companies/uber.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/2ea154e2-6476-46e8-a8bf-cc076ba222ec) | — |
 | [Most Visited Marker in Sprint Training](https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f) | — |
 | [Plan Cuts](https://trueinterview.io/questions/ab773d52-94f1-4fd6-bfab-5f1fd5b30525) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ab773d52-94f1-4fd6-bfab-5f1fd5b30525) | — |
 | [Schedule Batch Difference](https://trueinterview.io/questions/196f56f0-c674-4d5d-b2f4-8e5f97f8e0c1) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/196f56f0-c674-4d5d-b2f4-8e5f97f8e0c1) | — |
