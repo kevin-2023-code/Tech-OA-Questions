@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**589 questions** · 417 at Senior/Staff+ · 120 reported in the last 90 days · 61 free to solve
+**589 questions** · 417 at Senior/Staff+ · 119 reported in the last 90 days · 61 free to solve
 
 **Rounds:** 📝 OA (45) · 📞 Phone (214) · 🏢 Onsite (389) · 🏠 Take-home (1)
 
@@ -41,8 +41,8 @@
 | **[Meta](../companies/meta.md)** | [Design and Evaluate a Solver for a 36-Card Sum-Fifteen Game](https://trueinterview.io/questions/design-and-evaluate-a-solver-for-a-36-card-sum-fifteen-game) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-evaluate-a-solver-for-a-36-card-sum-fifteen-game) | 🆕 Sep 4, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Handle API Errors with Python Requests](https://trueinterview.io/questions/handle-api-errors-with-python-requests) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/handle-api-errors-with-python-requests) | 🆕 Sep 4, 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Design a Music Player with Queue, Loop, and Shuffle](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | 🆕 Sep 3, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Design an Object-Oriented Shopping Cart](https://trueinterview.io/questions/design-an-object-oriented-shopping-cart) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-object-oriented-shopping-cart) | 🆕 Sep 2, 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Seller Task Scheduler](https://trueinterview.io/questions/seller-task-scheduler) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/seller-task-scheduler) | 🆕 Sep 2, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Design an Object-Oriented Shopping Cart](https://trueinterview.io/questions/design-an-object-oriented-shopping-cart) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-object-oriented-shopping-cart) | Sep 2, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Seller Task Scheduler](https://trueinterview.io/questions/seller-task-scheduler) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/seller-task-scheduler) | Sep 2, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Manual Queue Implementation](https://trueinterview.io/questions/manual-queue-implementation) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/manual-queue-implementation) | Sep 1, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Merge and Serialize N-ary Trees](https://trueinterview.io/questions/merge-and-serialize-n-ary-trees) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/merge-and-serialize-n-ary-trees) | Sep 1, 2026 |
 | **[Meta](../companies/meta.md)** | [Banking System (Progressive OOD)](https://trueinterview.io/questions/codesignal-oa-banking-system) | OA | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/codesignal-oa-banking-system) | Sep 2026 |

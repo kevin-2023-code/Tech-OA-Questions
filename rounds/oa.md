@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**673 questions** · 220 at Senior/Staff+ · 105 reported in the last 90 days · 117 free to solve
+**673 questions** · 220 at Senior/Staff+ · 103 reported in the last 90 days · 117 free to solve
 
 **By employer group:** 🧠 AI labs (33) · 📈 Quant firms (98) · 🏛️ MAANG+ (139)
 
@@ -31,7 +31,7 @@
 | **[Roblox](../companies/roblox.md)** | [File Chunk Range Tracking](https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges) | 🆕 Sep 9, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Find Repeated-Value Patterns in a Matrix](https://trueinterview.io/questions/find-repeated-value-patterns-in-a-matrix) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/find-repeated-value-patterns-in-a-matrix) | 🆕 Sep 7, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Subtract Blocked Periods from Allowed Deployment Windows](https://trueinterview.io/questions/subtract-blocked-periods-from-allowed-deployment-windows) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/subtract-blocked-periods-from-allowed-deployment-windows) | 🆕 Sep 4, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Binary Array Rearrangement](https://trueinterview.io/questions/binary-array-minimum-adjacent-swaps) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-array-minimum-adjacent-swaps) | 🆕 Sep 2, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Binary Array Rearrangement](https://trueinterview.io/questions/binary-array-minimum-adjacent-swaps) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-array-minimum-adjacent-swaps) | Sep 2, 2026 |
 | **[Amazon](../companies/amazon.md)** | [AI Assistant Repo Bug-Fix](https://trueinterview.io/questions/ai-assistant-repo-bug-fix) | OA | Intern · New grad · Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/ai-assistant-repo-bug-fix) | Sep 2026 |
 | **[Meta](../companies/meta.md)** | [Banking System (Progressive OOD)](https://trueinterview.io/questions/codesignal-oa-banking-system) | OA | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/codesignal-oa-banking-system) | Sep 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Build Task Management Through Records, Search, Assignment, and Completion](https://trueinterview.io/questions/build-task-management-through-records-search-assignment-and-completion) | OA | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/build-task-management-through-records-search-assignment-and-completion) | Sep 2026 |

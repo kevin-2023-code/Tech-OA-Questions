@@ -8,7 +8,7 @@
 >
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**830 questions** · 830 at Senior/Staff+ · 205 reported in the last 90 days · 53 free to solve
+**830 questions** · 830 at Senior/Staff+ · 203 reported in the last 90 days · 53 free to solve
 
 **Rounds:** 📝 OA (48) · 📞 Phone (434) · 🏢 Onsite (422) · 🏠 Take-home (1)
 
@@ -47,8 +47,8 @@
 | **[Google](../companies/google.md)** | [Evolve Duplicate Detection for Sliding Windows and Read-Heavy Queries](https://trueinterview.io/questions/evolve-duplicate-detection-for-sliding-windows-and-read-heavy-queries) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/evolve-duplicate-detection-for-sliding-windows-and-read-heavy-queries) | 🆕 Sep 3, 2026 |
 | **[Meta](../companies/meta.md)** | [Find Values Owned Only by the Selected User](https://trueinterview.io/questions/find-values-owned-only-by-the-selected-user) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/find-values-owned-only-by-the-selected-user) | 🆕 Sep 3, 2026 |
 | **[Meta](../companies/meta.md)** | [Measure Game Monetization and Validate a Reporting Repair](https://trueinterview.io/questions/measure-game-monetization-and-validate-a-reporting-repair) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-game-monetization-and-validate-a-reporting-repair) | 🆕 Sep 3, 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Detect Repeated Patterns in a String Sequence](https://trueinterview.io/questions/detect-repeated-patterns-in-a-string-sequence) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/detect-repeated-patterns-in-a-string-sequence) | 🆕 Sep 2, 2026 |
-| **[Google](../companies/google.md)** | [Next-Word Predictor](https://trueinterview.io/questions/next-word-frequency-predictor) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/next-word-frequency-predictor) | 🆕 Sep 2, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Detect Repeated Patterns in a String Sequence](https://trueinterview.io/questions/detect-repeated-patterns-in-a-string-sequence) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/detect-repeated-patterns-in-a-string-sequence) | Sep 2, 2026 |
+| **[Google](../companies/google.md)** | [Next-Word Predictor](https://trueinterview.io/questions/next-word-frequency-predictor) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/next-word-frequency-predictor) | Sep 2, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Maximum Frequency Stack](https://trueinterview.io/questions/maximum-frequency-stack) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-frequency-stack) | Sep 1, 2026 |
 | **[Amazon](../companies/amazon.md)** | [NumPy Mean and Variance with MLE Follow-Up](https://trueinterview.io/questions/numpy-mean-variance-mle) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/numpy-mean-variance-mle) | Sep 1, 2026 |
 | **[Uber](../companies/uber.md)** / [Apple](../companies/apple.md) / [Bloomberg](../companies/bloomberg.md) / +3 | [Alien Dictionary](https://trueinterview.io/questions/alien-dictionary) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/alien-dictionary) | Sep 2026 |
