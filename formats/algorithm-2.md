@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,516 questions** · 1,479 at Senior/Staff+ · 601 reported in the last 90 days · 304 free to solve
+**2,499 questions** · 1,467 at Senior/Staff+ · 598 reported in the last 90 days · 302 free to solve
 
-**Rounds:** 📝 OA (565) · 📞 Phone (1,515) · 🏢 Onsite (630) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (563) · 📞 Phone (1,501) · 🏢 Onsite (624) · 🏠 Take-home (2)
 
-**Companies:** [Amazon (220)](../companies/amazon.md) · [Google (216)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (137)](../companies/microsoft.md) · [Apple (102)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [OpenAI (63)](../companies/openai.md) · [Oracle (63)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (57)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
+**Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (59)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
 
 <sub>Page [1](algorithm.md) · **2** · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>
 
@@ -19,9 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6 | [Best Time to Buy and Sell Stock II](https://trueinterview.io/questions/best-time-to-buy-and-sell-stock-ii) | Phone | Intern · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/best-time-to-buy-and-sell-stock-ii) | Aug 2026 |
-| **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) / [Apple](../companies/apple.md) / +5 | [Best Time to Buy and Sell Stock IV](https://trueinterview.io/questions/f9da6f17-1d14-41d2-9217-eb4dc1bd4eb1) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/f9da6f17-1d14-41d2-9217-eb4dc1bd4eb1) | Aug 2026 |
-| **[Oracle](../companies/oracle.md)** | [Bottom View of a Binary Tree](https://trueinterview.io/questions/584d665b-bb3f-5462-8bf1-69df5c516571) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/584d665b-bb3f-5462-8bf1-69df5c516571) | Aug 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Bounded Event Stream Unique-Key Queries](https://trueinterview.io/questions/538d12a1-cb8b-5e5c-8a83-6766bfef0c5c) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/538d12a1-cb8b-5e5c-8a83-6766bfef0c5c) | Aug 2026 |
 | **[Uber](../companies/uber.md)** | [Cheapest Round-Trip Flight](https://trueinterview.io/questions/ef33eec5-3ed7-562d-90fa-74e18d20d37d) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ef33eec5-3ed7-562d-90fa-74e18d20d37d) | Aug 2026 |
 | **[Meta](../companies/meta.md)** | [Check for Duplicate within Range](https://trueinterview.io/questions/171ba77d-6489-4fad-8a63-72730222cf83) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/171ba77d-6489-4fad-8a63-72730222cf83) | Aug 2026 |
@@ -415,9 +412,12 @@
 | **[Snowflake](../companies/snowflake.md)** | [Reverse Alphanumeric Segments](https://trueinterview.io/questions/reverse-alphanumeric-segments) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/reverse-alphanumeric-segments) | Jun 17, 2026 |
 | **[Uber](../companies/uber.md)** | [Rate Limiter (Coding + Trade-offs)](https://trueinterview.io/questions/phone-screen-rate-limiter) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/phone-screen-rate-limiter) | Jun 16, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Stack Items into the Shortest Column (Min-Heap Load Balancing)](https://trueinterview.io/questions/shortest-column-stacking-heap) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-column-stacking-heap) | Jun 16, 2026 |
-| **[Apple](../companies/apple.md)** / [Scale AI](../companies/scale-ai.md) | [Transformer Attention Mask and Heads Coding](https://trueinterview.io/questions/transformer-attention-mask-and-heads-coding) | Phone · Onsite | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/transformer-attention-mask-and-heads-coding) | Jun 16, 2026 |
 | **[Optiver](../companies/optiver.md)** | [Build Binary Tree from Edges / S-Expression](https://trueinterview.io/questions/binary-tree-from-edges) | OA · Take-home | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-from-edges) | Jun 15, 2026 |
 | **[Google](../companies/google.md)** | [First Bad Version with Parallel Search Follow-up](https://trueinterview.io/questions/first-bad-version-parallel-search) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/first-bad-version-parallel-search) | Jun 15, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Repair Bootloader Program](https://trueinterview.io/questions/61e8a96a-9a4c-4360-8605-6dc9dced96a8) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/61e8a96a-9a4c-4360-8605-6dc9dced96a8) | Jun 15, 2026 |
+| **[Scale AI](../companies/scale-ai.md)** | [Task Processor: Dependencies and Deadlines](https://trueinterview.io/questions/task-processor-dependencies-and-deadlines) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/task-processor-dependencies-and-deadlines) | Jun 14, 2026 |
+| **[Citadel](../companies/citadel.md)** | [N-ary Tree Sum + Leaf `next` Pointer](https://trueinterview.io/questions/tree-sum-leaf-next-pointer) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tree-sum-leaf-next-pointer) | Jun 13, 2026 |
+| **[Reddit](../companies/reddit.md)** | [Chat Message Range Merge](https://trueinterview.io/questions/merge-chat-message-windows) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/merge-chat-message-windows) | Jun 12, 2026 |
+| **[eBay](../companies/ebay.md)** | [Count and Flip Binary Operations](https://trueinterview.io/questions/count-and-flip-binary-operations) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/count-and-flip-binary-operations) | Jun 12, 2026 |
 
 <sub>Page [1](algorithm.md) · **2** · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>
