@@ -19,7 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Stripe](../companies/stripe.md)** | [Payment State Machine (OA)](https://trueinterview.io/questions/payment-state-machine-oa) | OA | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/payment-state-machine-oa) | 🔥 Oct 4, 2026 |
+| **[Stripe](../companies/stripe.md)** | [Payment State Machine (OA)](https://trueinterview.io/questions/payment-state-machine-oa) | OA | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/payment-state-machine-oa) | 🆕 Oct 4, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | 🆕 Oct 3, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | 🆕 Oct 3, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/house-robber-iv) | 🆕 Oct 1, 2026 |

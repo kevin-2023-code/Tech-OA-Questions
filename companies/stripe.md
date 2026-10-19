@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Payment State Machine (OA)](https://trueinterview.io/questions/payment-state-machine-oa) | OA | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/payment-state-machine-oa) | 🔥 Oct 4, 2026 |
+| [Payment State Machine (OA)](https://trueinterview.io/questions/payment-state-machine-oa) | OA | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/payment-state-machine-oa) | 🆕 Oct 4, 2026 |
 | [AI-Assisted Coding Round (HackerRank + Claude)](https://trueinterview.io/questions/ai-assisted-coding-round) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ai-assisted-coding-round) | 🆕 Oct 2026 |
 | [Business Account Data Verification](https://trueinterview.io/questions/business-account-data-verification) | OA | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/business-account-data-verification) | 🆕 Oct 2026 |
 | [Deployment Window Scheduler](https://trueinterview.io/questions/deployment-window-scheduler-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/deployment-window-scheduler-oa) | 🆕 Oct 2026 |

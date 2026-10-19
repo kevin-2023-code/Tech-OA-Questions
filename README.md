@@ -8,7 +8,7 @@
 
 Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anthropic, xAI**, **Citadel, Two Sigma, Squarepoint**, **Meta, Amazon, Google** and 128 more — **every row tagged with the level and the round it was asked in.** Synced hourly.
 
-**5,636 questions** · **4,117 at Senior/Staff+** · **467 ML & research** · **285 quant** · 769 OA · 1,240 reported in the last 90 days · 1,830 free
+**5,636 questions** · **4,117 at Senior/Staff+** · **467 ML & research** · **285 quant** · 769 OA · 1,238 reported in the last 90 days · 1,830 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
@@ -75,9 +75,9 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Google](companies/google.md)** | [Connected Crop Arrangement on a Grid](https://trueinterview.io/questions/connected-crop-arrangement-grid) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/connected-crop-arrangement-grid) | 🔥 Oct 4, 2026 |
-| **[Google](companies/google.md)** | [Course Scheduling and Dependency Variants](https://trueinterview.io/questions/course-schedule-dependency-variants) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/course-schedule-dependency-variants) | 🔥 Oct 4, 2026 |
-| **[Google](companies/google.md)** | [Longest Non-Decreasing Subarray with One Replacement](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | 🔥 Oct 4, 2026 |
+| **[Google](companies/google.md)** | [Connected Crop Arrangement on a Grid](https://trueinterview.io/questions/connected-crop-arrangement-grid) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/connected-crop-arrangement-grid) | 🆕 Oct 4, 2026 |
+| **[Google](companies/google.md)** | [Course Scheduling and Dependency Variants](https://trueinterview.io/questions/course-schedule-dependency-variants) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/course-schedule-dependency-variants) | 🆕 Oct 4, 2026 |
+| **[Google](companies/google.md)** | [Longest Non-Decreasing Subarray with One Replacement](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | 🆕 Oct 4, 2026 |
 | **[Microsoft](companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | 🆕 Oct 3, 2026 |
 | **[Amazon](companies/amazon.md)** | [Number of Islands with Max-Area and Streaming-Rows Follow-Ups](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | 🆕 Oct 3, 2026 |
 | **[Amazon](companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | 🆕 Oct 3, 2026 |

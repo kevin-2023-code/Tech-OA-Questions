@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**608 questions** · 435 at Senior/Staff+ · 138 reported in the last 90 days · 68 free to solve
+**608 questions** · 435 at Senior/Staff+ · 137 reported in the last 90 days · 68 free to solve
 
 **Rounds:** 📝 OA (46) · 📞 Phone (217) · 🏢 Onsite (405) · 🏠 Take-home (1)
 
@@ -19,7 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Stripe](../companies/stripe.md)** | [Payment State Machine (OA)](https://trueinterview.io/questions/payment-state-machine-oa) | OA | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/payment-state-machine-oa) | 🔥 Oct 4, 2026 |
+| **[Stripe](../companies/stripe.md)** | [Payment State Machine (OA)](https://trueinterview.io/questions/payment-state-machine-oa) | OA | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/payment-state-machine-oa) | 🆕 Oct 4, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Checkout Price Engine (OOD)](https://trueinterview.io/questions/checkout-price-engine-ood) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/checkout-price-engine-ood) | 🆕 Oct 2, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Tiered Rate Limiting Service](https://trueinterview.io/questions/tiered-rate-limiting-service) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/tiered-rate-limiting-service) | 🆕 Oct 1, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Chat Bot System Refactoring](https://trueinterview.io/questions/chat-bot-system-refactoring) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/chat-bot-system-refactoring) | 🆕 Oct 2026 |
@@ -56,7 +56,7 @@
 | **[Reddit](../companies/reddit.md)** | [Design Add, Overwrite, Undo, and Redo for Billing State](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | 🆕 Sep 4, 2026 |
 | **[Meta](../companies/meta.md)** | [Design and Evaluate a Solver for a 36-Card Sum-Fifteen Game](https://trueinterview.io/questions/design-and-evaluate-a-solver-for-a-36-card-sum-fifteen-game) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-evaluate-a-solver-for-a-36-card-sum-fifteen-game) | 🆕 Sep 4, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Handle API Errors with Python Requests](https://trueinterview.io/questions/handle-api-errors-with-python-requests) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/handle-api-errors-with-python-requests) | 🆕 Sep 4, 2026 |
-| **[Atlassian](../companies/atlassian.md)** | [Design a Music Player with Queue, Loop, and Shuffle](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | 🆕 Sep 3, 2026 |
+| **[Atlassian](../companies/atlassian.md)** | [Design a Music Player with Queue, Loop, and Shuffle](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | Sep 3, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design an Object-Oriented Shopping Cart](https://trueinterview.io/questions/design-an-object-oriented-shopping-cart) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-object-oriented-shopping-cart) | Sep 2, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Seller Task Scheduler](https://trueinterview.io/questions/seller-task-scheduler) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/seller-task-scheduler) | Sep 2, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Manual Queue Implementation](https://trueinterview.io/questions/manual-queue-implementation) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/manual-queue-implementation) | Sep 1, 2026 |
