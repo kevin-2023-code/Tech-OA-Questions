@@ -6,7 +6,7 @@
 
 **703 questions** · 654 at Senior/Staff+ · 172 reported in the last 90 days · 39 free to solve
 
-**Rounds:** 📝 OA (10) · 📞 Phone (248) · 🏢 Onsite (487) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (10) · 📞 Phone (250) · 🏢 Onsite (487) · 🏠 Take-home (1)
 
 **Companies:** [Meta (74)](../companies/meta.md) · [Amazon (50)](../companies/amazon.md) · [OpenAI (44)](../companies/openai.md) · [ByteDance (38)](../companies/bytedance.md) · [Google (38)](../companies/google.md) · [Uber (34)](../companies/uber.md) · [Microsoft (32)](../companies/microsoft.md) · [DoorDash (31)](../companies/doordash.md) · [LinkedIn (29)](../companies/linkedin.md) · [Roblox (26)](../companies/roblox.md) · [Databricks (25)](../companies/databricks.md) · [Airbnb (23)](../companies/airbnb.md) · [Apple (23)](../companies/apple.md) · [Snapchat (22)](../companies/snapchat.md) · [Netflix (21)](../companies/netflix.md)
 

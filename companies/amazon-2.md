@@ -6,7 +6,7 @@
 
 🏛️ MAANG+ · **467 questions** · Senior & Staff+ 289 · ML & Research Scientist 52 · Quant researcher & developer 3 · last reported Oct 2026
 
-**Rounds:** 📝 OA (53) · 📞 Phone (240) · 🏢 Onsite (210)
+**Rounds:** 📝 OA (52) · 📞 Phone (240) · 🏢 Onsite (209)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/amazon-interview-process) · [SWE](https://trueinterview.io/study/amazon-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/amazon-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/amazon-research-scientist-interview-process) · [Frontend](https://trueinterview.io/study/amazon-frontend-engineer-interview-process)
 

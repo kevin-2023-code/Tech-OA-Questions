@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,968 questions** · 2,272 at Senior/Staff+ · 671 reported in the last 90 days · 1,025 free to solve
+**2,973 questions** · 2,275 at Senior/Staff+ · 681 reported in the last 90 days · 1,025 free to solve
 
-**By employer group:** 🧠 AI labs (247) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
+**By employer group:** 🧠 AI labs (250) · 📈 Quant firms (203) · 🏛️ MAANG+ (866)
 
-**Companies:** [ByteDance (249)](../companies/bytedance.md) · [Meta (247)](../companies/meta.md) · [Amazon (240)](../companies/amazon.md) · [Google (212)](../companies/google.md) · [Uber (149)](../companies/uber.md) · [Apple (135)](../companies/apple.md) · [Microsoft (108)](../companies/microsoft.md) · [Snowflake (101)](../companies/snowflake.md) · [OpenAI (92)](../companies/openai.md) · [Capital One (88)](../companies/capital-one.md) · [LinkedIn (71)](../companies/linkedin.md) · [DoorDash (67)](../companies/doordash.md) · [Pinterest (67)](../companies/pinterest.md) · [Citadel (64)](../companies/citadel.md) · [Bloomberg (60)](../companies/bloomberg.md)
+**Companies:** [ByteDance (249)](../companies/bytedance.md) · [Meta (247)](../companies/meta.md) · [Amazon (240)](../companies/amazon.md) · [Google (213)](../companies/google.md) · [Uber (149)](../companies/uber.md) · [Apple (135)](../companies/apple.md) · [Microsoft (108)](../companies/microsoft.md) · [Snowflake (103)](../companies/snowflake.md) · [OpenAI (94)](../companies/openai.md) · [Capital One (88)](../companies/capital-one.md) · [LinkedIn (71)](../companies/linkedin.md) · [DoorDash (67)](../companies/doordash.md) · [Pinterest (67)](../companies/pinterest.md) · [Citadel (64)](../companies/citadel.md) · [Bloomberg (60)](../companies/bloomberg.md)
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · **8**</sub>
 
@@ -19,6 +19,11 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Google](../companies/google.md)** | [Measure outage impact; choose fix vs build](https://trueinterview.io/questions/measure-outage-impact-choose-fix-vs-build) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-outage-impact-choose-fix-vs-build) | — |
+| **[Uber](../companies/uber.md)** | [Measure rider incentive causal ROI](https://trueinterview.io/questions/measure-rider-incentive-causal-roi) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/measure-rider-incentive-causal-roi) | — |
+| **[Tubi](../companies/tubi.md)** | [Measure Super Bowl ad impact with causal design](https://trueinterview.io/questions/measure-super-bowl-ad-impact-with-causal-design) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/measure-super-bowl-ad-impact-with-causal-design) | — |
+| **[Google](../companies/google.md)** | [Median of K Sorted Arrays](https://trueinterview.io/questions/de10f46c-104a-598a-837a-013d53946300) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/de10f46c-104a-598a-837a-013d53946300) | — |
+| **[WeRide](../companies/weride.md)** | [Meetup Schedule](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | — |
 | **[Amazon](../companies/amazon.md)** | [Merge Multiple Timestamp-Sorted Event Streams](https://trueinterview.io/questions/f9d4f6f9-8614-52f4-b0a7-03d4f4f78ed7) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f9d4f6f9-8614-52f4-b0a7-03d4f4f78ed7) | — |
 | **[Capital One](../companies/capital-one.md)** | [Merge seven tables into one clean DataFrame](https://trueinterview.io/questions/merge-seven-tables-into-one-clean-dataframe) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/merge-seven-tables-into-one-clean-dataframe) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Mike and Gems](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | — |

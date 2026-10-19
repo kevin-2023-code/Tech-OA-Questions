@@ -8,7 +8,7 @@
 >
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**391 questions** · 391 at Senior/Staff+ · 49 reported in the last 90 days · 238 free to solve
+**391 questions** · 391 at Senior/Staff+ · 50 reported in the last 90 days · 239 free to solve
 
 **Rounds:** 📝 OA (5) · 📞 Phone (180) · 🏢 Onsite (219) · 🏠 Take-home (1)
 
@@ -62,6 +62,7 @@
 | **[Google](../companies/google.md)** | [Detect and Prevent Reward Hacking](https://trueinterview.io/questions/detect-and-prevent-reward-hacking) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/detect-and-prevent-reward-hacking) | Aug 14, 2026 |
 | **[Google](../companies/google.md)** | [Explain KL Divergence in Language Models](https://trueinterview.io/questions/explain-kl-divergence-in-language-models) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-kl-divergence-in-language-models) | Aug 14, 2026 |
 | **[Google](../companies/google.md)** | [Explain VAEs, ELBO, KL, and Reparameterization](https://trueinterview.io/questions/explain-vaes-elbo-kl-and-reparameterization) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-vaes-elbo-kl-and-reparameterization) | Aug 14, 2026 |
+| **[Apple](../companies/apple.md)** | [Behavioral Prioritization and Stakeholder Fit](https://trueinterview.io/questions/behavioral-prioritization-and-stakeholder-fit) | Phone · Onsite | Mid · **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/behavioral-prioritization-and-stakeholder-fit) | Aug 2026 |
 | **[Apple](../companies/apple.md)** | [Design APIs for a Voting System](https://trueinterview.io/questions/design-apis-for-a-voting-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-apis-for-a-voting-system) | Aug 2026 |
 | **[OpenAI](../companies/openai.md)** / [Atlassian](../companies/atlassian.md) / [Databricks](../companies/databricks.md) / +5 | [Design Distributed Web Crawler](https://trueinterview.io/questions/design-distributed-web-crawler-4) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-distributed-web-crawler-4) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** | [Implement a Priority Queue from Scratch](https://trueinterview.io/questions/96ab949c-d905-528b-9d0c-da46018b1df0) | Onsite | **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/96ab949c-d905-528b-9d0c-da46018b1df0) | Aug 2026 |
@@ -101,7 +102,6 @@
 | **[Google](../companies/google.md)** | [Explain Motivation for an Experimental Technology Team](https://trueinterview.io/questions/explain-motivation-for-an-experimental-technology-team) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-motivation-for-an-experimental-technology-team) | Apr 14, 2026 |
 | **[Meta](../companies/meta.md)** | [Troubleshoot a production server outage](https://trueinterview.io/questions/troubleshoot-a-production-server-outage) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/troubleshoot-a-production-server-outage) | Apr 12, 2026 |
 | **[Meta](../companies/meta.md)** | [Design an Online Judge and Live Comments](https://trueinterview.io/questions/design-an-online-judge-and-live-comments) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-online-judge-and-live-comments) | Apr 8, 2026 |
-| **[Apple](../companies/apple.md)** | [Design App Store Search](https://trueinterview.io/questions/design-app-store-search) | Phone · Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-app-store-search) | Apr 8, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Explain OOP design and API rollout](https://trueinterview.io/questions/explain-oop-design-and-api-rollout) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-oop-design-and-api-rollout) | Apr 7, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a Secure Copilot API](https://trueinterview.io/questions/design-a-secure-copilot-api) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-secure-copilot-api) | Apr 6, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Design an Ad Pacing System](https://trueinterview.io/questions/design-an-ad-pacing-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-ad-pacing-system) | Apr 5, 2026 |

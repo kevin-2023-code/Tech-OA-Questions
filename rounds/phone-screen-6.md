@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,968 questions** · 2,272 at Senior/Staff+ · 671 reported in the last 90 days · 1,025 free to solve
+**2,973 questions** · 2,275 at Senior/Staff+ · 681 reported in the last 90 days · 1,025 free to solve
 
-**By employer group:** 🧠 AI labs (247) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
+**By employer group:** 🧠 AI labs (250) · 📈 Quant firms (203) · 🏛️ MAANG+ (866)
 
-**Companies:** [ByteDance (249)](../companies/bytedance.md) · [Meta (247)](../companies/meta.md) · [Amazon (240)](../companies/amazon.md) · [Google (212)](../companies/google.md) · [Uber (149)](../companies/uber.md) · [Apple (135)](../companies/apple.md) · [Microsoft (108)](../companies/microsoft.md) · [Snowflake (101)](../companies/snowflake.md) · [OpenAI (92)](../companies/openai.md) · [Capital One (88)](../companies/capital-one.md) · [LinkedIn (71)](../companies/linkedin.md) · [DoorDash (67)](../companies/doordash.md) · [Pinterest (67)](../companies/pinterest.md) · [Citadel (64)](../companies/citadel.md) · [Bloomberg (60)](../companies/bloomberg.md)
+**Companies:** [ByteDance (249)](../companies/bytedance.md) · [Meta (247)](../companies/meta.md) · [Amazon (240)](../companies/amazon.md) · [Google (213)](../companies/google.md) · [Uber (149)](../companies/uber.md) · [Apple (135)](../companies/apple.md) · [Microsoft (108)](../companies/microsoft.md) · [Snowflake (103)](../companies/snowflake.md) · [OpenAI (94)](../companies/openai.md) · [Capital One (88)](../companies/capital-one.md) · [LinkedIn (71)](../companies/linkedin.md) · [DoorDash (67)](../companies/doordash.md) · [Pinterest (67)](../companies/pinterest.md) · [Citadel (64)](../companies/citadel.md) · [Bloomberg (60)](../companies/bloomberg.md)
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · **6** · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>
 
@@ -19,6 +19,11 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Jane Street](../companies/jane-street.md)** | [Solve probability and game-theory puzzles](https://trueinterview.io/questions/solve-probability-and-game-theory-puzzles) | Phone | Intern · New grad | blog | [![Free][f]](https://trueinterview.io/questions/solve-probability-and-game-theory-puzzles) | Dec 1, 2025 |
+| **[Onemain Financial](../companies/onemain-financial.md)** | [Walk through a DS project end-to-end](https://trueinterview.io/questions/walk-through-a-ds-project-end-to-end) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/walk-through-a-ds-project-end-to-end) | Dec 1, 2025 |
+| **[eBay](../companies/ebay.md)** | [Balloon Explosion](https://trueinterview.io/questions/bec1bae5-6bc3-4a83-8430-077c684da76c) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/bec1bae5-6bc3-4a83-8430-077c684da76c) | Dec 2025 |
+| **[Voleon](../companies/voleon.md)** | [Berkeley Exchange: Market Activity Tracker and Client Order Trading](https://trueinterview.io/questions/b872f7bf-50a6-41a9-9fb4-814bd3d88b0a) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b872f7bf-50a6-41a9-9fb4-814bd3d88b0a) | Dec 2025 |
+| **[Salesforce](../companies/salesforce.md)** | [Binary String 01 to 10 swap](https://trueinterview.io/questions/b997e44e-31ce-42c6-aee6-e8489a0fa721) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b997e44e-31ce-42c6-aee6-e8489a0fa721) | Dec 2025 |
 | **[DoorDash](../companies/doordash.md)** | [Calculate Total Payment for Dasher](https://trueinterview.io/questions/e6ef089b-490d-47b3-8a92-8cf96b06acec) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e6ef089b-490d-47b3-8a92-8cf96b06acec) | Dec 2025 |
 | **[Robinhood](../companies/robinhood.md)** | [Count Trigger Events in Directed Acyclic Graph](https://trueinterview.io/questions/1c708aa4-2fbb-4cc4-ae73-3c423e4e9490) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1c708aa4-2fbb-4cc4-ae73-3c423e4e9490) | Dec 2025 |
 | **[Two Sigma](../companies/two-sigma.md)** | [Data Analysis on New York Housing Prices](https://trueinterview.io/questions/79e545c0-6cc0-4940-a1ff-941b8e249bb7) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/79e545c0-6cc0-4940-a1ff-941b8e249bb7) | Dec 2025 |
@@ -414,10 +419,5 @@
 | **[Uber](../companies/uber.md)** | [Compute A/B sample size under clustering](https://trueinterview.io/questions/compute-a-b-sample-size-under-clustering) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/compute-a-b-sample-size-under-clustering) | — |
 | **[CVS Health](../companies/cvs-health.md)** | [Compute age-band spend and YoY in Georgia](https://trueinterview.io/questions/compute-age-band-spend-and-yoy-in-georgia) | Phone | Mid · **Senior** | SQL | [![Free][f]](https://trueinterview.io/questions/compute-age-band-spend-and-yoy-in-georgia) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Compute and rank top bad advertisers](https://trueinterview.io/questions/compute-and-rank-top-bad-advertisers) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-and-rank-top-bad-advertisers) | — |
-| **[Roblox](../companies/roblox.md)** | [Compute ARPDAU/ARPPU by country](https://trueinterview.io/questions/compute-arpdau-arppu-by-country) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-arpdau-arppu-by-country) | — |
-| **[Amazon](../companies/amazon.md)** | [Compute array modes with ties and no-mode rule](https://trueinterview.io/questions/compute-array-modes-with-ties-and-no-mode-rule) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-array-modes-with-ties-and-no-mode-rule) | — |
-| **[LinkedIn](../companies/linkedin.md)** | [Compute article-type diversity per user and histogram](https://trueinterview.io/questions/compute-article-type-diversity-per-user-and-histogram) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-article-type-diversity-per-user-and-histogram) | — |
-| **[Pinterest](../companies/pinterest.md)** | [Compute average unique pins per user](https://trueinterview.io/questions/compute-average-unique-pins-per-user) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-average-unique-pins-per-user) | — |
-| **[Airbnb](../companies/airbnb.md)** | [Compute browsing metrics in Python from logs](https://trueinterview.io/questions/compute-browsing-metrics-in-python-from-logs) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-browsing-metrics-in-python-from-logs) | — |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · **6** · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

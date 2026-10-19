@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**4,115 questions** · 4,115 at Senior/Staff+ · 934 reported in the last 90 days · 1,451 free to solve
+**4,113 questions** · 4,113 at Senior/Staff+ · 938 reported in the last 90 days · 1,450 free to solve
 
-**Rounds:** 📝 OA (256) · 📞 Phone (2,272) · 🏢 Onsite (1,859) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (256) · 📞 Phone (2,275) · 🏢 Onsite (1,860) · 🏠 Take-home (8)
 
-**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (247)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (93)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
+**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (246)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (92)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · **7** · [8](senior-staff-8.md) · [9](senior-staff-9.md) · [10](senior-staff-10.md) · [11](senior-staff-11.md)</sub>
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Snowflake](../companies/snowflake.md)** / [ByteDance](../companies/bytedance.md) | [Design Circular Queue](https://trueinterview.io/questions/design-circular-queue) | Phone · Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-circular-queue) | Jan 22, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Evaluate Fresh Content and Video Experiments](https://trueinterview.io/questions/evaluate-fresh-content-and-video-experiments) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-fresh-content-and-video-experiments) | Jan 22, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Explain owning and debugging infra modules](https://trueinterview.io/questions/explain-owning-and-debugging-infra-modules) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-owning-and-debugging-infra-modules) | Jan 22, 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Handle security vs velocity conflicts across teams](https://trueinterview.io/questions/handle-security-vs-velocity-conflicts-across-teams) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/handle-security-vs-velocity-conflicts-across-teams) | Jan 22, 2026 |
@@ -46,7 +45,6 @@
 | **[Anthropic](../companies/anthropic.md)** | [How should you handle misaligned interviews?](https://trueinterview.io/questions/how-should-you-handle-misaligned-interviews) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/how-should-you-handle-misaligned-interviews) | Jan 19, 2026 |
 | **[HubSpot](../companies/hubspot.md)** | [Maximum Concurrent Calls](https://trueinterview.io/questions/maximum-concurrent-calls) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-concurrent-calls) | Jan 19, 2026 |
 | **[HubSpot](../companies/hubspot.md)** / [Oracle](../companies/oracle.md) | [Most Frequent Substring](https://trueinterview.io/questions/most-frequent-substring) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/most-frequent-substring) | Jan 19, 2026 |
-| **[Google](../companies/google.md)** | [Path Minimizing the Maximum Cell (Swim in Rising Water)](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Jan 19, 2026 |
 | **[Circle](../companies/circle.md)** | [Predict Future Car Sale Prices](https://trueinterview.io/questions/predict-future-car-sale-prices) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/predict-future-car-sale-prices) | Jan 19, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Shard a Large Input Embedding Table Across Devices](https://trueinterview.io/questions/shard-a-large-input-embedding-table-across-devices) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/shard-a-large-input-embedding-table-across-devices) | Jan 19, 2026 |
 | **[Google](../companies/google.md)** | [Tree Distance Sum (Re-root DP)](https://trueinterview.io/questions/tree-distance-sum-reroot) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/tree-distance-sum-reroot) | Jan 19, 2026 |
@@ -421,5 +419,7 @@
 | **[Google](../companies/google.md)** | [How do you diagnose a ratio metric change](https://trueinterview.io/questions/how-do-you-diagnose-a-ratio-metric-change) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-diagnose-a-ratio-metric-change) | Nov 24, 2025 |
 | **[Meta](../companies/meta.md)** | [How do you expand nested placeholders in strings?](https://trueinterview.io/questions/how-do-you-expand-nested-placeholders-in-strings) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/how-do-you-expand-nested-placeholders-in-strings) | Nov 24, 2025 |
 | **[Disney](../companies/disney.md)** | [How do you manage collaboration and stakeholders?](https://trueinterview.io/questions/how-do-you-manage-collaboration-and-stakeholders) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-manage-collaboration-and-stakeholders) | Nov 24, 2025 |
+| **[Meta](../companies/meta.md)** | [How would you predict a car’s turning intention?](https://trueinterview.io/questions/how-would-you-predict-a-car-s-turning-intention) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/how-would-you-predict-a-car-s-turning-intention) | Nov 24, 2025 |
+| **[Disney](../companies/disney.md)** | [How would you run a mentoring-focused code review?](https://trueinterview.io/questions/how-would-you-run-a-mentoring-focused-code-review) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-run-a-mentoring-focused-code-review) | Nov 24, 2025 |
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · **7** · [8](senior-staff-8.md) · [9](senior-staff-9.md) · [10](senior-staff-10.md) · [11](senior-staff-11.md)</sub>

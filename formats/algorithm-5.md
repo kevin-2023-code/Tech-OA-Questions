@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,499 questions** · 1,466 at Senior/Staff+ · 597 reported in the last 90 days · 302 free to solve
+**2,499 questions** · 1,465 at Senior/Staff+ · 605 reported in the last 90 days · 302 free to solve
 
-**Rounds:** 📝 OA (563) · 📞 Phone (1,501) · 🏢 Onsite (624) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (562) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
 
 **Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (59)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Oracle](../companies/oracle.md)** / [Apple](../companies/apple.md) | [Generate all permutations of a list](https://trueinterview.io/questions/55b47ffb-5c4d-4c32-b3fc-350263687e62) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/55b47ffb-5c4d-4c32-b3fc-350263687e62) | Feb 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Implement DFS with cycle detection and topo order](https://trueinterview.io/questions/implement-dfs-with-cycle-detection-and-topo-order) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-dfs-with-cycle-detection-and-topo-order) | Feb 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Implement fast sampling for weighted k-sided die](https://trueinterview.io/questions/implement-fast-sampling-for-weighted-k-sided-die) | Phone | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-fast-sampling-for-weighted-k-sided-die) | Feb 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Atlassian](../companies/atlassian.md) | [Implement Moving Average from Data Stream](https://trueinterview.io/questions/94192aa7-a909-49a7-80b7-24c84876985d) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/94192aa7-a909-49a7-80b7-24c84876985d) | Feb 2026 |
@@ -61,7 +62,7 @@
 | **[Salesforce](../companies/salesforce.md)** | [Frontend Curry: addTwoNumbers → addThreeNumbers(a)(b)(c)](https://trueinterview.io/questions/frontend-currying-add-numbers) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/frontend-currying-add-numbers) | Jan 30, 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Implement calculator and graph connectivity](https://trueinterview.io/questions/implement-calculator-and-graph-connectivity) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-calculator-and-graph-connectivity) | Jan 30, 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Menu Tree Diff — Count Changed Nodes](https://trueinterview.io/questions/code-craft-menu-tree-diff) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/code-craft-menu-tree-diff) | Jan 30, 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [MinStack, MaxStack and Streaming Median](https://trueinterview.io/questions/streaming-median-min-max-stack) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/streaming-median-min-max-stack) | Jan 30, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [MinStack, MaxStack and Streaming Median](https://trueinterview.io/questions/streaming-median-min-max-stack) | Phone · Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/streaming-median-min-max-stack) | Jan 30, 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Sequential, Deduped, and Parallel URL Fetcher](https://trueinterview.io/questions/sequential-deduped-parallel-url-fetcher) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sequential-deduped-parallel-url-fetcher) | Jan 30, 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Service Dependency Shortest Latency Path](https://trueinterview.io/questions/service-dependency-shortest-latency-path) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/service-dependency-shortest-latency-path) | Jan 30, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Singly Linked List — Remove Duplicate Values](https://trueinterview.io/questions/linked-list-remove-duplicates) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/linked-list-remove-duplicates) | Jan 30, 2026 |
@@ -103,7 +104,6 @@
 | **[Capital One](../companies/capital-one.md)** | [Matrix Expression Max Value](https://trueinterview.io/questions/matrix-expression-max-value) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-expression-max-value) | Jan 19, 2026 |
 | **[HubSpot](../companies/hubspot.md)** | [Maximum Concurrent Calls](https://trueinterview.io/questions/maximum-concurrent-calls) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-concurrent-calls) | Jan 19, 2026 |
 | **[HubSpot](../companies/hubspot.md)** / [Oracle](../companies/oracle.md) | [Most Frequent Substring](https://trueinterview.io/questions/most-frequent-substring) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/most-frequent-substring) | Jan 19, 2026 |
-| **[Google](../companies/google.md)** | [Path Minimizing the Maximum Cell (Swim in Rising Water)](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Jan 19, 2026 |
 | **[Capital One](../companies/capital-one.md)** / [Meta](../companies/meta.md) | [Sawtooth (Alternating Parity) Subarray Count](https://trueinterview.io/questions/sawtooth-subarray-count) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/sawtooth-subarray-count) | Jan 19, 2026 |
 | **[Google](../companies/google.md)** | [Tree Distance Sum (Re-root DP)](https://trueinterview.io/questions/tree-distance-sum-reroot) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/tree-distance-sum-reroot) | Jan 19, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Vowel-Wrapped Substring Middle Reverse](https://trueinterview.io/questions/vowel-wrap-reverse-middle) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/vowel-wrap-reverse-middle) | Jan 19, 2026 |

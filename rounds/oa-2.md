@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**769 questions** · 256 at Senior/Staff+ · 137 reported in the last 90 days · 197 free to solve
+**768 questions** · 256 at Senior/Staff+ · 138 reported in the last 90 days · 197 free to solve
 
-**By employer group:** 🧠 AI labs (36) · 📈 Quant firms (116) · 🏛️ MAANG+ (165)
+**By employer group:** 🧠 AI labs (36) · 📈 Quant firms (116) · 🏛️ MAANG+ (164)
 
-**Companies:** [Amazon (53)](../companies/amazon.md) · [Capital One (44)](../companies/capital-one.md) · [ByteDance (37)](../companies/bytedance.md) · [Meta (34)](../companies/meta.md) · [Uber (34)](../companies/uber.md) · [Google (30)](../companies/google.md) · [Microsoft (30)](../companies/microsoft.md) · [Goldman Sachs (28)](../companies/goldman-sachs.md) · [Stripe (27)](../companies/stripe.md) · [Salesforce (25)](../companies/salesforce.md) · [IBM (23)](../companies/ibm.md) · [Akuna Capital (22)](../companies/akuna-capital.md) · [Cisco (19)](../companies/cisco.md) · [Coinbase (19)](../companies/coinbase.md) · [Optiver (19)](../companies/optiver.md)
+**Companies:** [Amazon (52)](../companies/amazon.md) · [Capital One (44)](../companies/capital-one.md) · [ByteDance (37)](../companies/bytedance.md) · [Meta (34)](../companies/meta.md) · [Uber (33)](../companies/uber.md) · [Google (30)](../companies/google.md) · [Microsoft (30)](../companies/microsoft.md) · [Goldman Sachs (28)](../companies/goldman-sachs.md) · [Stripe (28)](../companies/stripe.md) · [Salesforce (25)](../companies/salesforce.md) · [IBM (23)](../companies/ibm.md) · [Akuna Capital (22)](../companies/akuna-capital.md) · [Coinbase (19)](../companies/coinbase.md) · [Optiver (19)](../companies/optiver.md) · [Cisco (18)](../companies/cisco.md)
 
 <sub>Page [1](oa.md) · **2**</sub>
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Optiver](../companies/optiver.md)** | [Minimum Expected Asset Cost](https://trueinterview.io/questions/minimum-expected-asset-cost) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-expected-asset-cost) | Feb 6, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Refactor Obfuscated C++ Code (Hidden Best-Time-To-Buy-Sell)](https://trueinterview.io/questions/obfuscated-code-refactor) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/obfuscated-code-refactor) | Feb 6, 2026 |
 | **[Optiver](../companies/optiver.md)** | [Target Stock Portfolio Operations](https://trueinterview.io/questions/target-stock-portfolio-operations) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/target-stock-portfolio-operations) | Feb 6, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [TypeScript Test and Code Refactor](https://trueinterview.io/questions/typescript-refactor-oa) | OA · Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/typescript-refactor-oa) | Feb 5, 2026 |

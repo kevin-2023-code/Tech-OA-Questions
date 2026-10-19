@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,115 at Senior/Staff+ · 1,239 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,113 at Senior/Staff+ · 1,247 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (769) · 📞 Phone (2,968) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (768) · 📞 Phone (2,973) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · **8** · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -17,6 +17,8 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Apple](../companies/apple.md)** | [Bold Words in String](https://trueinterview.io/questions/bold-words-in-string) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bold-words-in-string) | Mar 3, 2026 |
+| **[Figma](../companies/figma.md)** | [Data Engineer Screen — SQL Collaborator Model + IPv4 Validation](https://trueinterview.io/questions/data-engineer-sql-collaborator-ip-validation) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/data-engineer-sql-collaborator-ip-validation) | Mar 3, 2026 |
 | **[Amplitude](../companies/amplitude.md)** | [Design a Shared Todo App](https://trueinterview.io/questions/design-a-shared-todo-app) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-shared-todo-app) | Mar 3, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design IP Range Iterator](https://trueinterview.io/questions/design-ip-range-iterator) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-ip-range-iterator) | Mar 3, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design Roblox Release Deployment Workflow](https://trueinterview.io/questions/design-roblox-release-deployment-workflow) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-roblox-release-deployment-workflow) | Mar 3, 2026 |
@@ -197,7 +199,6 @@
 | **[Oracle](../companies/oracle.md)** | [Verbal Java / CS-Fundamentals Quiz](https://trueinterview.io/questions/verbal-java-cs-fundamentals) | Phone · Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/verbal-java-cs-fundamentals) | Mar 2026 |
 | **[Uber](../companies/uber.md)** / [Meta](../companies/meta.md) | [Verifying an Alien Dictionary](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/verifying-an-alien-dictionary) | Mar 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Walking with Boost Stations (Greedy Simulation)](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Mar 2026 |
-| **[Snowflake](../companies/snowflake.md)** / [Anthropic](../companies/anthropic.md) | [Web URL Crawler at Scale](https://trueinterview.io/questions/web-url-crawler-at-scale) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/web-url-crawler-at-scale) | Mar 2026 |
 | **[StackAdapt](../companies/stackadapt.md)** | [Windowed Map (Time-Windowed Key-Value Store) with O(1) Operations and Window Average](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Mar 2026 |
 | **[Harvey](../companies/harvey.md)** | [Word Level Match and Tagging](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Mar 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Aggregate user logs into 30-minute sessions](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Feb 28, 2026 |
@@ -416,6 +417,5 @@
 | **[IBM](../companies/ibm.md)** | [Competency and Resume Interview](https://trueinterview.io/questions/competency-and-resume-interview) | Onsite | Intern · Mid | blog | [![Free][f]](https://trueinterview.io/questions/competency-and-resume-interview) | Feb 5, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Derive Backpropagation for Matrix-Product Layers](https://trueinterview.io/questions/derive-backpropagation-for-matrix-product-layers) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/derive-backpropagation-for-matrix-product-layers) | Feb 5, 2026 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Movement Command Controller](https://trueinterview.io/questions/movement-command-controller) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/movement-command-controller) | Feb 5, 2026 |
-| **[NVIDIA](../companies/nvidia.md)** | [Systems Utility Coding: Temperature Spike, Logs, Brackets](https://trueinterview.io/questions/systems-utility-coding) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/systems-utility-coding) | Feb 5, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · **8** · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

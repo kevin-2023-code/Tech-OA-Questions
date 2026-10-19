@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**4,115 questions** · 4,115 at Senior/Staff+ · 934 reported in the last 90 days · 1,451 free to solve
+**4,113 questions** · 4,113 at Senior/Staff+ · 938 reported in the last 90 days · 1,450 free to solve
 
-**Rounds:** 📝 OA (256) · 📞 Phone (2,272) · 🏢 Onsite (1,859) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (256) · 📞 Phone (2,275) · 🏢 Onsite (1,860) · 🏠 Take-home (8)
 
-**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (247)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (93)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
+**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (246)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (92)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md) · [9](senior-staff-9.md) · **10** · [11](senior-staff-11.md)</sub>
 
@@ -21,8 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Oracle](../companies/oracle.md)** | [Dropped Requests Rate Limiter II](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | — |
-| **[xAI](../companies/xai.md)** | [Durable KV Cache](https://trueinterview.io/questions/durable-kv-cache) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/durable-kv-cache) | — |
 | **[Tradedesk](../companies/tradedesk.md)** | [Earn the Most](https://trueinterview.io/questions/de01d1f2-f8dc-44ab-a3ac-256f97bf946b) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/de01d1f2-f8dc-44ab-a3ac-256f97bf946b) | — |
 | **[Gusto](../companies/gusto.md)** | [Efficient Key-Value Store with Insert, Retrieve, Delete Operations](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Energy Crisis](https://trueinterview.io/questions/bd64beb0-36d0-4d3b-9dfe-063ea75dcdf4) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bd64beb0-36d0-4d3b-9dfe-063ea75dcdf4) | — |
@@ -421,5 +419,7 @@
 | **[Meta](../companies/meta.md)** | [Simulate Linux 'cd' Command](https://trueinterview.io/questions/9ab408d8-a019-4be8-a053-c29063bfb2c0) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/9ab408d8-a019-4be8-a053-c29063bfb2c0) | — |
 | **[Meta](../companies/meta.md)** | [Size opportunity and prioritize experiments](https://trueinterview.io/questions/size-opportunity-and-prioritize-experiments) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/size-opportunity-and-prioritize-experiments) | — |
 | **[Capital One](../companies/capital-one.md)** | [Sketch function from derivatives and limits](https://trueinterview.io/questions/sketch-function-from-derivatives-and-limits) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/sketch-function-from-derivatives-and-limits) | — |
+| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
+| **[Intuit](../companies/intuit.md)** | [Smart Gardener (Intuit India)](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | — |
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md) · [9](senior-staff-9.md) · **10** · [11](senior-staff-11.md)</sub>

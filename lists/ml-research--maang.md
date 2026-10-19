@@ -10,7 +10,7 @@
 
 **160 questions** · 146 at Senior/Staff+ · 33 reported in the last 90 days · 66 free to solve
 
-**Rounds:** 📝 OA (2) · 📞 Phone (85) · 🏢 Onsite (94)
+**Rounds:** 📝 OA (2) · 📞 Phone (86) · 🏢 Onsite (94)
 
 **Companies:** [Amazon (52)](../companies/amazon.md) · [Apple (28)](../companies/apple.md) · [Meta (28)](../companies/meta.md) · [Microsoft (27)](../companies/microsoft.md) · [Google (18)](../companies/google.md) · [Netflix (10)](../companies/netflix.md)
 
@@ -21,9 +21,9 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Google](../companies/google.md)** | [ML System Design (Recsys / Chatbot / Image Classifier)](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Phone · Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | 🆕 Oct 2, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Employee Attrition Prediction (ML Design on CodeSignal)](https://trueinterview.io/questions/employee-attrition-prediction) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/employee-attrition-prediction) | 🆕 Oct 1, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Maximum Subarray Sum After K Concatenations](https://trueinterview.io/questions/k-concatenation-maximum-subarray-sum) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/k-concatenation-maximum-subarray-sum) | 🆕 Oct 1, 2026 |
-| **[Google](../companies/google.md)** | [ML System Design (Recsys / Chatbot / Image Classifier)](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | 🆕 Oct 2026 |
 | **[Amazon](../companies/amazon.md)** | [GRPO Notebook Exercise](https://trueinterview.io/questions/grpo-notebook-exercise) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/grpo-notebook-exercise) | 🆕 Sep 26, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Multi-Head Attention Coding](https://trueinterview.io/questions/multi-head-attention-coding) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/multi-head-attention-coding) | 🆕 Sep 26, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Applied Scientist / MLE Project Deep Dive](https://trueinterview.io/questions/applied-scientist-project-deep-dive) | Phone · Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/applied-scientist-project-deep-dive) | 🆕 Sep 16, 2026 |
@@ -104,7 +104,7 @@
 | **[Microsoft](../companies/microsoft.md)** | [Handle Cross-Team Dependencies and Scope Conflicts](https://trueinterview.io/questions/handle-cross-team-dependencies-and-scope-conflicts) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/handle-cross-team-dependencies-and-scope-conflicts) | Apr 18, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Implement K-Means and Detect Divisible Subarrays](https://trueinterview.io/questions/implement-k-means-and-detect-divisible-subarrays) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-k-means-and-detect-divisible-subarrays) | Apr 18, 2026 |
 | **[Meta](../companies/meta.md)** | [Notification Ranking (Multi-source)](https://trueinterview.io/questions/mlsd-notification-ranking) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/mlsd-notification-ranking) | Apr 15, 2026 |
-| **[Apple](../companies/apple.md)** | [Design App Store Search](https://trueinterview.io/questions/design-app-store-search) | Phone · Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-app-store-search) | Apr 8, 2026 |
+| **[Apple](../companies/apple.md)** | [Design App Store Search](https://trueinterview.io/questions/design-app-store-search) | Phone · Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-app-store-search) | Apr 8, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a Secure Copilot API](https://trueinterview.io/questions/design-a-secure-copilot-api) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-secure-copilot-api) | Apr 6, 2026 |
 | **[Netflix](../companies/netflix.md)** | [MLP Portal Full-Stack Design](https://trueinterview.io/questions/mlp-portal-fullstack-design) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/mlp-portal-fullstack-design) | Apr 3, 2026 |
 | **[Meta](../companies/meta.md)** | [Discuss Research Experience and Challenges](https://trueinterview.io/questions/discuss-research-experience-and-challenges) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/discuss-research-experience-and-challenges) | Apr 2026 |

@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Lyft on TrueInterview](https://trueinterview.io/problems/company/lyft) · [How Lyft interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/lyft/README.md)
 
-**51 questions** · Senior & Staff+ 37 · ML & Research Scientist 4 · last reported Oct 2026
+**50 questions** · Senior & Staff+ 36 · ML & Research Scientist 4 · last reported Oct 2026
 
-**Rounds:** 📝 OA (1) · 📞 Phone (24) · 🏢 Onsite (36)
+**Rounds:** 📝 OA (1) · 📞 Phone (24) · 🏢 Onsite (35)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/lyft-interview-process)
 
@@ -34,12 +34,11 @@
 | [Design Uber](https://trueinterview.io/questions/onsite-sd-rider-driver-matching)<br><sub>also [Uber](../companies/uber.md) / [DoorDash](../companies/doordash.md) / [Snapchat](../companies/snapchat.md)</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/onsite-sd-rider-driver-matching) | Jul 2026 |
 | [Hand-Written K-Means](https://trueinterview.io/questions/handwritten-k-means)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | Phone · Onsite | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/handwritten-k-means) | Jul 2026 |
 | [In-Memory Key-Value Store with Nested Transactions and Value Counts](https://trueinterview.io/questions/20ebc05b-c152-573c-aa66-541458bdacc0)<br><sub>also [Anthropic](../companies/anthropic.md)</sub> | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/20ebc05b-c152-573c-aa66-541458bdacc0) | Jul 2026 |
-| [Design Facebook Messenger](https://trueinterview.io/questions/design-messenger)<br><sub>also [Uber](../companies/uber.md)</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-messenger) | Jun 21, 2026 |
 | [Design a 1-to-1 Chat System](https://trueinterview.io/questions/design-a-1-to-1-chat-system)<br><sub>also [Anthropic](../companies/anthropic.md)</sub> | Phone · Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Jun 2, 2026 |
 | [Design Facebook Messenger](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a)<br><sub>also [Anthropic](../companies/anthropic.md) / [Google](../companies/google.md) / [Meta](../companies/meta.md) / +2</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Jun 2026 |
 | [Transactional Key-Value Store](https://trueinterview.io/questions/transactional-key-value-store)<br><sub>also [xAI](../companies/xai.md)</sub> | Onsite | Intern · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/transactional-key-value-store) | Jun 2026 |
 | [Commuter Coupon Conditional Probability](https://trueinterview.io/questions/ds-commuter-coupon-probability) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/ds-commuter-coupon-probability) | May 30, 2026 |
-| [Design Driver Location Heatmap](https://trueinterview.io/questions/onsite-sd-driver-location-heatmap)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md)</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/onsite-sd-driver-location-heatmap) | May 15, 2026 |
+| [Design Driver Location Heatmap](https://trueinterview.io/questions/onsite-sd-driver-location-heatmap)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md)</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/onsite-sd-driver-location-heatmap) | May 15, 2026 |
 | [Rotten Oranges / Grid Infection BFS](https://trueinterview.io/questions/rotten-oranges-grid-bfs) | OA · Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/rotten-oranges-grid-bfs) | May 12, 2026 |
 | [Design Instagram](https://trueinterview.io/questions/design-instagram)<br><sub>also [Roblox](../companies/roblox.md) / [Datadog](../companies/datadog.md) / [DoorDash](../companies/doordash.md) / +3</sub> | Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-instagram) | May 2026 |
 | [Implement Stratified K-Fold Cross Validation](https://trueinterview.io/questions/603347d9-9ef4-4b27-be30-a00814f1b728) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/603347d9-9ef4-4b27-be30-a00814f1b728) | May 2026 |

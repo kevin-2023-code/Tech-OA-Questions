@@ -29,11 +29,11 @@ A question carries the levels and roles **the catalog recorded for it** — repo
 | [Senior & Staff+ Engineer Interview Questions at AI Labs (2026)](senior-staff--ai-labs.md) | 400 |
 | [Senior & Staff+ Engineer Interview Questions at Quant Firms (2026)](senior-staff--quant.md) | 189 |
 | [Senior & Staff+ Engineer Interview Questions at MAANG+ (2026)](senior-staff--maang.md) | 1,259 |
-| [Senior & Staff+ Engineer OA & Interview Questions (2026)](senior-staff.md) | 4,115 |
-| [Staff+ Engineer Interview Questions at AI Labs (2026)](staff--ai-labs.md) | 90 |
+| [Senior & Staff+ Engineer OA & Interview Questions (2026)](senior-staff.md) | 4,113 |
+| [Staff+ Engineer Interview Questions at AI Labs (2026)](staff--ai-labs.md) | 91 |
 | [Staff+ Engineer Interview Questions at Quant Firms (2026)](staff--quant.md) | 26 |
 | [Staff+ Engineer Interview Questions at MAANG+ (2026)](staff--maang.md) | 391 |
-| [Staff+ Engineer OA & Interview Questions (2026)](staff.md) | 1,149 |
+| [Staff+ Engineer OA & Interview Questions (2026)](staff.md) | 1,152 |
 | [ML Engineer & Research Scientist Interview Questions at AI Labs (2026)](ml-research--ai-labs.md) | 103 |
 | [ML Engineer & Research Scientist Interview Questions at Quant Firms (2026)](ml-research--quant.md) | 5 |
 | [ML Engineer & Research Scientist Interview Questions at MAANG+ (2026)](ml-research--maang.md) | 160 |

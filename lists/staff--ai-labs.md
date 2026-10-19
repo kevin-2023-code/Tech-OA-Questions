@@ -8,11 +8,11 @@
 >
 > **Where:** Employers the shared company registry files under *AI labs & AI infrastructure* — OpenAI, Anthropic, xAI, Microsoft AI, Perplexity, Scale AI and the rest.
 
-**90 questions** · 90 at Senior/Staff+ · 36 reported in the last 90 days · 39 free to solve
+**91 questions** · 91 at Senior/Staff+ · 37 reported in the last 90 days · 39 free to solve
 
-**Rounds:** 📝 OA (2) · 📞 Phone (44) · 🏢 Onsite (49) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (2) · 📞 Phone (45) · 🏢 Onsite (50) · 🏠 Take-home (2)
 
-**Companies:** [OpenAI (34)](../companies/openai.md) · [Anthropic (15)](../companies/anthropic.md) · [C3 AI (6)](../companies/c3-ai.md) · [Mistral AI (6)](../companies/mistral-ai.md) · [Mercor (5)](../companies/mercor.md) · [Perplexity (5)](../companies/perplexity.md) · [Scale AI (5)](../companies/scale-ai.md) · [xAI (5)](../companies/xai.md) · [Cursor (4)](../companies/cursor.md) · [Microsoft AI (3)](../companies/microsoft-ai.md) · [Cohere (2)](../companies/cohere.md) · [Together AI (2)](../companies/together-ai.md) · [Harvey (1)](../companies/harvey.md) · [Moveworks (1)](../companies/moveworks.md)
+**Companies:** [OpenAI (35)](../companies/openai.md) · [Anthropic (15)](../companies/anthropic.md) · [C3 AI (6)](../companies/c3-ai.md) · [Mistral AI (6)](../companies/mistral-ai.md) · [Mercor (5)](../companies/mercor.md) · [Perplexity (5)](../companies/perplexity.md) · [Scale AI (5)](../companies/scale-ai.md) · [xAI (5)](../companies/xai.md) · [Cursor (4)](../companies/cursor.md) · [Microsoft AI (3)](../companies/microsoft-ai.md) · [Cohere (2)](../companies/cohere.md) · [Together AI (2)](../companies/together-ai.md) · [Harvey (1)](../companies/harvey.md) · [Moveworks (1)](../companies/moveworks.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -52,6 +52,7 @@
 | **[C3 AI](../companies/c3-ai.md)** | [Forecast Food Stocking Needs Under Waste and Stockout Costs](https://trueinterview.io/questions/forecast-food-stocking-needs-under-waste-and-stockout-costs) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/forecast-food-stocking-needs-under-waste-and-stockout-costs) | Aug 21, 2026 |
 | **[Cursor](../companies/cursor.md)** | [Implement and Explain a Merkle Tree](https://trueinterview.io/questions/implement-and-explain-a-merkle-tree) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/implement-and-explain-a-merkle-tree) | Aug 21, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Explain AI Safety and Weigh Advanced AI Benefits and Risks](https://trueinterview.io/questions/explain-ai-safety-and-weigh-advanced-ai-benefits-and-risks) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-ai-safety-and-weigh-advanced-ai-benefits-and-risks) | Aug 19, 2026 |
+| **[OpenAI](../companies/openai.md)** | [Monster Team Battle](https://trueinterview.io/questions/monster-battle-system) | Phone · Onsite | Mid · **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/monster-battle-system) | Aug 18, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design Command Dispatch and Telemetry Reconciliation for Unreliable Devices](https://trueinterview.io/questions/design-command-dispatch-and-telemetry-reconciliation-for-unreliable-devices) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-command-dispatch-and-telemetry-reconciliation-for-unreliable-devices) | Aug 17, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design a Time-Windowed GPU Credit Ledger](https://trueinterview.io/questions/design-a-time-windowed-gpu-credit-ledger) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-time-windowed-gpu-credit-ledger) | Aug 16, 2026 |
 | **[C3 AI](../companies/c3-ai.md)** | [Explain an End-to-End ML Project to Mixed Audiences](https://trueinterview.io/questions/explain-an-end-to-end-ml-project-to-mixed-audiences) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-an-end-to-end-ml-project-to-mixed-audiences) | Aug 15, 2026 |

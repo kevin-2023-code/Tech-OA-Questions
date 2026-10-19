@@ -6,9 +6,9 @@
 
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,683 questions** · 1,259 at Senior/Staff+ · 460 reported in the last 90 days · 504 free to solve
+**1,683 questions** · 1,259 at Senior/Staff+ · 465 reported in the last 90 days · 504 free to solve
 
-**Rounds:** 📝 OA (165) · 📞 Phone (865) · 🏢 Onsite (774) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (164) · 📞 Phone (866) · 🏢 Onsite (774) · 🏠 Take-home (1)
 
 **Companies:** [Meta (485)](../companies/meta.md) · [Amazon (467)](../companies/amazon.md) · [Google (380)](../companies/google.md) · [Microsoft (239)](../companies/microsoft.md) · [Apple (181)](../companies/apple.md) · [Netflix (104)](../companies/netflix.md)
 
@@ -21,6 +21,8 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Meta](../companies/meta.md)** | [Design an Online Judge and Live Comments](https://trueinterview.io/questions/design-an-online-judge-and-live-comments) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-online-judge-and-live-comments) | Apr 8, 2026 |
+| **[Apple](../companies/apple.md)** | [Design App Store Search](https://trueinterview.io/questions/design-app-store-search) | Phone · Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-app-store-search) | Apr 8, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Explain OOP design and API rollout](https://trueinterview.io/questions/explain-oop-design-and-api-rollout) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-oop-design-and-api-rollout) | Apr 7, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Implement concurrent structures and debug queue code](https://trueinterview.io/questions/implement-concurrent-structures-and-debug-queue-code) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-concurrent-structures-and-debug-queue-code) | Apr 7, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [In-Place Sub-Matrix Move](https://trueinterview.io/questions/in-place-submatrix-move) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/in-place-submatrix-move) | Apr 7, 2026 |
@@ -113,7 +115,6 @@
 | **[Amazon](../companies/amazon.md)** / [Google](../companies/google.md) | [Morse Code Encoder / Decoder with Word-Break](https://trueinterview.io/questions/morse-code-encoder-decoder) | Phone · Onsite | Intern · **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/morse-code-encoder-decoder) | Mar 21, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Paper Read Round (FAR / Premium Loops)](https://trueinterview.io/questions/paper-read-round-far) | Onsite | **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/paper-read-round-far) | Mar 21, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Recursive Schema Validation](https://trueinterview.io/questions/schema-validation-recursive) | Onsite | **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/schema-validation-recursive) | Mar 21, 2026 |
-| **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Mar 21, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Discuss AI Use, Deadlines, Ambiguity, and Feedback](https://trueinterview.io/questions/discuss-ai-use-deadlines-ambiguity-and-feedback) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/discuss-ai-use-deadlines-ambiguity-and-feedback) | Mar 19, 2026 |
 | **[Meta](../companies/meta.md)** | [Execute matrix transformation commands](https://trueinterview.io/questions/solve-four-online-assessment-problems-execute-matrix-transformation-commands) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-online-assessment-problems-execute-matrix-transformation-commands) | Mar 19, 2026 |
 | **[Meta](../companies/meta.md)** | [Mouse and Cheese / Maze Rewards](https://trueinterview.io/questions/mouse-and-cheese-maze-rewards) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/mouse-and-cheese-maze-rewards) | Mar 19, 2026 |
@@ -312,7 +313,6 @@
 | **[Microsoft](../companies/microsoft.md)** | [Palindrome Number + Next-Greater Palindrome](https://trueinterview.io/questions/25b44e72-b83e-4f2d-b206-4b58550ea722) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/25b44e72-b83e-4f2d-b206-4b58550ea722) | Jan 20, 2026 |
 | **[Meta](../companies/meta.md)** | [Write SQL for Pixel Signal Metrics](https://trueinterview.io/questions/write-sql-for-pixel-signal-metrics) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-pixel-signal-metrics) | Jan 20, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Design a Billing System for 300M Subscribers](https://trueinterview.io/questions/design-a-billing-system-for-300m-subscribers) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-billing-system-for-300m-subscribers) | Jan 19, 2026 |
-| **[Google](../companies/google.md)** | [Path Minimizing the Maximum Cell (Swim in Rising Water)](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Jan 19, 2026 |
 | **[Capital One](../companies/capital-one.md)** / [Meta](../companies/meta.md) | [Sawtooth (Alternating Parity) Subarray Count](https://trueinterview.io/questions/sawtooth-subarray-count) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/sawtooth-subarray-count) | Jan 19, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Shard a Large Input Embedding Table Across Devices](https://trueinterview.io/questions/shard-a-large-input-embedding-table-across-devices) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/shard-a-large-input-embedding-table-across-devices) | Jan 19, 2026 |
 | **[Google](../companies/google.md)** | [Tree Distance Sum (Re-root DP)](https://trueinterview.io/questions/tree-distance-sum-reroot) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/tree-distance-sum-reroot) | Jan 19, 2026 |

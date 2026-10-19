@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,968 questions** · 2,272 at Senior/Staff+ · 671 reported in the last 90 days · 1,025 free to solve
+**2,973 questions** · 2,275 at Senior/Staff+ · 681 reported in the last 90 days · 1,025 free to solve
 
-**By employer group:** 🧠 AI labs (247) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
+**By employer group:** 🧠 AI labs (250) · 📈 Quant firms (203) · 🏛️ MAANG+ (866)
 
-**Companies:** [ByteDance (249)](../companies/bytedance.md) · [Meta (247)](../companies/meta.md) · [Amazon (240)](../companies/amazon.md) · [Google (212)](../companies/google.md) · [Uber (149)](../companies/uber.md) · [Apple (135)](../companies/apple.md) · [Microsoft (108)](../companies/microsoft.md) · [Snowflake (101)](../companies/snowflake.md) · [OpenAI (92)](../companies/openai.md) · [Capital One (88)](../companies/capital-one.md) · [LinkedIn (71)](../companies/linkedin.md) · [DoorDash (67)](../companies/doordash.md) · [Pinterest (67)](../companies/pinterest.md) · [Citadel (64)](../companies/citadel.md) · [Bloomberg (60)](../companies/bloomberg.md)
+**Companies:** [ByteDance (249)](../companies/bytedance.md) · [Meta (247)](../companies/meta.md) · [Amazon (240)](../companies/amazon.md) · [Google (213)](../companies/google.md) · [Uber (149)](../companies/uber.md) · [Apple (135)](../companies/apple.md) · [Microsoft (108)](../companies/microsoft.md) · [Snowflake (103)](../companies/snowflake.md) · [OpenAI (94)](../companies/openai.md) · [Capital One (88)](../companies/capital-one.md) · [LinkedIn (71)](../companies/linkedin.md) · [DoorDash (67)](../companies/doordash.md) · [Pinterest (67)](../companies/pinterest.md) · [Citadel (64)](../companies/citadel.md) · [Bloomberg (60)](../companies/bloomberg.md)
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · **7** · [8](phone-screen-8.md)</sub>
 
@@ -19,6 +19,11 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Roblox](../companies/roblox.md)** | [Compute ARPDAU/ARPPU by country](https://trueinterview.io/questions/compute-arpdau-arppu-by-country) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-arpdau-arppu-by-country) | — |
+| **[Amazon](../companies/amazon.md)** | [Compute array modes with ties and no-mode rule](https://trueinterview.io/questions/compute-array-modes-with-ties-and-no-mode-rule) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-array-modes-with-ties-and-no-mode-rule) | — |
+| **[LinkedIn](../companies/linkedin.md)** | [Compute article-type diversity per user and histogram](https://trueinterview.io/questions/compute-article-type-diversity-per-user-and-histogram) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-article-type-diversity-per-user-and-histogram) | — |
+| **[Pinterest](../companies/pinterest.md)** | [Compute average unique pins per user](https://trueinterview.io/questions/compute-average-unique-pins-per-user) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-average-unique-pins-per-user) | — |
+| **[Airbnb](../companies/airbnb.md)** | [Compute browsing metrics in Python from logs](https://trueinterview.io/questions/compute-browsing-metrics-in-python-from-logs) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-browsing-metrics-in-python-from-logs) | — |
 | **[Airbnb](../companies/airbnb.md)** | [Compute C/T metrics from bookings and visits](https://trueinterview.io/questions/compute-c-t-metrics-from-bookings-and-visits) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-c-t-metrics-from-bookings-and-visits) | — |
 | **[Intuit](../companies/intuit.md)** | [Compute churn and revenue churn in SQL](https://trueinterview.io/questions/compute-churn-and-revenue-churn-in-sql) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-churn-and-revenue-churn-in-sql) | — |
 | **[Google](../companies/google.md)** | [Compute city skyline outline](https://trueinterview.io/questions/compute-city-skyline-outline) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-city-skyline-outline) | — |
@@ -414,10 +419,5 @@
 | **[Snowflake](../companies/snowflake.md)** | [Maximum Order Volume](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | — |
 | **[Datadog](../companies/datadog.md)** | [Maximum Points Collection in Maze Graph Game](https://trueinterview.io/questions/43f90ec3-73b8-4941-a623-cdff5c5a4882) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/43f90ec3-73b8-4941-a623-cdff5c5a4882) | — |
 | **[Ramp](../companies/ramp.md)** | [Maximum Profit from Unordered Stock Price Records](https://trueinterview.io/questions/522363cd-bdb8-5f9b-bfd8-86d74fb6f057) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/522363cd-bdb8-5f9b-bfd8-86d74fb6f057) | — |
-| **[Google](../companies/google.md)** | [Measure outage impact; choose fix vs build](https://trueinterview.io/questions/measure-outage-impact-choose-fix-vs-build) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-outage-impact-choose-fix-vs-build) | — |
-| **[Uber](../companies/uber.md)** | [Measure rider incentive causal ROI](https://trueinterview.io/questions/measure-rider-incentive-causal-roi) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/measure-rider-incentive-causal-roi) | — |
-| **[Tubi](../companies/tubi.md)** | [Measure Super Bowl ad impact with causal design](https://trueinterview.io/questions/measure-super-bowl-ad-impact-with-causal-design) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/measure-super-bowl-ad-impact-with-causal-design) | — |
-| **[Google](../companies/google.md)** | [Median of K Sorted Arrays](https://trueinterview.io/questions/de10f46c-104a-598a-837a-013d53946300) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/de10f46c-104a-598a-837a-013d53946300) | — |
-| **[WeRide](../companies/weride.md)** | [Meetup Schedule](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | — |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · **7** · [8](phone-screen-8.md)</sub>

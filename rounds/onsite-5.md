@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,245 questions** · 1,859 at Senior/Staff+ · 524 reported in the last 90 days · 700 free to solve
+**2,246 questions** · 1,860 at Senior/Staff+ · 531 reported in the last 90 days · 700 free to solve
 
 **By employer group:** 🧠 AI labs (221) · 📈 Quant firms (68) · 🏛️ MAANG+ (774)
 
-**Companies:** [Meta (231)](../companies/meta.md) · [Amazon (210)](../companies/amazon.md) · [Google (167)](../companies/google.md) · [Microsoft (120)](../companies/microsoft.md) · [Uber (105)](../companies/uber.md) · [ByteDance (94)](../companies/bytedance.md) · [OpenAI (92)](../companies/openai.md) · [DoorDash (80)](../companies/doordash.md) · [LinkedIn (75)](../companies/linkedin.md) · [Netflix (70)](../companies/netflix.md) · [Capital One (60)](../companies/capital-one.md) · [Snowflake (60)](../companies/snowflake.md) · [Pinterest (58)](../companies/pinterest.md) · [Apple (57)](../companies/apple.md) · [Databricks (57)](../companies/databricks.md)
+**Companies:** [Meta (231)](../companies/meta.md) · [Amazon (209)](../companies/amazon.md) · [Google (168)](../companies/google.md) · [Microsoft (120)](../companies/microsoft.md) · [Uber (105)](../companies/uber.md) · [ByteDance (94)](../companies/bytedance.md) · [OpenAI (92)](../companies/openai.md) · [DoorDash (80)](../companies/doordash.md) · [LinkedIn (75)](../companies/linkedin.md) · [Netflix (70)](../companies/netflix.md) · [Snowflake (61)](../companies/snowflake.md) · [Capital One (60)](../companies/capital-one.md) · [Pinterest (58)](../companies/pinterest.md) · [Databricks (57)](../companies/databricks.md) · [Apple (56)](../companies/apple.md)
 
 <sub>Page [1](onsite.md) · [2](onsite-2.md) · [3](onsite-3.md) · [4](onsite-4.md) · **5** · [6](onsite-6.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Netflix](../companies/netflix.md)** | [Spam Email Detection](https://trueinterview.io/questions/spam-email-detection) | Phone · Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/spam-email-detection) | Jan 1, 2026 |
 | **[Verkada](../companies/verkada.md)** | [Design a Food Rating System](https://trueinterview.io/questions/b2197b53-6bbb-4f91-99f4-1a76814c1001) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b2197b53-6bbb-4f91-99f4-1a76814c1001) | Jan 2026 |
 | **[Capital One](../companies/capital-one.md)** / [Coinbase](../companies/coinbase.md) | [Design a Transaction Class](https://trueinterview.io/questions/5104c2ee-797e-460f-bba0-00a6b615881e) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/5104c2ee-797e-460f-bba0-00a6b615881e) | Jan 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Design Airbnb Relisting Detection](https://trueinterview.io/questions/design-airbnb-relisting-detection) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-airbnb-relisting-detection) | Jan 2026 |
@@ -418,6 +419,5 @@
 | **[Lyft](../companies/lyft.md)** | [Demonstrate leadership under ambiguity](https://trueinterview.io/questions/demonstrate-leadership-under-ambiguity-2) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-leadership-under-ambiguity-2) | — |
 | **[Amazon](../companies/amazon.md)** | [Demonstrate leadership under strict rules](https://trueinterview.io/questions/demonstrate-leadership-under-strict-rules) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-leadership-under-strict-rules) | — |
 | **[Pinterest](../companies/pinterest.md)** | [Demonstrate leadership with concrete STAR examples](https://trueinterview.io/questions/demonstrate-leadership-with-concrete-star-examples) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-leadership-with-concrete-star-examples) | — |
-| **[Amazon](../companies/amazon.md)** | [Demonstrate ownership and communication under pressure](https://trueinterview.io/questions/demonstrate-ownership-and-communication-under-pressure) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-ownership-and-communication-under-pressure) | — |
 
 <sub>Page [1](onsite.md) · [2](onsite-2.md) · [3](onsite-3.md) · [4](onsite-4.md) · **5** · [6](onsite-6.md)</sub>

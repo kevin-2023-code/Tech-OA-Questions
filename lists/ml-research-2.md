@@ -8,7 +8,7 @@
 
 **467 questions** · 411 at Senior/Staff+ · 95 reported in the last 90 days · 180 free to solve
 
-**Rounds:** 📝 OA (18) · 📞 Phone (240) · 🏢 Onsite (253) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (18) · 📞 Phone (241) · 🏢 Onsite (253) · 🏠 Take-home (1)
 
 **Companies:** [Amazon (52)](../companies/amazon.md) · [OpenAI (47)](../companies/openai.md) · [Apple (28)](../companies/apple.md) · [ByteDance (28)](../companies/bytedance.md) · [Meta (28)](../companies/meta.md) · [Microsoft (27)](../companies/microsoft.md) · [Anthropic (19)](../companies/anthropic.md) · [Pinterest (19)](../companies/pinterest.md) · [Google (18)](../companies/google.md) · [Uber (14)](../companies/uber.md) · [Reddit (13)](../companies/reddit.md) · [Waymo (13)](../companies/waymo.md) · [Capital One (12)](../companies/capital-one.md) · [LinkedIn (12)](../companies/linkedin.md) · [Snapchat (12)](../companies/snapchat.md)
 

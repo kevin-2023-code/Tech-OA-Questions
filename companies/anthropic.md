@@ -6,7 +6,7 @@
 
 🧠 AI labs · **99 questions** · Senior & Staff+ 84 · ML & Research Scientist 19 · last reported Sep 2026
 
-**Rounds:** 📝 OA (17) · 📞 Phone (44) · 🏢 Onsite (54) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (17) · 📞 Phone (45) · 🏢 Onsite (54) · 🏠 Take-home (2)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/anthropic-interview-process) · [SWE](https://trueinterview.io/study/anthropic-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/anthropic-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/anthropic-research-scientist-interview-process) · [AI engineer](https://trueinterview.io/study/anthropic-ai-engineer-interview-process) · [Infra](https://trueinterview.io/study/anthropic-infrastructure-engineer-interview-process)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Web URL Crawler at Scale](https://trueinterview.io/questions/web-url-crawler-at-scale)<br><sub>also [Snowflake](../companies/snowflake.md)</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/web-url-crawler-at-scale) | 🆕 Sep 17, 2026 |
 | [Compare Threads and Processes for Image Processing](https://trueinterview.io/questions/compare-threads-and-processes-for-image-processing) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compare-threads-and-processes-for-image-processing) | 🆕 Sep 12, 2026 |
 | [Respond to a Hypothetical Loss of Employer Equity Value](https://trueinterview.io/questions/respond-to-a-hypothetical-loss-of-employer-equity-value) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/respond-to-a-hypothetical-loss-of-employer-equity-value) | 🆕 Sep 12, 2026 |
 | [Route and Batch Inference with Eight GPUs](https://trueinterview.io/questions/route-and-batch-inference-with-eight-gpus) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/route-and-batch-inference-with-eight-gpus) | 🆕 Sep 8, 2026 |
@@ -94,7 +95,6 @@
 | [Implement a crash-resilient LRU cache](https://trueinterview.io/questions/implement-a-crash-resilient-lru-cache) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-crash-resilient-lru-cache) | Mar 13, 2026 |
 | [System Design Q5 — Data Infrastructure](https://trueinterview.io/questions/sd-q5-data-infrastructure) | Phone · Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-q5-data-infrastructure) | Mar 7, 2026 |
 | [RL Fundamentals — GRPO Debug](https://trueinterview.io/questions/rl-fundamentals-grpo-debug) | Phone · Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/rl-fundamentals-grpo-debug) | Mar 2, 2026 |
-| [Web URL Crawler at Scale](https://trueinterview.io/questions/web-url-crawler-at-scale)<br><sub>also [Snowflake](../companies/snowflake.md)</sub> | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/web-url-crawler-at-scale) | Mar 2026 |
 | [ML Programming Screen — QKV Attention & einsum](https://trueinterview.io/questions/ml-programming-screen)<br><sub>also [OpenAI](../companies/openai.md)</sub> | Phone | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/ml-programming-screen) | Feb 18, 2026 |
 | [How do you lead under risk and uncertainty?](https://trueinterview.io/questions/how-do-you-lead-under-risk-and-uncertainty) | Onsite | **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-lead-under-risk-and-uncertainty) | Feb 11, 2026 |
 | [Route Multiple Prompt Calls to Multiple GPT Servers Using a Hash Table](https://trueinterview.io/questions/46a64535-7d55-4b9f-af3e-9db6d856187a) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/46a64535-7d55-4b9f-af3e-9db6d856187a) | Feb 2026 |

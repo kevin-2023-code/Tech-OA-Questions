@@ -11,14 +11,14 @@ Counts are per company: a question reported at three employers is on three pages
 | [Meta](meta.md) | 🏛️ MAANG+ | 485 | 422 | 28 | — | Oct 2026 |
 | [Amazon](amazon.md) | 🏛️ MAANG+ | 467 | 289 | 52 | 3 | Oct 2026 |
 | [Google](google.md) | 🏛️ MAANG+ | 380 | 278 | 18 | 4 | Oct 2026 |
-| [ByteDance](bytedance.md) | — | 345 | 247 | 28 | 3 | Oct 2026 |
+| [ByteDance](bytedance.md) | — | 345 | 246 | 28 | 3 | Oct 2026 |
 | [Uber](uber.md) | — | 264 | 205 | 14 | 2 | Oct 2026 |
 | [Microsoft](microsoft.md) | 🏛️ MAANG+ | 239 | 179 | 27 | 2 | Oct 2026 |
 | [Capital One](capital-one.md) | — | 193 | 148 | 12 | 2 | Sep 2026 |
 | [Apple](apple.md) | 🏛️ MAANG+ | 181 | 135 | 28 | — | Oct 2026 |
 | [OpenAI](openai.md) | 🧠 AI labs | 175 | 163 | 47 | — | Oct 2026 |
 | [DoorDash](doordash.md) | — | 149 | 128 | 10 | — | Oct 2026 |
-| [Snowflake](snowflake.md) | — | 145 | 93 | 4 | — | Oct 2026 |
+| [Snowflake](snowflake.md) | — | 145 | 92 | 4 | — | Oct 2026 |
 | [LinkedIn](linkedin.md) | — | 137 | 125 | 12 | — | Oct 2026 |
 | [Pinterest](pinterest.md) | — | 121 | 100 | 19 | — | Sep 2026 |
 | [Stripe](stripe.md) | — | 118 | 88 | 3 | 1 | Oct 2026 |
@@ -41,7 +41,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [NVIDIA](nvidia.md) | — | 54 | 39 | 7 | — | Sep 2026 |
 | [Robinhood](robinhood.md) | — | 53 | 47 | 3 | — | Oct 2026 |
 | [Tesla](tesla.md) | — | 52 | 30 | 6 | — | Sep 2026 |
-| [Lyft](lyft.md) | — | 51 | 37 | 4 | — | Oct 2026 |
+| [Lyft](lyft.md) | — | 50 | 36 | 4 | — | Oct 2026 |
 | [Two Sigma](two-sigma.md) | 📈 Quant firms | 50 | 28 | 2 | 35 | Aug 2026 |
 | [Upstart](upstart.md) | — | 49 | 31 | — | — | Sep 2026 |
 | [eBay](ebay.md) | — | 48 | 32 | 2 | — | Oct 2026 |

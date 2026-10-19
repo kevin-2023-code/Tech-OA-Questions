@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,115 at Senior/Staff+ · 1,239 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,113 at Senior/Staff+ · 1,247 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (769) · 📞 Phone (2,968) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (768) · 📞 Phone (2,973) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · **7** · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -17,6 +17,10 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Microsoft](../companies/microsoft.md)** | [In-Place Sub-Matrix Move](https://trueinterview.io/questions/in-place-submatrix-move) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/in-place-submatrix-move) | Apr 7, 2026 |
+| **[DoorDash](../companies/doordash.md)** | [Code Craft: Basic Calculator (No Parentheses)](https://trueinterview.io/questions/code-craft-basic-calculator-no-parens) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/code-craft-basic-calculator-no-parens) | Apr 6, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Design a Secure Copilot API](https://trueinterview.io/questions/design-a-secure-copilot-api) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-secure-copilot-api) | Apr 6, 2026 |
+| **[Citadel](../companies/citadel.md)** | [Design Inventory Availability and Order Placement](https://trueinterview.io/questions/design-inventory-availability-and-order-placement) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-inventory-availability-and-order-placement) | Apr 6, 2026 |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Explain Python and React performance fundamentals](https://trueinterview.io/questions/explain-python-and-react-performance-fundamentals) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-python-and-react-performance-fundamentals) | Apr 6, 2026 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Live Refactor: Function → Production Service](https://trueinterview.io/questions/function-to-service-refactor) | Phone | **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/function-to-service-refactor) | Apr 6, 2026 |
 | **[Databricks](../companies/databricks.md)** / [Square](../companies/square.md) | [Stock Trading Agent System Design](https://trueinterview.io/questions/stock-trading-agent-system-design) | Phone · Onsite | **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/stock-trading-agent-system-design) | Apr 6, 2026 |
@@ -311,7 +315,6 @@
 | **[Lyft](../companies/lyft.md)** | [One-Hot Encoder + ML Error Diagnosis](https://trueinterview.io/questions/one-hot-encoder-and-ml-error-diagnosis) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/one-hot-encoder-and-ml-error-diagnosis) | Mar 21, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Paper Read Round (FAR / Premium Loops)](https://trueinterview.io/questions/paper-read-round-far) | Onsite | **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/paper-read-round-far) | Mar 21, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Recursive Schema Validation](https://trueinterview.io/questions/schema-validation-recursive) | Onsite | **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/schema-validation-recursive) | Mar 21, 2026 |
-| **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Mar 21, 2026 |
 | **[Optiver](../companies/optiver.md)** | [Trading Betting Game (EV / Market-Making)](https://trueinterview.io/questions/trading-betting-game) | Phone · Onsite | Intern · New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/trading-betting-game) | Mar 21, 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Build UI from Mockup with API](https://trueinterview.io/questions/frontend-vo-build-ui) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/frontend-vo-build-ui) | Mar 20, 2026 |
 | **[DoorDash](../companies/doordash.md)** | [DE / AE Screen: SQL + Python (Sliding Window + Joins)](https://trueinterview.io/questions/de-ae-sql-python-screen) | Phone | New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/de-ae-sql-python-screen) | Mar 20, 2026 |
@@ -384,7 +387,6 @@
 | **[Uber](../companies/uber.md)** | [ML System Design (Recommendation / Feed Ranking / ETA)](https://trueinterview.io/questions/mle-onsite-ml-system-design) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/mle-onsite-ml-system-design) | Mar 9, 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Render Blog Posts (Multi-Stage CodeSignal)](https://trueinterview.io/questions/fe-render-blog-posts-oa) | OA | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/fe-render-blog-posts-oa) | Mar 9, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Reverse even numbers in a list](https://trueinterview.io/questions/reverse-even-numbers-in-a-list) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/reverse-even-numbers-in-a-list) | Mar 9, 2026 |
-| **[OpenAI](../companies/openai.md)** | [Shard Rebalancing](https://trueinterview.io/questions/shard-rebalancing) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/shard-rebalancing) | Mar 9, 2026 |
 | **[Palantir](../companies/palantir.md)** | [Design a Server Metrics Monitor](https://trueinterview.io/questions/design-a-server-metrics-monitor) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-server-metrics-monitor) | Mar 8, 2026 |
 | **[Palantir](../companies/palantir.md)** | [Find Shortest Paths in Road Network](https://trueinterview.io/questions/find-shortest-paths-in-road-network) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-shortest-paths-in-road-network) | Mar 8, 2026 |
 | **[Uber](../companies/uber.md)** | [Zero Array Transformation](https://trueinterview.io/questions/zero-array-transformation) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/zero-array-transformation) | Mar 8, 2026 |
@@ -415,7 +417,5 @@
 | **[Meta](../companies/meta.md)** | [Construct a BST and read spiral order](https://trueinterview.io/questions/construct-a-bst-and-read-spiral-order) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/construct-a-bst-and-read-spiral-order) | Mar 4, 2026 |
 | **[Meta](../companies/meta.md)** | [Describe conflict resolution and initiative](https://trueinterview.io/questions/describe-conflict-resolution-and-initiative) | Onsite | Mid · **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/describe-conflict-resolution-and-initiative) | Mar 4, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Return all file paths via DFS](https://trueinterview.io/questions/return-all-file-paths-via-dfs) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/return-all-file-paths-via-dfs) | Mar 4, 2026 |
-| **[Apple](../companies/apple.md)** | [Bold Words in String](https://trueinterview.io/questions/bold-words-in-string) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bold-words-in-string) | Mar 3, 2026 |
-| **[Figma](../companies/figma.md)** | [Data Engineer Screen — SQL Collaborator Model + IPv4 Validation](https://trueinterview.io/questions/data-engineer-sql-collaborator-ip-validation) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/data-engineer-sql-collaborator-ip-validation) | Mar 3, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · **7** · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

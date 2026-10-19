@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,115 at Senior/Staff+ · 1,239 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,113 at Senior/Staff+ · 1,247 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (769) · 📞 Phone (2,968) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (768) · 📞 Phone (2,973) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · **9** · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -17,6 +17,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[NVIDIA](../companies/nvidia.md)** | [Systems Utility Coding: Temperature Spike, Logs, Brackets](https://trueinterview.io/questions/systems-utility-coding) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/systems-utility-coding) | Feb 5, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [TypeScript Test and Code Refactor](https://trueinterview.io/questions/typescript-refactor-oa) | OA · Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/typescript-refactor-oa) | Feb 5, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Alert Monitor — Rolling Window + Severity Distribution + Spike Detection](https://trueinterview.io/questions/coding-alert-monitor) | Onsite | New grad · Mid · **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/coding-alert-monitor) | Feb 4, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Hospital Appointment Booking API](https://trueinterview.io/questions/hospital-appointment-booking-api) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/hospital-appointment-booking-api) | Feb 4, 2026 |
@@ -167,7 +168,7 @@
 | **[Capital One](../companies/capital-one.md)** | [How would you design delay and watchlist models?](https://trueinterview.io/questions/how-would-you-design-delay-and-watchlist-models) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/how-would-you-design-delay-and-watchlist-models) | Jan 30, 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Implement calculator and graph connectivity](https://trueinterview.io/questions/implement-calculator-and-graph-connectivity) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-calculator-and-graph-connectivity) | Jan 30, 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Menu Tree Diff — Count Changed Nodes](https://trueinterview.io/questions/code-craft-menu-tree-diff) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/code-craft-menu-tree-diff) | Jan 30, 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [MinStack, MaxStack and Streaming Median](https://trueinterview.io/questions/streaming-median-min-max-stack) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/streaming-median-min-max-stack) | Jan 30, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [MinStack, MaxStack and Streaming Median](https://trueinterview.io/questions/streaming-median-min-max-stack) | Phone · Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/streaming-median-min-max-stack) | Jan 30, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Rate Limiter for Expensive API with User-Configurable Monthly Quota](https://trueinterview.io/questions/rate-limiter-user-configurable-quota) | Phone · Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/rate-limiter-user-configurable-quota) | Jan 30, 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Search Suggestion Service](https://trueinterview.io/questions/search-suggestion-service) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/search-suggestion-service) | Jan 30, 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Sequential, Deduped, and Parallel URL Fetcher](https://trueinterview.io/questions/sequential-deduped-parallel-url-fetcher) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sequential-deduped-parallel-url-fetcher) | Jan 30, 2026 |
@@ -273,7 +274,6 @@
 | **[Capital One](../companies/capital-one.md)** | [Matrix Expression Max Value](https://trueinterview.io/questions/matrix-expression-max-value) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-expression-max-value) | Jan 19, 2026 |
 | **[HubSpot](../companies/hubspot.md)** | [Maximum Concurrent Calls](https://trueinterview.io/questions/maximum-concurrent-calls) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-concurrent-calls) | Jan 19, 2026 |
 | **[HubSpot](../companies/hubspot.md)** / [Oracle](../companies/oracle.md) | [Most Frequent Substring](https://trueinterview.io/questions/most-frequent-substring) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/most-frequent-substring) | Jan 19, 2026 |
-| **[Google](../companies/google.md)** | [Path Minimizing the Maximum Cell (Swim in Rising Water)](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Jan 19, 2026 |
 | **[Circle](../companies/circle.md)** | [Predict Future Car Sale Prices](https://trueinterview.io/questions/predict-future-car-sale-prices) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/predict-future-car-sale-prices) | Jan 19, 2026 |
 | **[Capital One](../companies/capital-one.md)** / [Meta](../companies/meta.md) | [Sawtooth (Alternating Parity) Subarray Count](https://trueinterview.io/questions/sawtooth-subarray-count) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/sawtooth-subarray-count) | Jan 19, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Shard a Large Input Embedding Table Across Devices](https://trueinterview.io/questions/shard-a-large-input-embedding-table-across-devices) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/shard-a-large-input-embedding-table-across-devices) | Jan 19, 2026 |

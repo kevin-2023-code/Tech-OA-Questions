@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,245 questions** · 1,859 at Senior/Staff+ · 524 reported in the last 90 days · 700 free to solve
+**2,246 questions** · 1,860 at Senior/Staff+ · 531 reported in the last 90 days · 700 free to solve
 
 **By employer group:** 🧠 AI labs (221) · 📈 Quant firms (68) · 🏛️ MAANG+ (774)
 
-**Companies:** [Meta (231)](../companies/meta.md) · [Amazon (210)](../companies/amazon.md) · [Google (167)](../companies/google.md) · [Microsoft (120)](../companies/microsoft.md) · [Uber (105)](../companies/uber.md) · [ByteDance (94)](../companies/bytedance.md) · [OpenAI (92)](../companies/openai.md) · [DoorDash (80)](../companies/doordash.md) · [LinkedIn (75)](../companies/linkedin.md) · [Netflix (70)](../companies/netflix.md) · [Capital One (60)](../companies/capital-one.md) · [Snowflake (60)](../companies/snowflake.md) · [Pinterest (58)](../companies/pinterest.md) · [Apple (57)](../companies/apple.md) · [Databricks (57)](../companies/databricks.md)
+**Companies:** [Meta (231)](../companies/meta.md) · [Amazon (209)](../companies/amazon.md) · [Google (168)](../companies/google.md) · [Microsoft (120)](../companies/microsoft.md) · [Uber (105)](../companies/uber.md) · [ByteDance (94)](../companies/bytedance.md) · [OpenAI (92)](../companies/openai.md) · [DoorDash (80)](../companies/doordash.md) · [LinkedIn (75)](../companies/linkedin.md) · [Netflix (70)](../companies/netflix.md) · [Snowflake (61)](../companies/snowflake.md) · [Capital One (60)](../companies/capital-one.md) · [Pinterest (58)](../companies/pinterest.md) · [Databricks (57)](../companies/databricks.md) · [Apple (56)](../companies/apple.md)
 
 <sub>Page [1](onsite.md) · [2](onsite-2.md) · [3](onsite-3.md) · [4](onsite-4.md) · [5](onsite-5.md) · **6**</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Amazon](../companies/amazon.md)** | [Demonstrate ownership and communication under pressure](https://trueinterview.io/questions/demonstrate-ownership-and-communication-under-pressure) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-ownership-and-communication-under-pressure) | — |
 | **[Capital One](../companies/capital-one.md)** | [Demonstrate ownership and navigate challenges](https://trueinterview.io/questions/demonstrate-ownership-and-navigate-challenges) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-ownership-and-navigate-challenges) | — |
 | **[Amazon](../companies/amazon.md)** | [Demonstrate problem-solving under resistance](https://trueinterview.io/questions/demonstrate-problem-solving-under-resistance) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-problem-solving-under-resistance) | — |
 | **[Thumbtack](../companies/thumbtack.md)** | [Demonstrate rapid analysis and stakeholder debrief](https://trueinterview.io/questions/demonstrate-rapid-analysis-and-stakeholder-debrief) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-rapid-analysis-and-stakeholder-debrief) | — |

@@ -6,7 +6,7 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**1,830 questions** · 1,451 at Senior/Staff+ · 345 reported in the last 90 days · 1,830 free to solve
+**1,830 questions** · 1,450 at Senior/Staff+ · 345 reported in the last 90 days · 1,830 free to solve
 
 **Companies:** [Meta (176)](../companies/meta.md) · [Amazon (147)](../companies/amazon.md) · [Google (114)](../companies/google.md) · [Capital One (111)](../companies/capital-one.md) · [ByteDance (110)](../companies/bytedance.md) · [Uber (77)](../companies/uber.md) · [Microsoft (55)](../companies/microsoft.md) · [Apple (54)](../companies/apple.md) · [DoorDash (47)](../companies/doordash.md) · [Snowflake (43)](../companies/snowflake.md) · [Goldman Sachs (40)](../companies/goldman-sachs.md) · [Anthropic (35)](../companies/anthropic.md) · [Snapchat (32)](../companies/snapchat.md) · [LinkedIn (31)](../companies/linkedin.md) · [Instacart (30)](../companies/instacart.md)
 
