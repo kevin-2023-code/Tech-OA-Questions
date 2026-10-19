@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,967 questions** · 2,271 at Senior/Staff+ · 670 reported in the last 90 days · 1,025 free to solve
+**2,968 questions** · 2,272 at Senior/Staff+ · 671 reported in the last 90 days · 1,025 free to solve
 
 **By employer group:** 🧠 AI labs (247) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Netflix](../companies/netflix.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +1 | [Topological Sort / Course Schedule for Ads](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | Jul 2026 |
 | **[OpenAI](../companies/openai.md)** | [Toy Language Type System](https://trueinterview.io/questions/toy-language-type-system) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/toy-language-type-system) | Jul 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Tree Height After Node Removal](https://trueinterview.io/questions/656949e3-a5f9-4e20-bf38-ee5b7cab1eef) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/656949e3-a5f9-4e20-bf38-ee5b7cab1eef) | Jul 2026 |
 | **[Apple](../companies/apple.md)** | [Unit Conversion II](https://trueinterview.io/questions/00f63c5f-2290-52e8-bdeb-3514a6c97993) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/00f63c5f-2290-52e8-bdeb-3514a6c97993) | Jul 2026 |
@@ -106,7 +107,7 @@
 | **[Tesla](../companies/tesla.md)** | [Bulls and Cows with Per-Position Match Signal](https://trueinterview.io/questions/bulls-and-cows-position-signal) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bulls-and-cows-position-signal) | Jun 3, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [RAG / Agent / Kafka Oral Drill](https://trueinterview.io/questions/rag-agent-kafka-oral-drill) | Phone | New grad · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/rag-agent-kafka-oral-drill) | Jun 3, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Boxes, Keys & Candies](https://trueinterview.io/questions/boxes-keys-candies-ood) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/boxes-keys-candies-ood) | Jun 2, 2026 |
-| **[Anthropic](../companies/anthropic.md)** / [Lyft](../companies/lyft.md) | [Design a 1-to-1 Chat System](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Phone · Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Jun 2, 2026 |
+| **[Anthropic](../companies/anthropic.md)** / [Lyft](../companies/lyft.md) | [Design a 1-to-1 Chat System](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Phone · Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Jun 2, 2026 |
 | **[Ramp](../companies/ramp.md)** | [User Flight Location Tracker](https://trueinterview.io/questions/find-a-user-s-airport-from-flight-history) | Phone · Onsite | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/find-a-user-s-airport-from-flight-history) | Jun 1, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Answer project and leadership behavioral questions](https://trueinterview.io/questions/answer-project-and-leadership-behavioral-questions) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/answer-project-and-leadership-behavioral-questions) | Jun 2026 |
 | **[Expedia](../companies/expedia.md)** | [Beautiful Towers II](https://trueinterview.io/questions/34491db6-0231-5d69-ac89-adc7b4b9f6e9) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/34491db6-0231-5d69-ac89-adc7b4b9f6e9) | Jun 2026 |
@@ -327,7 +328,7 @@
 | **[Google](../companies/google.md)** | [Longest Non-Increasing Path in Grid with One-Step Lookback Constraint](https://trueinterview.io/questions/4a968844-11c7-48d6-a31e-f0e5961bb753) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4a968844-11c7-48d6-a31e-f0e5961bb753) | May 2026 |
 | **[Uber](../companies/uber.md)** | [Maintain the First Value That Appears Exactly Once](https://trueinterview.io/questions/maintain-the-first-value-that-appears-exactly-once) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maintain-the-first-value-that-appears-exactly-once) | May 2026 |
 | **[Databricks](../companies/databricks.md)** / [Salesforce](../companies/salesforce.md) / [Uber](../companies/uber.md) | [Maximal Square and Rectangle in Binary Matrix](https://trueinterview.io/questions/maximal-square-and-rectangle-in-binary-matrix) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximal-square-and-rectangle-in-binary-matrix) | May 2026 |
-| **[Meta](../companies/meta.md)** | [Maze Problem](https://trueinterview.io/questions/110ab1b0-fab7-4c67-a9b4-569ce7d74c2f) | Phone | Mid · **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/110ab1b0-fab7-4c67-a9b4-569ce7d74c2f) | May 2026 |
+| **[Meta](../companies/meta.md)** | [Maze Problem](https://trueinterview.io/questions/110ab1b0-fab7-4c67-a9b4-569ce7d74c2f) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/110ab1b0-fab7-4c67-a9b4-569ce7d74c2f) | May 2026 |
 | **[Oscar Health](../companies/oscar-health.md)** | [Morse Code Conversion](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | May 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Meta](../companies/meta.md) | [Nearest Exit in a 2D Grid (BFS)](https://trueinterview.io/questions/f81c8862-7d95-4d4f-9537-73b6b1642297) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f81c8862-7d95-4d4f-9537-73b6b1642297) | May 2026 |
 | **[Waymo](../companies/waymo.md)** | [Optimize Tensor Runtime Kernels](https://trueinterview.io/questions/optimize-tensor-runtime-kernels) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/optimize-tensor-runtime-kernels) | May 2026 |
@@ -418,6 +419,5 @@
 | **[Microsoft](../companies/microsoft.md)** | [Sort Three Categories In Place](https://trueinterview.io/questions/sort-three-categories-in-place) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sort-three-categories-in-place) | Apr 18, 2026 |
 | **[Meta](../companies/meta.md)** | [DE AI-Native Full-Stack Round](https://trueinterview.io/questions/de-ai-native-full-stack-round) | Phone | Mid · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/de-ai-native-full-stack-round) | Apr 17, 2026 |
 | **[Snapchat](../companies/snapchat.md)** / [Tesla](../companies/tesla.md) / [Waymo](../companies/waymo.md) | [Maximum Island Perimeter](https://trueinterview.io/questions/maximum-island-perimeter) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-island-perimeter) | Apr 17, 2026 |
-| **[Anthropic](../companies/anthropic.md)** | [ML Configuration System](https://trueinterview.io/questions/ml-configuration-system) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ml-configuration-system) | Apr 17, 2026 |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · **3** · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

@@ -6,7 +6,7 @@
 
 **118 questions** · Senior & Staff+ 88 · ML & Research Scientist 3 · Quant researcher & developer 1 · last reported Oct 2026
 
-**Rounds:** 📝 OA (27) · 📞 Phone (49) · 🏢 Onsite (50)
+**Rounds:** 📝 OA (27) · 📞 Phone (50) · 🏢 Onsite (50)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/stripe-interview-process)
 
@@ -46,6 +46,7 @@
 | [Validate a Length-Limited Field and Forbidden Description Terms](https://trueinterview.io/questions/9baeb5c4-0679-5fda-aa74-bad3d7a9a5e4) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9baeb5c4-0679-5fda-aa74-bad3d7a9a5e4) | Sep 2026 |
 | [Verify Business Name Overlap with Nickname](https://trueinterview.io/questions/ebf98d3b-d473-5ce3-858d-a80947f240ce) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ebf98d3b-d473-5ce3-858d-a80947f240ce) | Sep 2026 |
 | [Verify Business Records by Required Fields](https://trueinterview.io/questions/f8231511-f6ac-545f-b959-3920ee7eac6c) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f8231511-f6ac-545f-b959-3920ee7eac6c) | Sep 2026 |
+| [Design Merchant Lender System](https://trueinterview.io/questions/ledger-system) | Phone · Onsite | New grad · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/ledger-system) | Aug 29, 2026 |
 | [Parse and Format Arbitrarily Nested Tasks from CSV](https://trueinterview.io/questions/parse-and-format-arbitrarily-nested-tasks-from-csv) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/parse-and-format-arbitrarily-nested-tasks-from-csv) | Aug 25, 2026 |
 | [Design a Scalable Idempotent Ledger Service](https://trueinterview.io/questions/design-a-scalable-idempotent-ledger-service) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-scalable-idempotent-ledger-service) | Aug 20, 2026 |
 | [API Integration: Fetch and Aggregate Data from REST API (PokeAPI practice)](https://trueinterview.io/questions/858a5630-4db7-4780-ab13-a90b6c71d724) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/858a5630-4db7-4780-ab13-a90b6c71d724) | Aug 2026 |
@@ -87,9 +88,8 @@
 | [Business CSV Data Validator](https://trueinterview.io/questions/dataset-validation-csv) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/dataset-validation-csv) | Apr 2026 |
 | [Design Access Management System](https://trueinterview.io/questions/role-and-resource-access-system)<br><sub>also [Atlassian](../companies/atlassian.md) / [Expedia](../companies/expedia.md) / [Ramp](../companies/ramp.md) / +4</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/role-and-resource-access-system) | Apr 2026 |
 | [Fee Calculation for Transactions](https://trueinterview.io/questions/012ccdf5-7691-4ff9-9a61-9b5cf3c60ead) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/012ccdf5-7691-4ff9-9a61-9b5cf3c60ead) | Apr 2026 |
-| [Metric Counter Library](https://trueinterview.io/questions/metric-counter-library) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/metric-counter-library) | Apr 2026 |
+| [Metric Counter Library](https://trueinterview.io/questions/metric-counter-library) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/metric-counter-library) | Apr 2026 |
 | [RBAC Role Resolver](https://trueinterview.io/questions/rbac-role-resolver) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/rbac-role-resolver) | Apr 2026 |
-| [Design Merchant Lender System](https://trueinterview.io/questions/ledger-system) | Onsite | New grad · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/ledger-system) | Mar 31, 2026 |
 | [Account Scheduler with LRU](https://trueinterview.io/questions/account-scheduler-lru) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/account-scheduler-lru) | Mar 27, 2026 |
 | [Match payments to invoices by memo or amount](https://trueinterview.io/questions/match-payments-to-invoices-by-memo-or-amount-2)<br><sub>also [Google](../companies/google.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/match-payments-to-invoices-by-memo-or-amount-2) | Mar 2026 |
 | [Applicant Coding Skills Matching](https://trueinterview.io/questions/applicant-coding-skills-matching) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/applicant-coding-skills-matching) | Feb 9, 2026 |

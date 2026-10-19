@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,117 at Senior/Staff+ · 1,238 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,115 at Senior/Staff+ · 1,239 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (769) · 📞 Phone (2,967) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (769) · 📞 Phone (2,968) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · **5** · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -17,6 +17,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Anthropic](../companies/anthropic.md)** | [Repair Bootloader Program](https://trueinterview.io/questions/61e8a96a-9a4c-4360-8605-6dc9dced96a8) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/61e8a96a-9a4c-4360-8605-6dc9dced96a8) | Jun 15, 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Ring Buffer (Producer / Consumer with Backpressure)](https://trueinterview.io/questions/ring-buffer-producer-consumer) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ring-buffer-producer-consumer) | Jun 15, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [MCQ + NN Forward + Coding + ML Implementations)](https://trueinterview.io/questions/mle-intern-codesignal-oa) | OA | New grad | blog | [![Free][f]](https://trueinterview.io/questions/mle-intern-codesignal-oa) | Jun 14, 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Task Processor: Dependencies and Deadlines](https://trueinterview.io/questions/task-processor-dependencies-and-deadlines) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/task-processor-dependencies-and-deadlines) | Jun 14, 2026 |
@@ -78,7 +79,7 @@
 | **[ByteDance](../companies/bytedance.md)** | [RAG / Agent / Kafka Oral Drill](https://trueinterview.io/questions/rag-agent-kafka-oral-drill) | Phone | New grad · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/rag-agent-kafka-oral-drill) | Jun 3, 2026 |
 | **[Okta](../companies/okta.md)** | [Array Duplication — O(n) and Memory Trade-offs](https://trueinterview.io/questions/array-deduplication) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/array-deduplication) | Jun 2, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Boxes, Keys & Candies](https://trueinterview.io/questions/boxes-keys-candies-ood) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/boxes-keys-candies-ood) | Jun 2, 2026 |
-| **[Anthropic](../companies/anthropic.md)** / [Lyft](../companies/lyft.md) | [Design a 1-to-1 Chat System](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Phone · Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Jun 2, 2026 |
+| **[Anthropic](../companies/anthropic.md)** / [Lyft](../companies/lyft.md) | [Design a 1-to-1 Chat System](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Phone · Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Jun 2, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Find Size of Largest Subset](https://trueinterview.io/questions/find-size-of-largest-subset) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-size-of-largest-subset) | Jun 1, 2026 |
 | **[Google](../companies/google.md)** | [Huffman Tree Construction](https://trueinterview.io/questions/huffman-tree-construction) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/huffman-tree-construction) | Jun 1, 2026 |
 | **[Ramp](../companies/ramp.md)** | [User Flight Location Tracker](https://trueinterview.io/questions/find-a-user-s-airport-from-flight-history) | Phone · Onsite | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/find-a-user-s-airport-from-flight-history) | Jun 1, 2026 |
@@ -119,7 +120,7 @@
 | **[Amazon](../companies/amazon.md)** | [Diagnose Return Eligibility Scoring Bugs](https://trueinterview.io/questions/diagnose-return-eligibility-scoring-bugs) | OA | Intern · New grad | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-return-eligibility-scoring-bugs) | Jun 2026 |
 | **[Google](../companies/google.md)** | [Dijkstra's Algorithm Implementation](https://trueinterview.io/questions/efc13ca9-aeaa-4b56-991a-b7299fe558d2) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/efc13ca9-aeaa-4b56-991a-b7299fe558d2) | Jun 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Distance from Each 1 to the Nearest 2 in an Array](https://trueinterview.io/questions/473fe3ed-b49d-5d11-b6c6-ce03b84b55b4) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/473fe3ed-b49d-5d11-b6c6-ce03b84b55b4) | Jun 2026 |
-| **[Anthropic](../companies/anthropic.md)** | [Efficiency of Distributed Systems](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Jun 2026 |
+| **[Anthropic](../companies/anthropic.md)** | [Efficiency of Distributed Systems](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Onsite | Mid | System design | [![Free][f]](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Jun 2026 |
 | **[Databricks](../companies/databricks.md)** | [Encrypt All Files in a File-System Tree](https://trueinterview.io/questions/encrypt-all-files-in-a-file-system-tree) | Phone | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/encrypt-all-files-in-a-file-system-tree) | Jun 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Explain learning-rate fluctuation and vanishing gradients](https://trueinterview.io/questions/explain-learning-rate-fluctuation-and-vanishing-gradients) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/explain-learning-rate-fluctuation-and-vanishing-gradients) | Jun 2026 |
 | **[Google](../companies/google.md)** | [Explain LLM lifecycle and trade-offs](https://trueinterview.io/questions/explain-llm-lifecycle-and-trade-offs) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/explain-llm-lifecycle-and-trade-offs) | Jun 2026 |
@@ -416,6 +417,5 @@
 | **[Meta](../companies/meta.md)** | [Compare Two Linked Lists' Concatenated Strings](https://trueinterview.io/questions/f57623fa-df0e-49d8-8275-3787fab19121) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f57623fa-df0e-49d8-8275-3787fab19121) | May 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Compute EMA Indicators and Detect Crossovers in Pandas](https://trueinterview.io/questions/eec3b2bb-0fda-44b2-bc31-5efa0e915e2d) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/eec3b2bb-0fda-44b2-bc31-5efa0e915e2d) | May 2026 |
 | **[Netflix](../companies/netflix.md)** | [Count the Number of String Pairs With No Common Characters](https://trueinterview.io/questions/044e7295-5015-4975-b30c-5cdc060ccec8) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/044e7295-5015-4975-b30c-5cdc060ccec8) | May 2026 |
-| **[Apple](../companies/apple.md)** | [Crafting a Compelling Job Transition and Motivation Response](https://trueinterview.io/questions/ebf5d768-7f3c-40dc-927c-477fe70eae77) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/ebf5d768-7f3c-40dc-927c-477fe70eae77) | May 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · **5** · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

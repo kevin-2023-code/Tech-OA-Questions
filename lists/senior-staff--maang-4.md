@@ -10,7 +10,7 @@
 
 **1,259 questions** · 1,259 at Senior/Staff+ · 309 reported in the last 90 days · 425 free to solve
 
-**Rounds:** 📝 OA (56) · 📞 Phone (671) · 🏢 Onsite (626) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (55) · 📞 Phone (671) · 🏢 Onsite (627) · 🏠 Take-home (1)
 
 **Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [Microsoft (179)](../companies/microsoft.md) · [Apple (135)](../companies/apple.md) · [Netflix (93)](../companies/netflix.md)
 

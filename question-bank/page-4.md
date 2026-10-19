@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,117 at Senior/Staff+ · 1,238 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,115 at Senior/Staff+ · 1,239 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (769) · 📞 Phone (2,967) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (769) · 📞 Phone (2,968) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · **4** · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -17,6 +17,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Lyft](../companies/lyft.md)** | [Job Scheduler](https://trueinterview.io/questions/job-scheduler-minimum-workers) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/job-scheduler-minimum-workers) | Jul 29, 2026 |
 | **[Point72](../companies/point72.md)** | [League Earnings](https://trueinterview.io/questions/league-earnings) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/league-earnings) | Jul 29, 2026 |
 | **[Point72](../companies/point72.md)** | [Optimal Stock Price Subsequence](https://trueinterview.io/questions/optimal-stock-price-subsequence) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/optimal-stock-price-subsequence) | Jul 29, 2026 |
 | **[Point72](../companies/point72.md)** | [Price Percentile Cutoff](https://trueinterview.io/questions/price-percentile-cutoff) | OA · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/price-percentile-cutoff) | Jul 29, 2026 |
@@ -416,6 +417,5 @@
 | **[Uber](../companies/uber.md)** | [First Customer Who Visited Only Once](https://trueinterview.io/questions/phone-screen-first-unique-visitor) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/phone-screen-first-unique-visitor) | Jun 15, 2026 |
 | **[Perplexity](../companies/perplexity.md)** / [Harvey](../companies/harvey.md) / [Shopify](../companies/shopify.md) | [In-Memory Unix File System](https://trueinterview.io/questions/in-memory-unix-file-system) | Phone | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-unix-file-system) | Jun 15, 2026 |
 | **[Apple](../companies/apple.md)** | [OS Fundamentals & Concurrency Drill](https://trueinterview.io/questions/os-fundamentals-and-concurrency) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/os-fundamentals-and-concurrency) | Jun 15, 2026 |
-| **[Anthropic](../companies/anthropic.md)** | [Repair Bootloader Program](https://trueinterview.io/questions/61e8a96a-9a4c-4360-8605-6dc9dced96a8) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/61e8a96a-9a4c-4360-8605-6dc9dced96a8) | Jun 15, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · **4** · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

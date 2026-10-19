@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**4,117 questions** · 4,117 at Senior/Staff+ · 933 reported in the last 90 days · 1,452 free to solve
+**4,115 questions** · 4,115 at Senior/Staff+ · 934 reported in the last 90 days · 1,451 free to solve
 
-**Rounds:** 📝 OA (257) · 📞 Phone (2,271) · 🏢 Onsite (1,860) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (256) · 📞 Phone (2,272) · 🏢 Onsite (1,859) · 🏠 Take-home (8)
 
-**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (248)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (93)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
+**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (247)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (93)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md) · [9](senior-staff-9.md) · [10](senior-staff-10.md) · **11**</sub>
 
@@ -21,8 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Meta](../companies/meta.md)** | [Size opportunity and prioritize experiments](https://trueinterview.io/questions/size-opportunity-and-prioritize-experiments) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/size-opportunity-and-prioritize-experiments) | — |
-| **[Capital One](../companies/capital-one.md)** | [Sketch function from derivatives and limits](https://trueinterview.io/questions/sketch-function-from-derivatives-and-limits) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/sketch-function-from-derivatives-and-limits) | — |
 | **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[Intuit](../companies/intuit.md)** | [Smart Gardener (Intuit India)](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | — |
 | **[Instacart](../companies/instacart.md)** | [Solve a challenge using data](https://trueinterview.io/questions/solve-a-challenge-using-data) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/solve-a-challenge-using-data) | — |

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,967 questions** · 2,271 at Senior/Staff+ · 670 reported in the last 90 days · 1,025 free to solve
+**2,968 questions** · 2,272 at Senior/Staff+ · 671 reported in the last 90 days · 1,025 free to solve
 
 **By employer group:** 🧠 AI labs (247) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Anthropic](../companies/anthropic.md)** | [ML Configuration System](https://trueinterview.io/questions/ml-configuration-system) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ml-configuration-system) | Apr 17, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Retain Top K Elements](https://trueinterview.io/questions/retain-top-k-elements) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/retain-top-k-elements) | Apr 17, 2026 |
 | **[Mistral AI](../companies/mistral-ai.md)** | [Compute Remaining GPUs With Switching Limits](https://trueinterview.io/questions/compute-remaining-gpus-with-switching-limits) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/compute-remaining-gpus-with-switching-limits) | Apr 16, 2026 |
 | **[Mistral AI](../companies/mistral-ai.md)** | [Design a PDF-to-Markdown Inference API](https://trueinterview.io/questions/design-a-pdf-to-markdown-inference-api) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-pdf-to-markdown-inference-api) | Apr 16, 2026 |
@@ -418,6 +419,5 @@
 | **[NVIDIA](../companies/nvidia.md)** | [FP32 Tensor to Int8 Quantization](https://trueinterview.io/questions/fp32-to-int8-quantization) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/fp32-to-int8-quantization) | Feb 12, 2026 |
 | **[Millennium](../companies/millennium.md)** | [How do you explain work to non-technical partners?](https://trueinterview.io/questions/how-do-you-explain-work-to-non-technical-partners) | Phone | Mid · **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-explain-work-to-non-technical-partners) | Feb 12, 2026 |
 | **[Lead Bank](../companies/lead-bank.md)** | [Implement a versioned hash map with snapshot](https://trueinterview.io/questions/implement-a-versioned-hash-map-with-snapshot) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-versioned-hash-map-with-snapshot) | Feb 12, 2026 |
-| **[Bloomberg](../companies/bloomberg.md)** | [Implement sliding-window timestamped average](https://trueinterview.io/questions/implement-sliding-window-timestamped-average) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-sliding-window-timestamped-average) | Feb 12, 2026 |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · **4** · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

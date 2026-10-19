@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,967 questions** · 2,271 at Senior/Staff+ · 670 reported in the last 90 days · 1,025 free to solve
+**2,968 questions** · 2,272 at Senior/Staff+ · 671 reported in the last 90 days · 1,025 free to solve
 
 **By employer group:** 🧠 AI labs (247) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Airbnb](../companies/airbnb.md)** | [Compute C/T metrics from bookings and visits](https://trueinterview.io/questions/compute-c-t-metrics-from-bookings-and-visits) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-c-t-metrics-from-bookings-and-visits) | — |
 | **[Intuit](../companies/intuit.md)** | [Compute churn and revenue churn in SQL](https://trueinterview.io/questions/compute-churn-and-revenue-churn-in-sql) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-churn-and-revenue-churn-in-sql) | — |
 | **[Google](../companies/google.md)** | [Compute city skyline outline](https://trueinterview.io/questions/compute-city-skyline-outline) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-city-skyline-outline) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Compute cluster-aware significance and sequential corrections](https://trueinterview.io/questions/compute-cluster-aware-significance-and-sequential-corrections) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/compute-cluster-aware-significance-and-sequential-corrections) | — |
@@ -418,6 +419,5 @@
 | **[Tubi](../companies/tubi.md)** | [Measure Super Bowl ad impact with causal design](https://trueinterview.io/questions/measure-super-bowl-ad-impact-with-causal-design) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/measure-super-bowl-ad-impact-with-causal-design) | — |
 | **[Google](../companies/google.md)** | [Median of K Sorted Arrays](https://trueinterview.io/questions/de10f46c-104a-598a-837a-013d53946300) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/de10f46c-104a-598a-837a-013d53946300) | — |
 | **[WeRide](../companies/weride.md)** | [Meetup Schedule](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | — |
-| **[Amazon](../companies/amazon.md)** | [Merge Multiple Timestamp-Sorted Event Streams](https://trueinterview.io/questions/f9d4f6f9-8614-52f4-b0a7-03d4f4f78ed7) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f9d4f6f9-8614-52f4-b0a7-03d4f4f78ed7) | — |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · **7** · [8](phone-screen-8.md)</sub>

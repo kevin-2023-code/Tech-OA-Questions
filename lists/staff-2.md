@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**1,148 questions** · 1,148 at Senior/Staff+ · 175 reported in the last 90 days · 692 free to solve
+**1,149 questions** · 1,149 at Senior/Staff+ · 178 reported in the last 90 days · 694 free to solve
 
-**Rounds:** 📝 OA (18) · 📞 Phone (598) · 🏢 Onsite (561) · 🏠 Take-home (3)
+**Rounds:** 📝 OA (18) · 📞 Phone (598) · 🏢 Onsite (562) · 🏠 Take-home (3)
 
-**Companies:** [Meta (183)](../companies/meta.md) · [Amazon (80)](../companies/amazon.md) · [Google (70)](../companies/google.md) · [ByteDance (68)](../companies/bytedance.md) · [Capital One (64)](../companies/capital-one.md) · [Uber (50)](../companies/uber.md) · [Microsoft (42)](../companies/microsoft.md) · [DoorDash (38)](../companies/doordash.md) · [LinkedIn (38)](../companies/linkedin.md) · [OpenAI (32)](../companies/openai.md) · [Instacart (28)](../companies/instacart.md) · [Pinterest (27)](../companies/pinterest.md) · [Apple (25)](../companies/apple.md) · [Roblox (25)](../companies/roblox.md) · [Stripe (19)](../companies/stripe.md)
+**Companies:** [Meta (184)](../companies/meta.md) · [Amazon (81)](../companies/amazon.md) · [Google (70)](../companies/google.md) · [ByteDance (67)](../companies/bytedance.md) · [Capital One (64)](../companies/capital-one.md) · [Uber (50)](../companies/uber.md) · [Microsoft (42)](../companies/microsoft.md) · [DoorDash (39)](../companies/doordash.md) · [LinkedIn (37)](../companies/linkedin.md) · [OpenAI (34)](../companies/openai.md) · [Instacart (28)](../companies/instacart.md) · [Pinterest (27)](../companies/pinterest.md) · [Apple (25)](../companies/apple.md) · [Roblox (25)](../companies/roblox.md) · [Airbnb (20)](../companies/airbnb.md)
 
 <sub>Page [1](staff.md) · **2** · [3](staff-3.md)</sub>
 
@@ -21,6 +21,8 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Axon](../companies/axon.md)** | [Answer tough self-awareness and team questions](https://trueinterview.io/questions/answer-tough-self-awareness-and-team-questions) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/answer-tough-self-awareness-and-team-questions) | Feb 8, 2026 |
+| **[Asana](../companies/asana.md)** | [Design a Twitter-like microblogging service](https://trueinterview.io/questions/design-a-twitter-like-microblogging-service) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-twitter-like-microblogging-service) | Feb 8, 2026 |
 | **[Asana](../companies/asana.md)** | [Discuss projects, mentorship, and conflict resolution](https://trueinterview.io/questions/discuss-projects-mentorship-and-conflict-resolution) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/discuss-projects-mentorship-and-conflict-resolution) | Feb 8, 2026 |
 | **[Axon](../companies/axon.md)** | [Design device logging system with offline upload](https://trueinterview.io/questions/design-device-logging-system-with-offline-upload) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-device-logging-system-with-offline-upload) | Feb 6, 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Evaluate a new ranking model](https://trueinterview.io/questions/evaluate-a-new-ranking-model) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-a-new-ranking-model) | Feb 6, 2026 |
@@ -419,7 +421,5 @@
 | **[Capital One](../companies/capital-one.md)** | [Design a profit growth strategy](https://trueinterview.io/questions/design-a-profit-growth-strategy) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/design-a-profit-growth-strategy) | — |
 | **[xAI](../companies/xai.md)** | [Design a Rate Limiter with Variable User Quotas](https://trueinterview.io/questions/design-a-rate-limiter-with-variable-user-quotas) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-rate-limiter-with-variable-user-quotas) | — |
 | **[Meta](../companies/meta.md)** | [Design a restaurant recommender under cold start](https://trueinterview.io/questions/design-a-restaurant-recommender-under-cold-start) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-restaurant-recommender-under-cold-start) | — |
-| **[Netflix](../companies/netflix.md)** | [Design a robust conversion propensity model](https://trueinterview.io/questions/design-a-robust-conversion-propensity-model) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-robust-conversion-propensity-model) | — |
-| **[Uber](../companies/uber.md)** | [Design a robust email A/B test](https://trueinterview.io/questions/design-a-robust-email-a-b-test) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-robust-email-a-b-test) | — |
 
 <sub>Page [1](staff.md) · **2** · [3](staff-3.md)</sub>

@@ -11,7 +11,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Meta](meta.md) | 🏛️ MAANG+ | 485 | 422 | 28 | — | Oct 2026 |
 | [Amazon](amazon.md) | 🏛️ MAANG+ | 467 | 289 | 52 | 3 | Oct 2026 |
 | [Google](google.md) | 🏛️ MAANG+ | 380 | 278 | 18 | 4 | Oct 2026 |
-| [ByteDance](bytedance.md) | — | 345 | 248 | 28 | 3 | Oct 2026 |
+| [ByteDance](bytedance.md) | — | 345 | 247 | 28 | 3 | Oct 2026 |
 | [Uber](uber.md) | — | 264 | 205 | 14 | 2 | Oct 2026 |
 | [Microsoft](microsoft.md) | 🏛️ MAANG+ | 239 | 179 | 27 | 2 | Oct 2026 |
 | [Capital One](capital-one.md) | — | 193 | 148 | 12 | 2 | Sep 2026 |
@@ -26,7 +26,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Netflix](netflix.md) | 🏛️ MAANG+ | 104 | 93 | 10 | — | Oct 2026 |
 | [Roblox](roblox.md) | — | 102 | 79 | 7 | — | Sep 2026 |
 | [Salesforce](salesforce.md) | — | 100 | 70 | 2 | — | Oct 2026 |
-| [Anthropic](anthropic.md) | 🧠 AI labs | 99 | 85 | 19 | — | Sep 2026 |
+| [Anthropic](anthropic.md) | 🧠 AI labs | 99 | 84 | 19 | — | Sep 2026 |
 | [Bloomberg](bloomberg.md) | — | 91 | 57 | — | 1 | Oct 2026 |
 | [Citadel](citadel.md) | 📈 Quant firms | 91 | 48 | — | 65 | Sep 2026 |
 | [Airbnb](airbnb.md) | — | 89 | 77 | 7 | — | Sep 2026 |

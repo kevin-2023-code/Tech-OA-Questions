@@ -8,7 +8,7 @@
 
 Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anthropic, xAI**, **Citadel, Two Sigma, Squarepoint**, **Meta, Amazon, Google** and 128 more — **every row tagged with the level and the round it was asked in.** Synced hourly.
 
-**5,636 questions** · **4,117 at Senior/Staff+** · **467 ML & research** · **285 quant** · 769 OA · 1,238 reported in the last 90 days · 1,830 free
+**5,636 questions** · **4,115 at Senior/Staff+** · **467 ML & research** · **285 quant** · 769 OA · 1,239 reported in the last 90 days · 1,830 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
@@ -20,13 +20,13 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 
 | Who you are ↓ · Where you're interviewing → | 🧠 **AI labs** | 📈 **Quant firms** | 🏛️ **MAANG+** | 🌐 **All companies** |
 | :-- | :-: | :-: | :-: | :-: |
-| 🎯 **Senior & Staff+**<br><sub>≈ L5 / E5 and up</sub> | [**401**](lists/senior-staff--ai-labs.md) | [**189**](lists/senior-staff--quant.md) | [**1,259**](lists/senior-staff--maang.md) | [**4,117**](lists/senior-staff.md) |
-| 🚀 **Staff+ only**<br><sub>≈ L6 / E6 and up</sub> | [**89**](lists/staff--ai-labs.md) | [**26**](lists/staff--quant.md) | [**389**](lists/staff--maang.md) | [**1,148**](lists/staff.md) |
+| 🎯 **Senior & Staff+**<br><sub>≈ L5 / E5 and up</sub> | [**400**](lists/senior-staff--ai-labs.md) | [**189**](lists/senior-staff--quant.md) | [**1,259**](lists/senior-staff--maang.md) | [**4,115**](lists/senior-staff.md) |
+| 🚀 **Staff+ only**<br><sub>≈ L6 / E6 and up</sub> | [**90**](lists/staff--ai-labs.md) | [**26**](lists/staff--quant.md) | [**391**](lists/staff--maang.md) | [**1,149**](lists/staff.md) |
 | 🔬 **ML & Research Scientist**<br><sub>MLE · Research scientist · AI engineer</sub> | [**103**](lists/ml-research--ai-labs.md) | [**5**](lists/ml-research--quant.md) | [**160**](lists/ml-research--maang.md) | [**467**](lists/ml-research.md) |
 | 📊 **Quant researcher & developer**<br><sub>QR · QD · QT</sub> | — | [**269**](lists/quant-roles--quant.md) | [**9**](lists/quant-roles--maang.md) | [**285**](lists/quant-roles.md) |
 | 🗂️ **Every level**<br><sub>incl. new grad & unclassified</sub> | [**457**](lists/ai-labs.md) | [**377**](lists/quant.md) | [**1,683**](lists/maang.md) | [**5,636**](question-bank/README.md) |
 
-**By round:** [📝 OA (769)](rounds/oa.md) · [📞 Phone (2,967)](rounds/phone-screen.md) · [🏢 Onsite (2,245)](rounds/onsite.md) · [🏠 Take-home (12)](rounds/take-home.md)
+**By round:** [📝 OA (769)](rounds/oa.md) · [📞 Phone (2,968)](rounds/phone-screen.md) · [🏢 Onsite (2,245)](rounds/onsite.md) · [🏠 Take-home (12)](rounds/take-home.md)
 
 **By format:** [Coding (2,499)](formats/algorithm.md) · [System design (703)](formats/system-design.md) · [OOD / LLD (608)](formats/object-oriented-programming.md) · [SQL (297)](formats/sql.md) · [AI coding (126)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (1,830)](lists/free.md)
 
@@ -36,9 +36,9 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 
 | | Questions | Coding | System design | OOD / LLD | SQL | AI coding |
 | :-- | --: | --: | --: | --: | --: | --: |
-| 🚀 Staff+ | 1,148 | 4% | 32% | 2% | 3% | 2% |
-| 🎯 Senior | 2,969 | 48% | 10% | 14% | 8% | 2% |
-| Mid | 1,167 | 66% | 4% | 13% | 3% | 2% |
+| 🚀 Staff+ | 1,149 | 4% | 32% | 2% | 3% | 2% |
+| 🎯 Senior | 2,966 | 48% | 10% | 14% | 8% | 2% |
+| Mid | 1,169 | 66% | 4% | 13% | 3% | 2% |
 | New grad & intern | 333 | 77% | 0% | 7% | 2% | 2% |
 
 <sub>And by employer: how much of what candidates reported came from an **OA round**, and the format mix.</sub>
@@ -136,6 +136,7 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 | **[Google](companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | 🆕 Sep 28, 2026 |
 | **[Amazon](companies/amazon.md)** | [GRPO Notebook Exercise](https://trueinterview.io/questions/grpo-notebook-exercise) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/grpo-notebook-exercise) | 🆕 Sep 26, 2026 |
 | **[Amazon](companies/amazon.md)** | [Multi-Head Attention Coding](https://trueinterview.io/questions/multi-head-attention-coding) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/multi-head-attention-coding) | 🆕 Sep 26, 2026 |
+| **[OpenAI](companies/openai.md)** / [Airbnb](companies/airbnb.md) / [Amazon](companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | 🆕 Sep 23, 2026 |
 | **[Amazon](companies/amazon.md)** | [SDE Project and Resume Deep Dive](https://trueinterview.io/questions/sde-project-resume-deep-dive) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/sde-project-resume-deep-dive) | 🆕 Sep 23, 2026 |
 | **[Amazon](companies/amazon.md)** | [Coordinate a Fleet of Restaurant Robots](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | 🆕 Sep 20, 2026 |
 | **[Amazon](companies/amazon.md)** | [Describe a Deep Debugging Investigation](https://trueinterview.io/questions/describe-a-deep-debugging-investigation) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/describe-a-deep-debugging-investigation) | 🆕 Sep 20, 2026 |
@@ -194,7 +195,6 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 | **[Microsoft](companies/microsoft.md)** | [Find the First Value Repeated During a Left-to-Right Scan](https://trueinterview.io/questions/find-the-first-value-repeated-during-a-left-to-right-scan) | Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-first-value-repeated-during-a-left-to-right-scan) | 🆕 Sep 10, 2026 |
 | **[Microsoft](companies/microsoft.md)** | [Find Unique Zero-Sum Triplets](https://trueinterview.io/questions/find-unique-zero-sum-triplets) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-unique-zero-sum-triplets) | 🆕 Sep 10, 2026 |
 | **[Microsoft](companies/microsoft.md)** | [Resolve Technical Disagreement and Work Across Different Styles](https://trueinterview.io/questions/resolve-technical-disagreement-and-work-across-different-styles) | Onsite | Mid · **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/resolve-technical-disagreement-and-work-across-different-styles) | 🆕 Sep 10, 2026 |
-| **[Microsoft](companies/microsoft.md)** | [Respond to a Reliability Regression Shortly After Deployment](https://trueinterview.io/questions/respond-to-a-reliability-regression-shortly-after-deployment) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/respond-to-a-reliability-regression-shortly-after-deployment) | 🆕 Sep 10, 2026 |
 
 [**All 5,636 questions, every company, newest first →**](question-bank/README.md)
 

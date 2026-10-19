@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,117 at Senior/Staff+ · 1,238 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,115 at Senior/Staff+ · 1,239 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (769) · 📞 Phone (2,967) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (769) · 📞 Phone (2,968) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · **14** · [15](page-15.md)</sub>
 
@@ -253,7 +253,7 @@
 | **[Uber](../companies/uber.md)** | [React Parking Lot System](https://trueinterview.io/questions/893e8e44-58d9-4d46-80c6-fecceb6d3b43) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/893e8e44-58d9-4d46-80c6-fecceb6d3b43) | — |
 | **[Microsoft](../companies/microsoft.md)** | [React Performance Review](https://trueinterview.io/questions/90794d67-2f02-4fea-8b1a-2c0d024a0416) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/90794d67-2f02-4fea-8b1a-2c0d024a0416) | — |
 | **[LinkedIn](../companies/linkedin.md)** | [Real-Time Scalable Spam Email Detection System Design](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | — |
-| **[ByteDance](../companies/bytedance.md)** | [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
+| **[ByteDance](../companies/bytedance.md)** | [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
 | **[Instacart](../companies/instacart.md)** | [Recommend and validate a budget allocation strategy](https://trueinterview.io/questions/recommend-and-validate-a-budget-allocation-strategy) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/recommend-and-validate-a-budget-allocation-strategy) | — |
 | **[Capital One](../companies/capital-one.md)** | [Reconcile ledgers with SQL/Python and late events](https://trueinterview.io/questions/reconcile-ledgers-with-sql-python-and-late-events) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/reconcile-ledgers-with-sql-python-and-late-events) | — |
 | **[Pinterest](../companies/pinterest.md)** | [Recover causal effect without a control group](https://trueinterview.io/questions/recover-causal-effect-without-a-control-group) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/recover-causal-effect-without-a-control-group) | — |

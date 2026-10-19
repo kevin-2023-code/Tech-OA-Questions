@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,967 questions** · 2,271 at Senior/Staff+ · 670 reported in the last 90 days · 1,025 free to solve
+**2,968 questions** · 2,272 at Senior/Staff+ · 671 reported in the last 90 days · 1,025 free to solve
 
 **By employer group:** 🧠 AI labs (247) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Amazon](../companies/amazon.md)** | [Merge Multiple Timestamp-Sorted Event Streams](https://trueinterview.io/questions/f9d4f6f9-8614-52f4-b0a7-03d4f4f78ed7) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f9d4f6f9-8614-52f4-b0a7-03d4f4f78ed7) | — |
 | **[Capital One](../companies/capital-one.md)** | [Merge seven tables into one clean DataFrame](https://trueinterview.io/questions/merge-seven-tables-into-one-clean-dataframe) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/merge-seven-tables-into-one-clean-dataframe) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Mike and Gems](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Minimize Length of Longest Substring](https://trueinterview.io/questions/58c4ff99-6edc-4bf8-a18a-33ee1f085852) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/58c4ff99-6edc-4bf8-a18a-33ee1f085852) | — |

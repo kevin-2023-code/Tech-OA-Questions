@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,245 questions** · 1,860 at Senior/Staff+ · 523 reported in the last 90 days · 700 free to solve
+**2,245 questions** · 1,859 at Senior/Staff+ · 524 reported in the last 90 days · 700 free to solve
 
 **By employer group:** 🧠 AI labs (221) · 📈 Quant firms (68) · 🏛️ MAANG+ (774)
 
@@ -208,7 +208,7 @@
 | **[Uber](../companies/uber.md)** | [React Parking Lot System](https://trueinterview.io/questions/893e8e44-58d9-4d46-80c6-fecceb6d3b43) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/893e8e44-58d9-4d46-80c6-fecceb6d3b43) | — |
 | **[Microsoft](../companies/microsoft.md)** | [React Performance Review](https://trueinterview.io/questions/90794d67-2f02-4fea-8b1a-2c0d024a0416) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/90794d67-2f02-4fea-8b1a-2c0d024a0416) | — |
 | **[LinkedIn](../companies/linkedin.md)** | [Real-Time Scalable Spam Email Detection System Design](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | — |
-| **[ByteDance](../companies/bytedance.md)** | [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
+| **[ByteDance](../companies/bytedance.md)** | [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
 | **[Pinterest](../companies/pinterest.md)** | [Recover causal effect without a control group](https://trueinterview.io/questions/recover-causal-effect-without-a-control-group) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/recover-causal-effect-without-a-control-group) | — |
 | **[Meta](../companies/meta.md)** | [Redesign an executive dashboard for C-suite](https://trueinterview.io/questions/redesign-an-executive-dashboard-for-c-suite) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/redesign-an-executive-dashboard-for-c-suite) | — |
 | **[Meta](../companies/meta.md)** | [Reduce variance with covariate adjustment](https://trueinterview.io/questions/reduce-variance-with-covariate-adjustment) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/reduce-variance-with-covariate-adjustment) | — |

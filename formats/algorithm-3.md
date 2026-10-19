@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,499 questions** · 1,467 at Senior/Staff+ · 597 reported in the last 90 days · 302 free to solve
+**2,499 questions** · 1,466 at Senior/Staff+ · 597 reported in the last 90 days · 302 free to solve
 
 **Rounds:** 📝 OA (563) · 📞 Phone (1,501) · 🏢 Onsite (624) · 🏠 Take-home (2)
 
@@ -261,7 +261,7 @@
 | **[Uber](../companies/uber.md)** | [Maintain the First Value That Appears Exactly Once](https://trueinterview.io/questions/maintain-the-first-value-that-appears-exactly-once) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maintain-the-first-value-that-appears-exactly-once) | May 2026 |
 | **[Microsoft](../companies/microsoft.md)** / [GEICO](../companies/geico.md) / [WeRide](../companies/weride.md) | [Matrix Multiplication](https://trueinterview.io/questions/8873c68e-43b6-476d-be5f-36030a3aec82) | OA | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/8873c68e-43b6-476d-be5f-36030a3aec82) | May 2026 |
 | **[Databricks](../companies/databricks.md)** / [Salesforce](../companies/salesforce.md) / [Uber](../companies/uber.md) | [Maximal Square and Rectangle in Binary Matrix](https://trueinterview.io/questions/maximal-square-and-rectangle-in-binary-matrix) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximal-square-and-rectangle-in-binary-matrix) | May 2026 |
-| **[Meta](../companies/meta.md)** | [Maze Problem](https://trueinterview.io/questions/110ab1b0-fab7-4c67-a9b4-569ce7d74c2f) | Phone | Mid · **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/110ab1b0-fab7-4c67-a9b4-569ce7d74c2f) | May 2026 |
+| **[Meta](../companies/meta.md)** | [Maze Problem](https://trueinterview.io/questions/110ab1b0-fab7-4c67-a9b4-569ce7d74c2f) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/110ab1b0-fab7-4c67-a9b4-569ce7d74c2f) | May 2026 |
 | **[Oscar Health](../companies/oscar-health.md)** | [Morse Code Conversion](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | May 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Meta](../companies/meta.md) | [Nearest Exit in a 2D Grid (BFS)](https://trueinterview.io/questions/f81c8862-7d95-4d4f-9537-73b6b1642297) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f81c8862-7d95-4d4f-9537-73b6b1642297) | May 2026 |
 | **[Meta](../companies/meta.md)** | [Optimize Word Container / String Matching Queries (ParanoidEcho)](https://trueinterview.io/questions/32cfb5cb-1695-45bf-9da9-61408d95d237) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/32cfb5cb-1695-45bf-9da9-61408d95d237) | May 2026 |

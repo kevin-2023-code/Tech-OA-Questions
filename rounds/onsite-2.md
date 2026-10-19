@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,245 questions** · 1,860 at Senior/Staff+ · 523 reported in the last 90 days · 700 free to solve
+**2,245 questions** · 1,859 at Senior/Staff+ · 524 reported in the last 90 days · 700 free to solve
 
 **By employer group:** 🧠 AI labs (221) · 📈 Quant firms (68) · 🏛️ MAANG+ (774)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[OpenAI](../companies/openai.md)** | [Real-Time AI Product Feature](https://trueinterview.io/questions/real-time-ai-product-feature) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/real-time-ai-product-feature) | Aug 8, 2026 |
 | **[Google](../companies/google.md)** | [Explain Your Most Meaningful Project Contribution](https://trueinterview.io/questions/explain-your-most-meaningful-project-contribution) | Onsite | New grad | blog | [![Free][f]](https://trueinterview.io/questions/explain-your-most-meaningful-project-contribution) | Aug 6, 2026 |
 | **[Apple](../companies/apple.md)** | [Top K Closest Pairs in a Sorted Array](https://trueinterview.io/questions/top-k-closest-pairs-in-sorted-array) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/top-k-closest-pairs-in-sorted-array) | Aug 5, 2026 |
 | **[Figma](../companies/figma.md)** / [Bloomberg](../companies/bloomberg.md) / [Boston Consulting Group](../companies/boston-consulting-group.md) | [Nested String with Brackets Parsing](https://trueinterview.io/questions/nested-brackets-rich-text-parse) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/nested-brackets-rich-text-parse) | Aug 4, 2026 |
@@ -354,7 +355,7 @@
 | **[Meta](../companies/meta.md)** | [Card Game (Three Cards Summing to 15)](https://trueinterview.io/questions/ai-coding-card-game-sum-fifteen) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/ai-coding-card-game-sum-fifteen) | Jun 3, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Mako Template Engine](https://trueinterview.io/questions/debug-mako-template-engine) | Onsite | New grad · Mid · **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/debug-mako-template-engine) | Jun 3, 2026 |
 | **[Okta](../companies/okta.md)** | [Array Duplication — O(n) and Memory Trade-offs](https://trueinterview.io/questions/array-deduplication) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/array-deduplication) | Jun 2, 2026 |
-| **[Anthropic](../companies/anthropic.md)** / [Lyft](../companies/lyft.md) | [Design a 1-to-1 Chat System](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Phone · Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Jun 2, 2026 |
+| **[Anthropic](../companies/anthropic.md)** / [Lyft](../companies/lyft.md) | [Design a 1-to-1 Chat System](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Phone · Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Jun 2, 2026 |
 | **[Google](../companies/google.md)** | [Huffman Tree Construction](https://trueinterview.io/questions/huffman-tree-construction) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/huffman-tree-construction) | Jun 1, 2026 |
 | **[Ramp](../companies/ramp.md)** | [User Flight Location Tracker](https://trueinterview.io/questions/find-a-user-s-airport-from-flight-history) | Phone · Onsite | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/find-a-user-s-airport-from-flight-history) | Jun 1, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Video-Keyword Association Review System](https://trueinterview.io/questions/video-keyword-association-review-system) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/video-keyword-association-review-system) | Jun 1, 2026 |
@@ -370,7 +371,7 @@
 | **[Lyft](../companies/lyft.md)** / [Anthropic](../companies/anthropic.md) / [Google](../companies/google.md) / +3 | [Design Facebook Messenger](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Jun 2026 |
 | **[Reddit](../companies/reddit.md)** | [Design Reddit Comments Ranking System](https://trueinterview.io/questions/design-reddit-s-post-comment-ranking-system) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-reddit-s-post-comment-ranking-system) | Jun 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +7 | [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Jun 2026 |
-| **[Anthropic](../companies/anthropic.md)** | [Efficiency of Distributed Systems](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Jun 2026 |
+| **[Anthropic](../companies/anthropic.md)** | [Efficiency of Distributed Systems](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Onsite | Mid | System design | [![Free][f]](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Jun 2026 |
 | **[OpenAI](../companies/openai.md)** | [Explain motivation and mission alignment](https://trueinterview.io/questions/explain-motivation-and-mission-alignment) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-motivation-and-mission-alignment) | Jun 2026 |
 | **[Amazon](../companies/amazon.md)** | [Explain parallelism and collectives in training](https://trueinterview.io/questions/explain-parallelism-and-collectives-in-training) | Onsite | Intern · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/explain-parallelism-and-collectives-in-training) | Jun 2026 |
 | **[SoFi](../companies/sofi.md)** | [Extend an Existing Codebase to Support Accessibility Requirements](https://trueinterview.io/questions/e09854da-00dd-4596-a22c-a1b2463a2a29) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/e09854da-00dd-4596-a22c-a1b2463a2a29) | Jun 2026 |
@@ -418,6 +419,5 @@
 | **[Airbnb](../companies/airbnb.md)** | [Property Booking System](https://trueinterview.io/questions/property-combination-min-capacity) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/property-combination-min-capacity) | May 25, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [SRE Linux / Networking Troubleshooting Round](https://trueinterview.io/questions/sre-linux-networking-troubleshoot) | Phone · Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/sre-linux-networking-troubleshoot) | May 25, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Cursor-Based Pagination Over Sorted Logs](https://trueinterview.io/questions/cursor-based-pagination-over-sorted-logs) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/cursor-based-pagination-over-sorted-logs) | May 24, 2026 |
-| **[Anthropic](../companies/anthropic.md)** | [Implement a Banking System](https://trueinterview.io/questions/implement-a-banking-system) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-banking-system) | May 24, 2026 |
 
 <sub>Page [1](onsite.md) · **2** · [3](onsite-3.md) · [4](onsite-4.md) · [5](onsite-5.md) · [6](onsite-6.md)</sub>

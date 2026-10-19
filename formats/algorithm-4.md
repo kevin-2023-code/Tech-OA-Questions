@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,499 questions** · 1,467 at Senior/Staff+ · 597 reported in the last 90 days · 302 free to solve
+**2,499 questions** · 1,466 at Senior/Staff+ · 597 reported in the last 90 days · 302 free to solve
 
 **Rounds:** 📝 OA (563) · 📞 Phone (1,501) · 🏢 Onsite (624) · 🏠 Take-home (2)
 
@@ -254,7 +254,7 @@
 | **[Amazon](../companies/amazon.md)** | [Make Power Non-decreasing](https://trueinterview.io/questions/make-power-non-decreasing) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/make-power-non-decreasing) | Mar 2026 |
 | **[Google](../companies/google.md)** / [Stripe](../companies/stripe.md) | [Match payments to invoices by memo or amount](https://trueinterview.io/questions/match-payments-to-invoices-by-memo-or-amount-2) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/match-payments-to-invoices-by-memo-or-amount-2) | Mar 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Max Sum Sliding Window and Return Start Days (1-based)](https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39) | OA | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39) | Mar 2026 |
-| **[Meta](../companies/meta.md)** | [Maze Solver: Print a Maze With Empty Cells Marked](https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc) | Mar 2026 |
+| **[Meta](../companies/meta.md)** | [Maze Solver: Print a Maze With Empty Cells Marked](https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc) | Mar 2026 |
 | **[Amazon](../companies/amazon.md)** | [Median Rating of Most Recent N Comments](https://trueinterview.io/questions/076fe196-70a4-4387-a808-a26eabd45cdd) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/076fe196-70a4-4387-a808-a26eabd45cdd) | Mar 2026 |
 | **[Citadel](../companies/citadel.md)** | [Medium Level Algorithm Question](https://trueinterview.io/questions/2b3416a8-5a91-4284-b9fa-e0cb6ee1768c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/2b3416a8-5a91-4284-b9fa-e0cb6ee1768c) | Mar 2026 |
 | **[Verkada](../companies/verkada.md)** | [Merge Alert Intervals Across Multiple Cameras](https://trueinterview.io/questions/a4f0ae26-f3ea-4975-9c68-99712a354b65) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a4f0ae26-f3ea-4975-9c68-99712a354b65) | Mar 2026 |

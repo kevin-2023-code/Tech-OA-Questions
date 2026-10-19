@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**4,117 questions** · 4,117 at Senior/Staff+ · 933 reported in the last 90 days · 1,452 free to solve
+**4,115 questions** · 4,115 at Senior/Staff+ · 934 reported in the last 90 days · 1,451 free to solve
 
-**Rounds:** 📝 OA (257) · 📞 Phone (2,271) · 🏢 Onsite (1,860) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (256) · 📞 Phone (2,272) · 🏢 Onsite (1,859) · 🏠 Take-home (8)
 
-**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (248)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (93)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
+**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (247)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (93)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md) · **9** · [10](senior-staff-10.md) · [11](senior-staff-11.md)</sub>
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Meta](../companies/meta.md)** | [Choose group-call participant cap via distribution](https://trueinterview.io/questions/choose-group-call-participant-cap-via-distribution) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/choose-group-call-participant-cap-via-distribution) | — |
 | **[Meta](../companies/meta.md)** | [Choose group-call size cap via experiment](https://trueinterview.io/questions/choose-group-call-size-cap-via-experiment) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/choose-group-call-size-cap-via-experiment) | — |
 | **[Expedia](../companies/expedia.md)** | [Choose KPIs and prove impact with experiments](https://trueinterview.io/questions/choose-kpis-and-prove-impact-with-experiments) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/choose-kpis-and-prove-impact-with-experiments) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Choose linear regression or decision tree appropriately](https://trueinterview.io/questions/choose-linear-regression-or-decision-tree-appropriately) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/choose-linear-regression-or-decision-tree-appropriately) | — |
@@ -421,5 +420,6 @@
 | **[Rubrik](../companies/rubrik.md)** | [Doing Smart Work](https://trueinterview.io/questions/c289bb51-4892-4291-99e5-08832daa7801) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c289bb51-4892-4291-99e5-08832daa7801) | — |
 | **[Capital One](../companies/capital-one.md)** | [Draft a non-pushy follow-up email](https://trueinterview.io/questions/draft-a-non-pushy-follow-up-email) | Onsite | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/draft-a-non-pushy-follow-up-email) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Drive product decisions with causal product sense](https://trueinterview.io/questions/drive-product-decisions-with-causal-product-sense) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/drive-product-decisions-with-causal-product-sense) | — |
+| **[Amazon](../companies/amazon.md)** | [Drive stakeholder alignment under trade-offs](https://trueinterview.io/questions/drive-stakeholder-alignment-under-trade-offs) | OA | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/drive-stakeholder-alignment-under-trade-offs) | — |
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md) · **9** · [10](senior-staff-10.md) · [11](senior-staff-11.md)</sub>

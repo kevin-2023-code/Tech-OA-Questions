@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,967 questions** · 2,271 at Senior/Staff+ · 670 reported in the last 90 days · 1,025 free to solve
+**2,968 questions** · 2,272 at Senior/Staff+ · 671 reported in the last 90 days · 1,025 free to solve
 
 **By employer group:** 🧠 AI labs (247) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[DoorDash](../companies/doordash.md)** | [Calculate Total Payment for Dasher](https://trueinterview.io/questions/e6ef089b-490d-47b3-8a92-8cf96b06acec) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e6ef089b-490d-47b3-8a92-8cf96b06acec) | Dec 2025 |
 | **[Robinhood](../companies/robinhood.md)** | [Count Trigger Events in Directed Acyclic Graph](https://trueinterview.io/questions/1c708aa4-2fbb-4cc4-ae73-3c423e4e9490) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1c708aa4-2fbb-4cc4-ae73-3c423e4e9490) | Dec 2025 |
 | **[Two Sigma](../companies/two-sigma.md)** | [Data Analysis on New York Housing Prices](https://trueinterview.io/questions/79e545c0-6cc0-4940-a1ff-941b8e249bb7) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/79e545c0-6cc0-4940-a1ff-941b8e249bb7) | Dec 2025 |
 | **[Uber](../companies/uber.md)** | [Demonstrate business impact from a project](https://trueinterview.io/questions/demonstrate-business-impact-from-a-project) | Phone | **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-business-impact-from-a-project) | Dec 2025 |
@@ -418,6 +419,5 @@
 | **[LinkedIn](../companies/linkedin.md)** | [Compute article-type diversity per user and histogram](https://trueinterview.io/questions/compute-article-type-diversity-per-user-and-histogram) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-article-type-diversity-per-user-and-histogram) | — |
 | **[Pinterest](../companies/pinterest.md)** | [Compute average unique pins per user](https://trueinterview.io/questions/compute-average-unique-pins-per-user) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-average-unique-pins-per-user) | — |
 | **[Airbnb](../companies/airbnb.md)** | [Compute browsing metrics in Python from logs](https://trueinterview.io/questions/compute-browsing-metrics-in-python-from-logs) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-browsing-metrics-in-python-from-logs) | — |
-| **[Airbnb](../companies/airbnb.md)** | [Compute C/T metrics from bookings and visits](https://trueinterview.io/questions/compute-c-t-metrics-from-bookings-and-visits) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-c-t-metrics-from-bookings-and-visits) | — |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · **6** · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

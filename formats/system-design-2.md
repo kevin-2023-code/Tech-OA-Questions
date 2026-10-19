@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**703 questions** · 656 at Senior/Staff+ · 171 reported in the last 90 days · 39 free to solve
+**703 questions** · 654 at Senior/Staff+ · 172 reported in the last 90 days · 39 free to solve
 
-**Rounds:** 📝 OA (10) · 📞 Phone (247) · 🏢 Onsite (487) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (10) · 📞 Phone (248) · 🏢 Onsite (487) · 🏠 Take-home (1)
 
 **Companies:** [Meta (74)](../companies/meta.md) · [Amazon (50)](../companies/amazon.md) · [OpenAI (44)](../companies/openai.md) · [ByteDance (38)](../companies/bytedance.md) · [Google (38)](../companies/google.md) · [Uber (34)](../companies/uber.md) · [Microsoft (32)](../companies/microsoft.md) · [DoorDash (31)](../companies/doordash.md) · [LinkedIn (29)](../companies/linkedin.md) · [Roblox (26)](../companies/roblox.md) · [Databricks (25)](../companies/databricks.md) · [Airbnb (23)](../companies/airbnb.md) · [Apple (23)](../companies/apple.md) · [Snapchat (22)](../companies/snapchat.md) · [Netflix (21)](../companies/netflix.md)
 
@@ -319,7 +319,7 @@
 | **[Amazon](../companies/amazon.md)** | [Prove new allocation outperforms manual baseline](https://trueinterview.io/questions/prove-new-allocation-outperforms-manual-baseline) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/prove-new-allocation-outperforms-manual-baseline) | — |
 | **[Meta](../companies/meta.md)** | [Prove source growth is cannibalization, not incremental](https://trueinterview.io/questions/prove-source-growth-is-cannibalization-not-incremental) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/prove-source-growth-is-cannibalization-not-incremental) | — |
 | **[LinkedIn](../companies/linkedin.md)** | [Real-Time Scalable Spam Email Detection System Design](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | — |
-| **[ByteDance](../companies/bytedance.md)** | [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
+| **[ByteDance](../companies/bytedance.md)** | [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Test 15s to 60s video length change](https://trueinterview.io/questions/test-15s-to-60s-video-length-change) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/test-15s-to-60s-video-length-change) | — |
 | **[Lyft](../companies/lyft.md)** | [Web Crawler with Communication Constraint](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | Onsite | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | — |
 

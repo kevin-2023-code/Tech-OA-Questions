@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,967 questions** · 2,271 at Senior/Staff+ · 670 reported in the last 90 days · 1,025 free to solve
+**2,968 questions** · 2,272 at Senior/Staff+ · 671 reported in the last 90 days · 1,025 free to solve
 
 **By employer group:** 🧠 AI labs (247) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Bloomberg](../companies/bloomberg.md)** | [Implement sliding-window timestamped average](https://trueinterview.io/questions/implement-sliding-window-timestamped-average) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-sliding-window-timestamped-average) | Feb 12, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Implement stack variants and path-sum check](https://trueinterview.io/questions/implement-stack-variants-and-path-sum-check) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-stack-variants-and-path-sum-check) | Feb 12, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Model other agents in simulation](https://trueinterview.io/questions/model-other-agents-in-simulation) | Phone | Intern | System design | [![Practice][p]](https://trueinterview.io/questions/model-other-agents-in-simulation) | Feb 12, 2026 |
 | **[Uber](../companies/uber.md)** | [N-ary Tree Level Order Traversal](https://trueinterview.io/questions/n-ary-tree-level-order-traversal) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/n-ary-tree-level-order-traversal) | Feb 12, 2026 |
@@ -418,6 +419,5 @@
 | **[eBay](../companies/ebay.md)** | [Balloon Explosion](https://trueinterview.io/questions/bec1bae5-6bc3-4a83-8430-077c684da76c) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/bec1bae5-6bc3-4a83-8430-077c684da76c) | Dec 2025 |
 | **[Voleon](../companies/voleon.md)** | [Berkeley Exchange: Market Activity Tracker and Client Order Trading](https://trueinterview.io/questions/b872f7bf-50a6-41a9-9fb4-814bd3d88b0a) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b872f7bf-50a6-41a9-9fb4-814bd3d88b0a) | Dec 2025 |
 | **[Salesforce](../companies/salesforce.md)** | [Binary String 01 to 10 swap](https://trueinterview.io/questions/b997e44e-31ce-42c6-aee6-e8489a0fa721) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b997e44e-31ce-42c6-aee6-e8489a0fa721) | Dec 2025 |
-| **[DoorDash](../companies/doordash.md)** | [Calculate Total Payment for Dasher](https://trueinterview.io/questions/e6ef089b-490d-47b3-8a92-8cf96b06acec) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e6ef089b-490d-47b3-8a92-8cf96b06acec) | Dec 2025 |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · **5** · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

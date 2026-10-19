@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**608 questions** · 435 at Senior/Staff+ · 137 reported in the last 90 days · 68 free to solve
+**608 questions** · 436 at Senior/Staff+ · 137 reported in the last 90 days · 68 free to solve
 
 **Rounds:** 📝 OA (46) · 📞 Phone (217) · 🏢 Onsite (405) · 🏠 Take-home (1)
 
@@ -83,7 +83,7 @@
 | **[LinkedIn](../companies/linkedin.md)** | [Meeting Scheduler — Earliest Available Slot](https://trueinterview.io/questions/coding-meeting-scheduler-earliest-slot) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/coding-meeting-scheduler-earliest-slot) | Sep 2026 |
 | **[Google](../companies/google.md)** | [Most Active User in an Undirected Messaging System](https://trueinterview.io/questions/7b9289b3-8861-5c62-bba2-982a1b989405) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/7b9289b3-8861-5c62-bba2-982a1b989405) | Sep 2026 |
 | **[Citadel](../companies/citadel.md)** | [Multi-Exchange BBO / NBBO Class](https://trueinterview.io/questions/multi-exchange-nbbo-class) | Phone | Intern · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/multi-exchange-nbbo-class) | Sep 2026 |
-| **[DoorDash](../companies/doordash.md)** | [Pick Dasher / Round Robin Load Balancer](https://trueinterview.io/questions/debugging-pick-dasher-round-robin) | Onsite | New grad · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/debugging-pick-dasher-round-robin) | Sep 2026 |
+| **[DoorDash](../companies/doordash.md)** | [Pick Dasher / Round Robin Load Balancer](https://trueinterview.io/questions/debugging-pick-dasher-round-robin) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/debugging-pick-dasher-round-robin) | Sep 2026 |
 | **[Stripe](../companies/stripe.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7 | [Rate Limiter](https://trueinterview.io/questions/rate-limiter) | Onsite | New grad · Mid · **Senior** · **Staff+** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limiter) | Sep 2026 |
 | **[Stripe](../companies/stripe.md)** | [Register Data Centers and Route to the Nearest Healthy Region](https://trueinterview.io/questions/3e1717c0-3f46-530e-867f-13b6cea2b132) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/3e1717c0-3f46-530e-867f-13b6cea2b132) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Shortest Word Distance II](https://trueinterview.io/questions/a87d7c6b-06c5-5d2c-9924-55712f12b1e0) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a87d7c6b-06c5-5d2c-9924-55712f12b1e0) | Sep 2026 |
@@ -312,7 +312,7 @@
 | **[Anthropic](../companies/anthropic.md)** | [ML Configuration System](https://trueinterview.io/questions/ml-configuration-system) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ml-configuration-system) | Apr 17, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Disk Space Manager / KV Store with setAll](https://trueinterview.io/questions/storage-manager-and-kv-setall) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/storage-manager-and-kv-setall) | Apr 15, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Implement ordering and undo executor](https://trueinterview.io/questions/implement-ordering-and-undo-executor) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-ordering-and-undo-executor) | Apr 15, 2026 |
-| **[Meta](../companies/meta.md)** | [Friend Recommendation II](https://trueinterview.io/questions/ai-coding-friend-recommendation) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ai-coding-friend-recommendation) | Apr 14, 2026 |
+| **[Meta](../companies/meta.md)** | [Friend Recommendation II](https://trueinterview.io/questions/ai-coding-friend-recommendation) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ai-coding-friend-recommendation) | Apr 14, 2026 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Implement a Fixed-Capacity Deque](https://trueinterview.io/questions/implement-a-fixed-capacity-deque) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-fixed-capacity-deque) | Apr 14, 2026 |
 | **[Oracle](../companies/oracle.md)** / [Shopify](../companies/shopify.md) | [LRU Cache with Expiration](https://trueinterview.io/questions/lru-cache-with-expiration) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/lru-cache-with-expiration) | Apr 14, 2026 |
 | **[Asana](../companies/asana.md)** | [Design and Solve a Rotatable Jigsaw Puzzle](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Phone | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Apr 13, 2026 |

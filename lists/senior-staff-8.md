@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**4,117 questions** · 4,117 at Senior/Staff+ · 933 reported in the last 90 days · 1,452 free to solve
+**4,115 questions** · 4,115 at Senior/Staff+ · 934 reported in the last 90 days · 1,451 free to solve
 
-**Rounds:** 📝 OA (257) · 📞 Phone (2,271) · 🏢 Onsite (1,860) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (256) · 📞 Phone (2,272) · 🏢 Onsite (1,859) · 🏠 Take-home (8)
 
-**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (248)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (93)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
+**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (247)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (93)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · **8** · [9](senior-staff-9.md) · [10](senior-staff-10.md) · [11](senior-staff-11.md)</sub>
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Disney](../companies/disney.md)** | [How do you manage collaboration and stakeholders?](https://trueinterview.io/questions/how-do-you-manage-collaboration-and-stakeholders) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-manage-collaboration-and-stakeholders) | Nov 24, 2025 |
 | **[Meta](../companies/meta.md)** | [How would you predict a car’s turning intention?](https://trueinterview.io/questions/how-would-you-predict-a-car-s-turning-intention) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/how-would-you-predict-a-car-s-turning-intention) | Nov 24, 2025 |
 | **[Disney](../companies/disney.md)** | [How would you run a mentoring-focused code review?](https://trueinterview.io/questions/how-would-you-run-a-mentoring-focused-code-review) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-run-a-mentoring-focused-code-review) | Nov 24, 2025 |
 | **[Google](../companies/google.md)** | [How would you use propensity score matching here](https://trueinterview.io/questions/how-would-you-use-propensity-score-matching-here) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-use-propensity-score-matching-here) | Nov 24, 2025 |
@@ -421,5 +420,6 @@
 | **[Capital One](../companies/capital-one.md)** | [Choose and justify ML algorithms for tabular prediction](https://trueinterview.io/questions/choose-and-justify-ml-algorithms-for-tabular-prediction) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/choose-and-justify-ml-algorithms-for-tabular-prediction) | — |
 | **[Capital One](../companies/capital-one.md)** | [Choose cashback segment and model post-launch impact](https://trueinterview.io/questions/choose-cashback-segment-and-model-post-launch-impact) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/choose-cashback-segment-and-model-post-launch-impact) | — |
 | **[Thumbtack](../companies/thumbtack.md)** | [Choose clustering vs regression; explain KNN](https://trueinterview.io/questions/choose-clustering-vs-regression-explain-knn) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/choose-clustering-vs-regression-explain-knn) | — |
+| **[Meta](../companies/meta.md)** | [Choose group-call participant cap via distribution](https://trueinterview.io/questions/choose-group-call-participant-cap-via-distribution) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/choose-group-call-participant-cap-via-distribution) | — |
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · **8** · [9](senior-staff-9.md) · [10](senior-staff-10.md) · [11](senior-staff-11.md)</sub>

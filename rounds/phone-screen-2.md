@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,967 questions** · 2,271 at Senior/Staff+ · 670 reported in the last 90 days · 1,025 free to solve
+**2,968 questions** · 2,272 at Senior/Staff+ · 671 reported in the last 90 days · 1,025 free to solve
 
 **By employer group:** 🧠 AI labs (247) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[C3 AI](../companies/c3-ai.md)** | [Keep Gradient Descent from Stalling at Poor Solutions](https://trueinterview.io/questions/keep-gradient-descent-from-stalling-at-poor-solutions) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/keep-gradient-descent-from-stalling-at-poor-solutions) | Aug 21, 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [eBay](../companies/ebay.md) / [NVIDIA](../companies/nvidia.md) | [Search in Rotated Sorted Array](https://trueinterview.io/questions/search-in-rotated-sorted-array) | Phone · Onsite | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/search-in-rotated-sorted-array) | Aug 21, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Design a Scalable Idempotent Ledger Service](https://trueinterview.io/questions/design-a-scalable-idempotent-ledger-service) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-scalable-idempotent-ledger-service) | Aug 20, 2026 |
 | **[Okta](../companies/okta.md)** | [Evaluate Role-Based Access with Deny Precedence](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Aug 20, 2026 |
@@ -418,6 +419,5 @@
 | **[Ramp](../companies/ramp.md)** / [Databricks](../companies/databricks.md) / [SoFi](../companies/sofi.md) | [Tic Tac Toe](https://trueinterview.io/questions/tic-tac-toe) | Phone | **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/tic-tac-toe) | Jul 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Tokenize (Python)](https://trueinterview.io/questions/tokenize-python) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/tokenize-python) | Jul 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [Top K Frequent Elements](https://trueinterview.io/questions/top-k-frequent-elements-3) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/top-k-frequent-elements-3) | Jul 2026 |
-| **[Netflix](../companies/netflix.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +1 | [Topological Sort / Course Schedule for Ads](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | Jul 2026 |
 
 <sub>Page [1](phone-screen.md) · **2** · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

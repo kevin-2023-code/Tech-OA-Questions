@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice ByteDance on TrueInterview](https://trueinterview.io/problems/company/bytedance) · [How ByteDance interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/bytedance/README.md)
 
-**345 questions** · Senior & Staff+ 248 · ML & Research Scientist 28 · Quant researcher & developer 3 · last reported Oct 2026
+**345 questions** · Senior & Staff+ 247 · ML & Research Scientist 28 · Quant researcher & developer 3 · last reported Oct 2026
 
 **Rounds:** 📝 OA (37) · 📞 Phone (249) · 🏢 Onsite (94)
 
@@ -349,7 +349,7 @@
 | [Maximize products bought under budget](https://trueinterview.io/questions/maximize-products-bought-under-budget) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-products-bought-under-budget) | — |
 | [Optimize threshold using confusion matrix and costs](https://trueinterview.io/questions/optimize-threshold-using-confusion-matrix-and-costs) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/optimize-threshold-using-confusion-matrix-and-costs) | — |
 | [Rank factors for TikTok market entry](https://trueinterview.io/questions/rank-factors-for-tiktok-market-entry) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/rank-factors-for-tiktok-market-entry) | — |
-| [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
+| [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
 | [Reflect on a challenging project you led](https://trueinterview.io/questions/reflect-on-a-challenging-project-you-led) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/reflect-on-a-challenging-project-you-led) | — |
 | [Select max-discount product per category](https://trueinterview.io/questions/select-max-discount-product-per-category) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/select-max-discount-product-per-category) | — |
 | [Show ownership in ambiguous creator-growth work](https://trueinterview.io/questions/show-ownership-in-ambiguous-creator-growth-work) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/show-ownership-in-ambiguous-creator-growth-work) | — |

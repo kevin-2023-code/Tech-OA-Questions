@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**769 questions** · 257 at Senior/Staff+ · 137 reported in the last 90 days · 197 free to solve
+**769 questions** · 256 at Senior/Staff+ · 137 reported in the last 90 days · 197 free to solve
 
 **By employer group:** 🧠 AI labs (36) · 📈 Quant firms (116) · 🏛️ MAANG+ (165)
 
@@ -384,7 +384,7 @@
 | **[Reddit](../companies/reddit.md)** | [Logger Rate Limiter](https://trueinterview.io/questions/logger-rate-limiter) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/logger-rate-limiter) | Mar 2026 |
 | **[Amazon](../companies/amazon.md)** | [Make Power Non-decreasing](https://trueinterview.io/questions/make-power-non-decreasing) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/make-power-non-decreasing) | Mar 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Max Sum Sliding Window and Return Start Days (1-based)](https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39) | OA | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39) | Mar 2026 |
-| **[Meta](../companies/meta.md)** | [Maze Solver: Print a Maze With Empty Cells Marked](https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc) | Mar 2026 |
+| **[Meta](../companies/meta.md)** | [Maze Solver: Print a Maze With Empty Cells Marked](https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc) | Mar 2026 |
 | **[Arista](../companies/arista.md)** / [Boston Consulting Group](../companies/boston-consulting-group.md) | [Palindrome String Check (Handle Empty and Null)](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352) | Mar 2026 |
 | **[Arista](../companies/arista.md)** | [Remove all occurrences of a target value from a linked list](https://trueinterview.io/questions/c1b98ae1-5c9a-4dfc-b252-7d04bd84a544) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/c1b98ae1-5c9a-4dfc-b252-7d04bd84a544) | Mar 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Reverse a String](https://trueinterview.io/questions/28b8bcd2-9b73-4c32-9f13-f89038bc8e84) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/28b8bcd2-9b73-4c32-9f13-f89038bc8e84) | Mar 2026 |

@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,117 at Senior/Staff+ · 1,238 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,115 at Senior/Staff+ · 1,239 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (769) · 📞 Phone (2,967) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (769) · 📞 Phone (2,968) · 🏢 Onsite (2,245) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · **7** · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -17,6 +17,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Explain Python and React performance fundamentals](https://trueinterview.io/questions/explain-python-and-react-performance-fundamentals) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-python-and-react-performance-fundamentals) | Apr 6, 2026 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Live Refactor: Function → Production Service](https://trueinterview.io/questions/function-to-service-refactor) | Phone | **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/function-to-service-refactor) | Apr 6, 2026 |
 | **[Databricks](../companies/databricks.md)** / [Square](../companies/square.md) | [Stock Trading Agent System Design](https://trueinterview.io/questions/stock-trading-agent-system-design) | Phone · Onsite | **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/stock-trading-agent-system-design) | Apr 6, 2026 |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Why pursue full-stack engineering?](https://trueinterview.io/questions/why-pursue-full-stack-engineering) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/why-pursue-full-stack-engineering) | Apr 6, 2026 |
@@ -194,7 +195,7 @@
 | **[Squarepoint](../companies/squarepoint.md)** | [Maximize revenue by selling items with diminishing price](https://trueinterview.io/questions/c198810d-3a95-4eda-99ad-a34acf587680) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/c198810d-3a95-4eda-99ad-a34acf587680) | Apr 2026 |
 | **[Oracle](../companies/oracle.md)** / [ByteDance](../companies/bytedance.md) | [Maximum Product Subarray in O(n) Time](https://trueinterview.io/questions/7b99193e-c69f-4941-a0be-8ccf49a291c8) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/7b99193e-c69f-4941-a0be-8ccf49a291c8) | Apr 2026 |
 | **[Google](../companies/google.md)** | [Maximum Sum Subarray with Equal Endpoints](https://trueinterview.io/questions/47d55069-3882-49a5-b91a-236b638950be) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/47d55069-3882-49a5-b91a-236b638950be) | Apr 2026 |
-| **[Stripe](../companies/stripe.md)** | [Metric Counter Library](https://trueinterview.io/questions/metric-counter-library) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/metric-counter-library) | Apr 2026 |
+| **[Stripe](../companies/stripe.md)** | [Metric Counter Library](https://trueinterview.io/questions/metric-counter-library) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/metric-counter-library) | Apr 2026 |
 | **[Meta](../companies/meta.md)** / [IBM](../companies/ibm.md) / [Oracle](../companies/oracle.md) | [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | Apr 2026 |
 | **[Datadog](../companies/datadog.md)** / [ByteDance](../companies/bytedance.md) / [Verkada](../companies/verkada.md) | [Minimum Coin Combination Counts](https://trueinterview.io/questions/minimum-coin-combination-counts) | Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-coin-combination-counts) | Apr 2026 |
 | **[Google](../companies/google.md)** / [Snowflake](../companies/snowflake.md) | [Minimum Distance Between People and Cakes](https://trueinterview.io/questions/787ed7cb-16c1-4605-a606-93dbbc22cb6c) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/787ed7cb-16c1-4605-a606-93dbbc22cb6c) | Apr 2026 |
@@ -239,7 +240,6 @@
 | **[Ramp](../companies/ramp.md)** | [What Project Are You Proudest Of?](https://trueinterview.io/questions/what-project-are-you-proudest-of) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/what-project-are-you-proudest-of) | Apr 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Word Ladder (Shortest Transformation Path)](https://trueinterview.io/questions/e6525160-e0ed-4df8-896c-9477534d9e3e) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e6525160-e0ed-4df8-896c-9477534d9e3e) | Apr 2026 |
 | **[Meta](../companies/meta.md)** | [Write a Script to Monitor 'vmstat' Output](https://trueinterview.io/questions/0237fc06-24d7-4e05-97ce-e1b07257a2e8) | Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/0237fc06-24d7-4e05-97ce-e1b07257a2e8) | Apr 2026 |
-| **[Stripe](../companies/stripe.md)** | [Design Merchant Lender System](https://trueinterview.io/questions/ledger-system) | Onsite | New grad · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/ledger-system) | Mar 31, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Multi-thread Atomic Counter](https://trueinterview.io/questions/multi-thread-atomic-counter) | Phone · Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/multi-thread-atomic-counter) | Mar 31, 2026 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [Process Scheduler II](https://trueinterview.io/questions/minimum-cpu-cores) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-cpu-cores) | Mar 31, 2026 |
 | **[Whatnot](../companies/whatnot.md)** | [Calculate Monthly Customer Retention](https://trueinterview.io/questions/calculate-monthly-customer-retention) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/calculate-monthly-customer-retention) | Mar 30, 2026 |

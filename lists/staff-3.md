@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**1,148 questions** · 1,148 at Senior/Staff+ · 175 reported in the last 90 days · 692 free to solve
+**1,149 questions** · 1,149 at Senior/Staff+ · 178 reported in the last 90 days · 694 free to solve
 
-**Rounds:** 📝 OA (18) · 📞 Phone (598) · 🏢 Onsite (561) · 🏠 Take-home (3)
+**Rounds:** 📝 OA (18) · 📞 Phone (598) · 🏢 Onsite (562) · 🏠 Take-home (3)
 
-**Companies:** [Meta (183)](../companies/meta.md) · [Amazon (80)](../companies/amazon.md) · [Google (70)](../companies/google.md) · [ByteDance (68)](../companies/bytedance.md) · [Capital One (64)](../companies/capital-one.md) · [Uber (50)](../companies/uber.md) · [Microsoft (42)](../companies/microsoft.md) · [DoorDash (38)](../companies/doordash.md) · [LinkedIn (38)](../companies/linkedin.md) · [OpenAI (32)](../companies/openai.md) · [Instacart (28)](../companies/instacart.md) · [Pinterest (27)](../companies/pinterest.md) · [Apple (25)](../companies/apple.md) · [Roblox (25)](../companies/roblox.md) · [Stripe (19)](../companies/stripe.md)
+**Companies:** [Meta (184)](../companies/meta.md) · [Amazon (81)](../companies/amazon.md) · [Google (70)](../companies/google.md) · [ByteDance (67)](../companies/bytedance.md) · [Capital One (64)](../companies/capital-one.md) · [Uber (50)](../companies/uber.md) · [Microsoft (42)](../companies/microsoft.md) · [DoorDash (39)](../companies/doordash.md) · [LinkedIn (37)](../companies/linkedin.md) · [OpenAI (34)](../companies/openai.md) · [Instacart (28)](../companies/instacart.md) · [Pinterest (27)](../companies/pinterest.md) · [Apple (25)](../companies/apple.md) · [Roblox (25)](../companies/roblox.md) · [Airbnb (20)](../companies/airbnb.md)
 
 <sub>Page [1](staff.md) · [2](staff-2.md) · **3**</sub>
 
@@ -21,6 +21,8 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Netflix](../companies/netflix.md)** | [Design a robust conversion propensity model](https://trueinterview.io/questions/design-a-robust-conversion-propensity-model) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-robust-conversion-propensity-model) | — |
+| **[Uber](../companies/uber.md)** | [Design a robust email A/B test](https://trueinterview.io/questions/design-a-robust-email-a-b-test) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-robust-email-a-b-test) | — |
 | **[Thumbtack](../companies/thumbtack.md)** | [Design a robust pro-ranking A/B test](https://trueinterview.io/questions/design-a-robust-pro-ranking-a-b-test) | Onsite | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-robust-pro-ranking-a-b-test) | — |
 | **[Google](../companies/google.md)** | [Design a scalable video platform database](https://trueinterview.io/questions/design-a-scalable-video-platform-database) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-scalable-video-platform-database) | — |
 | **[Meta](../companies/meta.md)** | [Design a small-sample launch experiment in Europe](https://trueinterview.io/questions/design-a-small-sample-launch-experiment-in-europe) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-small-sample-launch-experiment-in-europe) | — |
@@ -316,7 +318,6 @@
 | **[xAI](../companies/xai.md)** | [Radix Cache](https://trueinterview.io/questions/radix-cache) | Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/radix-cache) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Rank factors for TikTok market entry](https://trueinterview.io/questions/rank-factors-for-tiktok-market-entry) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/rank-factors-for-tiktok-market-entry) | — |
 | **[LinkedIn](../companies/linkedin.md)** | [Real-Time Scalable Spam Email Detection System Design](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | — |
-| **[ByteDance](../companies/bytedance.md)** | [Real-Time Top-K Most Listened Songs Data Structure Design](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/0c5b8340-9932-4075-84de-2a6e3b340bc3) | — |
 | **[Instacart](../companies/instacart.md)** | [Recommend and validate a budget allocation strategy](https://trueinterview.io/questions/recommend-and-validate-a-budget-allocation-strategy) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/recommend-and-validate-a-budget-allocation-strategy) | — |
 | **[Pinterest](../companies/pinterest.md)** | [Recover causal effect without a control group](https://trueinterview.io/questions/recover-causal-effect-without-a-control-group) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/recover-causal-effect-without-a-control-group) | — |
 | **[Meta](../companies/meta.md)** | [Redesign an executive dashboard for C-suite](https://trueinterview.io/questions/redesign-an-executive-dashboard-for-c-suite) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/redesign-an-executive-dashboard-for-c-suite) | — |
