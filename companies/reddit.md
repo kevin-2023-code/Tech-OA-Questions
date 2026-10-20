@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design Add, Overwrite, Undo, and Redo for Billing State](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | 🆕 Sep 4, 2026 |
+| [Design Add, Overwrite, Undo, and Redo for Billing State](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Sep 4, 2026 |
 | [Describe a failure and a success](https://trueinterview.io/questions/describe-a-failure-and-a-success) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-a-failure-and-a-success) | Sep 2026 |
 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design)<br><sub>also [Robinhood](../companies/robinhood.md) / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +12</sub> | Phone · Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | [Design Notification System](https://trueinterview.io/questions/design-a-notification-system-for-reddit)<br><sub>also [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +9</sub> | Onsite | Mid · **Senior** · **Staff+** · Manager | System design | [![Free][f]](https://trueinterview.io/questions/design-a-notification-system-for-reddit) | Sep 2026 |

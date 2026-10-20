@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design Monitoring and Reliability for 99.99% Availability](https://trueinterview.io/questions/design-monitoring-and-reliability-for-99-99percent-availability) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-monitoring-and-reliability-for-99-99percent-availability) | 🆕 Sep 4, 2026 |
+| [Design Monitoring and Reliability for 99.99% Availability](https://trueinterview.io/questions/design-monitoring-and-reliability-for-99-99percent-availability) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-monitoring-and-reliability-for-99-99percent-availability) | Sep 4, 2026 |
 | [Design a Music Player with Queue, Loop, and Shuffle](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | Sep 3, 2026 |
 | [Design a Social-Media Comments and Notifications System](https://trueinterview.io/questions/design-a-social-media-comments-and-notifications-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-social-media-comments-and-notifications-system) | Sep 3, 2026 |
 | [Explain a Project Architecture Through a Technical Deep Dive](https://trueinterview.io/questions/explain-a-project-architecture-through-a-technical-deep-dive) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-a-project-architecture-through-a-technical-deep-dive) | Sep 3, 2026 |

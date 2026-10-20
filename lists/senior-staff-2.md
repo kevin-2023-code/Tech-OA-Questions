@@ -6,7 +6,7 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**4,113 questions** · 4,113 at Senior/Staff+ · 938 reported in the last 90 days · 1,450 free to solve
+**4,113 questions** · 4,113 at Senior/Staff+ · 937 reported in the last 90 days · 1,450 free to solve
 
 **Rounds:** 📝 OA (256) · 📞 Phone (2,275) · 🏢 Onsite (1,860) · 🏠 Take-home (8)
 
