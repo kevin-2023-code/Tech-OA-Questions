@@ -6,7 +6,7 @@
 
 🏛️ MAANG+ · **485 questions** · Senior & Staff+ 422 · ML & Research Scientist 28 · last reported Oct 2026
 
-**Rounds:** 📝 OA (34) · 📞 Phone (247) · 🏢 Onsite (231) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (35) · 📞 Phone (246) · 🏢 Onsite (231) · 🏠 Take-home (1)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/meta-interview-process) · [SWE](https://trueinterview.io/study/meta-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/meta-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/meta-research-scientist-interview-process) · [Infra](https://trueinterview.io/study/meta-infrastructure-engineer-interview-process) · [Data scientist](https://trueinterview.io/study/meta-data-scientist-interview-process)
 
@@ -58,7 +58,7 @@
 | [Navigate reschedules, offers, and team-match uncertainty](https://trueinterview.io/questions/navigate-reschedules-offers-and-team-match-uncertainty) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/navigate-reschedules-offers-and-team-match-uncertainty) | — |
 | [Optimize IG Shopping ranking with multiple objectives](https://trueinterview.io/questions/optimize-ig-shopping-ranking-with-multiple-objectives) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/optimize-ig-shopping-ranking-with-multiple-objectives) | — |
 | [Persuade engineers to launch pinned-unread chats](https://trueinterview.io/questions/persuade-engineers-to-launch-pinned-unread-chats) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/persuade-engineers-to-launch-pinned-unread-chats) | — |
-| [Project Success and Conflict Resolution Experience Discussion](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Onsite | Mid · **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | — |
+| [Project Success and Conflict Resolution Experience Discussion](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | — |
 | [Prove source growth is cannibalization, not incremental](https://trueinterview.io/questions/prove-source-growth-is-cannibalization-not-incremental) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/prove-source-growth-is-cannibalization-not-incremental) | — |
 | [Quantify base-rate dilution in CTR](https://trueinterview.io/questions/quantify-base-rate-dilution-in-ctr) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/quantify-base-rate-dilution-in-ctr) | — |
 | [Quantify launch decision with tests and guardrails](https://trueinterview.io/questions/quantify-launch-decision-with-tests-and-guardrails) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/quantify-launch-decision-with-tests-and-guardrails) | — |

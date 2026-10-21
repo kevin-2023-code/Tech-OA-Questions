@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**4,113 questions** · 4,113 at Senior/Staff+ · 937 reported in the last 90 days · 1,450 free to solve
+**4,107 questions** · 4,107 at Senior/Staff+ · 912 reported in the last 90 days · 1,450 free to solve
 
-**Rounds:** 📝 OA (256) · 📞 Phone (2,275) · 🏢 Onsite (1,860) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (255) · 📞 Phone (2,272) · 🏢 Onsite (1,859) · 🏠 Take-home (8)
 
-**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (246)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (92)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
+**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (286)](../companies/amazon.md) · [Google (276)](../companies/google.md) · [ByteDance (246)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (180)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (92)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md) · **9** · [10](senior-staff-10.md) · [11](senior-staff-11.md)</sub>
 
@@ -21,11 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[ByteDance](../companies/bytedance.md)** | [Choose linear regression or decision tree appropriately](https://trueinterview.io/questions/choose-linear-regression-or-decision-tree-appropriately) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/choose-linear-regression-or-decision-tree-appropriately) | — |
-| **[Meta](../companies/meta.md)** | [Choose metrics for fake-user classifier](https://trueinterview.io/questions/choose-metrics-for-fake-user-classifier) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/choose-metrics-for-fake-user-classifier) | — |
-| **[Amazon](../companies/amazon.md)** | [Choose regularization norms and model formulations](https://trueinterview.io/questions/choose-regularization-norms-and-model-formulations) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/choose-regularization-norms-and-model-formulations) | — |
-| **[Meta](../companies/meta.md)** | [Choose robust metrics for skewed comments](https://trueinterview.io/questions/choose-robust-metrics-for-skewed-comments) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/choose-robust-metrics-for-skewed-comments) | — |
-| **[Meta](../companies/meta.md)** | [Choose tests and solve distribution parameters](https://trueinterview.io/questions/choose-tests-and-solve-distribution-parameters) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/choose-tests-and-solve-distribution-parameters) | — |
 | **[Intuit](../companies/intuit.md)** | [Choose the right test for proportions](https://trueinterview.io/questions/choose-the-right-test-for-proportions) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/choose-the-right-test-for-proportions) | — |
 | **[Meta](../companies/meta.md)** | [Choose threshold under asymmetric costs](https://trueinterview.io/questions/choose-threshold-under-asymmetric-costs) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/choose-threshold-under-asymmetric-costs) | — |
 | **[Stripe](../companies/stripe.md)** | [Choose threshold under costs and uncertainty](https://trueinterview.io/questions/choose-threshold-under-costs-and-uncertainty) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/choose-threshold-under-costs-and-uncertainty) | — |
@@ -421,5 +416,10 @@
 | **[Amazon](../companies/amazon.md)** | [Drive stakeholder alignment under trade-offs](https://trueinterview.io/questions/drive-stakeholder-alignment-under-trade-offs) | OA | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/drive-stakeholder-alignment-under-trade-offs) | — |
 | **[Oracle](../companies/oracle.md)** | [Dropped Requests Rate Limiter II](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | — |
 | **[xAI](../companies/xai.md)** | [Durable KV Cache](https://trueinterview.io/questions/durable-kv-cache) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/durable-kv-cache) | — |
+| **[Tradedesk](../companies/tradedesk.md)** | [Earn the Most](https://trueinterview.io/questions/de01d1f2-f8dc-44ab-a3ac-256f97bf946b) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/de01d1f2-f8dc-44ab-a3ac-256f97bf946b) | — |
+| **[Gusto](../companies/gusto.md)** | [Efficient Key-Value Store with Insert, Retrieve, Delete Operations](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | — |
+| **[Rubrik](../companies/rubrik.md)** | [Energy Crisis](https://trueinterview.io/questions/bd64beb0-36d0-4d3b-9dfe-063ea75dcdf4) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bd64beb0-36d0-4d3b-9dfe-063ea75dcdf4) | — |
+| **[Google](../companies/google.md)** | [Establish causality: commute playlist and driving speed](https://trueinterview.io/questions/establish-causality-commute-playlist-and-driving-speed) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/establish-causality-commute-playlist-and-driving-speed) | — |
+| **[Google](../companies/google.md)** | [Estimate b when features exceed samples](https://trueinterview.io/questions/estimate-b-when-features-exceed-samples) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/estimate-b-when-features-exceed-samples) | — |
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md) · **9** · [10](senior-staff-10.md) · [11](senior-staff-11.md)</sub>

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Robinhood on TrueInterview](https://trueinterview.io/problems/company/robinhood) · [How Robinhood interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/robinhood/README.md)
 
-**53 questions** · Senior & Staff+ 47 · ML & Research Scientist 3 · last reported Oct 2026
+**53 questions** · Senior & Staff+ 46 · ML & Research Scientist 3 · last reported Oct 2026
 
 **Rounds:** 📝 OA (1) · 📞 Phone (22) · 🏢 Onsite (38)
 
@@ -53,7 +53,7 @@
 | [Analytics Engineer: SQL + Python Sessionization](https://trueinterview.io/questions/analytics-engineer-sql-python) | Phone | Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/analytics-engineer-sql-python) | Mar 6, 2026 |
 | [Load Factor Calculation](https://trueinterview.io/questions/service-dependency-load-factor) | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/service-dependency-load-factor) | Mar 2026 |
 | [Present a Project With Correctness Guarantees](https://trueinterview.io/questions/present-a-project-with-correctness-guarantees) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/present-a-project-with-correctness-guarantees) | Mar 2026 |
-| [Aggregate user logs into 30-minute sessions](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Feb 28, 2026 |
+| [Aggregate user logs into 30-minute sessions](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Feb 28, 2026 |
 | [Handle security vs velocity conflicts across teams](https://trueinterview.io/questions/handle-security-vs-velocity-conflicts-across-teams) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/handle-security-vs-velocity-conflicts-across-teams) | Jan 22, 2026 |
 | [Security-Flavored Coding: Constrained Data Structure & Input Validation](https://trueinterview.io/questions/security-coding-constrained-ds-validation) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/security-coding-constrained-ds-validation) | Jan 9, 2026 |
 | [Count Trigger Events in Directed Acyclic Graph](https://trueinterview.io/questions/1c708aa4-2fbb-4cc4-ae73-3c423e4e9490) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1c708aa4-2fbb-4cc4-ae73-3c423e4e9490) | Dec 2025 |

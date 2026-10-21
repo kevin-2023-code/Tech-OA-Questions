@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Oracle on TrueInterview](https://trueinterview.io/problems/company/oracle) · [How Oracle interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/oracle/README.md)
 
-**108 questions** · Senior & Staff+ 83 · ML & Research Scientist 6 · last reported Oct 2026
+**108 questions** · Senior & Staff+ 83 · ML & Research Scientist 5 · last reported Oct 2026
 
 **Rounds:** 📝 OA (9) · 📞 Phone (53) · 🏢 Onsite (52)
 
@@ -22,8 +22,8 @@
 | [Count Islands and Return the Largest Island Size](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | 🆕 Sep 11, 2026 |
 | [Troubleshoot a Frontend Failure in a Client-Server Application](https://trueinterview.io/questions/troubleshoot-a-frontend-failure-in-a-client-server-application) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/troubleshoot-a-frontend-failure-in-a-client-server-application) | 🆕 Sep 11, 2026 |
 | [Classify Tree Nodes in SQL](https://trueinterview.io/questions/classify-tree-nodes-in-sql) | Phone | Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/classify-tree-nodes-in-sql) | 🆕 Sep 9, 2026 |
-| [Design a Five-Minute Top-K Error Log Service](https://trueinterview.io/questions/design-a-five-minute-top-k-error-log-service) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-five-minute-top-k-error-log-service) | 🆕 Sep 5, 2026 |
-| [Find Global and Rolling Top-K URLs Under a Memory Limit](https://trueinterview.io/questions/find-global-and-rolling-top-k-urls-under-a-memory-limit) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/find-global-and-rolling-top-k-urls-under-a-memory-limit) | 🆕 Sep 5, 2026 |
+| [Design a Five-Minute Top-K Error Log Service](https://trueinterview.io/questions/design-a-five-minute-top-k-error-log-service) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-five-minute-top-k-error-log-service) | Sep 5, 2026 |
+| [Find Global and Rolling Top-K URLs Under a Memory Limit](https://trueinterview.io/questions/find-global-and-rolling-top-k-urls-under-a-memory-limit) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/find-global-and-rolling-top-k-urls-under-a-memory-limit) | Sep 5, 2026 |
 | [GPU Health and Repair](https://trueinterview.io/questions/system-design-gpu-health-repair) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-gpu-health-repair) | Sep 3, 2026 |
 | [Behavioral & Bar Raiser BQ Set](https://trueinterview.io/questions/behavioral-bq-bar-raiser) | Phone · Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/behavioral-bq-bar-raiser) | Sep 2026 |
 | [Binary Tree Paths With Target Sum](https://trueinterview.io/questions/7c3b95ff-ace7-5377-a58a-332635b2b2e7)<br><sub>also [ByteDance](../companies/bytedance.md) / [Meta](../companies/meta.md)</sub> | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/7c3b95ff-ace7-5377-a58a-332635b2b2e7) | Sep 2026 |

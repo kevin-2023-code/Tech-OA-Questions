@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**1,152 questions** · 1,152 at Senior/Staff+ · 181 reported in the last 90 days · 696 free to solve
+**1,155 questions** · 1,155 at Senior/Staff+ · 181 reported in the last 90 days · 697 free to solve
 
-**Rounds:** 📝 OA (18) · 📞 Phone (600) · 🏢 Onsite (565) · 🏠 Take-home (3)
+**Rounds:** 📝 OA (18) · 📞 Phone (600) · 🏢 Onsite (569) · 🏠 Take-home (3)
 
-**Companies:** [Meta (184)](../companies/meta.md) · [Amazon (81)](../companies/amazon.md) · [Google (70)](../companies/google.md) · [ByteDance (67)](../companies/bytedance.md) · [Capital One (64)](../companies/capital-one.md) · [Uber (50)](../companies/uber.md) · [Microsoft (42)](../companies/microsoft.md) · [DoorDash (39)](../companies/doordash.md) · [LinkedIn (37)](../companies/linkedin.md) · [OpenAI (35)](../companies/openai.md) · [Instacart (28)](../companies/instacart.md) · [Pinterest (27)](../companies/pinterest.md) · [Apple (25)](../companies/apple.md) · [Roblox (25)](../companies/roblox.md) · [Stripe (22)](../companies/stripe.md)
+**Companies:** [Meta (186)](../companies/meta.md) · [Amazon (81)](../companies/amazon.md) · [Google (70)](../companies/google.md) · [ByteDance (68)](../companies/bytedance.md) · [Capital One (64)](../companies/capital-one.md) · [Uber (51)](../companies/uber.md) · [Microsoft (42)](../companies/microsoft.md) · [DoorDash (39)](../companies/doordash.md) · [LinkedIn (37)](../companies/linkedin.md) · [OpenAI (36)](../companies/openai.md) · [Instacart (29)](../companies/instacart.md) · [Pinterest (27)](../companies/pinterest.md) · [Apple (26)](../companies/apple.md) · [Roblox (25)](../companies/roblox.md) · [Stripe (22)](../companies/stripe.md)
 
 <sub>Page [1](staff.md) · **2** · [3](staff-3.md)</sub>
 
@@ -21,6 +21,8 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Tubi](../companies/tubi.md)** | [Thumbnail Selection for a Streaming Catalog](https://trueinterview.io/questions/ml-system-design-thumbnail-selection-for-a-streaming-catalog) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-thumbnail-selection-for-a-streaming-catalog) | Feb 10, 2026 |
+| **[Apple](../companies/apple.md)** | [Answer OoO, caches, and memory-system questions](https://trueinterview.io/questions/answer-ooo-caches-and-memory-system-questions) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/answer-ooo-caches-and-memory-system-questions) | Feb 9, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Describe how you reduced measurable cost](https://trueinterview.io/questions/describe-how-you-reduced-measurable-cost) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/describe-how-you-reduced-measurable-cost) | Feb 9, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a RAG system with agentic tools](https://trueinterview.io/questions/design-a-rag-system-with-agentic-tools) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-rag-system-with-agentic-tools) | Feb 9, 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Design experiments for marketplace product changes](https://trueinterview.io/questions/design-experiments-for-marketplace-product-changes) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-experiments-for-marketplace-product-changes) | Feb 9, 2026 |
@@ -419,7 +421,5 @@
 | **[Microsoft](../companies/microsoft.md)** | [Design a model for imbalanced conversions](https://trueinterview.io/questions/design-a-model-for-imbalanced-conversions) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-model-for-imbalanced-conversions) | — |
 | **[Stripe](../companies/stripe.md)** | [Design a model for subscription adoption prediction](https://trueinterview.io/questions/design-a-model-for-subscription-adoption-prediction) | OA | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-model-for-subscription-adoption-prediction) | — |
 | **[Airbnb](../companies/airbnb.md)** | [Design a network-aware Wi‑Fi badge experiment](https://trueinterview.io/questions/design-a-network-aware-wifi-badge-experiment) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-network-aware-wifi-badge-experiment) | — |
-| **[Instacart](../companies/instacart.md)** | [Design a pricing experiment with network effects](https://trueinterview.io/questions/design-a-pricing-experiment-with-network-effects) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-pricing-experiment-with-network-effects) | — |
-| **[Capital One](../companies/capital-one.md)** | [Design a production face recognition system](https://trueinterview.io/questions/design-a-production-face-recognition-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-production-face-recognition-system) | — |
 
 <sub>Page [1](staff.md) · **2** · [3](staff-3.md)</sub>

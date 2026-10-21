@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Pinterest on TrueInterview](https://trueinterview.io/problems/company/pinterest) · [How Pinterest interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/pinterest/README.md)
 
-**121 questions** · Senior & Staff+ 100 · ML & Research Scientist 19 · last reported Sep 2026
+**121 questions** · Senior & Staff+ 100 · ML & Research Scientist 18 · last reported Sep 2026
 
 **Rounds:** 📝 OA (8) · 📞 Phone (67) · 🏢 Onsite (58)
 

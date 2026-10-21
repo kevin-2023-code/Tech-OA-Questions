@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,113 at Senior/Staff+ · 1,246 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,107 at Senior/Staff+ · 1,222 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (768) · 📞 Phone (2,973) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (769) · 📞 Phone (2,972) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · **7** · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -133,7 +133,7 @@
 | **[Robinhood](../companies/robinhood.md)** | [Design a Photo Management Service](https://trueinterview.io/questions/design-a-photo-management-service) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-photo-management-service) | Apr 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Design a ranking system pipeline](https://trueinterview.io/questions/design-a-ranking-system-pipeline) | Phone | New grad · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-ranking-system-pipeline) | Apr 2026 |
 | **[Ramp](../companies/ramp.md)** / [OpenAI](../companies/openai.md) | [Design a Spreadsheet with Formula Evaluation](https://trueinterview.io/questions/design-excel-sum-formula) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-excel-sum-formula) | Apr 2026 |
-| **[OpenAI](../companies/openai.md)** | [Design a System for Remote Devbox](https://trueinterview.io/questions/7712035f-9c95-4803-8d87-0611bd9aca4c) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/7712035f-9c95-4803-8d87-0611bd9aca4c) | Apr 2026 |
+| **[OpenAI](../companies/openai.md)** | [Design a System for Remote Devbox](https://trueinterview.io/questions/7712035f-9c95-4803-8d87-0611bd9aca4c) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/7712035f-9c95-4803-8d87-0611bd9aca4c) | Apr 2026 |
 | **[Harvey](../companies/harvey.md)** | [Design a Text Editor](https://trueinterview.io/questions/design-a-text-editor) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-text-editor) | Apr 2026 |
 | **[Meta](../companies/meta.md)** | [Design a ticket or hotel reservation system](https://trueinterview.io/questions/design-a-ticket-or-hotel-reservation-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-ticket-or-hotel-reservation-system) | Apr 2026 |
 | **[Harvey](../companies/harvey.md)** | [Design a Versioned Key-Value Vault with Consistency Check (Filesystem-like)](https://trueinterview.io/questions/9e799065-9c68-4838-b4ed-81b16e6f0fdb) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/9e799065-9c68-4838-b4ed-81b16e6f0fdb) | Apr 2026 |
@@ -167,7 +167,7 @@
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) | [Find IPv4 Addresses in Nested Files](https://trueinterview.io/questions/d5905d81-f1d5-4f11-97ad-b8162610cc37) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d5905d81-f1d5-4f11-97ad-b8162610cc37) | Apr 2026 |
 | **[Visa](../companies/visa.md)** / [LinkedIn](../companies/linkedin.md) | [Find K Closest Elements](https://trueinterview.io/questions/7bedae5f-5feb-4c90-95d3-db93bbb7a7a2) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/7bedae5f-5feb-4c90-95d3-db93bbb7a7a2) | Apr 2026 |
 | **[Apple](../companies/apple.md)** / [Google](../companies/google.md) | [Find K Pairs with Smallest Sums](https://trueinterview.io/questions/find-k-pairs-with-smallest-sums) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-k-pairs-with-smallest-sums) | Apr 2026 |
-| **[Meta](../companies/meta.md)** / [DoorDash](../companies/doordash.md) | [Find Peak Element](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Apr 2026 |
+| **[Meta](../companies/meta.md)** / [DoorDash](../companies/doordash.md) | [Find Peak Element](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Apr 2026 |
 | **[Roblox](../companies/roblox.md)** | [Find the Most Frequent Log Call](https://trueinterview.io/questions/find-the-most-frequent-log-call) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-most-frequent-log-call) | Apr 2026 |
 | **[Meta](../companies/meta.md)** | [Fix an AI-generated query and address data quality issues](https://trueinterview.io/questions/01f555c7-1416-450a-9bff-c393859356bd) | Onsite | **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/01f555c7-1416-450a-9bff-c393859356bd) | Apr 2026 |
 | **[Meta](../companies/meta.md)** | [Fix validation for friend recommendations](https://trueinterview.io/questions/021b6f7e-4100-443e-aa5d-09ddf9ae43ca) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/021b6f7e-4100-443e-aa5d-09ddf9ae43ca) | Apr 2026 |

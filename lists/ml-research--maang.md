@@ -8,7 +8,7 @@
 >
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**160 questions** · 146 at Senior/Staff+ · 33 reported in the last 90 days · 66 free to solve
+**160 questions** · 147 at Senior/Staff+ · 33 reported in the last 90 days · 66 free to solve
 
 **Rounds:** 📝 OA (2) · 📞 Phone (86) · 🏢 Onsite (94)
 
@@ -88,14 +88,14 @@
 | **[Netflix](../companies/netflix.md)** | [Compare Losses and Explain LoRA](https://trueinterview.io/questions/compare-losses-and-explain-lora) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/compare-losses-and-explain-lora) | May 2026 |
 | **[Netflix](../companies/netflix.md)** | [Design a word counter for streaming text](https://trueinterview.io/questions/4840a6ed-a44c-4478-b55f-eff03d261fcf) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/4840a6ed-a44c-4478-b55f-eff03d261fcf) | May 2026 |
 | **[Meta](../companies/meta.md)** | [Design an Automated Ticket Investigation Agent](https://trueinterview.io/questions/design-an-automated-ticket-investigation-agent) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-automated-ticket-investigation-agent) | May 2026 |
-| **[Apple](../companies/apple.md)** | [Design CI/CD for AI Services](https://trueinterview.io/questions/design-ci-cd-for-ai-services) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-ci-cd-for-ai-services) | May 2026 |
+| **[Apple](../companies/apple.md)** | [Design CI/CD for AI Services](https://trueinterview.io/questions/design-ci-cd-for-ai-services) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-ci-cd-for-ai-services) | May 2026 |
 | **[Apple](../companies/apple.md)** | [Explain Vision Encoders and LLM Bottlenecks](https://trueinterview.io/questions/explain-vision-encoders-and-llm-bottlenecks) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/explain-vision-encoders-and-llm-bottlenecks) | May 2026 |
 | **[Google](../companies/google.md)** | [Implement a Simplified Transformer Forward Pass](https://trueinterview.io/questions/b581f4c7-dd8a-486e-b735-9c330c32a910) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b581f4c7-dd8a-486e-b735-9c330c32a910) | May 2026 |
 | **[Amazon](../companies/amazon.md)** | [Science Application (Ambiguous Problem)](https://trueinterview.io/questions/science-application-ambiguous-problem) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/science-application-ambiguous-problem) | Apr 29, 2026 |
 | **[Amazon](../companies/amazon.md)** / [Pinterest](../companies/pinterest.md) | [Search / Ranking / Experimentation](https://trueinterview.io/questions/as-ml-system-design-search-ranking) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/as-ml-system-design-search-ranking) | Apr 29, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Bucket Batching DP (Applied Scientist Phone Screen)](https://trueinterview.io/questions/bucket-batching-dp-applied-scientist) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bucket-batching-dp-applied-scientist) | Apr 28, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Explain Core ML Interview Concepts](https://trueinterview.io/questions/explain-core-ml-interview-concepts) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-core-ml-interview-concepts) | Apr 27, 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Tiny Next-Token Prediction Model (PyTorch Fill-In)](https://trueinterview.io/questions/c0d89abb-ff3b-48a7-b818-75334a7ae968) | Phone · Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/c0d89abb-ff3b-48a7-b818-75334a7ae968) | Apr 25, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Tiny Next-Token Prediction Model (PyTorch Fill-In)](https://trueinterview.io/questions/c0d89abb-ff3b-48a7-b818-75334a7ae968) | Phone · Onsite | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c0d89abb-ff3b-48a7-b818-75334a7ae968) | Apr 25, 2026 |
 | **[Meta](../companies/meta.md)** | [Image Copyright Violation Detection](https://trueinterview.io/questions/mlsd-image-copyright-detection) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/mlsd-image-copyright-detection) | Apr 24, 2026 |
 | **[Meta](../companies/meta.md)** | [Nearby Place Recommendation](https://trueinterview.io/questions/mlsd-nearby-place-recommendation) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/mlsd-nearby-place-recommendation) | Apr 24, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [SFT Sample Packing](https://trueinterview.io/questions/sft-sample-packing) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sft-sample-packing) | Apr 19, 2026 |

@@ -6,11 +6,11 @@
 
 > **Who:** Asked for a **Quantitative Finance** role — researcher, developer or trader.
 
-**285 questions** · 130 at Senior/Staff+ · 69 reported in the last 90 days · 119 free to solve
+**286 questions** · 131 at Senior/Staff+ · 70 reported in the last 90 days · 119 free to solve
 
-**Rounds:** 📝 OA (87) · 📞 Phone (145) · 🏢 Onsite (61) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (87) · 📞 Phone (146) · 🏢 Onsite (61) · 🏠 Take-home (1)
 
-**Companies:** [Citadel (65)](../companies/citadel.md) · [Two Sigma (35)](../companies/two-sigma.md) · [Akuna Capital (31)](../companies/akuna-capital.md) · [Optiver (28)](../companies/optiver.md) · [Squarepoint (28)](../companies/squarepoint.md) · [Point72 (20)](../companies/point72.md) · [Hudson River Trading (17)](../companies/hudson-river-trading.md) · [Jane Street (15)](../companies/jane-street.md) · [IMC (9)](../companies/imc.md) · [DRW (8)](../companies/drw.md) · [Voleon (7)](../companies/voleon.md) · [Goldman Sachs (6)](../companies/goldman-sachs.md) · [SIG (6)](../companies/sig.md) · [Google (4)](../companies/google.md) · [JPMorgan (4)](../companies/jpmorgan.md)
+**Companies:** [Citadel (66)](../companies/citadel.md) · [Two Sigma (35)](../companies/two-sigma.md) · [Akuna Capital (31)](../companies/akuna-capital.md) · [Optiver (28)](../companies/optiver.md) · [Squarepoint (28)](../companies/squarepoint.md) · [Point72 (20)](../companies/point72.md) · [Hudson River Trading (17)](../companies/hudson-river-trading.md) · [Jane Street (15)](../companies/jane-street.md) · [IMC (9)](../companies/imc.md) · [DRW (8)](../companies/drw.md) · [Voleon (7)](../companies/voleon.md) · [Goldman Sachs (6)](../companies/goldman-sachs.md) · [SIG (6)](../companies/sig.md) · [Google (4)](../companies/google.md) · [JPMorgan (4)](../companies/jpmorgan.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -32,6 +32,7 @@
 | **[Squarepoint](../companies/squarepoint.md)** | [Estimate Market Beta from Aligned Asset and Benchmark Returns](https://trueinterview.io/questions/estimate-market-beta-from-aligned-asset-and-benchmark-returns) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/estimate-market-beta-from-aligned-asset-and-benchmark-returns) | 🆕 Sep 9, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Find the Expected Distance of a Uniform Point from a Disk's Center](https://trueinterview.io/questions/find-the-expected-distance-of-a-uniform-point-from-a-disks-center) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/find-the-expected-distance-of-a-uniform-point-from-a-disks-center) | 🆕 Sep 9, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Find the Probability That Two Uniform Variables Have Product Above One-Half](https://trueinterview.io/questions/find-the-probability-that-two-uniform-variables-have-product-above-one-half) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/find-the-probability-that-two-uniform-variables-have-product-above-one-half) | 🆕 Sep 9, 2026 |
+| **[Citadel](../companies/citadel.md)** | [Deduplicating File System](https://trueinterview.io/questions/deduplicating-file-system) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/deduplicating-file-system) | 🆕 Sep 8, 2026 |
 | **[Mercor](../companies/mercor.md)** | [Find the Probability That One Shop Supplies the Top Two Coffees](https://trueinterview.io/questions/find-the-probability-that-one-shop-supplies-the-top-two-coffees) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/find-the-probability-that-one-shop-supplies-the-top-two-coffees) | Sep 3, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Reduce Hashing and Safely Delete Shared File Content](https://trueinterview.io/questions/reduce-hashing-and-safely-delete-shared-file-content) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/reduce-hashing-and-safely-delete-shared-file-content) | Sep 3, 2026 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Compute the Arc Length of a Curve](https://trueinterview.io/questions/compute-the-arc-length-of-a-curve) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/compute-the-arc-length-of-a-curve) | Sep 2, 2026 |

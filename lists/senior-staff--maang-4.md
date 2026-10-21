@@ -8,11 +8,11 @@
 >
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,259 questions** · 1,259 at Senior/Staff+ · 312 reported in the last 90 days · 425 free to solve
+**1,255 questions** · 1,255 at Senior/Staff+ · 298 reported in the last 90 days · 425 free to solve
 
-**Rounds:** 📝 OA (55) · 📞 Phone (672) · 🏢 Onsite (628) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (54) · 📞 Phone (670) · 🏢 Onsite (628) · 🏠 Take-home (1)
 
-**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [Microsoft (179)](../companies/microsoft.md) · [Apple (135)](../companies/apple.md) · [Netflix (93)](../companies/netflix.md)
+**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (286)](../companies/amazon.md) · [Google (276)](../companies/google.md) · [Microsoft (180)](../companies/microsoft.md) · [Apple (135)](../companies/apple.md) · [Netflix (93)](../companies/netflix.md)
 
 <sub>Page [1](senior-staff--maang.md) · [2](senior-staff--maang-2.md) · [3](senior-staff--maang-3.md) · **4**</sub>
 
@@ -23,10 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Google](../companies/google.md)** | [Remove Exactly One Element to Make a Pivot Index Exist](https://trueinterview.io/questions/3d3cc0d8-d70c-444f-9e70-308f9930fbcc) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3d3cc0d8-d70c-444f-9e70-308f9930fbcc) | — |
-| **[Amazon](../companies/amazon.md)** | [Rerun Affected Tasks After Changes](https://trueinterview.io/questions/5c3a4ba3-9d72-53dc-9a93-75624d55ff79) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/5c3a4ba3-9d72-53dc-9a93-75624d55ff79) | — |
-| **[Google](../companies/google.md)** | [Resolve conflict on trust versus growth priorities](https://trueinterview.io/questions/resolve-conflict-on-trust-versus-growth-priorities) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/resolve-conflict-on-trust-versus-growth-priorities) | — |
-| **[Meta](../companies/meta.md)** | [Resolve cross-team conflict and align incentives](https://trueinterview.io/questions/resolve-cross-team-conflict-and-align-incentives) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/resolve-cross-team-conflict-and-align-incentives) | — |
 | **[Meta](../companies/meta.md)** | [Resolve exclusion, learn fast, and manage conflict](https://trueinterview.io/questions/resolve-exclusion-learn-fast-and-manage-conflict) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/resolve-exclusion-learn-fast-and-manage-conflict) | — |
 | **[Microsoft](../companies/microsoft.md)** | [Reverse a list in-place](https://trueinterview.io/questions/reverse-a-list-in-place) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/reverse-a-list-in-place) | — |
 | **[Amazon](../companies/amazon.md)** | [Root-cause an incident and drive consensus](https://trueinterview.io/questions/root-cause-an-incident-and-drive-consensus) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/root-cause-an-incident-and-drive-consensus) | — |

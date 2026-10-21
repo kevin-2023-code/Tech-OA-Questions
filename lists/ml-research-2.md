@@ -6,11 +6,11 @@
 
 > **Who:** Asked for a **Machine Learning Engineer**, **Research Scientist** or **AI Engineer** role.
 
-**467 questions** · 411 at Senior/Staff+ · 95 reported in the last 90 days · 180 free to solve
+**466 questions** · 412 at Senior/Staff+ · 95 reported in the last 90 days · 180 free to solve
 
-**Rounds:** 📝 OA (18) · 📞 Phone (241) · 🏢 Onsite (253) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (18) · 📞 Phone (240) · 🏢 Onsite (253) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (52)](../companies/amazon.md) · [OpenAI (47)](../companies/openai.md) · [Apple (28)](../companies/apple.md) · [ByteDance (28)](../companies/bytedance.md) · [Meta (28)](../companies/meta.md) · [Microsoft (27)](../companies/microsoft.md) · [Anthropic (19)](../companies/anthropic.md) · [Pinterest (19)](../companies/pinterest.md) · [Google (18)](../companies/google.md) · [Uber (14)](../companies/uber.md) · [Reddit (13)](../companies/reddit.md) · [Waymo (13)](../companies/waymo.md) · [Capital One (12)](../companies/capital-one.md) · [LinkedIn (12)](../companies/linkedin.md) · [Snapchat (12)](../companies/snapchat.md)
+**Companies:** [Amazon (52)](../companies/amazon.md) · [OpenAI (47)](../companies/openai.md) · [Apple (28)](../companies/apple.md) · [ByteDance (28)](../companies/bytedance.md) · [Meta (28)](../companies/meta.md) · [Microsoft (27)](../companies/microsoft.md) · [Anthropic (19)](../companies/anthropic.md) · [Google (18)](../companies/google.md) · [Pinterest (18)](../companies/pinterest.md) · [Uber (14)](../companies/uber.md) · [Reddit (13)](../companies/reddit.md) · [Waymo (13)](../companies/waymo.md) · [Capital One (12)](../companies/capital-one.md) · [LinkedIn (12)](../companies/linkedin.md) · [Snapchat (12)](../companies/snapchat.md)
 
 <sub>Page [1](ml-research.md) · **2**</sub>
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Apple](../companies/apple.md)** | [Online Token Processing, Embeddings, and Classification](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Dec 11, 2025 |
 | **[NVIDIA](../companies/nvidia.md)** | [2-D Convolution, Decaying Attention, and Training Loop](https://trueinterview.io/questions/ml-coding-conv-attention-training-loop) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ml-coding-conv-attention-training-loop) | Dec 10, 2025 |
 | **[ByteDance](../companies/bytedance.md)** | [Explain DPO and construct its training data](https://trueinterview.io/questions/explain-dpo-and-construct-its-training-data) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-dpo-and-construct-its-training-data) | Dec 8, 2025 |
 | **[Meta](../companies/meta.md)** | [Explain key ML metrics and techniques](https://trueinterview.io/questions/explain-key-ml-metrics-and-techniques) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-key-ml-metrics-and-techniques) | Dec 8, 2025 |

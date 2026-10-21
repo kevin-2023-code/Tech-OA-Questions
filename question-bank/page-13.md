@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,113 at Senior/Staff+ · 1,246 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,107 at Senior/Staff+ · 1,222 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (768) · 📞 Phone (2,973) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (769) · 📞 Phone (2,972) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · **13** · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -400,7 +400,7 @@
 | **[Scale AI](../companies/scale-ai.md)** | [Generate Jailbreak Prompts from Text Inputs Algorithm](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | Onsite | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | — |
 | **[Arista](../companies/arista.md)** | [Generate Matrix B](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | — |
 | **[Amazon](../companies/amazon.md)** | [Generate primes up to n efficiently](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Get Max Efficiency](https://trueinterview.io/questions/f17bf4e8-5c3c-440a-8223-2134aa4a4837) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f17bf4e8-5c3c-440a-8223-2134aa4a4837) | — |
 | **[Expedia](../companies/expedia.md)** / [IBM](../companies/ibm.md) | [Get Maximum Efficiency](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Get Maximum Sum of Strengths](https://trueinterview.io/questions/229ffa68-8eb3-41a4-aae7-64d9770c15d1) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/229ffa68-8eb3-41a4-aae7-64d9770c15d1) | — |

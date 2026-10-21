@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**1,152 questions** · 1,152 at Senior/Staff+ · 181 reported in the last 90 days · 696 free to solve
+**1,155 questions** · 1,155 at Senior/Staff+ · 181 reported in the last 90 days · 697 free to solve
 
-**Rounds:** 📝 OA (18) · 📞 Phone (600) · 🏢 Onsite (565) · 🏠 Take-home (3)
+**Rounds:** 📝 OA (18) · 📞 Phone (600) · 🏢 Onsite (569) · 🏠 Take-home (3)
 
-**Companies:** [Meta (184)](../companies/meta.md) · [Amazon (81)](../companies/amazon.md) · [Google (70)](../companies/google.md) · [ByteDance (67)](../companies/bytedance.md) · [Capital One (64)](../companies/capital-one.md) · [Uber (50)](../companies/uber.md) · [Microsoft (42)](../companies/microsoft.md) · [DoorDash (39)](../companies/doordash.md) · [LinkedIn (37)](../companies/linkedin.md) · [OpenAI (35)](../companies/openai.md) · [Instacart (28)](../companies/instacart.md) · [Pinterest (27)](../companies/pinterest.md) · [Apple (25)](../companies/apple.md) · [Roblox (25)](../companies/roblox.md) · [Stripe (22)](../companies/stripe.md)
+**Companies:** [Meta (186)](../companies/meta.md) · [Amazon (81)](../companies/amazon.md) · [Google (70)](../companies/google.md) · [ByteDance (68)](../companies/bytedance.md) · [Capital One (64)](../companies/capital-one.md) · [Uber (51)](../companies/uber.md) · [Microsoft (42)](../companies/microsoft.md) · [DoorDash (39)](../companies/doordash.md) · [LinkedIn (37)](../companies/linkedin.md) · [OpenAI (36)](../companies/openai.md) · [Instacart (29)](../companies/instacart.md) · [Pinterest (27)](../companies/pinterest.md) · [Apple (26)](../companies/apple.md) · [Roblox (25)](../companies/roblox.md) · [Stripe (22)](../companies/stripe.md)
 
 <sub>Page [1](staff.md) · [2](staff-2.md) · **3**</sub>
 
@@ -21,6 +21,8 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Instacart](../companies/instacart.md)** | [Design a pricing experiment with network effects](https://trueinterview.io/questions/design-a-pricing-experiment-with-network-effects) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-pricing-experiment-with-network-effects) | — |
+| **[Capital One](../companies/capital-one.md)** | [Design a production face recognition system](https://trueinterview.io/questions/design-a-production-face-recognition-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-production-face-recognition-system) | — |
 | **[Capital One](../companies/capital-one.md)** | [Design a profit growth strategy](https://trueinterview.io/questions/design-a-profit-growth-strategy) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/design-a-profit-growth-strategy) | — |
 | **[xAI](../companies/xai.md)** | [Design a Rate Limiter with Variable User Quotas](https://trueinterview.io/questions/design-a-rate-limiter-with-variable-user-quotas) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-rate-limiter-with-variable-user-quotas) | — |
 | **[Meta](../companies/meta.md)** | [Design a restaurant recommender under cold start](https://trueinterview.io/questions/design-a-restaurant-recommender-under-cold-start) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-restaurant-recommender-under-cold-start) | — |
@@ -308,6 +310,7 @@
 | **[Instacart](../companies/instacart.md)** | [Prioritize conflicting tasks under shifting deadlines](https://trueinterview.io/questions/prioritize-conflicting-tasks-under-shifting-deadlines) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/prioritize-conflicting-tasks-under-shifting-deadlines) | — |
 | **[DoorDash](../companies/doordash.md)** | [Prioritize projects and manage tight deadlines](https://trueinterview.io/questions/prioritize-projects-and-manage-tight-deadlines) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/prioritize-projects-and-manage-tight-deadlines) | — |
 | **[Capital One](../companies/capital-one.md)** | [Prioritize six improvements for a favorite app](https://trueinterview.io/questions/prioritize-six-improvements-for-a-favorite-app) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/prioritize-six-improvements-for-a-favorite-app) | — |
+| **[Meta](../companies/meta.md)** | [Project Success and Conflict Resolution Experience Discussion](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | — |
 | **[Amazon](../companies/amazon.md)** | [Prove and apply statistical ML fundamentals](https://trueinterview.io/questions/prove-and-apply-statistical-ml-fundamentals) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/prove-and-apply-statistical-ml-fundamentals) | — |
 | **[Robinhood](../companies/robinhood.md)** | [Prove causality for trading metric drop](https://trueinterview.io/questions/prove-causality-for-trading-metric-drop) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/prove-causality-for-trading-metric-drop) | — |
 | **[Amazon](../companies/amazon.md)** | [Prove new allocation outperforms manual baseline](https://trueinterview.io/questions/prove-new-allocation-outperforms-manual-baseline) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/prove-new-allocation-outperforms-manual-baseline) | — |

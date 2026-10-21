@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**768 questions** · 256 at Senior/Staff+ · 138 reported in the last 90 days · 197 free to solve
+**769 questions** · 255 at Senior/Staff+ · 138 reported in the last 90 days · 197 free to solve
 
-**By employer group:** 🧠 AI labs (36) · 📈 Quant firms (116) · 🏛️ MAANG+ (164)
+**By employer group:** 🧠 AI labs (36) · 📈 Quant firms (116) · 🏛️ MAANG+ (165)
 
-**Companies:** [Amazon (52)](../companies/amazon.md) · [Capital One (44)](../companies/capital-one.md) · [ByteDance (37)](../companies/bytedance.md) · [Meta (34)](../companies/meta.md) · [Uber (33)](../companies/uber.md) · [Google (30)](../companies/google.md) · [Microsoft (30)](../companies/microsoft.md) · [Goldman Sachs (28)](../companies/goldman-sachs.md) · [Stripe (28)](../companies/stripe.md) · [Salesforce (25)](../companies/salesforce.md) · [IBM (23)](../companies/ibm.md) · [Akuna Capital (22)](../companies/akuna-capital.md) · [Coinbase (19)](../companies/coinbase.md) · [Optiver (19)](../companies/optiver.md) · [Cisco (18)](../companies/cisco.md)
+**Companies:** [Amazon (52)](../companies/amazon.md) · [Capital One (44)](../companies/capital-one.md) · [ByteDance (37)](../companies/bytedance.md) · [Meta (35)](../companies/meta.md) · [Uber (33)](../companies/uber.md) · [Google (30)](../companies/google.md) · [Microsoft (30)](../companies/microsoft.md) · [Goldman Sachs (28)](../companies/goldman-sachs.md) · [Stripe (28)](../companies/stripe.md) · [Salesforce (25)](../companies/salesforce.md) · [IBM (23)](../companies/ibm.md) · [Akuna Capital (22)](../companies/akuna-capital.md) · [Coinbase (19)](../companies/coinbase.md) · [Optiver (19)](../companies/optiver.md) · [Cisco (18)](../companies/cisco.md)
 
 <sub>Page [1](oa.md) · **2**</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Optiver](../companies/optiver.md)** | [Minimum Expected Asset Cost](https://trueinterview.io/questions/minimum-expected-asset-cost) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-expected-asset-cost) | Feb 6, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Refactor Obfuscated C++ Code (Hidden Best-Time-To-Buy-Sell)](https://trueinterview.io/questions/obfuscated-code-refactor) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/obfuscated-code-refactor) | Feb 6, 2026 |
 | **[Optiver](../companies/optiver.md)** | [Target Stock Portfolio Operations](https://trueinterview.io/questions/target-stock-portfolio-operations) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/target-stock-portfolio-operations) | Feb 6, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [TypeScript Test and Code Refactor](https://trueinterview.io/questions/typescript-refactor-oa) | OA · Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/typescript-refactor-oa) | Feb 5, 2026 |
@@ -95,7 +96,7 @@
 | **[Microsoft](../companies/microsoft.md)** | [Design device telemetry pipeline for real-time and batch](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | OA | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | Dec 17, 2025 |
 | **[Salesforce](../companies/salesforce.md)** | [Solve array duplicate flags and binary swaps](https://trueinterview.io/questions/solve-array-duplicate-flags-and-binary-swaps) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-duplicate-flags-and-binary-swaps) | Dec 17, 2025 |
 | **[IMC](../companies/imc.md)** | [Find k-th recipient in command propagation order](https://trueinterview.io/questions/find-k-th-recipient-in-command-propagation-order) | OA | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/find-k-th-recipient-in-command-propagation-order) | Dec 15, 2025 |
-| **[Google](../companies/google.md)** | [Find largest group of two-digit numbers sharing digits](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | Dec 5, 2025 |
+| **[Google](../companies/google.md)** | [Find largest group of two-digit numbers sharing digits](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | Dec 5, 2025 |
 | **[Netflix](../companies/netflix.md)** | [Highest Scoring Movie Group](https://trueinterview.io/questions/highest-scoring-movie-group) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/highest-scoring-movie-group) | Dec 5, 2025 |
 | **[Netflix](../companies/netflix.md)** | [One-Hot Encoding of An Array](https://trueinterview.io/questions/one-hot-encoding-of-an-array) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/one-hot-encoding-of-an-array) | Dec 5, 2025 |
 | **[ByteDance](../companies/bytedance.md)** | [Array Partition](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | Dec 2025 |

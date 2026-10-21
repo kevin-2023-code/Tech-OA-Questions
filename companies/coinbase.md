@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Coinbase on TrueInterview](https://trueinterview.io/problems/company/coinbase) · [How Coinbase interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/coinbase/README.md)
 
-**86 questions** · Senior & Staff+ 64 · ML & Research Scientist 3 · Quant researcher & developer 1 · last reported Sep 2026
+**86 questions** · Senior & Staff+ 63 · ML & Research Scientist 3 · Quant researcher & developer 1 · last reported Sep 2026
 
 **Rounds:** 📝 OA (19) · 📞 Phone (21) · 🏢 Onsite (48)
 
@@ -23,7 +23,7 @@
 | [Minimum Days to Execute Ordered Tasks with Cooldown](https://trueinterview.io/questions/aceaaa24-bfc7-5f9d-9dac-8462aa82ba07) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aceaaa24-bfc7-5f9d-9dac-8462aa82ba07) | Aug 2026 |
 | [Moving Average over a Sliding Window](https://trueinterview.io/questions/404adef3-580e-58ed-80ed-37af565360df) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/404adef3-580e-58ed-80ed-37af565360df) | Aug 2026 |
 | [AI Enhanced Pilot — Domain (AI-Assisted Coding Round)](https://trueinterview.io/questions/ai-enhanced-pilot-domain) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/ai-enhanced-pilot-domain) | Jul 2026 |
-| [Bank System](https://trueinterview.io/questions/bank-system)<br><sub>also [Anthropic](../companies/anthropic.md) / [PayPal](../companies/paypal.md)</sub> | OA | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/bank-system) | Jul 2026 |
+| [Bank System](https://trueinterview.io/questions/bank-system)<br><sub>also [Anthropic](../companies/anthropic.md) / [PayPal](../companies/paypal.md)</sub> | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/bank-system) | Jul 2026 |
 | [Banking System with Payments and Account Merging](https://trueinterview.io/questions/c8060613-c56e-5708-920f-2455777b3d9f)<br><sub>also [Ramp](../companies/ramp.md) / [Anthropic](../companies/anthropic.md) / [Capital One](../companies/capital-one.md) / +2</sub> | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c8060613-c56e-5708-920f-2455777b3d9f) | Jul 2026 |
 | [Design Coinbase Explore](https://trueinterview.io/questions/sd-coinbase-explore-realtime-price)<br><sub>also [Robinhood](../companies/robinhood.md) / [Snapchat](../companies/snapchat.md)</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/sd-coinbase-explore-realtime-price) | Jul 2026 |
 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-crypto-exchange-order-flow-system)<br><sub>also [Databricks](../companies/databricks.md) / [Robinhood](../companies/robinhood.md)</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-crypto-exchange-order-flow-system) | Jul 2026 |
@@ -95,7 +95,7 @@
 | [Explain handling pressure to bend rules](https://trueinterview.io/questions/explain-handling-pressure-to-bend-rules) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/explain-handling-pressure-to-bend-rules) | — |
 | [Flappy-Bird-like Autopilot With Coins as Jump Budget](https://trueinterview.io/questions/bb1c3959-faaf-438a-b87a-d07fb13b9668) | OA | New grad · Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/bb1c3959-faaf-438a-b87a-d07fb13b9668) | — |
 | [Flatten Iterator for Vector of Iterators with getnext() and hasnext() Methods](https://trueinterview.io/questions/4ac45ecd-0c2b-47e5-bae9-8f19aa67657e) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4ac45ecd-0c2b-47e5-bae9-8f19aa67657e) | — |
-| [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
+| [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
 | [In-Memory DB: Track per-key operation counts and return Top N keys](https://trueinterview.io/questions/18f2af09-b069-4916-95ad-59284a68cccf) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/18f2af09-b069-4916-95ad-59284a68cccf) | — |
 | [Longest Consecutive Character in String](https://trueinterview.io/questions/ae5833c1-2569-4d9e-ae07-7087514da7f6) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ae5833c1-2569-4d9e-ae07-7087514da7f6) | — |
 | [Maximize Transaction Fees in Block](https://trueinterview.io/questions/7839fcf7-ef9d-4183-8b53-4bb3fa1e7172) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/7839fcf7-ef9d-4183-8b53-4bb3fa1e7172) | — |

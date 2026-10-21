@@ -28,19 +28,19 @@ A question carries the levels and roles **the catalog recorded for it** — repo
 | :-- | --: |
 | [Senior & Staff+ Engineer Interview Questions at AI Labs (2026)](senior-staff--ai-labs.md) | 400 |
 | [Senior & Staff+ Engineer Interview Questions at Quant Firms (2026)](senior-staff--quant.md) | 189 |
-| [Senior & Staff+ Engineer Interview Questions at MAANG+ (2026)](senior-staff--maang.md) | 1,259 |
-| [Senior & Staff+ Engineer OA & Interview Questions (2026)](senior-staff.md) | 4,113 |
+| [Senior & Staff+ Engineer Interview Questions at MAANG+ (2026)](senior-staff--maang.md) | 1,255 |
+| [Senior & Staff+ Engineer OA & Interview Questions (2026)](senior-staff.md) | 4,107 |
 | [Staff+ Engineer Interview Questions at AI Labs (2026)](staff--ai-labs.md) | 91 |
 | [Staff+ Engineer Interview Questions at Quant Firms (2026)](staff--quant.md) | 26 |
-| [Staff+ Engineer Interview Questions at MAANG+ (2026)](staff--maang.md) | 391 |
-| [Staff+ Engineer OA & Interview Questions (2026)](staff.md) | 1,152 |
+| [Staff+ Engineer Interview Questions at MAANG+ (2026)](staff--maang.md) | 394 |
+| [Staff+ Engineer OA & Interview Questions (2026)](staff.md) | 1,155 |
 | [ML Engineer & Research Scientist Interview Questions at AI Labs (2026)](ml-research--ai-labs.md) | 103 |
 | [ML Engineer & Research Scientist Interview Questions at Quant Firms (2026)](ml-research--quant.md) | 5 |
 | [ML Engineer & Research Scientist Interview Questions at MAANG+ (2026)](ml-research--maang.md) | 160 |
-| [ML Engineer & Research Scientist OA & Interview Questions (2026)](ml-research.md) | 467 |
-| [Quant Researcher & Developer Interview Questions at Quant Firms (2026)](quant-roles--quant.md) | 269 |
+| [ML Engineer & Research Scientist OA & Interview Questions (2026)](ml-research.md) | 466 |
+| [Quant Researcher & Developer Interview Questions at Quant Firms (2026)](quant-roles--quant.md) | 270 |
 | [Quant Researcher & Developer Interview Questions at MAANG+ (2026)](quant-roles--maang.md) | 9 |
-| [Quant Researcher & Developer OA & Interview Questions (2026)](quant-roles.md) | 285 |
+| [Quant Researcher & Developer OA & Interview Questions (2026)](quant-roles.md) | 286 |
 | [AI Lab OA & Interview Questions (2026)](ai-labs.md) | 457 |
 | [Quant Firm OA & Interview Questions (2026)](quant.md) | 377 |
 | [MAANG+ OA & Interview Questions (2026)](maang.md) | 1,683 |

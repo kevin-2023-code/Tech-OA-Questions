@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**608 questions** · 436 at Senior/Staff+ · 137 reported in the last 90 days · 68 free to solve
+**608 questions** · 434 at Senior/Staff+ · 136 reported in the last 90 days · 68 free to solve
 
 **Rounds:** 📝 OA (46) · 📞 Phone (217) · 🏢 Onsite (405) · 🏠 Take-home (1)
 
@@ -108,7 +108,7 @@
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Message Parser](https://trueinterview.io/questions/e50a4680-a10a-486b-8a7a-5058a6225a0e) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e50a4680-a10a-486b-8a7a-5058a6225a0e) | Dec 2025 |
 | **[Anthropic](../companies/anthropic.md)** | [Web Crawler Implementation](https://trueinterview.io/questions/cdf0facf-7e01-47e4-9261-15bb1346366e) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cdf0facf-7e01-47e4-9261-15bb1346366e) | Dec 2025 |
 | **[Atlassian](../companies/atlassian.md)** | [File System Collection](https://trueinterview.io/questions/file-system-collection) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/file-system-collection) | Nov 28, 2025 |
-| **[Atlassian](../companies/atlassian.md)** / [Google](../companies/google.md) / [Tesla](../companies/tesla.md) | [URL Router Design](https://trueinterview.io/questions/url-router-design) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-router-design) | Nov 28, 2025 |
+| **[Atlassian](../companies/atlassian.md)** / [Google](../companies/google.md) / [Tesla](../companies/tesla.md) | [URL Router Design](https://trueinterview.io/questions/url-router-design) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-router-design) | Nov 28, 2025 |
 | **[Meta](../companies/meta.md)** | [Implement list cloning and k-frequency finder](https://trueinterview.io/questions/implement-list-cloning-and-k-frequency-finder) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-list-cloning-and-k-frequency-finder) | Nov 27, 2025 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Trade Processor with Subscribe / Unsubscribe](https://trueinterview.io/questions/trade-processor-subscribe-unsubscribe) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/trade-processor-subscribe-unsubscribe) | Nov 27, 2025 |
 | **[Optiver](../companies/optiver.md)** | [Implement a News Publishing System with Topic Subscriptions and Delivery Limits](https://trueinterview.io/questions/implement-a-news-publishing-system-with-topic-subscriptions-and-delivery-limits) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-news-publishing-system-with-topic-subscriptions-and-delivery-limits) | Nov 25, 2025 |
@@ -205,7 +205,7 @@
 | **[xAI](../companies/xai.md)** | [Durable KV Cache](https://trueinterview.io/questions/durable-kv-cache) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/durable-kv-cache) | — |
 | **[Gusto](../companies/gusto.md)** | [Efficient Key-Value Store with Insert, Retrieve, Delete Operations](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | — |
 | **[Amazon](../companies/amazon.md)** | [Extensible Folder Document Search Library](https://trueinterview.io/questions/37a8867d-11c8-5542-8720-cbcdeb63e9eb) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/37a8867d-11c8-5542-8720-cbcdeb63e9eb) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
 | **[Apple](../companies/apple.md)** | [Implement a Reusable Cyclic Barrier](https://trueinterview.io/questions/ce53d155-34b8-5206-bb75-58db08deb040) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ce53d155-34b8-5206-bb75-58db08deb040) | — |
 | **[Pinterest](../companies/pinterest.md)** | [Implement and extend My Calendar III](https://trueinterview.io/questions/implement-and-extend-my-calendar-iii) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-and-extend-my-calendar-iii) | — |
 | **[Amazon](../companies/amazon.md)** | [Implement list overlap and dense-ranked word frequencies](https://trueinterview.io/questions/implement-list-overlap-and-dense-ranked-word-frequencies) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-list-overlap-and-dense-ranked-word-frequencies) | — |

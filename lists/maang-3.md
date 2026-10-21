@@ -6,9 +6,9 @@
 
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,683 questions** · 1,259 at Senior/Staff+ · 465 reported in the last 90 days · 504 free to solve
+**1,683 questions** · 1,255 at Senior/Staff+ · 452 reported in the last 90 days · 504 free to solve
 
-**Rounds:** 📝 OA (164) · 📞 Phone (866) · 🏢 Onsite (774) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (165) · 📞 Phone (865) · 🏢 Onsite (774) · 🏠 Take-home (1)
 
 **Companies:** [Meta (485)](../companies/meta.md) · [Amazon (467)](../companies/amazon.md) · [Google (380)](../companies/google.md) · [Microsoft (239)](../companies/microsoft.md) · [Apple (181)](../companies/apple.md) · [Netflix (104)](../companies/netflix.md)
 
@@ -66,7 +66,7 @@
 | **[Microsoft](../companies/microsoft.md)** | [Explain hash map internals and edge cases](https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases) | OA | Mid | blog | [![Free][f]](https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases) | Apr 2026 |
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) | [Find IPv4 Addresses in Nested Files](https://trueinterview.io/questions/d5905d81-f1d5-4f11-97ad-b8162610cc37) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d5905d81-f1d5-4f11-97ad-b8162610cc37) | Apr 2026 |
 | **[Apple](../companies/apple.md)** / [Google](../companies/google.md) | [Find K Pairs with Smallest Sums](https://trueinterview.io/questions/find-k-pairs-with-smallest-sums) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-k-pairs-with-smallest-sums) | Apr 2026 |
-| **[Meta](../companies/meta.md)** / [DoorDash](../companies/doordash.md) | [Find Peak Element](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Apr 2026 |
+| **[Meta](../companies/meta.md)** / [DoorDash](../companies/doordash.md) | [Find Peak Element](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Apr 2026 |
 | **[Meta](../companies/meta.md)** | [Fix an AI-generated query and address data quality issues](https://trueinterview.io/questions/01f555c7-1416-450a-9bff-c393859356bd) | Onsite | **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/01f555c7-1416-450a-9bff-c393859356bd) | Apr 2026 |
 | **[Meta](../companies/meta.md)** | [Fix validation for friend recommendations](https://trueinterview.io/questions/021b6f7e-4100-443e-aa5d-09ddf9ae43ca) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/021b6f7e-4100-443e-aa5d-09ddf9ae43ca) | Apr 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Implement a SQL-like WHERE filter for in-memory rows](https://trueinterview.io/questions/cc96cc09-9d90-4ebf-b07c-d22d9a30aaf9) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cc96cc09-9d90-4ebf-b07c-d22d9a30aaf9) | Apr 2026 |

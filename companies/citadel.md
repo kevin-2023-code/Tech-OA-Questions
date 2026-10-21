@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Citadel on TrueInterview](https://trueinterview.io/problems/company/citadel) · [How Citadel interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/citadel/README.md)
 
-📈 Quant firms · **91 questions** · Senior & Staff+ 48 · Quant researcher & developer 65 · last reported Sep 2026
+📈 Quant firms · **91 questions** · Senior & Staff+ 48 · Quant researcher & developer 66 · last reported Sep 2026
 
 **Rounds:** 📝 OA (13) · 📞 Phone (64) · 🏢 Onsite (19)
 

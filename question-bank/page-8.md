@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,113 at Senior/Staff+ · 1,246 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,107 at Senior/Staff+ · 1,222 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (768) · 📞 Phone (2,973) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (769) · 📞 Phone (2,972) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · **8** · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -201,7 +201,7 @@
 | **[ByteDance](../companies/bytedance.md)** | [Walking with Boost Stations (Greedy Simulation)](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Mar 2026 |
 | **[StackAdapt](../companies/stackadapt.md)** | [Windowed Map (Time-Windowed Key-Value Store) with O(1) Operations and Window Average](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Mar 2026 |
 | **[Harvey](../companies/harvey.md)** | [Word Level Match and Tagging](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Mar 2026 |
-| **[Robinhood](../companies/robinhood.md)** | [Aggregate user logs into 30-minute sessions](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Feb 28, 2026 |
+| **[Robinhood](../companies/robinhood.md)** | [Aggregate user logs into 30-minute sessions](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Feb 28, 2026 |
 | **[Meta](../companies/meta.md)** | [Check and infer custom alphabet](https://trueinterview.io/questions/check-and-infer-custom-alphabet) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/check-and-infer-custom-alphabet) | Feb 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Design a TinyURL-like short link service](https://trueinterview.io/questions/design-a-tinyurl-like-short-link-service) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-tinyurl-like-short-link-service) | Feb 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Explain a promotion and key project impact](https://trueinterview.io/questions/explain-a-promotion-and-key-project-impact) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/explain-a-promotion-and-key-project-impact) | Feb 28, 2026 |

@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,499 questions** · 1,465 at Senior/Staff+ · 605 reported in the last 90 days · 302 free to solve
+**2,500 questions** · 1,462 at Senior/Staff+ · 603 reported in the last 90 days · 303 free to solve
 
-**Rounds:** 📝 OA (562) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (563) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
 
-**Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (59)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
+**Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (60)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
 
 <sub>Page [1](algorithm.md) · **2** · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>
 
@@ -77,7 +77,7 @@
 | **[Airbnb](../companies/airbnb.md)** / [Google](../companies/google.md) / [Meta](../companies/meta.md) | [Find Median In Large Array](https://trueinterview.io/questions/find-median-in-large-array-2) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-median-in-large-array-2) | Aug 2026 |
 | **[Point72](../companies/point72.md)** | [Find Minimum in Rotated Sorted Array](https://trueinterview.io/questions/8cf40fc4-93d8-5172-8ff4-5f12c477c26c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8cf40fc4-93d8-5172-8ff4-5f12c477c26c) | Aug 2026 |
 | **[Databricks](../companies/databricks.md)** | [Find Optimal Commute](https://trueinterview.io/questions/find-optimal-commute) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-optimal-commute) | Aug 2026 |
-| **[Meta](../companies/meta.md)** | [Find Shortest Path in Matrix](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Aug 2026 |
+| **[Meta](../companies/meta.md)** | [Find Shortest Path in Matrix](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Aug 2026 |
 | **[Uber](../companies/uber.md)** | [Find the Best Currency Conversion Rate](https://trueinterview.io/questions/find-the-best-currency-conversion-rate) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-best-currency-conversion-rate) | Aug 2026 |
 | **[Point72](../companies/point72.md)** | [Find the Largest and Second Largest Elements](https://trueinterview.io/questions/8c65387b-27b5-51c6-b5da-e91b21e11a27) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8c65387b-27b5-51c6-b5da-e91b21e11a27) | Aug 2026 |
 | **[Databricks](../companies/databricks.md)** | [Firewall CIDR Rules](https://trueinterview.io/questions/firewall-cidr-rules) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/firewall-cidr-rules) | Aug 2026 |
@@ -232,7 +232,7 @@
 | **[Salesforce](../companies/salesforce.md)** | [Maximal Rectangle (LeetCode 85)](https://trueinterview.io/questions/maximal-rectangle) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximal-rectangle) | Jul 17, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Maximal Square (LeetCode 221)](https://trueinterview.io/questions/maximal-square) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximal-square) | Jul 17, 2026 |
 | **[Vanta](../companies/vanta.md)** | [Implement `uniq` — Unique Lines in a File](https://trueinterview.io/questions/unique-lines-command) | Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/unique-lines-command) | Jul 16, 2026 |
-| **[OpenAI](../companies/openai.md)** | [Maximum Grid Jumping Path](https://trueinterview.io/questions/maximum-grid-jumping-path) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-grid-jumping-path) | Jul 16, 2026 |
+| **[OpenAI](../companies/openai.md)** | [Maximum Grid Jumping Path](https://trueinterview.io/questions/maximum-grid-jumping-path) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-grid-jumping-path) | Jul 16, 2026 |
 | **[Vanta](../companies/vanta.md)** | [Task Dependency Resolution (Topological Sort)](https://trueinterview.io/questions/task-dependency-resolution) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/task-dependency-resolution) | Jul 16, 2026 |
 | **[Google](../companies/google.md)** | [Count Word Decompositions into Chemical Element Symbols](https://trueinterview.io/questions/periodic-table-word-decomposition) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/periodic-table-word-decomposition) | Jul 14, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Edit Distance (LC 72) with a Follow-Up Variant](https://trueinterview.io/questions/edit-distance-one-reverse) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/edit-distance-one-reverse) | Jul 14, 2026 |

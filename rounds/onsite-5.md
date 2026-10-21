@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,246 questions** · 1,860 at Senior/Staff+ · 531 reported in the last 90 days · 700 free to solve
+**2,246 questions** · 1,859 at Senior/Staff+ · 523 reported in the last 90 days · 700 free to solve
 
 **By employer group:** 🧠 AI labs (221) · 📈 Quant firms (68) · 🏛️ MAANG+ (774)
 
@@ -119,7 +119,7 @@
 | **[Meta](../companies/meta.md)** | [Model entities for feed content and shares](https://trueinterview.io/questions/model-entities-for-feed-content-and-shares) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/model-entities-for-feed-content-and-shares) | Dec 1, 2025 |
 | **[Coinbase](../companies/coinbase.md)** | [Signup Form](https://trueinterview.io/questions/fe-sd-signup-form) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/fe-sd-signup-form) | Dec 1, 2025 |
 | **[Meta](../companies/meta.md)** | [Write SQL for car rental utilization by city](https://trueinterview.io/questions/write-sql-for-car-rental-utilization-by-city) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-car-rental-utilization-by-city) | Dec 1, 2025 |
-| **[Rippling](../companies/rippling.md)** | [Aggregate expenses by person, trip, and category](https://trueinterview.io/questions/aggregate-expenses-by-person-trip-and-category) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-expenses-by-person-trip-and-category) | Dec 2025 |
+| **[Rippling](../companies/rippling.md)** | [Aggregate expenses by person, trip, and category](https://trueinterview.io/questions/aggregate-expenses-by-person-trip-and-category) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-expenses-by-person-trip-and-category) | Dec 2025 |
 | **[Instacart](../companies/instacart.md)** | [Banking System - Schedule and Cancel Payment](https://trueinterview.io/questions/01a9b588-6991-4435-bc8f-d96a2ed119bb) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/01a9b588-6991-4435-bc8f-d96a2ed119bb) | Dec 2025 |
 | **[ByteDance](../companies/bytedance.md)** | [BST Node Search and Delete](https://trueinterview.io/questions/31cfc7de-9b80-4134-aa0c-dca151fdaf0b) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/31cfc7de-9b80-4134-aa0c-dca151fdaf0b) | Dec 2025 |
 | **[Snapchat](../companies/snapchat.md)** | [Count ways to decode digit string](https://trueinterview.io/questions/count-ways-to-decode-digit-string) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-ways-to-decode-digit-string) | Dec 2025 |
@@ -148,7 +148,7 @@
 | **[Upstart](../companies/upstart.md)** | [Solve core probability/statistics mini-problems](https://trueinterview.io/questions/solve-core-probability-statistics-mini-problems) | Onsite | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/solve-core-probability-statistics-mini-problems) | Nov 29, 2025 |
 | **[ZipHQ](../companies/ziphq.md)** | [Find flush and straight groups in cards](https://trueinterview.io/questions/find-flush-and-straight-groups-in-cards) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-flush-and-straight-groups-in-cards) | Nov 28, 2025 |
 | **[Pinterest](../companies/pinterest.md)** | [Newline-Split Stream Reader](https://trueinterview.io/questions/newline-stream-line-reader) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/newline-stream-line-reader) | Nov 28, 2025 |
-| **[Atlassian](../companies/atlassian.md)** / [Google](../companies/google.md) / [Tesla](../companies/tesla.md) | [URL Router Design](https://trueinterview.io/questions/url-router-design) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-router-design) | Nov 28, 2025 |
+| **[Atlassian](../companies/atlassian.md)** / [Google](../companies/google.md) / [Tesla](../companies/tesla.md) | [URL Router Design](https://trueinterview.io/questions/url-router-design) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-router-design) | Nov 28, 2025 |
 | **[Google](../companies/google.md)** | [Find All Bad Pairs Using runTest Oracle](https://trueinterview.io/questions/find-bad-pairs-with-oracle) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-bad-pairs-with-oracle) | Nov 27, 2025 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Trade Processor with Subscribe / Unsubscribe](https://trueinterview.io/questions/trade-processor-subscribe-unsubscribe) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/trade-processor-subscribe-unsubscribe) | Nov 27, 2025 |
 | **[Google](../companies/google.md)** | [Two-Day Log Intersection under Memory Limit](https://trueinterview.io/questions/two-logs-intersection-memory-limit) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/two-logs-intersection-memory-limit) | Nov 27, 2025 |

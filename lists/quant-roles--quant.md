@@ -8,11 +8,11 @@
 >
 > **Where:** Employers the shared company registry files under *Quant trading & hedge funds* — Jane Street, Citadel, Hudson River Trading, Two Sigma, Optiver and the rest.
 
-**269 questions** · 122 at Senior/Staff+ · 65 reported in the last 90 days · 105 free to solve
+**270 questions** · 123 at Senior/Staff+ · 66 reported in the last 90 days · 105 free to solve
 
-**Rounds:** 📝 OA (81) · 📞 Phone (140) · 🏢 Onsite (54) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (81) · 📞 Phone (141) · 🏢 Onsite (54) · 🏠 Take-home (1)
 
-**Companies:** [Citadel (65)](../companies/citadel.md) · [Two Sigma (35)](../companies/two-sigma.md) · [Akuna Capital (31)](../companies/akuna-capital.md) · [Optiver (28)](../companies/optiver.md) · [Squarepoint (28)](../companies/squarepoint.md) · [Point72 (20)](../companies/point72.md) · [Hudson River Trading (17)](../companies/hudson-river-trading.md) · [Jane Street (15)](../companies/jane-street.md) · [IMC (9)](../companies/imc.md) · [DRW (8)](../companies/drw.md) · [Voleon (7)](../companies/voleon.md) · [SIG (6)](../companies/sig.md) · [Chicago Trading (3)](../companies/chicago-trading.md)
+**Companies:** [Citadel (66)](../companies/citadel.md) · [Two Sigma (35)](../companies/two-sigma.md) · [Akuna Capital (31)](../companies/akuna-capital.md) · [Optiver (28)](../companies/optiver.md) · [Squarepoint (28)](../companies/squarepoint.md) · [Point72 (20)](../companies/point72.md) · [Hudson River Trading (17)](../companies/hudson-river-trading.md) · [Jane Street (15)](../companies/jane-street.md) · [IMC (9)](../companies/imc.md) · [DRW (8)](../companies/drw.md) · [Voleon (7)](../companies/voleon.md) · [SIG (6)](../companies/sig.md) · [Chicago Trading (3)](../companies/chicago-trading.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -34,6 +34,7 @@
 | **[Squarepoint](../companies/squarepoint.md)** | [Estimate Market Beta from Aligned Asset and Benchmark Returns](https://trueinterview.io/questions/estimate-market-beta-from-aligned-asset-and-benchmark-returns) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/estimate-market-beta-from-aligned-asset-and-benchmark-returns) | 🆕 Sep 9, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Find the Expected Distance of a Uniform Point from a Disk's Center](https://trueinterview.io/questions/find-the-expected-distance-of-a-uniform-point-from-a-disks-center) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/find-the-expected-distance-of-a-uniform-point-from-a-disks-center) | 🆕 Sep 9, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Find the Probability That Two Uniform Variables Have Product Above One-Half](https://trueinterview.io/questions/find-the-probability-that-two-uniform-variables-have-product-above-one-half) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/find-the-probability-that-two-uniform-variables-have-product-above-one-half) | 🆕 Sep 9, 2026 |
+| **[Citadel](../companies/citadel.md)** | [Deduplicating File System](https://trueinterview.io/questions/deduplicating-file-system) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/deduplicating-file-system) | 🆕 Sep 8, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Reduce Hashing and Safely Delete Shared File Content](https://trueinterview.io/questions/reduce-hashing-and-safely-delete-shared-file-content) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/reduce-hashing-and-safely-delete-shared-file-content) | Sep 3, 2026 |
 | **[Ramp](../companies/ramp.md)** / [Citadel](../companies/citadel.md) | [Maximum Earnings After Converting Days Off to Workdays](https://trueinterview.io/questions/67d28f6c-fb3d-5276-a3a9-869f98c53efb) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/67d28f6c-fb3d-5276-a3a9-869f98c53efb) | Sep 2026 |
 | **[Citadel](../companies/citadel.md)** / [Ramp](../companies/ramp.md) | [Minimum Changes to Make Every Block a Palindrome](https://trueinterview.io/questions/c2284735-21ac-5eb1-aa2e-ffd7004334d7) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/c2284735-21ac-5eb1-aa2e-ffd7004334d7) | Sep 2026 |

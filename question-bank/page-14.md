@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,113 at Senior/Staff+ · 1,246 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,107 at Senior/Staff+ · 1,222 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (768) · 📞 Phone (2,973) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (769) · 📞 Phone (2,972) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · **14** · [15](page-15.md)</sub>
 
@@ -228,7 +228,7 @@
 | **[Microsoft](../companies/microsoft.md)** | [Processing Service Logs for Error Detection and Reporting](https://trueinterview.io/questions/d179f051-5594-4883-b756-5c65264930c3) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/d179f051-5594-4883-b756-5c65264930c3) | — |
 | **[Microsoft](../companies/microsoft.md)** | [Production-Ready atoi for an Arbitrary Base](https://trueinterview.io/questions/f84adfe5-d304-5415-a1e5-1b7d9405ad8f) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f84adfe5-d304-5415-a1e5-1b7d9405ad8f) | — |
 | **[Amazon](../companies/amazon.md)** | [Profile and visualize an unfamiliar dataset](https://trueinterview.io/questions/profile-and-visualize-an-unfamiliar-dataset) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/profile-and-visualize-an-unfamiliar-dataset) | — |
-| **[Meta](../companies/meta.md)** | [Project Success and Conflict Resolution Experience Discussion](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Onsite | Mid · **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | — |
+| **[Meta](../companies/meta.md)** | [Project Success and Conflict Resolution Experience Discussion](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | — |
 | **[Amazon](../companies/amazon.md)** | [Prove and apply statistical ML fundamentals](https://trueinterview.io/questions/prove-and-apply-statistical-ml-fundamentals) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/prove-and-apply-statistical-ml-fundamentals) | — |
 | **[Robinhood](../companies/robinhood.md)** | [Prove causality for trading metric drop](https://trueinterview.io/questions/prove-causality-for-trading-metric-drop) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/prove-causality-for-trading-metric-drop) | — |
 | **[Amazon](../companies/amazon.md)** | [Prove new allocation outperforms manual baseline](https://trueinterview.io/questions/prove-new-allocation-outperforms-manual-baseline) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/prove-new-allocation-outperforms-manual-baseline) | — |

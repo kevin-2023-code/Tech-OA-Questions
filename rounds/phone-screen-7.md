@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,973 questions** · 2,275 at Senior/Staff+ · 680 reported in the last 90 days · 1,025 free to solve
+**2,972 questions** · 2,272 at Senior/Staff+ · 664 reported in the last 90 days · 1,025 free to solve
 
-**By employer group:** 🧠 AI labs (250) · 📈 Quant firms (203) · 🏛️ MAANG+ (866)
+**By employer group:** 🧠 AI labs (250) · 📈 Quant firms (203) · 🏛️ MAANG+ (865)
 
-**Companies:** [ByteDance (249)](../companies/bytedance.md) · [Meta (247)](../companies/meta.md) · [Amazon (240)](../companies/amazon.md) · [Google (213)](../companies/google.md) · [Uber (149)](../companies/uber.md) · [Apple (135)](../companies/apple.md) · [Microsoft (108)](../companies/microsoft.md) · [Snowflake (103)](../companies/snowflake.md) · [OpenAI (94)](../companies/openai.md) · [Capital One (88)](../companies/capital-one.md) · [LinkedIn (71)](../companies/linkedin.md) · [DoorDash (67)](../companies/doordash.md) · [Pinterest (67)](../companies/pinterest.md) · [Citadel (64)](../companies/citadel.md) · [Bloomberg (60)](../companies/bloomberg.md)
+**Companies:** [ByteDance (249)](../companies/bytedance.md) · [Meta (246)](../companies/meta.md) · [Amazon (240)](../companies/amazon.md) · [Google (213)](../companies/google.md) · [Uber (149)](../companies/uber.md) · [Apple (134)](../companies/apple.md) · [Microsoft (108)](../companies/microsoft.md) · [Snowflake (103)](../companies/snowflake.md) · [OpenAI (94)](../companies/openai.md) · [Capital One (88)](../companies/capital-one.md) · [LinkedIn (71)](../companies/linkedin.md) · [DoorDash (67)](../companies/doordash.md) · [Pinterest (67)](../companies/pinterest.md) · [Citadel (64)](../companies/citadel.md) · [Bloomberg (60)](../companies/bloomberg.md)
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · **7** · [8](phone-screen-8.md)</sub>
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Roblox](../companies/roblox.md)** | [Compute ARPDAU/ARPPU by country](https://trueinterview.io/questions/compute-arpdau-arppu-by-country) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-arpdau-arppu-by-country) | — |
 | **[Amazon](../companies/amazon.md)** | [Compute array modes with ties and no-mode rule](https://trueinterview.io/questions/compute-array-modes-with-ties-and-no-mode-rule) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-array-modes-with-ties-and-no-mode-rule) | — |
 | **[LinkedIn](../companies/linkedin.md)** | [Compute article-type diversity per user and histogram](https://trueinterview.io/questions/compute-article-type-diversity-per-user-and-histogram) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-article-type-diversity-per-user-and-histogram) | — |
 | **[Pinterest](../companies/pinterest.md)** | [Compute average unique pins per user](https://trueinterview.io/questions/compute-average-unique-pins-per-user) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-average-unique-pins-per-user) | — |
@@ -419,5 +418,6 @@
 | **[Snowflake](../companies/snowflake.md)** | [Maximum Order Volume](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | — |
 | **[Datadog](../companies/datadog.md)** | [Maximum Points Collection in Maze Graph Game](https://trueinterview.io/questions/43f90ec3-73b8-4941-a623-cdff5c5a4882) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/43f90ec3-73b8-4941-a623-cdff5c5a4882) | — |
 | **[Ramp](../companies/ramp.md)** | [Maximum Profit from Unordered Stock Price Records](https://trueinterview.io/questions/522363cd-bdb8-5f9b-bfd8-86d74fb6f057) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/522363cd-bdb8-5f9b-bfd8-86d74fb6f057) | — |
+| **[Google](../companies/google.md)** | [Measure outage impact; choose fix vs build](https://trueinterview.io/questions/measure-outage-impact-choose-fix-vs-build) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-outage-impact-choose-fix-vs-build) | — |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · **7** · [8](phone-screen-8.md)</sub>

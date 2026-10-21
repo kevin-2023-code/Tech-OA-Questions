@@ -6,9 +6,9 @@
 
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,683 questions** · 1,259 at Senior/Staff+ · 465 reported in the last 90 days · 504 free to solve
+**1,683 questions** · 1,255 at Senior/Staff+ · 452 reported in the last 90 days · 504 free to solve
 
-**Rounds:** 📝 OA (164) · 📞 Phone (866) · 🏢 Onsite (774) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (165) · 📞 Phone (865) · 🏢 Onsite (774) · 🏠 Take-home (1)
 
 **Companies:** [Meta (485)](../companies/meta.md) · [Amazon (467)](../companies/amazon.md) · [Google (380)](../companies/google.md) · [Microsoft (239)](../companies/microsoft.md) · [Apple (181)](../companies/apple.md) · [Netflix (104)](../companies/netflix.md)
 
@@ -21,7 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Google](../companies/google.md)** | [Find largest group of two-digit numbers sharing digits](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | Dec 5, 2025 |
+| **[Google](../companies/google.md)** | [Find largest group of two-digit numbers sharing digits](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | Dec 5, 2025 |
 | **[Netflix](../companies/netflix.md)** | [Highest Scoring Movie Group](https://trueinterview.io/questions/highest-scoring-movie-group) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/highest-scoring-movie-group) | Dec 5, 2025 |
 | **[Netflix](../companies/netflix.md)** | [One-Hot Encoding of An Array](https://trueinterview.io/questions/one-hot-encoding-of-an-array) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/one-hot-encoding-of-an-array) | Dec 5, 2025 |
 | **[Meta](../companies/meta.md)** | [Compute Max Score From Up to 3 Categories](https://trueinterview.io/questions/compute-max-score-from-up-to-3-categories) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-max-score-from-up-to-3-categories) | Dec 2, 2025 |
@@ -48,7 +48,7 @@
 | **[Apple](../companies/apple.md)** | [Design a Concurrent Image Upload System](https://trueinterview.io/questions/design-a-concurrent-image-upload-system) | OA | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-concurrent-image-upload-system) | Nov 30, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Solve four classic algorithm problems](https://trueinterview.io/questions/solve-four-classic-algorithm-problems) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-classic-algorithm-problems) | Nov 30, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Spreadsheet column label to number](https://trueinterview.io/questions/solve-four-classic-algorithm-problems-spreadsheet-column-label-to-number) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-classic-algorithm-problems-spreadsheet-column-label-to-number) | Nov 30, 2025 |
-| **[Atlassian](../companies/atlassian.md)** / [Google](../companies/google.md) / [Tesla](../companies/tesla.md) | [URL Router Design](https://trueinterview.io/questions/url-router-design) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-router-design) | Nov 28, 2025 |
+| **[Atlassian](../companies/atlassian.md)** / [Google](../companies/google.md) / [Tesla](../companies/tesla.md) | [URL Router Design](https://trueinterview.io/questions/url-router-design) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-router-design) | Nov 28, 2025 |
 | **[Apple](../companies/apple.md)** | [Concurrent users from online intervals](https://trueinterview.io/questions/solve-interval-grid-fill-and-heap-tasks-concurrent-users-from-online-intervals) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-interval-grid-fill-and-heap-tasks-concurrent-users-from-online-intervals) | Nov 27, 2025 |
 | **[Google](../companies/google.md)** | [Find All Bad Pairs Using runTest Oracle](https://trueinterview.io/questions/find-bad-pairs-with-oracle) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-bad-pairs-with-oracle) | Nov 27, 2025 |
 | **[Apple](../companies/apple.md)** | [How would you handle an unresponsive teammate?](https://trueinterview.io/questions/how-would-you-handle-an-unresponsive-teammate) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-handle-an-unresponsive-teammate) | Nov 27, 2025 |
@@ -413,7 +413,7 @@
 | **[Microsoft](../companies/microsoft.md)** | [Processing Service Logs for Error Detection and Reporting](https://trueinterview.io/questions/d179f051-5594-4883-b756-5c65264930c3) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/d179f051-5594-4883-b756-5c65264930c3) | — |
 | **[Microsoft](../companies/microsoft.md)** | [Production-Ready atoi for an Arbitrary Base](https://trueinterview.io/questions/f84adfe5-d304-5415-a1e5-1b7d9405ad8f) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f84adfe5-d304-5415-a1e5-1b7d9405ad8f) | — |
 | **[Amazon](../companies/amazon.md)** | [Profile and visualize an unfamiliar dataset](https://trueinterview.io/questions/profile-and-visualize-an-unfamiliar-dataset) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/profile-and-visualize-an-unfamiliar-dataset) | — |
-| **[Meta](../companies/meta.md)** | [Project Success and Conflict Resolution Experience Discussion](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Onsite | Mid · **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | — |
+| **[Meta](../companies/meta.md)** | [Project Success and Conflict Resolution Experience Discussion](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | — |
 | **[Amazon](../companies/amazon.md)** | [Prove and apply statistical ML fundamentals](https://trueinterview.io/questions/prove-and-apply-statistical-ml-fundamentals) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/prove-and-apply-statistical-ml-fundamentals) | — |
 | **[Amazon](../companies/amazon.md)** | [Prove new allocation outperforms manual baseline](https://trueinterview.io/questions/prove-new-allocation-outperforms-manual-baseline) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/prove-new-allocation-outperforms-manual-baseline) | — |
 | **[Google](../companies/google.md)** | [Prove OLS invariance to linear transforms](https://trueinterview.io/questions/prove-ols-invariance-to-linear-transforms) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/prove-ols-invariance-to-linear-transforms) | — |

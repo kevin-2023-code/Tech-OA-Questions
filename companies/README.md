@@ -9,37 +9,37 @@ Counts are per company: a question reported at three employers is on three pages
 | Company | Group | Questions | Senior/Staff+ | ML & research | Quant roles | Last reported |
 | :-- | :-- | --: | --: | --: | --: | :-- |
 | [Meta](meta.md) | 🏛️ MAANG+ | 485 | 422 | 28 | — | Oct 2026 |
-| [Amazon](amazon.md) | 🏛️ MAANG+ | 467 | 289 | 52 | 3 | Oct 2026 |
-| [Google](google.md) | 🏛️ MAANG+ | 380 | 278 | 18 | 4 | Oct 2026 |
+| [Amazon](amazon.md) | 🏛️ MAANG+ | 467 | 286 | 52 | 3 | Oct 2026 |
+| [Google](google.md) | 🏛️ MAANG+ | 380 | 276 | 18 | 4 | Oct 2026 |
 | [ByteDance](bytedance.md) | — | 345 | 246 | 28 | 3 | Oct 2026 |
 | [Uber](uber.md) | — | 264 | 205 | 14 | 2 | Oct 2026 |
-| [Microsoft](microsoft.md) | 🏛️ MAANG+ | 239 | 179 | 27 | 2 | Oct 2026 |
+| [Microsoft](microsoft.md) | 🏛️ MAANG+ | 239 | 180 | 27 | 2 | Oct 2026 |
 | [Capital One](capital-one.md) | — | 193 | 148 | 12 | 2 | Sep 2026 |
 | [Apple](apple.md) | 🏛️ MAANG+ | 181 | 135 | 28 | — | Oct 2026 |
 | [OpenAI](openai.md) | 🧠 AI labs | 175 | 163 | 47 | — | Oct 2026 |
 | [DoorDash](doordash.md) | — | 149 | 128 | 10 | — | Oct 2026 |
 | [Snowflake](snowflake.md) | — | 145 | 92 | 4 | — | Oct 2026 |
 | [LinkedIn](linkedin.md) | — | 137 | 125 | 12 | — | Oct 2026 |
-| [Pinterest](pinterest.md) | — | 121 | 100 | 19 | — | Sep 2026 |
+| [Pinterest](pinterest.md) | — | 121 | 100 | 18 | — | Sep 2026 |
 | [Stripe](stripe.md) | — | 118 | 88 | 3 | 1 | Oct 2026 |
-| [Oracle](oracle.md) | — | 108 | 83 | 6 | — | Oct 2026 |
+| [Oracle](oracle.md) | — | 108 | 83 | 5 | — | Oct 2026 |
 | [Netflix](netflix.md) | 🏛️ MAANG+ | 104 | 93 | 10 | — | Oct 2026 |
 | [Roblox](roblox.md) | — | 102 | 79 | 7 | — | Sep 2026 |
 | [Salesforce](salesforce.md) | — | 100 | 70 | 2 | — | Oct 2026 |
 | [Anthropic](anthropic.md) | 🧠 AI labs | 99 | 84 | 19 | — | Sep 2026 |
 | [Bloomberg](bloomberg.md) | — | 91 | 57 | — | 1 | Oct 2026 |
-| [Citadel](citadel.md) | 📈 Quant firms | 91 | 48 | — | 65 | Sep 2026 |
+| [Citadel](citadel.md) | 📈 Quant firms | 91 | 48 | — | 66 | Sep 2026 |
 | [Airbnb](airbnb.md) | — | 89 | 77 | 7 | — | Sep 2026 |
 | [Snapchat](snapchat.md) | — | 89 | 72 | 12 | 1 | Oct 2026 |
 | [Databricks](databricks.md) | — | 88 | 76 | 3 | — | Sep 2026 |
-| [Coinbase](coinbase.md) | — | 86 | 64 | 3 | 1 | Sep 2026 |
+| [Coinbase](coinbase.md) | — | 86 | 63 | 3 | 1 | Sep 2026 |
 | [Waymo](waymo.md) | — | 74 | 52 | 13 | 1 | Sep 2026 |
 | [Goldman Sachs](goldman-sachs.md) | — | 68 | 32 | 3 | 6 | Oct 2026 |
 | [Atlassian](atlassian.md) | — | 64 | 59 | 3 | — | Sep 2026 |
 | [Instacart](instacart.md) | — | 64 | 51 | 3 | — | Sep 2026 |
 | [Rippling](rippling.md) | — | 58 | 49 | — | — | Oct 2026 |
 | [NVIDIA](nvidia.md) | — | 54 | 39 | 7 | — | Sep 2026 |
-| [Robinhood](robinhood.md) | — | 53 | 47 | 3 | — | Oct 2026 |
+| [Robinhood](robinhood.md) | — | 53 | 46 | 3 | — | Oct 2026 |
 | [Tesla](tesla.md) | — | 52 | 30 | 6 | — | Sep 2026 |
 | [Lyft](lyft.md) | — | 50 | 36 | 4 | — | Oct 2026 |
 | [Two Sigma](two-sigma.md) | 📈 Quant firms | 50 | 28 | 2 | 35 | Aug 2026 |

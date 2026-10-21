@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,499 questions** · 1,465 at Senior/Staff+ · 605 reported in the last 90 days · 302 free to solve
+**2,500 questions** · 1,462 at Senior/Staff+ · 603 reported in the last 90 days · 303 free to solve
 
-**Rounds:** 📝 OA (562) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (563) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
 
-**Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (59)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
+**Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (60)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · **4** · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Stripe](../companies/stripe.md)** | [String Path Compression](https://trueinterview.io/questions/string-path-compression) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/string-path-compression) | Apr 3, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Compute Matrix Prefix Products And Gradients](https://trueinterview.io/questions/compute-matrix-prefix-products-and-gradients) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-matrix-prefix-products-and-gradients) | Apr 2, 2026 |
 | **[Asana](../companies/asana.md)** | [Compute Products Excluding Each Index](https://trueinterview.io/questions/compute-products-excluding-each-index) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-products-excluding-each-index) | Apr 2, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Design a Randomized Multiset](https://trueinterview.io/questions/design-a-randomized-multiset) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-a-randomized-multiset) | Apr 2, 2026 |
@@ -69,7 +70,7 @@
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) | [Find IPv4 Addresses in Nested Files](https://trueinterview.io/questions/d5905d81-f1d5-4f11-97ad-b8162610cc37) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d5905d81-f1d5-4f11-97ad-b8162610cc37) | Apr 2026 |
 | **[Visa](../companies/visa.md)** / [LinkedIn](../companies/linkedin.md) | [Find K Closest Elements](https://trueinterview.io/questions/7bedae5f-5feb-4c90-95d3-db93bbb7a7a2) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/7bedae5f-5feb-4c90-95d3-db93bbb7a7a2) | Apr 2026 |
 | **[Apple](../companies/apple.md)** / [Google](../companies/google.md) | [Find K Pairs with Smallest Sums](https://trueinterview.io/questions/find-k-pairs-with-smallest-sums) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-k-pairs-with-smallest-sums) | Apr 2026 |
-| **[Meta](../companies/meta.md)** / [DoorDash](../companies/doordash.md) | [Find Peak Element](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Apr 2026 |
+| **[Meta](../companies/meta.md)** / [DoorDash](../companies/doordash.md) | [Find Peak Element](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Apr 2026 |
 | **[Roblox](../companies/roblox.md)** | [Find the Most Frequent Log Call](https://trueinterview.io/questions/find-the-most-frequent-log-call) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-most-frequent-log-call) | Apr 2026 |
 | **[Databricks](../companies/databricks.md)** | [Grid pathfinding with time & cost optimality (BFS / shortest path variant)](https://trueinterview.io/questions/5ef47226-c611-4570-99aa-51ed22a3d12b) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/5ef47226-c611-4570-99aa-51ed22a3d12b) | Apr 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Height of an N-ary Tree After Node Deletions](https://trueinterview.io/questions/97267c5d-561e-5bea-987c-d82f890a0293) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/97267c5d-561e-5bea-987c-d82f890a0293) | Apr 2026 |
@@ -302,7 +303,7 @@
 | **[ByteDance](../companies/bytedance.md)** | [Walking with Boost Stations (Greedy Simulation)](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/df181ca4-fa5a-4022-975e-2742e47d87d5) | Mar 2026 |
 | **[StackAdapt](../companies/stackadapt.md)** | [Windowed Map (Time-Windowed Key-Value Store) with O(1) Operations and Window Average](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Mar 2026 |
 | **[Harvey](../companies/harvey.md)** | [Word Level Match and Tagging](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Mar 2026 |
-| **[Robinhood](../companies/robinhood.md)** | [Aggregate user logs into 30-minute sessions](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Feb 28, 2026 |
+| **[Robinhood](../companies/robinhood.md)** | [Aggregate user logs into 30-minute sessions](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-user-logs-into-30-minute-sessions) | Feb 28, 2026 |
 | **[Meta](../companies/meta.md)** | [Check and infer custom alphabet](https://trueinterview.io/questions/check-and-infer-custom-alphabet) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/check-and-infer-custom-alphabet) | Feb 28, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Highlight Phrases in Review](https://trueinterview.io/questions/review-token-replace) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/review-token-replace) | Feb 28, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Split Stay Booking](https://trueinterview.io/questions/split-stay-availability-combinations) | Phone · Onsite | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/split-stay-availability-combinations) | Feb 28, 2026 |
@@ -418,6 +419,5 @@
 | **[Verkada](../companies/verkada.md)** | [Find Camera Admin User](https://trueinterview.io/questions/7379fb26-87ba-489a-a10c-ae5bc4342cce) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7379fb26-87ba-489a-a10c-ae5bc4342cce) | Feb 2026 |
 | **[Amazon](../companies/amazon.md)** | [Fruit Into Baskets (Sliding Window variant)](https://trueinterview.io/questions/c8705afa-0332-452b-a87c-bb5f5792ebd3) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/c8705afa-0332-452b-a87c-bb5f5792ebd3) | Feb 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** / [Waymo](../companies/waymo.md) | [Gas Station Feasibility / Complete Circuit](https://trueinterview.io/questions/c190b4fe-494b-4c16-b5f1-2a480a0f4ab6) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/c190b4fe-494b-4c16-b5f1-2a480a0f4ab6) | Feb 2026 |
-| **[Bloomberg](../companies/bloomberg.md)** / [ByteDance](../companies/bytedance.md) | [Gas Tank Grid Reachability](https://trueinterview.io/questions/gas-tank-grid-bfs) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/gas-tank-grid-bfs) | Feb 2026 |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · **4** · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>

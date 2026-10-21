@@ -6,7 +6,7 @@
 
 🏛️ MAANG+ · **181 questions** · Senior & Staff+ 135 · ML & Research Scientist 28 · last reported Oct 2026
 
-**Rounds:** 📝 OA (13) · 📞 Phone (135) · 🏢 Onsite (56)
+**Rounds:** 📝 OA (14) · 📞 Phone (134) · 🏢 Onsite (56)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/apple-interview-process) · [SWE](https://trueinterview.io/study/apple-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/apple-machine-learning-engineer-interview-process) · [Infra](https://trueinterview.io/study/apple-infrastructure-engineer-interview-process)
 
@@ -91,14 +91,14 @@
 | [Design Dropbox](https://trueinterview.io/questions/design-dropbox)<br><sub>also [Databricks](../companies/databricks.md) / [Google](../companies/google.md) / [Oracle](../companies/oracle.md) / +1</sub> | Phone · Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-dropbox) | Jun 2026 |
 | [Shortest Path in a Grid with Obstacle Removal](https://trueinterview.io/questions/shortest-path-in-grid-with-obstacle-removal)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-path-in-grid-with-obstacle-removal) | Jun 2026 |
 | [Trapping Rain Water](https://trueinterview.io/questions/trapping-rain-water)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / +4</sub> | Phone | Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/trapping-rain-water) | Jun 2026 |
-| [Valid Sudoku](https://trueinterview.io/questions/263c9c7c-07fd-508a-82a5-234de613401c)<br><sub>also [Meta](../companies/meta.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/263c9c7c-07fd-508a-82a5-234de613401c) | Jun 2026 |
+| [Valid Sudoku](https://trueinterview.io/questions/263c9c7c-07fd-508a-82a5-234de613401c)<br><sub>also [Meta](../companies/meta.md)</sub> | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/263c9c7c-07fd-508a-82a5-234de613401c) | Jun 2026 |
 | [Happy Number II](https://trueinterview.io/questions/happy-number-2) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/happy-number-2) | May 27, 2026 |
 | [Rotate a Matrix by 90 Degrees In Place](https://trueinterview.io/questions/8d60f16e-18e8-4945-a6a8-affa6c78ae56)<br><sub>also [Amazon](../companies/amazon.md) / [Cisco](../companies/cisco.md) / [Uber](../companies/uber.md)</sub> | Phone | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8d60f16e-18e8-4945-a6a8-affa6c78ae56) | May 22, 2026 |
 | [Kubernetes Service Filter & Dependency Chain](https://trueinterview.io/questions/kubernetes-service-filter-and-dependency-chain) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/kubernetes-service-filter-and-dependency-chain) | May 14, 2026 |
 | [Bag-of-Words Similarity Search from Scratch](https://trueinterview.io/questions/bag-of-words-similarity-search-from-scratch) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/bag-of-words-similarity-search-from-scratch) | May 5, 2026 |
 | [Substring Pattern Matches](https://trueinterview.io/questions/substring-pattern-matches) | Phone | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/substring-pattern-matches) | May 3, 2026 |
 | [Crafting a Compelling Job Transition and Motivation Response](https://trueinterview.io/questions/ebf5d768-7f3c-40dc-927c-477fe70eae77) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/ebf5d768-7f3c-40dc-927c-477fe70eae77) | May 2026 |
-| [Design CI/CD for AI Services](https://trueinterview.io/questions/design-ci-cd-for-ai-services) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-ci-cd-for-ai-services) | May 2026 |
+| [Design CI/CD for AI Services](https://trueinterview.io/questions/design-ci-cd-for-ai-services) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-ci-cd-for-ai-services) | May 2026 |
 | [Explain Vision Encoders and LLM Bottlenecks](https://trueinterview.io/questions/explain-vision-encoders-and-llm-bottlenecks) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/explain-vision-encoders-and-llm-bottlenecks) | May 2026 |
 | [Search a 2D Matrix](https://trueinterview.io/questions/search-a-2d-matrix) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/search-a-2d-matrix) | May 2026 |
 | [Maximum Number of Eaten Apples](https://trueinterview.io/questions/maximum-number-of-eaten-apples) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-number-of-eaten-apples) | Apr 24, 2026 |

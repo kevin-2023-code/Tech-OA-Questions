@@ -6,11 +6,11 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**4,113 questions** · 4,113 at Senior/Staff+ · 937 reported in the last 90 days · 1,450 free to solve
+**4,107 questions** · 4,107 at Senior/Staff+ · 912 reported in the last 90 days · 1,450 free to solve
 
-**Rounds:** 📝 OA (256) · 📞 Phone (2,275) · 🏢 Onsite (1,860) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (255) · 📞 Phone (2,272) · 🏢 Onsite (1,859) · 🏠 Take-home (8)
 
-**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (289)](../companies/amazon.md) · [Google (278)](../companies/google.md) · [ByteDance (246)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (179)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (92)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
+**Companies:** [Meta (422)](../companies/meta.md) · [Amazon (286)](../companies/amazon.md) · [Google (276)](../companies/google.md) · [ByteDance (246)](../companies/bytedance.md) · [Uber (205)](../companies/uber.md) · [Microsoft (180)](../companies/microsoft.md) · [OpenAI (163)](../companies/openai.md) · [Capital One (148)](../companies/capital-one.md) · [Apple (135)](../companies/apple.md) · [DoorDash (128)](../companies/doordash.md) · [LinkedIn (125)](../companies/linkedin.md) · [Pinterest (100)](../companies/pinterest.md) · [Netflix (93)](../companies/netflix.md) · [Snowflake (92)](../companies/snowflake.md) · [Stripe (88)](../companies/stripe.md)
 
 <sub>Page [1](senior-staff.md) · [2](senior-staff-2.md) · [3](senior-staff-3.md) · [4](senior-staff-4.md) · [5](senior-staff-5.md) · [6](senior-staff-6.md) · [7](senior-staff-7.md) · [8](senior-staff-8.md) · [9](senior-staff-9.md) · [10](senior-staff-10.md) · **11**</sub>
 
@@ -21,12 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Instacart](../companies/instacart.md)** | [Solve a challenge using data](https://trueinterview.io/questions/solve-a-challenge-using-data) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/solve-a-challenge-using-data) | — |
-| **[Snowflake](../companies/snowflake.md)** | [Solve and optimize 3Sum and variants at scale](https://trueinterview.io/questions/solve-and-optimize-3sum-and-variants-at-scale) | Onsite | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-and-optimize-3sum-and-variants-at-scale) | — |
-| **[Upstart](../companies/upstart.md)** | [Solve drunk-passenger probability and simulate outcome](https://trueinterview.io/questions/solve-drunk-passenger-probability-and-simulate-outcome) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/solve-drunk-passenger-probability-and-simulate-outcome) | — |
-| **[Upstart](../companies/upstart.md)** | [Solve SQL CTR and Python analytics tasks](https://trueinterview.io/questions/solve-sql-ctr-and-python-analytics-tasks) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/solve-sql-ctr-and-python-analytics-tasks) | — |
-| **[Amazon](../companies/amazon.md)** | [Solve stock, BFS path, and merge intervals](https://trueinterview.io/questions/solve-stock-bfs-path-and-merge-intervals) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-stock-bfs-path-and-merge-intervals) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Solve the 12-coin balance puzzle](https://trueinterview.io/questions/solve-the-12-coin-balance-puzzle) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/solve-the-12-coin-balance-puzzle) | — |
 | **[Amazon](../companies/amazon.md)** | [Solve two string DP/hash problems](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | — |
 | **[StackAdapt](../companies/stackadapt.md)** | [SongShuffler with Cooldown to Prevent Recent Repeats](https://trueinterview.io/questions/f2ece2d0-63e8-4cff-8b0b-adcbdb3fd61a) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f2ece2d0-63e8-4cff-8b0b-adcbdb3fd61a) | — |
 | **[Databricks](../companies/databricks.md)** | [Space-Efficient Versioned Set Snapshot Design](https://trueinterview.io/questions/7d84af64-a9ca-43ad-bef8-8a3725cf9d70) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/7d84af64-a9ca-43ad-bef8-8a3725cf9d70) | — |

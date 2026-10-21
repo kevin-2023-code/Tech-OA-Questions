@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Amazon on TrueInterview](https://trueinterview.io/problems/company/amazon) · [How Amazon interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/amazon/README.md)
 
-🏛️ MAANG+ · **467 questions** · Senior & Staff+ 289 · ML & Research Scientist 52 · Quant researcher & developer 3 · last reported Oct 2026
+🏛️ MAANG+ · **467 questions** · Senior & Staff+ 286 · ML & Research Scientist 52 · Quant researcher & developer 3 · last reported Oct 2026
 
 **Rounds:** 📝 OA (52) · 📞 Phone (240) · 🏢 Onsite (209)
 

@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,499 questions** · 1,465 at Senior/Staff+ · 605 reported in the last 90 days · 302 free to solve
+**2,500 questions** · 1,462 at Senior/Staff+ · 603 reported in the last 90 days · 303 free to solve
 
-**Rounds:** 📝 OA (562) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (563) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
 
-**Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (59)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
+**Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (60)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · **6** · [7](algorithm-7.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Uber](../companies/uber.md)** / [ByteDance](../companies/bytedance.md) / [Databricks](../companies/databricks.md) | [Max Area of Island](https://trueinterview.io/questions/10444131-24d7-4989-88fc-82a67c8fd20f) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/10444131-24d7-4989-88fc-82a67c8fd20f) | Nov 2025 |
 | **[Uber](../companies/uber.md)** | [Max Levels from Each Index](https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc) | Nov 2025 |
 | **[Google](../companies/google.md)** | [Merge Intervals with Names](https://trueinterview.io/questions/f65573da-74b9-4f0e-b1b7-b107519953e2) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f65573da-74b9-4f0e-b1b7-b107519953e2) | Nov 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Min Mod and Max](https://trueinterview.io/questions/300141c0-9e82-4bc4-8055-d73e3ca2fae2) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/300141c0-9e82-4bc4-8055-d73e3ca2fae2) | Nov 2025 |
@@ -418,6 +419,5 @@
 | **[Capital One](../companies/capital-one.md)** | [Merge seven tables into one clean DataFrame](https://trueinterview.io/questions/merge-seven-tables-into-one-clean-dataframe) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/merge-seven-tables-into-one-clean-dataframe) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Mike and Gems](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Min Cost to Complete All Projects](https://trueinterview.io/questions/08ff536a-d720-46c5-be65-d1ae3443bead) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/08ff536a-d720-46c5-be65-d1ae3443bead) | — |
-| **[Block](../companies/block.md)** | [Minesweeper Board Generation](https://trueinterview.io/questions/a0eccf02-13b4-4c9b-a2ac-69c127f7cc18) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a0eccf02-13b4-4c9b-a2ac-69c127f7cc18) | — |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · **6** · [7](algorithm-7.md)</sub>

@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,113 at Senior/Staff+ · 1,246 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,107 at Senior/Staff+ · 1,222 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (768) · 📞 Phone (2,973) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (769) · 📞 Phone (2,972) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · **2** · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -400,7 +400,7 @@
 | **[Stripe](../companies/stripe.md)** | [Design a Scalable Idempotent Ledger Service](https://trueinterview.io/questions/design-a-scalable-idempotent-ledger-service) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-scalable-idempotent-ledger-service) | Aug 20, 2026 |
 | **[Okta](../companies/okta.md)** | [Evaluate Role-Based Access with Deny Precedence](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Aug 20, 2026 |
 | **[Google](../companies/google.md)** | [Implement Python's itertools.tee](https://trueinterview.io/questions/python-tee-independent-iterators) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/python-tee-independent-iterators) | Aug 20, 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Multi-Key Bounded Task Executor](https://trueinterview.io/questions/multi-key-bounded-task-executor) | Phone | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/multi-key-bounded-task-executor) | Aug 20, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Multi-Key Bounded Task Executor](https://trueinterview.io/questions/multi-key-bounded-task-executor) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/multi-key-bounded-task-executor) | Aug 20, 2026 |
 | **[Indeed](../companies/indeed.md)** | [Redesign a Spam Classifier for Production](https://trueinterview.io/questions/redesign-a-spam-classifier-for-production) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/redesign-a-spam-classifier-for-production) | Aug 20, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Resolve a Mismatch Between Regression and Classification Metrics](https://trueinterview.io/questions/resolve-a-mismatch-between-regression-and-classification-metrics) | OA | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/resolve-a-mismatch-between-regression-and-classification-metrics) | Aug 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Root-Cause Analysis Under Uncertainty](https://trueinterview.io/questions/root-cause-analysis-under-uncertainty) | Onsite | New grad | blog | [![Free][f]](https://trueinterview.io/questions/root-cause-analysis-under-uncertainty) | Aug 20, 2026 |

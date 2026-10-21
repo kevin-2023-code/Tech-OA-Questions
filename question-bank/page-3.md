@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,636 questions** · 4,113 at Senior/Staff+ · 1,246 reported in the last 90 days · 1,830 free to solve
+**5,636 questions** · 4,107 at Senior/Staff+ · 1,222 reported in the last 90 days · 1,830 free to solve
 
-**Rounds:** 📝 OA (768) · 📞 Phone (2,973) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (769) · 📞 Phone (2,972) · 🏢 Onsite (2,246) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · **3** · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -212,7 +212,7 @@
 | **[Apple](../companies/apple.md)** | [Design APIs for a Voting System](https://trueinterview.io/questions/design-apis-for-a-voting-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-apis-for-a-voting-system) | Aug 2026 |
 | **[Affirm](../companies/affirm.md)** / [Amazon](../companies/amazon.md) | [Design Card Game](https://trueinterview.io/questions/design-card-game) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-card-game) | Aug 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Meta](../companies/meta.md) / [Reddit](../companies/reddit.md) | [Design Content Moderation System](https://trueinterview.io/questions/content-moderation-system-design) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/content-moderation-system-design) | Aug 2026 |
-| **[Anthropic](../companies/anthropic.md)** | [Design Distributed AI Model Downloader](https://trueinterview.io/questions/distributed-model-deployment-system-design) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/distributed-model-deployment-system-design) | Aug 2026 |
+| **[Anthropic](../companies/anthropic.md)** | [Design Distributed AI Model Downloader](https://trueinterview.io/questions/distributed-model-deployment-system-design) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/distributed-model-deployment-system-design) | Aug 2026 |
 | **[OpenAI](../companies/openai.md)** / [Atlassian](../companies/atlassian.md) / [Databricks](../companies/databricks.md) / +5 | [Design Distributed Web Crawler](https://trueinterview.io/questions/design-distributed-web-crawler-4) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-distributed-web-crawler-4) | Aug 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design local sports team recommendation system](https://trueinterview.io/questions/design-local-sports-team-recommendation-system) | Phone | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/design-local-sports-team-recommendation-system) | Aug 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Affirm](../companies/affirm.md) / [Expedia](../companies/expedia.md) / +7 | [Design Payment System](https://trueinterview.io/questions/payment-platform-design) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/payment-platform-design) | Aug 2026 |
@@ -251,7 +251,7 @@
 | **[Airbnb](../companies/airbnb.md)** / [Google](../companies/google.md) / [Meta](../companies/meta.md) | [Find Median In Large Array](https://trueinterview.io/questions/find-median-in-large-array-2) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-median-in-large-array-2) | Aug 2026 |
 | **[Point72](../companies/point72.md)** | [Find Minimum in Rotated Sorted Array](https://trueinterview.io/questions/8cf40fc4-93d8-5172-8ff4-5f12c477c26c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8cf40fc4-93d8-5172-8ff4-5f12c477c26c) | Aug 2026 |
 | **[Databricks](../companies/databricks.md)** | [Find Optimal Commute](https://trueinterview.io/questions/find-optimal-commute) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-optimal-commute) | Aug 2026 |
-| **[Meta](../companies/meta.md)** | [Find Shortest Path in Matrix](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Aug 2026 |
+| **[Meta](../companies/meta.md)** | [Find Shortest Path in Matrix](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Aug 2026 |
 | **[Uber](../companies/uber.md)** | [Find the Best Currency Conversion Rate](https://trueinterview.io/questions/find-the-best-currency-conversion-rate) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-best-currency-conversion-rate) | Aug 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Find the Correlation Between Two Die-Face Counts](https://trueinterview.io/questions/find-the-correlation-between-two-die-face-counts) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/find-the-correlation-between-two-die-face-counts) | Aug 2026 |
 | **[Point72](../companies/point72.md)** | [Find the Largest and Second Largest Elements](https://trueinterview.io/questions/8c65387b-27b5-51c6-b5da-e91b21e11a27) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8c65387b-27b5-51c6-b5da-e91b21e11a27) | Aug 2026 |
