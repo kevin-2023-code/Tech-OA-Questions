@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Compare Driving Algorithms Using Hard-Braking Rates](https://trueinterview.io/questions/compare-driving-algorithms-using-hard-braking-rates) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/compare-driving-algorithms-using-hard-braking-rates) | 🆕 Sep 6, 2026 |
+| [Compare Driving Algorithms Using Hard-Braking Rates](https://trueinterview.io/questions/compare-driving-algorithms-using-hard-braking-rates) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/compare-driving-algorithms-using-hard-braking-rates) | Sep 6, 2026 |
 | [Rate Limiter](https://trueinterview.io/questions/rate-limiter)<br><sub>also [Stripe](../companies/stripe.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +6</sub> | Onsite | New grad · Mid · **Senior** · **Staff+** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limiter) | Sep 2026 |
 | [Describe a Project You Are Proud Of](https://trueinterview.io/questions/describe-a-project-you-are-proud-of-2) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-a-project-you-are-proud-of-2) | Aug 27, 2026 |
 | [Handle Competing Work Priorities](https://trueinterview.io/questions/handle-competing-work-priorities) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/handle-competing-work-priorities) | Aug 27, 2026 |
