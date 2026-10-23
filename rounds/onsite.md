@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,246 questions** · 1,859 at Senior/Staff+ · 522 reported in the last 90 days · 700 free to solve
+**2,246 questions** · 1,859 at Senior/Staff+ · 521 reported in the last 90 days · 700 free to solve
 
 **By employer group:** 🧠 AI labs (221) · 📈 Quant firms (68) · 🏛️ MAANG+ (774)
 
@@ -154,8 +154,8 @@
 | **[Lyft](../companies/lyft.md)** | [Design a Globally Versioned Key-Value Store](https://trueinterview.io/questions/design-a-globally-versioned-key-value-store) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-globally-versioned-key-value-store) | 🆕 Sep 8, 2026 |
 | **[Lyft](../companies/lyft.md)** | [Explain Project Ownership and Collaboration with Colleagues](https://trueinterview.io/questions/explain-project-ownership-and-collaboration-with-colleagues) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-project-ownership-and-collaboration-with-colleagues) | 🆕 Sep 8, 2026 |
 | **[Google](../companies/google.md)** | [Rotten Oranges / Multi-Source BFS (taxis)](https://trueinterview.io/questions/rotten-oranges-multi-source-bfs-taxis) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/rotten-oranges-multi-source-bfs-taxis) | 🆕 Sep 8, 2026 |
-| **[Instacart](../companies/instacart.md)** | [Demonstrate Leadership Through One Challenging Project](https://trueinterview.io/questions/demonstrate-leadership-through-one-challenging-project) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-leadership-through-one-challenging-project) | 🆕 Sep 7, 2026 |
-| **[Instacart](../companies/instacart.md)** | [Reserve Cart Inventory Without Overselling](https://trueinterview.io/questions/reserve-cart-inventory-without-overselling) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/reserve-cart-inventory-without-overselling) | 🆕 Sep 7, 2026 |
+| **[Instacart](../companies/instacart.md)** | [Demonstrate Leadership Through One Challenging Project](https://trueinterview.io/questions/demonstrate-leadership-through-one-challenging-project) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-leadership-through-one-challenging-project) | Sep 7, 2026 |
+| **[Instacart](../companies/instacart.md)** | [Reserve Cart Inventory Without Overselling](https://trueinterview.io/questions/reserve-cart-inventory-without-overselling) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/reserve-cart-inventory-without-overselling) | Sep 7, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Calculate a Basket Total from Delimited Product Records](https://trueinterview.io/questions/calculate-a-basket-total-from-delimited-product-records) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-a-basket-total-from-delimited-product-records) | Sep 6, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [CAP, DB Indexing, Concurrency and Logging: Backend Fundamentals Oral Round](https://trueinterview.io/questions/backend-fundamentals-oral-cluster) | Phone · Onsite | Intern · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/backend-fundamentals-oral-cluster) | Sep 6, 2026 |
 | **[Databricks](../companies/databricks.md)** | [Design Chat APIs, Storage, and Message Flows](https://trueinterview.io/questions/design-chat-apis-storage-and-message-flows) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-chat-apis-storage-and-message-flows) | Sep 6, 2026 |
