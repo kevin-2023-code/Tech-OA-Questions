@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,500 questions** · 1,462 at Senior/Staff+ · 602 reported in the last 90 days · 303 free to solve
+**2,500 questions** · 1,462 at Senior/Staff+ · 600 reported in the last 90 days · 303 free to solve
 
 **Rounds:** 📝 OA (563) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
 
@@ -120,8 +120,8 @@
 | **[Google](../companies/google.md)** | [Minimum-Cost Tree Disconnection](https://trueinterview.io/questions/binary-tree-root-leaf-minimum-cut) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-root-leaf-minimum-cut) | 🆕 Sep 9, 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Render an Organization Chart and Find Skip-Level Pairs](https://trueinterview.io/questions/render-an-organization-chart-and-find-skip-level-pairs) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/render-an-organization-chart-and-find-skip-level-pairs) | 🆕 Sep 9, 2026 |
 | **[Uber](../companies/uber.md)** | [Sort a Matrix into Snake Order Using Adjacent Swaps](https://trueinterview.io/questions/sort-a-matrix-into-snake-order-using-adjacent-swaps) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sort-a-matrix-into-snake-order-using-adjacent-swaps) | 🆕 Sep 9, 2026 |
-| **[OpenAI](../companies/openai.md)** | [Debug a Transformer Implementation and Implement a KV Cache for Decoding](https://trueinterview.io/questions/debug-a-transformer-implementation-and-implement-a-kv-cache-for-decoding) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/debug-a-transformer-implementation-and-implement-a-kv-cache-for-decoding) | 🆕 Sep 8, 2026 |
-| **[Google](../companies/google.md)** | [Rotten Oranges / Multi-Source BFS (taxis)](https://trueinterview.io/questions/rotten-oranges-multi-source-bfs-taxis) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/rotten-oranges-multi-source-bfs-taxis) | 🆕 Sep 8, 2026 |
+| **[OpenAI](../companies/openai.md)** | [Debug a Transformer Implementation and Implement a KV Cache for Decoding](https://trueinterview.io/questions/debug-a-transformer-implementation-and-implement-a-kv-cache-for-decoding) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/debug-a-transformer-implementation-and-implement-a-kv-cache-for-decoding) | Sep 8, 2026 |
+| **[Google](../companies/google.md)** | [Rotten Oranges / Multi-Source BFS (taxis)](https://trueinterview.io/questions/rotten-oranges-multi-source-bfs-taxis) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/rotten-oranges-multi-source-bfs-taxis) | Sep 8, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Find Repeated-Value Patterns in a Matrix](https://trueinterview.io/questions/find-repeated-value-patterns-in-a-matrix) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/find-repeated-value-patterns-in-a-matrix) | Sep 7, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Transaction Logs — Trigger / Resolve](https://trueinterview.io/questions/transaction-logs-trigger-resolve) | OA · Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/transaction-logs-trigger-resolve) | Sep 7, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Calculate a Basket Total from Delimited Product Records](https://trueinterview.io/questions/calculate-a-basket-total-from-delimited-product-records) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-a-basket-total-from-delimited-product-records) | Sep 6, 2026 |
