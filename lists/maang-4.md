@@ -6,7 +6,7 @@
 
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,683 questions** · 1,255 at Senior/Staff+ · 450 reported in the last 90 days · 504 free to solve
+**1,683 questions** · 1,255 at Senior/Staff+ · 449 reported in the last 90 days · 504 free to solve
 
 **Rounds:** 📝 OA (165) · 📞 Phone (865) · 🏢 Onsite (774) · 🏠 Take-home (1)
 

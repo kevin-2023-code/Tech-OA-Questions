@@ -6,7 +6,7 @@
 
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,683 questions** · 1,255 at Senior/Staff+ · 450 reported in the last 90 days · 504 free to solve
+**1,683 questions** · 1,255 at Senior/Staff+ · 449 reported in the last 90 days · 504 free to solve
 
 **Rounds:** 📝 OA (165) · 📞 Phone (865) · 🏢 Onsite (774) · 🏠 Take-home (1)
 
@@ -110,9 +110,9 @@
 | **[Google](../companies/google.md)** | [Robot Status Message Deduplication](https://trueinterview.io/questions/40a70e3f-cb56-5345-8d5e-718942ad0382) | Onsite | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/40a70e3f-cb56-5345-8d5e-718942ad0382) | 🆕 Sep 10, 2026 |
 | **[Google](../companies/google.md)** | [Temperature Monitoring Data Structure](https://trueinterview.io/questions/temperature-monitor-moving-window) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/temperature-monitor-moving-window) | 🆕 Sep 10, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Use AI to Reduce Repetitive Pipeline Development Work](https://trueinterview.io/questions/use-ai-to-reduce-repetitive-pipeline-development-work) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/use-ai-to-reduce-repetitive-pipeline-development-work) | 🆕 Sep 10, 2026 |
-| **[Apple](../companies/apple.md)** | [Accessories QA Benchmark and Regression Deep Dive](https://trueinterview.io/questions/accessories-qa-benchmark-and-regression-deep-dive) | Phone · Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/accessories-qa-benchmark-and-regression-deep-dive) | 🆕 Sep 9, 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Delete and Earn (LC 740)](https://trueinterview.io/questions/delete-and-earn) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/delete-and-earn) | 🆕 Sep 9, 2026 |
-| **[Google](../companies/google.md)** | [Minimum-Cost Tree Disconnection](https://trueinterview.io/questions/binary-tree-root-leaf-minimum-cut) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-root-leaf-minimum-cut) | 🆕 Sep 9, 2026 |
+| **[Apple](../companies/apple.md)** | [Accessories QA Benchmark and Regression Deep Dive](https://trueinterview.io/questions/accessories-qa-benchmark-and-regression-deep-dive) | Phone · Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/accessories-qa-benchmark-and-regression-deep-dive) | Sep 9, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Delete and Earn (LC 740)](https://trueinterview.io/questions/delete-and-earn) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/delete-and-earn) | Sep 9, 2026 |
+| **[Google](../companies/google.md)** | [Minimum-Cost Tree Disconnection](https://trueinterview.io/questions/binary-tree-root-leaf-minimum-cut) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-root-leaf-minimum-cut) | Sep 9, 2026 |
 | **[Google](../companies/google.md)** | [Rotten Oranges / Multi-Source BFS (taxis)](https://trueinterview.io/questions/rotten-oranges-multi-source-bfs-taxis) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/rotten-oranges-multi-source-bfs-taxis) | Sep 8, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Accept Notification Bursts With Low Latency](https://trueinterview.io/questions/accept-notification-bursts-with-low-latency) | Phone | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/accept-notification-bursts-with-low-latency) | Sep 7, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Apply New Learning and Satisfy a Customer](https://trueinterview.io/questions/apply-new-learning-and-satisfy-a-customer) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/apply-new-learning-and-satisfy-a-customer) | Sep 7, 2026 |

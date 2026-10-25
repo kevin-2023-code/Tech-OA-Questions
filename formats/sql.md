@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**297 questions** · 257 at Senior/Staff+ · 16 reported in the last 90 days · 6 free to solve
+**297 questions** · 257 at Senior/Staff+ · 14 reported in the last 90 days · 6 free to solve
 
 **Rounds:** 📝 OA (58) · 📞 Phone (174) · 🏢 Onsite (69)
 
@@ -17,7 +17,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Oracle](../companies/oracle.md)** | [Classify Tree Nodes in SQL](https://trueinterview.io/questions/classify-tree-nodes-in-sql) | Phone | Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/classify-tree-nodes-in-sql) | 🆕 Sep 9, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Classify Tree Nodes in SQL](https://trueinterview.io/questions/classify-tree-nodes-in-sql) | Phone | Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/classify-tree-nodes-in-sql) | Sep 9, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Calculate the Median House Price in Each City](https://trueinterview.io/questions/calculate-the-median-house-price-in-each-city) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/calculate-the-median-house-price-in-each-city) | Sep 4, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Estimate Page-Visit Duration from the Next User Event](https://trueinterview.io/questions/estimate-page-visit-duration-from-the-next-user-event) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/estimate-page-visit-duration-from-the-next-user-event) | Sep 4, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Find Hosts Meeting Listing, Rating, and Review-Coverage Rules](https://trueinterview.io/questions/find-hosts-meeting-listing-rating-and-review-coverage-rules) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/find-hosts-meeting-listing-rating-and-review-coverage-rules) | Sep 4, 2026 |

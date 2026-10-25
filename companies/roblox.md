@@ -18,7 +18,7 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Count Cyclic Rotation Pairs](https://trueinterview.io/questions/672dd86c-1610-5d71-be33-4c29e4d1387e)<br><sub>also [ByteDance](../companies/bytedance.md) / [Databricks](../companies/databricks.md)</sub> | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/672dd86c-1610-5d71-be33-4c29e4d1387e) | 🆕 Sep 10, 2026 |
-| [File Chunk Range Tracking](https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges) | 🆕 Sep 9, 2026 |
+| [File Chunk Range Tracking](https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges) | Sep 9, 2026 |
 | [Candy Crush Grid Matching and Gravity](https://trueinterview.io/questions/candy-crush-grid-matching-and-gravity) | Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/candy-crush-grid-matching-and-gravity) | Sep 2026 |
 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +6</sub> | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | [Handle Release Risks and Cross-Team Blockers](https://trueinterview.io/questions/handle-release-risks-and-cross-team-blockers) | OA | New grad | blog | [![Free][f]](https://trueinterview.io/questions/handle-release-risks-and-cross-team-blockers) | Sep 2026 |
