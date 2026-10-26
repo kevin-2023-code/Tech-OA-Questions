@@ -28,7 +28,7 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 
 **By round:** [📝 OA (769)](rounds/oa.md) · [📞 Phone (2,972)](rounds/phone-screen.md) · [🏢 Onsite (2,246)](rounds/onsite.md) · [🏠 Take-home (12)](rounds/take-home.md)
 
-**By format:** [Coding (2,500)](formats/algorithm.md) · [System design (703)](formats/system-design.md) · [OOD / LLD (608)](formats/object-oriented-programming.md) · [SQL (297)](formats/sql.md) · [AI coding (126)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (1,830)](lists/free.md)
+**By format:** [Coding (2,492)](formats/algorithm.md) · [System design (703)](formats/system-design.md) · [OOD / LLD (608)](formats/object-oriented-programming.md) · [SQL (297)](formats/sql.md) · [AI coding (134)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (1,830)](lists/free.md)
 
 ## 📊 What changes as you go up a level
 
@@ -37,7 +37,7 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 | | Questions | Coding | System design | OOD / LLD | SQL | AI coding |
 | :-- | --: | --: | --: | --: | --: | --: |
 | 🚀 Staff+ | 1,155 | 4% | 31% | 2% | 3% | 2% |
-| 🎯 Senior | 2,952 | 48% | 10% | 14% | 8% | 2% |
+| 🎯 Senior | 2,952 | 48% | 10% | 14% | 8% | 3% |
 | Mid | 1,176 | 66% | 4% | 13% | 3% | 2% |
 | New grad & intern | 334 | 77% | 0% | 7% | 2% | 2% |
 
@@ -45,7 +45,7 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 
 | | Questions | From an OA | Coding | System design | OOD / LLD |
 | :-- | --: | --: | --: | --: | --: |
-| 🧠 AI labs | 457 | 8% | 33% | 19% | 19% |
+| 🧠 AI labs | 457 | 8% | 32% | 19% | 19% |
 | 📈 Quant firms | 377 | 31% | 54% | 4% | 12% |
 | 🏛️ MAANG+ | 1,683 | 10% | 45% | 12% | 9% |
 

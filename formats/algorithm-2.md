@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,500 questions** · 1,462 at Senior/Staff+ · 598 reported in the last 90 days · 303 free to solve
+**2,492 questions** · 1,454 at Senior/Staff+ · 596 reported in the last 90 days · 303 free to solve
 
-**Rounds:** 📝 OA (563) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (563) · 📞 Phone (1,497) · 🏢 Onsite (622) · 🏠 Take-home (2)
 
-**Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (60)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
+**Companies:** [Amazon (217)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (59)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Stripe (56)](../companies/stripe.md) · [Pinterest (55)](../companies/pinterest.md)
 
 <sub>Page [1](algorithm.md) · **2** · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>
 
@@ -19,8 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Oracle](../companies/oracle.md)** | [Add One to a Number Represented by Digits Without ArrayList](https://trueinterview.io/questions/928c453b-ec05-5a5d-ab6c-58c7147da117) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/928c453b-ec05-5a5d-ab6c-58c7147da117) | Aug 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Add Signed Arrays](https://trueinterview.io/questions/add-signed-arrays) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/add-signed-arrays) | Aug 2026 |
 | **[Databricks](../companies/databricks.md)** | [Anagrammed indexOf](https://trueinterview.io/questions/anagrammed-indexof) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/anagrammed-indexof) | Aug 2026 |
 | **[Meta](../companies/meta.md)** | [Analyze Minimum Completion Time for Target Courses in a Prerequisite DAG](https://trueinterview.io/questions/analyze-minimum-completion-time-for-target-courses-in-a-prerequisite-dag) | Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/analyze-minimum-completion-time-for-target-courses-in-a-prerequisite-dag) | Aug 2026 |
 | **[Google](../companies/google.md)** | [Assign Locker](https://trueinterview.io/questions/476e1653-b479-4045-a60a-5c28cca56e35) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/476e1653-b479-4045-a60a-5c28cca56e35) | Aug 2026 |
@@ -224,7 +222,6 @@
 | **[Google](../companies/google.md)** | [Batch and Streaming Log Deduplication](https://trueinterview.io/questions/batch-streaming-log-deduplication) | Onsite | Mid · **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/batch-streaming-log-deduplication) | Jul 23, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Fulfillment-Center Inventory Transfer](https://trueinterview.io/questions/fulfillment-center-inventory-transfer) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/fulfillment-center-inventory-transfer) | Jul 22, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Word Segmentation with a Dictionary Helper](https://trueinterview.io/questions/word-segmentation-dictionary-helper) | Onsite | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/word-segmentation-dictionary-helper) | Jul 22, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Handwrite Sigmoid, Softmax, and Attention](https://trueinterview.io/questions/handwrite-sigmoid-softmax-attention) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/handwrite-sigmoid-softmax-attention) | Jul 20, 2026 |
 | **[Google](../companies/google.md)** | [Minimum Direction Violations in a Directed Graph](https://trueinterview.io/questions/minimum-direction-violations-directed-graph) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-direction-violations-directed-graph) | Jul 19, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Outside-In String Reordering](https://trueinterview.io/questions/outside-in-string-reordering) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/outside-in-string-reordering) | Jul 19, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [W-D-L Outcome Reordering](https://trueinterview.io/questions/wdl-cyclic-reordering) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/wdl-cyclic-reordering) | Jul 19, 2026 |
@@ -419,5 +416,8 @@
 | **[ByteDance](../companies/bytedance.md)** | [Longest Zigzag Path in a Grid](https://trueinterview.io/questions/longest-zigzag-path-grid) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-zigzag-path-grid) | Jun 17, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Number Transformation Path](https://trueinterview.io/questions/number-transformation-path) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/number-transformation-path) | Jun 17, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Reverse Alphanumeric Segments](https://trueinterview.io/questions/reverse-alphanumeric-segments) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/reverse-alphanumeric-segments) | Jun 17, 2026 |
+| **[Uber](../companies/uber.md)** | [Rate Limiter (Coding + Trade-offs)](https://trueinterview.io/questions/phone-screen-rate-limiter) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/phone-screen-rate-limiter) | Jun 16, 2026 |
+| **[Pinterest](../companies/pinterest.md)** | [Stack Items into the Shortest Column (Min-Heap Load Balancing)](https://trueinterview.io/questions/shortest-column-stacking-heap) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-column-stacking-heap) | Jun 16, 2026 |
+| **[Optiver](../companies/optiver.md)** | [Build Binary Tree from Edges / S-Expression](https://trueinterview.io/questions/binary-tree-from-edges) | OA · Take-home | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-from-edges) | Jun 15, 2026 |
 
 <sub>Page [1](algorithm.md) · **2** · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>

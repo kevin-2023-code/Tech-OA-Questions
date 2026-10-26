@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,500 questions** · 1,462 at Senior/Staff+ · 598 reported in the last 90 days · 303 free to solve
+**2,492 questions** · 1,454 at Senior/Staff+ · 596 reported in the last 90 days · 303 free to solve
 
-**Rounds:** 📝 OA (563) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (563) · 📞 Phone (1,497) · 🏢 Onsite (622) · 🏠 Take-home (2)
 
-**Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (60)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
+**Companies:** [Amazon (217)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (59)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Stripe (56)](../companies/stripe.md) · [Pinterest (55)](../companies/pinterest.md)
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · **7**</sub>
 
@@ -19,13 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Block](../companies/block.md)** | [Minesweeper Board Generation](https://trueinterview.io/questions/a0eccf02-13b4-4c9b-a2ac-69c127f7cc18) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a0eccf02-13b4-4c9b-a2ac-69c127f7cc18) | — |
-| **[Microsoft](../companies/microsoft.md)** / [Meta](../companies/meta.md) | [Minimal Board Length for Holes](https://trueinterview.io/questions/0df3b897-7563-413a-9bea-06eeeb50a399) | OA · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/0df3b897-7563-413a-9bea-06eeeb50a399) | — |
-| **[Salesforce](../companies/salesforce.md)** | [Minimize Length of Longest Substring](https://trueinterview.io/questions/58c4ff99-6edc-4bf8-a18a-33ee1f085852) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/58c4ff99-6edc-4bf8-a18a-33ee1f085852) | — |
-| **[Palantir](../companies/palantir.md)** / [Salesforce](../companies/salesforce.md) | [Minimize Path Value](https://trueinterview.io/questions/dd4f6e70-6178-4ec4-b51f-5c77cea28a3d) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/dd4f6e70-6178-4ec4-b51f-5c77cea28a3d) | — |
-| **[Visa](../companies/visa.md)** | [Minimize Value by Parentheses in Concatenated Expression](https://trueinterview.io/questions/2c206b9d-3d55-4b5e-a350-1617c3666b7b) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/2c206b9d-3d55-4b5e-a350-1617c3666b7b) | — |
-| **[Expedia](../companies/expedia.md)** | [Minimum Additional Capabilities to Equalize Team Work Hours](https://trueinterview.io/questions/5c1401d7-3928-496a-b8ac-cd5bba5b5587) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/5c1401d7-3928-496a-b8ac-cd5bba5b5587) | — |
-| **[Citadel](../companies/citadel.md)** | [Minimum Changes for a Palindromic Periodic Password](https://trueinterview.io/questions/5f178ac0-8422-5332-b151-6b030e7edb50) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/5f178ac0-8422-5332-b151-6b030e7edb50) | — |
 | **[Scale AI](../companies/scale-ai.md)** / [Google](../companies/google.md) | [Minimum Distance in N-ary Tree](https://trueinterview.io/questions/minimum-distance-in-n-ary-tree-2) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-distance-in-n-ary-tree-2) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Minimum Meeting Rooms Required with Capacity Constraints](https://trueinterview.io/questions/f0d3360e-1035-46b3-8e10-09e89e4ab244) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f0d3360e-1035-46b3-8e10-09e89e4ab244) | — |
 | **[Cisco](../companies/cisco.md)** | [Minimum Steps to Achieve Target State](https://trueinterview.io/questions/06061640-c929-4879-9ba9-f3b90aac35e1) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/06061640-c929-4879-9ba9-f3b90aac35e1) | — |
@@ -110,7 +103,6 @@
 | **[Snowflake](../companies/snowflake.md)** | [Tree Levels After Node Deletions](https://trueinterview.io/questions/tree-levels-after-node-deletions) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tree-levels-after-node-deletions) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Unaligned Dedupe](https://trueinterview.io/questions/443f5aa5-eba5-4100-b02b-b853e84bcf40) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/443f5aa5-eba5-4100-b02b-b853e84bcf40) | — |
 | **[Okta](../companies/okta.md)** | [Unique Paths](https://trueinterview.io/questions/6d951c54-52b0-4703-b541-a928b1d855ed) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/6d951c54-52b0-4703-b541-a928b1d855ed) | — |
-| **[CVS Health](../companies/cvs-health.md)** | [Use pandas to aggregate, pivot, and label](https://trueinterview.io/questions/use-pandas-to-aggregate-pivot-and-label) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/use-pandas-to-aggregate-pivot-and-label) | — |
 | **[Meta](../companies/meta.md)** | [Validate complete binary tree](https://trueinterview.io/questions/validate-complete-binary-tree) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-complete-binary-tree) | — |
 | **[Google](../companies/google.md)** | [Validate Tree Given Parent Array](https://trueinterview.io/questions/783f51be-4588-4e1e-ad45-e296bf8082d7) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/783f51be-4588-4e1e-ad45-e296bf8082d7) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Vowel Substring](https://trueinterview.io/questions/1d80c735-5231-4343-a34b-0dade4106bdb) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/1d80c735-5231-4343-a34b-0dade4106bdb) | — |

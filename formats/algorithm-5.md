@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,500 questions** · 1,462 at Senior/Staff+ · 598 reported in the last 90 days · 303 free to solve
+**2,492 questions** · 1,454 at Senior/Staff+ · 596 reported in the last 90 days · 303 free to solve
 
-**Rounds:** 📝 OA (563) · 📞 Phone (1,504) · 🏢 Onsite (625) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (563) · 📞 Phone (1,497) · 🏢 Onsite (622) · 🏠 Take-home (2)
 
-**Companies:** [Amazon (219)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (60)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Pinterest (56)](../companies/pinterest.md) · [Stripe (56)](../companies/stripe.md)
+**Companies:** [Amazon (217)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [ByteDance (181)](../companies/bytedance.md) · [Meta (175)](../companies/meta.md) · [Uber (161)](../companies/uber.md) · [Microsoft (135)](../companies/microsoft.md) · [Apple (100)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (62)](../companies/oracle.md) · [Bloomberg (61)](../companies/bloomberg.md) · [OpenAI (59)](../companies/openai.md) · [LinkedIn (57)](../companies/linkedin.md) · [Stripe (56)](../companies/stripe.md) · [Pinterest (55)](../companies/pinterest.md)
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · **5** · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>
 
@@ -19,11 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Bloomberg](../companies/bloomberg.md)** / [ByteDance](../companies/bytedance.md) | [Gas Tank Grid Reachability](https://trueinterview.io/questions/gas-tank-grid-bfs) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/gas-tank-grid-bfs) | Feb 2026 |
-| **[Oracle](../companies/oracle.md)** / [Apple](../companies/apple.md) | [Generate all permutations of a list](https://trueinterview.io/questions/55b47ffb-5c4d-4c32-b3fc-350263687e62) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/55b47ffb-5c4d-4c32-b3fc-350263687e62) | Feb 2026 |
-| **[Snowflake](../companies/snowflake.md)** | [Implement DFS with cycle detection and topo order](https://trueinterview.io/questions/implement-dfs-with-cycle-detection-and-topo-order) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-dfs-with-cycle-detection-and-topo-order) | Feb 2026 |
-| **[LinkedIn](../companies/linkedin.md)** | [Implement fast sampling for weighted k-sided die](https://trueinterview.io/questions/implement-fast-sampling-for-weighted-k-sided-die) | Phone | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-fast-sampling-for-weighted-k-sided-die) | Feb 2026 |
-| **[ByteDance](../companies/bytedance.md)** / [Atlassian](../companies/atlassian.md) | [Implement Moving Average from Data Stream](https://trueinterview.io/questions/94192aa7-a909-49a7-80b7-24c84876985d) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/94192aa7-a909-49a7-80b7-24c84876985d) | Feb 2026 |
 | **[SoFi](../companies/sofi.md)** | [Interactive Story Endings Reachability (Choices/Options)](https://trueinterview.io/questions/5a23f516-7bed-46d3-8874-942cca7863b5) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/5a23f516-7bed-46d3-8874-942cca7863b5) | Feb 2026 |
 | **[Datadog](../companies/datadog.md)** | [Latency Bucket Counter](https://trueinterview.io/questions/1cc17a7f-061a-481b-9748-074d43ffda9e) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1cc17a7f-061a-481b-9748-074d43ffda9e) | Feb 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Linear Regression from Scratch](https://trueinterview.io/questions/ml-coding-linear-regression) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ml-coding-linear-regression) | Feb 2026 |
@@ -419,5 +414,10 @@
 | **[Pinterest](../companies/pinterest.md)** | [Implement custom round function](https://trueinterview.io/questions/b1edadf2-a0a2-430e-9c61-abc05944b832) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b1edadf2-a0a2-430e-9c61-abc05944b832) | Nov 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Kth Smallest Element in a Binary Search Tree (write full main, with follow-ups)](https://trueinterview.io/questions/65a8813c-9014-4ae9-af67-cfef594d9d98) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/65a8813c-9014-4ae9-af67-cfef594d9d98) | Nov 2025 |
 | **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
+| **[Uber](../companies/uber.md)** / [ByteDance](../companies/bytedance.md) / [Databricks](../companies/databricks.md) | [Max Area of Island](https://trueinterview.io/questions/10444131-24d7-4989-88fc-82a67c8fd20f) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/10444131-24d7-4989-88fc-82a67c8fd20f) | Nov 2025 |
+| **[Uber](../companies/uber.md)** | [Max Levels from Each Index](https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc) | Nov 2025 |
+| **[Google](../companies/google.md)** | [Merge Intervals with Names](https://trueinterview.io/questions/f65573da-74b9-4f0e-b1b7-b107519953e2) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f65573da-74b9-4f0e-b1b7-b107519953e2) | Nov 2025 |
+| **[Akuna Capital](../companies/akuna-capital.md)** | [Min Mod and Max](https://trueinterview.io/questions/300141c0-9e82-4bc4-8055-d73e3ca2fae2) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/300141c0-9e82-4bc4-8055-d73e3ca2fae2) | Nov 2025 |
+| **[WeRide](../companies/weride.md)** | [Minimize Cost to Make Blocks Unique](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Nov 2025 |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · **5** · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>
