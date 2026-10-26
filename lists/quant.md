@@ -6,7 +6,7 @@
 
 > **Where:** Employers the shared company registry files under *Quant trading & hedge funds* — Jane Street, Citadel, Hudson River Trading, Two Sigma, Optiver and the rest.
 
-**377 questions** · 189 at Senior/Staff+ · 98 reported in the last 90 days · 149 free to solve
+**377 questions** · 189 at Senior/Staff+ · 97 reported in the last 90 days · 149 free to solve
 
 **Rounds:** 📝 OA (116) · 📞 Phone (203) · 🏢 Onsite (68) · 🏠 Take-home (2)
 

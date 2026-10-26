@@ -8,7 +8,7 @@
 
 Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anthropic, xAI**, **Citadel, Two Sigma, Squarepoint**, **Meta, Amazon, Google** and 128 more — **every row tagged with the level and the round it was asked in.** Synced hourly.
 
-**5,636 questions** · **4,107 at Senior/Staff+** · **466 ML & research** · **286 quant** · 769 OA · 1,215 reported in the last 90 days · 1,830 free
+**5,636 questions** · **4,107 at Senior/Staff+** · **466 ML & research** · **286 quant** · 769 OA · 1,213 reported in the last 90 days · 1,830 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
@@ -194,7 +194,7 @@ Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anth
 | **[Amazon](companies/amazon.md)** | [Evaluate a Two Percent CTR Lift in Music Recommendations](https://trueinterview.io/questions/evaluate-a-two-percent-ctr-lift-in-music-recommendations) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-a-two-percent-ctr-lift-in-music-recommendations) | 🆕 Sep 11, 2026 |
 | **[Amazon](companies/amazon.md)** | [Predict Click Probability for Music Recommendations](https://trueinterview.io/questions/predict-click-probability-for-music-recommendations) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/predict-click-probability-for-music-recommendations) | 🆕 Sep 11, 2026 |
 | **[Amazon](companies/amazon.md)** | [Recent Ad-Click Counter](https://trueinterview.io/questions/ea41a698-48dd-51f0-92ce-3f9a925b628a) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ea41a698-48dd-51f0-92ce-3f9a925b628a) | 🆕 Sep 11, 2026 |
-| **[Microsoft](companies/microsoft.md)** | [Adapt When Project Requirements Change Midway](https://trueinterview.io/questions/adapt-when-project-requirements-change-midway) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/adapt-when-project-requirements-change-midway) | 🆕 Sep 10, 2026 |
+| **[Microsoft](companies/microsoft.md)** | [Adapt When Project Requirements Change Midway](https://trueinterview.io/questions/adapt-when-project-requirements-change-midway) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/adapt-when-project-requirements-change-midway) | Sep 10, 2026 |
 
 [**All 5,636 questions, every company, newest first →**](question-bank/README.md)
 
