@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,492 questions** · 1,454 at Senior/Staff+ · 596 reported in the last 90 days · 303 free to solve
+**2,492 questions** · 1,454 at Senior/Staff+ · 595 reported in the last 90 days · 303 free to solve
 
 **Rounds:** 📝 OA (563) · 📞 Phone (1,497) · 🏢 Onsite (622) · 🏠 Take-home (2)
 
@@ -101,9 +101,9 @@
 | **[IBM](../companies/ibm.md)** | [VM Rental Revenue from Changing Stock](https://trueinterview.io/questions/vm-rental-revenue) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/vm-rental-revenue) | 🆕 Sep 14, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Bill Deliveries with Historical Rates and Deferred Rounding](https://trueinterview.io/questions/bill-deliveries-with-historical-rates-and-deferred-rounding) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bill-deliveries-with-historical-rates-and-deferred-rounding) | 🆕 Sep 13, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | 🆕 Sep 12, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Count Islands and Return the Largest Island Size](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | 🆕 Sep 11, 2026 |
-| **[Stripe](../companies/stripe.md)** | [Financial Account Ledger](https://trueinterview.io/questions/financial-account-ledger-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/financial-account-ledger-oa) | 🆕 Sep 11, 2026 |
-| **[Stripe](../companies/stripe.md)** | [Hierarchical CSV Task / Subtask Formatter](https://trueinterview.io/questions/hierarchical-csv-task-formatter) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/hierarchical-csv-task-formatter) | 🆕 Sep 11, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Count Islands and Return the Largest Island Size](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | Sep 11, 2026 |
+| **[Stripe](../companies/stripe.md)** | [Financial Account Ledger](https://trueinterview.io/questions/financial-account-ledger-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/financial-account-ledger-oa) | Sep 11, 2026 |
+| **[Stripe](../companies/stripe.md)** | [Hierarchical CSV Task / Subtask Formatter](https://trueinterview.io/questions/hierarchical-csv-task-formatter) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/hierarchical-csv-task-formatter) | Sep 11, 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Build an Order-Exception Microservice with Explicit Refund Policies](https://trueinterview.io/questions/build-an-order-exception-microservice-with-explicit-refund-policies) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/build-an-order-exception-microservice-with-explicit-refund-policies) | Sep 10, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Convert Identifier Naming in Docstrings](https://trueinterview.io/questions/37898248-3c48-565c-8143-a54070171bf8) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/37898248-3c48-565c-8143-a54070171bf8) | Sep 10, 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Databricks](../companies/databricks.md) / [Roblox](../companies/roblox.md) | [Count Cyclic Rotation Pairs](https://trueinterview.io/questions/672dd86c-1610-5d71-be33-4c29e4d1387e) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/672dd86c-1610-5d71-be33-4c29e4d1387e) | Sep 10, 2026 |
