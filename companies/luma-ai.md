@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Luma AI on TrueInterview](https://trueinterview.io/problems/company/luma-ai) · [How Luma AI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/luma-ai/README.md)
 
-🧠 AI labs · **6 questions** · ML & Research Scientist 2 · Quant researcher & developer 1 · last reported Aug 2026
+🧠 AI labs · **6 questions** · Senior & Staff+ 1 · ML & Research Scientist 2 · Quant researcher & developer 1 · last reported Aug 2026
 
 **Rounds:** 📝 OA (3) · 📞 Phone (2) · 🏢 Onsite (1)
 
@@ -17,9 +17,9 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Closest Pair of Points](https://trueinterview.io/questions/closest-pair-of-points)<br><sub>also [Citadel](../companies/citadel.md)</sub> | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/closest-pair-of-points) | Aug 2026 |
-| [Copy an Image Matrix](https://trueinterview.io/questions/6f016452-d9b6-5e16-b260-34ec46994410) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/6f016452-d9b6-5e16-b260-34ec46994410) | Jun 2026 |
-| [Gaussian Image Filter](https://trueinterview.io/questions/8725ba22-7231-5ba5-9991-fbf266e5c571) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8725ba22-7231-5ba5-9991-fbf266e5c571) | Jun 2026 |
-| [Implement Softmax](https://trueinterview.io/questions/18c240e2-f238-5284-82b7-f4153b3b8844)<br><sub>also [Amazon](../companies/amazon.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/18c240e2-f238-5284-82b7-f4153b3b8844) | Jun 2026 |
-| [Transpose an Image Matrix](https://trueinterview.io/questions/f85a7968-6ba9-5be9-a5ab-4f13d57b3fd4) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f85a7968-6ba9-5be9-a5ab-4f13d57b3fd4) | Jun 2026 |
-| [Versioned Nested Key-Value Store](https://trueinterview.io/questions/b1eaf482-a075-5cd9-bce8-5a2af50f6c80) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b1eaf482-a075-5cd9-bce8-5a2af50f6c80) | Jun 2026 |
+| [Closest Pair of Points](https://trueinterview.io/questions/closest-pair-of-points)<br><sub>also [Citadel](../companies/citadel.md)</sub> | Phone | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/closest-pair-of-points) | Aug 2026 |
+| [Copy an Image Matrix](https://trueinterview.io/questions/6f016452-d9b6-5e16-b260-34ec46994410) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/6f016452-d9b6-5e16-b260-34ec46994410) | Jun 2026 |
+| [Gaussian Image Filter](https://trueinterview.io/questions/8725ba22-7231-5ba5-9991-fbf266e5c571) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/8725ba22-7231-5ba5-9991-fbf266e5c571) | Jun 2026 |
+| [Implement Softmax](https://trueinterview.io/questions/18c240e2-f238-5284-82b7-f4153b3b8844)<br><sub>also [Amazon](../companies/amazon.md)</sub> | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/18c240e2-f238-5284-82b7-f4153b3b8844) | Jun 2026 |
+| [Transpose an Image Matrix](https://trueinterview.io/questions/f85a7968-6ba9-5be9-a5ab-4f13d57b3fd4) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/f85a7968-6ba9-5be9-a5ab-4f13d57b3fd4) | Jun 2026 |
+| [Versioned Nested Key-Value Store](https://trueinterview.io/questions/b1eaf482-a075-5cd9-bce8-5a2af50f6c80) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b1eaf482-a075-5cd9-bce8-5a2af50f6c80) | Jun 2026 |

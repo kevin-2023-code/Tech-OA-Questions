@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Upstart on TrueInterview](https://trueinterview.io/problems/company/upstart) · [How Upstart interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/upstart/README.md)
 
-**49 questions** · Senior & Staff+ 31 · last reported Sep 2026
+**49 questions** · Senior & Staff+ 30 · last reported Sep 2026
 
 **Rounds:** 📝 OA (16) · 📞 Phone (28) · 🏢 Onsite (5)
 
@@ -21,11 +21,11 @@
 | [Compute File Size on Disk](https://trueinterview.io/questions/a211b99f-1398-5507-9083-717ef2216133) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a211b99f-1398-5507-9083-717ef2216133) | Aug 2026 |
 | [Decrypt a Double-Substitution Cipher](https://trueinterview.io/questions/f7f2a358-a5bb-55e0-a442-4ba0ed8f1869) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f7f2a358-a5bb-55e0-a442-4ba0ed8f1869) | Aug 2026 |
 | [Possible ABO Parent Genotypes](https://trueinterview.io/questions/7d7d9d81-b0b6-5ffc-92e9-d0384993433f) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7d7d9d81-b0b6-5ffc-92e9-d0384993433f) | Aug 2026 |
+| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39)<br><sub>also [Meta](../companies/meta.md) / [Microsoft](../companies/microsoft.md) / [NVIDIA](../companies/nvidia.md)</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Aug 2026 |
 | [Bounding Rectangle of Points](https://trueinterview.io/questions/9d823331-a85f-512a-b445-25f5ef04e96d) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/9d823331-a85f-512a-b445-25f5ef04e96d) | Jul 2026 |
 | [Check Value Occurrence by Position and Half](https://trueinterview.io/questions/b66c3fdf-2dee-553d-ad9d-baa7bee7db8a) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b66c3fdf-2dee-553d-ad9d-baa7bee7db8a) | Jul 2026 |
 | [Increase Exclamation Marks and Replace Periods](https://trueinterview.io/questions/f2aa7ead-a63b-5709-8feb-03c891c03e4d) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f2aa7ead-a63b-5709-8feb-03c891c03e4d) | Jul 2026 |
 | [Interleave Three Equal-Length Strings](https://trueinterview.io/questions/0b074bbd-5c4d-5d9c-a970-b8bd946084a7) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/0b074bbd-5c4d-5d9c-a970-b8bd946084a7) | Jul 2026 |
-| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39)<br><sub>also [Meta](../companies/meta.md) / [Microsoft](../companies/microsoft.md) / [NVIDIA](../companies/nvidia.md)</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Jul 2026 |
 | [Scale Ingredient Quantities](https://trueinterview.io/questions/9afaf0f8-87bc-5dfe-b93c-224f4075b902) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/9afaf0f8-87bc-5dfe-b93c-224f4075b902) | Jul 2026 |
 | [Maximum Cities Visited Traveling West to East with Lexicographic City Names](https://trueinterview.io/questions/fd4b3743-ae4a-56c3-8ddc-875d67c82fb9) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/fd4b3743-ae4a-56c3-8ddc-875d67c82fb9) | Jun 2026 |
 | [Parse a Comma-Separated String with Quoted Fields](https://trueinterview.io/questions/1f5e8959-fd67-587b-bdd9-b271a10016ac) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1f5e8959-fd67-587b-bdd9-b271a10016ac) | Jun 2026 |
@@ -39,7 +39,7 @@
 | [Solve Reported Coding Problems](https://trueinterview.io/questions/solve-reported-oa-coding-problems) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-reported-oa-coding-problems) | Apr 5, 2026 |
 | [Compute buffet revenue with capacity and waiting](https://trueinterview.io/questions/compute-buffet-revenue-with-capacity-and-waiting) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-buffet-revenue-with-capacity-and-waiting) | Mar 9, 2026 |
 | [Decode an anagram sentence using vocabulary constraints](https://trueinterview.io/questions/decode-an-anagram-sentence-using-vocabulary-constraints) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/decode-an-anagram-sentence-using-vocabulary-constraints) | Mar 9, 2026 |
-| [Reverse even numbers in a list](https://trueinterview.io/questions/reverse-even-numbers-in-a-list) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/reverse-even-numbers-in-a-list) | Mar 9, 2026 |
+| [Reverse even numbers in a list](https://trueinterview.io/questions/reverse-even-numbers-in-a-list) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/reverse-even-numbers-in-a-list) | Mar 9, 2026 |
 | [Solve Remembered Coding Tasks](https://trueinterview.io/questions/solve-remembered-oa-coding-tasks) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-remembered-oa-coding-tasks) | Jan 20, 2026 |
 | [Demonstrate Project Ownership](https://trueinterview.io/questions/demonstrate-project-ownership) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-project-ownership) | Jan 15, 2026 |
 | [Describe Your Python Experience](https://trueinterview.io/questions/describe-your-python-experience) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-your-python-experience) | Jan 15, 2026 |

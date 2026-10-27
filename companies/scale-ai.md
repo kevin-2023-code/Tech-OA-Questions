@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Scale AI on TrueInterview](https://trueinterview.io/problems/company/scale-ai) · [How Scale AI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/scale-ai/README.md)
 
-🧠 AI labs · **34 questions** · Senior & Staff+ 28 · ML & Research Scientist 11 · last reported Oct 2026
+🧠 AI labs · **35 questions** · Senior & Staff+ 28 · ML & Research Scientist 10 · last reported Oct 2026
 
-**Rounds:** 📝 OA (1) · 📞 Phone (21) · 🏢 Onsite (17)
+**Rounds:** 📝 OA (2) · 📞 Phone (20) · 🏢 Onsite (18)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/scale-ai-interview-process)
 
@@ -17,12 +17,12 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Lowest Common Manager in an Org Chart (Binary-Tree LCA Family)](https://trueinterview.io/questions/lowest-common-manager-org-chart)<br><sub>also [Amazon](../companies/amazon.md)</sub> | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-manager-org-chart) | 🆕 Oct 1, 2026 |
-| [Design and Simulate a Four-Player Card Game](https://trueinterview.io/questions/design-and-simulate-a-four-player-card-game) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-simulate-a-four-player-card-game) | Aug 26, 2026 |
+| [Lowest Common Manager in an Org Chart (Binary-Tree LCA Family)](https://trueinterview.io/questions/lowest-common-manager-org-chart)<br><sub>also [Amazon](../companies/amazon.md)</sub> | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-manager-org-chart) | 🆕 Oct 1, 2026 |
+| [Credo Behavioral and Customer Engagement](https://trueinterview.io/questions/credo-behavioral-and-customer-engagement) | Phone · Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/credo-behavioral-and-customer-engagement) | 🆕 Oct 2026 |
+| [Smaller Angle Between Clock Hands](https://trueinterview.io/questions/61dbdcbb-6345-50de-a0cf-3d6b0fa8c46c)<br><sub>also [Amazon](../companies/amazon.md)</sub> | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/61dbdcbb-6345-50de-a0cf-3d6b0fa8c46c) | 🆕 Oct 2026 |
+| [Design and Simulate a Four-Player Card Game](https://trueinterview.io/questions/design-and-simulate-a-four-player-card-game) | Phone | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-simulate-a-four-player-card-game) | Aug 26, 2026 |
 | [Transformer Attention Mask and Heads Coding](https://trueinterview.io/questions/transformer-attention-mask-and-heads-coding)<br><sub>also [Apple](../companies/apple.md)</sub> | Phone · Onsite | **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/transformer-attention-mask-and-heads-coding) | Jun 16, 2026 |
 | [Task Processor: Dependencies and Deadlines](https://trueinterview.io/questions/task-processor-dependencies-and-deadlines) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/task-processor-dependencies-and-deadlines) | Jun 14, 2026 |
-| [Task Scheduling to Minimize Overall Completion Deadline (with Dependencies and Heap Optimization)](https://trueinterview.io/questions/69a906b1-a3e0-43a1-a3c1-267fc6556d5c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/69a906b1-a3e0-43a1-a3c1-267fc6556d5c) | Jun 2026 |
-| [Credo Behavioral and Customer Engagement](https://trueinterview.io/questions/credo-behavioral-and-customer-engagement) | Phone · Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/credo-behavioral-and-customer-engagement) | May 1, 2026 |
 | [Existing Codebase Debugging Round](https://trueinterview.io/questions/existing-codebase-debugging-round) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/existing-codebase-debugging-round) | May 1, 2026 |
 | [LLM API Practical and Output Validation](https://trueinterview.io/questions/llm-api-practical-and-output-validation) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/llm-api-practical-and-output-validation) | May 1, 2026 |
 | [Neuron Firing Cellular Automata](https://trueinterview.io/questions/neuron-firing-cellular-automata) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/neuron-firing-cellular-automata) | May 1, 2026 |
@@ -34,12 +34,13 @@
 | [NumPy Top-p Sampling and Multi-Head Attention](https://trueinterview.io/questions/numpy-top-p-sampling-and-multi-head-attention) | Phone · Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/numpy-top-p-sampling-and-multi-head-attention) | Mar 25, 2026 |
 | [Answer common project leadership questions](https://trueinterview.io/questions/answer-common-project-leadership-questions) | Onsite | Mid · **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/answer-common-project-leadership-questions) | Mar 17, 2026 |
 | [Describe how you resolve conflicts at work](https://trueinterview.io/questions/describe-how-you-resolve-conflicts-at-work) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-how-you-resolve-conflicts-at-work) | Mar 2026 |
-| [Implement Top-p (Nucleus) Sampling in NumPy](https://trueinterview.io/questions/26db71f3-0ec8-4274-af98-d5bd29bdcf73) | Phone | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/26db71f3-0ec8-4274-af98-d5bd29bdcf73) | Mar 2026 |
+| [Implement Top-p (Nucleus) Sampling in NumPy](https://trueinterview.io/questions/26db71f3-0ec8-4274-af98-d5bd29bdcf73) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/26db71f3-0ec8-4274-af98-d5bd29bdcf73) | Mar 2026 |
+| [Party Times / Peak Concurrent Parties (Time Range Overlap Counting)](https://trueinterview.io/questions/8998a0af-970e-4c4b-be16-21fe90c5d1a0) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/8998a0af-970e-4c4b-be16-21fe90c5d1a0) | Mar 2026 |
+| [Task Scheduling to Minimize Overall Completion Deadline (with Dependencies and Heap Optimization)](https://trueinterview.io/questions/69a906b1-a3e0-43a1-a3c1-267fc6556d5c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/69a906b1-a3e0-43a1-a3c1-267fc6556d5c) | Mar 2026 |
 | [Design Card Game II](https://trueinterview.io/questions/design-card-game-ii)<br><sub>also [Verkada](../companies/verkada.md)</sub> | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-card-game-ii) | Feb 16, 2026 |
 | [Handle customer engagement and manager-rating questions](https://trueinterview.io/questions/handle-customer-engagement-and-manager-rating-questions) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/handle-customer-engagement-and-manager-rating-questions) | Feb 12, 2026 |
 | [Distinct Wall Crossing on Number Line](https://trueinterview.io/questions/distinct-wall-crossing-on-number-line) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/distinct-wall-crossing-on-number-line) | Feb 6, 2026 |
 | [Poker Hand Game Checker](https://trueinterview.io/questions/poker-hand-game-checker) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/poker-hand-game-checker) | Feb 6, 2026 |
-| [Party Times / Peak Concurrent Parties (Time Range Overlap Counting)](https://trueinterview.io/questions/8998a0af-970e-4c4b-be16-21fe90c5d1a0) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8998a0af-970e-4c4b-be16-21fe90c5d1a0) | Jan 2026 |
 | [Create RESTful API with CSV and JSON Conversion](https://trueinterview.io/questions/44f4defb-82d9-46e7-a008-0c8e2f044a17) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/44f4defb-82d9-46e7-a008-0c8e2f044a17) | — |
 | [Describe how you learn quickly in new domains](https://trueinterview.io/questions/describe-how-you-learn-quickly-in-new-domains) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-how-you-learn-quickly-in-new-domains) | — |
 | [Design a large-scale ticketing system](https://trueinterview.io/questions/design-a-large-scale-ticketing-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-large-scale-ticketing-system) | — |

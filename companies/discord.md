@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Discord on TrueInterview](https://trueinterview.io/problems/company/discord) · [How Discord interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/discord/README.md)
 
-**11 questions** · Senior & Staff+ 11 · last reported Jun 2026
+**11 questions** · Senior & Staff+ 11 · last reported Sep 2026
 
 **Rounds:** 📞 Phone (4) · 🏢 Onsite (7)
 
@@ -15,7 +15,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9)<br><sub>also [ByteDance](../companies/bytedance.md) / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +6</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Jun 2026 |
+| [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9)<br><sub>also [ByteDance](../companies/bytedance.md) / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +6</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Sep 2026 |
 | [Implement Game Metadata Lookups](https://trueinterview.io/questions/implement-game-metadata-lookups) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-game-metadata-lookups) | Apr 3, 2026 |
 | [Walk through your background and proud project](https://trueinterview.io/questions/walk-through-your-background-and-proud-project) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/walk-through-your-background-and-proud-project) | Feb 4, 2026 |
 | [Demonstrate effective AI-assisted coding workflow](https://trueinterview.io/questions/demonstrate-effective-ai-assisted-coding-workflow) | Onsite | Mid · **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-effective-ai-assisted-coding-workflow) | Jan 27, 2026 |

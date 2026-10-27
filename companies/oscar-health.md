@@ -17,6 +17,6 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Find Clients Outside Provider Coverage](https://trueinterview.io/questions/77313b88-1a9b-5047-b402-fced2dc1919c) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/77313b88-1a9b-5047-b402-fced2dc1919c) | Jul 2026 |
-| [Decode Morse Code to All Possible Original Strings](https://trueinterview.io/questions/93be479d-c2bc-46b0-9f1f-36d31c30bfb6) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/93be479d-c2bc-46b0-9f1f-36d31c30bfb6) | May 2026 |
-| [Morse Code Conversion](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | May 2026 |
+| [Find Clients Outside Provider Coverage](https://trueinterview.io/questions/77313b88-1a9b-5047-b402-fced2dc1919c) | Phone | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/77313b88-1a9b-5047-b402-fced2dc1919c) | Jul 2026 |
+| [Decode Morse Code to All Possible Original Strings](https://trueinterview.io/questions/93be479d-c2bc-46b0-9f1f-36d31c30bfb6) | Phone | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/93be479d-c2bc-46b0-9f1f-36d31c30bfb6) | May 2026 |
+| [Morse Code Conversion](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | Phone | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | May 2026 |

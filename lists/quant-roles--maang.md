@@ -8,7 +8,7 @@
 >
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**9 questions** · 3 at Senior/Staff+ · 4 reported in the last 90 days · 2 free to solve
+**9 questions** · 3 at Senior/Staff+ · 4 reported in the last 90 days · 3 free to solve
 
 **Rounds:** 📝 OA (5) · 📞 Phone (2) · 🏢 Onsite (2)
 
@@ -21,10 +21,10 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Citadel](../companies/citadel.md)** / [Amazon](../companies/amazon.md) | [Search Suggestions System](https://trueinterview.io/questions/71e19ff2-b8a8-5480-98f6-5e934e6a5c13) | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/71e19ff2-b8a8-5480-98f6-5e934e6a5c13) | 🆕 Oct 2026 |
 | **[Citadel](../companies/citadel.md)** / [Amazon](../companies/amazon.md) / [Boston Consulting Group](../companies/boston-consulting-group.md) | [Palindrome Detection](https://trueinterview.io/questions/f9fabc2f-0e3c-4bbe-aad2-3825752960c3) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/f9fabc2f-0e3c-4bbe-aad2-3825752960c3) | Sep 2026 |
-| **[Citadel](../companies/citadel.md)** / [Amazon](../companies/amazon.md) | [Search Suggestions System](https://trueinterview.io/questions/71e19ff2-b8a8-5480-98f6-5e934e6a5c13) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/71e19ff2-b8a8-5480-98f6-5e934e6a5c13) | Aug 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** / [Microsoft](../companies/microsoft.md) | [Stock Max Profit (Single or Multiple Transactions)](https://trueinterview.io/questions/7b157f40-79a0-48dd-a935-b4e27d6a6d0a) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/7b157f40-79a0-48dd-a935-b4e27d6a6d0a) | Aug 2026 |
-| **[Point72](../companies/point72.md)** / [Akuna Capital](../companies/akuna-capital.md) / [Google](../companies/google.md) | [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/array-frequency-sort) | Jul 29, 2026 |
+| **[Point72](../companies/point72.md)** / [Akuna Capital](../companies/akuna-capital.md) / [Google](../companies/google.md) | [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/array-frequency-sort) | Jul 29, 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** / [Microsoft](../companies/microsoft.md) | [Add Two Strings with a Single-Digit Adder](https://trueinterview.io/questions/add-two-strings-with-single-digit-adder) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/add-two-strings-with-single-digit-adder) | Feb 18, 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** / [Google](../companies/google.md) | [Segregate Binary String (Move Ones to End)](https://trueinterview.io/questions/segregate-binary-string-move-ones) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/segregate-binary-string-move-ones) | Aug 26, 2025 |
 | **[Squarepoint](../companies/squarepoint.md)** / [Google](../companies/google.md) | [ATM Queue](https://trueinterview.io/questions/b45eec89-6a1c-477b-b359-11cae3cf9e5f) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b45eec89-6a1c-477b-b359-11cae3cf9e5f) | — |

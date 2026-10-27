@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Gusto on TrueInterview](https://trueinterview.io/problems/company/gusto) · [How Gusto interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/gusto/README.md)
 
-**6 questions** · Senior & Staff+ 5 · last reported Sep 2026
+**6 questions** · Senior & Staff+ 5 · last reported Aug 2026
 
 **Rounds:** 📞 Phone (2) · 🏢 Onsite (4)
 
@@ -17,9 +17,9 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Time Based Key-Value Store](https://trueinterview.io/questions/time-based-key-value-store-2)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2</sub> | Onsite | Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/time-based-key-value-store-2) | Sep 2026 |
-| [Calculate Tax from Progressive Brackets](https://trueinterview.io/questions/calculate-tax-from-progressive-brackets) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-tax-from-progressive-brackets) | Aug 1, 2026 |
-| [Fairly Distribute Money With Limits](https://trueinterview.io/questions/15342126-93db-52f6-a234-8f5da3a03fb2) | Phone | **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/15342126-93db-52f6-a234-8f5da3a03fb2) | Aug 2026 |
-| [Log File API Statistics](https://trueinterview.io/questions/85c2d72c-1778-57ee-a65a-d35ae87f8b22) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/85c2d72c-1778-57ee-a65a-d35ae87f8b22) | Jun 2026 |
+| [Calculate Tax from Progressive Brackets](https://trueinterview.io/questions/calculate-tax-from-progressive-brackets) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-tax-from-progressive-brackets) | Aug 1, 2026 |
+| [Fairly Distribute Money With Limits](https://trueinterview.io/questions/15342126-93db-52f6-a234-8f5da3a03fb2) | Phone | **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/15342126-93db-52f6-a234-8f5da3a03fb2) | Aug 2026 |
+| [Log File API Statistics](https://trueinterview.io/questions/85c2d72c-1778-57ee-a65a-d35ae87f8b22) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/85c2d72c-1778-57ee-a65a-d35ae87f8b22) | Jun 2026 |
+| [Time Based Key-Value Store](https://trueinterview.io/questions/time-based-key-value-store-2)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2</sub> | Onsite | Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/time-based-key-value-store-2) | Mar 20, 2026 |
 | [Compute p-values for 2 variants vs control](https://trueinterview.io/questions/compute-p-values-for-2-variants-vs-control) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compute-p-values-for-2-variants-vs-control) | Nov 2, 2025 |
 | [Efficient Key-Value Store with Insert, Retrieve, Delete Operations](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | — |

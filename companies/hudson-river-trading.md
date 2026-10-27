@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Hudson River Trading on TrueInterview](https://trueinterview.io/problems/company/hudson-river-trading) · [How Hudson River Trading interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/hudson-river-trading/README.md)
 
-📈 Quant firms · **22 questions** · Senior & Staff+ 10 · Quant researcher & developer 17 · last reported Aug 2026
+📈 Quant firms · **22 questions** · Senior & Staff+ 11 · Quant researcher & developer 17 · last reported Aug 2026
 
 **Rounds:** 📝 OA (5) · 📞 Phone (14) · 🏢 Onsite (3)
 
@@ -27,12 +27,12 @@
 | [Python Language and Runtime Fundamentals](https://trueinterview.io/questions/python-language-and-runtime-fundamentals) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/python-language-and-runtime-fundamentals) | Apr 30, 2026 |
 | [Explain Python and React performance fundamentals](https://trueinterview.io/questions/explain-python-and-react-performance-fundamentals) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-python-and-react-performance-fundamentals) | Apr 6, 2026 |
 | [Why pursue full-stack engineering?](https://trueinterview.io/questions/why-pursue-full-stack-engineering) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/why-pursue-full-stack-engineering) | Apr 6, 2026 |
-| [Implement buffer readers for char/int/string with pointer advancement](https://trueinterview.io/questions/dd77f43b-876b-4c4a-828b-2e48ea7294dc) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/dd77f43b-876b-4c4a-828b-2e48ea7294dc) | Apr 2026 |
-| [Template wrapper supporting std::map/unordered_map with int/string key/value and overloaded operations](https://trueinterview.io/questions/2a69b316-d0b1-47bf-b1a4-ad9f1d8ebe3f) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2a69b316-d0b1-47bf-b1a4-ad9f1d8ebe3f) | Apr 2026 |
-| [Exploratory Data Analysis & Modeling for Heart Disease Prediction](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Onsite | Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Mar 2026 |
-| [Implement Modify in an Order Management System (Codebase Extension)](https://trueinterview.io/questions/23f63264-e86c-447a-aa50-6eb72f9e9609) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/23f63264-e86c-447a-aa50-6eb72f9e9609) | Mar 2026 |
+| [Implement buffer readers for char/int/string with pointer advancement](https://trueinterview.io/questions/dd77f43b-876b-4c4a-828b-2e48ea7294dc) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/dd77f43b-876b-4c4a-828b-2e48ea7294dc) | Apr 2026 |
+| [Template wrapper supporting std::map/unordered_map with int/string key/value and overloaded operations](https://trueinterview.io/questions/2a69b316-d0b1-47bf-b1a4-ad9f1d8ebe3f) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2a69b316-d0b1-47bf-b1a4-ad9f1d8ebe3f) | Apr 2026 |
+| [Exploratory Data Analysis & Modeling for Heart Disease Prediction](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Onsite | **Senior** | AI coding | [![Free][f]](https://trueinterview.io/questions/077cf7c1-b2f8-4e1a-9238-71b7efc49c0e) | Mar 2026 |
+| [Implement Modify in an Order Management System (Codebase Extension)](https://trueinterview.io/questions/23f63264-e86c-447a-aa50-6eb72f9e9609) | Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/23f63264-e86c-447a-aa50-6eb72f9e9609) | Mar 2026 |
 | [Count inversions in a permutation](https://trueinterview.io/questions/count-inversions-in-a-permutation) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-inversions-in-a-permutation) | Nov 28, 2025 |
-| [Implement a Coroutine Step by Step](https://trueinterview.io/questions/c0380879-c2f8-4102-a3e7-20383793ed48) | OA | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/c0380879-c2f8-4102-a3e7-20383793ed48) | Mar 2025 |
+| [Implement a Coroutine Step by Step](https://trueinterview.io/questions/c0380879-c2f8-4102-a3e7-20383793ed48) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/c0380879-c2f8-4102-a3e7-20383793ed48) | Mar 2025 |
 | [Black and White Chess Problem](https://trueinterview.io/questions/e829f3ce-e920-412d-b31a-72a804d9272e) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e829f3ce-e920-412d-b31a-72a804d9272e) | — |
 | [Fancy Number](https://trueinterview.io/questions/e4e49d37-3d74-4d00-b000-445874bf217a) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/e4e49d37-3d74-4d00-b000-445874bf217a) | — |
 | [Max Harvested Crops](https://trueinterview.io/questions/0364d8f3-180c-434b-96f4-fbdf7412a3e3) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/0364d8f3-180c-434b-96f4-fbdf7412a3e3) | — |

@@ -6,7 +6,7 @@
 
 📈 Quant firms · **41 questions** · Senior & Staff+ 22 · ML & Research Scientist 2 · Quant researcher & developer 20 · last reported Aug 2026
 
-**Rounds:** 📝 OA (15) · 📞 Phone (23) · 🏢 Onsite (4)
+**Rounds:** 📝 OA (15) · 📞 Phone (22) · 🏢 Onsite (5)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/point72-interview-process)
 
@@ -22,12 +22,12 @@
 | [Derive the Optimal Bid in a Two-Bidder Second-Price Auction](https://trueinterview.io/questions/derive-the-optimal-bid-in-a-two-bidder-second-price-auction) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/derive-the-optimal-bid-in-a-two-bidder-second-price-auction) | Aug 2026 |
 | [Explain Encapsulation, Inheritance, and Polymorphism in C++](https://trueinterview.io/questions/explain-encapsulation-inheritance-and-polymorphism-in-cplusplus) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/explain-encapsulation-inheritance-and-polymorphism-in-cplusplus) | Aug 2026 |
 | [Explain Ensemble Learning and Its Main Families](https://trueinterview.io/questions/explain-ensemble-learning-and-its-main-families) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/explain-ensemble-learning-and-its-main-families) | Aug 2026 |
-| [Find Minimum in Rotated Sorted Array](https://trueinterview.io/questions/8cf40fc4-93d8-5172-8ff4-5f12c477c26c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8cf40fc4-93d8-5172-8ff4-5f12c477c26c) | Aug 2026 |
+| [Find Minimum in Rotated Sorted Array](https://trueinterview.io/questions/8cf40fc4-93d8-5172-8ff4-5f12c477c26c) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/8cf40fc4-93d8-5172-8ff4-5f12c477c26c) | Aug 2026 |
 | [Find the Largest and Second Largest Elements](https://trueinterview.io/questions/8c65387b-27b5-51c6-b5da-e91b21e11a27) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8c65387b-27b5-51c6-b5da-e91b21e11a27) | Aug 2026 |
 | [Optimal Stopping with Up to Three Dice Rolls](https://trueinterview.io/questions/9eff884a-bb19-5ad4-9e9e-a278febdd3be) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9eff884a-bb19-5ad4-9e9e-a278febdd3be) | Aug 2026 |
 | [Portfolio Trading Optimizer (Multiple Transactions + Input Validation + Report)](https://trueinterview.io/questions/931ca2a6-3886-4c5c-84f7-d2208582067e) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/931ca2a6-3886-4c5c-84f7-d2208582067e) | Aug 2026 |
 | [Simulate a Deterministic Finite Automaton](https://trueinterview.io/questions/0283970d-03dd-5dec-9c2f-df143d712cfe) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/0283970d-03dd-5dec-9c2f-df143d712cfe) | Aug 2026 |
-| [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort)<br><sub>also [Akuna Capital](../companies/akuna-capital.md) / [Google](../companies/google.md)</sub> | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/array-frequency-sort) | Jul 29, 2026 |
+| [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort)<br><sub>also [Akuna Capital](../companies/akuna-capital.md) / [Google](../companies/google.md)</sub> | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/array-frequency-sort) | Jul 29, 2026 |
 | [Bank Transaction Mining](https://trueinterview.io/questions/bank-transaction-mining) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bank-transaction-mining) | Jul 29, 2026 |
 | [Coins and Energy](https://trueinterview.io/questions/coins-and-energy) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/coins-and-energy) | Jul 29, 2026 |
 | [Count Maximum Borrowing Days](https://trueinterview.io/questions/count-maximum-borrowing-days) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-maximum-borrowing-days) | Jul 29, 2026 |
@@ -47,7 +47,7 @@
 | [Solve Three Probability Models](https://trueinterview.io/questions/solve-three-probability-models) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/solve-three-probability-models) | Dec 14, 2025 |
 | [Design a system to find median in a data stream under memory constraints](https://trueinterview.io/questions/cf6f9ffb-bc33-4e69-abc9-ab9cd1cc4a1c) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cf6f9ffb-bc33-4e69-abc9-ab9cd1cc4a1c) | Nov 2025 |
 | [Expandable Array&lt;T> Class Template](https://trueinterview.io/questions/eea5c9ac-85a5-447b-a531-44537f1b2902) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/eea5c9ac-85a5-447b-a531-44537f1b2902) | Nov 2025 |
-| [Pandas Data Wrangling](https://trueinterview.io/questions/b62a7a6c-e26a-4b8f-805b-1178f1b1b907) | Phone | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/b62a7a6c-e26a-4b8f-805b-1178f1b1b907) | Nov 2025 |
+| [Pandas Data Wrangling](https://trueinterview.io/questions/b62a7a6c-e26a-4b8f-805b-1178f1b1b907) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/b62a7a6c-e26a-4b8f-805b-1178f1b1b907) | Nov 2025 |
 | [SmartString Class Template](https://trueinterview.io/questions/a93b34de-1a99-4fd5-93ba-42159f0e77b6) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a93b34de-1a99-4fd5-93ba-42159f0e77b6) | Nov 2025 |
 | [How would you explain PCA and SHAP?](https://trueinterview.io/questions/how-would-you-explain-pca-and-shap) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-explain-pca-and-shap) | Oct 24, 2025 |
 | [K-th missing number](https://trueinterview.io/questions/find-kth-missing-integer-and-redundant-operations-k-th-missing-number) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-kth-missing-integer-and-redundant-operations-k-th-missing-number) | Oct 20, 2025 |

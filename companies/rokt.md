@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Rokt on TrueInterview](https://trueinterview.io/problems/company/rokt) · [How Rokt interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/rokt/README.md)
 
-**5 questions** · Senior & Staff+ 2 · last reported Oct 2026
+**5 questions** · Senior & Staff+ 5 · last reported Oct 2026
 
 **Rounds:** 📞 Phone (2) · 🏢 Onsite (3)
 
@@ -19,6 +19,6 @@
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51)<br><sub>also [Verkada](../companies/verkada.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2</sub> | Onsite | Intern · New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | 🆕 Oct 2026 |
 | [Search from the end in a sorted array (variant)](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb)<br><sub>also [Snapchat](../companies/snapchat.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +3</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb) | Aug 2026 |
-| [Design Google-scale CI/CD pipeline](https://trueinterview.io/questions/design-google-scale-ci-cd-pipeline) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/design-google-scale-ci-cd-pipeline) | Dec 6, 2025 |
-| [Modified Basic Calculator](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197)<br><sub>also [Instacart](../companies/instacart.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Nov 2025 |
-| [Implement a Text Editor](https://trueinterview.io/questions/07668c03-6d78-4974-89af-e3cda62e5dd5) | Onsite | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/07668c03-6d78-4974-89af-e3cda62e5dd5) | Apr 2025 |
+| [Design Google-scale CI/CD pipeline](https://trueinterview.io/questions/design-google-scale-ci-cd-pipeline) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-google-scale-ci-cd-pipeline) | Dec 6, 2025 |
+| [Modified Basic Calculator](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197)<br><sub>also [Instacart](../companies/instacart.md)</sub> | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Nov 2025 |
+| [Implement a Text Editor](https://trueinterview.io/questions/07668c03-6d78-4974-89af-e3cda62e5dd5) | Onsite | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/07668c03-6d78-4974-89af-e3cda62e5dd5) | Apr 2025 |

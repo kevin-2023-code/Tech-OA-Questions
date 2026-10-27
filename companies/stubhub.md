@@ -19,4 +19,4 @@
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Composable Event Recommendation Campaign Engine (Flexible Filters + Ranking + Fallback)](https://trueinterview.io/questions/1e6967ec-6fb6-4033-af89-0ec21458242d) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/1e6967ec-6fb6-4033-af89-0ec21458242d) | Jun 2026 |
 | [Design Internal Chat and Re-engagement Emails](https://trueinterview.io/questions/design-internal-chat-and-re-engagement-emails) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-internal-chat-and-re-engagement-emails) | Apr 2026 |
-| [Design a Recommender System Based on Price and Distance](https://trueinterview.io/questions/4dce6781-6c41-4501-b217-804db6bfe794) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/4dce6781-6c41-4501-b217-804db6bfe794) | Oct 2025 |
+| [Design a Recommender System Based on Price and Distance](https://trueinterview.io/questions/4dce6781-6c41-4501-b217-804db6bfe794) | Onsite | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/4dce6781-6c41-4501-b217-804db6bfe794) | Oct 2025 |

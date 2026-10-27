@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice JPMorgan on TrueInterview](https://trueinterview.io/problems/company/jpmorgan) · [How JPMorgan interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/jpmorgan/README.md)
 
-**28 questions** · Senior & Staff+ 13 · Quant researcher & developer 4 · last reported Sep 2026
+**28 questions** · Senior & Staff+ 15 · Quant researcher & developer 4 · last reported Sep 2026
 
 **Rounds:** 📝 OA (13) · 📞 Phone (9) · 🏢 Onsite (11)
 
@@ -18,17 +18,17 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Grouped Binary Substrings](https://trueinterview.io/questions/grouped-binary-substrings)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/grouped-binary-substrings) | Sep 2026 |
-| [Interval Consolidation](https://trueinterview.io/questions/interval-consolidation-oa) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/interval-consolidation-oa) | Jun 23, 2026 |
-| [Prerequisite Cycle](https://trueinterview.io/questions/prerequisite-cycle-oa) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/prerequisite-cycle-oa) | Jun 23, 2026 |
-| [Shopping Cart Latency and Inventory](https://trueinterview.io/questions/shopping-cart-latency-and-inventory) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/shopping-cart-latency-and-inventory) | Jun 23, 2026 |
-| [Super Day Behavioral Round](https://trueinterview.io/questions/superday-behavioral-round) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/superday-behavioral-round) | Jun 23, 2026 |
-| [Zero Compaction Array Coding](https://trueinterview.io/questions/zero-compaction-array-coding) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/zero-compaction-array-coding) | Jun 23, 2026 |
+| [Super Day Behavioral Round](https://trueinterview.io/questions/superday-behavioral-round) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/superday-behavioral-round) | Sep 2026 |
+| [Interval Consolidation](https://trueinterview.io/questions/interval-consolidation-oa) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/interval-consolidation-oa) | Jun 23, 2026 |
+| [Prerequisite Cycle](https://trueinterview.io/questions/prerequisite-cycle-oa) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/prerequisite-cycle-oa) | Jun 23, 2026 |
+| [Shopping Cart Latency and Inventory](https://trueinterview.io/questions/shopping-cart-latency-and-inventory) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/shopping-cart-latency-and-inventory) | Jun 23, 2026 |
+| [Zero Compaction Array Coding](https://trueinterview.io/questions/zero-compaction-array-coding) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/zero-compaction-array-coding) | Jun 23, 2026 |
 | [Explain Core ML Concepts](https://trueinterview.io/questions/explain-core-ml-concepts-5) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-core-ml-concepts-5) | Apr 24, 2026 |
 | [Implement Integer Square Root](https://trueinterview.io/questions/implement-integer-square-root) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-integer-square-root) | Apr 24, 2026 |
 | [Design a Reliable Bank Payment System](https://trueinterview.io/questions/design-a-reliable-bank-payment-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-reliable-bank-payment-system) | Apr 23, 2026 |
 | [URL Shortener With Click Tracking](https://trueinterview.io/questions/url-shortener-with-click-tracking) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/url-shortener-with-click-tracking) | Apr 22, 2026 |
 | [Process Scheduler II](https://trueinterview.io/questions/minimum-cpu-cores) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-cpu-cores) | Mar 31, 2026 |
-| [Minimize Operations to Balance Shipments](https://trueinterview.io/questions/minimize-operations-to-balance-shipments) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimize-operations-to-balance-shipments) | Mar 21, 2026 |
+| [Minimize Operations to Balance Shipments](https://trueinterview.io/questions/minimize-operations-to-balance-shipments) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimize-operations-to-balance-shipments) | Mar 21, 2026 |
 | [Explain Daily Signal Construction and a Prediction Workflow](https://trueinterview.io/questions/explain-daily-signal-construction-and-a-prediction-workflow) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-daily-signal-construction-and-a-prediction-workflow) | Mar 18, 2026 |
 | [Minimum Anagram Edits](https://trueinterview.io/questions/minimum-anagram-edits) | OA · Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-anagram-edits) | Mar 18, 2026 |
 | [Table of Contents from Markdown Headings II](https://trueinterview.io/questions/markdown-table-of-contents) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/markdown-table-of-contents) | Mar 14, 2026 |

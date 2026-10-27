@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Yelp on TrueInterview](https://trueinterview.io/problems/company/yelp) · [How Yelp interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/yelp/README.md)
 
-**22 questions** · Senior & Staff+ 22 · last reported Sep 2026
+**22 questions** · Senior & Staff+ 22 · last reported Oct 2026
 
 **Rounds:** 📞 Phone (14) · 🏢 Onsite (18)
 
@@ -15,15 +15,15 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Design Payment System](https://trueinterview.io/questions/payment-platform-design)<br><sub>also [ByteDance](../companies/bytedance.md) / [Affirm](../companies/affirm.md) / [Expedia](../companies/expedia.md) / +6</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/payment-platform-design) | 🆕 Oct 2026 |
 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design)<br><sub>also [Robinhood](../companies/robinhood.md) / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +12</sub> | Phone · Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | [Design Notification System](https://trueinterview.io/questions/design-a-notification-system-for-reddit)<br><sub>also [Reddit](../companies/reddit.md) / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +9</sub> | Onsite | Mid · **Senior** · **Staff+** · Manager | System design | [![Free][f]](https://trueinterview.io/questions/design-a-notification-system-for-reddit) | Sep 2026 |
-| [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +6</sub> | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9)<br><sub>also [ByteDance](../companies/bytedance.md) / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +6</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Sep 2026 |
 | [Estimate Experiment Duration with Power Analysis](https://trueinterview.io/questions/estimate-experiment-duration-with-power-analysis) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/estimate-experiment-duration-with-power-analysis) | Aug 27, 2026 |
 | [Recommend a Decision After a Nonsignificant Experiment](https://trueinterview.io/questions/recommend-a-decision-after-a-nonsignificant-experiment) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/recommend-a-decision-after-a-nonsignificant-experiment) | Aug 27, 2026 |
 | [Return Integers in Descending Ranked Order](https://trueinterview.io/questions/return-integers-in-descending-ranked-order) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/return-integers-in-descending-ranked-order) | Aug 27, 2026 |
-| [Design Payment System](https://trueinterview.io/questions/payment-platform-design)<br><sub>also [ByteDance](../companies/bytedance.md) / [Affirm](../companies/affirm.md) / [Expedia](../companies/expedia.md) / +6</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/payment-platform-design) | Aug 2026 |
 | [Design News Feed](https://trueinterview.io/questions/design-news-feed)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [Confluent](../companies/confluent.md) / +12</sub> | Phone · Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-news-feed) | Jul 2026 |
-| [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9)<br><sub>also [ByteDance](../companies/bytedance.md) / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +6</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Jun 2026 |
+| [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +6</sub> | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Jul 2026 |
 | [Cross-Platform Logging Library](https://trueinterview.io/questions/logging-library-design)<br><sub>also [Snowflake](../companies/snowflake.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +6</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/logging-library-design) | Mar 23, 2026 |
 | [Count Alert Triggers](https://trueinterview.io/questions/count-alert-triggers) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/count-alert-triggers) | Apr 21, 2025 |
 | [Find Destination Node](https://trueinterview.io/questions/find-destination-node) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/find-destination-node) | Apr 20, 2025 |

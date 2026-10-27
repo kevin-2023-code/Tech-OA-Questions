@@ -17,10 +17,10 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Describe Product and Team Collaboration](https://trueinterview.io/questions/describe-product-and-team-collaboration) | Onsite | Mid · **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/describe-product-and-team-collaboration) | Apr 2026 |
-| [Detect Cycles in Employee Reporting Structure](https://trueinterview.io/questions/f918843c-516e-47a2-b08a-6bf4c474cbf2) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f918843c-516e-47a2-b08a-6bf4c474cbf2) | Apr 2026 |
+| [Describe Product and Team Collaboration](https://trueinterview.io/questions/describe-product-and-team-collaboration) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-product-and-team-collaboration) | Apr 2026 |
+| [Detect Cycles in Employee Reporting Structure](https://trueinterview.io/questions/f918843c-516e-47a2-b08a-6bf4c474cbf2) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f918843c-516e-47a2-b08a-6bf4c474cbf2) | Apr 2026 |
 | [Snake Game](https://trueinterview.io/questions/snake-game)<br><sub>also [Atlassian](../companies/atlassian.md)</sub> | Onsite | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/snake-game) | Apr 2026 |
-| [Validate Employees in a Hierarchy with Recursive Rules](https://trueinterview.io/questions/8454aac4-681d-44d1-a68c-79d85c0ee3e7) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/8454aac4-681d-44d1-a68c-79d85c0ee3e7) | Apr 2026 |
+| [Validate Employees in a Hierarchy with Recursive Rules](https://trueinterview.io/questions/8454aac4-681d-44d1-a68c-79d85c0ee3e7) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/8454aac4-681d-44d1-a68c-79d85c0ee3e7) | Apr 2026 |
 | [Design a Shared Todo App](https://trueinterview.io/questions/design-a-shared-todo-app) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-shared-todo-app) | Mar 3, 2026 |
 | [Implement Employee Validation and Snake](https://trueinterview.io/questions/implement-employee-validation-and-snake) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-employee-validation-and-snake) | Mar 3, 2026 |
 | [Dictionary Encoding (Lossless) for Comma-Separated Words](https://trueinterview.io/questions/82075e9a-8980-4522-bfeb-1fa58bdf7e03) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/82075e9a-8980-4522-bfeb-1fa58bdf7e03) | Mar 2026 |

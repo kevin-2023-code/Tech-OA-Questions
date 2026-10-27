@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Intuit on TrueInterview](https://trueinterview.io/problems/company/intuit) · [How Intuit interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/intuit/README.md)
 
-**38 questions** · Senior & Staff+ 25 · ML & Research Scientist 3 · last reported Sep 2026
+**38 questions** · Senior & Staff+ 24 · ML & Research Scientist 3 · last reported Oct 2026
 
 **Rounds:** 📝 OA (7) · 📞 Phone (26) · 🏢 Onsite (6)
 
@@ -17,20 +17,21 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Valid Parentheses](https://trueinterview.io/questions/valid-parentheses)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +10</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/valid-parentheses) | Sep 2026 |
+| [Concurrent Task Processor](https://trueinterview.io/questions/a75fd921-df8c-4835-9430-d544a97cc769) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a75fd921-df8c-4835-9430-d544a97cc769) | 🆕 Oct 2026 |
+| [Valid Parentheses](https://trueinterview.io/questions/valid-parentheses)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +10</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/valid-parentheses) | Sep 2026 |
 | [Array Plus One with Large-Input Follow-Up](https://trueinterview.io/questions/array-plus-one-with-large-input-follow-up) | Phone | Mid · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/array-plus-one-with-large-input-follow-up) | Jun 28, 2026 |
 | [Premium Product Recommendation System](https://trueinterview.io/questions/premium-product-recommendation-system) | Phone · Onsite | Mid · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/premium-product-recommendation-system) | Jun 28, 2026 |
 | [Small Business Network: Degrees of Separation](https://trueinterview.io/questions/small-business-network-degrees-of-separation) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/small-business-network-degrees-of-separation) | May 8, 2026 |
-| [Pandas Meeting Work-Duration Calculation](https://trueinterview.io/questions/pandas-meeting-work-duration) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/pandas-meeting-work-duration) | Apr 22, 2026 |
+| [Pandas Meeting Work-Duration Calculation](https://trueinterview.io/questions/pandas-meeting-work-duration) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/pandas-meeting-work-duration) | Apr 22, 2026 |
 | [AI Application Conversation](https://trueinterview.io/questions/ai-application-conversation) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/ai-application-conversation) | Apr 3, 2026 |
 | [When should products use AI?](https://trueinterview.io/questions/when-should-products-use-ai) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/when-should-products-use-ai) | Apr 2, 2026 |
-| [Concurrent Task Processor](https://trueinterview.io/questions/a75fd921-df8c-4835-9430-d544a97cc769) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a75fd921-df8c-4835-9430-d544a97cc769) | Apr 2026 |
 | [Calculate Cohort Retention](https://trueinterview.io/questions/calculate-cohort-retention) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/calculate-cohort-retention) | Feb 23, 2026 |
 | [Engineer and Impute ZIP Features](https://trueinterview.io/questions/engineer-and-impute-zip-features) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/engineer-and-impute-zip-features) | Feb 23, 2026 |
 | [Calculate Precision, Recall, and F1](https://trueinterview.io/questions/calculate-precision-recall-and-f1) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-precision-recall-and-f1) | Feb 10, 2026 |
 | [Bash Largest File from Listing Output](https://trueinterview.io/questions/bash-largest-file-from-ls-output) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bash-largest-file-from-ls-output) | Jan 30, 2026 |
 | [DNA Substring Palindrome Cost Sum](https://trueinterview.io/questions/dna-substring-palindrome-cost-sum) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/dna-substring-palindrome-cost-sum) | Dec 25, 2025 |
-| [Transactions Status Report SQL](https://trueinterview.io/questions/transactions-status-report-sql) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/transactions-status-report-sql) | Dec 25, 2025 |
+| [Transactions Status Report SQL](https://trueinterview.io/questions/transactions-status-report-sql) | OA | New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/transactions-status-report-sql) | Dec 25, 2025 |
+| [BankAccount Deposit and Withdraw Methods with Tests](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Dec 2025 |
 | [Clean String: Remove Punctuation and Stop Words](https://trueinterview.io/questions/clean-string-remove-punctuation-stop-words) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/clean-string-remove-punctuation-stop-words) | Nov 19, 2025 |
 | [Three-Column Grid Coloring Count](https://trueinterview.io/questions/three-column-grid-coloring-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/three-column-grid-coloring-count) | Nov 19, 2025 |
 | [Compute monthly signups, conversion, and YoY growth](https://trueinterview.io/questions/compute-monthly-signups-conversion-and-yoy-growth) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-monthly-signups-conversion-and-yoy-growth) | Nov 8, 2025 |
@@ -42,7 +43,6 @@
 | [Weather Data Energy-Usage Ranking](https://trueinterview.io/questions/weather-data-energy-usage-ranking) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/weather-data-energy-usage-ranking) | Oct 3, 2025 |
 | [Customer Scheduler: VIP Priority and 2:1 Fairness](https://trueinterview.io/questions/customer-scheduler-vip-fairness) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/customer-scheduler-vip-fairness) | Oct 2, 2025 |
 | [Look-and-Say Sequence](https://trueinterview.io/questions/look-and-say-sequence)<br><sub>also [Cisco](../companies/cisco.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/look-and-say-sequence) | Sep 29, 2025 |
-| [BankAccount Deposit and Withdraw Methods with Tests](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | — |
 | [Choose the right test for proportions](https://trueinterview.io/questions/choose-the-right-test-for-proportions) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/choose-the-right-test-for-proportions) | — |
 | [Compute churn and revenue churn in SQL](https://trueinterview.io/questions/compute-churn-and-revenue-churn-in-sql) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-churn-and-revenue-churn-in-sql) | — |
 | [Compute monthly new subscribers and YoY deltas](https://trueinterview.io/questions/compute-monthly-new-subscribers-and-yoy-deltas) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-monthly-new-subscribers-and-yoy-deltas) | — |
@@ -51,7 +51,7 @@
 | [Diagnose rising delivery cost precisely](https://trueinterview.io/questions/diagnose-rising-delivery-cost-precisely) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-rising-delivery-cost-precisely) | — |
 | [Exclude free subscribers via anti-join](https://trueinterview.io/questions/exclude-free-subscribers-via-anti-join) | Phone | **Senior** · **Staff+** | SQL | [![Practice][p]](https://trueinterview.io/questions/exclude-free-subscribers-via-anti-join) | — |
 | [Explain a non-linear industry switch](https://trueinterview.io/questions/explain-a-non-linear-industry-switch) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/explain-a-non-linear-industry-switch) | — |
-| [Find the Safest Path in a Grid](https://trueinterview.io/questions/4a705b25-2a46-4581-866f-381bfd794dab) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4a705b25-2a46-4581-866f-381bfd794dab) | — |
+| [Find the Safest Path in a Grid](https://trueinterview.io/questions/4a705b25-2a46-4581-866f-381bfd794dab) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/4a705b25-2a46-4581-866f-381bfd794dab) | — |
 | [Matrix Transpose and Multiplication Speed Benchmark](https://trueinterview.io/questions/0cc929c7-175c-4c2b-8748-4777d598bc16) | Phone | Mid · **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/0cc929c7-175c-4c2b-8748-4777d598bc16) | — |
 | [Smart Gardener (Intuit India)](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | — |
 | [SQL Related Multiple Choice](https://trueinterview.io/questions/aba450f6-4f57-4470-8608-cf72eb213c12) | OA | Intern · New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/aba450f6-4f57-4470-8608-cf72eb213c12) | — |

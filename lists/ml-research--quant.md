@@ -8,11 +8,11 @@
 >
 > **Where:** Employers the shared company registry files under *Quant trading & hedge funds* — Jane Street, Citadel, Hudson River Trading, Two Sigma, Optiver and the rest.
 
-**5 questions** · 4 at Senior/Staff+ · 1 reported in the last 90 days · 3 free to solve
+**7 questions** · 4 at Senior/Staff+ · 3 reported in the last 90 days · 3 free to solve
 
-**Rounds:** 📞 Phone (4) · 🏢 Onsite (1)
+**Rounds:** 📞 Phone (5) · 🏢 Onsite (2)
 
-**Companies:** [Point72 (2)](../companies/point72.md) · [Two Sigma (2)](../companies/two-sigma.md) · [Voleon (1)](../companies/voleon.md)
+**Companies:** [Citadel (2)](../companies/citadel.md) · [Point72 (2)](../companies/point72.md) · [Two Sigma (2)](../companies/two-sigma.md) · [Voleon (1)](../companies/voleon.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
 
@@ -21,7 +21,9 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Citadel](../companies/citadel.md)** | [Research Engineer Sequence Classification](https://trueinterview.io/questions/research-engineer-sequence-classification) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/research-engineer-sequence-classification) | 🆕 Sep 27, 2026 |
 | **[Voleon](../companies/voleon.md)** | [Audit and Extend a Time-Series ML Pipeline](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | 🆕 Sep 14, 2026 |
+| **[Citadel](../companies/citadel.md)** | [Permutation-Invariant Classification of Variable-Length Feature Sets](https://trueinterview.io/questions/4835bfa3-8b24-5b16-9372-993fa9b59e80) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4835bfa3-8b24-5b16-9372-993fa9b59e80) | Sep 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** | [GenAI Quant SWE Manager Deep Dive](https://trueinterview.io/questions/genai-quant-swe-manager-deep-dive) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/genai-quant-swe-manager-deep-dive) | May 12, 2026 |
 | **[Point72](../companies/point72.md)** | [Design a News-Filtering Prompt](https://trueinterview.io/questions/design-a-news-filtering-prompt) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/design-a-news-filtering-prompt) | May 2026 |
 | **[Point72](../companies/point72.md)** | [Explain Transformer Encoder and Decoder Behavior](https://trueinterview.io/questions/explain-transformer-encoder-and-decoder-behavior) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-transformer-encoder-and-decoder-behavior) | Mar 6, 2026 |

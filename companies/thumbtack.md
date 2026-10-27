@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Thumbtack on TrueInterview](https://trueinterview.io/problems/company/thumbtack) · [How Thumbtack interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/thumbtack/README.md)
 
-**16 questions** · Senior & Staff+ 16
+**16 questions** · Senior & Staff+ 16 · last reported Jan 2026
 
 **Rounds:** 📞 Phone (2) · 🏢 Onsite (14)
 
@@ -15,6 +15,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Write monthly new-vs-returning requests SQL](https://trueinterview.io/questions/write-monthly-new-vs-returning-requests-sql) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-monthly-new-vs-returning-requests-sql) | Jan 2026 |
 | [Choose clustering vs regression; explain KNN](https://trueinterview.io/questions/choose-clustering-vs-regression-explain-knn) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/choose-clustering-vs-regression-explain-knn) | — |
 | [Compare list/dict; parse JSON/CSV at scale](https://trueinterview.io/questions/compare-list-dict-parse-json-csv-at-scale) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compare-list-dict-parse-json-csv-at-scale) | — |
 | [Compute weekly 3-week rolling sums in SQL](https://trueinterview.io/questions/compute-weekly-3-week-rolling-sums-in-sql) | Phone | **Senior** | SQL | [![Free][f]](https://trueinterview.io/questions/compute-weekly-3-week-rolling-sums-in-sql) | — |
@@ -30,4 +31,3 @@
 | [Implement TF–IDF with sparse matrices](https://trueinterview.io/questions/implement-tfidf-with-sparse-matrices) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-tfidf-with-sparse-matrices) | — |
 | [Lead XFN decision under tight timeline](https://trueinterview.io/questions/lead-xfn-decision-under-tight-timeline) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/lead-xfn-decision-under-tight-timeline) | — |
 | [Test regional response-rate differences rigorously](https://trueinterview.io/questions/test-regional-response-rate-differences-rigorously) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/test-regional-response-rate-differences-rigorously) | — |
-| [Write monthly new-vs-returning requests SQL](https://trueinterview.io/questions/write-monthly-new-vs-returning-requests-sql) | Onsite | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-monthly-new-vs-returning-requests-sql) | — |

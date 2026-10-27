@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Dropbox on TrueInterview](https://trueinterview.io/problems/company/dropbox) · [How Dropbox interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/dropbox/README.md)
 
-**21 questions** · Senior & Staff+ 18 · last reported Jun 2026
+**21 questions** · Senior & Staff+ 18 · last reported Sep 2026
 
 **Rounds:** 📝 OA (1) · 📞 Phone (10) · 🏢 Onsite (10)
 
@@ -17,7 +17,8 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Token Bucket Rate Limiter II](https://trueinterview.io/questions/58b8e172-126c-506d-9294-bd87ba76d9d9)<br><sub>also [Uber](../companies/uber.md) / [Meta](../companies/meta.md)</sub> | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/58b8e172-126c-506d-9294-bd87ba76d9d9) | Jun 2026 |
+| [Token Bucket Rate Limiter II](https://trueinterview.io/questions/58b8e172-126c-506d-9294-bd87ba76d9d9)<br><sub>also [Uber](../companies/uber.md) / [Meta](../companies/meta.md)</sub> | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/58b8e172-126c-506d-9294-bd87ba76d9d9) | Sep 2026 |
+| [Implement SnapshotSet](https://trueinterview.io/questions/457a2c8a-2f83-46a9-8137-e8f8ed59b3a6)<br><sub>also [Databricks](../companies/databricks.md)</sub> | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/457a2c8a-2f83-46a9-8137-e8f8ed59b3a6) | Jul 2026 |
 | [Worker Registration Payroll Calculation](https://trueinterview.io/questions/c7dcf405-b5b0-405d-9164-b770da49caa0) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/c7dcf405-b5b0-405d-9164-b770da49caa0) | May 2026 |
 | [Double Circuit Breaker for server calls (lambda returns success/failure)](https://trueinterview.io/questions/09d9b5c2-55aa-42e6-aa90-59a942fb10f8) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/09d9b5c2-55aa-42e6-aa90-59a942fb10f8) | Apr 2026 |
 | [Event Logger with batching, fsync, and group commit follow-ups](https://trueinterview.io/questions/481f5542-4481-47c3-948d-fa2e58f4b6d9) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/481f5542-4481-47c3-948d-fa2e58f4b6d9) | Apr 2026 |
@@ -34,7 +35,6 @@
 | [Answer rapid-fire leadership checklist](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | — |
 | [Compute max island with constrained flips](https://trueinterview.io/questions/compute-max-island-with-constrained-flips) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-max-island-with-constrained-flips) | — |
 | [Explain a project with measurable impact](https://trueinterview.io/questions/explain-a-project-with-measurable-impact) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-a-project-with-measurable-impact) | — |
-| [Implement SnapshotSet](https://trueinterview.io/questions/457a2c8a-2f83-46a9-8137-e8f8ed59b3a6)<br><sub>also [Databricks](../companies/databricks.md)</sub> | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/457a2c8a-2f83-46a9-8137-e8f8ed59b3a6) | — |
 | [Review checkout code for defects and privacy](https://trueinterview.io/questions/review-checkout-code-for-defects-and-privacy) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/review-checkout-code-for-defects-and-privacy) | — |
 | [Run org-safe online experiment for recommender](https://trueinterview.io/questions/run-org-safe-online-experiment-for-recommender) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/run-org-safe-online-experiment-for-recommender) | — |
 | [Shortest Path with Uniform Walking Method](https://trueinterview.io/questions/374ea0b3-6ad5-4d15-a6a4-bfd7a92db739) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/374ea0b3-6ad5-4d15-a6a4-bfd7a92db739) | — |

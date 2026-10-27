@@ -4,9 +4,9 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice OKX on TrueInterview](https://trueinterview.io/problems/company/okx) · [How OKX interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/okx/README.md)
 
-**5 questions** · Senior & Staff+ 3 · last reported Aug 2026
+**6 questions** · Senior & Staff+ 5 · last reported Oct 2026
 
-**Rounds:** 📝 OA (1) · 📞 Phone (3) · 🏢 Onsite (1)
+**Rounds:** 📝 OA (1) · 📞 Phone (4) · 🏢 Onsite (1)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/okx-interview-process)
 
@@ -17,8 +17,9 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Group Anagrams](https://trueinterview.io/questions/5106ce59-2f3a-542f-822a-dd10da487424)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [Apple](../companies/apple.md) / +3</sub> | Phone | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/5106ce59-2f3a-542f-822a-dd10da487424) | Aug 2026 |
-| [Implement a Doubly Linked List](https://trueinterview.io/questions/ec553f21-8a20-4d30-b769-7e2dc8e7aad5)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ec553f21-8a20-4d30-b769-7e2dc8e7aad5) | Jul 2026 |
-| [Restore Valid IPv4 Addresses](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06)<br><sub>also [OpenAI](../companies/openai.md) / [ByteDance](../companies/bytedance.md)</sub> | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06) | Jul 2026 |
-| [Sort Colors](https://trueinterview.io/questions/aaada6bb-55dc-518c-bd23-95d1e382c7bd) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aaada6bb-55dc-518c-bd23-95d1e382c7bd) | Jul 2026 |
+| [Group Anagrams](https://trueinterview.io/questions/5106ce59-2f3a-542f-822a-dd10da487424)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [Apple](../companies/apple.md) / +3</sub> | Phone | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/5106ce59-2f3a-542f-822a-dd10da487424) | 🆕 Oct 2026 |
+| [Sort Colors](https://trueinterview.io/questions/aaada6bb-55dc-518c-bd23-95d1e382c7bd)<br><sub>also [Capital One](../companies/capital-one.md)</sub> | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/aaada6bb-55dc-518c-bd23-95d1e382c7bd) | 🆕 Oct 2026 |
+| [Restore IP Addresses](https://trueinterview.io/questions/restore-ip-addresses)<br><sub>also [ByteDance](../companies/bytedance.md) / [OpenAI](../companies/openai.md)</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/restore-ip-addresses) | Sep 4, 2026 |
+| [Implement a Doubly Linked List](https://trueinterview.io/questions/ec553f21-8a20-4d30-b769-7e2dc8e7aad5)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ec553f21-8a20-4d30-b769-7e2dc8e7aad5) | Jul 2026 |
 | [Basic coding to validate syntax and data structure familiarity](https://trueinterview.io/questions/f7e85517-2ec7-4102-b09a-dff03cd76939) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f7e85517-2ec7-4102-b09a-dff03cd76939) | Jan 2026 |
+| [Restore Valid IPv4 Addresses](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06)<br><sub>also [OpenAI](../companies/openai.md) / [ByteDance](../companies/bytedance.md)</sub> | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06) | — |
