@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**807 questions** · 260 at Senior/Staff+ · 184 reported in the last 90 days · 218 free to solve
+**807 questions** · 260 at Senior/Staff+ · 176 reported in the last 90 days · 218 free to solve
 
 **By employer group:** 🧠 AI labs (39) · 📈 Quant firms (118) · 🏛️ MAANG+ (168)
 
@@ -62,7 +62,7 @@
 | **[Citadel](../companies/citadel.md)** | [SDE OA Fundamentals Quiz](https://trueinterview.io/questions/sde-oa-fundamentals-quiz) | OA | New grad | blog | [![Free][f]](https://trueinterview.io/questions/sde-oa-fundamentals-quiz) | 🆕 Sep 17, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Team Ranking Based on Scores and Goal Difference](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | 🆕 Sep 16, 2026 |
 | **[IBM](../companies/ibm.md)** | [VM Rental Revenue from Changing Stock](https://trueinterview.io/questions/vm-rental-revenue) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/vm-rental-revenue) | 🆕 Sep 14, 2026 |
-| **[Upstart](../companies/upstart.md)** | [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | 🆕 Sep 12, 2026 |
+| **[Upstart](../companies/upstart.md)** | [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | Sep 12, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Financial Account Ledger](https://trueinterview.io/questions/financial-account-ledger-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/financial-account-ledger-oa) | Sep 11, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Convert Identifier Naming in Docstrings](https://trueinterview.io/questions/37898248-3c48-565c-8143-a54070171bf8) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/37898248-3c48-565c-8143-a54070171bf8) | Sep 10, 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Databricks](../companies/databricks.md) / [Roblox](../companies/roblox.md) | [Count Cyclic Rotation Pairs](https://trueinterview.io/questions/672dd86c-1610-5d71-be33-4c29e4d1387e) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/672dd86c-1610-5d71-be33-4c29e4d1387e) | Sep 10, 2026 |

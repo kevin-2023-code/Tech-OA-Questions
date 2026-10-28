@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,653 questions** · 1,427 at Senior/Staff+ · 721 reported in the last 90 days · 434 free to solve
+**2,653 questions** · 1,427 at Senior/Staff+ · 712 reported in the last 90 days · 434 free to solve
 
 **Rounds:** 📝 OA (589) · 📞 Phone (1,601) · 🏢 Onsite (659) · 🏠 Take-home (2)
 
@@ -161,7 +161,7 @@
 | **[Amazon](../companies/amazon.md)** | [Order Dependent Tasks and Identify Work to Rerun](https://trueinterview.io/questions/order-dependent-tasks-and-identify-work-to-rerun) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/order-dependent-tasks-and-identify-work-to-rerun) | 🆕 Sep 14, 2026 |
 | **[IBM](../companies/ibm.md)** | [VM Rental Revenue from Changing Stock](https://trueinterview.io/questions/vm-rental-revenue) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/vm-rental-revenue) | 🆕 Sep 14, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Bill Deliveries with Historical Rates and Deferred Rounding](https://trueinterview.io/questions/bill-deliveries-with-historical-rates-and-deferred-rounding) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bill-deliveries-with-historical-rates-and-deferred-rounding) | 🆕 Sep 13, 2026 |
-| **[Upstart](../companies/upstart.md)** | [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | 🆕 Sep 12, 2026 |
+| **[Upstart](../companies/upstart.md)** | [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | Sep 12, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Count Islands and Return the Largest Island Size](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | Sep 11, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Financial Account Ledger](https://trueinterview.io/questions/financial-account-ledger-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/financial-account-ledger-oa) | Sep 11, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Hierarchical CSV Task / Subtask Formatter](https://trueinterview.io/questions/hierarchical-csv-task-formatter) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/hierarchical-csv-task-formatter) | Sep 11, 2026 |

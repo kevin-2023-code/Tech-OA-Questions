@@ -8,7 +8,7 @@
 
 Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anthropic, C3.ai**, **Citadel, Two Sigma, Squarepoint**, **Meta, Amazon, Google** and 129 more — **every row tagged with the level and the round it was asked in.** Synced hourly.
 
-**5,924 questions** · **4,136 at Senior/Staff+** · **481 ML & research** · **287 quant** · 807 OA · 1,501 reported in the last 90 days · 1,976 free
+**5,924 questions** · **4,136 at Senior/Staff+** · **481 ML & research** · **287 quant** · 807 OA · 1,490 reported in the last 90 days · 1,976 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 

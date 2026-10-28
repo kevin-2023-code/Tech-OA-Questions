@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,501 reported in the last 90 days · 1,976 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,490 reported in the last 90 days · 1,976 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 

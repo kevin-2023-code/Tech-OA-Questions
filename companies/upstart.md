@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | 🆕 Sep 12, 2026 |
+| [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | Sep 12, 2026 |
 | [Compute File Size on Disk](https://trueinterview.io/questions/a211b99f-1398-5507-9083-717ef2216133) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a211b99f-1398-5507-9083-717ef2216133) | Aug 2026 |
 | [Decrypt a Double-Substitution Cipher](https://trueinterview.io/questions/f7f2a358-a5bb-55e0-a442-4ba0ed8f1869) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f7f2a358-a5bb-55e0-a442-4ba0ed8f1869) | Aug 2026 |
 | [Possible ABO Parent Genotypes](https://trueinterview.io/questions/7d7d9d81-b0b6-5ffc-92e9-d0384993433f) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7d7d9d81-b0b6-5ffc-92e9-d0384993433f) | Aug 2026 |

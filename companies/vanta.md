@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Measure Most-Viewed URLs and Subscription Conversion Rates](https://trueinterview.io/questions/measure-most-viewed-urls-and-subscription-conversion-rates) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-most-viewed-urls-and-subscription-conversion-rates) | 🆕 Sep 12, 2026 |
+| [Measure Most-Viewed URLs and Subscription Conversion Rates](https://trueinterview.io/questions/measure-most-viewed-urls-and-subscription-conversion-rates) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-most-viewed-urls-and-subscription-conversion-rates) | Sep 12, 2026 |
 | [Implement `uniq` — Unique Lines in a File](https://trueinterview.io/questions/unique-lines-command) | Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/unique-lines-command) | Jul 16, 2026 |
 | [Task Dependency Resolution (Topological Sort)](https://trueinterview.io/questions/task-dependency-resolution) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/task-dependency-resolution) | Jul 16, 2026 |
 | [Principles & Leadership Behavioral Rounds](https://trueinterview.io/questions/principles-and-leadership-bq) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/principles-and-leadership-bq) | Jul 10, 2026 |
