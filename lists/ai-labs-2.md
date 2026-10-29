@@ -6,7 +6,7 @@
 
 > **Where:** Employers the shared company registry files under *AI labs & AI infrastructure* — OpenAI, Anthropic, xAI, Microsoft AI, Perplexity, Scale AI and the rest.
 
-**504 questions** · 430 at Senior/Staff+ · 177 reported in the last 90 days · 148 free to solve
+**504 questions** · 430 at Senior/Staff+ · 179 reported in the last 90 days · 148 free to solve
 
 **Rounds:** 📝 OA (39) · 📞 Phone (264) · 🏢 Onsite (251) · 🏠 Take-home (5)
 
@@ -21,6 +21,8 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[OpenAI](../companies/openai.md)** | [Design a recommendation system end-to-end](https://trueinterview.io/questions/design-a-recommendation-system-end-to-end) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-recommendation-system-end-to-end) | Dec 15, 2025 |
+| **[OpenAI](../companies/openai.md)** | [Design a regional surge pricing strategy](https://trueinterview.io/questions/design-a-regional-surge-pricing-strategy) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-regional-surge-pricing-strategy) | Dec 15, 2025 |
 | **[OpenAI](../companies/openai.md)** | [Design a search query autocomplete system](https://trueinterview.io/questions/design-a-search-query-autocomplete-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-search-query-autocomplete-system) | Dec 15, 2025 |
 | **[OpenAI](../companies/openai.md)** | [Design an AWS fine-tuning platform for LLMs](https://trueinterview.io/questions/design-an-aws-fine-tuning-platform-for-llms) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-aws-fine-tuning-platform-for-llms) | Dec 15, 2025 |
 | **[OpenAI](../companies/openai.md)** | [Design an image/video near-duplicate detection system](https://trueinterview.io/questions/design-an-image-video-near-duplicate-detection-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-image-video-near-duplicate-detection-system) | Dec 15, 2025 |
@@ -81,7 +83,6 @@
 | **[Scale AI](../companies/scale-ai.md)** | [Design pipeline using classification and embedding services](https://trueinterview.io/questions/design-pipeline-using-classification-and-embedding-services) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-pipeline-using-classification-and-embedding-services) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Designing GPT-2 Prompts Using Given Keywords](https://trueinterview.io/questions/147c9781-846f-407b-a3e9-cb2f61ae898d) | Onsite | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/147c9781-846f-407b-a3e9-cb2f61ae898d) | — |
 | **[xAI](../companies/xai.md)** | [Durable KV Cache](https://trueinterview.io/questions/durable-kv-cache) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/durable-kv-cache) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Enumerate All Balanced Bracket Strings for N Pairs](https://trueinterview.io/questions/generate-parentheses) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-parentheses) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Enumerate Fixed-Size Selections Preserving Array Order](https://trueinterview.io/questions/combinations-of-length-k) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/combinations-of-length-k) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Explain worker state machine load balancer design](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Find LCA in a N-ary tree via DFS](https://trueinterview.io/questions/find-lca-in-a-n-ary-tree-via-dfs) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-lca-in-a-n-ary-tree-via-dfs) | — |
@@ -124,6 +125,5 @@
 | **[C3.ai](../companies/c3-ai.md)** | [Two-Basket Fruit Picking Along a Tree Row](https://trueinterview.io/questions/fruit-into-baskets) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/fruit-into-baskets) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Versioned Array With Cheap Snapshots and Historical Reads](https://trueinterview.io/questions/snapshot-array) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/snapshot-array) | — |
 | **[OpenAI](../companies/openai.md)** | [Write SQL for post-trial conversion cohorts](https://trueinterview.io/questions/write-sql-for-post-trial-conversion-cohorts) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-post-trial-conversion-cohorts) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Zero-Sum Triplets Without Duplicates](https://trueinterview.io/questions/three-sum) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/three-sum) | — |
 
 <sub>Page [1](ai-labs.md) · **2**</sub>

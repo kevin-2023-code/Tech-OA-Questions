@@ -8,7 +8,7 @@
 >
 > **Where:** Employers the shared company registry files under *AI labs & AI infrastructure* — OpenAI, Anthropic, xAI, Microsoft AI, Perplexity, Scale AI and the rest.
 
-**430 questions** · 430 at Senior/Staff+ · 158 reported in the last 90 days · 132 free to solve
+**430 questions** · 430 at Senior/Staff+ · 160 reported in the last 90 days · 132 free to solve
 
 **Rounds:** 📝 OA (19) · 📞 Phone (234) · 🏢 Onsite (224) · 🏠 Take-home (5)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[C3.ai](../companies/c3-ai.md)** | [Iterator Over Arbitrarily Nested Integer Lists](https://trueinterview.io/questions/flatten-nested-list-iterator) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/flatten-nested-list-iterator) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Live Leaderboard of Company Share Totals](https://trueinterview.io/questions/company-shares-top-k) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/company-shares-top-k) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Longest Equal-Step Subsequence in an Integer Array](https://trueinterview.io/questions/longest-arithmetic-subsequence) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-arithmetic-subsequence) | — |
 | **[OpenAI](../companies/openai.md)** | [Math + Coding + Research Brainstorm (Notebook-based)](https://trueinterview.io/questions/d249ed6c-598c-435e-ba34-56d4c3aded8f) | Onsite | New grad · Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/d249ed6c-598c-435e-ba34-56d4c3aded8f) | — |
@@ -52,6 +53,5 @@
 | **[C3.ai](../companies/c3-ai.md)** | [Two-Basket Fruit Picking Along a Tree Row](https://trueinterview.io/questions/fruit-into-baskets) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/fruit-into-baskets) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Versioned Array With Cheap Snapshots and Historical Reads](https://trueinterview.io/questions/snapshot-array) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/snapshot-array) | — |
 | **[OpenAI](../companies/openai.md)** | [Write SQL for post-trial conversion cohorts](https://trueinterview.io/questions/write-sql-for-post-trial-conversion-cohorts) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-post-trial-conversion-cohorts) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Zero-Sum Triplets Without Duplicates](https://trueinterview.io/questions/three-sum) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/three-sum) | — |
 
 <sub>Page [1](senior-staff--ai-labs.md) · **2**</sub>

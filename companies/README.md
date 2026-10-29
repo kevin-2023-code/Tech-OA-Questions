@@ -94,7 +94,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Airwallex](airwallex.md) | — | 13 | 12 | 1 | — | Sep 2026 |
 | [HubSpot](hubspot.md) | — | 13 | 10 | — | — | Aug 2026 |
 | [Microsoft AI](microsoft-ai.md) | 🧠 AI labs | 13 | 10 | 3 | — | Oct 2026 |
-| [Okta](okta.md) | — | 13 | 11 | — | — | Aug 2026 |
+| [Okta](okta.md) | — | 13 | 11 | — | — | Oct 2026 |
 | [Nuro](nuro.md) | — | 12 | 12 | 3 | — | Aug 2026 |
 | [Onemain Financial](onemain-financial.md) | — | 12 | 12 | — | — | Jun 2026 |
 | [Palantir](palantir.md) | — | 12 | 9 | — | — | Aug 2026 |
@@ -128,7 +128,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Chicago Trading](chicago-trading.md) | 📈 Quant firms | 5 | 3 | — | 3 | Aug 2026 |
 | [Faire](faire.md) | — | 5 | — | — | — | Apr 2026 |
 | [Millennium](millennium.md) | — | 5 | 5 | — | 2 | Sep 2026 |
-| [Rokt](rokt.md) | — | 5 | 5 | — | — | Sep 2026 |
+| [Rokt](rokt.md) | — | 5 | 5 | — | — | Aug 2026 |
 | [Sigmacomputing](sigmacomputing.md) | — | 5 | — | — | — | Jul 2026 |
 | [StackAdapt](stackadapt.md) | — | 5 | 2 | — | — | Aug 2026 |
 | [Brex](brex.md) | — | 4 | 2 | — | — | Sep 2026 |
