@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Progressive Banking System](https://trueinterview.io/questions/oa-banking-system-2) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-banking-system-2) | 🔥 Oct 14, 2026 |
+| [Progressive Banking System](https://trueinterview.io/questions/oa-banking-system-2) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-banking-system-2) | 🆕 Oct 14, 2026 |
 | [Parcel Attribute Store](https://trueinterview.io/questions/oa-parcel-attribute-store) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-parcel-attribute-store) | 🆕 Oct 9, 2026 |
 | [Banking System with Scheduled Transfers, Account Merging, and Historical Balances](https://trueinterview.io/questions/dad943ab-9cb2-5f6d-b78f-86ca2ee971b1) | Onsite | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/dad943ab-9cb2-5f6d-b78f-86ca2ee971b1) | 🆕 Oct 2026 |
 | [Design Ad Click Event Aggregation System](https://trueinterview.io/questions/system-design-ads-event-aggregation)<br><sub>also [Pinterest](../companies/pinterest.md) / [Meta](../companies/meta.md) / [Robinhood](../companies/robinhood.md) / +2</sub> | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-ads-event-aggregation) | 🆕 Oct 2026 |

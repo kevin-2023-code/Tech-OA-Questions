@@ -19,7 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Airbnb](../companies/airbnb.md)** | [Progressive Banking System](https://trueinterview.io/questions/oa-banking-system-2) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-banking-system-2) | 🔥 Oct 14, 2026 |
+| **[Airbnb](../companies/airbnb.md)** | [Progressive Banking System](https://trueinterview.io/questions/oa-banking-system-2) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-banking-system-2) | 🆕 Oct 14, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Parcel Attribute Store](https://trueinterview.io/questions/oa-parcel-attribute-store) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-parcel-attribute-store) | 🆕 Oct 9, 2026 |
 | **[IBM](../companies/ibm.md)** | [Customers with High Average Resource Usage](https://trueinterview.io/questions/sql-high-average-resource-usage) | OA | New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/sql-high-average-resource-usage) | 🆕 Oct 5, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Payment State Machine](https://trueinterview.io/questions/payment-state-machine-oa) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/payment-state-machine-oa) | 🆕 Oct 4, 2026 |

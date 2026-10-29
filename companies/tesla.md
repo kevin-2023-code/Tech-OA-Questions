@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Implement Reduce and Derive Map and Filter from It](https://trueinterview.io/questions/implement-reduce-and-derive-map-and-filter-from-it) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-reduce-and-derive-map-and-filter-from-it) | 🆕 Sep 13, 2026 |
+| [Implement Reduce and Derive Map and Filter from It](https://trueinterview.io/questions/implement-reduce-and-derive-map-and-filter-from-it) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-reduce-and-derive-map-and-filter-from-it) | Sep 13, 2026 |
 | [Design a Content Delivery Network](https://trueinterview.io/questions/design-a-content-delivery-network) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-content-delivery-network) | Sep 4, 2026 |
 | [Handle API Errors with Python Requests](https://trueinterview.io/questions/handle-api-errors-with-python-requests) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/handle-api-errors-with-python-requests) | Sep 4, 2026 |
 | [Balance Backend Availability, Maintainability, and Scalability](https://trueinterview.io/questions/balance-backend-availability-maintainability-and-scalability) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/balance-backend-availability-maintainability-and-scalability) | Sep 1, 2026 |
