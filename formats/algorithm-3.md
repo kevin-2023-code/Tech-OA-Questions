@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,653 questions** · 1,427 at Senior/Staff+ · 729 reported in the last 90 days · 434 free to solve
+**2,653 questions** · 1,427 at Senior/Staff+ · 727 reported in the last 90 days · 434 free to solve
 
 **Rounds:** 📝 OA (589) · 📞 Phone (1,601) · 🏢 Onsite (659) · 🏠 Take-home (2)
 
@@ -19,8 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Apple](../companies/apple.md)** | [Determine Whether an Undirected Graph Is Bipartite](https://trueinterview.io/questions/3e8d0c6c-7081-55ae-b3ee-3e5c8621d1b9) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3e8d0c6c-7081-55ae-b3ee-3e5c8621d1b9) | Jul 2026 |
-| **[Snowflake](../companies/snowflake.md)** | [Distributed Tree Node Count](https://trueinterview.io/questions/distributed-tree-node-count) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/distributed-tree-node-count) | Jul 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Equalize Server Latency](https://trueinterview.io/questions/67d10813-b767-4d2d-8492-e2e32d196a80) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/67d10813-b767-4d2d-8492-e2e32d196a80) | Jul 2026 |
 | **[Sigmacomputing](../companies/sigmacomputing.md)** | [Evaluate a Boolean Formula AST](https://trueinterview.io/questions/c0c189b4-d329-52b6-9daa-81165544bff7) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/c0c189b4-d329-52b6-9daa-81165544bff7) | Jul 2026 |
 | **[Citadel](../companies/citadel.md)** | [External Merge Sort with a Heap](https://trueinterview.io/questions/565b03c7-1825-58a7-92d3-8c508446951d) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/565b03c7-1825-58a7-92d3-8c508446951d) | Jul 2026 |
@@ -76,6 +74,7 @@
 | **[Figma](../companies/figma.md)** | [Path Existence in Directed and Undirected Graphs with a Blocked Edge](https://trueinterview.io/questions/e7f7ba6c-551c-5ef7-9ccc-04f30e4aa149) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e7f7ba6c-551c-5ef7-9ccc-04f30e4aa149) | Jul 2026 |
 | **[Pinduoduo](../companies/pinduoduo.md)** | [Perfect Squares Decomposition](https://trueinterview.io/questions/e02cbe9e-e2f6-51fd-9ff0-a32899f4dd84) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e02cbe9e-e2f6-51fd-9ff0-a32899f4dd84) | Jul 2026 |
 | **[Visa](../companies/visa.md)** | [Perfect Substring](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Phone | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Jul 2026 |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2 | [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Jul 2026 |
 | **[Apple](../companies/apple.md)** | [Random IP from Load Balancer](https://trueinterview.io/questions/random-ip-from-load-balancer) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/random-ip-from-load-balancer) | Jul 2026 |
 | **[Google](../companies/google.md)** | [Reconstruct the BFS Path Before Reaching a Target](https://trueinterview.io/questions/ceeafc15-ce16-50a3-8890-26d9bd82c3ca) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ceeafc15-ce16-50a3-8890-26d9bd82c3ca) | Jul 2026 |
 | **[Vanta](../companies/vanta.md)** | [Recursive Class Dependency Ordering](https://trueinterview.io/questions/6a6d48b0-1054-5ae3-8079-864c8ebd48bf) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/6a6d48b0-1054-5ae3-8079-864c8ebd48bf) | Jul 2026 |
@@ -419,5 +418,6 @@
 | **[Google](../companies/google.md)** | [Fence Painting Minimum Operations (Gemini Team)](https://trueinterview.io/questions/fence-painting-min-ops) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/fence-painting-min-ops) | Apr 27, 2026 |
 | **[Meta](../companies/meta.md)** | [Find Three Cards Summing to 15](https://trueinterview.io/questions/solve-two-backtracking-array-problems-find-three-cards-summing-to-15) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-backtracking-array-problems-find-three-cards-summing-to-15) | Apr 27, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [String Encoding / Decoding Variants](https://trueinterview.io/questions/string-encoding-decoding) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/string-encoding-decoding) | Apr 26, 2026 |
+| **[Capital One](../companies/capital-one.md)** | [Beautify Houses to Strict Monotone](https://trueinterview.io/questions/beautify-houses-monotone) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/beautify-houses-monotone) | Apr 25, 2026 |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · **3** · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>

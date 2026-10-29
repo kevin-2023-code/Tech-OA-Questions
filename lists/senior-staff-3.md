@@ -6,7 +6,7 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**4,136 questions** · 4,136 at Senior/Staff+ · 1,002 reported in the last 90 days · 1,516 free to solve
+**4,136 questions** · 4,136 at Senior/Staff+ · 1,001 reported in the last 90 days · 1,516 free to solve
 
 **Rounds:** 📝 OA (260) · 📞 Phone (2,250) · 🏢 Onsite (1,909) · 🏠 Take-home (9)
 
@@ -175,7 +175,6 @@
 | **[Two Sigma](../companies/two-sigma.md)** | [Prediction task](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-prediction-task) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-prediction-task) | Aug 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Present an end-to-end project and defend decisions](https://trueinterview.io/questions/present-an-end-to-end-project-and-defend-decisions) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/present-an-end-to-end-project-and-defend-decisions) | Aug 2026 |
 | **[Citadel](../companies/citadel.md)** | [Print a Message Repeatedly with Blank Lines](https://trueinterview.io/questions/e3077f6d-c663-5701-8372-4cd14485be37) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e3077f6d-c663-5701-8372-4cd14485be37) | Aug 2026 |
-| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2 | [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Aug 2026 |
 | **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) | [Random Pick with Weight](https://trueinterview.io/questions/random-pick-with-weight) | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/random-pick-with-weight) | Aug 2026 |
 | **[Waymo](../companies/waymo.md)** | [Randomly Populate Grid with Connected Equal-Size Token Regions](https://trueinterview.io/questions/random-grid-token-fill) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/random-grid-token-fill) | Aug 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Rate Limiter](https://trueinterview.io/questions/5ac1e372-948a-4af9-b467-5e495795ba16) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/5ac1e372-948a-4af9-b467-5e495795ba16) | Aug 2026 |
@@ -382,6 +381,7 @@
 | **[Citadel](../companies/citadel.md)** | [Order Book Pair Coding](https://trueinterview.io/questions/order-book-pair-coding) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/order-book-pair-coding) | Jul 2026 |
 | **[Figma](../companies/figma.md)** | [Path Existence in Directed and Undirected Graphs with a Blocked Edge](https://trueinterview.io/questions/e7f7ba6c-551c-5ef7-9ccc-04f30e4aa149) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e7f7ba6c-551c-5ef7-9ccc-04f30e4aa149) | Jul 2026 |
 | **[Visa](../companies/visa.md)** | [Perfect Substring](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Phone | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Jul 2026 |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2 | [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Jul 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Project Deep Dive](https://trueinterview.io/questions/project-deep-dive-3) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/project-deep-dive-3) | Jul 2026 |
 | **[Meta](../companies/meta.md)** | [Project Success and Conflict Resolution Experience Discussion](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Jul 2026 |
 | **[Lyft](../companies/lyft.md)** | [Project, Conflict, Failure, and DEI](https://trueinterview.io/questions/behavioral-project-conflict-and-dei) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/behavioral-project-conflict-and-dei) | Jul 2026 |

@@ -8,7 +8,7 @@
 >
 > **Where:** Employers the shared company registry files under *Quant trading & hedge funds* — Jane Street, Citadel, Hudson River Trading, Two Sigma, Optiver and the rest.
 
-**187 questions** · 187 at Senior/Staff+ · 57 reported in the last 90 days · 83 free to solve
+**187 questions** · 187 at Senior/Staff+ · 56 reported in the last 90 days · 83 free to solve
 
 **Rounds:** 📝 OA (35) · 📞 Phone (120) · 🏢 Onsite (39) · 🏠 Take-home (2)
 
@@ -71,7 +71,6 @@
 | **[Point72](../companies/point72.md)** | [Portfolio Trading Optimizer (Multiple Transactions + Input Validation + Report)](https://trueinterview.io/questions/931ca2a6-3886-4c5c-84f7-d2208582067e) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/931ca2a6-3886-4c5c-84f7-d2208582067e) | Aug 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** | [Prediction task](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-prediction-task) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-prediction-task) | Aug 2026 |
 | **[Citadel](../companies/citadel.md)** | [Print a Message Repeatedly with Blank Lines](https://trueinterview.io/questions/e3077f6d-c663-5701-8372-4cd14485be37) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e3077f6d-c663-5701-8372-4cd14485be37) | Aug 2026 |
-| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2 | [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Aug 2026 |
 | **[Citadel](../companies/citadel.md)** | [Second Largest Distinct Value](https://trueinterview.io/questions/e94171d2-2436-5ce7-8c4f-ba711a9dc42b) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e94171d2-2436-5ce7-8c4f-ba711a9dc42b) | Aug 2026 |
 | **[Jane Street](../companies/jane-street.md)** | [Solve queue switch and coin change puzzles](https://trueinterview.io/questions/solve-queue-switch-and-coin-change-puzzles) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-queue-switch-and-coin-change-puzzles) | Aug 2026 |
 | **[Citadel](../companies/citadel.md)** | [Square and Reverse a List](https://trueinterview.io/questions/053a4fe5-1f9c-51b1-a965-6f9698ca8bcd) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/053a4fe5-1f9c-51b1-a965-6f9698ca8bcd) | Aug 2026 |
@@ -85,6 +84,7 @@
 | **[Citadel](../companies/citadel.md)** | [Design Inventory Availability and Order Placement](https://trueinterview.io/questions/design-inventory-availability-and-order-placement) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-inventory-availability-and-order-placement) | Jul 2026 |
 | **[Citadel](../companies/citadel.md)** | [External Merge Sort with a Heap](https://trueinterview.io/questions/565b03c7-1825-58a7-92d3-8c508446951d) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/565b03c7-1825-58a7-92d3-8c508446951d) | Jul 2026 |
 | **[Citadel](../companies/citadel.md)** | [Order Book Pair Coding](https://trueinterview.io/questions/order-book-pair-coding) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/order-book-pair-coding) | Jul 2026 |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2 | [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Jul 2026 |
 | **[Chicago Trading](../companies/chicago-trading.md)** | [Simple Moving Average over a Fixed-Size Sliding Window](https://trueinterview.io/questions/795e49f3-5449-5082-aee0-ffc2cfed1baa) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/795e49f3-5449-5082-aee0-ffc2cfed1baa) | Jul 2026 |
 | **[Chicago Trading](../companies/chicago-trading.md)** | [Simplified Producer-Consumer System with Thread-Safe Bounded Storage](https://trueinterview.io/questions/15eeeb4d-047a-5c82-b3f2-0fe0eb40fe1c) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/15eeeb4d-047a-5c82-b3f2-0fe0eb40fe1c) | Jul 2026 |
 | **[Chicago Trading](../companies/chicago-trading.md)** | [Smart Queue / Stock Quote Container](https://trueinterview.io/questions/dc9b15b6-587c-50f2-b57d-e78f195df65e) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/dc9b15b6-587c-50f2-b57d-e78f195df65e) | Jul 2026 |

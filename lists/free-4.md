@@ -6,7 +6,7 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**1,978 questions** · 1,516 at Senior/Staff+ · 476 reported in the last 90 days · 1,978 free to solve
+**1,978 questions** · 1,516 at Senior/Staff+ · 472 reported in the last 90 days · 1,978 free to solve
 
 **Companies:** [Meta (198)](../companies/meta.md) · [Amazon (170)](../companies/amazon.md) · [ByteDance (141)](../companies/bytedance.md) · [Google (126)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (103)](../companies/uber.md) · [Microsoft (73)](../companies/microsoft.md) · [Apple (72)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (49)](../companies/doordash.md) · [Goldman Sachs (43)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (36)](../companies/anthropic.md) · [Snapchat (34)](../companies/snapchat.md) · [Netflix (32)](../companies/netflix.md)
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Akuna Capital](../companies/akuna-capital.md)** | [Enemy Factory with Shared Instances](https://trueinterview.io/questions/enemy-factory-shared-instances) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/enemy-factory-shared-instances) | Nov 2, 2025 |
 | **[Meta](../companies/meta.md)** | [Which clustering algorithm would you use and why](https://trueinterview.io/questions/which-clustering-algorithm-would-you-use-and-why) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/which-clustering-algorithm-would-you-use-and-why) | Nov 2, 2025 |
 | **[Boston Consulting Group](../companies/boston-consulting-group.md)** | [Build and evaluate imbalanced binary classifier](https://trueinterview.io/questions/build-and-evaluate-imbalanced-binary-classifier) | OA | Mid · **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/build-and-evaluate-imbalanced-binary-classifier) | Nov 2025 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Check Output Correctness in Code](https://trueinterview.io/questions/d65899f8-0f93-47d6-9fd4-ca6ae30663bc) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/d65899f8-0f93-47d6-9fd4-ca6ae30663bc) | Nov 2025 |
@@ -419,5 +418,6 @@
 | **[Google](../companies/google.md)** | [Define and sample a truncated normal](https://trueinterview.io/questions/define-and-sample-a-truncated-normal) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/define-and-sample-a-truncated-normal) | — |
 | **[Capital One](../companies/capital-one.md)** | [Define and validate an airline profitability metric](https://trueinterview.io/questions/define-and-validate-an-airline-profitability-metric) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/define-and-validate-an-airline-profitability-metric) | — |
 | **[Meta](../companies/meta.md)** | [Define composite success for search and test it](https://trueinterview.io/questions/define-composite-success-for-search-and-test-it) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/define-composite-success-for-search-and-test-it) | — |
+| **[Uber](../companies/uber.md)** | [Define market-only rider experience metrics](https://trueinterview.io/questions/define-market-only-rider-experience-metrics) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/define-market-only-rider-experience-metrics) | — |
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · **4** · [5](free-5.md)</sub>

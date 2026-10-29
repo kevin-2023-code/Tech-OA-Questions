@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -17,10 +17,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Vanta](../companies/vanta.md)** | [RAG Q&A Chatbot — ML / AI Technical Deep Dive](https://trueinterview.io/questions/rag-chatbot-ml-design) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/rag-chatbot-ml-design) | Jul 10, 2026 |
-| **[Bloomberg](../companies/bloomberg.md)** | [Detect Duplicate Items Within a 60-Second Sliding Window](https://trueinterview.io/questions/e2b305b7-7113-5e3c-be3b-34b487f5cdb2) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e2b305b7-7113-5e3c-be3b-34b487f5cdb2) | Jul 9, 2026 |
-| **[Figma](../companies/figma.md)** | [Resize Stacked Rectangles — Distribute Height](https://trueinterview.io/questions/resize-rectangles-distribute-height) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/resize-rectangles-distribute-height) | Jul 9, 2026 |
-| **[Citadel](../companies/citadel.md)** / [Snapchat](../companies/snapchat.md) | [Metrics Collection & Alerting System](https://trueinterview.io/questions/metrics-alerting-system-design) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/metrics-alerting-system-design) | Jul 8, 2026 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [AI-Assisted Full-Stack Project Debugging](https://trueinterview.io/questions/ai-assisted-fullstack-oa) | OA | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/ai-assisted-fullstack-oa) | Jul 7, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Applied Science Manager Phone Screen — Project Deep-Dive + Leadership BQ](https://trueinterview.io/questions/asm-phone-screen-deep-dive-bq) | Phone | Manager | blog | [![Free][f]](https://trueinterview.io/questions/asm-phone-screen-deep-dive-bq) | Jul 7, 2026 |
 | **[Harvey](../companies/harvey.md)** | [Design Vault (Google Drive-Style File Storage)](https://trueinterview.io/questions/design-vault-google-drive-style-file-storage) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-vault-google-drive-style-file-storage) | Jul 7, 2026 |
@@ -199,6 +195,7 @@
 | **[Figma](../companies/figma.md)** | [Path Existence in Directed and Undirected Graphs with a Blocked Edge](https://trueinterview.io/questions/e7f7ba6c-551c-5ef7-9ccc-04f30e4aa149) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e7f7ba6c-551c-5ef7-9ccc-04f30e4aa149) | Jul 2026 |
 | **[Pinduoduo](../companies/pinduoduo.md)** | [Perfect Squares Decomposition](https://trueinterview.io/questions/e02cbe9e-e2f6-51fd-9ff0-a32899f4dd84) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e02cbe9e-e2f6-51fd-9ff0-a32899f4dd84) | Jul 2026 |
 | **[Visa](../companies/visa.md)** | [Perfect Substring](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Phone | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Jul 2026 |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2 | [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Jul 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Project Deep Dive](https://trueinterview.io/questions/project-deep-dive-3) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/project-deep-dive-3) | Jul 2026 |
 | **[Meta](../companies/meta.md)** | [Project Success and Conflict Resolution Experience Discussion](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Jul 2026 |
 | **[Lyft](../companies/lyft.md)** | [Project, Conflict, Failure, and DEI](https://trueinterview.io/questions/behavioral-project-conflict-and-dei) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/behavioral-project-conflict-and-dei) | Jul 2026 |
@@ -417,5 +414,8 @@
 | **[Expedia](../companies/expedia.md)** | [Count Strongly Connected Components Using Kosaraju's Algorithm](https://trueinterview.io/questions/39c75406-4316-5f40-ac80-844dccac3ba6) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/39c75406-4316-5f40-ac80-844dccac3ba6) | Jun 2026 |
 | **[Apple](../companies/apple.md)** | [Crafting a Compelling Job Transition and Motivation Response](https://trueinterview.io/questions/ebf5d768-7f3c-40dc-927c-477fe70eae77) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/ebf5d768-7f3c-40dc-927c-477fe70eae77) | Jun 2026 |
 | **[Sigmacomputing](../companies/sigmacomputing.md)** | [Create a Pivot Table](https://trueinterview.io/questions/caff0d1d-3ad9-47e0-91e8-90c5a734119f) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/caff0d1d-3ad9-47e0-91e8-90c5a734119f) | Jun 2026 |
+| **[Optiver](../companies/optiver.md)** | [Days Between Dates (Days Between 3.0 V2)](https://trueinterview.io/questions/a94f7865-5feb-4f9c-93aa-327909c70dd6) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a94f7865-5feb-4f9c-93aa-327909c70dd6) | Jun 2026 |
+| **[Instacart](../companies/instacart.md)** | [Debug the Library Dashboard Metrics (FastAPI)](https://trueinterview.io/questions/188b0a14-9295-5582-85d5-f77c1ac6826e) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/188b0a14-9295-5582-85d5-f77c1ac6826e) | Jun 2026 |
+| **[Tesla](../companies/tesla.md)** | [Describe conflict and proudest work](https://trueinterview.io/questions/describe-conflict-and-proudest-work) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-conflict-and-proudest-work) | Jun 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · **5** · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

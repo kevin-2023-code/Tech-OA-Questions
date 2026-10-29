@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,653 questions** · 1,427 at Senior/Staff+ · 729 reported in the last 90 days · 434 free to solve
+**2,653 questions** · 1,427 at Senior/Staff+ · 727 reported in the last 90 days · 434 free to solve
 
 **Rounds:** 📝 OA (589) · 📞 Phone (1,601) · 🏢 Onsite (659) · 🏠 Take-home (2)
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Affirm](../companies/affirm.md)** | [End Of Day Balance](https://trueinterview.io/questions/end-of-day-balance) | Onsite | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/end-of-day-balance) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Energy Crisis](https://trueinterview.io/questions/bd64beb0-36d0-4d3b-9dfe-063ea75dcdf4) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/bd64beb0-36d0-4d3b-9dfe-063ea75dcdf4) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Enumerate Fixed-Size Selections Preserving Array Order](https://trueinterview.io/questions/combinations-of-length-k) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/combinations-of-length-k) | — |
 | **[Citadel](../companies/citadel.md)** | [Estimate OLS via streaming sufficient statistics](https://trueinterview.io/questions/estimate-ols-via-streaming-sufficient-statistics) | Phone | **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/estimate-ols-via-streaming-sufficient-statistics) | — |
@@ -130,6 +129,7 @@
 | **[Datadog](../companies/datadog.md)** | [Maximum Points Collection in Maze Graph Game](https://trueinterview.io/questions/43f90ec3-73b8-4941-a623-cdff5c5a4882) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/43f90ec3-73b8-4941-a623-cdff5c5a4882) | — |
 | **[Ramp](../companies/ramp.md)** | [Maximum Profit from Unordered Stock Price Records](https://trueinterview.io/questions/522363cd-bdb8-5f9b-bfd8-86d74fb6f057) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/522363cd-bdb8-5f9b-bfd8-86d74fb6f057) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Maximum Score Taking Cards From Either End](https://trueinterview.io/questions/max-points-from-cards) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/max-points-from-cards) | — |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +4 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | — |
 | **[Citadel](../companies/citadel.md)** | [Medium Level Algorithm Question](https://trueinterview.io/questions/2b3416a8-5a91-4284-b9fa-e0cb6ee1768c) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/2b3416a8-5a91-4284-b9fa-e0cb6ee1768c) | — |
 | **[Google](../companies/google.md)** / [LinkedIn](../companies/linkedin.md) | [Meeting Rooms II](https://trueinterview.io/questions/ddc8534d-46e9-4b02-abec-60d33c956280) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/ddc8534d-46e9-4b02-abec-60d33c956280) | — |
 | **[WeRide](../companies/weride.md)** | [Meetup Schedule](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | — |

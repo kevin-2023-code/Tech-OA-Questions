@@ -114,7 +114,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Arista](arista.md) | — | 7 | 2 | — | — | Oct 2026 |
 | [Bobyard](bobyard.md) | — | 7 | 7 | — | — | Aug 2026 |
 | [Cursor](cursor.md) | 🧠 AI labs | 7 | 7 | — | — | Aug 2026 |
-| [GEICO](geico.md) | — | 7 | 6 | — | — | Aug 2026 |
+| [GEICO](geico.md) | — | 7 | 6 | — | — | Jul 2026 |
 | [Lead Bank](lead-bank.md) | — | 7 | 5 | — | — | Jul 2026 |
 | [Wayfair](wayfair.md) | — | 7 | 7 | — | — | Sep 2026 |
 | [Circle](circle.md) | — | 6 | 1 | — | — | May 2026 |

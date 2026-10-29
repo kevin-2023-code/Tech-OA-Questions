@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -17,7 +17,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Coinbase](../companies/coinbase.md)** | [Flappy-Bird-like Autopilot With Coins as Jump Budget](https://trueinterview.io/questions/bb1c3959-faaf-438a-b87a-d07fb13b9668) | OA | New grad | AI coding | [![Practice][p]](https://trueinterview.io/questions/bb1c3959-faaf-438a-b87a-d07fb13b9668) | Apr 2026 |
 | **[Databricks](../companies/databricks.md)** | [Grid pathfinding with time & cost optimality (BFS / shortest path variant)](https://trueinterview.io/questions/5ef47226-c611-4570-99aa-51ed22a3d12b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/5ef47226-c611-4570-99aa-51ed22a3d12b) | Apr 2026 |
 | **[Amazon](../companies/amazon.md)** | [Handle scope creep and teammate conflict](https://trueinterview.io/questions/handle-scope-creep-and-teammate-conflict) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/handle-scope-creep-and-teammate-conflict) | Apr 2026 |
 | **[DoorDash](../companies/doordash.md)** | [How would you mentor junior teammates?](https://trueinterview.io/questions/how-would-you-mentor-junior-teammates) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-mentor-junior-teammates) | Apr 2026 |
@@ -417,5 +416,6 @@
 | **[StackAdapt](../companies/stackadapt.md)** | [Windowed Map (Time-Windowed Key-Value Store) with O(1) Operations and Window Average](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/6dfaaed2-150f-436b-9d6d-d5977f06ec21) | Mar 2026 |
 | **[Harvey](../companies/harvey.md)** | [Word Level Match and Tagging](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Mar 2026 |
 | **[Meta](../companies/meta.md)** | [Check and infer custom alphabet](https://trueinterview.io/questions/check-and-infer-custom-alphabet) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/check-and-infer-custom-alphabet) | Feb 28, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Design a TinyURL-like short link service](https://trueinterview.io/questions/design-a-tinyurl-like-short-link-service) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-tinyurl-like-short-link-service) | Feb 28, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · **8** · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

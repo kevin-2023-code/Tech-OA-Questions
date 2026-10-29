@@ -8,7 +8,7 @@
 
 Real OA, phone-screen and onsite questions candidates reported at **OpenAI, Anthropic, C3.ai**, **Citadel, Two Sigma, Squarepoint**, **Meta, Amazon, Google** and 129 more — **every row tagged with the level and the round it was asked in.** Synced hourly.
 
-**5,924 questions** · **4,136 at Senior/Staff+** · **481 ML & research** · **287 quant** · 807 OA · 1,525 reported in the last 90 days · 1,978 free
+**5,924 questions** · **4,136 at Senior/Staff+** · **481 ML & research** · **287 quant** · 807 OA · 1,521 reported in the last 90 days · 1,978 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
@@ -232,7 +232,7 @@ What candidates said happened in the room — newest first, AI labs, quant firms
 | **Uber** | Software Engineer | **Senior** | [Uber Senior Software Engineer (L5A) Interview Experience (Bangalore, 2026)](https://trueinterview.io/interviews/034c4e7b-be81-45f1-be4c-6744948cded1) | Oct 29, 2026 |
 | **Uber** | Software Engineer | **Senior** | [Uber Senior Software Engineer (L5A) Interview Experience (Bangalore, 2026)](https://trueinterview.io/interviews/0f148731-7ee1-4b53-ad53-02e5e20ca10b) | Oct 29, 2026 |
 
-[**7,518 reports on the board →**](https://trueinterview.io/interviews)
+[**7,435 reports on the board →**](https://trueinterview.io/interviews)
 
 ## Why this list
 

@@ -6,7 +6,7 @@
 
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,698 questions** · 1,180 at Senior/Staff+ · 545 reported in the last 90 days · 572 free to solve
+**1,698 questions** · 1,180 at Senior/Staff+ · 543 reported in the last 90 days · 572 free to solve
 
 **Rounds:** 📝 OA (168) · 📞 Phone (877) · 🏢 Onsite (776) · 🏠 Take-home (1)
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Microsoft](../companies/microsoft.md)** | [Describe a recent innovation you delivered](https://trueinterview.io/questions/describe-a-recent-innovation-you-delivered) | OA | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/describe-a-recent-innovation-you-delivered) | Dec 17, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Explain hash map internals and edge cases](https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases) | OA | Mid | blog | [![Free][f]](https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases) | Dec 17, 2025 |
 | **[Apple](../companies/apple.md)** | [Solve stock and banana problems](https://trueinterview.io/questions/solve-stock-and-banana-problems) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-stock-and-banana-problems) | Dec 17, 2025 |
 | **[Meta](../companies/meta.md)** | [Answer four string/array/battery coding questions](https://trueinterview.io/questions/answer-four-string-array-battery-coding-questions) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/answer-four-string-array-battery-coding-questions) | Dec 16, 2025 |
@@ -410,6 +409,7 @@
 | **[Meta](../companies/meta.md)** | [Manage promotions and project portfolio tradeoffs](https://trueinterview.io/questions/manage-promotions-and-project-portfolio-tradeoffs) | Onsite | Manager | blog | [![Free][f]](https://trueinterview.io/questions/manage-promotions-and-project-portfolio-tradeoffs) | — |
 | **[Google](../companies/google.md)** | [Max Subarray Filled With Zeros](https://trueinterview.io/questions/b86bae80-9169-4a97-ad99-54516018ff73) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b86bae80-9169-4a97-ad99-54516018ff73) | — |
 | **[Microsoft](../companies/microsoft.md)** | [Maximize Edge Sum in Graph](https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4) | — |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +4 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | — |
 | **[Google](../companies/google.md)** | [Measure outage impact; choose fix vs build](https://trueinterview.io/questions/measure-outage-impact-choose-fix-vs-build) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-outage-impact-choose-fix-vs-build) | — |
 | **[Amazon](../companies/amazon.md)** | [Measure PMF for Alexa Shopping](https://trueinterview.io/questions/measure-pmf-for-alexa-shopping) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-pmf-for-alexa-shopping) | — |
 | **[Google](../companies/google.md)** / [LinkedIn](../companies/linkedin.md) | [Meeting Rooms II](https://trueinterview.io/questions/ddc8534d-46e9-4b02-abec-60d33c956280) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/ddc8534d-46e9-4b02-abec-60d33c956280) | — |

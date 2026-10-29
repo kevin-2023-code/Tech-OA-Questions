@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -17,7 +17,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[ByteDance](../companies/bytedance.md)** | [Design a TinyURL-like short link service](https://trueinterview.io/questions/design-a-tinyurl-like-short-link-service) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-tinyurl-like-short-link-service) | Feb 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Explain a promotion and key project impact](https://trueinterview.io/questions/explain-a-promotion-and-key-project-impact) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/explain-a-promotion-and-key-project-impact) | Feb 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [How do you assess database system stability?](https://trueinterview.io/questions/how-do-you-assess-database-system-stability) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/how-do-you-assess-database-system-stability) | Feb 28, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Split Stay Booking](https://trueinterview.io/questions/split-stay-availability-combinations) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/split-stay-availability-combinations) | Feb 28, 2026 |
@@ -417,5 +416,6 @@
 | **[Instacart](../companies/instacart.md)** | [Worker Attendance & Payroll](https://trueinterview.io/questions/oa-worker-attendance-payroll) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-worker-attendance-payroll) | Jan 26, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Compare Two Five-Card Numeric Hands](https://trueinterview.io/questions/compare-two-five-card-numeric-hands) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compare-two-five-card-numeric-hands) | Jan 25, 2026 |
 | **[Dropbox](../companies/dropbox.md)** | [Design a recursive distributed file crawler](https://trueinterview.io/questions/design-a-recursive-distributed-file-crawler) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-recursive-distributed-file-crawler) | Jan 25, 2026 |
+| **[Tesla](../companies/tesla.md)** | [Explain reliability and runtime fundamentals](https://trueinterview.io/questions/explain-reliability-and-runtime-fundamentals) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-reliability-and-runtime-fundamentals) | Jan 25, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · **9** · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

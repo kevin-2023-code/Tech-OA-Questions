@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,653 questions** · 1,427 at Senior/Staff+ · 729 reported in the last 90 days · 434 free to solve
+**2,653 questions** · 1,427 at Senior/Staff+ · 727 reported in the last 90 days · 434 free to solve
 
 **Rounds:** 📝 OA (589) · 📞 Phone (1,601) · 🏢 Onsite (659) · 🏠 Take-home (2)
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Amazon](../companies/amazon.md)** | [Find a valid dependency order](https://trueinterview.io/questions/find-a-valid-dependency-order) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-a-valid-dependency-order) | Feb 15, 2026 |
 | **[Roblox](../companies/roblox.md)** / [DoorDash](../companies/doordash.md) / [Meta](../companies/meta.md) | [Closest Binary Search Tree Value](https://trueinterview.io/questions/closest-binary-search-tree-value) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/closest-binary-search-tree-value) | Feb 13, 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Implement Plus One](https://trueinterview.io/questions/implement-plus-one) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-plus-one) | Feb 13, 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Maximize block fee with transaction selection](https://trueinterview.io/questions/maximize-block-fee-with-transaction-selection) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-block-fee-with-transaction-selection) | Feb 13, 2026 |
@@ -419,5 +418,6 @@
 | **[Google](../companies/google.md)** | [Find All Bad Pairs Using runTest Oracle](https://trueinterview.io/questions/find-bad-pairs-with-oracle) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-bad-pairs-with-oracle) | Nov 27, 2025 |
 | **[Google](../companies/google.md)** | [Two-Day Log Intersection under Memory Limit](https://trueinterview.io/questions/two-logs-intersection-memory-limit) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/two-logs-intersection-memory-limit) | Nov 27, 2025 |
 | **[ByteDance](../companies/bytedance.md)** | [Contiguous Subarray with Largest Min + Max](https://trueinterview.io/questions/largest-min-max-subarray) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/largest-min-max-subarray) | Nov 26, 2025 |
+| **[Databricks](../companies/databricks.md)** / [Salesforce](../companies/salesforce.md) / [Uber](../companies/uber.md) | [Maximal Square and Rectangle in Binary Matrix](https://trueinterview.io/questions/maximal-square-and-rectangle-in-binary-matrix) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximal-square-and-rectangle-in-binary-matrix) | Nov 26, 2025 |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · **5** · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -17,7 +17,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[WeRide](../companies/weride.md)** | [Checking Your Route](https://trueinterview.io/questions/ae7d5b11-bd0d-4a22-a180-25e970f557fa) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ae7d5b11-bd0d-4a22-a180-25e970f557fa) | — |
 | **[Cisco](../companies/cisco.md)** | [Chessboard Piece Placement with Opposite Color Constraints](https://trueinterview.io/questions/d4eb414f-978e-4cea-acc3-df07a404c79f) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/d4eb414f-978e-4cea-acc3-df07a404c79f) | — |
 | **[Google](../companies/google.md)** | [Choose a precise A/B test primary metric](https://trueinterview.io/questions/choose-a-precise-a-b-test-primary-metric) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/choose-a-precise-a-b-test-primary-metric) | — |
 | **[Meta](../companies/meta.md)** | [Choose alternatives when randomization fails](https://trueinterview.io/questions/choose-alternatives-when-randomization-fails) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/choose-alternatives-when-randomization-fails) | — |
@@ -417,5 +416,6 @@
 | **[Amazon](../companies/amazon.md)** | [Design Unix File Search](https://trueinterview.io/questions/design-unix-file-search) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-file-search) | — |
 | **[Yelp](../companies/yelp.md)** / [Uber](../companies/uber.md) | [Design Yelp](https://trueinterview.io/questions/design-yelp-2) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-yelp-2) | — |
 | **[Karat](../companies/karat.md)** | [Designing a Clinic Queue Notification System with Timeouts](https://trueinterview.io/questions/clinic-queue-notification-system) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/clinic-queue-notification-system) | — |
+| **[Karat](../companies/karat.md)** | [Designing an Experiment for a Video Like-Button Launch](https://trueinterview.io/questions/thumbs-up-feature-ab-test) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/thumbs-up-feature-ab-test) | — |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · **13** · [14](page-14.md) · [15](page-15.md)</sub>

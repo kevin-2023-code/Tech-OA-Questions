@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice GEICO on TrueInterview](https://trueinterview.io/problems/company/geico) · [How GEICO interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/geico/README.md)
 
-**7 questions** · Senior & Staff+ 6 · last reported Aug 2026
+**7 questions** · Senior & Staff+ 6 · last reported Jul 2026
 
 **Rounds:** 📝 OA (3) · 📞 Phone (4)
 
@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Microsoft](../companies/microsoft.md) / +1</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Aug 2026 |
+| [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Microsoft](../companies/microsoft.md) / +1</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Jul 2026 |
 | [Answer impact, disagreement, and motivation questions](https://trueinterview.io/questions/answer-impact-disagreement-and-motivation-questions) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/answer-impact-disagreement-and-motivation-questions) | May 2026 |
 | [Matrix Multiplication](https://trueinterview.io/questions/8873c68e-43b6-476d-be5f-36030a3aec82)<br><sub>also [Microsoft](../companies/microsoft.md) / [WeRide](../companies/weride.md)</sub> | OA | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/8873c68e-43b6-476d-be5f-36030a3aec82) | May 2026 |
 | [Airplane Seat Parsing and Availability Computation](https://trueinterview.io/questions/5520d3bb-3303-4d7d-a26a-92467abe119a) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/5520d3bb-3303-4d7d-a26a-92467abe119a) | Feb 2026 |

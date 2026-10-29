@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**807 questions** · 260 at Senior/Staff+ · 181 reported in the last 90 days · 218 free to solve
+**807 questions** · 260 at Senior/Staff+ · 180 reported in the last 90 days · 218 free to solve
 
 **By employer group:** 🧠 AI labs (39) · 📈 Quant firms (118) · 🏛️ MAANG+ (168)
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[DoorDash](../companies/doordash.md)** | [Describe handling conflict and a proud project](https://trueinterview.io/questions/describe-handling-conflict-and-a-proud-project) | OA | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-handling-conflict-and-a-proud-project) | Mar 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Design an API for pay computation with retries](https://trueinterview.io/questions/design-an-api-for-pay-computation-with-retries) | OA | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-api-for-pay-computation-with-retries) | Mar 2026 |
 | **[Ramp](../companies/ramp.md)** | [Frontend Hidden URL and React Wordle](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | Mar 2026 |
 | **[Ramp](../companies/ramp.md)** | [In-Memory Banking System (4 Levels)](https://trueinterview.io/questions/oa-banking-system) | OA | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-banking-system) | Mar 2026 |
@@ -368,6 +367,7 @@
 | **[Coinbase](../companies/coinbase.md)** | [Longest Consecutive Character in String](https://trueinterview.io/questions/ae5833c1-2569-4d9e-ae07-7087514da7f6) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ae5833c1-2569-4d9e-ae07-7087514da7f6) | — |
 | **[Microsoft](../companies/microsoft.md)** | [Maximize Edge Sum in Graph](https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Maximize products bought under budget](https://trueinterview.io/questions/maximize-products-bought-under-budget) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-products-bought-under-budget) | — |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +4 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | — |
 | **[Capital One](../companies/capital-one.md)** | [Merge ad CSVs and compute CTR](https://trueinterview.io/questions/merge-ad-csvs-and-compute-ctr) | OA | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/merge-ad-csvs-and-compute-ctr) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Min Cost to Complete All Projects](https://trueinterview.io/questions/08ff536a-d720-46c5-be65-d1ae3443bead) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/08ff536a-d720-46c5-be65-d1ae3443bead) | — |
 | **[Block](../companies/block.md)** | [Minesweeper Board Generation](https://trueinterview.io/questions/a0eccf02-13b4-4c9b-a2ac-69c127f7cc18) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a0eccf02-13b4-4c9b-a2ac-69c127f7cc18) | — |

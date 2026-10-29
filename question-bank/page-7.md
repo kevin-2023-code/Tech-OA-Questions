@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -17,9 +17,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Capital One](../companies/capital-one.md)** / [WeRide](../companies/weride.md) | [Reorder a Singly Linked List in L0→Ln→L1→Ln-1… Order](https://trueinterview.io/questions/e27d7596-6980-4345-a298-499dd7bbad87) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e27d7596-6980-4345-a298-499dd7bbad87) | May 2026 |
-| **[Amazon](../companies/amazon.md)** | [Replace tokens in a string using delimiter-based key-value rules](https://trueinterview.io/questions/901b3947-032c-4b3b-9e08-90eb36b9d95b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/901b3947-032c-4b3b-9e08-90eb36b9d95b) | May 2026 |
-| **[Snowflake](../companies/snowflake.md)** | [Root Equals Average of All Subtrees](https://trueinterview.io/questions/aaea0cb6-4ce4-4788-a014-8b1c1f507bd9) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aaea0cb6-4ce4-4788-a014-8b1c1f507bd9) | May 2026 |
 | **[Apple](../companies/apple.md)** | [Search a 2D Matrix](https://trueinterview.io/questions/search-a-2d-matrix) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/search-a-2d-matrix) | May 2026 |
 | **[Microsoft AI](../companies/microsoft-ai.md)** / [Microsoft](../companies/microsoft.md) | [Segment Sequence Reconstruction](https://trueinterview.io/questions/segment-sequence-reconstruction-2) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/segment-sequence-reconstruction-2) | May 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Show culture add at Coinbase](https://trueinterview.io/questions/show-culture-add-at-coinbase) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/show-culture-add-at-coinbase) | May 2026 |
@@ -134,6 +131,8 @@
 | **[OpenAI](../companies/openai.md)** | [Convert IPv4 Ranges to CIDR Blocks](https://trueinterview.io/questions/convert-ipv4-ranges-to-cidr-blocks) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/convert-ipv4-ranges-to-cidr-blocks) | Apr 22, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Copy Neighbor Sums Between Binary Trees](https://trueinterview.io/questions/copy-neighbor-sums-between-binary-trees) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/copy-neighbor-sums-between-binary-trees) | Apr 22, 2026 |
 | **[Meta](../companies/meta.md)** / [Microsoft](../companies/microsoft.md) | [Design Ticket Booking System](https://trueinterview.io/questions/system-design-ticketmaster) | Onsite | Mid · **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-ticketmaster) | Apr 22, 2026 |
+| **[Squarepoint](../companies/squarepoint.md)** | [Evaluate Linear Regression Assumptions and Fit Three Points](https://trueinterview.io/questions/evaluate-linear-regression-assumptions-and-fit-three-points) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-linear-regression-assumptions-and-fit-three-points) | Apr 22, 2026 |
+| **[Squarepoint](../companies/squarepoint.md)** | [Find the Correlation Between Two Die-Face Counts](https://trueinterview.io/questions/find-the-correlation-between-two-die-face-counts) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/find-the-correlation-between-two-die-face-counts) | Apr 22, 2026 |
 | **[Intuit](../companies/intuit.md)** | [Pandas Meeting Work-Duration Calculation](https://trueinterview.io/questions/pandas-meeting-work-duration) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/pandas-meeting-work-duration) | Apr 22, 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Project Deep Dive and Paper Presentation](https://trueinterview.io/questions/project-deep-dive-and-paper-presentation) | Phone · Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/project-deep-dive-and-paper-presentation) | Apr 22, 2026 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [URL Shortener With Click Tracking](https://trueinterview.io/questions/url-shortener-with-click-tracking) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/url-shortener-with-click-tracking) | Apr 22, 2026 |
@@ -417,5 +416,6 @@
 | **[Meta](../companies/meta.md)** / [DoorDash](../companies/doordash.md) | [Find Peak Element](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Apr 2026 |
 | **[Roblox](../companies/roblox.md)** | [Find the Most Frequent Log Call](https://trueinterview.io/questions/find-the-most-frequent-log-call) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-most-frequent-log-call) | Apr 2026 |
 | **[Meta](../companies/meta.md)** | [Fix an AI-generated query and address data quality issues](https://trueinterview.io/questions/01f555c7-1416-450a-9bff-c393859356bd) | Onsite | **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/01f555c7-1416-450a-9bff-c393859356bd) | Apr 2026 |
+| **[Coinbase](../companies/coinbase.md)** | [Flappy-Bird-like Autopilot With Coins as Jump Budget](https://trueinterview.io/questions/bb1c3959-faaf-438a-b87a-d07fb13b9668) | OA | New grad | AI coding | [![Practice][p]](https://trueinterview.io/questions/bb1c3959-faaf-438a-b87a-d07fb13b9668) | Apr 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · **7** · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,653 questions** · 1,427 at Senior/Staff+ · 729 reported in the last 90 days · 434 free to solve
+**2,653 questions** · 1,427 at Senior/Staff+ · 727 reported in the last 90 days · 434 free to solve
 
 **Rounds:** 📝 OA (589) · 📞 Phone (1,601) · 🏢 Onsite (659) · 🏠 Take-home (2)
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Capital One](../companies/capital-one.md)** | [Beautify Houses to Strict Monotone](https://trueinterview.io/questions/beautify-houses-monotone) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/beautify-houses-monotone) | Apr 25, 2026 |
 | **[IBM](../companies/ibm.md)** | [Count 3^x * 5^y Numbers and Decreasing Subarrays](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | Apr 25, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Cumulative Views Reach Target Day](https://trueinterview.io/questions/cumulative-views-target-day) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/cumulative-views-target-day) | Apr 25, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Repeated Leading-Nonzero Subtraction](https://trueinterview.io/questions/repeated-subtraction-zeroing) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/repeated-subtraction-zeroing) | Apr 25, 2026 |
@@ -419,5 +418,6 @@
 | **[Snowflake](../companies/snowflake.md)** / [ByteDance](../companies/bytedance.md) | [N-Queens](https://trueinterview.io/questions/n-queens) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/n-queens) | Feb 16, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Solve Cache, Window, and Heap Problems](https://trueinterview.io/questions/solve-cache-window-and-heap-problems) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-cache-window-and-heap-problems) | Feb 16, 2026 |
 | **[Nuro](../companies/nuro.md)** | [Check Vertical Reflection Symmetry with Duplicate Points](https://trueinterview.io/questions/check-vertical-reflection-symmetry-with-duplicate-points) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/check-vertical-reflection-symmetry-with-duplicate-points) | Feb 15, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Find a valid dependency order](https://trueinterview.io/questions/find-a-valid-dependency-order) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-a-valid-dependency-order) | Feb 15, 2026 |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · **4** · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>

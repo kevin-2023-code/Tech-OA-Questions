@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,653 questions** · 1,427 at Senior/Staff+ · 729 reported in the last 90 days · 434 free to solve
+**2,653 questions** · 1,427 at Senior/Staff+ · 727 reported in the last 90 days · 434 free to solve
 
 **Rounds:** 📝 OA (589) · 📞 Phone (1,601) · 🏢 Onsite (659) · 🏠 Take-home (2)
 
@@ -376,7 +376,6 @@
 | **[Waymo](../companies/waymo.md)** | [Minimize Total Grid Distance to Every Building](https://trueinterview.io/questions/minimize-total-grid-distance-to-every-building) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimize-total-grid-distance-to-every-building) | Sep 2026 |
 | **[Citadel](../companies/citadel.md)** | [Minimum Changes for Every Length-K Substring to Be a Palindrome](https://trueinterview.io/questions/e177ccb7-1580-508a-a95e-14b16aaea032) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/e177ccb7-1580-508a-a95e-14b16aaea032) | Sep 2026 |
 | **[Ramp](../companies/ramp.md)** / [Citadel](../companies/citadel.md) | [Minimum Changes to Make a K-Periodic Palindromic Password](https://trueinterview.io/questions/bc2b4789-0bab-59f3-a051-d98e93c72e03) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/bc2b4789-0bab-59f3-a051-d98e93c72e03) | Sep 2026 |
-| **[Citadel](../companies/citadel.md)** / [Ramp](../companies/ramp.md) | [Minimum Changes to Make Every Block a Palindrome](https://trueinterview.io/questions/c2284735-21ac-5eb1-aa2e-ffd7004334d7) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/c2284735-21ac-5eb1-aa2e-ffd7004334d7) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Minimum Conflicts in Merging Two Branches](https://trueinterview.io/questions/b8150658-07b4-4d2d-a1de-6fa127801b90) | Phone | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b8150658-07b4-4d2d-a1de-6fa127801b90) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Minimum Edge Moves to Connect a Graph](https://trueinterview.io/questions/9f5e5a76-c43a-54fe-9d99-d0966ec173fa) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/9f5e5a76-c43a-54fe-9d99-d0966ec173fa) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Minimum Length Substring](https://trueinterview.io/questions/c7a9cd29-a095-51b6-892b-70df2898ff3f) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c7a9cd29-a095-51b6-892b-70df2898ff3f) | Sep 2026 |
@@ -419,5 +418,6 @@
 | **[Microsoft](../companies/microsoft.md)** / [ByteDance](../companies/bytedance.md) | [Reverse a Linked List](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | Sep 2026 |
 | **[Google](../companies/google.md)** | [Safest Path for a Mouse in a Grid](https://trueinterview.io/questions/e49bdfbd-e04d-5050-b845-36c25c840f44) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e49bdfbd-e04d-5050-b845-36c25c840f44) | Sep 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [Serialize and Deserialize Binary Tree](https://trueinterview.io/questions/serialize-and-deserialize-binary-tree) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/serialize-and-deserialize-binary-tree) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** | [Service Shutdown / Topological Sort](https://trueinterview.io/questions/service-shutdown-topological-sort) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/service-shutdown-topological-sort) | Sep 2026 |
 
 <sub>Page **1** · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>

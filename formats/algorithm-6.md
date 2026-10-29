@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,653 questions** · 1,427 at Senior/Staff+ · 729 reported in the last 90 days · 434 free to solve
+**2,653 questions** · 1,427 at Senior/Staff+ · 727 reported in the last 90 days · 434 free to solve
 
 **Rounds:** 📝 OA (589) · 📞 Phone (1,601) · 🏢 Onsite (659) · 🏠 Take-home (2)
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Databricks](../companies/databricks.md)** / [Salesforce](../companies/salesforce.md) / [Uber](../companies/uber.md) | [Maximal Square and Rectangle in Binary Matrix](https://trueinterview.io/questions/maximal-square-and-rectangle-in-binary-matrix) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximal-square-and-rectangle-in-binary-matrix) | Nov 26, 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Efficient Tasks / Three-Server Difficulty Split](https://trueinterview.io/questions/efficient-tasks-three-server-difficulty) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/efficient-tasks-three-server-difficulty) | Nov 25, 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Transaction Segments / Increasing Subarrays of Length K](https://trueinterview.io/questions/transaction-segments-increasing-subarrays) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/transaction-segments-increasing-subarrays) | Nov 25, 2025 |
 | **[Oracle](../companies/oracle.md)** | [Circular Prime Number Check](https://trueinterview.io/questions/circular-prime-number-check) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/circular-prime-number-check) | Nov 24, 2025 |
@@ -419,5 +418,6 @@
 | **[Karat](../companies/karat.md)** | [Earliest and Latest Access per User From a Raw Log](https://trueinterview.io/questions/user-first-last-access-times) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/user-first-last-access-times) | — |
 | **[Tradedesk](../companies/tradedesk.md)** | [Earn the Most](https://trueinterview.io/questions/de01d1f2-f8dc-44ab-a3ac-256f97bf946b) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/de01d1f2-f8dc-44ab-a3ac-256f97bf946b) | — |
 | **[Stripe](../companies/stripe.md)** | [Email Time Update Problem](https://trueinterview.io/questions/2ada198e-0cfe-4fea-9e44-c5737c04b3f8) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/2ada198e-0cfe-4fea-9e44-c5737c04b3f8) | — |
+| **[Affirm](../companies/affirm.md)** | [End Of Day Balance](https://trueinterview.io/questions/end-of-day-balance) | Onsite | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/end-of-day-balance) | — |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · **6** · [7](algorithm-7.md)</sub>

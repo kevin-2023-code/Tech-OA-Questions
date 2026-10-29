@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -17,9 +17,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Optiver](../companies/optiver.md)** | [Days Between Dates (Days Between 3.0 V2)](https://trueinterview.io/questions/a94f7865-5feb-4f9c-93aa-327909c70dd6) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a94f7865-5feb-4f9c-93aa-327909c70dd6) | Jun 2026 |
-| **[Instacart](../companies/instacart.md)** | [Debug the Library Dashboard Metrics (FastAPI)](https://trueinterview.io/questions/188b0a14-9295-5582-85d5-f77c1ac6826e) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/188b0a14-9295-5582-85d5-f77c1ac6826e) | Jun 2026 |
-| **[Tesla](../companies/tesla.md)** | [Describe conflict and proudest work](https://trueinterview.io/questions/describe-conflict-and-proudest-work) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-conflict-and-proudest-work) | Jun 2026 |
 | **[Google](../companies/google.md)** | [Describe conflict resolution and stakeholder management](https://trueinterview.io/questions/describe-conflict-resolution-and-stakeholder-management) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-conflict-resolution-and-stakeholder-management) | Jun 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Describe failure impact and resolve cross-functional conflict](https://trueinterview.io/questions/describe-failure-impact-and-resolve-cross-functional-conflict) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-failure-impact-and-resolve-cross-functional-conflict) | Jun 2026 |
 | **[Rippling](../companies/rippling.md)** / [Snapchat](../companies/snapchat.md) | [Design a News Aggregation Feed](https://trueinterview.io/questions/design-a-news-aggregation-feed) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-news-aggregation-feed) | Jun 2026 |
@@ -417,5 +414,8 @@
 | **[Uber](../companies/uber.md)** | [React Parking Lot System](https://trueinterview.io/questions/893e8e44-58d9-4d46-80c6-fecceb6d3b43) | Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/893e8e44-58d9-4d46-80c6-fecceb6d3b43) | May 2026 |
 | **[Google](../companies/google.md)** | [Recommend top-K movies from similarity graph](https://trueinterview.io/questions/recommend-top-k-movies-from-similarity-graph) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/recommend-top-k-movies-from-similarity-graph) | May 2026 |
 | **[Reddit](../companies/reddit.md)** | [Reconstruct Billing Status](https://trueinterview.io/questions/billing-status-replay-ood) | Phone · Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/billing-status-replay-ood) | May 2026 |
+| **[Capital One](../companies/capital-one.md)** / [WeRide](../companies/weride.md) | [Reorder a Singly Linked List in L0→Ln→L1→Ln-1… Order](https://trueinterview.io/questions/e27d7596-6980-4345-a298-499dd7bbad87) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e27d7596-6980-4345-a298-499dd7bbad87) | May 2026 |
+| **[Amazon](../companies/amazon.md)** | [Replace tokens in a string using delimiter-based key-value rules](https://trueinterview.io/questions/901b3947-032c-4b3b-9e08-90eb36b9d95b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/901b3947-032c-4b3b-9e08-90eb36b9d95b) | May 2026 |
+| **[Snowflake](../companies/snowflake.md)** | [Root Equals Average of All Subtrees](https://trueinterview.io/questions/aaea0cb6-4ce4-4788-a014-8b1c1f507bd9) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aaea0cb6-4ce4-4788-a014-8b1c1f507bd9) | May 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · **6** · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

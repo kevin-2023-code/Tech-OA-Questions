@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,136 questions** · 2,250 at Senior/Staff+ · 814 reported in the last 90 days · 1,130 free to solve
+**3,136 questions** · 2,250 at Senior/Staff+ · 811 reported in the last 90 days · 1,130 free to solve
 
 **By employer group:** 🧠 AI labs (264) · 📈 Quant firms (205) · 🏛️ MAANG+ (877)
 
@@ -19,8 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Oscar Health](../companies/oscar-health.md)** | [Decode Morse Code to All Possible Original Strings](https://trueinterview.io/questions/93be479d-c2bc-46b0-9f1f-36d31c30bfb6) | Phone | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/93be479d-c2bc-46b0-9f1f-36d31c30bfb6) | May 2026 |
-| **[Amazon](../companies/amazon.md)** | [Demonstrate invent-and-simplify and customer communication](https://trueinterview.io/questions/demonstrate-invent-and-simplify-and-customer-communication) | Phone | Intern · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-invent-and-simplify-and-customer-communication) | May 2026 |
 | **[OpenAI](../companies/openai.md)** | [Dependency Version Check](https://trueinterview.io/questions/dependency-version-check) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/dependency-version-check) | May 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Describe cross-team collaboration on past projects](https://trueinterview.io/questions/describe-cross-team-collaboration-on-past-projects) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-cross-team-collaboration-on-past-projects) | May 2026 |
 | **[Amazon](../companies/amazon.md)** | [Describe handling deadlines, pride, and conflict](https://trueinterview.io/questions/describe-handling-deadlines-pride-and-conflict) | Phone | Intern | blog | [![Free][f]](https://trueinterview.io/questions/describe-handling-deadlines-pride-and-conflict) | May 2026 |
@@ -132,6 +130,8 @@
 | **[Meta](../companies/meta.md)** | [Minimum Add to Make Parentheses Valid II](https://trueinterview.io/questions/minimum-add-to-make-valid-parens) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-add-to-make-valid-parens) | Apr 23, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Convert IPv4 Ranges to CIDR Blocks](https://trueinterview.io/questions/convert-ipv4-ranges-to-cidr-blocks) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/convert-ipv4-ranges-to-cidr-blocks) | Apr 22, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Copy Neighbor Sums Between Binary Trees](https://trueinterview.io/questions/copy-neighbor-sums-between-binary-trees) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/copy-neighbor-sums-between-binary-trees) | Apr 22, 2026 |
+| **[Squarepoint](../companies/squarepoint.md)** | [Evaluate Linear Regression Assumptions and Fit Three Points](https://trueinterview.io/questions/evaluate-linear-regression-assumptions-and-fit-three-points) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-linear-regression-assumptions-and-fit-three-points) | Apr 22, 2026 |
+| **[Squarepoint](../companies/squarepoint.md)** | [Find the Correlation Between Two Die-Face Counts](https://trueinterview.io/questions/find-the-correlation-between-two-die-face-counts) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/find-the-correlation-between-two-die-face-counts) | Apr 22, 2026 |
 | **[Intuit](../companies/intuit.md)** | [Pandas Meeting Work-Duration Calculation](https://trueinterview.io/questions/pandas-meeting-work-duration) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/pandas-meeting-work-duration) | Apr 22, 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Project Deep Dive and Paper Presentation](https://trueinterview.io/questions/project-deep-dive-and-paper-presentation) | Phone · Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/project-deep-dive-and-paper-presentation) | Apr 22, 2026 |
 | **[Ramp](../companies/ramp.md)** | [Find an Exit in a URL Maze](https://trueinterview.io/questions/find-an-exit-in-a-url-maze) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-an-exit-in-a-url-maze) | Apr 21, 2026 |

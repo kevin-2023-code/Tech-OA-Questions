@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -17,7 +17,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Karat](../companies/karat.md)** | [Designing an Experiment for a Video Like-Button Launch](https://trueinterview.io/questions/thumbs-up-feature-ab-test) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/thumbs-up-feature-ab-test) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Designing GPT-2 Prompts Using Given Keywords](https://trueinterview.io/questions/147c9781-846f-407b-a3e9-cb2f61ae898d) | Onsite | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/147c9781-846f-407b-a3e9-cb2f61ae898d) | — |
 | **[Disney](../companies/disney.md)** | [Designing Product Browsing and Faceted Search for an Online Store](https://trueinterview.io/questions/ecommerce-browse-and-search-design) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/ecommerce-browse-and-search-design) | — |
 | **[Visa](../companies/visa.md)** | [Designing Real-Time Instant Messaging Application with Media Support](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | — |
@@ -377,6 +376,7 @@
 | **[Datadog](../companies/datadog.md)** | [Maximum Points Collection in Maze Graph Game](https://trueinterview.io/questions/43f90ec3-73b8-4941-a623-cdff5c5a4882) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/43f90ec3-73b8-4941-a623-cdff5c5a4882) | — |
 | **[Ramp](../companies/ramp.md)** | [Maximum Profit from Unordered Stock Price Records](https://trueinterview.io/questions/522363cd-bdb8-5f9b-bfd8-86d74fb6f057) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/522363cd-bdb8-5f9b-bfd8-86d74fb6f057) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Maximum Score Taking Cards From Either End](https://trueinterview.io/questions/max-points-from-cards) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/max-points-from-cards) | — |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +4 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | — |
 | **[Google](../companies/google.md)** | [Measure outage impact; choose fix vs build](https://trueinterview.io/questions/measure-outage-impact-choose-fix-vs-build) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-outage-impact-choose-fix-vs-build) | — |
 | **[Amazon](../companies/amazon.md)** | [Measure PMF for Alexa Shopping](https://trueinterview.io/questions/measure-pmf-for-alexa-shopping) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/measure-pmf-for-alexa-shopping) | — |
 | **[Uber](../companies/uber.md)** | [Measure rider incentive causal ROI](https://trueinterview.io/questions/measure-rider-incentive-causal-roi) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/measure-rider-incentive-causal-roi) | — |

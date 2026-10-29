@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -62,7 +62,6 @@
 | **[Waymo](../companies/waymo.md)** | [Minimize Total Grid Distance to Every Building](https://trueinterview.io/questions/minimize-total-grid-distance-to-every-building) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/minimize-total-grid-distance-to-every-building) | Sep 2026 |
 | **[Citadel](../companies/citadel.md)** | [Minimum Changes for Every Length-K Substring to Be a Palindrome](https://trueinterview.io/questions/e177ccb7-1580-508a-a95e-14b16aaea032) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/e177ccb7-1580-508a-a95e-14b16aaea032) | Sep 2026 |
 | **[Ramp](../companies/ramp.md)** / [Citadel](../companies/citadel.md) | [Minimum Changes to Make a K-Periodic Palindromic Password](https://trueinterview.io/questions/bc2b4789-0bab-59f3-a051-d98e93c72e03) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/bc2b4789-0bab-59f3-a051-d98e93c72e03) | Sep 2026 |
-| **[Citadel](../companies/citadel.md)** / [Ramp](../companies/ramp.md) | [Minimum Changes to Make Every Block a Palindrome](https://trueinterview.io/questions/c2284735-21ac-5eb1-aa2e-ffd7004334d7) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/c2284735-21ac-5eb1-aa2e-ffd7004334d7) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Minimum Conflicts in Merging Two Branches](https://trueinterview.io/questions/b8150658-07b4-4d2d-a1de-6fa127801b90) | Phone | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b8150658-07b4-4d2d-a1de-6fa127801b90) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Minimum Edge Moves to Connect a Graph](https://trueinterview.io/questions/9f5e5a76-c43a-54fe-9d99-d0966ec173fa) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/9f5e5a76-c43a-54fe-9d99-d0966ec173fa) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Minimum Length Substring](https://trueinterview.io/questions/c7a9cd29-a095-51b6-892b-70df2898ff3f) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c7a9cd29-a095-51b6-892b-70df2898ff3f) | Sep 2026 |
@@ -417,5 +416,6 @@
 | **[ByteDance](../companies/bytedance.md)** / [Bobyard](../companies/bobyard.md) | [Build a Nested Comment Tree from Flat Records](https://trueinterview.io/questions/build-nested-comment-tree) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/build-nested-comment-tree) | Aug 13, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Cumulative Purchases by Product Type](https://trueinterview.io/questions/cumulative-purchases-by-product-type) | Phone | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/cumulative-purchases-by-product-type) | Aug 13, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Evaluate a Migration from MySQL to MongoDB](https://trueinterview.io/questions/evaluate-a-migration-from-mysql-to-mongodb) | Phone | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/evaluate-a-migration-from-mysql-to-mongodb) | Aug 13, 2026 |
+| **[Google](../companies/google.md)** | [Research Paper Presentation and Defense (DeepMind RS)](https://trueinterview.io/questions/deepmind-rs-paper-presentation-defense) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/deepmind-rs-paper-presentation-defense) | Aug 13, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · **3** · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

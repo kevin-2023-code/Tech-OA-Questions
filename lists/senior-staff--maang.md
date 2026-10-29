@@ -8,7 +8,7 @@
 >
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,180 questions** · 1,180 at Senior/Staff+ · 321 reported in the last 90 days · 463 free to solve
+**1,180 questions** · 1,180 at Senior/Staff+ · 320 reported in the last 90 days · 463 free to solve
 
 **Rounds:** 📝 OA (50) · 📞 Phone (613) · 🏢 Onsite (611) · 🏠 Take-home (1)
 
@@ -323,7 +323,6 @@
 | **[Google](../companies/google.md)** | [Partition Numbers by Distinct Frequencies](https://trueinterview.io/questions/288aa01a-6399-551f-a549-1c3aaa1ce231) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/288aa01a-6399-551f-a549-1c3aaa1ce231) | Aug 2026 |
 | **[Google](../companies/google.md)** | [Permutations II](https://trueinterview.io/questions/b6747ed0-abbd-562b-9c62-8203b7c69d06) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/b6747ed0-abbd-562b-9c62-8203b7c69d06) | Aug 2026 |
 | **[Meta](../companies/meta.md)** / [LinkedIn](../companies/linkedin.md) | [Pow(x, n)](https://trueinterview.io/questions/pow-x-n) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/pow-x-n) | Aug 2026 |
-| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2 | [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Aug 2026 |
 | **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) | [Random Pick with Weight](https://trueinterview.io/questions/random-pick-with-weight) | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/random-pick-with-weight) | Aug 2026 |
 | **[Google](../companies/google.md)** / [NVIDIA](../companies/nvidia.md) | [Return Unique Three-Sum Value Triples](https://trueinterview.io/questions/return-unique-three-sum-value-triples) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/return-unique-three-sum-value-triples) | Aug 2026 |
 | **[Snapchat](../companies/snapchat.md)** / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +4 | [Search from the end in a sorted array (variant)](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb) | Aug 2026 |
@@ -388,6 +387,7 @@
 | **[Meta](../companies/meta.md)** | [Merge Three or N Sorted Lists Efficiently and Analyze Complexity](https://trueinterview.io/questions/4becbb35-63a3-4da1-8235-afd0a9bba30d) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/4becbb35-63a3-4da1-8235-afd0a9bba30d) | Jul 2026 |
 | **[Uber](../companies/uber.md)** / [Meta](../companies/meta.md) / [Salesforce](../companies/salesforce.md) | [Minimum Knight Moves](https://trueinterview.io/questions/minimum-knight-moves) | OA | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-knight-moves) | Jul 2026 |
 | **[Amazon](../companies/amazon.md)** | [ML Breadth Orals — Linear / Logistic / Random Forest / Optimizers](https://trueinterview.io/questions/as-ml-breadth-orals) | Phone · Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/as-ml-breadth-orals) | Jul 2026 |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2 | [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Jul 2026 |
 | **[Meta](../companies/meta.md)** | [Project Success and Conflict Resolution Experience Discussion](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/03c246e8-c1a4-47b1-b1bd-5c212e569288) | Jul 2026 |
 | **[Meta](../companies/meta.md)** | [Round-Trip Minimum Price](https://trueinterview.io/questions/06966bea-c7df-4954-a767-3dc378714b6d) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/06966bea-c7df-4954-a767-3dc378714b6d) | Jul 2026 |
 | **[Meta](../companies/meta.md)** | [Simplify Absolute Unix File Path with Current Directory](https://trueinterview.io/questions/db364690-0052-4d96-b03d-647b30e84110) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/db364690-0052-4d96-b03d-647b30e84110) | Jul 2026 |

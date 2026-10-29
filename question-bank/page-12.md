@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -17,7 +17,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[DoorDash](../companies/doordash.md)** | [Find closest value to a target in a BST](https://trueinterview.io/questions/find-closest-value-to-a-target-in-a-bst) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-closest-value-to-a-target-in-a-bst) | Oct 17, 2025 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Palindrome Stream Tracker](https://trueinterview.io/questions/palindrome-stream-tracker) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/palindrome-stream-tracker) | Oct 17, 2025 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Design File Search Tool](https://trueinterview.io/questions/design-file-search-tool) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/design-file-search-tool) | Oct 16, 2025 |
 | **[Meta](../companies/meta.md)** | [How would you design Shop-ad ranking?](https://trueinterview.io/questions/how-would-you-design-shop-ad-ranking) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/how-would-you-design-shop-ad-ranking) | Oct 16, 2025 |
@@ -417,5 +416,6 @@
 | **[Meta](../companies/meta.md)** | [Characterize metric distribution and quantiles](https://trueinterview.io/questions/characterize-metric-distribution-and-quantiles) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/characterize-metric-distribution-and-quantiles) | — |
 | **[Disney](../companies/disney.md)** | [Check Reachability Between Two Graph Nodes](https://trueinterview.io/questions/graph-path-exists-bfs) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/graph-path-exists-bfs) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Check Whether a Binary Tree Obeys Search-Tree Ordering](https://trueinterview.io/questions/validate-bst) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-bst) | — |
+| **[WeRide](../companies/weride.md)** | [Checking Your Route](https://trueinterview.io/questions/ae7d5b11-bd0d-4a22-a180-25e970f557fa) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ae7d5b11-bd0d-4a22-a180-25e970f557fa) | — |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · **12** · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

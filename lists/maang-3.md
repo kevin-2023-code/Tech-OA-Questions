@@ -6,7 +6,7 @@
 
 > **Where:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,698 questions** · 1,180 at Senior/Staff+ · 545 reported in the last 90 days · 572 free to solve
+**1,698 questions** · 1,180 at Senior/Staff+ · 543 reported in the last 90 days · 572 free to solve
 
 **Rounds:** 📝 OA (168) · 📞 Phone (877) · 🏢 Onsite (776) · 🏠 Take-home (1)
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Meta](../companies/meta.md)** | [Remove Invalid Parentheses Minimally](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup-remove-invalid-parentheses-minimally) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup-remove-invalid-parentheses-minimally) | Apr 29, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Science Application (Ambiguous Problem)](https://trueinterview.io/questions/science-application-ambiguous-problem) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/science-application-ambiguous-problem) | Apr 29, 2026 |
 | **[Amazon](../companies/amazon.md)** / [Pinterest](../companies/pinterest.md) | [Search / Ranking / Experimentation](https://trueinterview.io/questions/as-ml-system-design-search-ranking) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/as-ml-system-design-search-ranking) | Apr 29, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve Array Merge and Parentheses Cleanup](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Apr 29, 2026 |
@@ -421,5 +420,6 @@
 | **[Amazon](../companies/amazon.md)** | [How would you test a price increase?](https://trueinterview.io/questions/how-would-you-test-a-price-increase) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/how-would-you-test-a-price-increase) | Dec 20, 2025 |
 | **[Apple](../companies/apple.md)** | [Apple News Search Without ML](https://trueinterview.io/questions/apple-news-search-without-ml) | Phone · Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/apple-news-search-without-ml) | Dec 18, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Debug distributed-system performance problems](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | OA | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | Dec 17, 2025 |
+| **[Microsoft](../companies/microsoft.md)** | [Describe a recent innovation you delivered](https://trueinterview.io/questions/describe-a-recent-innovation-you-delivered) | OA | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/describe-a-recent-innovation-you-delivered) | Dec 17, 2025 |
 
 <sub>Page [1](maang.md) · [2](maang-2.md) · **3** · [4](maang-4.md) · [5](maang-5.md)</sub>

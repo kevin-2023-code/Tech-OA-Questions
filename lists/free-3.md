@@ -6,7 +6,7 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**1,978 questions** · 1,516 at Senior/Staff+ · 476 reported in the last 90 days · 1,978 free to solve
+**1,978 questions** · 1,516 at Senior/Staff+ · 472 reported in the last 90 days · 1,978 free to solve
 
 **Companies:** [Meta (198)](../companies/meta.md) · [Amazon (170)](../companies/amazon.md) · [ByteDance (141)](../companies/bytedance.md) · [Google (126)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (103)](../companies/uber.md) · [Microsoft (73)](../companies/microsoft.md) · [Apple (72)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (49)](../companies/doordash.md) · [Goldman Sachs (43)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (36)](../companies/anthropic.md) · [Snapchat (34)](../companies/snapchat.md) · [Netflix (32)](../companies/netflix.md)
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Scale AI](../companies/scale-ai.md)** | [Answer common project leadership questions](https://trueinterview.io/questions/answer-common-project-leadership-questions) | Onsite | Mid · **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/answer-common-project-leadership-questions) | Mar 17, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Battery Cell Quality Statistical Case](https://trueinterview.io/questions/battery-cell-quality-statistical-case) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/battery-cell-quality-statistical-case) | Mar 16, 2026 |
 | **[Axon](../companies/axon.md)** | [How did you handle an ethical issue?](https://trueinterview.io/questions/how-did-you-handle-an-ethical-issue) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-did-you-handle-an-ethical-issue) | Mar 16, 2026 |
 | **[Uber](../companies/uber.md)** | [Letter Combinations of a Phone Number](https://trueinterview.io/questions/letter-combinations-of-a-phone-number) | Onsite | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/letter-combinations-of-a-phone-number) | Mar 15, 2026 |
@@ -419,5 +418,6 @@
 | **[IMC](../companies/imc.md)** | [Analyze time complexity and threading trade-offs](https://trueinterview.io/questions/analyze-time-complexity-and-threading-trade-offs) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/analyze-time-complexity-and-threading-trade-offs) | Nov 3, 2025 |
 | **[PayPal](../companies/paypal.md)** | [Reduce airport ride cancellations under causal constraints](https://trueinterview.io/questions/reduce-airport-cancellations-under-causal-constraints) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/reduce-airport-cancellations-under-causal-constraints) | Nov 3, 2025 |
 | **[Gusto](../companies/gusto.md)** | [Compute p-values for 2 variants vs control](https://trueinterview.io/questions/compute-p-values-for-2-variants-vs-control) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compute-p-values-for-2-variants-vs-control) | Nov 2, 2025 |
+| **[Akuna Capital](../companies/akuna-capital.md)** | [Enemy Factory with Shared Instances](https://trueinterview.io/questions/enemy-factory-shared-instances) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/enemy-factory-shared-instances) | Nov 2, 2025 |
 
 <sub>Page [1](free.md) · [2](free-2.md) · **3** · [4](free-4.md) · [5](free-5.md)</sub>

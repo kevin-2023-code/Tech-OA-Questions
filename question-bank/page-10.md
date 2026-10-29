@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -17,7 +17,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Tesla](../companies/tesla.md)** | [Explain reliability and runtime fundamentals](https://trueinterview.io/questions/explain-reliability-and-runtime-fundamentals) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-reliability-and-runtime-fundamentals) | Jan 25, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Find the Best and Worst Completion of a Partial Numeric Hand](https://trueinterview.io/questions/find-the-best-and-worst-completion-of-a-partial-numeric-hand) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-best-and-worst-completion-of-a-partial-numeric-hand) | Jan 25, 2026 |
 | **[Airtable](../companies/airtable.md)** | [Implement a Connection Pool](https://trueinterview.io/questions/implement-a-connection-pool) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-connection-pool) | Jan 25, 2026 |
 | **[Citadel](../companies/citadel.md)** | [LRU + LFU + Custom Eviction Function](https://trueinterview.io/questions/lru-lfu-custom-evict) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/lru-lfu-custom-evict) | Jan 25, 2026 |
@@ -417,5 +416,6 @@
 | **[Upstart](../companies/upstart.md)** | [Explain L1 vs L2 and ridge vs lasso](https://trueinterview.io/questions/explain-l1-vs-l2-and-ridge-vs-lasso) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-l1-vs-l2-and-ridge-vs-lasso) | Dec 9, 2025 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Handle conflict and motivate engineering teams](https://trueinterview.io/questions/handle-conflict-and-motivate-engineering-teams) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/handle-conflict-and-motivate-engineering-teams) | Dec 9, 2025 |
 | **[Voleon](../companies/voleon.md)** | [Implement sparse matrix addition and multiplication](https://trueinterview.io/questions/implement-sparse-matrix-addition-and-multiplication) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-sparse-matrix-addition-and-multiplication) | Dec 9, 2025 |
+| **[Roblox](../companies/roblox.md)** | [Minimum Height Difference Between Distant Peaks](https://trueinterview.io/questions/minimum-height-difference-between-distant-peaks) | Phone | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-height-difference-between-distant-peaks) | Dec 9, 2025 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · **10** · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

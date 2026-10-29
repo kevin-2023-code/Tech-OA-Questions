@@ -6,7 +6,7 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**1,978 questions** · 1,516 at Senior/Staff+ · 476 reported in the last 90 days · 1,978 free to solve
+**1,978 questions** · 1,516 at Senior/Staff+ · 472 reported in the last 90 days · 1,978 free to solve
 
 **Companies:** [Meta (198)](../companies/meta.md) · [Amazon (170)](../companies/amazon.md) · [ByteDance (141)](../companies/bytedance.md) · [Google (126)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (103)](../companies/uber.md) · [Microsoft (73)](../companies/microsoft.md) · [Apple (72)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (49)](../companies/doordash.md) · [Goldman Sachs (43)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (36)](../companies/anthropic.md) · [Snapchat (34)](../companies/snapchat.md) · [Netflix (32)](../companies/netflix.md)
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Uber](../companies/uber.md)** | [Define market-only rider experience metrics](https://trueinterview.io/questions/define-market-only-rider-experience-metrics) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/define-market-only-rider-experience-metrics) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Define QKV for recommender cross-attention](https://trueinterview.io/questions/define-qkv-for-recommender-cross-attention) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/define-qkv-for-recommender-cross-attention) | — |
 | **[Meta](../companies/meta.md)** | [Define success metrics and guardrails for B2B chat](https://trueinterview.io/questions/define-success-metrics-and-guardrails-for-b2b-chat) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/define-success-metrics-and-guardrails-for-b2b-chat) | — |
 | **[Thumbtack](../companies/thumbtack.md)** | [Define success metrics for Instant Book](https://trueinterview.io/questions/define-success-metrics-for-instant-book) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/define-success-metrics-for-instant-book) | — |
@@ -296,6 +295,7 @@
 | **[Capital One](../companies/capital-one.md)** | [Match Year-2 profit to Year-1](https://trueinterview.io/questions/match-year-2-profit-to-year-1) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/match-year-2-profit-to-year-1) | — |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Max Harvested Crops](https://trueinterview.io/questions/0364d8f3-180c-434b-96f4-fbdf7412a3e3) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/0364d8f3-180c-434b-96f4-fbdf7412a3e3) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Maximum Order Volume](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | — |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +4 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | — |
 | **[Uber](../companies/uber.md)** | [Measure rider incentive causal ROI](https://trueinterview.io/questions/measure-rider-incentive-causal-roi) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/measure-rider-incentive-causal-roi) | — |
 | **[Tubi](../companies/tubi.md)** | [Measure Super Bowl ad impact with causal design](https://trueinterview.io/questions/measure-super-bowl-ad-impact-with-causal-design) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/measure-super-bowl-ad-impact-with-causal-design) | — |
 | **[Google](../companies/google.md)** / [LinkedIn](../companies/linkedin.md) | [Meeting Rooms II](https://trueinterview.io/questions/ddc8534d-46e9-4b02-abec-60d33c956280) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/ddc8534d-46e9-4b02-abec-60d33c956280) | — |

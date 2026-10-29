@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**807 questions** · 260 at Senior/Staff+ · 181 reported in the last 90 days · 218 free to solve
+**807 questions** · 260 at Senior/Staff+ · 180 reported in the last 90 days · 218 free to solve
 
 **By employer group:** 🧠 AI labs (39) · 📈 Quant firms (118) · 🏛️ MAANG+ (168)
 
@@ -175,7 +175,6 @@
 | **[Amazon](../companies/amazon.md)** | [Inventory Allocation by Bid Priority](https://trueinterview.io/questions/inventory-allocation-bid-priority) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/inventory-allocation-bid-priority) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** | [K Highest Probability Winners in Lottery System](https://trueinterview.io/questions/66430f23-20f0-4d09-b53c-c1aaeb24abfe) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/66430f23-20f0-4d09-b53c-c1aaeb24abfe) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** | [Make Array Bitonic](https://trueinterview.io/questions/make-array-bitonic) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/make-array-bitonic) | Aug 2026 |
-| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +4 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** / [Meta](../companies/meta.md) | [Merge Three Sorted Arrays with Deduplication](https://trueinterview.io/questions/c6b726cd-d319-5469-8ea1-fa90146e850b) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/c6b726cd-d319-5469-8ea1-fa90146e850b) | Aug 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Moving Average over a Sliding Window](https://trueinterview.io/questions/404adef3-580e-58ed-80ed-37af565360df) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/404adef3-580e-58ed-80ed-37af565360df) | Aug 2026 |
 | **[Google](../companies/google.md)** | [Partition Numbers by Distinct Frequencies](https://trueinterview.io/questions/288aa01a-6399-551f-a549-1c3aaa1ce231) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/288aa01a-6399-551f-a549-1c3aaa1ce231) | Aug 2026 |
@@ -419,5 +418,6 @@
 | **[Google](../companies/google.md)** | [Chunking with an Unsplittable Header](https://trueinterview.io/questions/2f337555-8465-4711-9231-ee00cf57b26c) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/2f337555-8465-4711-9231-ee00cf57b26c) | Mar 2026 |
 | **[Netflix](../companies/netflix.md)** | [Contains Duplicate](https://trueinterview.io/questions/7557ec37-3b6a-4359-9137-f6bec8d174ec) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/7557ec37-3b6a-4359-9137-f6bec8d174ec) | Mar 2026 |
 | **[Amazon](../companies/amazon.md)** | [Deduplicate Events List (with Sorting + Map/Stack)](https://trueinterview.io/questions/83856d15-e217-467d-9269-2da9d2a261cd) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/83856d15-e217-467d-9269-2da9d2a261cd) | Mar 2026 |
+| **[DoorDash](../companies/doordash.md)** | [Describe handling conflict and a proud project](https://trueinterview.io/questions/describe-handling-conflict-and-a-proud-project) | OA | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-handling-conflict-and-a-proud-project) | Mar 2026 |
 
 <sub>Page **1** · [2](oa-2.md) · [3](oa-3.md)</sub>

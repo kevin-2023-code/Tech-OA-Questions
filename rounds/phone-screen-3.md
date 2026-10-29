@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,136 questions** · 2,250 at Senior/Staff+ · 814 reported in the last 90 days · 1,130 free to solve
+**3,136 questions** · 2,250 at Senior/Staff+ · 811 reported in the last 90 days · 1,130 free to solve
 
 **By employer group:** 🧠 AI labs (264) · 📈 Quant firms (205) · 🏛️ MAANG+ (877)
 
@@ -19,9 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Amazon](../companies/amazon.md)** | [Top K Slowest Requests from Logs](https://trueinterview.io/questions/9a6cfc3c-e9ec-5766-b7d6-c9ab05882217) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/9a6cfc3c-e9ec-5766-b7d6-c9ab05882217) | Aug 2026 |
-| **[Google](../companies/google.md)** | [Top-K Frequent in Large Logs](https://trueinterview.io/questions/top-k-frequent-from-logs) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/top-k-frequent-from-logs) | Aug 2026 |
-| **[Google](../companies/google.md)** | [Tournament Champion Probability](https://trueinterview.io/questions/1a008971-1fb9-5940-880b-d2b73ab4e4c0) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1a008971-1fb9-5940-880b-d2b73ab4e4c0) | Aug 2026 |
 | **[Citadel](../companies/citadel.md)** | [Town Temperature Regression Analysis](https://trueinterview.io/questions/40633852-5eda-59ea-9c7a-4e233abff5ec) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/40633852-5eda-59ea-9c7a-4e233abff5ec) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** | [Trade Short-Term Benefit for Long-Term Success](https://trueinterview.io/questions/trade-short-term-benefit-for-long-term-success) | Phone | New grad · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/trade-short-term-benefit-for-long-term-success) | Aug 2026 |
 | **[MongoDB](../companies/mongodb.md)** | [Union Iterator for Two Sorted Iterators (Dedup, Streaming, O(1) Extra Space)](https://trueinterview.io/questions/89497b58-2eb1-4f78-9306-fbb8927e39f7) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/89497b58-2eb1-4f78-9306-fbb8927e39f7) | Aug 2026 |
@@ -162,6 +159,7 @@
 | **[Figma](../companies/figma.md)** | [Path Existence in Directed and Undirected Graphs with a Blocked Edge](https://trueinterview.io/questions/e7f7ba6c-551c-5ef7-9ccc-04f30e4aa149) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e7f7ba6c-551c-5ef7-9ccc-04f30e4aa149) | Jul 2026 |
 | **[Pinduoduo](../companies/pinduoduo.md)** | [Perfect Squares Decomposition](https://trueinterview.io/questions/e02cbe9e-e2f6-51fd-9ff0-a32899f4dd84) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e02cbe9e-e2f6-51fd-9ff0-a32899f4dd84) | Jul 2026 |
 | **[Visa](../companies/visa.md)** | [Perfect Substring](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Phone | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Jul 2026 |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2 | [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Jul 2026 |
 | **[Apple](../companies/apple.md)** | [Random IP from Load Balancer](https://trueinterview.io/questions/random-ip-from-load-balancer) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/random-ip-from-load-balancer) | Jul 2026 |
 | **[Google](../companies/google.md)** | [Reconstruct the BFS Path Before Reaching a Target](https://trueinterview.io/questions/ceeafc15-ce16-50a3-8890-26d9bd82c3ca) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ceeafc15-ce16-50a3-8890-26d9bd82c3ca) | Jul 2026 |
 | **[Vanta](../companies/vanta.md)** | [Recursive Class Dependency Ordering](https://trueinterview.io/questions/6a6d48b0-1054-5ae3-8079-864c8ebd48bf) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/6a6d48b0-1054-5ae3-8079-864c8ebd48bf) | Jul 2026 |
@@ -419,5 +417,7 @@
 | **[Netflix](../companies/netflix.md)** | [Compare Losses and Explain LoRA](https://trueinterview.io/questions/compare-losses-and-explain-lora) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/compare-losses-and-explain-lora) | May 2026 |
 | **[Meta](../companies/meta.md)** | [Compare Two Linked Lists' Concatenated Strings](https://trueinterview.io/questions/f57623fa-df0e-49d8-8275-3787fab19121) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f57623fa-df0e-49d8-8275-3787fab19121) | May 2026 |
 | **[Netflix](../companies/netflix.md)** | [Count the Number of String Pairs With No Common Characters](https://trueinterview.io/questions/044e7295-5015-4975-b30c-5cdc060ccec8) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/044e7295-5015-4975-b30c-5cdc060ccec8) | May 2026 |
+| **[Oscar Health](../companies/oscar-health.md)** | [Decode Morse Code to All Possible Original Strings](https://trueinterview.io/questions/93be479d-c2bc-46b0-9f1f-36d31c30bfb6) | Phone | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/93be479d-c2bc-46b0-9f1f-36d31c30bfb6) | May 2026 |
+| **[Amazon](../companies/amazon.md)** | [Demonstrate invent-and-simplify and customer communication](https://trueinterview.io/questions/demonstrate-invent-and-simplify-and-customer-communication) | Phone | Intern · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-invent-and-simplify-and-customer-communication) | May 2026 |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · **3** · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 4,136 at Senior/Staff+ · 1,525 reported in the last 90 days · 1,978 free to solve
+**5,924 questions** · 4,136 at Senior/Staff+ · 1,521 reported in the last 90 days · 1,978 free to solve
 
 **Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
 
@@ -17,7 +17,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Roblox](../companies/roblox.md)** | [Minimum Height Difference Between Distant Peaks](https://trueinterview.io/questions/minimum-height-difference-between-distant-peaks) | Phone | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-height-difference-between-distant-peaks) | Dec 9, 2025 |
 | **[Snowflake](../companies/snowflake.md)** | [Preorder Traversal Without Invalid Nodes](https://trueinterview.io/questions/preorder-traversal-without-invalid-nodes) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/preorder-traversal-without-invalid-nodes) | Dec 9, 2025 |
 | **[Voleon](../companies/voleon.md)** | [Validate whether a binary string is good](https://trueinterview.io/questions/validate-whether-a-binary-string-is-good) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-whether-a-binary-string-is-good) | Dec 9, 2025 |
 | **[Meta](../companies/meta.md)** | [Design and evaluate a new group call feature](https://trueinterview.io/questions/design-and-evaluate-a-new-group-call-feature) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/design-and-evaluate-a-new-group-call-feature) | Dec 8, 2025 |
@@ -417,5 +416,6 @@
 | **[OpenAI](../companies/openai.md)** | [Design a Resumable Iterator with Checkpoint and Restore](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Oct 18, 2025 |
 | **[Meta](../companies/meta.md)** | [Design ticketing and coding practice platforms](https://trueinterview.io/questions/design-ticketing-and-coding-practice-platforms) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-ticketing-and-coding-practice-platforms) | Oct 18, 2025 |
 | **[Roblox](../companies/roblox.md)** | [Implement four DS coding tasks](https://trueinterview.io/questions/implement-four-ds-coding-tasks) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-four-ds-coding-tasks) | Oct 18, 2025 |
+| **[DoorDash](../companies/doordash.md)** | [Find closest value to a target in a BST](https://trueinterview.io/questions/find-closest-value-to-a-target-in-a-bst) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-closest-value-to-a-target-in-a-bst) | Oct 17, 2025 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · **11** · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
