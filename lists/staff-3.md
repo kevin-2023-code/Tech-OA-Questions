@@ -6,7 +6,7 @@
 
 > **Who:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**1,097 questions** · 1,097 at Senior/Staff+ · 166 reported in the last 90 days · 662 free to solve
+**1,097 questions** · 1,097 at Senior/Staff+ · 172 reported in the last 90 days · 662 free to solve
 
 **Rounds:** 📝 OA (20) · 📞 Phone (573) · 🏢 Onsite (535) · 🏠 Take-home (1)
 
@@ -152,9 +152,9 @@
 | **[Snapchat](../companies/snapchat.md)** | [Explain Random Forest randomness and implications](https://trueinterview.io/questions/explain-random-forest-randomness-and-implications) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-random-forest-randomness-and-implications) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Explain SHAP vs VIF under collinearity](https://trueinterview.io/questions/explain-shap-vs-vif-under-collinearity) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-shap-vs-vif-under-collinearity) | — |
 | **[Upstart](../companies/upstart.md)** | [Explain tackling ambiguity and defending a decision](https://trueinterview.io/questions/explain-tackling-ambiguity-and-defending-a-decision) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/explain-tackling-ambiguity-and-defending-a-decision) | — |
-| **[Amazon](../companies/amazon.md)** | [Explain Transformers and MoE in LLMs](https://trueinterview.io/questions/explain-transformers-and-moe-in-llms) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-transformers-and-moe-in-llms) | — |
 | **[Amazon](../companies/amazon.md)** | [Explain why LASSO selects features](https://trueinterview.io/questions/explain-why-lasso-selects-features) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-why-lasso-selects-features) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Explain worker state machine load balancer design](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/explain-worker-state-machine-load-balancer-design) | — |
+| **[ByteDance](../companies/bytedance.md)** | [Explain your most impactful project trade-offs](https://trueinterview.io/questions/explain-your-most-impactful-project-trade-offs) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-your-most-impactful-project-trade-offs) | — |
 | **[CVS Health](../companies/cvs-health.md)** | [Explain your top strengths concretely](https://trueinterview.io/questions/explain-your-top-strengths-concretely) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-your-top-strengths-concretely) | — |
 | **[Microsoft](../companies/microsoft.md)** | [Find common friends from directed edges](https://trueinterview.io/questions/find-common-friends-from-directed-edges) | Phone | **Senior** · **Staff+** | SQL | [![Practice][p]](https://trueinterview.io/questions/find-common-friends-from-directed-edges) | — |
 | **[Google](../companies/google.md)** | [Find companies similar to a given client](https://trueinterview.io/questions/find-companies-similar-to-a-given-client) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/find-companies-similar-to-a-given-client) | — |

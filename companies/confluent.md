@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Confluent on TrueInterview](https://trueinterview.io/problems/company/confluent) · [How Confluent interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/confluent/README.md)
 
-**30 questions** · Senior & Staff+ 22 · last reported Aug 2026
+**30 questions** · Senior & Staff+ 22 · last reported Sep 2026
 
 **Rounds:** 📝 OA (4) · 📞 Phone (7) · 🏢 Onsite (21)
 
@@ -17,6 +17,8 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [O(1) Key-Value Store with Average and Max Retrieval](https://trueinterview.io/questions/f6664ca5-9a30-4110-a9b2-5d15940d61f2) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6664ca5-9a30-4110-a9b2-5d15940d61f2) | Sep 2026 |
+| [Search Words and Phrases in a Large Line-Oriented File](https://trueinterview.io/questions/search-words-and-phrases-in-a-large-line-oriented-file) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/search-words-and-phrases-in-a-large-line-oriented-file) | Sep 2026 |
 | [Durable Key-Value Store Serialization](https://trueinterview.io/questions/durable-key-value-store-serialization)<br><sub>also [OpenAI](../companies/openai.md) / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +6</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/durable-key-value-store-serialization) | Aug 2026 |
 | [Design an LRU Cache with a Constant-Time Average](https://trueinterview.io/questions/design-an-lru-cache-with-a-constant-time-average) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-lru-cache-with-a-constant-time-average) | Jul 2026 |
 | [Design News Feed](https://trueinterview.io/questions/design-news-feed)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [Google](../companies/google.md) / +12</sub> | Phone · Onsite | Mid · **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-news-feed) | Jul 2026 |
@@ -29,7 +31,6 @@
 | [Variadic Function Matching](https://trueinterview.io/questions/11a4e0a4-82a6-4aa2-9265-eb5e09144062) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/11a4e0a4-82a6-4aa2-9265-eb5e09144062) | May 2026 |
 | [Minimum Menu Order Cost I](https://trueinterview.io/questions/5c783b97-e5b1-4e93-9466-acb8b8395f20)<br><sub>also [Airbnb](../companies/airbnb.md)</sub> | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/5c783b97-e5b1-4e93-9466-acb8b8395f20) | Apr 2026 |
 | [Random Queue ADT + Equality + Thread Safety + RLE-backed Comparison](https://trueinterview.io/questions/b3bded71-9ec4-47de-a97b-80220c09062b) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b3bded71-9ec4-47de-a97b-80220c09062b) | Apr 2026 |
-| [Search Words and Phrases in a Large Line-Oriented File](https://trueinterview.io/questions/search-words-and-phrases-in-a-large-line-oriented-file) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/search-words-and-phrases-in-a-large-line-oriented-file) | Mar 2026 |
 | [Function signature matching](https://trueinterview.io/questions/solve-signature-file-and-queue-problems-function-signature-matching) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-signature-file-and-queue-problems-function-signature-matching) | Feb 22, 2026 |
 | [Silent Sensor Detector (SensorHealth)](https://trueinterview.io/questions/37a8e59a-4ec6-441c-8df5-f86491863f52) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/37a8e59a-4ec6-441c-8df5-f86491863f52) | Feb 2026 |
 | [Warehouse Loading: Reach TargetWeight at Any Point with Reordered +/- Weights](https://trueinterview.io/questions/a15b120c-3931-4891-9663-20471e3207cb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a15b120c-3931-4891-9663-20471e3207cb) | Feb 2026 |
@@ -43,7 +44,6 @@
 | [Design Scalable TinyURL Service with One-to-One URL Mapping](https://trueinterview.io/questions/de4acc6e-512d-4f63-8ca0-4520fda00b7a) | Onsite | **Senior** · **Staff+** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/de4acc6e-512d-4f63-8ca0-4520fda00b7a) | — |
 | [Design Spotify](https://trueinterview.io/questions/design-spotify-2)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +3</sub> | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-spotify-2) | — |
 | [Monsters Battle](https://trueinterview.io/questions/monsters-battle) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/monsters-battle) | — |
-| [O(1) Key-Value Store with Average and Max Retrieval](https://trueinterview.io/questions/f6664ca5-9a30-4110-a9b2-5d15940d61f2) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6664ca5-9a30-4110-a9b2-5d15940d61f2) | — |
 | [Rank Songs by Popularity](https://trueinterview.io/questions/a849f910-580a-4423-ad79-2a2524364c49)<br><sub>also [Expedia](../companies/expedia.md)</sub> | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a849f910-580a-4423-ad79-2a2524364c49) | — |
 | [Wildcard Matching](https://trueinterview.io/questions/wildcard-matching) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/wildcard-matching) | — |
 | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/windowed-key-value-store) | — |

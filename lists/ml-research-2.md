@@ -6,7 +6,7 @@
 
 > **Who:** Asked for a **Machine Learning Engineer**, **Research Scientist** or **AI Engineer** role.
 
-**481 questions** · 396 at Senior/Staff+ · 118 reported in the last 90 days · 181 free to solve
+**481 questions** · 396 at Senior/Staff+ · 120 reported in the last 90 days · 181 free to solve
 
 **Rounds:** 📝 OA (21) · 📞 Phone (244) · 🏢 Onsite (262) · 🏠 Take-home (1)
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Meta](../companies/meta.md)** | [Implement weighted random city and sparse dot product](https://trueinterview.io/questions/implement-weighted-random-city-and-sparse-dot-product) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-weighted-random-city-and-sparse-dot-product) | Dec 15, 2025 |
 | **[xAI](../companies/xai.md)** | [Dynamic Batch Inference](https://trueinterview.io/questions/dynamic-batch-inference) | Phone | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/dynamic-batch-inference) | Dec 14, 2025 |
 | **[Apple](../companies/apple.md)** | [Online Token Processing, Embeddings, and Classification](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/online-token-processing-embeddings-and-classification) | Dec 11, 2025 |
 | **[NVIDIA](../companies/nvidia.md)** | [2-D Convolution, Decaying Attention, and Training Loop](https://trueinterview.io/questions/ml-coding-conv-attention-training-loop) | Phone · Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ml-coding-conv-attention-training-loop) | Dec 10, 2025 |
@@ -66,6 +65,7 @@
 | **[Capital One](../companies/capital-one.md)** | [Design a production face recognition system](https://trueinterview.io/questions/design-a-production-face-recognition-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-production-face-recognition-system) | — |
 | **[Meta](../companies/meta.md)** | [Design a restaurant recommender under cold start](https://trueinterview.io/questions/design-a-restaurant-recommender-under-cold-start) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-restaurant-recommender-under-cold-start) | — |
 | **[LinkedIn](../companies/linkedin.md)** / [Instacart](../companies/instacart.md) / [Pinterest](../companies/pinterest.md) / +1 | [Design A Video Recommendation System](https://trueinterview.io/questions/design-a-video-recommendation-system-2) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-video-recommendation-system-2) | — |
+| **[ByteDance](../companies/bytedance.md)** | [Design an ad-selection system across objectives](https://trueinterview.io/questions/design-an-ad-selection-system-across-objectives) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-ad-selection-system-across-objectives) | — |
 | **[Amazon](../companies/amazon.md)** | [Design an end-to-end spam detection system](https://trueinterview.io/questions/design-an-end-to-end-spam-detection-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-end-to-end-spam-detection-system) | — |
 | **[Amazon](../companies/amazon.md)** | [Design an LLM quality validation system](https://trueinterview.io/questions/design-an-llm-quality-validation-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-llm-quality-validation-system) | — |
 | **[NVIDIA](../companies/nvidia.md)** | [Design and explain robust web APIs for ML inference](https://trueinterview.io/questions/design-and-explain-robust-web-apis-for-ml-inference) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-and-explain-robust-web-apis-for-ml-inference) | — |
@@ -77,8 +77,7 @@
 | **[Scale AI](../companies/scale-ai.md)** | [Designing GPT-2 Prompts Using Given Keywords](https://trueinterview.io/questions/147c9781-846f-407b-a3e9-cb2f61ae898d) | Onsite | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/147c9781-846f-407b-a3e9-cb2f61ae898d) | — |
 | **[Amazon](../companies/amazon.md)** | [Diagnose and fix underperforming ML model](https://trueinterview.io/questions/diagnose-and-fix-underperforming-ml-model) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-and-fix-underperforming-ml-model) | — |
 | **[Disney](../companies/disney.md)** | [End-to-End Personalized Recommendation Platform Design](https://trueinterview.io/questions/personalized-recommendation-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/personalized-recommendation-system) | — |
-| **[Amazon](../companies/amazon.md)** | [Explain Transformers and MoE in LLMs](https://trueinterview.io/questions/explain-transformers-and-moe-in-llms) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-transformers-and-moe-in-llms) | — |
-| **[Amazon](../companies/amazon.md)** | [Explain vanishing gradients and activations](https://trueinterview.io/questions/explain-vanishing-gradients-and-activations) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-vanishing-gradients-and-activations) | — |
+| **[Amazon](../companies/amazon.md)** | [Explain parallelism and collectives in training](https://trueinterview.io/questions/explain-parallelism-and-collectives-in-training) | Onsite | Intern | System design | [![Practice][p]](https://trueinterview.io/questions/explain-parallelism-and-collectives-in-training) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Generate Jailbreak Prompts from Text Inputs Algorithm](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | Onsite | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | — |
 | **[OpenAI](../companies/openai.md)** | [Image Classification with Noise Analysis](https://trueinterview.io/questions/65f6fa15-cead-46bc-bd86-5f74c566baf5) | Onsite | **Senior** · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/65f6fa15-cead-46bc-bd86-5f74c566baf5) | — |
 | **[Meta](../companies/meta.md)** | [Implement a ReAct-style Agent Loop with Given APIs](https://trueinterview.io/questions/a81a953d-0af2-4e47-85bd-a1243047e6d9) | Onsite | **Senior** · **Staff+** | AI coding | [![Practice][p]](https://trueinterview.io/questions/a81a953d-0af2-4e47-85bd-a1243047e6d9) | — |
@@ -102,5 +101,6 @@
 | **[Disney](../companies/disney.md)** | [Safe Model Rollout and Feature-Cost Reduction for ML Serving](https://trueinterview.io/questions/mlops-model-validation-ab-testing) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/mlops-model-validation-ab-testing) | — |
 | **[Perplexity](../companies/perplexity.md)** | [Stream Deduplication with Near-Duplicate Detection](https://trueinterview.io/questions/stream-deduplication-with-near-duplicate-detection) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/stream-deduplication-with-near-duplicate-detection) | — |
 | **[Expedia](../companies/expedia.md)** | [Validate and monitor ranking model end-to-end](https://trueinterview.io/questions/validate-and-monitor-ranking-model-end-to-end) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/validate-and-monitor-ranking-model-end-to-end) | — |
+| **[Amazon](../companies/amazon.md)** | [Write and explain gradient descent pseudocode](https://trueinterview.io/questions/write-and-explain-gradient-descent-pseudocode) | Onsite | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/write-and-explain-gradient-descent-pseudocode) | — |
 
 <sub>Page [1](ml-research.md) · **2**</sub>

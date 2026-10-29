@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Waymo on TrueInterview](https://trueinterview.io/problems/company/waymo) · [How Waymo interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/waymo/README.md)
 
-**87 questions** · Senior & Staff+ 61 · ML & Research Scientist 13 · Quant researcher & developer 1 · last reported Sep 2026
+**87 questions** · Senior & Staff+ 61 · ML & Research Scientist 13 · Quant researcher & developer 1 · last reported Oct 2026
 
 **Rounds:** 📝 OA (12) · 📞 Phone (44) · 🏢 Onsite (35)
 
@@ -17,6 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Rate Limiter](https://trueinterview.io/questions/rate-limiter)<br><sub>also [Stripe](../companies/stripe.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +6</sub> | Onsite | New grad · Mid · **Senior** · **Staff+** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limiter) | 🆕 Oct 2026 |
 | [Merge Object Histories Across Two Tracking Systems](https://trueinterview.io/questions/cross-system-object-tracker-history) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cross-system-object-tracker-history) | 🆕 Sep 29, 2026 |
 | [Compare Driving Algorithms Using Hard-Braking Rates](https://trueinterview.io/questions/compare-driving-algorithms-using-hard-braking-rates) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compare-driving-algorithms-using-hard-braking-rates) | Sep 6, 2026 |
 | [Build an Arithmetic Expression to Reach a Target](https://trueinterview.io/questions/arithmetic-expression-reach-target) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/arithmetic-expression-reach-target) | Sep 2026 |
@@ -32,7 +33,6 @@
 | [Prefix Autocomplete via Trie](https://trueinterview.io/questions/trie-prefix-autocomplete) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/trie-prefix-autocomplete) | Sep 2026 |
 | [Process Raw CSV for Downstream Consumers](https://trueinterview.io/questions/csv-parser-open-ended) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/csv-parser-open-ended) | Sep 2026 |
 | [Random Access in Run-Length Encoded Data](https://trueinterview.io/questions/6f2137c5-0639-5fd4-a800-365447eee0a6) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/6f2137c5-0639-5fd4-a800-365447eee0a6) | Sep 2026 |
-| [Rate Limiter](https://trueinterview.io/questions/rate-limiter)<br><sub>also [Stripe](../companies/stripe.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +6</sub> | Onsite | New grad · Mid · **Senior** · **Staff+** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limiter) | Sep 2026 |
 | [Sort a Quadratic-Transformed Sorted Array](https://trueinterview.io/questions/sort-transformed-quadratic-array) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sort-transformed-quadratic-array) | Sep 2026 |
 | [Streaming Interval Coverage on a Number Axis](https://trueinterview.io/questions/interval-pollution-coverage) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/interval-pollution-coverage) | Sep 2026 |
 | [Vehicle Maintenance Event Validation](https://trueinterview.io/questions/40bddb3c-0280-572b-a65b-ba31f5b9fba5) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/40bddb3c-0280-572b-a65b-ba31f5b9fba5) | Sep 2026 |

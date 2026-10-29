@@ -44,4 +44,4 @@ A question carries the levels and roles **the catalog recorded for it** — repo
 | [AI Lab OA & Interview Questions (2026)](ai-labs.md) | 504 |
 | [Quant Firm OA & Interview Questions (2026)](quant.md) | 384 |
 | [MAANG+ OA & Interview Questions (2026)](maang.md) | 1,698 |
-| [Free to solve](free.md) | 1,976 |
+| [Free to solve](free.md) | 1,978 |

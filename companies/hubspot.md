@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice HubSpot on TrueInterview](https://trueinterview.io/problems/company/hubspot) · [How HubSpot interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/hubspot/README.md)
 
-**13 questions** · Senior & Staff+ 10 · last reported Jul 2026
+**13 questions** · Senior & Staff+ 10 · last reported Aug 2026
 
 **Rounds:** 📝 OA (7) · 📞 Phone (3) · 🏢 Onsite (5)
 
@@ -15,11 +15,10 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Design Youtube](https://trueinterview.io/questions/design-youtube)<br><sub>also [OpenAI](../companies/openai.md) / [Amazon](../companies/amazon.md) / [Datadog](../companies/datadog.md) / +4</sub> | Phone · Onsite | **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-youtube) | Aug 2026 |
 | [Banking System with Payments and Account Merging](https://trueinterview.io/questions/c8060613-c56e-5708-920f-2455777b3d9f)<br><sub>also [Ramp](../companies/ramp.md) / [Anthropic](../companies/anthropic.md) / [Capital One](../companies/capital-one.md) / +2</sub> | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c8060613-c56e-5708-920f-2455777b3d9f) | Jul 2026 |
 | [Recipe Manager](https://trueinterview.io/questions/recipe-manager)<br><sub>also [Coinbase](../companies/coinbase.md) / [Anthropic](../companies/anthropic.md) / [Ramp](../companies/ramp.md)</sub> | OA | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/recipe-manager) | Jun 2026 |
 | [Design a Task Assignment System](https://trueinterview.io/questions/design-a-task-assignment-system)<br><sub>also [Anthropic](../companies/anthropic.md) / [Coinbase](../companies/coinbase.md) / [Ramp](../companies/ramp.md)</sub> | OA | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-task-assignment-system) | May 21, 2026 |
-| [Design Youtube](https://trueinterview.io/questions/design-youtube)<br><sub>also [OpenAI](../companies/openai.md) / [Amazon](../companies/amazon.md) / [Datadog](../companies/datadog.md) / +4</sub> | Phone · Onsite | **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/design-youtube) | May 2026 |
-| [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system)<br><sub>also [Coinbase](../companies/coinbase.md) / [eBay](../companies/ebay.md)</sub> | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Feb 2026 |
 | [Best Meeting Date by Country](https://trueinterview.io/questions/best-meeting-date-by-country) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/best-meeting-date-by-country) | Jan 19, 2026 |
 | [Company Role Assignment](https://trueinterview.io/questions/company-role-assignment) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/company-role-assignment) | Jan 19, 2026 |
 | [Evaluate JSON Expression Tree](https://trueinterview.io/questions/evaluate-json-expression-tree) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-json-expression-tree) | Jan 19, 2026 |
@@ -27,4 +26,5 @@
 | [Most Frequent Substring](https://trueinterview.io/questions/most-frequent-substring)<br><sub>also [Oracle](../companies/oracle.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/most-frequent-substring) | Jan 19, 2026 |
 | [Design an hourly weather crawling service](https://trueinterview.io/questions/design-an-hourly-weather-crawling-service) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-hourly-weather-crawling-service) | Dec 15, 2025 |
 | [Find a special person using knows(a,b)](https://trueinterview.io/questions/find-a-special-person-using-knows-a-b) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-a-special-person-using-knows-a-b) | Dec 15, 2025 |
+| [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system)<br><sub>also [Coinbase](../companies/coinbase.md) / [eBay](../companies/ebay.md)</sub> | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | [Design In-memory Database with Backup](https://trueinterview.io/questions/design-in-memory-database-with-backup-2)<br><sub>also [Coinbase](../companies/coinbase.md) / [Anthropic](../companies/anthropic.md) / [Microsoft AI](../companies/microsoft-ai.md) / +1</sub> | OA · Onsite | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-in-memory-database-with-backup-2) | — |

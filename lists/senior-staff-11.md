@@ -6,7 +6,7 @@
 
 > **Who:** Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
 
-**4,136 questions** · 4,136 at Senior/Staff+ · 979 reported in the last 90 days · 1,514 free to solve
+**4,136 questions** · 4,136 at Senior/Staff+ · 990 reported in the last 90 days · 1,516 free to solve
 
 **Rounds:** 📝 OA (260) · 📞 Phone (2,250) · 🏢 Onsite (1,909) · 🏠 Take-home (9)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Square](../companies/square.md)** | [Single-Player Battleship Game Implementation](https://trueinterview.io/questions/battleship-game-implementation) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/battleship-game-implementation) | — |
 | **[Square](../companies/square.md)** | [Single-Runway Flight Scheduler With Rescheduling](https://trueinterview.io/questions/airline-departure-scheduling) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/airline-departure-scheduling) | — |
 | **[Meta](../companies/meta.md)** | [Size opportunity and prioritize experiments](https://trueinterview.io/questions/size-opportunity-and-prioritize-experiments) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/size-opportunity-and-prioritize-experiments) | — |
 | **[Karat](../companies/karat.md)** | [Sizing a Year of Search Engine Query Log Storage](https://trueinterview.io/questions/search-query-log-storage-estimate) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/search-query-log-storage-estimate) | — |
@@ -33,7 +34,6 @@
 | **[Snowflake](../companies/snowflake.md)** | [Solve and optimize 3Sum and variants at scale](https://trueinterview.io/questions/solve-and-optimize-3sum-and-variants-at-scale) | Onsite | Mid · **Senior** · **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-and-optimize-3sum-and-variants-at-scale) | — |
 | **[Upstart](../companies/upstart.md)** | [Solve drunk-passenger probability and simulate outcome](https://trueinterview.io/questions/solve-drunk-passenger-probability-and-simulate-outcome) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/solve-drunk-passenger-probability-and-simulate-outcome) | — |
 | **[Upstart](../companies/upstart.md)** | [Solve SQL CTR and Python analytics tasks](https://trueinterview.io/questions/solve-sql-ctr-and-python-analytics-tasks) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/solve-sql-ctr-and-python-analytics-tasks) | — |
-| **[Amazon](../companies/amazon.md)** | [Solve stock, BFS path, and merge intervals](https://trueinterview.io/questions/solve-stock-bfs-path-and-merge-intervals) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-stock-bfs-path-and-merge-intervals) | — |
 | **[Coinbase](../companies/coinbase.md)** | [Solve the 12-coin balance puzzle](https://trueinterview.io/questions/solve-the-12-coin-balance-puzzle) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/solve-the-12-coin-balance-puzzle) | — |
 | **[Amazon](../companies/amazon.md)** | [Solve two string DP/hash problems](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | — |
 | **[StackAdapt](../companies/stackadapt.md)** | [SongShuffler with Cooldown to Prevent Recent Repeats](https://trueinterview.io/questions/f2ece2d0-63e8-4cff-8b0b-adcbdb3fd61a) | Onsite | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f2ece2d0-63e8-4cff-8b0b-adcbdb3fd61a) | — |

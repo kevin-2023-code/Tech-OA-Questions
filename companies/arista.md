@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Arista on TrueInterview](https://trueinterview.io/problems/company/arista) · [How Arista interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/arista/README.md)
 
-**7 questions** · Senior & Staff+ 2 · last reported Aug 2026
+**7 questions** · Senior & Staff+ 2 · last reported Oct 2026
 
 **Rounds:** 📝 OA (2) · 📞 Phone (4) · 🏢 Onsite (1)
 
@@ -17,8 +17,8 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Missing Number (Not Starting From 0, Binary Search Variant)](https://trueinterview.io/questions/95eea5b2-a22e-4270-9c6d-e8f168534cc7) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/95eea5b2-a22e-4270-9c6d-e8f168534cc7) | 🆕 Oct 2026 |
 | [Implement a Generic Stack in C++](https://trueinterview.io/questions/49bddf67-87ec-5306-b0ec-da52376f511a) | Onsite | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/49bddf67-87ec-5306-b0ec-da52376f511a) | Aug 2026 |
-| [Missing Number (Not Starting From 0, Binary Search Variant)](https://trueinterview.io/questions/95eea5b2-a22e-4270-9c6d-e8f168534cc7) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/95eea5b2-a22e-4270-9c6d-e8f168534cc7) | Mar 2026 |
 | [Palindrome String Check (Handle Empty and Null)](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352)<br><sub>also [Boston Consulting Group](../companies/boston-consulting-group.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352) | Mar 2026 |
 | [Remove all occurrences of a target value from a linked list](https://trueinterview.io/questions/c1b98ae1-5c9a-4dfc-b252-7d04bd84a544) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/c1b98ae1-5c9a-4dfc-b252-7d04bd84a544) | Mar 2026 |
 | [Solve palindrome and missing-number variants](https://trueinterview.io/questions/solve-palindrome-and-missing-number-variants) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-palindrome-and-missing-number-variants) | Feb 3, 2026 |

@@ -8,7 +8,7 @@
 >
 > **Where:** Employers the shared company registry files under *Quant trading & hedge funds* — Jane Street, Citadel, Hudson River Trading, Two Sigma, Optiver and the rest.
 
-**22 questions** · 22 at Senior/Staff+ · 5 reported in the last 90 days · 12 free to solve
+**22 questions** · 22 at Senior/Staff+ · 6 reported in the last 90 days · 12 free to solve
 
 **Rounds:** 📞 Phone (18) · 🏢 Onsite (4)
 
@@ -23,10 +23,10 @@
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
 | **[Voleon](../companies/voleon.md)** | [Audit and Extend a Time-Series ML Pipeline](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | 🆕 Sep 14, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Reduce Hashing and Safely Delete Shared File Content](https://trueinterview.io/questions/reduce-hashing-and-safely-delete-shared-file-content) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/reduce-hashing-and-safely-delete-shared-file-content) | Sep 3, 2026 |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +5 | [Trapping Rain Water](https://trueinterview.io/questions/trapping-rain-water) | Phone | Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/trapping-rain-water) | Sep 2026 |
 | **[Jane Street](../companies/jane-street.md)** | [Design Exchange and Instrument Abstractions for Quote Arbitrage](https://trueinterview.io/questions/design-exchange-and-instrument-abstractions-for-quote-arbitrage) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-exchange-and-instrument-abstractions-for-quote-arbitrage) | Aug 24, 2026 |
 | **[Jane Street](../companies/jane-street.md)** | [Estimate the Number of Florists in Sydney and Make a Market](https://trueinterview.io/questions/estimate-the-number-of-florists-in-sydney-and-make-a-market) | Phone | Mid · **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/estimate-the-number-of-florists-in-sydney-and-make-a-market) | Aug 24, 2026 |
 | **[Jane Street](../companies/jane-street.md)** | [Process One Million Quote Updates per Second](https://trueinterview.io/questions/process-one-million-quote-updates-per-second) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/process-one-million-quote-updates-per-second) | Aug 24, 2026 |
-| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +5 | [Trapping Rain Water](https://trueinterview.io/questions/trapping-rain-water) | Phone | Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/trapping-rain-water) | Jul 2026 |
 | **[Voleon](../companies/voleon.md)** | [Reason About Train and Test Loss Under Regularization and More Data](https://trueinterview.io/questions/reason-about-train-and-test-loss-under-regularization-and-more-data) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/reason-about-train-and-test-loss-under-regularization-and-more-data) | Jun 27, 2026 |
 | **[Citadel](../companies/citadel.md)** | [HFT Onsite Round 3 — Sort Complexity + Linux Fundamentals + tail(n) Design](https://trueinterview.io/questions/citadel-hft-onsite-fundamentals) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/citadel-hft-onsite-fundamentals) | May 7, 2026 |
 | **[Jane Street](../companies/jane-street.md)** | [Design a Real-vs-Fake DNA Classifier](https://trueinterview.io/questions/design-a-real-vs-fake-dna-classifier) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-real-vs-fake-dna-classifier) | Jan 27, 2026 |
