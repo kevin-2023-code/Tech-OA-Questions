@@ -6,7 +6,7 @@
 
 > **Who:** Asked for a **Machine Learning Engineer**, **Research Scientist** or **AI Engineer** role.
 
-**481 questions** · 396 at Senior/Staff+ · 119 reported in the last 90 days · 181 free to solve
+**481 questions** · 396 at Senior/Staff+ · 118 reported in the last 90 days · 181 free to solve
 
 **Rounds:** 📝 OA (21) · 📞 Phone (244) · 🏢 Onsite (262) · 🏠 Take-home (1)
 
@@ -55,8 +55,8 @@
 | **[Airbnb](../companies/airbnb.md)** | [Document Redaction](https://trueinterview.io/questions/mle-document-redaction) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-document-redaction) | 🆕 Sep 19, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Research Project Deep Dive: Motivation, Training Pipeline, Results, and Takeaways](https://trueinterview.io/questions/research-project-deep-dive-motivation-training-pipeline-results-and-takeaways) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/research-project-deep-dive-motivation-training-pipeline-results-and-takeaways) | 🆕 Sep 17, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Music Recommendation and CTR Modeling](https://trueinterview.io/questions/music-recommendation-ctr-modeling-orals) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/music-recommendation-ctr-modeling-orals) | 🆕 Sep 16, 2026 |
-| **[Voleon](../companies/voleon.md)** | [Audit and Extend a Time-Series ML Pipeline](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | 🆕 Sep 14, 2026 |
-| **[AMD](../companies/amd.md)** | [Use the Roofline Model to Analyze Prefill and Decoding](https://trueinterview.io/questions/use-the-roofline-model-to-analyze-prefill-and-decoding) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/use-the-roofline-model-to-analyze-prefill-and-decoding) | 🆕 Sep 14, 2026 |
+| **[Voleon](../companies/voleon.md)** | [Audit and Extend a Time-Series ML Pipeline](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | Sep 14, 2026 |
+| **[AMD](../companies/amd.md)** | [Use the Roofline Model to Analyze Prefill and Decoding](https://trueinterview.io/questions/use-the-roofline-model-to-analyze-prefill-and-decoding) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/use-the-roofline-model-to-analyze-prefill-and-decoding) | Sep 14, 2026 |
 | **[Apple](../companies/apple.md)** | [Forecast Storage Demand Across 100 Data Centers](https://trueinterview.io/questions/forecast-storage-demand-across-100-data-centers) | Phone | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/forecast-storage-demand-across-100-data-centers) | Sep 11, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Predict Click Probability for Music Recommendations](https://trueinterview.io/questions/predict-click-probability-for-music-recommendations) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/predict-click-probability-for-music-recommendations) | Sep 11, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Recent Ad-Click Counter](https://trueinterview.io/questions/ea41a698-48dd-51f0-92ce-3f9a925b628a) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ea41a698-48dd-51f0-92ce-3f9a925b628a) | Sep 11, 2026 |

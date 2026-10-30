@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Audit and Extend a Time-Series ML Pipeline](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | 🆕 Sep 14, 2026 |
+| [Audit and Extend a Time-Series ML Pipeline](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/audit-and-extend-a-time-series-ml-pipeline) | Sep 14, 2026 |
 | [Count Palindromic Substrings](https://trueinterview.io/questions/palindromic-substrings)<br><sub>also [Goldman Sachs](../companies/goldman-sachs.md) / [Citadel](../companies/citadel.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/palindromic-substrings) | Aug 2026 |
 | [Earliest Time with Maximum Running Processes](https://trueinterview.io/questions/919a65ad-9af1-526c-afa5-beb2c0be5e61) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/919a65ad-9af1-526c-afa5-beb2c0be5e61) | Aug 2026 |
 | [Flipping Balls with Moving Marked Positions](https://trueinterview.io/questions/82bde9d9-d448-5077-86bf-e426c6b07190) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/82bde9d9-d448-5077-86bf-e426c6b07190) | Jul 2026 |

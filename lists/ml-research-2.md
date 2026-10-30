@@ -6,7 +6,7 @@
 
 > **Who:** Asked for a **Machine Learning Engineer**, **Research Scientist** or **AI Engineer** role.
 
-**481 questions** · 396 at Senior/Staff+ · 119 reported in the last 90 days · 181 free to solve
+**481 questions** · 396 at Senior/Staff+ · 118 reported in the last 90 days · 181 free to solve
 
 **Rounds:** 📝 OA (21) · 📞 Phone (244) · 🏢 Onsite (262) · 🏠 Take-home (1)
 
