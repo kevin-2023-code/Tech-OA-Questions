@@ -6,7 +6,7 @@
 
 > **Who:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**1,097 questions** · 1,097 at Senior/Staff+ · 175 reported in the last 90 days · 662 free to solve
+**1,097 questions** · 1,097 at Senior/Staff+ · 156 reported in the last 90 days · 662 free to solve
 
 **Rounds:** 📝 OA (20) · 📞 Phone (573) · 🏢 Onsite (535) · 🏠 Take-home (1)
 

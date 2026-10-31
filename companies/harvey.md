@@ -17,7 +17,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design a Chat Application with Durable Conversation History](https://trueinterview.io/questions/design-a-chat-application-with-durable-conversation-history) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-chat-application-with-durable-conversation-history) | 🆕 Sep 15, 2026 |
+| [Design a Chat Application with Durable Conversation History](https://trueinterview.io/questions/design-a-chat-application-with-durable-conversation-history) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-chat-application-with-durable-conversation-history) | Sep 15, 2026 |
 | [Allocate Unique File Names in an In-Memory Vault](https://trueinterview.io/questions/allocate-unique-file-names-in-an-in-memory-vault) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/allocate-unique-file-names-in-an-in-memory-vault) | Sep 1, 2026 |
 | [Design and Evaluate a Retrieval-Augmented Generation Pipeline](https://trueinterview.io/questions/design-and-evaluate-a-retrieval-augmented-generation-pipeline) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-and-evaluate-a-retrieval-augmented-generation-pipeline) | Sep 1, 2026 |
 | [Find Duplicate Files While Handling Symbolic-Link Cycles](https://trueinterview.io/questions/find-duplicate-files-while-handling-symbolic-link-cycles) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-duplicate-files-while-handling-symbolic-link-cycles) | Sep 1, 2026 |

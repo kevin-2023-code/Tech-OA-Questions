@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,346 questions** · 1,909 at Senior/Staff+ · 667 reported in the last 90 days · 741 free to solve
+**2,346 questions** · 1,909 at Senior/Staff+ · 580 reported in the last 90 days · 741 free to solve
 
 **By employer group:** 🧠 AI labs (251) · 📈 Quant firms (71) · 🏛️ MAANG+ (776)
 

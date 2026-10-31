@@ -15,4 +15,4 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design Consistent List and Category APIs](https://trueinterview.io/questions/design-consistent-list-and-category-apis) | Onsite | New grad · Mid | System design | [![Free][f]](https://trueinterview.io/questions/design-consistent-list-and-category-apis) | 🆕 Sep 15, 2026 |
+| [Design Consistent List and Category APIs](https://trueinterview.io/questions/design-consistent-list-and-category-apis) | Onsite | New grad · Mid | System design | [![Free][f]](https://trueinterview.io/questions/design-consistent-list-and-category-apis) | Sep 15, 2026 |

@@ -6,7 +6,7 @@
 
 > **Where:** Employers the shared company registry files under *AI labs & AI infrastructure* — OpenAI, Anthropic, xAI, Microsoft AI, Perplexity, Scale AI and the rest.
 
-**504 questions** · 430 at Senior/Staff+ · 178 reported in the last 90 days · 148 free to solve
+**504 questions** · 430 at Senior/Staff+ · 158 reported in the last 90 days · 148 free to solve
 
 **Rounds:** 📝 OA (39) · 📞 Phone (264) · 🏢 Onsite (251) · 🏠 Take-home (5)
 
