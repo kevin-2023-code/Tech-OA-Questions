@@ -4,32 +4,36 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Affirm on TrueInterview](https://trueinterview.io/problems/company/affirm) · [How Affirm interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/affirm/README.md)
 
-**18 questions** · Senior & Staff+ 12 · ML & Research Scientist 1 · last reported Oct 2026
+💳 Fintech, payments & crypto · **18 questions** · 2 from an OA · last reported Oct 2026
+
+**By level:** 🎓 Intern & New grad (9) · 🌱 Mid (15) · 🎯 Senior (12) · 🚀 Staff+ (2)
+
+**By role:** 💻 Software Engineering (17) · 🤖 ML, AI & Research (1)
 
 **Rounds:** 📝 OA (2) · 📞 Phone (10) · 🏢 Onsite (8)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design Payment System](https://trueinterview.io/questions/payment-platform-design)<br><sub>also [ByteDance](../companies/bytedance.md) / [Expedia](../companies/expedia.md) / [Google](../companies/google.md) / +6</sub> | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/payment-platform-design) | 🆕 Oct 2026 |
-| [Implement an LRU Cache (HashMap + Doubly Linked List) and Debug an Existing Implementation](https://trueinterview.io/questions/4d278295-f27d-4425-9bc3-2be3388a320c)<br><sub>also [Anthropic](../companies/anthropic.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/4d278295-f27d-4425-9bc3-2be3388a320c) | 🆕 Oct 2026 |
-| [Find Redeemable Offers](https://trueinterview.io/questions/find-redeemable-offers) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-redeemable-offers) | Aug 12, 2026 |
-| [Aggregate Recent Transactions](https://trueinterview.io/questions/aggregate-recent-transactions) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-recent-transactions) | Aug 7, 2026 |
-| [Group Loans by Top-Level Company](https://trueinterview.io/questions/group-loans-by-top-level-company) | Phone | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/group-loans-by-top-level-company) | Aug 6, 2026 |
-| [Live Fraud Detector](https://trueinterview.io/questions/live-fraud-detector) | Phone · Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/live-fraud-detector) | Aug 1, 2026 |
-| [Describe your highest-impact project](https://trueinterview.io/questions/describe-your-highest-impact-project) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/describe-your-highest-impact-project) | Aug 2026 |
+| [Design Payment System](https://trueinterview.io/questions/payment-platform-design)<br><sub>also [ByteDance](../companies/bytedance.md) / [Expedia](../companies/expedia.md) / [Google](../companies/google.md) / +6</sub> | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/payment-platform-design) | 🆕 Oct 2026 |
+| [Implement an LRU Cache (HashMap + Doubly Linked List) and Debug an Existing Implementation](https://trueinterview.io/questions/4d278295-f27d-4425-9bc3-2be3388a320c)<br><sub>also [Anthropic](../companies/anthropic.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/4d278295-f27d-4425-9bc3-2be3388a320c) | 🆕 Oct 2026 |
+| [Find Redeemable Offers](https://trueinterview.io/questions/find-redeemable-offers) | Phone · Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-redeemable-offers) | Aug 12, 2026 |
+| [Aggregate Recent Transactions](https://trueinterview.io/questions/aggregate-recent-transactions) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-recent-transactions) | Aug 7, 2026 |
+| [Group Loans by Top-Level Company](https://trueinterview.io/questions/group-loans-by-top-level-company) | Phone | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/group-loans-by-top-level-company) | Aug 6, 2026 |
+| [Live Fraud Detector](https://trueinterview.io/questions/live-fraud-detector) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/live-fraud-detector) | Aug 1, 2026 |
+| [Describe your highest-impact project](https://trueinterview.io/questions/describe-your-highest-impact-project) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-your-highest-impact-project) | Aug 2026 |
 | [Design Card Game](https://trueinterview.io/questions/design-card-game)<br><sub>also [Amazon](../companies/amazon.md)</sub> | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-card-game) | Aug 2026 |
-| [Evaluate String Expression](https://trueinterview.io/questions/nested-function-expression-evaluator)<br><sub>also [Google](../companies/google.md) / [Uber](../companies/uber.md)</sub> | Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/nested-function-expression-evaluator) | Jun 10, 2026 |
+| [Evaluate String Expression](https://trueinterview.io/questions/nested-function-expression-evaluator)<br><sub>also [Google](../companies/google.md) / [Uber](../companies/uber.md)</sub> | Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/nested-function-expression-evaluator) | Jun 10, 2026 |
 | [Design An Account Takeover Detection System](https://trueinterview.io/questions/account-takeover-prediction-system)<br><sub>also [Stripe](../companies/stripe.md) / [Robinhood](../companies/robinhood.md) / [Roblox](../companies/roblox.md) / +1</sub> | Onsite | Mid | System design | [![Free][f]](https://trueinterview.io/questions/account-takeover-prediction-system) | May 2026 |
-| [Design Installment-Loan Payment Processing](https://trueinterview.io/questions/design-installment-loan-payment-processing) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-installment-loan-payment-processing) | Apr 19, 2026 |
-| [Detect Fraud by Propagating Suspicious PII](https://trueinterview.io/questions/detect-fraud-by-propagating-suspicious-pii) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/detect-fraud-by-propagating-suspicious-pii) | Apr 19, 2026 |
+| [Design Installment-Loan Payment Processing](https://trueinterview.io/questions/design-installment-loan-payment-processing) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-installment-loan-payment-processing) | Apr 19, 2026 |
+| [Detect Fraud by Propagating Suspicious PII](https://trueinterview.io/questions/detect-fraud-by-propagating-suspicious-pii) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/detect-fraud-by-propagating-suspicious-pii) | Apr 19, 2026 |
 | [Count Reversing Triples](https://trueinterview.io/questions/count-reversing-triples) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-reversing-triples) | — |
 | [End Of Day Balance](https://trueinterview.io/questions/end-of-day-balance) | Onsite | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/end-of-day-balance) | — |
 | [High Correlation Seller](https://trueinterview.io/questions/high-correlation-seller) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/high-correlation-seller) | — |
-| [Persistent Stack](https://trueinterview.io/questions/persistent-stack) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/persistent-stack) | — |
+| [Persistent Stack](https://trueinterview.io/questions/persistent-stack) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/persistent-stack) | — |
 | [Prefix to Postfix](https://trueinterview.io/questions/prefix-to-postfix) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/prefix-to-postfix) | — |
-| [Sum of Islands Max](https://trueinterview.io/questions/sum-of-islands-max) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/sum-of-islands-max) | — |
+| [Sum of Islands Max](https://trueinterview.io/questions/sum-of-islands-max) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/sum-of-islands-max) | — |

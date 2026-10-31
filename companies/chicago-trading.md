@@ -4,13 +4,17 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Chicago Trading on TrueInterview](https://trueinterview.io/problems/company/chicago-trading) · [How Chicago Trading interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/chicago-trading/README.md)
 
-📈 Quant firms · **5 questions** · Senior & Staff+ 3 · Quant researcher & developer 3 · last reported Aug 2026
+📈 Quant trading & hedge funds · **5 questions** · last reported Aug 2026
+
+**By level:** 🌱 Mid (2) · 🎯 Senior (3)
+
+**By role:** 💻 Software Engineering (2) · 📈 Quantitative Finance (3)
 
 **Rounds:** 📞 Phone (3) · 🏢 Onsite (2)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/chicago-trading-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
@@ -18,7 +22,7 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Implement a C++ Unique Pointer](https://trueinterview.io/questions/b74e9701-d773-540a-88a9-b2f12d1697c4) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b74e9701-d773-540a-88a9-b2f12d1697c4) | Aug 2026 |
-| [Simple Moving Average over a Fixed-Size Sliding Window](https://trueinterview.io/questions/795e49f3-5449-5082-aee0-ffc2cfed1baa) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/795e49f3-5449-5082-aee0-ffc2cfed1baa) | Jul 2026 |
-| [Simplified Producer-Consumer System with Thread-Safe Bounded Storage](https://trueinterview.io/questions/15eeeb4d-047a-5c82-b3f2-0fe0eb40fe1c) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/15eeeb4d-047a-5c82-b3f2-0fe0eb40fe1c) | Jul 2026 |
-| [Smart Queue / Stock Quote Container](https://trueinterview.io/questions/dc9b15b6-587c-50f2-b57d-e78f195df65e) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/dc9b15b6-587c-50f2-b57d-e78f195df65e) | Jul 2026 |
+| [Simple Moving Average over a Fixed-Size Sliding Window](https://trueinterview.io/questions/795e49f3-5449-5082-aee0-ffc2cfed1baa) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/795e49f3-5449-5082-aee0-ffc2cfed1baa) | Jul 2026 |
+| [Simplified Producer-Consumer System with Thread-Safe Bounded Storage](https://trueinterview.io/questions/15eeeb4d-047a-5c82-b3f2-0fe0eb40fe1c) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/15eeeb4d-047a-5c82-b3f2-0fe0eb40fe1c) | Jul 2026 |
+| [Smart Queue / Stock Quote Container](https://trueinterview.io/questions/dc9b15b6-587c-50f2-b57d-e78f195df65e) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/dc9b15b6-587c-50f2-b57d-e78f195df65e) | Jul 2026 |
 | [Implement a Simplified C++ Vector](https://trueinterview.io/questions/949cdc20-2c65-5d5c-be42-64c71e7ef665) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/949cdc20-2c65-5d5c-be42-64c71e7ef665) | Jun 2026 |

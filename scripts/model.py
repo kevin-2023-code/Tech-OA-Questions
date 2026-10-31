@@ -2,17 +2,19 @@
 """The catalog as records, and the two axes every page here is cut by.
 
 This repository answers one question before any other: *is this list for me?*
-Its readers are experienced engineers and researchers, so the bank is cut two
-ways, and both are defined here and nowhere else:
+Its readers are the whole tech industry — interns and new grads through Staff+,
+software engineers, ML and research, data scientists, quants, PMs — so the bank
+is cut three ways, and all three are defined here and nowhere else:
 
-  * **Where you are interviewing** — a :class:`Group` of employers: AI labs,
-    quant firms, MAANG+. Membership comes from the shared company registry (the
-    same sector table the sister repositories file employers under), never from
-    a company's name.
-  * **Who you are** — a :class:`Track`: Senior & Staff+, ML & research, quant.
-    Membership comes from the facets the catalog publishes on each question
-    (``seniority``, ``roleTitles``, ``roles``). A question with no level on
-    record is in no level track: unclassified is not "every level".
+  * **Role** — a :class:`Track` in ``ROLES`` (and the narrower ``SPECIALTIES``),
+    read from the facets the catalog publishes on each question (``roles``,
+    ``roleTitles``).
+  * **Level** — a :class:`Track` in ``LEVEL_TRACKS``, read from ``seniority``.
+    A question with no level on record is in no level list: unclassified is not
+    "every level".
+  * **Industry** — an :class:`Industry`: MAANG+, or a sector of the shared
+    company registry (the same table the sister repositories file employers
+    under), never inferred from a company's name.
 
 Everything is a pure function of the snapshot and of ``today``, so a test can
 render the whole repository from a fixture and compare bytes.
@@ -25,7 +27,7 @@ from datetime import date, timedelta
 from typing import Any, Callable
 
 from labels import COMPANY_LABELS, company_key, company_label
-from segments import segment_of
+from segments import SECTOR_BY_ID, SECTORS, segment_of
 
 # ── Freshness ────────────────────────────────────────────────────────────────
 
@@ -65,11 +67,10 @@ LEVEL_SHORT = {
     "new-grad": "New grad",
     # The rung of L4 / E4 / SDE II — the site labels it "Junior / Mid".
     "junior": "Mid",
-    "senior": "**Senior**",
-    "staff-plus": "**Staff+**",
+    "senior": "Senior",
+    "staff-plus": "Staff+",
     "manager": "Manager",
 }
-EXPERIENCED_LEVELS = frozenset({"senior", "staff-plus"})
 
 ROUNDS = ("oa", "phone-screen", "onsite", "take-home")
 ROUND_SHORT = {"oa": "OA", "phone-screen": "Phone", "onsite": "Onsite", "take-home": "Take-home"}
@@ -83,6 +84,7 @@ FORMAT_SHORT = {
     "object-oriented-programming": "OOD / LLD",
     "sql": "SQL",
     "ai-coding": "AI coding",
+    "blog": "Behavioral / concept",
 }
 
 
@@ -108,7 +110,7 @@ class Question:
     last_reported: str | None
     seen: date | None                 # the most recent sighting we know of
     seen_month_only: bool
-    groups: frozenset[str]
+    industries: frozenset[str]
 
     @property
     def free(self) -> bool:
@@ -144,7 +146,7 @@ class Catalog:
     site_company_urls: dict[str, str]
 
 
-# ── Where you are interviewing ───────────────────────────────────────────────
+# ── Industry: where you are interviewing ─────────────────────────────────────
 
 #: Spelled out because "MAANG" is a list of five names and this one has six.
 MAANG_PLUS = ("meta", "apple", "amazon", "netflix", "google", "microsoft")
@@ -157,35 +159,59 @@ SECTOR_ALIASES = {
 
 
 @dataclass(frozen=True)
-class Group:
-    id: str
+class Industry:
+    id: str        # also the file name under lists/
     emoji: str
     label: str
     rule: str
 
 
-GROUPS: tuple[Group, ...] = (
-    Group("ai-labs", "🧠", "AI labs", "Employers the shared company registry files under *AI labs & AI infrastructure* — OpenAI, Anthropic, xAI, Microsoft AI, Perplexity, Scale AI and the rest."),
-    Group("quant", "📈", "Quant firms", "Employers the shared company registry files under *Quant trading & hedge funds* — Jane Street, Citadel, Hudson River Trading, Two Sigma, Optiver and the rest."),
-    Group("maang", "🏛️", "MAANG+", "Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**."),
+def _sector_industry(sector_id: str) -> Industry:
+    sector = SECTOR_BY_ID[sector_id]
+    return Industry(
+        _SECTOR_SLUGS.get(sector_id, sector_id),
+        sector.emoji,
+        sector.label,
+        f"Employers the shared company registry files under *{sector.label}*.",
+    )
+
+
+#: Two sectors keep the list names they were first published under, so links
+#: shared to ``lists/ai-labs.md`` and ``lists/quant.md`` keep working.
+_SECTOR_SLUGS = {"ai": "ai-labs", "quant-trading": "quant"}
+
+#: Every industry a page can be cut by: MAANG+ first (it is how most candidates
+#: name their target), then every sector of the shared registry, in its order.
+INDUSTRIES: tuple[Industry, ...] = (
+    Industry("maang", "🏛️", "MAANG+", "Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**."),
+    *(_sector_industry(s.id) for s in SECTORS),
 )
-GROUP_BY_ID = {g.id: g for g in GROUPS}
+INDUSTRY_BY_ID = {i.id: i for i in INDUSTRIES}
 
 
-def group_of(company: str, labels: dict[str, str]) -> str | None:
+def industries_of(company: str, labels: dict[str, str]) -> frozenset[str]:
+    """The industries one employer is filed under: its registry sector, plus
+    MAANG+ for the six. Unclassified employers are in none — never guessed."""
     key = company_key(company, labels)
+    out = set()
     if key in MAANG_PLUS:
-        return "maang"
+        out.add("maang")
     sector, _ = segment_of(company, labels)
     sector = sector or SECTOR_ALIASES.get(key)
-    if sector == "ai":
-        return "ai-labs"
-    if sector == "quant-trading":
-        return "quant"
-    return None
+    if sector:
+        out.add(_SECTOR_SLUGS.get(sector, sector))
+    return frozenset(out)
 
 
-# ── Who you are ──────────────────────────────────────────────────────────────
+def sector_industry(company: str, labels: dict[str, str]) -> str | None:
+    """The one registry-sector industry of an employer (not MAANG+), or None."""
+    key = company_key(company, labels)
+    sector, _ = segment_of(company, labels)
+    sector = sector or SECTOR_ALIASES.get(key)
+    return _SECTOR_SLUGS.get(sector, sector) if sector else None
+
+
+# ── Role and level: who you are ──────────────────────────────────────────────
 
 ML_RESEARCH_TITLES = frozenset({"Machine Learning Engineer", "Research Scientist", "AI Engineer"})
 
@@ -200,51 +226,89 @@ class Track:
     test: Callable[[Question], bool]
 
 
-TRACKS: tuple[Track, ...] = (
+#: The role rows of the front-page matrix, broadest first.
+ROLES: tuple[Track, ...] = (
     Track(
-        "senior-staff", "🎯", "Senior & Staff+", "≈ L5 / E5 and up",
-        "Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).",
-        lambda q: bool(EXPERIENCED_LEVELS & set(q.levels)),
+        "swe", "💻", "Software Engineering", "SWE · backend · frontend · platform",
+        "Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.",
+        lambda q: "Software" in q.roles,
     ),
     Track(
-        "staff", "🚀", "Staff+ only", "≈ L6 / E6 and up",
-        "Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).",
-        lambda q: "staff-plus" in q.levels,
-    ),
-    Track(
-        "ml-research", "🔬", "ML & Research Scientist", "MLE · Research scientist · AI engineer",
-        "Asked for a **Machine Learning Engineer**, **Research Scientist** or **AI Engineer** role.",
+        "ml-research", "🤖", "ML, AI & Research", "MLE · AI engineer · research scientist",
+        "Asked for a **Machine Learning Engineer**, **AI Engineer** or **Research Scientist** role.",
         lambda q: bool(ML_RESEARCH_TITLES & set(q.role_titles)),
     ),
     Track(
-        "quant-roles", "📊", "Quant researcher & developer", "QR · QD · QT",
+        "data", "📊", "Data Science & Analytics", "DS · analytics · SQL-heavy loops",
+        "Asked for a **Data Scientist** role.",
+        lambda q: "Data Scientist" in q.role_titles,
+    ),
+    Track(
+        "quant-roles", "📈", "Quantitative Finance", "QR · QD · QT",
         "Asked for a **Quantitative Finance** role — researcher, developer or trader.",
         lambda q: "Quantitative Finance" in q.roles,
     ),
     Track(
-        "all", "🗂️", "Every level", "incl. new grad & unclassified",
-        "Every question in the bank, whatever level or role it was reported for.",
-        lambda q: True,
+        "pm", "📱", "Product Management", "PM · TPM",
+        "Asked for a **Product Manager** role.",
+        lambda q: "Product & Design" in q.roles,
+    ),
+    Track(
+        "hardware", "🔧", "Hardware Engineering", "hardware · embedded",
+        "Asked for a **Hardware** role.",
+        lambda q: "Hardware & Engineering" in q.roles,
     ),
 )
-TRACK_BY_ID = {t.id: t for t in TRACKS}
+
+#: Narrower cuts inside Software Engineering, one list each and no matrix row.
+SPECIALTIES: tuple[Track, ...] = (
+    Track("backend", "⚙️", "Backend", "", "Asked for a **Backend Engineer** role.", lambda q: "Backend Engineer" in q.role_titles),
+    Track("frontend", "🖥️", "Frontend", "", "Asked for a **Frontend Engineer** role.", lambda q: "Frontend Engineer" in q.role_titles),
+    Track("platform", "☁️", "Platform & infra", "", "Asked for a **Platform Engineer** role.", lambda q: "Platform Engineer" in q.role_titles),
+    Track("manager", "👔", "Engineering manager", "", "Reported at a **Manager** loop.", lambda q: "manager" in q.levels),
+)
+
+#: The level columns of the front-page matrix, lowest rung first. A question
+#: reported at two levels is in both columns.
+LEVEL_TRACKS: tuple[Track, ...] = (
+    Track(
+        "new-grad", "🎓", "Intern & New grad", "university · 0–1 yrs",
+        "Reported at an **Intern** or **New grad** loop.",
+        lambda q: bool({"intern", "new-grad"} & set(q.levels)),
+    ),
+    Track(
+        "mid", "🌱", "Mid", "≈ L4 / E4 / SDE II",
+        "Reported at a **Mid** loop (≈ L4 / E4 / SDE II).",
+        lambda q: "junior" in q.levels,
+    ),
+    Track(
+        "senior", "🎯", "Senior", "≈ L5 / E5 / SDE III",
+        "Reported at a **Senior** loop (≈ L5 / E5 / SDE III).",
+        lambda q: "senior" in q.levels,
+    ),
+    Track(
+        "staff", "🚀", "Staff+", "≈ L6 / E6 and up",
+        "Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).",
+        lambda q: "staff-plus" in q.levels,
+    ),
+)
+
+TRACK_BY_ID = {t.id: t for t in (*ROLES, *SPECIALTIES, *LEVEL_TRACKS)}
 
 #: A cut with fewer rows than this gets a dash, not a page: a page that exists for
 #: an hour and then disappears breaks every link anybody shared to it.
 MIN_LIST_ROWS = 3
 
 
-def in_group(q: Question, group: str | None) -> bool:
-    return group is None or group in q.groups
+def in_industry(q: Question, industry: str | None) -> bool:
+    return industry is None or industry in q.industries
 
 
-def list_slug(track: str, group: str | None) -> str:
-    """The file a (track, group) cell links to, under ``lists/``."""
-    if group is None:
-        return track
-    if track == "all":
-        return group
-    return f"{track}--{group}"
+def list_slug(role: str | None, level: str | None) -> str:
+    """The file a (role, level) matrix cell links to, under ``lists/``."""
+    if role and level:
+        return f"{role}--{level}"
+    return role or level or ""
 
 
 # ── Loop guides ──────────────────────────────────────────────────────────────
@@ -330,7 +394,7 @@ def load(snapshot: dict[str, Any]) -> Catalog:
                 last_reported=row.get("lastReported"),
                 seen=seen,
                 seen_month_only=month_only,
-                groups=frozenset(g for g in (group_of(c, labels) for c in companies) if g),
+                industries=frozenset(i for c in companies for i in industries_of(c, labels)),
             )
         )
 

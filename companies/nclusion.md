@@ -6,9 +6,13 @@
 
 **1 questions** · last reported Sep 2026
 
+**By level:** 🎓 Intern & New grad (1) · 🌱 Mid (1)
+
+**By role:** 💻 Software Engineering (1)
+
 **Rounds:** 🏢 Onsite (1)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg

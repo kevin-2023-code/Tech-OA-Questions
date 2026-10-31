@@ -4,31 +4,35 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Visa on TrueInterview](https://trueinterview.io/problems/company/visa) · [How Visa interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/visa/README.md)
 
-**15 questions** · Senior & Staff+ 12 · last reported Sep 2026
+🏦 Banks, insurers & asset managers · **15 questions** · 3 from an OA · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (5) · 🌱 Mid (4) · 🎯 Senior (8) · 🚀 Staff+ (6)
+
+**By role:** 💻 Software Engineering (15)
 
 **Rounds:** 📝 OA (3) · 📞 Phone (10) · 🏢 Onsite (2)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/visa-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Jump Game](https://trueinterview.io/questions/25fc504b-0fcb-40f7-9453-780b842efd06)<br><sub>also [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / [Microsoft](../companies/microsoft.md)</sub> | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/25fc504b-0fcb-40f7-9453-780b842efd06) | Sep 2026 |
-| [Best Time to Buy and Sell Stock](https://trueinterview.io/questions/b22b8d56-b468-4bec-86db-22b981d32761)<br><sub>also [Oracle](../companies/oracle.md)</sub> | OA | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/b22b8d56-b468-4bec-86db-22b981d32761) | Aug 2026 |
-| [Connected Groups](https://trueinterview.io/questions/6053e4f1-8399-5673-bbd5-ae75726d6a0b) | OA | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/6053e4f1-8399-5673-bbd5-ae75726d6a0b) | Jul 2026 |
-| [Count Distinct Movement Subsequences on a Number Line](https://trueinterview.io/questions/f70afa37-90a2-5c42-a173-236efea88ec0) | Phone | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/f70afa37-90a2-5c42-a173-236efea88ec0) | Jul 2026 |
-| [Minimize Maximum of Array](https://trueinterview.io/questions/643cf075-9cb4-571b-9d05-a2d0f99a3a47) | Phone | **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/643cf075-9cb4-571b-9d05-a2d0f99a3a47) | Jul 2026 |
+| [Jump Game](https://trueinterview.io/questions/25fc504b-0fcb-40f7-9453-780b842efd06)<br><sub>also [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / [Microsoft](../companies/microsoft.md)</sub> | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/25fc504b-0fcb-40f7-9453-780b842efd06) | Sep 2026 |
+| [Best Time to Buy and Sell Stock](https://trueinterview.io/questions/b22b8d56-b468-4bec-86db-22b981d32761)<br><sub>also [Oracle](../companies/oracle.md)</sub> | OA | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/b22b8d56-b468-4bec-86db-22b981d32761) | Aug 2026 |
+| [Connected Groups](https://trueinterview.io/questions/6053e4f1-8399-5673-bbd5-ae75726d6a0b) | OA | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/6053e4f1-8399-5673-bbd5-ae75726d6a0b) | Jul 2026 |
+| [Count Distinct Movement Subsequences on a Number Line](https://trueinterview.io/questions/f70afa37-90a2-5c42-a173-236efea88ec0) | Phone | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/f70afa37-90a2-5c42-a173-236efea88ec0) | Jul 2026 |
+| [Minimize Maximum of Array](https://trueinterview.io/questions/643cf075-9cb4-571b-9d05-a2d0f99a3a47) | Phone | Staff+ | Coding | [![Free][f]](https://trueinterview.io/questions/643cf075-9cb4-571b-9d05-a2d0f99a3a47) | Jul 2026 |
 | [Minimum Score of a Path Between Two Cities](https://trueinterview.io/questions/bdfa46dd-5ef8-59ba-a4da-2c0a912b8d4d) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/bdfa46dd-5ef8-59ba-a4da-2c0a912b8d4d) | Jul 2026 |
-| [Perfect Substring](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Phone | **Staff+** | Coding | [![Practice][p]](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Jul 2026 |
+| [Perfect Substring](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Phone | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/217a1c20-1806-5c0d-a1fc-2ab0f81b44c1) | Jul 2026 |
 | [Hash Map Counting / Lookup Problem](https://trueinterview.io/questions/ad5888a6-8606-4bb2-9983-c9f28184e6d6)<br><sub>also [Microsoft](../companies/microsoft.md) / [eBay](../companies/ebay.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/ad5888a6-8606-4bb2-9983-c9f28184e6d6) | Jun 2026 |
-| [Find K Closest Elements](https://trueinterview.io/questions/7bedae5f-5feb-4c90-95d3-db93bbb7a7a2)<br><sub>also [LinkedIn](../companies/linkedin.md)</sub> | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/7bedae5f-5feb-4c90-95d3-db93bbb7a7a2) | Apr 2026 |
-| [AI-augmented Course Schedule Variation](https://trueinterview.io/questions/f07d3e71-08f4-4626-a568-17e13bd74cbc) | Phone | New grad · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/f07d3e71-08f4-4626-a568-17e13bd74cbc) | — |
-| [Concurrent User Management System Architecture Design](https://trueinterview.io/questions/0b31ae3b-9d46-43e6-b4ba-b4ff6c58394a) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/0b31ae3b-9d46-43e6-b4ba-b4ff6c58394a) | — |
-| [Designing Real-Time Instant Messaging Application with Media Support](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | — |
-| [Find All Unique Triplets Summing to Zero in Array](https://trueinterview.io/questions/b5288bfc-ed12-420e-ba65-0f1987df2acb)<br><sub>also [NVIDIA](../companies/nvidia.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/b5288bfc-ed12-420e-ba65-0f1987df2acb) | — |
-| [Largest Square Area in Cityscape](https://trueinterview.io/questions/e89ab3f5-2a6f-456a-ab6b-bb0e599eafe6) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e89ab3f5-2a6f-456a-ab6b-bb0e599eafe6) | — |
+| [Find K Closest Elements](https://trueinterview.io/questions/7bedae5f-5feb-4c90-95d3-db93bbb7a7a2)<br><sub>also [LinkedIn](../companies/linkedin.md)</sub> | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/7bedae5f-5feb-4c90-95d3-db93bbb7a7a2) | Apr 2026 |
+| [AI-augmented Course Schedule Variation](https://trueinterview.io/questions/f07d3e71-08f4-4626-a568-17e13bd74cbc) | Phone | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f07d3e71-08f4-4626-a568-17e13bd74cbc) | — |
+| [Concurrent User Management System Architecture Design](https://trueinterview.io/questions/0b31ae3b-9d46-43e6-b4ba-b4ff6c58394a) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/0b31ae3b-9d46-43e6-b4ba-b4ff6c58394a) | — |
+| [Designing Real-Time Instant Messaging Application with Media Support](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/9856cf15-b820-45d8-8dc8-dbaa40b41637) | — |
+| [Find All Unique Triplets Summing to Zero in Array](https://trueinterview.io/questions/b5288bfc-ed12-420e-ba65-0f1987df2acb)<br><sub>also [NVIDIA](../companies/nvidia.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b5288bfc-ed12-420e-ba65-0f1987df2acb) | — |
+| [Largest Square Area in Cityscape](https://trueinterview.io/questions/e89ab3f5-2a6f-456a-ab6b-bb0e599eafe6) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e89ab3f5-2a6f-456a-ab6b-bb0e599eafe6) | — |
 | [Minimize Value by Parentheses in Concatenated Expression](https://trueinterview.io/questions/2c206b9d-3d55-4b5e-a350-1617c3666b7b) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/2c206b9d-3d55-4b5e-a350-1617c3666b7b) | — |

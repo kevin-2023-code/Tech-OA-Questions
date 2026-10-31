@@ -4,28 +4,32 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Palantir on TrueInterview](https://trueinterview.io/problems/company/palantir) · [How Palantir interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/palantir/README.md)
 
-**12 questions** · Senior & Staff+ 9 · last reported Aug 2026
+🏢 Enterprise & business software · **12 questions** · 3 from an OA · last reported Aug 2026
+
+**By level:** 🎓 Intern & New grad (6) · 🌱 Mid (10) · 🎯 Senior (9) · 🚀 Staff+ (2)
+
+**By role:** 💻 Software Engineering (12)
 
 **Rounds:** 📝 OA (3) · 📞 Phone (4) · 🏢 Onsite (5)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/palantir-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Apply Item Coupons with Exact Per-Item Cent Rounding](https://trueinterview.io/questions/apply-item-coupons-with-exact-per-item-cent-rounding) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/apply-item-coupons-with-exact-per-item-cent-rounding) | Aug 27, 2026 |
-| [Optimize Coupon Selection Under a Twenty-Point Budget](https://trueinterview.io/questions/optimize-coupon-selection-under-a-twenty-point-budget) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/optimize-coupon-selection-under-a-twenty-point-budget) | Aug 27, 2026 |
-| [Stack Item and Category Coupons with an Eighty-Percent Cap](https://trueinterview.io/questions/stack-item-and-category-coupons-with-an-eighty-percent-cap) | OA | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/stack-item-and-category-coupons-with-an-eighty-percent-cap) | Aug 27, 2026 |
+| [Apply Item Coupons with Exact Per-Item Cent Rounding](https://trueinterview.io/questions/apply-item-coupons-with-exact-per-item-cent-rounding) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/apply-item-coupons-with-exact-per-item-cent-rounding) | Aug 27, 2026 |
+| [Optimize Coupon Selection Under a Twenty-Point Budget](https://trueinterview.io/questions/optimize-coupon-selection-under-a-twenty-point-budget) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/optimize-coupon-selection-under-a-twenty-point-budget) | Aug 27, 2026 |
+| [Stack Item and Category Coupons with an Eighty-Percent Cap](https://trueinterview.io/questions/stack-item-and-category-coupons-with-an-eighty-percent-cap) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/stack-item-and-category-coupons-with-an-eighty-percent-cap) | Aug 27, 2026 |
 | [Implement a Balanced Session Manager](https://trueinterview.io/questions/6b7a482e-7173-44d2-a93e-b90670a7ab10) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/6b7a482e-7173-44d2-a93e-b90670a7ab10) | May 2026 |
-| [Design a Server Metrics Monitor](https://trueinterview.io/questions/design-a-server-metrics-monitor) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-server-metrics-monitor) | Mar 8, 2026 |
-| [Find Shortest Paths in Road Network](https://trueinterview.io/questions/find-shortest-paths-in-road-network) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-shortest-paths-in-road-network) | Mar 8, 2026 |
-| [Handle value conflicts and disagreeing with leadership](https://trueinterview.io/questions/handle-value-conflicts-and-disagreeing-with-leadership) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/handle-value-conflicts-and-disagreeing-with-leadership) | Jan 6, 2026 |
+| [Design a Server Metrics Monitor](https://trueinterview.io/questions/design-a-server-metrics-monitor) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-server-metrics-monitor) | Mar 8, 2026 |
+| [Find Shortest Paths in Road Network](https://trueinterview.io/questions/find-shortest-paths-in-road-network) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-shortest-paths-in-road-network) | Mar 8, 2026 |
+| [Handle value conflicts and disagreeing with leadership](https://trueinterview.io/questions/handle-value-conflicts-and-disagreeing-with-leadership) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-value-conflicts-and-disagreeing-with-leadership) | Jan 6, 2026 |
 | [Minimal Operations](https://trueinterview.io/questions/1eaa7066-9ac8-467b-a088-175cfbfda50e)<br><sub>also [Salesforce](../companies/salesforce.md) / [Akuna Capital](../companies/akuna-capital.md)</sub> | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/1eaa7066-9ac8-467b-a088-175cfbfda50e) | Jul 2025 |
 | [Efficient Text Search with Proximity Constraint](https://trueinterview.io/questions/213917cc-da0a-4482-8899-3cde0c1d35b6) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/213917cc-da0a-4482-8899-3cde0c1d35b6) | Mar 2025 |
-| [Minimize Path Value](https://trueinterview.io/questions/dd4f6e70-6178-4ec4-b51f-5c77cea28a3d)<br><sub>also [Salesforce](../companies/salesforce.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/dd4f6e70-6178-4ec4-b51f-5c77cea28a3d) | — |
-| [REST API: Country Codes](https://trueinterview.io/questions/5135d1f2-dc3b-4cb7-a333-b6e57d0ff450) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/5135d1f2-dc3b-4cb7-a333-b6e57d0ff450) | — |
-| [Swap Parity](https://trueinterview.io/questions/cf402112-727c-4f9f-b976-8d9352ad3615)<br><sub>also [SoFi](../companies/sofi.md)</sub> | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/cf402112-727c-4f9f-b976-8d9352ad3615) | — |
+| [Minimize Path Value](https://trueinterview.io/questions/dd4f6e70-6178-4ec4-b51f-5c77cea28a3d)<br><sub>also [Salesforce](../companies/salesforce.md)</sub> | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/dd4f6e70-6178-4ec4-b51f-5c77cea28a3d) | — |
+| [REST API: Country Codes](https://trueinterview.io/questions/5135d1f2-dc3b-4cb7-a333-b6e57d0ff450) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/5135d1f2-dc3b-4cb7-a333-b6e57d0ff450) | — |
+| [Swap Parity](https://trueinterview.io/questions/cf402112-727c-4f9f-b976-8d9352ad3615)<br><sub>also [SoFi](../companies/sofi.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/cf402112-727c-4f9f-b976-8d9352ad3615) | — |

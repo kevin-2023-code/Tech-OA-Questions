@@ -4,11 +4,15 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Brex on TrueInterview](https://trueinterview.io/problems/company/brex) · [How Brex interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/brex/README.md)
 
-**4 questions** · Senior & Staff+ 2 · last reported Sep 2026
+💳 Fintech, payments & crypto · **4 questions** · 1 from an OA · last reported Sep 2026
+
+**By level:** 🌱 Mid (2) · 🎯 Senior (2) · 🚀 Staff+ (2)
+
+**By role:** 💻 Software Engineering (4)
 
 **Rounds:** 📝 OA (1) · 🏢 Onsite (3)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
@@ -16,6 +20,6 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Card Game Gem Affordability and Discount Calculation Functions](https://trueinterview.io/questions/3a9b7dbc-43d6-4eeb-a3ab-7003077dd6b4) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/3a9b7dbc-43d6-4eeb-a3ab-7003077dd6b4) | Sep 2026 |
-| [Design a Peer-to-Peer Money Transfer System](https://trueinterview.io/questions/design-a-peer-to-peer-money-transfer-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-peer-to-peer-money-transfer-system) | May 8, 2026 |
+| [Design a Peer-to-Peer Money Transfer System](https://trueinterview.io/questions/design-a-peer-to-peer-money-transfer-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-peer-to-peer-money-transfer-system) | May 8, 2026 |
 | [React UI: Multi-select Color Dropdown and Selected Properties Table](https://trueinterview.io/questions/aaaeddab-d8de-4c30-a94c-6fcc5ff9e6d8) | Onsite | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aaaeddab-d8de-4c30-a94c-6fcc5ff9e6d8) | Mar 2026 |
-| [Credit Card Service with Points Earning and Redemption System](https://trueinterview.io/questions/72fc1b26-d7bc-4260-a442-36f08b50385c) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/72fc1b26-d7bc-4260-a442-36f08b50385c) | — |
+| [Credit Card Service with Points Earning and Redemption System](https://trueinterview.io/questions/72fc1b26-d7bc-4260-a442-36f08b50385c) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/72fc1b26-d7bc-4260-a442-36f08b50385c) | — |

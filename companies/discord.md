@@ -4,25 +4,29 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Discord on TrueInterview](https://trueinterview.io/problems/company/discord) · [How Discord interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/discord/README.md)
 
-**11 questions** · Senior & Staff+ 11 · last reported Sep 2026
+📱 Consumer internet & media · **11 questions** · last reported Sep 2026
+
+**By level:** 🌱 Mid (5) · 🎯 Senior (11) · 🚀 Staff+ (8)
+
+**By role:** 💻 Software Engineering (9) · 📊 Data Science & Analytics (1)
 
 **Rounds:** 📞 Phone (4) · 🏢 Onsite (7)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9)<br><sub>also [ByteDance](../companies/bytedance.md) / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +6</sub> | Onsite | Mid · **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Sep 2026 |
-| [Implement Game Metadata Lookups](https://trueinterview.io/questions/implement-game-metadata-lookups) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-game-metadata-lookups) | Apr 3, 2026 |
-| [Walk through your background and proud project](https://trueinterview.io/questions/walk-through-your-background-and-proud-project) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/walk-through-your-background-and-proud-project) | Feb 4, 2026 |
-| [Demonstrate effective AI-assisted coding workflow](https://trueinterview.io/questions/demonstrate-effective-ai-assisted-coding-workflow) | Onsite | Mid · **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/demonstrate-effective-ai-assisted-coding-workflow) | Jan 27, 2026 |
-| [Design a TCP Discord-like chat server](https://trueinterview.io/questions/design-a-tcp-discord-like-chat-server) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-tcp-discord-like-chat-server) | Jan 27, 2026 |
-| [Design Product Notification and Autocomplete Experiments](https://trueinterview.io/questions/design-product-notification-and-autocomplete-experiments) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-product-notification-and-autocomplete-experiments) | Jan 16, 2026 |
-| [Implement User Sessionization From Event Stream](https://trueinterview.io/questions/implement-user-sessionization-from-event-stream) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-user-sessionization-from-event-stream) | Dec 16, 2025 |
-| [Explain C++ alignment and ABI stability](https://trueinterview.io/questions/explain-cplusplus-alignment-and-abi-stability) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-cplusplus-alignment-and-abi-stability) | Dec 8, 2025 |
-| [Debug and mitigate a CPU spike incident](https://trueinterview.io/questions/debug-and-mitigate-a-cpu-spike-incident) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/debug-and-mitigate-a-cpu-spike-incident) | Oct 25, 2025 |
-| [Design leader election using Redis leases](https://trueinterview.io/questions/design-leader-election-using-redis-leases) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-leader-election-using-redis-leases) | Oct 25, 2025 |
-| [Implement an asyncio-based chat server](https://trueinterview.io/questions/implement-an-asyncio-based-chat-server) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-an-asyncio-based-chat-server) | Oct 25, 2025 |
+| [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9)<br><sub>also [ByteDance](../companies/bytedance.md) / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +6</sub> | Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Sep 2026 |
+| [Implement Game Metadata Lookups](https://trueinterview.io/questions/implement-game-metadata-lookups) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-game-metadata-lookups) | Apr 3, 2026 |
+| [Walk through your background and proud project](https://trueinterview.io/questions/walk-through-your-background-and-proud-project) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/walk-through-your-background-and-proud-project) | Feb 4, 2026 |
+| [Demonstrate effective AI-assisted coding workflow](https://trueinterview.io/questions/demonstrate-effective-ai-assisted-coding-workflow) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/demonstrate-effective-ai-assisted-coding-workflow) | Jan 27, 2026 |
+| [Design a TCP Discord-like chat server](https://trueinterview.io/questions/design-a-tcp-discord-like-chat-server) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-tcp-discord-like-chat-server) | Jan 27, 2026 |
+| [Design Product Notification and Autocomplete Experiments](https://trueinterview.io/questions/design-product-notification-and-autocomplete-experiments) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-product-notification-and-autocomplete-experiments) | Jan 16, 2026 |
+| [Implement User Sessionization From Event Stream](https://trueinterview.io/questions/implement-user-sessionization-from-event-stream) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-user-sessionization-from-event-stream) | Dec 16, 2025 |
+| [Explain C++ alignment and ABI stability](https://trueinterview.io/questions/explain-cplusplus-alignment-and-abi-stability) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-cplusplus-alignment-and-abi-stability) | Dec 8, 2025 |
+| [Debug and mitigate a CPU spike incident](https://trueinterview.io/questions/debug-and-mitigate-a-cpu-spike-incident) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/debug-and-mitigate-a-cpu-spike-incident) | Oct 25, 2025 |
+| [Design leader election using Redis leases](https://trueinterview.io/questions/design-leader-election-using-redis-leases) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-leader-election-using-redis-leases) | Oct 25, 2025 |
+| [Implement an asyncio-based chat server](https://trueinterview.io/questions/implement-an-asyncio-based-chat-server) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-an-asyncio-based-chat-server) | Oct 25, 2025 |

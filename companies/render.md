@@ -4,16 +4,20 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Render on TrueInterview](https://trueinterview.io/problems/company/render) · [How Render interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/render/README.md)
 
-**2 questions** · Senior & Staff+ 2 · last reported Sep 2026
+☁️ Developer tools, cloud & data infrastructure · **2 questions** · last reported Sep 2026
+
+**By level:** 🌱 Mid (2) · 🎯 Senior (2)
+
+**By role:** 💻 Software Engineering (2)
 
 **Rounds:** 📞 Phone (2)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Rate Limit an API During a Traffic Attack](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | Phone | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | 🆕 Sep 17, 2026 |
-| [Count Blocked Rate-Limited Requests](https://trueinterview.io/questions/count-blocked-rate-limited-requests) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/count-blocked-rate-limited-requests) | Feb 26, 2026 |
+| [Rate Limit an API During a Traffic Attack](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | 🆕 Sep 17, 2026 |
+| [Count Blocked Rate-Limited Requests](https://trueinterview.io/questions/count-blocked-rate-limited-requests) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/count-blocked-rate-limited-requests) | Feb 26, 2026 |

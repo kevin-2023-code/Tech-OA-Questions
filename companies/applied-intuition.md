@@ -4,41 +4,45 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Applied Intuition on TrueInterview](https://trueinterview.io/problems/company/applied-intuition) · [How Applied Intuition interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/applied-intuition/README.md)
 
-**29 questions** · Senior & Staff+ 17 · last reported Sep 2026
+🚗 Autonomy, automotive & mobility · **29 questions** · 4 from an OA · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (6) · 🌱 Mid (21) · 🎯 Senior (17) · 🚀 Staff+ (2)
+
+**By role:** 💻 Software Engineering (28)
 
 **Rounds:** 📝 OA (4) · 📞 Phone (18) · 🏢 Onsite (8)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/applied-intuition-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [File Deduplication](https://trueinterview.io/questions/2c5a041b-d32a-53e1-9304-4b4d2680352f)<br><sub>also [Anthropic](../companies/anthropic.md)</sub> | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/2c5a041b-d32a-53e1-9304-4b4d2680352f) | Sep 2026 |
-| [Locate Cars with a Boolean Square-Scan API](https://trueinterview.io/questions/locate-cars-with-a-boolean-square-scan-api) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/locate-cars-with-a-boolean-square-scan-api) | Aug 30, 2026 |
-| [Resolve Variable Equations with Missing References and Cycles](https://trueinterview.io/questions/7d61d567-677d-5d12-a42f-d280477bfca1) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/7d61d567-677d-5d12-a42f-d280477bfca1) | Aug 2026 |
-| [Sensor Data Query Processor](https://trueinterview.io/questions/12f19a25-7175-5224-8bf1-2e6262350b76) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/12f19a25-7175-5224-8bf1-2e6262350b76) | Jul 2026 |
+| [File Deduplication](https://trueinterview.io/questions/2c5a041b-d32a-53e1-9304-4b4d2680352f)<br><sub>also [Anthropic](../companies/anthropic.md)</sub> | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/2c5a041b-d32a-53e1-9304-4b4d2680352f) | Sep 2026 |
+| [Locate Cars with a Boolean Square-Scan API](https://trueinterview.io/questions/locate-cars-with-a-boolean-square-scan-api) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/locate-cars-with-a-boolean-square-scan-api) | Aug 30, 2026 |
+| [Resolve Variable Equations with Missing References and Cycles](https://trueinterview.io/questions/7d61d567-677d-5d12-a42f-d280477bfca1) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/7d61d567-677d-5d12-a42f-d280477bfca1) | Aug 2026 |
+| [Sensor Data Query Processor](https://trueinterview.io/questions/12f19a25-7175-5224-8bf1-2e6262350b76) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/12f19a25-7175-5224-8bf1-2e6262350b76) | Jul 2026 |
 | [Build a File-Driven Data Visualization and Replay UI](https://trueinterview.io/questions/build-a-file-driven-data-visualization-and-replay-ui) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/build-a-file-driven-data-visualization-and-replay-ui) | Jun 17, 2026 |
-| [Design Parsing Boundaries for Interdependent Message Types](https://trueinterview.io/questions/design-parsing-boundaries-for-interdependent-message-types) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-parsing-boundaries-for-interdependent-message-types) | Jun 17, 2026 |
+| [Design Parsing Boundaries for Interdependent Message Types](https://trueinterview.io/questions/design-parsing-boundaries-for-interdependent-message-types) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-parsing-boundaries-for-interdependent-message-types) | Jun 17, 2026 |
 | [First Collision Time in a Multi-Agent Unicycle Simulator](https://trueinterview.io/questions/602b6710-f264-58a7-8e1e-56e2c9cac37c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/602b6710-f264-58a7-8e1e-56e2c9cac37c) | Jun 2026 |
-| [Design Key-Value Store with Transactions](https://trueinterview.io/questions/design-key-value-store-with-transactions)<br><sub>also [Snowflake](../companies/snowflake.md) / [Lyft](../companies/lyft.md)</sub> | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-key-value-store-with-transactions) | May 2026 |
-| [In-Memory Database](https://trueinterview.io/questions/in-memory-database)<br><sub>also [Coinbase](../companies/coinbase.md) / [Anthropic](../companies/anthropic.md)</sub> | OA | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-database) | Apr 28, 2026 |
-| [Implement a Fixed-Capacity Deque](https://trueinterview.io/questions/implement-a-fixed-capacity-deque) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-fixed-capacity-deque) | Apr 14, 2026 |
+| [Design Key-Value Store with Transactions](https://trueinterview.io/questions/design-key-value-store-with-transactions)<br><sub>also [Snowflake](../companies/snowflake.md) / [Lyft](../companies/lyft.md)</sub> | Phone · Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-key-value-store-with-transactions) | May 2026 |
+| [In-Memory Database](https://trueinterview.io/questions/in-memory-database)<br><sub>also [Coinbase](../companies/coinbase.md) / [Anthropic](../companies/anthropic.md)</sub> | OA | New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-database) | Apr 28, 2026 |
+| [Implement a Fixed-Capacity Deque](https://trueinterview.io/questions/implement-a-fixed-capacity-deque) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-fixed-capacity-deque) | Apr 14, 2026 |
 | [Design In-Memory Key-Value Database](https://trueinterview.io/questions/design-in-memory-key-value-database)<br><sub>also [Lyft](../companies/lyft.md)</sub> | Onsite | Intern | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-in-memory-key-value-database) | Mar 2026 |
-| [Design a KV store with transactions](https://trueinterview.io/questions/design-a-kv-store-with-transactions) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kv-store-with-transactions) | Feb 12, 2026 |
+| [Design a KV store with transactions](https://trueinterview.io/questions/design-a-kv-store-with-transactions) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kv-store-with-transactions) | Feb 12, 2026 |
 | [Design a mini compiler/interpreter](https://trueinterview.io/questions/design-a-mini-compiler-interpreter) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/design-a-mini-compiler-interpreter) | Feb 12, 2026 |
-| [Find intersection of two line segments](https://trueinterview.io/questions/find-intersection-of-two-line-segments) | Onsite | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-intersection-of-two-line-segments) | Feb 12, 2026 |
-| [Validate Nested Configuration Objects](https://trueinterview.io/questions/validate-nested-configuration-objects) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-nested-configuration-objects) | Jan 12, 2026 |
-| [Merge 2D Line Segments](https://trueinterview.io/questions/61f47413-b128-4a85-bec3-36b12034e2a1) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/61f47413-b128-4a85-bec3-36b12034e2a1) | Jan 2026 |
-| [Scale Game of Life for Large Matrix](https://trueinterview.io/questions/8947a7cc-9bff-4eca-b2c4-28d56aaff182) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/8947a7cc-9bff-4eca-b2c4-28d56aaff182) | Jan 2026 |
-| [Topological Sort with Nested Elements](https://trueinterview.io/questions/75bb27c8-8c45-415d-bd44-edfb0d52af96) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/75bb27c8-8c45-415d-bd44-edfb0d52af96) | Jan 2026 |
-| [Validate JSON against Protobuf](https://trueinterview.io/questions/05f64d73-a5a3-45b8-9df3-8e995581973b) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/05f64d73-a5a3-45b8-9df3-8e995581973b) | Jan 2026 |
-| [Evaluate variables in simple arithmetic DSL](https://trueinterview.io/questions/evaluate-variables-in-simple-arithmetic-dsl) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-variables-in-simple-arithmetic-dsl) | Dec 1, 2025 |
+| [Find intersection of two line segments](https://trueinterview.io/questions/find-intersection-of-two-line-segments) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-intersection-of-two-line-segments) | Feb 12, 2026 |
+| [Validate Nested Configuration Objects](https://trueinterview.io/questions/validate-nested-configuration-objects) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-nested-configuration-objects) | Jan 12, 2026 |
+| [Merge 2D Line Segments](https://trueinterview.io/questions/61f47413-b128-4a85-bec3-36b12034e2a1) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/61f47413-b128-4a85-bec3-36b12034e2a1) | Jan 2026 |
+| [Scale Game of Life for Large Matrix](https://trueinterview.io/questions/8947a7cc-9bff-4eca-b2c4-28d56aaff182) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/8947a7cc-9bff-4eca-b2c4-28d56aaff182) | Jan 2026 |
+| [Topological Sort with Nested Elements](https://trueinterview.io/questions/75bb27c8-8c45-415d-bd44-edfb0d52af96) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/75bb27c8-8c45-415d-bd44-edfb0d52af96) | Jan 2026 |
+| [Validate JSON against Protobuf](https://trueinterview.io/questions/05f64d73-a5a3-45b8-9df3-8e995581973b) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/05f64d73-a5a3-45b8-9df3-8e995581973b) | Jan 2026 |
+| [Evaluate variables in simple arithmetic DSL](https://trueinterview.io/questions/evaluate-variables-in-simple-arithmetic-dsl) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-variables-in-simple-arithmetic-dsl) | Dec 1, 2025 |
 | [Message Parser](https://trueinterview.io/questions/e50a4680-a10a-486b-8a7a-5058a6225a0e) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e50a4680-a10a-486b-8a7a-5058a6225a0e) | Dec 2025 |
-| [Track simulations and report timeouts](https://trueinterview.io/questions/track-simulations-and-report-timeouts) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/track-simulations-and-report-timeouts) | Dec 2025 |
+| [Track simulations and report timeouts](https://trueinterview.io/questions/track-simulations-and-report-timeouts) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/track-simulations-and-report-timeouts) | Dec 2025 |
 | [Arithmetic Expression Evaluator II](https://trueinterview.io/questions/78d6d121-b1eb-489a-ad84-0e90cce7d0fc) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/78d6d121-b1eb-489a-ad84-0e90cce7d0fc) | Nov 2025 |
 | [Finding Optimal Camp Location](https://trueinterview.io/questions/9cea9ab2-6484-4533-b59d-0020053aee3d) | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/9cea9ab2-6484-4533-b59d-0020053aee3d) | Apr 2025 |
 | [Analyze Vehicle JSON Log](https://trueinterview.io/questions/d091f935-1e00-4404-9eb1-7b80c3db58f4) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/d091f935-1e00-4404-9eb1-7b80c3db58f4) | Mar 2025 |

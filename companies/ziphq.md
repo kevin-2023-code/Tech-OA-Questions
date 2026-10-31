@@ -4,20 +4,24 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice ZipHQ on TrueInterview](https://trueinterview.io/problems/company/ziphq) · [How ZipHQ interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/ziphq/README.md)
 
-**6 questions** · Senior & Staff+ 6 · last reported Sep 2026
+**6 questions** · last reported Sep 2026
+
+**By level:** 🌱 Mid (6) · 🎯 Senior (6)
+
+**By role:** 💻 Software Engineering (6)
 
 **Rounds:** 📞 Phone (4) · 🏢 Onsite (2)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Find the Guaranteed Capture Time in a Turn-Based Graph Game](https://trueinterview.io/questions/find-the-guaranteed-capture-time-in-a-turn-based-graph-game) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/find-the-guaranteed-capture-time-in-a-turn-based-graph-game) | 🆕 Sep 17, 2026 |
-| [Track Repeated Approval Alerts and Safely Update Alert Levels](https://trueinterview.io/questions/track-repeated-approval-alerts-and-safely-update-alert-levels) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/track-repeated-approval-alerts-and-safely-update-alert-levels) | Sep 5, 2026 |
-| [Find shortest path on infinite grid](https://trueinterview.io/questions/find-shortest-path-on-infinite-grid) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/find-shortest-path-on-infinite-grid) | Mar 11, 2026 |
-| [Implement a Vending Machine](https://trueinterview.io/questions/implement-a-vending-machine) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-vending-machine) | Jan 28, 2026 |
-| [Maximize non-adjacent sum on an N-ary tree](https://trueinterview.io/questions/maximize-non-adjacent-sum-on-an-n-ary-tree) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-non-adjacent-sum-on-an-n-ary-tree) | Dec 26, 2025 |
-| [Find flush and straight groups in cards](https://trueinterview.io/questions/find-flush-and-straight-groups-in-cards) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-flush-and-straight-groups-in-cards) | Nov 28, 2025 |
+| [Find the Guaranteed Capture Time in a Turn-Based Graph Game](https://trueinterview.io/questions/find-the-guaranteed-capture-time-in-a-turn-based-graph-game) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-the-guaranteed-capture-time-in-a-turn-based-graph-game) | 🆕 Sep 17, 2026 |
+| [Track Repeated Approval Alerts and Safely Update Alert Levels](https://trueinterview.io/questions/track-repeated-approval-alerts-and-safely-update-alert-levels) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/track-repeated-approval-alerts-and-safely-update-alert-levels) | Sep 5, 2026 |
+| [Find shortest path on infinite grid](https://trueinterview.io/questions/find-shortest-path-on-infinite-grid) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-shortest-path-on-infinite-grid) | Mar 11, 2026 |
+| [Implement a Vending Machine](https://trueinterview.io/questions/implement-a-vending-machine) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-vending-machine) | Jan 28, 2026 |
+| [Maximize non-adjacent sum on an N-ary tree](https://trueinterview.io/questions/maximize-non-adjacent-sum-on-an-n-ary-tree) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-non-adjacent-sum-on-an-n-ary-tree) | Dec 26, 2025 |
+| [Find flush and straight groups in cards](https://trueinterview.io/questions/find-flush-and-straight-groups-in-cards) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-flush-and-straight-groups-in-cards) | Nov 28, 2025 |

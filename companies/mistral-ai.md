@@ -4,23 +4,27 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Mistral AI on TrueInterview](https://trueinterview.io/problems/company/mistral-ai) · [How Mistral AI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/mistral-ai/README.md)
 
-🧠 AI labs · **9 questions** · Senior & Staff+ 9 · ML & Research Scientist 6 · last reported Sep 2026
+🧠 AI labs & AI infrastructure · **9 questions** · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (1) · 🌱 Mid (3) · 🎯 Senior (9) · 🚀 Staff+ (6)
+
+**By role:** 💻 Software Engineering (3) · 🤖 ML, AI & Research (6)
 
 **Rounds:** 📞 Phone (9)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Compare Reward-Model RLHF and Direct Preference Optimization](https://trueinterview.io/questions/compare-reward-model-rlhf-and-direct-preference-optimization) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/compare-reward-model-rlhf-and-direct-preference-optimization) | Sep 1, 2026 |
-| [Compare RMSNorm and LayerNorm in Transformer Blocks](https://trueinterview.io/questions/compare-rmsnorm-and-layernorm-in-transformer-blocks) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compare-rmsnorm-and-layernorm-in-transformer-blocks) | Sep 1, 2026 |
-| [Compare Tensor Parallelism and Pipeline Parallelism](https://trueinterview.io/questions/compare-tensor-parallelism-and-pipeline-parallelism) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/compare-tensor-parallelism-and-pipeline-parallelism) | Sep 1, 2026 |
-| [Explain Adam, AdamW, and Decoupled Weight Decay](https://trueinterview.io/questions/explain-adam-adamw-and-decoupled-weight-decay) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-adam-adamw-and-decoupled-weight-decay) | Sep 1, 2026 |
-| [Explain Mixture of Experts and Expert Parallelism](https://trueinterview.io/questions/explain-mixture-of-experts-and-expert-parallelism) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-mixture-of-experts-and-expert-parallelism) | Sep 1, 2026 |
-| [Explain the Forward and Reverse Processes of Diffusion Models](https://trueinterview.io/questions/explain-the-forward-and-reverse-processes-of-diffusion-models) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-the-forward-and-reverse-processes-of-diffusion-models) | Sep 1, 2026 |
-| [Keep GPUs Fed with an Efficient Data-Preparation Pipeline](https://trueinterview.io/questions/keep-gpus-fed-with-an-efficient-data-preparation-pipeline) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/keep-gpus-fed-with-an-efficient-data-preparation-pipeline) | Sep 1, 2026 |
-| [Compute Remaining GPUs With Switching Limits](https://trueinterview.io/questions/compute-remaining-gpus-with-switching-limits) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/compute-remaining-gpus-with-switching-limits) | Apr 16, 2026 |
-| [Design a PDF-to-Markdown Inference API](https://trueinterview.io/questions/design-a-pdf-to-markdown-inference-api) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-pdf-to-markdown-inference-api) | Apr 16, 2026 |
+| [Compare Reward-Model RLHF and Direct Preference Optimization](https://trueinterview.io/questions/compare-reward-model-rlhf-and-direct-preference-optimization) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-reward-model-rlhf-and-direct-preference-optimization) | Sep 1, 2026 |
+| [Compare RMSNorm and LayerNorm in Transformer Blocks](https://trueinterview.io/questions/compare-rmsnorm-and-layernorm-in-transformer-blocks) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-rmsnorm-and-layernorm-in-transformer-blocks) | Sep 1, 2026 |
+| [Compare Tensor Parallelism and Pipeline Parallelism](https://trueinterview.io/questions/compare-tensor-parallelism-and-pipeline-parallelism) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-tensor-parallelism-and-pipeline-parallelism) | Sep 1, 2026 |
+| [Explain Adam, AdamW, and Decoupled Weight Decay](https://trueinterview.io/questions/explain-adam-adamw-and-decoupled-weight-decay) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-adam-adamw-and-decoupled-weight-decay) | Sep 1, 2026 |
+| [Explain Mixture of Experts and Expert Parallelism](https://trueinterview.io/questions/explain-mixture-of-experts-and-expert-parallelism) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-mixture-of-experts-and-expert-parallelism) | Sep 1, 2026 |
+| [Explain the Forward and Reverse Processes of Diffusion Models](https://trueinterview.io/questions/explain-the-forward-and-reverse-processes-of-diffusion-models) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-the-forward-and-reverse-processes-of-diffusion-models) | Sep 1, 2026 |
+| [Keep GPUs Fed with an Efficient Data-Preparation Pipeline](https://trueinterview.io/questions/keep-gpus-fed-with-an-efficient-data-preparation-pipeline) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/keep-gpus-fed-with-an-efficient-data-preparation-pipeline) | Sep 1, 2026 |
+| [Compute Remaining GPUs With Switching Limits](https://trueinterview.io/questions/compute-remaining-gpus-with-switching-limits) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/compute-remaining-gpus-with-switching-limits) | Apr 16, 2026 |
+| [Design a PDF-to-Markdown Inference API](https://trueinterview.io/questions/design-a-pdf-to-markdown-inference-api) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-a-pdf-to-markdown-inference-api) | Apr 16, 2026 |

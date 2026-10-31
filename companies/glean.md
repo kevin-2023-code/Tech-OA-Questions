@@ -4,24 +4,28 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Glean on TrueInterview](https://trueinterview.io/problems/company/glean) · [How Glean interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/glean/README.md)
 
-**10 questions** · Senior & Staff+ 10 · ML & Research Scientist 2 · last reported Apr 2026
+**10 questions** · last reported Apr 2026
+
+**By level:** 🎓 Intern & New grad (2) · 🌱 Mid (7) · 🎯 Senior (10) · 🚀 Staff+ (3)
+
+**By role:** 💻 Software Engineering (4) · 🤖 ML, AI & Research (2) · 📊 Data Science & Analytics (4)
 
 **Rounds:** 📞 Phone (6) · 🏢 Onsite (4)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design Employee-to-Employee Distance](https://trueinterview.io/questions/design-employee-to-employee-distance) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-employee-to-employee-distance) | Apr 23, 2026 |
-| [Implement Rate-Limited Wikipedia Crawler](https://trueinterview.io/questions/implement-rate-limited-wikipedia-crawler) | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-rate-limited-wikipedia-crawler) | Apr 23, 2026 |
-| [Search Words in a Character Grid](https://trueinterview.io/questions/search-words-in-a-character-grid)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/search-words-in-a-character-grid) | Apr 15, 2026 |
-| [Find the Kth Largest in Two Sorted Arrays](https://trueinterview.io/questions/find-the-kth-largest-in-two-sorted-arrays) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-kth-largest-in-two-sorted-arrays) | Apr 1, 2026 |
-| [Implement 2048 Game Logic](https://trueinterview.io/questions/implement-2048-game-logic) | Phone | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-2048-game-logic) | Mar 1, 2026 |
-| [How to measure product success?](https://trueinterview.io/questions/how-to-measure-product-success) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/how-to-measure-product-success) | Jan 11, 2026 |
-| [What are sum expectation and variance?](https://trueinterview.io/questions/what-are-sum-expectation-and-variance) | Onsite | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/what-are-sum-expectation-and-variance) | Jan 11, 2026 |
-| [Simulate document assignment to indexers](https://trueinterview.io/questions/simulate-document-assignment-to-indexers) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/simulate-document-assignment-to-indexers) | Nov 19, 2025 |
-| [Compute DAU and rolling MAU with zero days](https://trueinterview.io/questions/compute-dau-and-rolling-mau-with-zero-days) | Phone | Mid · **Senior** | SQL | [![Free][f]](https://trueinterview.io/questions/compute-dau-and-rolling-mau-with-zero-days) | Nov 10, 2025 |
-| [Reason about MAU error after user ID rehash](https://trueinterview.io/questions/reason-about-mau-error-after-user-id-rehash) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/reason-about-mau-error-after-user-id-rehash) | Nov 10, 2025 |
+| [Design Employee-to-Employee Distance](https://trueinterview.io/questions/design-employee-to-employee-distance) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-employee-to-employee-distance) | Apr 23, 2026 |
+| [Implement Rate-Limited Wikipedia Crawler](https://trueinterview.io/questions/implement-rate-limited-wikipedia-crawler) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-rate-limited-wikipedia-crawler) | Apr 23, 2026 |
+| [Search Words in a Character Grid](https://trueinterview.io/questions/search-words-in-a-character-grid)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/search-words-in-a-character-grid) | Apr 15, 2026 |
+| [Find the Kth Largest in Two Sorted Arrays](https://trueinterview.io/questions/find-the-kth-largest-in-two-sorted-arrays) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-kth-largest-in-two-sorted-arrays) | Apr 1, 2026 |
+| [Implement 2048 Game Logic](https://trueinterview.io/questions/implement-2048-game-logic) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-2048-game-logic) | Mar 1, 2026 |
+| [How to measure product success?](https://trueinterview.io/questions/how-to-measure-product-success) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-to-measure-product-success) | Jan 11, 2026 |
+| [What are sum expectation and variance?](https://trueinterview.io/questions/what-are-sum-expectation-and-variance) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/what-are-sum-expectation-and-variance) | Jan 11, 2026 |
+| [Simulate document assignment to indexers](https://trueinterview.io/questions/simulate-document-assignment-to-indexers) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/simulate-document-assignment-to-indexers) | Nov 19, 2025 |
+| [Compute DAU and rolling MAU with zero days](https://trueinterview.io/questions/compute-dau-and-rolling-mau-with-zero-days) | Phone | Mid · Senior | SQL | [![Free][f]](https://trueinterview.io/questions/compute-dau-and-rolling-mau-with-zero-days) | Nov 10, 2025 |
+| [Reason about MAU error after user ID rehash](https://trueinterview.io/questions/reason-about-mau-error-after-user-id-rehash) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/reason-about-mau-error-after-user-id-rehash) | Nov 10, 2025 |

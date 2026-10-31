@@ -4,18 +4,22 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Siemens on TrueInterview](https://trueinterview.io/problems/company/siemens) · [How Siemens interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/siemens/README.md)
 
-**4 questions** · Senior & Staff+ 4 · ML & Research Scientist 4 · last reported Sep 2026
+**4 questions** · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (2) · 🌱 Mid (3) · 🎯 Senior (4) · 🚀 Staff+ (1)
+
+**By role:** 🤖 ML, AI & Research (4)
 
 **Rounds:** 📞 Phone (4)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Batch and Pad Variable-Length Vectors with Optional Final-Batch Dropping](https://trueinterview.io/questions/batch-and-pad-variable-length-vectors-with-optional-final-batch-dropping) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/batch-and-pad-variable-length-vectors-with-optional-final-batch-dropping) | Sep 4, 2026 |
-| [Choose LoRA for Fine-Tuning and Explain Its Limitations](https://trueinterview.io/questions/choose-lora-for-fine-tuning-and-explain-its-limitations) | Phone | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/choose-lora-for-fine-tuning-and-explain-its-limitations) | Sep 4, 2026 |
-| [Compare GRPO and PPO and Explain Sparse Versus Dense Rewards](https://trueinterview.io/questions/compare-grpo-and-ppo-and-explain-sparse-versus-dense-rewards) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compare-grpo-and-ppo-and-explain-sparse-versus-dense-rewards) | Sep 4, 2026 |
-| [Discuss Post-Training Ownership, Failure, and Disagreement](https://trueinterview.io/questions/discuss-post-training-ownership-failure-and-disagreement) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/discuss-post-training-ownership-failure-and-disagreement) | Sep 4, 2026 |
+| [Batch and Pad Variable-Length Vectors with Optional Final-Batch Dropping](https://trueinterview.io/questions/batch-and-pad-variable-length-vectors-with-optional-final-batch-dropping) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/batch-and-pad-variable-length-vectors-with-optional-final-batch-dropping) | Sep 4, 2026 |
+| [Choose LoRA for Fine-Tuning and Explain Its Limitations](https://trueinterview.io/questions/choose-lora-for-fine-tuning-and-explain-its-limitations) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-lora-for-fine-tuning-and-explain-its-limitations) | Sep 4, 2026 |
+| [Compare GRPO and PPO and Explain Sparse Versus Dense Rewards](https://trueinterview.io/questions/compare-grpo-and-ppo-and-explain-sparse-versus-dense-rewards) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-grpo-and-ppo-and-explain-sparse-versus-dense-rewards) | Sep 4, 2026 |
+| [Discuss Post-Training Ownership, Failure, and Disagreement](https://trueinterview.io/questions/discuss-post-training-ownership-failure-and-disagreement) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/discuss-post-training-ownership-failure-and-disagreement) | Sep 4, 2026 |

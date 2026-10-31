@@ -4,21 +4,25 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Block on TrueInterview](https://trueinterview.io/problems/company/block) · [How Block interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/block/README.md)
 
-**5 questions** · Senior & Staff+ 3 · last reported May 2026
+💳 Fintech, payments & crypto · **5 questions** · 1 from an OA · last reported May 2026
+
+**By level:** 🎓 Intern & New grad (1) · 🌱 Mid (4) · 🎯 Senior (3)
+
+**By role:** 💻 Software Engineering (5)
 
 **Rounds:** 📝 OA (1) · 📞 Phone (2) · 🏢 Onsite (2)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/block-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Generate 2D Minesweeper Grid](https://trueinterview.io/questions/generate-2d-minesweeper-grid)<br><sub>also [Uber](../companies/uber.md)</sub> | Onsite | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/generate-2d-minesweeper-grid) | May 2026 |
+| [Generate 2D Minesweeper Grid](https://trueinterview.io/questions/generate-2d-minesweeper-grid)<br><sub>also [Uber](../companies/uber.md)</sub> | Onsite | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/generate-2d-minesweeper-grid) | May 2026 |
 | [Optimal Crop Selection for Maximum Profit](https://trueinterview.io/questions/50177e10-60ce-48f3-8baa-05cae30ae9e2) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/50177e10-60ce-48f3-8baa-05cae30ae9e2) | Oct 2024 |
-| [Customer Transaction Network](https://trueinterview.io/questions/75fa093e-5e81-4716-9970-30851399b351) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/75fa093e-5e81-4716-9970-30851399b351) | — |
+| [Customer Transaction Network](https://trueinterview.io/questions/75fa093e-5e81-4716-9970-30851399b351) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/75fa093e-5e81-4716-9970-30851399b351) | — |
 | [Minesweeper Board Generation](https://trueinterview.io/questions/a0eccf02-13b4-4c9b-a2ac-69c127f7cc18) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a0eccf02-13b4-4c9b-a2ac-69c127f7cc18) | — |
-| [Tournament Progression Chart with JavaScript Simulation and UI](https://trueinterview.io/questions/5d30d8fe-838b-4c5a-9e01-a47461a797fc) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/5d30d8fe-838b-4c5a-9e01-a47461a797fc) | — |
+| [Tournament Progression Chart with JavaScript Simulation and UI](https://trueinterview.io/questions/5d30d8fe-838b-4c5a-9e01-a47461a797fc) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5d30d8fe-838b-4c5a-9e01-a47461a797fc) | — |

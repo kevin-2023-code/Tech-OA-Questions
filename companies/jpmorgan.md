@@ -4,13 +4,17 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice JPMorgan on TrueInterview](https://trueinterview.io/problems/company/jpmorgan) · [How JPMorgan interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/jpmorgan/README.md)
 
-**28 questions** · Senior & Staff+ 15 · Quant researcher & developer 4 · last reported Sep 2026
+🏦 Banks, insurers & asset managers · **28 questions** · 13 from an OA · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (8) · 🌱 Mid (16) · 🎯 Senior (15) · 🚀 Staff+ (3)
+
+**By role:** 💻 Software Engineering (23) · 📊 Data Science & Analytics (1) · 📈 Quantitative Finance (4)
 
 **Rounds:** 📝 OA (13) · 📞 Phone (9) · 🏢 Onsite (11)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/jpmorgan-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
@@ -18,30 +22,30 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Grouped Binary Substrings](https://trueinterview.io/questions/grouped-binary-substrings)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/grouped-binary-substrings) | Sep 2026 |
-| [Super Day Behavioral Round](https://trueinterview.io/questions/superday-behavioral-round) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/superday-behavioral-round) | Sep 2026 |
-| [Describe a proud project and conflict](https://trueinterview.io/questions/describe-a-proud-project-and-conflict) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-a-proud-project-and-conflict) | Aug 2026 |
-| [Interval Consolidation](https://trueinterview.io/questions/interval-consolidation-oa) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/interval-consolidation-oa) | Jun 23, 2026 |
-| [Prerequisite Cycle](https://trueinterview.io/questions/prerequisite-cycle-oa) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/prerequisite-cycle-oa) | Jun 23, 2026 |
-| [Shopping Cart Latency and Inventory](https://trueinterview.io/questions/shopping-cart-latency-and-inventory) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/shopping-cart-latency-and-inventory) | Jun 23, 2026 |
-| [Zero Compaction Array Coding](https://trueinterview.io/questions/zero-compaction-array-coding) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/zero-compaction-array-coding) | Jun 23, 2026 |
-| [Explain Core ML Concepts](https://trueinterview.io/questions/explain-core-ml-concepts-5) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-core-ml-concepts-5) | Apr 24, 2026 |
-| [Implement Integer Square Root](https://trueinterview.io/questions/implement-integer-square-root) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-integer-square-root) | Apr 24, 2026 |
-| [Design a Reliable Bank Payment System](https://trueinterview.io/questions/design-a-reliable-bank-payment-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-reliable-bank-payment-system) | Apr 23, 2026 |
-| [URL Shortener With Click Tracking](https://trueinterview.io/questions/url-shortener-with-click-tracking) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/url-shortener-with-click-tracking) | Apr 22, 2026 |
+| [Super Day Behavioral Round](https://trueinterview.io/questions/superday-behavioral-round) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/superday-behavioral-round) | Sep 2026 |
+| [Describe a proud project and conflict](https://trueinterview.io/questions/describe-a-proud-project-and-conflict) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-a-proud-project-and-conflict) | Aug 2026 |
+| [Interval Consolidation](https://trueinterview.io/questions/interval-consolidation-oa) | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/interval-consolidation-oa) | Jun 23, 2026 |
+| [Prerequisite Cycle](https://trueinterview.io/questions/prerequisite-cycle-oa) | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/prerequisite-cycle-oa) | Jun 23, 2026 |
+| [Shopping Cart Latency and Inventory](https://trueinterview.io/questions/shopping-cart-latency-and-inventory) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/shopping-cart-latency-and-inventory) | Jun 23, 2026 |
+| [Zero Compaction Array Coding](https://trueinterview.io/questions/zero-compaction-array-coding) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/zero-compaction-array-coding) | Jun 23, 2026 |
+| [Explain Core ML Concepts](https://trueinterview.io/questions/explain-core-ml-concepts-5) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-core-ml-concepts-5) | Apr 24, 2026 |
+| [Implement Integer Square Root](https://trueinterview.io/questions/implement-integer-square-root) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-integer-square-root) | Apr 24, 2026 |
+| [Design a Reliable Bank Payment System](https://trueinterview.io/questions/design-a-reliable-bank-payment-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-reliable-bank-payment-system) | Apr 23, 2026 |
+| [URL Shortener With Click Tracking](https://trueinterview.io/questions/url-shortener-with-click-tracking) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/url-shortener-with-click-tracking) | Apr 22, 2026 |
 | [Process Scheduler II](https://trueinterview.io/questions/minimum-cpu-cores) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-cpu-cores) | Mar 31, 2026 |
 | [Minimize Operations to Balance Shipments](https://trueinterview.io/questions/minimize-operations-to-balance-shipments) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimize-operations-to-balance-shipments) | Mar 21, 2026 |
-| [Explain Daily Signal Construction and a Prediction Workflow](https://trueinterview.io/questions/explain-daily-signal-construction-and-a-prediction-workflow) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-daily-signal-construction-and-a-prediction-workflow) | Mar 18, 2026 |
+| [Explain Daily Signal Construction and a Prediction Workflow](https://trueinterview.io/questions/explain-daily-signal-construction-and-a-prediction-workflow) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-daily-signal-construction-and-a-prediction-workflow) | Mar 18, 2026 |
 | [Minimum Anagram Edits](https://trueinterview.io/questions/minimum-anagram-edits) | OA · Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-anagram-edits) | Mar 18, 2026 |
 | [Table of Contents from Markdown Headings II](https://trueinterview.io/questions/markdown-table-of-contents) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/markdown-table-of-contents) | Mar 14, 2026 |
-| [Property Rental Search System](https://trueinterview.io/questions/property-rental-search-system) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/property-rental-search-system) | Feb 8, 2026 |
-| [C++ Virtual / Destructor / Pointer Review](https://trueinterview.io/questions/cpp-virtual-destructor-pointer-review) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/cpp-virtual-destructor-pointer-review) | Jan 15, 2026 |
+| [Property Rental Search System](https://trueinterview.io/questions/property-rental-search-system) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/property-rental-search-system) | Feb 8, 2026 |
+| [C++ Virtual / Destructor / Pointer Review](https://trueinterview.io/questions/cpp-virtual-destructor-pointer-review) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/cpp-virtual-destructor-pointer-review) | Jan 15, 2026 |
 | [Domino Tiling Recurrences](https://trueinterview.io/questions/domino-tiling-recurrences) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/domino-tiling-recurrences) | Jan 15, 2026 |
-| [Quant Probability and Statistics Orals](https://trueinterview.io/questions/quant-probability-and-statistics-orals) | Phone · Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/quant-probability-and-statistics-orals) | Jan 15, 2026 |
-| [Count substrings and generate TOC](https://trueinterview.io/questions/count-substrings-and-generate-toc) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/count-substrings-and-generate-toc) | Jan 13, 2026 |
+| [Quant Probability and Statistics Orals](https://trueinterview.io/questions/quant-probability-and-statistics-orals) | Phone · Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/quant-probability-and-statistics-orals) | Jan 15, 2026 |
+| [Count substrings and generate TOC](https://trueinterview.io/questions/count-substrings-and-generate-toc) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/count-substrings-and-generate-toc) | Jan 13, 2026 |
 | [Minimum Swaps to Sort (Cycle Decomposition)](https://trueinterview.io/questions/minimum-swaps-to-sort-cycle)<br><sub>also [Akuna Capital](../companies/akuna-capital.md)</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-swaps-to-sort-cycle) | Dec 20, 2025 |
-| [Circular Active Computers Window](https://trueinterview.io/questions/circular-active-computers-window) | OA · Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/circular-active-computers-window) | Dec 2025 |
+| [Circular Active Computers Window](https://trueinterview.io/questions/circular-active-computers-window) | OA · Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/circular-active-computers-window) | Dec 2025 |
 | [Interval Sign Flips](https://trueinterview.io/questions/interval-sign-flips) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/interval-sign-flips) | Nov 19, 2025 |
 | [Split Array: Left Sum Greater](https://trueinterview.io/questions/split-array-left-sum-greater) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/split-array-left-sum-greater) | Sep 5, 2025 |
 | [Delete-One-Character Positions](https://trueinterview.io/questions/delete-one-character-positions) | OA · Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/delete-one-character-positions) | Jul 29, 2025 |
 | [Alphanumeric Vowel / Consonant Count](https://trueinterview.io/questions/alphanumeric-vowel-consonant-count) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/alphanumeric-vowel-consonant-count) | Jun 30, 2025 |
-| [Million-User Flash Sale System](https://trueinterview.io/questions/million-user-flash-sale-system) | Onsite | **Senior** | System design | [![Free][f]](https://trueinterview.io/questions/million-user-flash-sale-system) | Jun 21, 2025 |
+| [Million-User Flash Sale System](https://trueinterview.io/questions/million-user-flash-sale-system) | Onsite | Senior | System design | [![Free][f]](https://trueinterview.io/questions/million-user-flash-sale-system) | Jun 21, 2025 |

@@ -4,34 +4,38 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice CVS Health on TrueInterview](https://trueinterview.io/problems/company/cvs-health) · [How CVS Health interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/cvs-health/README.md)
 
-**20 questions** · Senior & Staff+ 19 · last reported Aug 2026
+**20 questions** · 4 from an OA · last reported Aug 2026
+
+**By level:** 🎓 Intern & New grad (3) · 🌱 Mid (10) · 🎯 Senior (19) · 🚀 Staff+ (10)
+
+**By role:** 📊 Data Science & Analytics (19)
 
 **Rounds:** 📝 OA (4) · 📞 Phone (16)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Compute specialty spend share and top age band](https://trueinterview.io/questions/compute-specialty-spend-share-and-top-age-band) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-specialty-spend-share-and-top-age-band) | Aug 2026 |
-| [Create and query an e-commerce schema](https://trueinterview.io/questions/create-and-query-an-e-commerce-schema) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/create-and-query-an-e-commerce-schema) | Aug 2026 |
-| [Describe handling pressure and stakeholder conflicts](https://trueinterview.io/questions/describe-handling-pressure-and-stakeholder-conflicts) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/describe-handling-pressure-and-stakeholder-conflicts) | Jul 2026 |
-| [Build an uplift model for targeting](https://trueinterview.io/questions/build-an-uplift-model-for-targeting) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/build-an-uplift-model-for-targeting) | — |
-| [Calculate annual percentages and YoY by cohorts](https://trueinterview.io/questions/calculate-annual-percentages-and-yoy-by-cohorts) | Phone | Mid · **Senior** | SQL | [![Free][f]](https://trueinterview.io/questions/calculate-annual-percentages-and-yoy-by-cohorts) | — |
-| [Calculate CI and Test Correlation Under Normality](https://trueinterview.io/questions/calculate-ci-and-test-correlation-under-normality) | OA | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/calculate-ci-and-test-correlation-under-normality) | — |
-| [Compute A/B significance, CI, and power](https://trueinterview.io/questions/compute-a-b-significance-ci-and-power) | OA | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compute-a-b-significance-ci-and-power) | — |
-| [Compute age-band spend and YoY in Georgia](https://trueinterview.io/questions/compute-age-band-spend-and-yoy-in-georgia) | Phone | Mid · **Senior** | SQL | [![Free][f]](https://trueinterview.io/questions/compute-age-band-spend-and-yoy-in-georgia) | — |
-| [Create Views, Insert, and Update Correctly](https://trueinterview.io/questions/create-views-insert-and-update-correctly) | OA | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/create-views-insert-and-update-correctly) | — |
-| [Design a flu-shot A/B/n campaign experiment](https://trueinterview.io/questions/design-a-flu-shot-a-b-n-campaign-experiment) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-flu-shot-a-b-n-campaign-experiment) | — |
-| [Design an email flu-shot experiment](https://trueinterview.io/questions/design-an-email-flu-shot-experiment) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/design-an-email-flu-shot-experiment) | — |
-| [Design classification under missingness and imbalance](https://trueinterview.io/questions/design-classification-under-missingness-and-imbalance) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-classification-under-missingness-and-imbalance) | — |
-| [Diagnose a failing campaign](https://trueinterview.io/questions/diagnose-a-failing-campaign) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/diagnose-a-failing-campaign) | — |
-| [Explain p-value and choose correct test](https://trueinterview.io/questions/explain-p-value-and-choose-correct-test) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-p-value-and-choose-correct-test) | — |
-| [Explain your top strengths concretely](https://trueinterview.io/questions/explain-your-top-strengths-concretely) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-your-top-strengths-concretely) | — |
-| [Handle challenges in MMM/MMX](https://trueinterview.io/questions/handle-challenges-in-mmm-mmx) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/handle-challenges-in-mmm-mmx) | — |
-| [Launch and measure a TV campaign](https://trueinterview.io/questions/launch-and-measure-a-tv-campaign) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/launch-and-measure-a-tv-campaign) | — |
-| [Lead structured response to accuracy incident](https://trueinterview.io/questions/lead-structured-response-to-accuracy-incident) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/lead-structured-response-to-accuracy-incident) | — |
+| [Compute specialty spend share and top age band](https://trueinterview.io/questions/compute-specialty-spend-share-and-top-age-band) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-specialty-spend-share-and-top-age-band) | Aug 2026 |
+| [Create and query an e-commerce schema](https://trueinterview.io/questions/create-and-query-an-e-commerce-schema) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/create-and-query-an-e-commerce-schema) | Aug 2026 |
+| [Describe handling pressure and stakeholder conflicts](https://trueinterview.io/questions/describe-handling-pressure-and-stakeholder-conflicts) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-handling-pressure-and-stakeholder-conflicts) | Jul 2026 |
+| [Build an uplift model for targeting](https://trueinterview.io/questions/build-an-uplift-model-for-targeting) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/build-an-uplift-model-for-targeting) | — |
+| [Calculate annual percentages and YoY by cohorts](https://trueinterview.io/questions/calculate-annual-percentages-and-yoy-by-cohorts) | Phone | Mid · Senior | SQL | [![Free][f]](https://trueinterview.io/questions/calculate-annual-percentages-and-yoy-by-cohorts) | — |
+| [Calculate CI and Test Correlation Under Normality](https://trueinterview.io/questions/calculate-ci-and-test-correlation-under-normality) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/calculate-ci-and-test-correlation-under-normality) | — |
+| [Compute A/B significance, CI, and power](https://trueinterview.io/questions/compute-a-b-significance-ci-and-power) | OA | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-a-b-significance-ci-and-power) | — |
+| [Compute age-band spend and YoY in Georgia](https://trueinterview.io/questions/compute-age-band-spend-and-yoy-in-georgia) | Phone | Mid · Senior | SQL | [![Free][f]](https://trueinterview.io/questions/compute-age-band-spend-and-yoy-in-georgia) | — |
+| [Create Views, Insert, and Update Correctly](https://trueinterview.io/questions/create-views-insert-and-update-correctly) | OA | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/create-views-insert-and-update-correctly) | — |
+| [Design a flu-shot A/B/n campaign experiment](https://trueinterview.io/questions/design-a-flu-shot-a-b-n-campaign-experiment) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-flu-shot-a-b-n-campaign-experiment) | — |
+| [Design an email flu-shot experiment](https://trueinterview.io/questions/design-an-email-flu-shot-experiment) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-email-flu-shot-experiment) | — |
+| [Design classification under missingness and imbalance](https://trueinterview.io/questions/design-classification-under-missingness-and-imbalance) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-classification-under-missingness-and-imbalance) | — |
+| [Diagnose a failing campaign](https://trueinterview.io/questions/diagnose-a-failing-campaign) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-a-failing-campaign) | — |
+| [Explain p-value and choose correct test](https://trueinterview.io/questions/explain-p-value-and-choose-correct-test) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-p-value-and-choose-correct-test) | — |
+| [Explain your top strengths concretely](https://trueinterview.io/questions/explain-your-top-strengths-concretely) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-your-top-strengths-concretely) | — |
+| [Handle challenges in MMM/MMX](https://trueinterview.io/questions/handle-challenges-in-mmm-mmx) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-challenges-in-mmm-mmx) | — |
+| [Launch and measure a TV campaign](https://trueinterview.io/questions/launch-and-measure-a-tv-campaign) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/launch-and-measure-a-tv-campaign) | — |
+| [Lead structured response to accuracy incident](https://trueinterview.io/questions/lead-structured-response-to-accuracy-incident) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/lead-structured-response-to-accuracy-incident) | — |
 | [Use pandas to aggregate, pivot, and label](https://trueinterview.io/questions/use-pandas-to-aggregate-pivot-and-label) | Phone | New grad · Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/use-pandas-to-aggregate-pivot-and-label) | — |
-| [Write SQL for dedup and purchase shares](https://trueinterview.io/questions/write-sql-for-dedup-and-purchase-shares) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-dedup-and-purchase-shares) | — |
+| [Write SQL for dedup and purchase shares](https://trueinterview.io/questions/write-sql-for-dedup-and-purchase-shares) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-dedup-and-purchase-shares) | — |

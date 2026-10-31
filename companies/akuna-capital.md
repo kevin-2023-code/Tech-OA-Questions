@@ -4,23 +4,27 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Akuna Capital on TrueInterview](https://trueinterview.io/problems/company/akuna-capital) · [How Akuna Capital interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/akuna-capital/README.md)
 
-📈 Quant firms · **35 questions** · Senior & Staff+ 4 · Quant researcher & developer 31 · last reported Aug 2026
+📈 Quant trading & hedge funds · **35 questions** · 22 from an OA · last reported Aug 2026
+
+**By level:** 🎓 Intern & New grad (20) · 🌱 Mid (27) · 🎯 Senior (4)
+
+**By role:** 💻 Software Engineering (3) · 📊 Data Science & Analytics (1) · 📈 Quantitative Finance (31)
 
 **Rounds:** 📝 OA (22) · 📞 Phone (9) · 🏢 Onsite (4)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/akunacapital-interview-process) · [Research scientist](https://trueinterview.io/study/akunacapital-research-scientist-interview-process) · [Quant](https://trueinterview.io/study/akunacapital-quantitative-finance-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Evaluate a Hexadecimal Bitwise AND](https://trueinterview.io/questions/evaluate-a-hexadecimal-bitwise-and) | Phone | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-a-hexadecimal-bitwise-and) | Aug 26, 2026 |
-| [Find the Maximum Value in a Binary Tree Recursively](https://trueinterview.io/questions/find-the-maximum-value-in-a-binary-tree-recursively) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-maximum-value-in-a-binary-tree-recursively) | Aug 26, 2026 |
+| [Evaluate a Hexadecimal Bitwise AND](https://trueinterview.io/questions/evaluate-a-hexadecimal-bitwise-and) | Phone | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-a-hexadecimal-bitwise-and) | Aug 26, 2026 |
+| [Find the Maximum Value in a Binary Tree Recursively](https://trueinterview.io/questions/find-the-maximum-value-in-a-binary-tree-recursively) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-maximum-value-in-a-binary-tree-recursively) | Aug 26, 2026 |
 | [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort)<br><sub>also [Point72](../companies/point72.md) / [Google](../companies/google.md)</sub> | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/array-frequency-sort) | Jul 29, 2026 |
-| [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine)<br><sub>also [Two Sigma](../companies/two-sigma.md)</sub> | OA | New grad · Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/exchange-order-matching-engine) | Jun 2026 |
+| [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine)<br><sub>also [Two Sigma](../companies/two-sigma.md)</sub> | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/exchange-order-matching-engine) | Jun 2026 |
 | [Cloud Resource Utilization Dashboard](https://trueinterview.io/questions/sql-cloud-resource-utilization-dashboard) | OA | Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/sql-cloud-resource-utilization-dashboard) | May 25, 2026 |
 | [Maximum Difference Across Connected Components](https://trueinterview.io/questions/maximum-difference-connected-components) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-difference-connected-components) | May 25, 2026 |
 | [Portfolio Rebalancer](https://trueinterview.io/questions/portfolio-rebalancer) | OA | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/portfolio-rebalancer) | May 25, 2026 |
@@ -29,7 +33,7 @@
 | [Sliding-Window Order Message Rate Limiter](https://trueinterview.io/questions/sliding-window-order-message-rate-limiter) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/sliding-window-order-message-rate-limiter) | Jan 23, 2026 |
 | [Minimum Swaps to Sort (Cycle Decomposition)](https://trueinterview.io/questions/minimum-swaps-to-sort-cycle)<br><sub>also [JPMorgan](../companies/jpmorgan.md)</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-swaps-to-sort-cycle) | Dec 20, 2025 |
 | [QR HackerRank: Profitable Pairs and Delivery Order](https://trueinterview.io/questions/qr-hackerrank-profitable-pairs-and-delivery-order) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/qr-hackerrank-profitable-pairs-and-delivery-order) | Dec 2025 |
-| [Trader Fair-Bet Probability and Number Sequences](https://trueinterview.io/questions/trader-fair-bet-probability-and-number-sequences) | OA | Intern · Mid | blog | [![Free][f]](https://trueinterview.io/questions/trader-fair-bet-probability-and-number-sequences) | Nov 20, 2025 |
+| [Trader Fair-Bet Probability and Number Sequences](https://trueinterview.io/questions/trader-fair-bet-probability-and-number-sequences) | OA | Intern · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/trader-fair-bet-probability-and-number-sequences) | Nov 20, 2025 |
 | [Rolling Statistics: Max, Mean, and Mode](https://trueinterview.io/questions/rolling-statistics-max-mean-mode) | Phone | Intern · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/rolling-statistics-max-mean-mode) | Nov 11, 2025 |
 | [Communications Handler (CommsHandler)](https://trueinterview.io/questions/communications-handler) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/communications-handler) | Nov 4, 2025 |
 | [Fun With Anagrams (Deduplicate Anagrams)](https://trueinterview.io/questions/fun-with-anagrams-dedup) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/fun-with-anagrams-dedup) | Nov 4, 2025 |
@@ -38,7 +42,7 @@
 | [Max Subsequence Sum Without Skipping Two in a Row](https://trueinterview.io/questions/max-sum-no-two-consecutive-skips) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/max-sum-no-two-consecutive-skips) | Oct 29, 2025 |
 | [Maximum Distinct Elements After K Swaps](https://trueinterview.io/questions/maximum-distinct-after-k-swaps) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-distinct-after-k-swaps) | Oct 29, 2025 |
 | [Minimum Days to Release Updates](https://trueinterview.io/questions/minimum-days-to-release-updates) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-days-to-release-updates) | Oct 29, 2025 |
-| [Advanced Math and Reasoning Brain Teasers](https://trueinterview.io/questions/qr-video-oa-advanced-math-and-reasoning) | OA | Intern · New grad | blog | [![Free][f]](https://trueinterview.io/questions/qr-video-oa-advanced-math-and-reasoning) | Oct 20, 2025 |
+| [Advanced Math and Reasoning Brain Teasers](https://trueinterview.io/questions/qr-video-oa-advanced-math-and-reasoning) | OA | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/qr-video-oa-advanced-math-and-reasoning) | Oct 20, 2025 |
 | [C++ Object Pool Debugging](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | OA | New grad · Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | Oct 5, 2025 |
 | [Calculate Positive Profit Combinations](https://trueinterview.io/questions/9919842d-f64c-4fc5-9a0a-a636ac00bf95) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9919842d-f64c-4fc5-9a0a-a636ac00bf95) | Oct 2025 |
 | [Delivery Management System (QR Intern)](https://trueinterview.io/questions/f05572aa-f89c-4422-b7fd-9569d863158f) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f05572aa-f89c-4422-b7fd-9569d863158f) | Oct 2025 |
@@ -47,8 +51,8 @@
 | [Find Missing and Repeated Element](https://trueinterview.io/questions/find-missing-and-repeated-element) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/find-missing-and-repeated-element) | Sep 23, 2025 |
 | [Round Price to Nearest Valid Tick](https://trueinterview.io/questions/round-price-to-nearest-tick) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/round-price-to-nearest-tick) | Sep 22, 2025 |
 | [Track Best Bid/Ask with Cancellations](https://trueinterview.io/questions/track-best-bid-ask-with-cancels) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/track-best-bid-ask-with-cancels) | Sep 22, 2025 |
-| [Junior Trader Final: Investment & Market-Making Games](https://trueinterview.io/questions/junior-trader-final-games) | Onsite | Mid | blog | [![Free][f]](https://trueinterview.io/questions/junior-trader-final-games) | Sep 16, 2025 |
+| [Junior Trader Final: Investment & Market-Making Games](https://trueinterview.io/questions/junior-trader-final-games) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/junior-trader-final-games) | Sep 16, 2025 |
 | [Segregate Binary String (Move Ones to End)](https://trueinterview.io/questions/segregate-binary-string-move-ones)<br><sub>also [Google](../companies/google.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/segregate-binary-string-move-ones) | Aug 26, 2025 |
 | [Minimal Operations](https://trueinterview.io/questions/1eaa7066-9ac8-467b-a088-175cfbfda50e)<br><sub>also [Salesforce](../companies/salesforce.md) / [Palantir](../companies/palantir.md)</sub> | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/1eaa7066-9ac8-467b-a088-175cfbfda50e) | Jul 2025 |
-| [An Evening of Movies](https://trueinterview.io/questions/d5fd5e8c-f2f0-4231-bdd6-7fa8716245bc) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/d5fd5e8c-f2f0-4231-bdd6-7fa8716245bc) | — |
-| [K Smallest Substring](https://trueinterview.io/questions/3151e9ea-6dd7-474f-bab5-ae916dc77f0c) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/3151e9ea-6dd7-474f-bab5-ae916dc77f0c) | — |
+| [An Evening of Movies](https://trueinterview.io/questions/d5fd5e8c-f2f0-4231-bdd6-7fa8716245bc) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/d5fd5e8c-f2f0-4231-bdd6-7fa8716245bc) | — |
+| [K Smallest Substring](https://trueinterview.io/questions/3151e9ea-6dd7-474f-bab5-ae916dc77f0c) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/3151e9ea-6dd7-474f-bab5-ae916dc77f0c) | — |

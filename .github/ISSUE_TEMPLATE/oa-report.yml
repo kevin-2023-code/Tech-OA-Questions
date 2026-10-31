@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks — sightings from experienced candidates are what this list is built on.
+        Thanks — sightings from candidates at every level, intern to Staff+, are what this list is built on.
 
         **Source-safe details only.** No screenshots, no account-only assessment pages, no
         private recruiter messages, no copied problem statements, and nothing covered by an NDA
@@ -33,6 +33,8 @@ body:
         - Quant developer
         - Quant trader
         - Data scientist
+        - Product manager
+        - Hardware engineer
         - Other / not sure
     validations:
       required: true
@@ -42,11 +44,11 @@ body:
       label: Level
       description: The level the loop was for. This is the column every list here is cut by.
       options:
+        - Intern
+        - New grad
+        - Mid (≈ L4 / E4 / SDE II)
         - Senior (≈ L5 / E5 / SDE III)
         - Staff+ (≈ L6 / E6 / Principal and above)
-        - Mid (≈ L4 / E4 / SDE II)
-        - New grad
-        - Intern
         - Manager
         - Not sure
     validations:

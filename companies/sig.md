@@ -4,23 +4,27 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice SIG on TrueInterview](https://trueinterview.io/problems/company/sig) · [How SIG interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/sig/README.md)
 
-📈 Quant firms · **9 questions** · Senior & Staff+ 3 · Quant researcher & developer 6 · last reported Sep 2026
+📈 Quant trading & hedge funds · **9 questions** · 9 from an OA · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (7) · 🌱 Mid (7) · 🎯 Senior (3)
+
+**By role:** 💻 Software Engineering (3) · 📈 Quantitative Finance (6)
 
 **Rounds:** 📝 OA (9)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Count Equal-Difference Triples After Each Add or Remove-All Operation](https://trueinterview.io/questions/count-equal-difference-triples-after-each-add-or-remove-all-operation) | OA | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/count-equal-difference-triples-after-each-add-or-remove-all-operation) | 🆕 Sep 17, 2026 |
-| [Rotate a Square Matrix Clockwise While Both Diagonals Stay Fixed](https://trueinterview.io/questions/rotate-a-square-matrix-clockwise-while-both-diagonals-stay-fixed) | OA | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/rotate-a-square-matrix-clockwise-while-both-diagonals-stay-fixed) | 🆕 Sep 17, 2026 |
-| [Calculate Expected Payoff from Two Dice](https://trueinterview.io/questions/calculate-expected-payoff-from-two-dice) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/calculate-expected-payoff-from-two-dice) | Aug 16, 2026 |
-| [Compute the Probability Two Bloom Intervals Overlap](https://trueinterview.io/questions/compute-the-probability-two-bloom-intervals-overlap) | OA | Intern · New grad | blog | [![Free][f]](https://trueinterview.io/questions/compute-the-probability-two-bloom-intervals-overlap) | Aug 16, 2026 |
-| [Count Cookie Flavor Combinations](https://trueinterview.io/questions/count-cookie-flavor-combinations) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/count-cookie-flavor-combinations) | Aug 16, 2026 |
+| [Count Equal-Difference Triples After Each Add or Remove-All Operation](https://trueinterview.io/questions/count-equal-difference-triples-after-each-add-or-remove-all-operation) | OA | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/count-equal-difference-triples-after-each-add-or-remove-all-operation) | 🆕 Sep 17, 2026 |
+| [Rotate a Square Matrix Clockwise While Both Diagonals Stay Fixed](https://trueinterview.io/questions/rotate-a-square-matrix-clockwise-while-both-diagonals-stay-fixed) | OA | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/rotate-a-square-matrix-clockwise-while-both-diagonals-stay-fixed) | 🆕 Sep 17, 2026 |
+| [Calculate Expected Payoff from Two Dice](https://trueinterview.io/questions/calculate-expected-payoff-from-two-dice) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/calculate-expected-payoff-from-two-dice) | Aug 16, 2026 |
+| [Compute the Probability Two Bloom Intervals Overlap](https://trueinterview.io/questions/compute-the-probability-two-bloom-intervals-overlap) | OA | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-the-probability-two-bloom-intervals-overlap) | Aug 16, 2026 |
+| [Count Cookie Flavor Combinations](https://trueinterview.io/questions/count-cookie-flavor-combinations) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/count-cookie-flavor-combinations) | Aug 16, 2026 |
 | [Count Grid Paths with No Three Equal Moves](https://trueinterview.io/questions/count-grid-paths-with-no-three-equal-moves) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-grid-paths-with-no-three-equal-moves) | Aug 16, 2026 |
-| [Find a Green Triangle's Weight in a Balanced Mobile](https://trueinterview.io/questions/find-a-green-triangles-weight-in-a-balanced-mobile) | OA | Intern · New grad | blog | [![Free][f]](https://trueinterview.io/questions/find-a-green-triangles-weight-in-a-balanced-mobile) | Aug 16, 2026 |
-| [Find the Expected Number of Consecutive Chosen Pairs](https://trueinterview.io/questions/find-the-expected-number-of-consecutive-chosen-pairs) | OA | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/find-the-expected-number-of-consecutive-chosen-pairs) | Aug 16, 2026 |
-| [Find the Probability Two Muffins Are Sufficient](https://trueinterview.io/questions/find-the-probability-two-muffins-are-sufficient) | OA | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/find-the-probability-two-muffins-are-sufficient) | Aug 16, 2026 |
+| [Find a Green Triangle's Weight in a Balanced Mobile](https://trueinterview.io/questions/find-a-green-triangles-weight-in-a-balanced-mobile) | OA | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/find-a-green-triangles-weight-in-a-balanced-mobile) | Aug 16, 2026 |
+| [Find the Expected Number of Consecutive Chosen Pairs](https://trueinterview.io/questions/find-the-expected-number-of-consecutive-chosen-pairs) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/find-the-expected-number-of-consecutive-chosen-pairs) | Aug 16, 2026 |
+| [Find the Probability Two Muffins Are Sufficient](https://trueinterview.io/questions/find-the-probability-two-muffins-are-sufficient) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/find-the-probability-two-muffins-are-sufficient) | Aug 16, 2026 |

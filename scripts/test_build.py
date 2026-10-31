@@ -90,36 +90,59 @@ def render(snap=None):
 class FirstScreen(unittest.TestCase):
     def test_says_who_it_is_for_before_anything_else(self):
         head = render()["README.md"][:1600]
-        for phrase in ("Experienced Hires", "Senior", "Staff+", "Research Scientist", "Quant", "AI Labs", "MAANG"):
+        self.assertNotIn("Experienced Hires", head)
+        for phrase in ("intern to Staff+", "SWE", "ML & AI", "Data Science", "Quant", "PM", "New grad", "Senior"):
             self.assertIn(phrase, head)
 
     def test_matrix_counts_and_links(self):
-        readme = render()["README.md"]
-        # Senior & Staff+ at AI labs: kv-cache, attention-grad, rl-eval, ml-ranking.
-        self.assertIn("[**4**](lists/senior-staff--ai-labs.md)", readme)
-        # Quant roles at quant firms: order-book, dice-game (SIG via the alias), market-maker.
-        self.assertIn("[**3**](lists/quant-roles--quant.md)", readme)
-        # A cut under the minimum gets a dash and no page.
         files = render()
-        self.assertNotIn("lists/ml-research--quant.md", files)
+        readme = files["README.md"]
+        # ML/AI/research at Senior: kv-cache, attention-grad, ml-ranking.
+        self.assertIn("[**3**](lists/ml-research--senior.md)", readme)
+        # Quant roles, every level: order-book, dice-game, market-maker.
+        self.assertIn("[**3**](lists/quant-roles.md)", readme)
+        # Every role at Senior: kv-cache, attention-grad, order-book, news-feed, rate-limiter, undated, ml-ranking.
+        self.assertIn("[**7**](lists/senior.md)", readme)
+        # A cut under the minimum gets a dash and no page.
+        self.assertNotIn("lists/ml-research--new-grad.md", files)
+        self.assertIn("lists/swe.md", files)
+
+    def test_industry_lists_cover_the_registry_not_three_groups(self):
+        files = render()
+        readme = files["README.md"]
+        self.assertIn("(lists/maang.md)", readme)
+        self.assertIn("(lists/ai-labs.md)", readme)
+        self.assertIn("(lists/quant.md)", readme)
+        # OpenAI (twice), Anthropic and xAI: an AI-lab list with four rows.
+        self.assertIn("lists/ai-labs.md", files)
+        self.assertNotIn("lists/ai.md", files)
 
     def test_maang_plus_counts_microsoft(self):
         cat = model.load(snapshot())
         lru = next(x for x in cat.questions if x.slug == "lru-cache")
-        self.assertEqual(lru.groups, frozenset({"maang"}))
+        self.assertIn("maang", lru.industries)
+
+    def test_latest_table_is_not_limited_to_three_groups(self):
+        latest = render()["README.md"].split("## 🔥")[1].split("\n## ")[0]
+        # Acme Widgets is in no industry at all, and still a recent question.
+        self.assertIn("Two Sum", latest)
 
 
 class Facets(unittest.TestCase):
     def test_unclassified_is_in_no_level_list(self):
         files = render()
-        senior = files["lists/senior-staff.md"]
-        self.assertNotIn("Market Maker", senior)
+        for level in ("new-grad", "mid", "senior", "staff"):
+            self.assertNotIn("Market Maker", files.get(f"lists/{level}.md", ""))
         self.assertIn("Market Maker", files["lists/quant-roles.md"])
+
+    def test_new_grad_list_takes_interns_and_new_grads(self):
+        cat = model.load(snapshot())
+        self.assertEqual([x.slug for x in build.cut(cat, level="new-grad")], ["lru-cache"])
 
     def test_levels_render_in_ladder_order(self):
         cat = model.load(snapshot())
         attn = next(x for x in cat.questions if x.slug == "attention-grad")
-        self.assertEqual(build.level_cell(attn), "**Senior** · **Staff+**")
+        self.assertEqual(build.level_cell(attn), "Senior · Staff+")
 
     def test_refuses_a_catalog_without_the_level_facet(self):
         snap = snapshot()
@@ -197,13 +220,18 @@ class Structure(unittest.TestCase):
         self.assertIn("[Research scientist](https://trueinterview.io/study/openai-research-scientist-interview-process)", page)
         self.assertIn("[Overview](https://trueinterview.io/study/openai-interview-process)", page)
 
-    def test_reports_prefer_target_employers_and_cap_per_company(self):
+    def test_reports_cover_every_level_and_cap_per_company(self):
         readme = render()["README.md"]
         block = readme.split("## 🗣️")[1].split("## ")[0]
         self.assertIn("Anthropic RS loop", block)
-        self.assertLess(block.index("Anthropic RS loop"), block.index("Oracle loop"))
+        self.assertIn("New grad loop", block)
         self.assertEqual(block.count("Oracle loop"), 2)
-        self.assertNotIn("New grad loop", block)
+
+    def test_oa_leaders_rank_by_oa_count(self):
+        readme = render()["README.md"]
+        block = readme.split("## 📝")[1].split("## ")[0]
+        self.assertIn("[Citadel](companies/citadel.md)", block)
+        self.assertNotIn("[OpenAI]", block)
 
 
 class Insights(unittest.TestCase):
@@ -211,13 +239,15 @@ class Insights(unittest.TestCase):
         block = "\n".join(build.insights_block(model.load(snapshot())))
         # Staff+: attention-grad, rl-eval (coding) and news-feed (system design).
         self.assertIn("| 🚀 Staff+ | 3 | 67% | 33% | 0% | 0% | 0% |", block)
+        # Lowest rung first, so a reader finds their row by reading down.
+        self.assertLess(block.index("🌱 Mid"), block.index("🚀 Staff+"))
         # Senior: kv-cache, order-book, rate-limiter, undated, ml-ranking — not the Staff+ three.
         self.assertIn("| 🎯 Senior | 5 | 100% |", block)
 
     def test_oa_share_names_its_denominator(self):
         block = "\n".join(build.insights_block(model.load(snapshot())))
         # Quant firms: order-book and dice-game are OA, market-maker is not.
-        self.assertIn("| 📈 Quant firms | 3 | 67% |", block)
+        self.assertIn("| 📈 Quant trading & hedge funds | 3 | 67% |", block)
 
 
 class Guides(unittest.TestCase):
