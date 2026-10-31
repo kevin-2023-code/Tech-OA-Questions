@@ -1,9 +1,10 @@
 # Contributing
 
-This list is for experienced candidates — Senior, Staff+, ML engineers, research
-scientists and quants — preparing for AI labs, quant firms and MAANG. It is only as
-good as the sightings behind it, and the most useful thing you can send is **a
-question you were asked, with the level and the round it was for.**
+This list is for anyone interviewing in tech — interns and new grads through Staff+,
+software engineers, ML and AI engineers, research scientists, data scientists, quants
+and PMs — at big tech, AI labs, startups, fintechs, quant firms and everywhere in
+between. It is only as good as the sightings behind it, and the most useful thing you
+can send is **a question you were asked, with the level and the round it was for.**
 
 ## Submit a question
 
@@ -11,10 +12,11 @@ question you were asked, with the level and the round it was for.**
 
 The form asks for:
 
-- **Company** and **role** — software, ML engineer, research scientist / engineer,
-  AI engineer, quant researcher / developer / trader.
-- **Level** — Senior (≈ L5 / E5), Staff+ (≈ L6 / E6 and above), Mid, new grad. This is
-  the column every list here is cut by, so it matters more than anything else on the form.
+- **Company** and **role** — software (backend, frontend, platform), ML / AI engineer,
+  research scientist, data scientist, quant researcher / developer / trader, product
+  manager, hardware.
+- **Level** — intern, new grad, Mid (≈ L4 / E4), Senior (≈ L5 / E5), Staff+ (≈ L6 / E6
+  and above). Every list here is cut by it, so it matters more than anything else on the form.
 - **Round** — OA, phone screen, onsite or take-home.
 - **Format** — including the ones generic lists miss: ML coding, ML system design,
   probability and brainteasers, research talks and paper discussions.
@@ -38,17 +40,18 @@ catalog and arrives here by itself.
 
 ## How the lists are cut
 
-Every list is one cell of the matrix on the front page — **who you are** × **where you
-are interviewing** — and [`lists/README.md`](lists/README.md) states exactly what each
-one selects.
+Every list is a cut of one bank by **role**, **level** or **industry** — the front page
+is a role × level matrix plus one list per industry — and
+[`lists/README.md`](lists/README.md) states exactly what each one selects.
 
-- **Level and role** are the catalog's own facets on each question (`seniority`,
-  `roleTitles`, `roles` in the [public API](https://trueinterview.io/developers/api)),
-  reported by the candidate or inferred from their write-up. A question with no level
-  on record is in no level list — unclassified is not "every level".
-- **AI labs** and **quant firms** are sectors in the shared company registry
+- **Role and level** are the catalog's own facets on each question (`roles`,
+  `roleTitles`, `seniority` in the [public API](https://trueinterview.io/developers/api)),
+  reported by the candidate or inferred from their write-up. A question reported at two
+  levels is on both lists; a question with no level on record is on no level list —
+  unclassified is not "every level".
+- **Industries** are the sectors of the shared company registry
   (`scripts/company_registry.py`), the same one the sister repositories file employers
-  under. A company is never sorted into a group by its name. If one is missing or
+  under. A company is never sorted into one by its name. If one is missing or
   misfiled, a two-line pull request to the registry is welcome.
 - **MAANG+** is Meta, Apple, Amazon, Netflix and Google, plus Microsoft.
 
