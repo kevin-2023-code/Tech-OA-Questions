@@ -4,25 +4,29 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Axon on TrueInterview](https://trueinterview.io/problems/company/axon) · [How Axon interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/axon/README.md)
 
-**11 questions** · Senior & Staff+ 11 · last reported Jun 2026
+🖥️ Hardware, devices & networking · **11 questions** · last reported Jun 2026
+
+**By level:** 🎓 Intern & New grad (1) · 🌱 Mid (2) · 🎯 Senior (11) · 🚀 Staff+ (8)
+
+**By role:** 💻 Software Engineering (10) · 📱 Product Management (1)
 
 **Rounds:** 📞 Phone (9) · 🏢 Onsite (2)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Explain your career path and leadership impact](https://trueinterview.io/questions/explain-your-career-path-and-leadership-impact) | Phone | **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/explain-your-career-path-and-leadership-impact) | Jun 2026 |
-| [Design Reliable Upload and Download for Very Large Files](https://trueinterview.io/questions/design-reliable-upload-and-download-for-very-large-files) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-reliable-upload-and-download-for-very-large-files) | Mar 29, 2026 |
-| [Explain What Motivates and Demotivates You at Work](https://trueinterview.io/questions/explain-what-motivates-and-demotivates-you-at-work) | Phone | Mid · **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/explain-what-motivates-and-demotivates-you-at-work) | Mar 29, 2026 |
-| [How did you handle an ethical issue?](https://trueinterview.io/questions/how-did-you-handle-an-ethical-issue) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-did-you-handle-an-ethical-issue) | Mar 16, 2026 |
-| [Design fulfillment truck routing and inventory system](https://trueinterview.io/questions/design-fulfillment-truck-routing-and-inventory-system) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-fulfillment-truck-routing-and-inventory-system) | Mar 1, 2026 |
-| [Explain scope and impact under pressure](https://trueinterview.io/questions/explain-scope-and-impact-under-pressure) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/explain-scope-and-impact-under-pressure) | Mar 1, 2026 |
-| [Find accessible devices via nested memberships](https://trueinterview.io/questions/find-accessible-devices-via-nested-memberships) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/find-accessible-devices-via-nested-memberships) | Mar 1, 2026 |
-| [Design camera-footage upload with custody chain](https://trueinterview.io/questions/design-camera-footage-upload-with-custody-chain) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-camera-footage-upload-with-custody-chain) | Feb 11, 2026 |
-| [Answer tough self-awareness and team questions](https://trueinterview.io/questions/answer-tough-self-awareness-and-team-questions) | Onsite | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/answer-tough-self-awareness-and-team-questions) | Feb 8, 2026 |
-| [Design device logging system with offline upload](https://trueinterview.io/questions/design-device-logging-system-with-offline-upload) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-device-logging-system-with-offline-upload) | Feb 6, 2026 |
-| [Design a Test Orchestration System](https://trueinterview.io/questions/design-a-test-orchestration-system) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-test-orchestration-system) | Nov 18, 2025 |
+| [Explain your career path and leadership impact](https://trueinterview.io/questions/explain-your-career-path-and-leadership-impact) | Phone | Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-your-career-path-and-leadership-impact) | Jun 2026 |
+| [Design Reliable Upload and Download for Very Large Files](https://trueinterview.io/questions/design-reliable-upload-and-download-for-very-large-files) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-reliable-upload-and-download-for-very-large-files) | Mar 29, 2026 |
+| [Explain What Motivates and Demotivates You at Work](https://trueinterview.io/questions/explain-what-motivates-and-demotivates-you-at-work) | Phone | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-what-motivates-and-demotivates-you-at-work) | Mar 29, 2026 |
+| [How did you handle an ethical issue?](https://trueinterview.io/questions/how-did-you-handle-an-ethical-issue) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-did-you-handle-an-ethical-issue) | Mar 16, 2026 |
+| [Design fulfillment truck routing and inventory system](https://trueinterview.io/questions/design-fulfillment-truck-routing-and-inventory-system) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-fulfillment-truck-routing-and-inventory-system) | Mar 1, 2026 |
+| [Explain scope and impact under pressure](https://trueinterview.io/questions/explain-scope-and-impact-under-pressure) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-scope-and-impact-under-pressure) | Mar 1, 2026 |
+| [Find accessible devices via nested memberships](https://trueinterview.io/questions/find-accessible-devices-via-nested-memberships) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-accessible-devices-via-nested-memberships) | Mar 1, 2026 |
+| [Design camera-footage upload with custody chain](https://trueinterview.io/questions/design-camera-footage-upload-with-custody-chain) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-camera-footage-upload-with-custody-chain) | Feb 11, 2026 |
+| [Answer tough self-awareness and team questions](https://trueinterview.io/questions/answer-tough-self-awareness-and-team-questions) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-tough-self-awareness-and-team-questions) | Feb 8, 2026 |
+| [Design device logging system with offline upload](https://trueinterview.io/questions/design-device-logging-system-with-offline-upload) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-device-logging-system-with-offline-upload) | Feb 6, 2026 |
+| [Design a Test Orchestration System](https://trueinterview.io/questions/design-a-test-orchestration-system) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-a-test-orchestration-system) | Nov 18, 2025 |

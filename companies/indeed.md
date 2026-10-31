@@ -4,16 +4,20 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Indeed on TrueInterview](https://trueinterview.io/problems/company/indeed) · [How Indeed interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/indeed/README.md)
 
-**2 questions** · Senior & Staff+ 2 · ML & Research Scientist 1 · last reported Sep 2026
+**2 questions** · last reported Sep 2026
+
+**By level:** 🌱 Mid (1) · 🎯 Senior (2) · 🚀 Staff+ (1)
+
+**By role:** 💻 Software Engineering (1) · 🤖 ML, AI & Research (1)
 
 **Rounds:** 📞 Phone (2)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Compare Arrays and Linked Lists for Indexed Operations](https://trueinterview.io/questions/compare-arrays-and-linked-lists-for-indexed-operations) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compare-arrays-and-linked-lists-for-indexed-operations) | 🆕 Sep 16, 2026 |
-| [Redesign a Spam Classifier for Production](https://trueinterview.io/questions/redesign-a-spam-classifier-for-production) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/redesign-a-spam-classifier-for-production) | Aug 20, 2026 |
+| [Compare Arrays and Linked Lists for Indexed Operations](https://trueinterview.io/questions/compare-arrays-and-linked-lists-for-indexed-operations) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-arrays-and-linked-lists-for-indexed-operations) | 🆕 Sep 16, 2026 |
+| [Redesign a Spam Classifier for Production](https://trueinterview.io/questions/redesign-a-spam-classifier-for-production) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/redesign-a-spam-classifier-for-production) | Aug 20, 2026 |

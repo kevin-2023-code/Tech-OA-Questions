@@ -4,13 +4,17 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Faire on TrueInterview](https://trueinterview.io/problems/company/faire) · [How Faire interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/faire/README.md)
 
-**5 questions** · last reported Apr 2026
+🛒 E-commerce & marketplaces · **5 questions** · 1 from an OA · last reported Apr 2026
+
+**By level:** 🌱 Mid (5)
+
+**By role:** 💻 Software Engineering (5)
 
 **Rounds:** 📝 OA (1) · 📞 Phone (4)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/faire-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg

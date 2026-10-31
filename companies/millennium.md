@@ -4,19 +4,23 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Millennium on TrueInterview](https://trueinterview.io/problems/company/millennium) · [How Millennium interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/millennium/README.md)
 
-**5 questions** · Senior & Staff+ 5 · Quant researcher & developer 2 · last reported Sep 2026
+**5 questions** · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (1) · 🌱 Mid (5) · 🎯 Senior (5)
+
+**By role:** 💻 Software Engineering (3) · 📈 Quantitative Finance (2)
 
 **Rounds:** 📞 Phone (1) · 🏢 Onsite (4)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Explain a Project and Its Hardest Engineering Challenge](https://trueinterview.io/questions/explain-a-project-and-its-hardest-engineering-challenge) | Onsite | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-a-project-and-its-hardest-engineering-challenge) | Sep 2026 |
-| [C++ Atomics, Memory Ordering, and Safe Publication](https://trueinterview.io/questions/cplusplus-atomics-memory-ordering-and-safe-publication) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/cplusplus-atomics-memory-ordering-and-safe-publication) | Apr 26, 2026 |
-| [How a C++ Mutex Protects Shared State](https://trueinterview.io/questions/how-a-cplusplus-mutex-protects-shared-state) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/how-a-cplusplus-mutex-protects-shared-state) | Apr 26, 2026 |
-| [How do you explain work to non-technical partners?](https://trueinterview.io/questions/how-do-you-explain-work-to-non-technical-partners) | Phone | Mid · **Senior** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-explain-work-to-non-technical-partners) | Feb 12, 2026 |
-| [Debug missing output in Python async HTTP flow](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Oct 24, 2025 |
+| [Explain a Project and Its Hardest Engineering Challenge](https://trueinterview.io/questions/explain-a-project-and-its-hardest-engineering-challenge) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-a-project-and-its-hardest-engineering-challenge) | Sep 2026 |
+| [C++ Atomics, Memory Ordering, and Safe Publication](https://trueinterview.io/questions/cplusplus-atomics-memory-ordering-and-safe-publication) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/cplusplus-atomics-memory-ordering-and-safe-publication) | Apr 26, 2026 |
+| [How a C++ Mutex Protects Shared State](https://trueinterview.io/questions/how-a-cplusplus-mutex-protects-shared-state) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-a-cplusplus-mutex-protects-shared-state) | Apr 26, 2026 |
+| [How do you explain work to non-technical partners?](https://trueinterview.io/questions/how-do-you-explain-work-to-non-technical-partners) | Phone | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-do-you-explain-work-to-non-technical-partners) | Feb 12, 2026 |
+| [Debug missing output in Python async HTTP flow](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Oct 24, 2025 |

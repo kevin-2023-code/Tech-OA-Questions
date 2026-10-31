@@ -4,17 +4,21 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Cohere on TrueInterview](https://trueinterview.io/problems/company/cohere) · [How Cohere interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/cohere/README.md)
 
-🧠 AI labs · **3 questions** · Senior & Staff+ 3 · ML & Research Scientist 1 · last reported Sep 2026
+🧠 AI labs & AI infrastructure · **3 questions** · last reported Sep 2026
+
+**By level:** 🌱 Mid (1) · 🎯 Senior (3) · 🚀 Staff+ (2)
+
+**By role:** 💻 Software Engineering (2) · 🤖 ML, AI & Research (1)
 
 **Rounds:** 📞 Phone (2) · 🏢 Onsite (1)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design Real-Time Comments with Optimistic Updates](https://trueinterview.io/questions/design-real-time-comments-with-optimistic-updates) | Onsite | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-real-time-comments-with-optimistic-updates) | Sep 15, 2026 |
-| [Implement a Card-Details Form with Dependent Validation](https://trueinterview.io/questions/implement-a-card-details-form-with-dependent-validation) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/implement-a-card-details-form-with-dependent-validation) | Sep 15, 2026 |
-| [Design an Enterprise Research Assistant with Verifiable Citations](https://trueinterview.io/questions/design-an-enterprise-research-assistant-with-verifiable-citations) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-enterprise-research-assistant-with-verifiable-citations) | Apr 9, 2026 |
+| [Design Real-Time Comments with Optimistic Updates](https://trueinterview.io/questions/design-real-time-comments-with-optimistic-updates) | Onsite | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-real-time-comments-with-optimistic-updates) | Sep 15, 2026 |
+| [Implement a Card-Details Form with Dependent Validation](https://trueinterview.io/questions/implement-a-card-details-form-with-dependent-validation) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-a-card-details-form-with-dependent-validation) | Sep 15, 2026 |
+| [Design an Enterprise Research Assistant with Verifiable Citations](https://trueinterview.io/questions/design-an-enterprise-research-assistant-with-verifiable-citations) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-enterprise-research-assistant-with-verifiable-citations) | Apr 9, 2026 |

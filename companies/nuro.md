@@ -4,26 +4,30 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Nuro on TrueInterview](https://trueinterview.io/problems/company/nuro) · [How Nuro interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/nuro/README.md)
 
-**12 questions** · Senior & Staff+ 12 · ML & Research Scientist 3 · last reported Aug 2026
+🚗 Autonomy, automotive & mobility · **12 questions** · last reported Aug 2026
+
+**By level:** 🎓 Intern & New grad (2) · 🌱 Mid (4) · 🎯 Senior (12) · 🚀 Staff+ (8)
+
+**By role:** 💻 Software Engineering (9) · 🤖 ML, AI & Research (3)
 
 **Rounds:** 📞 Phone (5) · 🏢 Onsite (7)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Aggregate and Query Vehicle Obstacle Data](https://trueinterview.io/questions/aggregate-and-query-vehicle-obstacle-data) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/aggregate-and-query-vehicle-obstacle-data) | Aug 31, 2026 |
-| [Compare Locks and MVCC in a Versioned Store](https://trueinterview.io/questions/compare-locks-and-mvcc-in-a-versioned-store) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/compare-locks-and-mvcc-in-a-versioned-store) | Aug 31, 2026 |
-| [Design a Shared Distributed ML Training Platform](https://trueinterview.io/questions/design-a-shared-distributed-ml-training-platform) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-shared-distributed-ml-training-platform) | Aug 31, 2026 |
-| [Design an Autonomous-Vehicle Simulator](https://trueinterview.io/questions/design-an-autonomous-vehicle-simulator) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-autonomous-vehicle-simulator) | Aug 31, 2026 |
-| [Explain Project Scope, Ownership, and Technical Challenges](https://trueinterview.io/questions/explain-project-scope-ownership-and-technical-challenges) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-project-scope-ownership-and-technical-challenges) | Aug 31, 2026 |
-| [Schedule CPU and GPU Video Processing](https://trueinterview.io/questions/schedule-cpu-and-gpu-video-processing) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/schedule-cpu-and-gpu-video-processing) | Aug 31, 2026 |
-| [Search Large Vehicle Records with Bounded Memory](https://trueinterview.io/questions/search-large-vehicle-records-with-bounded-memory) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/search-large-vehicle-records-with-bounded-memory) | Aug 31, 2026 |
-| [Check Vertical Reflection Symmetry with Duplicate Points](https://trueinterview.io/questions/check-vertical-reflection-symmetry-with-duplicate-points) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/check-vertical-reflection-symmetry-with-duplicate-points) | Feb 15, 2026 |
-| [Coordinate Video Reading and Rendering at 25 Frames per Second](https://trueinterview.io/questions/coordinate-video-reading-and-rendering-at-25-frames-per-second) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/coordinate-video-reading-and-rendering-at-25-frames-per-second) | Feb 15, 2026 |
-| [Design an Inference Pipeline](https://trueinterview.io/questions/design-an-inference-pipeline) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-inference-pipeline) | Jan 30, 2026 |
-| [Find Maximum Path Sum in N-ary Tree](https://trueinterview.io/questions/find-maximum-path-sum-in-n-ary-tree) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/find-maximum-path-sum-in-n-ary-tree) | Jan 30, 2026 |
-| [Find gaps between intervals](https://trueinterview.io/questions/find-gaps-between-intervals) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-gaps-between-intervals) | Nov 9, 2025 |
+| [Aggregate and Query Vehicle Obstacle Data](https://trueinterview.io/questions/aggregate-and-query-vehicle-obstacle-data) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/aggregate-and-query-vehicle-obstacle-data) | Aug 31, 2026 |
+| [Compare Locks and MVCC in a Versioned Store](https://trueinterview.io/questions/compare-locks-and-mvcc-in-a-versioned-store) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/compare-locks-and-mvcc-in-a-versioned-store) | Aug 31, 2026 |
+| [Design a Shared Distributed ML Training Platform](https://trueinterview.io/questions/design-a-shared-distributed-ml-training-platform) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-shared-distributed-ml-training-platform) | Aug 31, 2026 |
+| [Design an Autonomous-Vehicle Simulator](https://trueinterview.io/questions/design-an-autonomous-vehicle-simulator) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-autonomous-vehicle-simulator) | Aug 31, 2026 |
+| [Explain Project Scope, Ownership, and Technical Challenges](https://trueinterview.io/questions/explain-project-scope-ownership-and-technical-challenges) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-project-scope-ownership-and-technical-challenges) | Aug 31, 2026 |
+| [Schedule CPU and GPU Video Processing](https://trueinterview.io/questions/schedule-cpu-and-gpu-video-processing) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/schedule-cpu-and-gpu-video-processing) | Aug 31, 2026 |
+| [Search Large Vehicle Records with Bounded Memory](https://trueinterview.io/questions/search-large-vehicle-records-with-bounded-memory) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/search-large-vehicle-records-with-bounded-memory) | Aug 31, 2026 |
+| [Check Vertical Reflection Symmetry with Duplicate Points](https://trueinterview.io/questions/check-vertical-reflection-symmetry-with-duplicate-points) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/check-vertical-reflection-symmetry-with-duplicate-points) | Feb 15, 2026 |
+| [Coordinate Video Reading and Rendering at 25 Frames per Second](https://trueinterview.io/questions/coordinate-video-reading-and-rendering-at-25-frames-per-second) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/coordinate-video-reading-and-rendering-at-25-frames-per-second) | Feb 15, 2026 |
+| [Design an Inference Pipeline](https://trueinterview.io/questions/design-an-inference-pipeline) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-inference-pipeline) | Jan 30, 2026 |
+| [Find Maximum Path Sum in N-ary Tree](https://trueinterview.io/questions/find-maximum-path-sum-in-n-ary-tree) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-maximum-path-sum-in-n-ary-tree) | Jan 30, 2026 |
+| [Find gaps between intervals](https://trueinterview.io/questions/find-gaps-between-intervals) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-gaps-between-intervals) | Nov 9, 2025 |

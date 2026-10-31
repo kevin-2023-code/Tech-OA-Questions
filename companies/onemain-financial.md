@@ -4,26 +4,30 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Onemain Financial on TrueInterview](https://trueinterview.io/problems/company/onemain-financial) · [How Onemain Financial interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/onemain-financial/README.md)
 
-**12 questions** · Senior & Staff+ 12 · last reported Jun 2026
+**12 questions** · last reported Jun 2026
+
+**By level:** 🌱 Mid (7) · 🎯 Senior (12) · 🚀 Staff+ (5)
+
+**By role:** 📊 Data Science & Analytics (11)
 
 **Rounds:** 📞 Phone (12)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Implement an LRU cache with O(1) ops](https://trueinterview.io/questions/implement-an-lru-cache-with-o-1-ops)<br><sub>also [Anthropic](../companies/anthropic.md) / [Google](../companies/google.md) / [LinkedIn](../companies/linkedin.md) / +1</sub> | Phone | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-an-lru-cache-with-o-1-ops) | Jun 2026 |
-| [Walk through a DS project end-to-end](https://trueinterview.io/questions/walk-through-a-ds-project-end-to-end) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/walk-through-a-ds-project-end-to-end) | Apr 2026 |
-| [Present a project to non-technical leaders](https://trueinterview.io/questions/present-a-project-to-non-technical-leaders) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/present-a-project-to-non-technical-leaders) | Mar 2026 |
-| [Detect and address multicollinearity](https://trueinterview.io/questions/detect-and-address-multicollinearity) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/detect-and-address-multicollinearity) | Dec 1, 2025 |
-| [Explain decision trees and tree ensembles](https://trueinterview.io/questions/explain-decision-trees-and-tree-ensembles) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/explain-decision-trees-and-tree-ensembles) | Dec 1, 2025 |
-| [Evaluate shift from branch to digital channel](https://trueinterview.io/questions/evaluate-shift-from-branch-to-digital-channel) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-shift-from-branch-to-digital-channel) | Oct 7, 2025 |
-| [Differentiate and control Type I/II errors](https://trueinterview.io/questions/differentiate-and-control-type-i-ii-errors) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/differentiate-and-control-type-i-ii-errors) | — |
-| [Handle missing data and outliers robustly](https://trueinterview.io/questions/handle-missing-data-and-outliers-robustly) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/handle-missing-data-and-outliers-robustly) | — |
-| [Optimize SaaS pricing and profit](https://trueinterview.io/questions/optimize-saas-pricing-and-profit) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/optimize-saas-pricing-and-profit) | — |
-| [Select and tune XGBoost hyperparameters](https://trueinterview.io/questions/select-and-tune-xgboost-hyperparameters) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/select-and-tune-xgboost-hyperparameters) | — |
-| [Transform clickstream with pandas sessionization](https://trueinterview.io/questions/transform-clickstream-with-pandas-sessionization) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/transform-clickstream-with-pandas-sessionization) | — |
-| [Write SQL for cohort retention and ARPU](https://trueinterview.io/questions/write-sql-for-cohort-retention-and-arpu) | Phone | Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-cohort-retention-and-arpu) | — |
+| [Implement an LRU cache with O(1) ops](https://trueinterview.io/questions/implement-an-lru-cache-with-o-1-ops)<br><sub>also [Anthropic](../companies/anthropic.md) / [Google](../companies/google.md) / [LinkedIn](../companies/linkedin.md) / +1</sub> | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-an-lru-cache-with-o-1-ops) | Jun 2026 |
+| [Walk through a DS project end-to-end](https://trueinterview.io/questions/walk-through-a-ds-project-end-to-end) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/walk-through-a-ds-project-end-to-end) | Apr 2026 |
+| [Present a project to non-technical leaders](https://trueinterview.io/questions/present-a-project-to-non-technical-leaders) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/present-a-project-to-non-technical-leaders) | Mar 2026 |
+| [Detect and address multicollinearity](https://trueinterview.io/questions/detect-and-address-multicollinearity) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/detect-and-address-multicollinearity) | Dec 1, 2025 |
+| [Explain decision trees and tree ensembles](https://trueinterview.io/questions/explain-decision-trees-and-tree-ensembles) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-decision-trees-and-tree-ensembles) | Dec 1, 2025 |
+| [Evaluate shift from branch to digital channel](https://trueinterview.io/questions/evaluate-shift-from-branch-to-digital-channel) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-shift-from-branch-to-digital-channel) | Oct 7, 2025 |
+| [Differentiate and control Type I/II errors](https://trueinterview.io/questions/differentiate-and-control-type-i-ii-errors) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/differentiate-and-control-type-i-ii-errors) | — |
+| [Handle missing data and outliers robustly](https://trueinterview.io/questions/handle-missing-data-and-outliers-robustly) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-missing-data-and-outliers-robustly) | — |
+| [Optimize SaaS pricing and profit](https://trueinterview.io/questions/optimize-saas-pricing-and-profit) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/optimize-saas-pricing-and-profit) | — |
+| [Select and tune XGBoost hyperparameters](https://trueinterview.io/questions/select-and-tune-xgboost-hyperparameters) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/select-and-tune-xgboost-hyperparameters) | — |
+| [Transform clickstream with pandas sessionization](https://trueinterview.io/questions/transform-clickstream-with-pandas-sessionization) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/transform-clickstream-with-pandas-sessionization) | — |
+| [Write SQL for cohort retention and ARPU](https://trueinterview.io/questions/write-sql-for-cohort-retention-and-arpu) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-cohort-retention-and-arpu) | — |

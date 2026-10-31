@@ -4,24 +4,28 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice DRW on TrueInterview](https://trueinterview.io/problems/company/drw) · [How DRW interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/drw/README.md)
 
-📈 Quant firms · **10 questions** · Senior & Staff+ 7 · Quant researcher & developer 8 · last reported Sep 2026
+📈 Quant trading & hedge funds · **10 questions** · 4 from an OA · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (5) · 🌱 Mid (10) · 🎯 Senior (7)
+
+**By role:** 💻 Software Engineering (2) · 📈 Quantitative Finance (8)
 
 **Rounds:** 📝 OA (4) · 🏢 Onsite (6)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Expected Dart Score for a Bivariate Normal Throw with Ring Scoring](https://trueinterview.io/questions/expected-dart-score-for-a-bivariate-normal-throw-with-ring-scoring) | Onsite | Intern · New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/expected-dart-score-for-a-bivariate-normal-throw-with-ring-scoring) | Sep 13, 2026 |
-| [Expected Rounds Until a Shopping-Cart Line Empties Under Random Transfers](https://trueinterview.io/questions/expected-rounds-until-a-shopping-cart-line-empties-under-random-transfers) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/expected-rounds-until-a-shopping-cart-line-empties-under-random-transfers) | Sep 13, 2026 |
-| [Expected Tosses Until HHT Given HHT Appears Before HTH](https://trueinterview.io/questions/expected-tosses-until-hht-given-hht-appears-before-hth) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/expected-tosses-until-hht-given-hht-appears-before-hth) | Sep 13, 2026 |
-| [Expected Winnings in a Random-Walk Money Collection Game on 45 Stones](https://trueinterview.io/questions/expected-winnings-in-a-random-walk-money-collection-game-on-45-stones) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/expected-winnings-in-a-random-walk-money-collection-game-on-45-stones) | Sep 13, 2026 |
-| [Posterior Probability of a Two-Headed Coin After Three Heads](https://trueinterview.io/questions/posterior-probability-of-a-two-headed-coin-after-three-heads) | Onsite | New grad · Mid | blog | [![Free][f]](https://trueinterview.io/questions/posterior-probability-of-a-two-headed-coin-after-three-heads) | Sep 13, 2026 |
-| [Probability the Two Strongest Teams Meet in a 16-Team Knockout Final](https://trueinterview.io/questions/probability-the-two-strongest-teams-meet-in-a-16-team-knockout-final) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/probability-the-two-strongest-teams-meet-in-a-16-team-knockout-final) | Sep 13, 2026 |
-| [Compute expected arc length on a circle](https://trueinterview.io/questions/compute-expected-arc-length-on-a-circle) | OA | New grad · Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/compute-expected-arc-length-on-a-circle) | Nov 22, 2025 |
-| [Knockout Tournament Match Counts](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-knockout-tournament-match-counts) | OA | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-knockout-tournament-match-counts) | Oct 8, 2025 |
+| [Expected Dart Score for a Bivariate Normal Throw with Ring Scoring](https://trueinterview.io/questions/expected-dart-score-for-a-bivariate-normal-throw-with-ring-scoring) | Onsite | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/expected-dart-score-for-a-bivariate-normal-throw-with-ring-scoring) | Sep 13, 2026 |
+| [Expected Rounds Until a Shopping-Cart Line Empties Under Random Transfers](https://trueinterview.io/questions/expected-rounds-until-a-shopping-cart-line-empties-under-random-transfers) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/expected-rounds-until-a-shopping-cart-line-empties-under-random-transfers) | Sep 13, 2026 |
+| [Expected Tosses Until HHT Given HHT Appears Before HTH](https://trueinterview.io/questions/expected-tosses-until-hht-given-hht-appears-before-hth) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/expected-tosses-until-hht-given-hht-appears-before-hth) | Sep 13, 2026 |
+| [Expected Winnings in a Random-Walk Money Collection Game on 45 Stones](https://trueinterview.io/questions/expected-winnings-in-a-random-walk-money-collection-game-on-45-stones) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/expected-winnings-in-a-random-walk-money-collection-game-on-45-stones) | Sep 13, 2026 |
+| [Posterior Probability of a Two-Headed Coin After Three Heads](https://trueinterview.io/questions/posterior-probability-of-a-two-headed-coin-after-three-heads) | Onsite | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/posterior-probability-of-a-two-headed-coin-after-three-heads) | Sep 13, 2026 |
+| [Probability the Two Strongest Teams Meet in a 16-Team Knockout Final](https://trueinterview.io/questions/probability-the-two-strongest-teams-meet-in-a-16-team-knockout-final) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/probability-the-two-strongest-teams-meet-in-a-16-team-knockout-final) | Sep 13, 2026 |
+| [Compute expected arc length on a circle](https://trueinterview.io/questions/compute-expected-arc-length-on-a-circle) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-expected-arc-length-on-a-circle) | Nov 22, 2025 |
+| [Knockout Tournament Match Counts](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-knockout-tournament-match-counts) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-knockout-tournament-match-counts) | Oct 8, 2025 |
 | [Robot Path Planning](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-robot-path-planning) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-robot-path-planning) | Oct 8, 2025 |
-| [Solve Three Algorithmic Problems](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems) | OA | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems) | Oct 8, 2025 |
+| [Solve Three Algorithmic Problems](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems) | OA | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems) | Oct 8, 2025 |

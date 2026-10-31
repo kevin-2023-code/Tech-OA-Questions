@@ -4,21 +4,25 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Wayfair on TrueInterview](https://trueinterview.io/problems/company/wayfair) · [How Wayfair interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/wayfair/README.md)
 
-**7 questions** · Senior & Staff+ 7 · last reported Sep 2026
+**7 questions** · 2 from an OA · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (2) · 🌱 Mid (4) · 🎯 Senior (7) · 🚀 Staff+ (3)
+
+**By role:** 💻 Software Engineering (1) · 📊 Data Science & Analytics (6)
 
 **Rounds:** 📝 OA (2) · 📞 Phone (2) · 🏢 Onsite (3)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Evaluate Post-Purchase Recommendation Emails](https://trueinterview.io/questions/evaluate-post-purchase-recommendation-emails) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/evaluate-post-purchase-recommendation-emails) | Sep 10, 2026 |
-| [Rank Homepage Modules for an E-Commerce Product](https://trueinterview.io/questions/rank-homepage-modules-for-an-e-commerce-product) | Onsite | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/rank-homepage-modules-for-an-e-commerce-product) | Sep 10, 2026 |
-| [Set Bids for Search Advertising from Business Value](https://trueinterview.io/questions/set-bids-for-search-advertising-from-business-value) | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/set-bids-for-search-advertising-from-business-value) | Sep 10, 2026 |
-| [Simulate and Compare Multi-Armed Bandit Strategies](https://trueinterview.io/questions/simulate-and-compare-multi-armed-bandit-strategies) | Onsite | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/simulate-and-compare-multi-armed-bandit-strategies) | Sep 10, 2026 |
-| [Maximize the Product of Pair Distance and Minimum Value](https://trueinterview.io/questions/maximize-the-product-of-pair-distance-and-minimum-value) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-the-product-of-pair-distance-and-minimum-value) | Sep 9, 2026 |
-| [How to improve complaint resolution](https://trueinterview.io/questions/how-to-improve-complaint-resolution) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/how-to-improve-complaint-resolution) | Feb 16, 2026 |
-| [Solve SQL and Python Tasks](https://trueinterview.io/questions/solve-sql-and-python-oa-tasks) | OA | New grad · Mid · **Senior** | SQL | [![Practice][p]](https://trueinterview.io/questions/solve-sql-and-python-oa-tasks) | Feb 16, 2026 |
+| [Evaluate Post-Purchase Recommendation Emails](https://trueinterview.io/questions/evaluate-post-purchase-recommendation-emails) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-post-purchase-recommendation-emails) | Sep 10, 2026 |
+| [Rank Homepage Modules for an E-Commerce Product](https://trueinterview.io/questions/rank-homepage-modules-for-an-e-commerce-product) | Onsite | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/rank-homepage-modules-for-an-e-commerce-product) | Sep 10, 2026 |
+| [Set Bids for Search Advertising from Business Value](https://trueinterview.io/questions/set-bids-for-search-advertising-from-business-value) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/set-bids-for-search-advertising-from-business-value) | Sep 10, 2026 |
+| [Simulate and Compare Multi-Armed Bandit Strategies](https://trueinterview.io/questions/simulate-and-compare-multi-armed-bandit-strategies) | Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/simulate-and-compare-multi-armed-bandit-strategies) | Sep 10, 2026 |
+| [Maximize the Product of Pair Distance and Minimum Value](https://trueinterview.io/questions/maximize-the-product-of-pair-distance-and-minimum-value) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-the-product-of-pair-distance-and-minimum-value) | Sep 9, 2026 |
+| [How to improve complaint resolution](https://trueinterview.io/questions/how-to-improve-complaint-resolution) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/how-to-improve-complaint-resolution) | Feb 16, 2026 |
+| [Solve SQL and Python Tasks](https://trueinterview.io/questions/solve-sql-and-python-oa-tasks) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/solve-sql-and-python-oa-tasks) | Feb 16, 2026 |

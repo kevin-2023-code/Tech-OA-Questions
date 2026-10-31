@@ -4,21 +4,25 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Rokt on TrueInterview](https://trueinterview.io/problems/company/rokt) · [How Rokt interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/rokt/README.md)
 
-**5 questions** · Senior & Staff+ 5 · last reported Aug 2026
+🏢 Enterprise & business software · **5 questions** · last reported Aug 2026
+
+**By level:** 🎓 Intern & New grad (1) · 🌱 Mid (2) · 🎯 Senior (5)
+
+**By role:** 💻 Software Engineering (5)
 
 **Rounds:** 📞 Phone (2) · 🏢 Onsite (3)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/rokt-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Search from the end in a sorted array (variant)](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb)<br><sub>also [Snapchat](../companies/snapchat.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +3</sub> | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb) | Aug 2026 |
-| [Design Google-scale CI/CD pipeline](https://trueinterview.io/questions/design-google-scale-ci-cd-pipeline) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-google-scale-ci-cd-pipeline) | Dec 6, 2025 |
-| [Modified Basic Calculator](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197)<br><sub>also [Instacart](../companies/instacart.md)</sub> | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Nov 2025 |
-| [Implement a Text Editor](https://trueinterview.io/questions/07668c03-6d78-4974-89af-e3cda62e5dd5) | Onsite | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/07668c03-6d78-4974-89af-e3cda62e5dd5) | Apr 2025 |
-| [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51)<br><sub>also [Verkada](../companies/verkada.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2</sub> | Onsite | Intern · New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
+| [Search from the end in a sorted array (variant)](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb)<br><sub>also [Snapchat](../companies/snapchat.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +3</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb) | Aug 2026 |
+| [Design Google-scale CI/CD pipeline](https://trueinterview.io/questions/design-google-scale-ci-cd-pipeline) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-google-scale-ci-cd-pipeline) | Dec 6, 2025 |
+| [Modified Basic Calculator](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197)<br><sub>also [Instacart](../companies/instacart.md)</sub> | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Nov 2025 |
+| [Implement a Text Editor](https://trueinterview.io/questions/07668c03-6d78-4974-89af-e3cda62e5dd5) | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/07668c03-6d78-4974-89af-e3cda62e5dd5) | Apr 2025 |
+| [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51)<br><sub>also [Verkada](../companies/verkada.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2</sub> | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |

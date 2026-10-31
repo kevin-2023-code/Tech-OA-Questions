@@ -4,39 +4,43 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Harvey on TrueInterview](https://trueinterview.io/problems/company/harvey) · [How Harvey interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/harvey/README.md)
 
-🧠 AI labs · **23 questions** · Senior & Staff+ 20 · ML & Research Scientist 3 · last reported Sep 2026
+🧠 AI labs & AI infrastructure · **23 questions** · 1 from an OA · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (1) · 🌱 Mid (14) · 🎯 Senior (20) · 🚀 Staff+ (2)
+
+**By role:** 💻 Software Engineering (20) · 🤖 ML, AI & Research (3)
 
 **Rounds:** 📝 OA (1) · 📞 Phone (9) · 🏢 Onsite (15)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/harvey-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design a Chat Application with Durable Conversation History](https://trueinterview.io/questions/design-a-chat-application-with-durable-conversation-history) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-chat-application-with-durable-conversation-history) | Sep 15, 2026 |
-| [Allocate Unique File Names in an In-Memory Vault](https://trueinterview.io/questions/allocate-unique-file-names-in-an-in-memory-vault) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/allocate-unique-file-names-in-an-in-memory-vault) | Sep 1, 2026 |
-| [Design and Evaluate a Retrieval-Augmented Generation Pipeline](https://trueinterview.io/questions/design-and-evaluate-a-retrieval-augmented-generation-pipeline) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-and-evaluate-a-retrieval-augmented-generation-pipeline) | Sep 1, 2026 |
+| [Design a Chat Application with Durable Conversation History](https://trueinterview.io/questions/design-a-chat-application-with-durable-conversation-history) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-chat-application-with-durable-conversation-history) | Sep 15, 2026 |
+| [Allocate Unique File Names in an In-Memory Vault](https://trueinterview.io/questions/allocate-unique-file-names-in-an-in-memory-vault) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/allocate-unique-file-names-in-an-in-memory-vault) | Sep 1, 2026 |
+| [Design and Evaluate a Retrieval-Augmented Generation Pipeline](https://trueinterview.io/questions/design-and-evaluate-a-retrieval-augmented-generation-pipeline) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-and-evaluate-a-retrieval-augmented-generation-pipeline) | Sep 1, 2026 |
 | [Find Duplicate Files While Handling Symbolic-Link Cycles](https://trueinterview.io/questions/find-duplicate-files-while-handling-symbolic-link-cycles) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-duplicate-files-while-handling-symbolic-link-cycles) | Sep 1, 2026 |
-| [Citation Highlighting](https://trueinterview.io/questions/citation-highlighting) | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/citation-highlighting) | Aug 9, 2026 |
-| [Spreadsheet with Cell Dependencies](https://trueinterview.io/questions/design-spreadsheet-with-cell-dependencies) | Phone · Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-spreadsheet-with-cell-dependencies) | Aug 2026 |
-| [Design Vault (Google Drive-Style File Storage)](https://trueinterview.io/questions/design-vault-google-drive-style-file-storage) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-vault-google-drive-style-file-storage) | Jul 7, 2026 |
-| [Harvey Values / Behavioral](https://trueinterview.io/questions/harvey-values-behavioral) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/harvey-values-behavioral) | Jul 2, 2026 |
-| [Citation Problem](https://trueinterview.io/questions/e56966f5-529a-4c66-880f-7b903adcf76e) | OA | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/e56966f5-529a-4c66-880f-7b903adcf76e) | Jul 2026 |
-| [Design a Law Firm Memo Q&A AI Agent](https://trueinterview.io/questions/design-a-law-firm-memo-q-a-ai-agent) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-law-firm-memo-q-a-ai-agent) | Jul 2026 |
-| [Tag Exact-Matched Sources in a Document and Provide Citations](https://trueinterview.io/questions/8fcce720-27a1-4aa8-a42a-eed7767ec0b9) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/8fcce720-27a1-4aa8-a42a-eed7767ec0b9) | Jul 2026 |
-| [In-Memory Unix File System](https://trueinterview.io/questions/in-memory-unix-file-system)<br><sub>also [Perplexity](../companies/perplexity.md) / [Shopify](../companies/shopify.md)</sub> | Phone | New grad · Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-unix-file-system) | Jun 15, 2026 |
-| [Implement a Simple RAG in a Notebook](https://trueinterview.io/questions/implement-a-simple-rag-in-a-notebook) | Onsite | **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/implement-a-simple-rag-in-a-notebook) | Jun 11, 2026 |
-| [Evaluate Symbols in an Expression Map (with Cycle Detection)](https://trueinterview.io/questions/3c2763fa-9744-4ef7-a5a0-4484ad92d5d2) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3c2763fa-9744-4ef7-a5a0-4484ad92d5d2) | May 2026 |
-| [Implement a Hierarchical File System](https://trueinterview.io/questions/implement-a-hierarchical-file-system) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-hierarchical-file-system) | May 2026 |
-| [Implement a DB Connection Pool](https://trueinterview.io/questions/implement-a-db-connection-pool)<br><sub>also [Airtable](../companies/airtable.md)</sub> | Onsite | **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-a-db-connection-pool) | Apr 30, 2026 |
-| [Describe Leading a Technical Project](https://trueinterview.io/questions/describe-leading-a-technical-project) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-leading-a-technical-project) | Apr 12, 2026 |
-| [Design a Cloud File Storage Service](https://trueinterview.io/questions/design-a-cloud-file-storage-service-2) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-cloud-file-storage-service-2) | Apr 12, 2026 |
-| [Design a Text Editor](https://trueinterview.io/questions/design-a-text-editor) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-text-editor) | Apr 2026 |
-| [Design a Versioned Key-Value Vault with Consistency Check (Filesystem-like)](https://trueinterview.io/questions/9e799065-9c68-4838-b4ed-81b16e6f0fdb) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/9e799065-9c68-4838-b4ed-81b16e6f0fdb) | Apr 2026 |
+| [Citation Highlighting](https://trueinterview.io/questions/citation-highlighting) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/citation-highlighting) | Aug 9, 2026 |
+| [Spreadsheet with Cell Dependencies](https://trueinterview.io/questions/design-spreadsheet-with-cell-dependencies) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-spreadsheet-with-cell-dependencies) | Aug 2026 |
+| [Design Vault (Google Drive-Style File Storage)](https://trueinterview.io/questions/design-vault-google-drive-style-file-storage) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-vault-google-drive-style-file-storage) | Jul 7, 2026 |
+| [Harvey Values / Behavioral](https://trueinterview.io/questions/harvey-values-behavioral) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/harvey-values-behavioral) | Jul 2, 2026 |
+| [Citation Problem](https://trueinterview.io/questions/e56966f5-529a-4c66-880f-7b903adcf76e) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e56966f5-529a-4c66-880f-7b903adcf76e) | Jul 2026 |
+| [Design a Law Firm Memo Q&A AI Agent](https://trueinterview.io/questions/design-a-law-firm-memo-q-a-ai-agent) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-law-firm-memo-q-a-ai-agent) | Jul 2026 |
+| [Tag Exact-Matched Sources in a Document and Provide Citations](https://trueinterview.io/questions/8fcce720-27a1-4aa8-a42a-eed7767ec0b9) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/8fcce720-27a1-4aa8-a42a-eed7767ec0b9) | Jul 2026 |
+| [In-Memory Unix File System](https://trueinterview.io/questions/in-memory-unix-file-system)<br><sub>also [Perplexity](../companies/perplexity.md) / [Shopify](../companies/shopify.md)</sub> | Phone | New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-unix-file-system) | Jun 15, 2026 |
+| [Implement a Simple RAG in a Notebook](https://trueinterview.io/questions/implement-a-simple-rag-in-a-notebook) | Onsite | Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/implement-a-simple-rag-in-a-notebook) | Jun 11, 2026 |
+| [Evaluate Symbols in an Expression Map (with Cycle Detection)](https://trueinterview.io/questions/3c2763fa-9744-4ef7-a5a0-4484ad92d5d2) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/3c2763fa-9744-4ef7-a5a0-4484ad92d5d2) | May 2026 |
+| [Implement a Hierarchical File System](https://trueinterview.io/questions/implement-a-hierarchical-file-system) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-hierarchical-file-system) | May 2026 |
+| [Implement a DB Connection Pool](https://trueinterview.io/questions/implement-a-db-connection-pool)<br><sub>also [Airtable](../companies/airtable.md)</sub> | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-a-db-connection-pool) | Apr 30, 2026 |
+| [Describe Leading a Technical Project](https://trueinterview.io/questions/describe-leading-a-technical-project) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-leading-a-technical-project) | Apr 12, 2026 |
+| [Design a Cloud File Storage Service](https://trueinterview.io/questions/design-a-cloud-file-storage-service-2) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-cloud-file-storage-service-2) | Apr 12, 2026 |
+| [Design a Text Editor](https://trueinterview.io/questions/design-a-text-editor) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-text-editor) | Apr 2026 |
+| [Design a Versioned Key-Value Vault with Consistency Check (Filesystem-like)](https://trueinterview.io/questions/9e799065-9c68-4838-b4ed-81b16e6f0fdb) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/9e799065-9c68-4838-b4ed-81b16e6f0fdb) | Apr 2026 |
 | [Implement tag matcher and filesystem](https://trueinterview.io/questions/implement-tag-matcher-and-filesystem) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-tag-matcher-and-filesystem) | Mar 2026 |
-| [Resolve conflict across teams](https://trueinterview.io/questions/resolve-conflict-across-teams) | Onsite | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/resolve-conflict-across-teams) | Mar 2026 |
+| [Resolve conflict across teams](https://trueinterview.io/questions/resolve-conflict-across-teams) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resolve-conflict-across-teams) | Mar 2026 |
 | [Word Level Match and Tagging](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4b7527c3-d017-4a91-9e56-2d213ea0d1ce) | Mar 2026 |

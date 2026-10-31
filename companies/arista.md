@@ -4,13 +4,17 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Arista on TrueInterview](https://trueinterview.io/problems/company/arista) · [How Arista interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/arista/README.md)
 
-**7 questions** · Senior & Staff+ 2 · last reported Oct 2026
+🖥️ Hardware, devices & networking · **7 questions** · 2 from an OA · last reported Oct 2026
+
+**By level:** 🎓 Intern & New grad (3) · 🌱 Mid (7) · 🎯 Senior (2)
+
+**By role:** 💻 Software Engineering (7)
 
 **Rounds:** 📝 OA (2) · 📞 Phone (4) · 🏢 Onsite (1)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/arista-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
@@ -21,6 +25,6 @@
 | [Implement a Generic Stack in C++](https://trueinterview.io/questions/49bddf67-87ec-5306-b0ec-da52376f511a) | Onsite | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/49bddf67-87ec-5306-b0ec-da52376f511a) | Aug 2026 |
 | [Palindrome String Check (Handle Empty and Null)](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352)<br><sub>also [Boston Consulting Group](../companies/boston-consulting-group.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352) | Mar 2026 |
 | [Remove all occurrences of a target value from a linked list](https://trueinterview.io/questions/c1b98ae1-5c9a-4dfc-b252-7d04bd84a544) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/c1b98ae1-5c9a-4dfc-b252-7d04bd84a544) | Mar 2026 |
-| [Solve palindrome and missing-number variants](https://trueinterview.io/questions/solve-palindrome-and-missing-number-variants) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-palindrome-and-missing-number-variants) | Feb 3, 2026 |
-| [Explain C printf pointers and memory layout](https://trueinterview.io/questions/explain-c-printf-pointers-and-memory-layout) | Phone | Mid | blog | [![Free][f]](https://trueinterview.io/questions/explain-c-printf-pointers-and-memory-layout) | Dec 2025 |
-| [Generate Matrix B](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | — |
+| [Solve palindrome and missing-number variants](https://trueinterview.io/questions/solve-palindrome-and-missing-number-variants) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-palindrome-and-missing-number-variants) | Feb 3, 2026 |
+| [Explain C printf pointers and memory layout](https://trueinterview.io/questions/explain-c-printf-pointers-and-memory-layout) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-c-printf-pointers-and-memory-layout) | Dec 2025 |
+| [Generate Matrix B](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | — |

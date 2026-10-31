@@ -4,22 +4,26 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Cisco on TrueInterview](https://trueinterview.io/problems/company/cisco) · [How Cisco interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/cisco/README.md)
 
-**27 questions** · Senior & Staff+ 9 · last reported Sep 2026
+🖥️ Hardware, devices & networking · **27 questions** · 18 from an OA · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (18) · 🌱 Mid (16) · 🎯 Senior (9)
+
+**By role:** 💻 Software Engineering (27)
 
 **Rounds:** 📝 OA (18) · 📞 Phone (8) · 🏢 Onsite (2)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/cisco-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Formalize a Minimum-Trip Transport Puzzle with Horses and Ladders](https://trueinterview.io/questions/formalize-a-minimum-trip-transport-puzzle-with-horses-and-ladders) | Phone | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/formalize-a-minimum-trip-transport-puzzle-with-horses-and-ladders) | 🆕 Sep 17, 2026 |
-| [House Robber Series](https://trueinterview.io/questions/house-robber-series)<br><sub>also [Databricks](../companies/databricks.md) / [Amazon](../companies/amazon.md) / [Expedia](../companies/expedia.md) / +1</sub> | Phone · Onsite | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-series) | Sep 2026 |
-| [Longest Palindromic Substring](https://trueinterview.io/questions/longest-palindromic-substring)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / [eBay](../companies/ebay.md)</sub> | Phone | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/longest-palindromic-substring) | Aug 2026 |
+| [Formalize a Minimum-Trip Transport Puzzle with Horses and Ladders](https://trueinterview.io/questions/formalize-a-minimum-trip-transport-puzzle-with-horses-and-ladders) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/formalize-a-minimum-trip-transport-puzzle-with-horses-and-ladders) | 🆕 Sep 17, 2026 |
+| [House Robber Series](https://trueinterview.io/questions/house-robber-series)<br><sub>also [Databricks](../companies/databricks.md) / [Amazon](../companies/amazon.md) / [Expedia](../companies/expedia.md) / +1</sub> | Phone · Onsite | New grad · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-series) | Sep 2026 |
+| [Longest Palindromic Substring](https://trueinterview.io/questions/longest-palindromic-substring)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / [eBay](../companies/ebay.md)</sub> | Phone | New grad · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-palindromic-substring) | Aug 2026 |
 | [Rotate a Matrix by 90 Degrees In Place](https://trueinterview.io/questions/8d60f16e-18e8-4945-a6a8-affa6c78ae56)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Uber](../companies/uber.md)</sub> | Phone | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8d60f16e-18e8-4945-a6a8-affa6c78ae56) | Jul 2026 |
 | [Find Largest Sum Contiguous Subarray](https://trueinterview.io/questions/f29c0c29-2a76-42d9-9ece-3eeaa42c017b) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/f29c0c29-2a76-42d9-9ece-3eeaa42c017b) | Feb 2026 |
 | [Look-and-Say Sequence](https://trueinterview.io/questions/look-and-say-sequence)<br><sub>also [Intuit](../companies/intuit.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/look-and-say-sequence) | Sep 29, 2025 |
@@ -28,7 +32,7 @@
 | [Minimum Insertions / Deletions Password Update](https://trueinterview.io/questions/minimum-insertions-deletions-password-update) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-insertions-deletions-password-update) | Sep 6, 2025 |
 | [Alternating String Merge](https://trueinterview.io/questions/alternating-string-merge) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/alternating-string-merge) | Sep 4, 2025 |
 | [Minimum Swaps for Even / Odd Partition](https://trueinterview.io/questions/minimum-swaps-even-odd-partition) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-swaps-even-odd-partition) | Sep 4, 2025 |
-| [Row Maximum / Column Minimum](https://trueinterview.io/questions/83372ba6-ecf6-4c1c-9b56-dd6156a7ff84) | OA | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/83372ba6-ecf6-4c1c-9b56-dd6156a7ff84) | Sep 4, 2025 |
+| [Row Maximum / Column Minimum](https://trueinterview.io/questions/83372ba6-ecf6-4c1c-9b56-dd6156a7ff84) | OA | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/83372ba6-ecf6-4c1c-9b56-dd6156a7ff84) | Sep 4, 2025 |
 | [Compress Consecutive Ranges](https://trueinterview.io/questions/compress-consecutive-ranges) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/compress-consecutive-ranges) | Aug 26, 2025 |
 | [Nested Pattern String Expansion](https://trueinterview.io/questions/nested-pattern-string-expansion) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/nested-pattern-string-expansion) | Aug 26, 2025 |
 | [Matrix Zig-Zag Traversal](https://trueinterview.io/questions/matrix-zig-zag-traversal) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/matrix-zig-zag-traversal) | Aug 25, 2025 |
@@ -36,11 +40,11 @@
 | [Maximum Drop Points in One Line](https://trueinterview.io/questions/maximum-drop-points-in-one-line) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/maximum-drop-points-in-one-line) | Jul 17, 2025 |
 | [Maximum Non-Adjacent Chocolates](https://trueinterview.io/questions/3c880993-3030-4a5c-8474-3e74e89d32f3) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/3c880993-3030-4a5c-8474-3e74e89d32f3) | Jul 17, 2025 |
 | [Word Search in Rows and Columns](https://trueinterview.io/questions/word-search-rows-columns) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/word-search-rows-columns) | Jul 17, 2025 |
-| [Find Last Cell](https://trueinterview.io/questions/7edbbd51-ddcd-4562-b9af-114fdaabb8c3) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/7edbbd51-ddcd-4562-b9af-114fdaabb8c3) | Jul 2025 |
-| [Chessboard Piece Placement with Opposite Color Constraints](https://trueinterview.io/questions/d4eb414f-978e-4cea-acc3-df07a404c79f) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/d4eb414f-978e-4cea-acc3-df07a404c79f) | — |
+| [Find Last Cell](https://trueinterview.io/questions/7edbbd51-ddcd-4562-b9af-114fdaabb8c3) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/7edbbd51-ddcd-4562-b9af-114fdaabb8c3) | Jul 2025 |
+| [Chessboard Piece Placement with Opposite Color Constraints](https://trueinterview.io/questions/d4eb414f-978e-4cea-acc3-df07a404c79f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/d4eb414f-978e-4cea-acc3-df07a404c79f) | — |
 | [Count Numbers with Sum of Digits](https://trueinterview.io/questions/c17c4233-5a37-452b-933f-4a3994c7295f) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/c17c4233-5a37-452b-933f-4a3994c7295f) | — |
-| [Find Minimum Cost to Shift Machines](https://trueinterview.io/questions/71de7e3c-61cc-4603-a234-49b9aef8e4ad) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/71de7e3c-61cc-4603-a234-49b9aef8e4ad) | — |
+| [Find Minimum Cost to Shift Machines](https://trueinterview.io/questions/71de7e3c-61cc-4603-a234-49b9aef8e4ad) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/71de7e3c-61cc-4603-a234-49b9aef8e4ad) | — |
 | [Identify the Non-Twin Person](https://trueinterview.io/questions/61ccd7ec-3ff5-4114-8e18-d910c7dc001e) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/61ccd7ec-3ff5-4114-8e18-d910c7dc001e) | — |
 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +3</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | — |
-| [Minimum Steps to Achieve Target State](https://trueinterview.io/questions/06061640-c929-4879-9ba9-f3b90aac35e1) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/06061640-c929-4879-9ba9-f3b90aac35e1) | — |
-| [Process Queries to Find Critical Nodes](https://trueinterview.io/questions/3be3ddff-6db5-49c0-916c-299316bc4912) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/3be3ddff-6db5-49c0-916c-299316bc4912) | — |
+| [Minimum Steps to Achieve Target State](https://trueinterview.io/questions/06061640-c929-4879-9ba9-f3b90aac35e1) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/06061640-c929-4879-9ba9-f3b90aac35e1) | — |
+| [Process Queries to Find Critical Nodes](https://trueinterview.io/questions/3be3ddff-6db5-49c0-916c-299316bc4912) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/3be3ddff-6db5-49c0-916c-299316bc4912) | — |

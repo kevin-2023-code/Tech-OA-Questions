@@ -4,13 +4,17 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Circle on TrueInterview](https://trueinterview.io/problems/company/circle) · [How Circle interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/circle/README.md)
 
-**6 questions** · Senior & Staff+ 1 · last reported May 2026
+💳 Fintech, payments & crypto · **6 questions** · last reported May 2026
+
+**By level:** 🎓 Intern & New grad (3) · 🌱 Mid (2) · 🎯 Senior (1) · 🚀 Staff+ (1)
+
+**By role:** 💻 Software Engineering (5) · 📊 Data Science & Analytics (1)
 
 **Rounds:** 📞 Phone (3) · 🏢 Onsite (3)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/circle-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
@@ -22,4 +26,4 @@
 | [User Quota Scheduling with Expiring Assignments](https://trueinterview.io/questions/352f05c4-1319-4655-a5b4-7ce1c67f972c) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/352f05c4-1319-4655-a5b4-7ce1c67f972c) | May 2026 |
 | [Banking System with Transfers, Top Spenders, Delayed Payments, and Account Merging](https://trueinterview.io/questions/1939c0c7-01cd-4c15-b2dd-bdebafec068f) | Onsite | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/1939c0c7-01cd-4c15-b2dd-bdebafec068f) | Apr 2026 |
 | [Design a Recipe Storage System with Case-Insensitive Name Uniqueness and String IDs](https://trueinterview.io/questions/a50dfa50-dd7a-4d96-92e5-4a2f7fef2dbd) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a50dfa50-dd7a-4d96-92e5-4a2f7fef2dbd) | Mar 2026 |
-| [Predict Future Car Sale Prices](https://trueinterview.io/questions/predict-future-car-sale-prices) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/predict-future-car-sale-prices) | Jan 19, 2026 |
+| [Predict Future Car Sale Prices](https://trueinterview.io/questions/predict-future-car-sale-prices) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/predict-future-car-sale-prices) | Jan 19, 2026 |

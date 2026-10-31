@@ -4,29 +4,33 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Okta on TrueInterview](https://trueinterview.io/problems/company/okta) · [How Okta interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/okta/README.md)
 
-**13 questions** · Senior & Staff+ 11 · last reported Oct 2026
+🔒 Cybersecurity · **13 questions** · 2 from an OA · last reported Oct 2026
+
+**By level:** 🎓 Intern & New grad (3) · 🌱 Mid (4) · 🎯 Senior (11)
+
+**By role:** 💻 Software Engineering (12) · 📊 Data Science & Analytics (1)
 
 **Rounds:** 📝 OA (2) · 📞 Phone (6) · 🏢 Onsite (7)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/okta-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Hiring-Manager / Project Chat + AI Philosophy](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | 🆕 Oct 2026 |
-| [Evaluate Role-Based Access with Deny Precedence](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Aug 20, 2026 |
-| [Sliding-Window Rate Limiter II](https://trueinterview.io/questions/sliding-window-rate-limiter)<br><sub>also [Roblox](../companies/roblox.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +10</sub> | Phone · Onsite | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/sliding-window-rate-limiter) | Aug 2026 |
-| [CD Rental System (Java DSA / LLD)](https://trueinterview.io/questions/cd-rental-system) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cd-rental-system) | Jun 24, 2026 |
-| [Concurrent Simple Bank System](https://trueinterview.io/questions/concurrent-simple-bank-system) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/concurrent-simple-bank-system) | Jun 24, 2026 |
-| [Reverse Substrings Between Each Pair of Parentheses](https://trueinterview.io/questions/reverse-substrings-in-parentheses) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/reverse-substrings-in-parentheses) | Jun 24, 2026 |
-| [Array Duplication — O(n) and Memory Trade-offs](https://trueinterview.io/questions/array-deduplication) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/array-deduplication) | Jun 2, 2026 |
-| [Python + SQL Technical Round (Typing, Debugging, Joins)](https://trueinterview.io/questions/python-sql-debugging-round) | Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/python-sql-debugging-round) | Apr 20, 2026 |
-| [Validate IPv4 Addresses in an Array](https://trueinterview.io/questions/ipv4-validation) | Phone · Onsite | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/ipv4-validation) | Apr 20, 2026 |
+| [Hiring-Manager / Project Chat + AI Philosophy](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | 🆕 Oct 2026 |
+| [Evaluate Role-Based Access with Deny Precedence](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Aug 20, 2026 |
+| [Sliding-Window Rate Limiter II](https://trueinterview.io/questions/sliding-window-rate-limiter)<br><sub>also [Roblox](../companies/roblox.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +10</sub> | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/sliding-window-rate-limiter) | Aug 2026 |
+| [CD Rental System (Java DSA / LLD)](https://trueinterview.io/questions/cd-rental-system) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cd-rental-system) | Jun 24, 2026 |
+| [Concurrent Simple Bank System](https://trueinterview.io/questions/concurrent-simple-bank-system) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/concurrent-simple-bank-system) | Jun 24, 2026 |
+| [Reverse Substrings Between Each Pair of Parentheses](https://trueinterview.io/questions/reverse-substrings-in-parentheses) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/reverse-substrings-in-parentheses) | Jun 24, 2026 |
+| [Array Duplication — O(n) and Memory Trade-offs](https://trueinterview.io/questions/array-deduplication) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/array-deduplication) | Jun 2, 2026 |
+| [Python + SQL Technical Round (Typing, Debugging, Joins)](https://trueinterview.io/questions/python-sql-debugging-round) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/python-sql-debugging-round) | Apr 20, 2026 |
+| [Validate IPv4 Addresses in an Array](https://trueinterview.io/questions/ipv4-validation) | Phone · Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ipv4-validation) | Apr 20, 2026 |
 | [Build an Auth0-based MCP Server (Hands-on)](https://trueinterview.io/questions/oa-mcp-auth0-server) | OA | New grad | AI coding | [![Practice][p]](https://trueinterview.io/questions/oa-mcp-auth0-server) | Nov 22, 2025 |
-| [Dependency Cycle Detection (Deadlock)](https://trueinterview.io/questions/dependency-cycle-detection) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/dependency-cycle-detection) | Nov 5, 2025 |
-| [Memory Allocator (Allocate / Free)](https://trueinterview.io/questions/memory-allocator-3) | Phone | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/memory-allocator-3) | Nov 5, 2025 |
+| [Dependency Cycle Detection (Deadlock)](https://trueinterview.io/questions/dependency-cycle-detection) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/dependency-cycle-detection) | Nov 5, 2025 |
+| [Memory Allocator (Allocate / Free)](https://trueinterview.io/questions/memory-allocator-3) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/memory-allocator-3) | Nov 5, 2025 |
 | [Unique Paths](https://trueinterview.io/questions/6d951c54-52b0-4703-b541-a928b1d855ed) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/6d951c54-52b0-4703-b541-a928b1d855ed) | — |

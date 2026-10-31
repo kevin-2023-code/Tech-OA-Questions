@@ -4,21 +4,25 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Cursor on TrueInterview](https://trueinterview.io/problems/company/cursor) · [How Cursor interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/cursor/README.md)
 
-🧠 AI labs · **7 questions** · Senior & Staff+ 7 · last reported Aug 2026
+🧠 AI labs & AI infrastructure · **7 questions** · last reported Aug 2026
+
+**By level:** 🌱 Mid (2) · 🎯 Senior (7) · 🚀 Staff+ (5)
+
+**By role:** 💻 Software Engineering (7)
 
 **Rounds:** 📞 Phone (7)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design a CI/CD Job Scheduler](https://trueinterview.io/questions/design-a-ci-cd-job-scheduler) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-ci-cd-job-scheduler) | Aug 21, 2026 |
-| [Implement and Explain a Merkle Tree](https://trueinterview.io/questions/implement-and-explain-a-merkle-tree) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/implement-and-explain-a-merkle-tree) | Aug 21, 2026 |
-| [Connect a Project Deep Dive to Engineering Career Decisions](https://trueinterview.io/questions/connect-a-project-deep-dive-to-engineering-career-decisions) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/connect-a-project-deep-dive-to-engineering-career-decisions) | Apr 7, 2026 |
-| [Design a Durable Cron Job Scheduler](https://trueinterview.io/questions/design-a-durable-cron-job-scheduler)<br><sub>also [Snowflake](../companies/snowflake.md)</sub> | Phone | **Senior** · **Staff+** | System design | [![Free][f]](https://trueinterview.io/questions/design-a-durable-cron-job-scheduler) | Apr 7, 2026 |
-| [Hash a Repository with a Merkle Tree and Find Changed Files](https://trueinterview.io/questions/hash-a-repository-with-a-merkle-tree-and-find-changed-files) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/hash-a-repository-with-a-merkle-tree-and-find-changed-files) | Apr 7, 2026 |
-| [Design Scalable Notification Rate Limiter](https://trueinterview.io/questions/design-scalable-notification-rate-limiter) | Phone | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-scalable-notification-rate-limiter) | Feb 18, 2026 |
-| [Implement Notification Rate Limiter](https://trueinterview.io/questions/implement-notification-rate-limiter) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-notification-rate-limiter) | Feb 18, 2026 |
+| [Design a CI/CD Job Scheduler](https://trueinterview.io/questions/design-a-ci-cd-job-scheduler) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-ci-cd-job-scheduler) | Aug 21, 2026 |
+| [Implement and Explain a Merkle Tree](https://trueinterview.io/questions/implement-and-explain-a-merkle-tree) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/implement-and-explain-a-merkle-tree) | Aug 21, 2026 |
+| [Connect a Project Deep Dive to Engineering Career Decisions](https://trueinterview.io/questions/connect-a-project-deep-dive-to-engineering-career-decisions) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/connect-a-project-deep-dive-to-engineering-career-decisions) | Apr 7, 2026 |
+| [Design a Durable Cron Job Scheduler](https://trueinterview.io/questions/design-a-durable-cron-job-scheduler)<br><sub>also [Snowflake](../companies/snowflake.md)</sub> | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-a-durable-cron-job-scheduler) | Apr 7, 2026 |
+| [Hash a Repository with a Merkle Tree and Find Changed Files](https://trueinterview.io/questions/hash-a-repository-with-a-merkle-tree-and-find-changed-files) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/hash-a-repository-with-a-merkle-tree-and-find-changed-files) | Apr 7, 2026 |
+| [Design Scalable Notification Rate Limiter](https://trueinterview.io/questions/design-scalable-notification-rate-limiter) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-scalable-notification-rate-limiter) | Feb 18, 2026 |
+| [Implement Notification Rate Limiter](https://trueinterview.io/questions/implement-notification-rate-limiter) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-notification-rate-limiter) | Feb 18, 2026 |

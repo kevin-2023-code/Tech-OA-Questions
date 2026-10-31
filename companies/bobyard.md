@@ -4,23 +4,27 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Bobyard on TrueInterview](https://trueinterview.io/problems/company/bobyard) · [How Bobyard interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/bobyard/README.md)
 
-**7 questions** · Senior & Staff+ 7 · last reported Aug 2026
+🏢 Enterprise & business software · **7 questions** · 1 from an OA · last reported Aug 2026
+
+**By level:** 🌱 Mid (2) · 🎯 Senior (7)
+
+**By role:** 💻 Software Engineering (7)
 
 **Rounds:** 📝 OA (1) · 📞 Phone (6)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/bobyard-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Build a Nested Comment Tree from Flat Records](https://trueinterview.io/questions/build-nested-comment-tree)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/build-nested-comment-tree) | Aug 13, 2026 |
-| [Design comments and async image generation](https://trueinterview.io/questions/design-comments-and-async-image-generation) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-comments-and-async-image-generation) | Apr 9, 2026 |
-| [How do you debug slowness and bugs?](https://trueinterview.io/questions/how-do-you-debug-slowness-and-bugs) | Phone | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/how-do-you-debug-slowness-and-bugs) | Apr 9, 2026 |
-| [Implement comment sorting and nesting](https://trueinterview.io/questions/implement-comment-sorting-and-nesting) | Phone | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-comment-sorting-and-nesting) | Apr 9, 2026 |
-| [Add sorting to a comment list with persistence across refresh](https://trueinterview.io/questions/9efb740a-713a-4618-aee6-a2161feaabc5) | OA | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/9efb740a-713a-4618-aee6-a2161feaabc5) | Apr 2026 |
-| [Design a client-side comment system](https://trueinterview.io/questions/design-a-client-side-comment-system) | Phone | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-client-side-comment-system) | Apr 2026 |
-| [Filter nested comments and keep only matched nodes and their descendants](https://trueinterview.io/questions/a0f62b7d-1822-401b-8910-d8c3872dc67f) | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/a0f62b7d-1822-401b-8910-d8c3872dc67f) | Apr 2026 |
+| [Build a Nested Comment Tree from Flat Records](https://trueinterview.io/questions/build-nested-comment-tree)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/build-nested-comment-tree) | Aug 13, 2026 |
+| [Design comments and async image generation](https://trueinterview.io/questions/design-comments-and-async-image-generation) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-comments-and-async-image-generation) | Apr 9, 2026 |
+| [How do you debug slowness and bugs?](https://trueinterview.io/questions/how-do-you-debug-slowness-and-bugs) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-do-you-debug-slowness-and-bugs) | Apr 9, 2026 |
+| [Implement comment sorting and nesting](https://trueinterview.io/questions/implement-comment-sorting-and-nesting) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-comment-sorting-and-nesting) | Apr 9, 2026 |
+| [Add sorting to a comment list with persistence across refresh](https://trueinterview.io/questions/9efb740a-713a-4618-aee6-a2161feaabc5) | OA | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/9efb740a-713a-4618-aee6-a2161feaabc5) | Apr 2026 |
+| [Design a client-side comment system](https://trueinterview.io/questions/design-a-client-side-comment-system) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-client-side-comment-system) | Apr 2026 |
+| [Filter nested comments and keep only matched nodes and their descendants](https://trueinterview.io/questions/a0f62b7d-1822-401b-8910-d8c3872dc67f) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/a0f62b7d-1822-401b-8910-d8c3872dc67f) | Apr 2026 |

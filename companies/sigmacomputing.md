@@ -4,13 +4,17 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Sigmacomputing on TrueInterview](https://trueinterview.io/problems/company/sigmacomputing) · [How Sigmacomputing interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/sigmacomputing/README.md)
 
-**5 questions** · last reported Jul 2026
+☁️ Developer tools, cloud & data infrastructure · **5 questions** · last reported Jul 2026
+
+**By level:** 🎓 Intern & New grad (1) · 🌱 Mid (4)
+
+**By role:** 💻 Software Engineering (5)
 
 **Rounds:** 📞 Phone (1) · 🏢 Onsite (4)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/sigmacomputing-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg

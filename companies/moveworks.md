@@ -4,20 +4,24 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Moveworks on TrueInterview](https://trueinterview.io/problems/company/moveworks) · [How Moveworks interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/moveworks/README.md)
 
-🧠 AI labs · **6 questions** · Senior & Staff+ 4 · last reported May 2026
+🧠 AI labs & AI infrastructure · **6 questions** · last reported May 2026
+
+**By level:** 🎓 Intern & New grad (2) · 🌱 Mid (5) · 🎯 Senior (4) · 🚀 Staff+ (1)
+
+**By role:** 💻 Software Engineering (6)
 
 **Rounds:** 📞 Phone (3) · 🏢 Onsite (3)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design a car rental booking system](https://trueinterview.io/questions/design-a-car-rental-booking-system) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-car-rental-booking-system) | May 2026 |
+| [Design a car rental booking system](https://trueinterview.io/questions/design-a-car-rental-booking-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-car-rental-booking-system) | May 2026 |
 | [Compute Jaccard similarity between two strings](https://trueinterview.io/questions/compute-jaccard-similarity-between-two-strings) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-jaccard-similarity-between-two-strings) | Mar 2026 |
 | [Filter Strings by Rarest Max-Character Proportion and Unique Common-Chars, Then Concatenate](https://trueinterview.io/questions/4e4c3265-31d9-4e3a-8181-6df223a8dda1) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4e4c3265-31d9-4e3a-8181-6df223a8dda1) | Mar 2026 |
-| [Find a secret word via match feedback](https://trueinterview.io/questions/find-a-secret-word-via-match-feedback)<br><sub>also [Google](../companies/google.md)</sub> | Onsite | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/find-a-secret-word-via-match-feedback) | Dec 15, 2025 |
-| [Find Maximum Number of Strings](https://trueinterview.io/questions/3e15b4f6-57e4-466f-a91d-f7ce9dd81019) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/3e15b4f6-57e4-466f-a91d-f7ce9dd81019) | — |
-| [Get Minimum Operations to Sort Array](https://trueinterview.io/questions/065ba906-0d52-486d-bfdf-7857c57e574c) | Phone | New grad · Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/065ba906-0d52-486d-bfdf-7857c57e574c) | — |
+| [Find a secret word via match feedback](https://trueinterview.io/questions/find-a-secret-word-via-match-feedback)<br><sub>also [Google](../companies/google.md)</sub> | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-a-secret-word-via-match-feedback) | Dec 15, 2025 |
+| [Find Maximum Number of Strings](https://trueinterview.io/questions/3e15b4f6-57e4-466f-a91d-f7ce9dd81019) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/3e15b4f6-57e4-466f-a91d-f7ce9dd81019) | — |
+| [Get Minimum Operations to Sort Array](https://trueinterview.io/questions/065ba906-0d52-486d-bfdf-7857c57e574c) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/065ba906-0d52-486d-bfdf-7857c57e574c) | — |

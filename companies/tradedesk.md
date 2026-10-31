@@ -4,26 +4,30 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Tradedesk on TrueInterview](https://trueinterview.io/problems/company/tradedesk) · [How Tradedesk interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/tradedesk/README.md)
 
-**22 questions** · Senior & Staff+ 11 · last reported Sep 2026
+🏢 Enterprise & business software · **22 questions** · 6 from an OA · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (7) · 🌱 Mid (17) · 🎯 Senior (11) · 🚀 Staff+ (1)
+
+**By role:** 💻 Software Engineering (22)
 
 **Rounds:** 📝 OA (6) · 📞 Phone (9) · 🏢 Onsite (7)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/tradedesk-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Debug a Frontend Component That Shows Wrong API Results](https://trueinterview.io/questions/debug-a-frontend-component-that-shows-wrong-api-results) | Onsite | Mid · **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/debug-a-frontend-component-that-shows-wrong-api-results) | Sep 15, 2026 |
-| [Implement a Publish-Subscribe Event Bus in JavaScript or TypeScript](https://trueinterview.io/questions/implement-a-publish-subscribe-event-bus-in-javascript-or-typescript) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-publish-subscribe-event-bus-in-javascript-or-typescript) | Sep 15, 2026 |
-| [Object-Oriented Design of an Elevator Control System](https://trueinterview.io/questions/object-oriented-design-of-an-elevator-control-system) | Onsite | Mid · **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/object-oriented-design-of-an-elevator-control-system) | Sep 15, 2026 |
-| [Selection-State Class for an Infinite-Scroll Checkbox List with Select All](https://trueinterview.io/questions/selection-state-class-for-an-infinite-scroll-checkbox-list-with-select-all) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/selection-state-class-for-an-infinite-scroll-checkbox-list-with-select-all) | Sep 15, 2026 |
-| [Design an In-Memory Cloud Storage System (Incremental Levels)](https://trueinterview.io/questions/18881fa6-2c09-4cd4-832d-7f0e3194371a) | Onsite | Mid · **Senior** | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/18881fa6-2c09-4cd4-832d-7f0e3194371a) | Sep 2026 |
-| [Trapping Rain Water](https://trueinterview.io/questions/trapping-rain-water)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +4</sub> | Phone | Mid · **Senior** · **Staff+** | Coding | [![Free][f]](https://trueinterview.io/questions/trapping-rain-water) | Sep 2026 |
-| [Fetch and Cache Daily Stock Prices Across a Date Range](https://trueinterview.io/questions/fetch-and-cache-daily-stock-prices-across-a-date-range) | OA | Mid · **Senior** | AI coding | [![Practice][p]](https://trueinterview.io/questions/fetch-and-cache-daily-stock-prices-across-a-date-range) | Aug 31, 2026 |
+| [Debug a Frontend Component That Shows Wrong API Results](https://trueinterview.io/questions/debug-a-frontend-component-that-shows-wrong-api-results) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-a-frontend-component-that-shows-wrong-api-results) | Sep 15, 2026 |
+| [Implement a Publish-Subscribe Event Bus in JavaScript or TypeScript](https://trueinterview.io/questions/implement-a-publish-subscribe-event-bus-in-javascript-or-typescript) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-publish-subscribe-event-bus-in-javascript-or-typescript) | Sep 15, 2026 |
+| [Object-Oriented Design of an Elevator Control System](https://trueinterview.io/questions/object-oriented-design-of-an-elevator-control-system) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/object-oriented-design-of-an-elevator-control-system) | Sep 15, 2026 |
+| [Selection-State Class for an Infinite-Scroll Checkbox List with Select All](https://trueinterview.io/questions/selection-state-class-for-an-infinite-scroll-checkbox-list-with-select-all) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/selection-state-class-for-an-infinite-scroll-checkbox-list-with-select-all) | Sep 15, 2026 |
+| [Design an In-Memory Cloud Storage System (Incremental Levels)](https://trueinterview.io/questions/18881fa6-2c09-4cd4-832d-7f0e3194371a) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/18881fa6-2c09-4cd4-832d-7f0e3194371a) | Sep 2026 |
+| [Trapping Rain Water](https://trueinterview.io/questions/trapping-rain-water)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +4</sub> | Phone | Mid · Senior · Staff+ | Coding | [![Free][f]](https://trueinterview.io/questions/trapping-rain-water) | Sep 2026 |
+| [Fetch and Cache Daily Stock Prices Across a Date Range](https://trueinterview.io/questions/fetch-and-cache-daily-stock-prices-across-a-date-range) | OA | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/fetch-and-cache-daily-stock-prices-across-a-date-range) | Aug 31, 2026 |
 | [Process Operations in a Timestamped In-Memory Database](https://trueinterview.io/questions/process-operations-in-a-timestamped-in-memory-database) | OA | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/process-operations-in-a-timestamped-in-memory-database) | Aug 22, 2026 |
 | [3Sum Variant: Find Unique Triplets Summing to Target](https://trueinterview.io/questions/acd9530f-bc7a-59e4-91f8-4804a6156578)<br><sub>also [Google](../companies/google.md) / [NVIDIA](../companies/nvidia.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/acd9530f-bc7a-59e4-91f8-4804a6156578) | Aug 2026 |
 | [Versioned Recipe Management System](https://trueinterview.io/questions/7cc2781a-4716-537b-86f0-af8491a58f8b) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/7cc2781a-4716-537b-86f0-af8491a58f8b) | Jul 2026 |
@@ -33,9 +37,9 @@
 | [Fastest Benchmark Completion in Activity](https://trueinterview.io/questions/3c61ef86-b26e-4cc4-88cf-3258acb9f8c8) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3c61ef86-b26e-4cc4-88cf-3258acb9f8c8) | Nov 2025 |
 | [Simulation Problem Related to Basic Data Structures and Syntax](https://trueinterview.io/questions/a8b0b549-4edb-4f2c-b1ec-6b9bb7313400) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a8b0b549-4edb-4f2c-b1ec-6b9bb7313400) | Nov 2025 |
 | [Buddies Greater than Target](https://trueinterview.io/questions/055e2b8e-9813-42ea-be04-71e25dff05a4) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/055e2b8e-9813-42ea-be04-71e25dff05a4) | — |
-| [Earn the Most](https://trueinterview.io/questions/de01d1f2-f8dc-44ab-a3ac-256f97bf946b) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/de01d1f2-f8dc-44ab-a3ac-256f97bf946b) | — |
-| [Flights](https://trueinterview.io/questions/64f3d712-00ab-40df-badd-22e7510d3cd6) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/64f3d712-00ab-40df-badd-22e7510d3cd6) | — |
+| [Earn the Most](https://trueinterview.io/questions/de01d1f2-f8dc-44ab-a3ac-256f97bf946b) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/de01d1f2-f8dc-44ab-a3ac-256f97bf946b) | — |
+| [Flights](https://trueinterview.io/questions/64f3d712-00ab-40df-badd-22e7510d3cd6) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/64f3d712-00ab-40df-badd-22e7510d3cd6) | — |
 | [Last to Be Checked](https://trueinterview.io/questions/2069bf07-0c49-475c-8ef8-9e11c443b509) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/2069bf07-0c49-475c-8ef8-9e11c443b509) | — |
-| [Light Sources \\U0001fa75](https://trueinterview.io/questions/67afecc0-9b92-43c1-8517-9380cb208dcb) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/67afecc0-9b92-43c1-8517-9380cb208dcb) | — |
+| [Light Sources \\U0001fa75](https://trueinterview.io/questions/67afecc0-9b92-43c1-8517-9380cb208dcb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/67afecc0-9b92-43c1-8517-9380cb208dcb) | — |
 | [Narrative Words](https://trueinterview.io/questions/9ad96e3a-7f96-4ddb-bcbb-724f098ce6e9) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/9ad96e3a-7f96-4ddb-bcbb-724f098ce6e9) | — |
-| [Tally the Number of Friend Groups with K Sets of Matching Traits](https://trueinterview.io/questions/8b27c148-68bf-4093-bc80-85a303a79911) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/8b27c148-68bf-4093-bc80-85a303a79911) | — |
+| [Tally the Number of Friend Groups with K Sets of Matching Traits](https://trueinterview.io/questions/8b27c148-68bf-4093-bc80-85a303a79911) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/8b27c148-68bf-4093-bc80-85a303a79911) | — |

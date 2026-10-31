@@ -4,44 +4,131 @@
 
 [← Home](../README.md)
 
-Each list is one cell of the matrix on the front page: **who you are** × **where you are interviewing**. A cut with fewer than 3 questions gets no page.
+Every list is a cut of one bank by **role**, **level** or **industry**. A cut with fewer than 3 questions gets no page.
 
-## Who you are
+## Role
 
-- 🎯 **Senior & Staff+** — Reported at a **Senior** or **Staff+** loop (the site's seniority ladder: Senior ≈ L5 / E5 / SDE III, Staff+ ≈ L6 / E6 and above).
-- 🚀 **Staff+ only** — Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
-- 🔬 **ML & Research Scientist** — Asked for a **Machine Learning Engineer**, **Research Scientist** or **AI Engineer** role.
-- 📊 **Quant researcher & developer** — Asked for a **Quantitative Finance** role — researcher, developer or trader.
-- 🗂️ **Every level** — Every question in the bank, whatever level or role it was reported for.
+- 💻 **Software Engineering** — Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
+- 🤖 **ML, AI & Research** — Asked for a **Machine Learning Engineer**, **AI Engineer** or **Research Scientist** role.
+- 📊 **Data Science & Analytics** — Asked for a **Data Scientist** role.
+- 📈 **Quantitative Finance** — Asked for a **Quantitative Finance** role — researcher, developer or trader.
+- 📱 **Product Management** — Asked for a **Product Manager** role.
+- 🔧 **Hardware Engineering** — Asked for a **Hardware** role.
+- ⚙️ **Backend** — Asked for a **Backend Engineer** role.
+- 🖥️ **Frontend** — Asked for a **Frontend Engineer** role.
+- ☁️ **Platform & infra** — Asked for a **Platform Engineer** role.
+- 👔 **Engineering manager** — Reported at a **Manager** loop.
 
-A question carries the levels and roles **the catalog recorded for it** — reported by the candidate, or inferred from their write-up. A question with no level on record is in no level list: unclassified is not the same as "every level".
+## Level
 
-## Where you are interviewing
+- 🎓 **Intern & New grad** — Reported at an **Intern** or **New grad** loop.
+- 🌱 **Mid** — Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
+- 🎯 **Senior** — Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
+- 🚀 **Staff+** — Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-- 🧠 **AI labs** — Employers the shared company registry files under *AI labs & AI infrastructure* — OpenAI, Anthropic, xAI, Microsoft AI, Perplexity, Scale AI and the rest.
-- 📈 **Quant firms** — Employers the shared company registry files under *Quant trading & hedge funds* — Jane Street, Citadel, Hudson River Trading, Two Sigma, Optiver and the rest.
+A question carries the levels and roles **the catalog recorded for it** — reported by the candidate, or inferred from their write-up. A question reported at two levels is on both lists; a question with no level on record is on no level list: unclassified is not "every level".
+
+## Industry
+
 - 🏛️ **MAANG+** — Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
+- 🧠 **AI labs & AI infrastructure** — Employers the shared company registry files under *AI labs & AI infrastructure*.
+- 📱 **Consumer internet & media** — Employers the shared company registry files under *Consumer internet & media*.
+- 🛒 **E-commerce & marketplaces** — Employers the shared company registry files under *E-commerce & marketplaces*.
+- ☁️ **Developer tools, cloud & data infrastructure** — Employers the shared company registry files under *Developer tools, cloud & data infrastructure*.
+- 🏢 **Enterprise & business software** — Employers the shared company registry files under *Enterprise & business software*.
+- 🔒 **Cybersecurity** — Employers the shared company registry files under *Cybersecurity*.
+- 💳 **Fintech, payments & crypto** — Employers the shared company registry files under *Fintech, payments & crypto*.
+- 📈 **Quant trading & hedge funds** — Employers the shared company registry files under *Quant trading & hedge funds*.
+- 🏦 **Banks, insurers & asset managers** — Employers the shared company registry files under *Banks, insurers & asset managers*.
+- 🔬 **Semiconductors & chips** — Employers the shared company registry files under *Semiconductors & chips*.
+- 🖥️ **Hardware, devices & networking** — Employers the shared company registry files under *Hardware, devices & networking*.
+- 🚀 **Aerospace & defence** — Employers the shared company registry files under *Aerospace & defence*.
+- 🚗 **Autonomy, automotive & mobility** — Employers the shared company registry files under *Autonomy, automotive & mobility*.
+- 🎮 **Gaming & interactive** — Employers the shared company registry files under *Gaming & interactive*.
+- 🧬 **Health, biotech & medical devices** — Employers the shared company registry files under *Health, biotech & medical devices*.
+- ⚡ **Energy, climate & industrial** — Employers the shared company registry files under *Energy, climate & industrial*.
+- 📐 **Engineering & architecture firms** — Employers the shared company registry files under *Engineering & architecture firms*.
+- 🧾 **IT services & consulting** — Employers the shared company registry files under *IT services & consulting*.
+- 🏛️ **Government, research & non-profits** — Employers the shared company registry files under *Government, research & non-profits*.
+- 💼 **Other industries** — Employers the shared company registry files under *Other industries*.
 
-## The lists
+An employer the registry has not classified is on no industry list, never guessed into one.
+
+## By level
 
 | List | Questions |
 | :-- | --: |
-| [Senior & Staff+ Engineer Interview Questions at AI Labs (2026)](senior-staff--ai-labs.md) | 430 |
-| [Senior & Staff+ Engineer Interview Questions at Quant Firms (2026)](senior-staff--quant.md) | 187 |
-| [Senior & Staff+ Engineer Interview Questions at MAANG+ (2026)](senior-staff--maang.md) | 1,180 |
-| [Senior & Staff+ Engineer OA & Interview Questions (2026)](senior-staff.md) | 4,136 |
-| [Staff+ Engineer Interview Questions at AI Labs (2026)](staff--ai-labs.md) | 85 |
-| [Staff+ Engineer Interview Questions at Quant Firms (2026)](staff--quant.md) | 22 |
-| [Staff+ Engineer Interview Questions at MAANG+ (2026)](staff--maang.md) | 355 |
-| [Staff+ Engineer OA & Interview Questions (2026)](staff.md) | 1,097 |
-| [ML Engineer & Research Scientist Interview Questions at AI Labs (2026)](ml-research--ai-labs.md) | 103 |
-| [ML Engineer & Research Scientist Interview Questions at Quant Firms (2026)](ml-research--quant.md) | 7 |
-| [ML Engineer & Research Scientist Interview Questions at MAANG+ (2026)](ml-research--maang.md) | 161 |
-| [ML Engineer & Research Scientist OA & Interview Questions (2026)](ml-research.md) | 481 |
-| [Quant Researcher & Developer Interview Questions at Quant Firms (2026)](quant-roles--quant.md) | 271 |
-| [Quant Researcher & Developer Interview Questions at MAANG+ (2026)](quant-roles--maang.md) | 9 |
-| [Quant Researcher & Developer OA & Interview Questions (2026)](quant-roles.md) | 287 |
-| [AI Lab OA & Interview Questions (2026)](ai-labs.md) | 504 |
-| [Quant Firm OA & Interview Questions (2026)](quant.md) | 384 |
+| [Intern & New Grad OA & Interview Questions (2026)](new-grad.md) | 1,509 |
+| [Mid-Level OA & Interview Questions (2026)](mid.md) | 3,473 |
+| [Senior OA & Interview Questions (2026)](senior.md) | 4,079 |
+| [Staff+ OA & Interview Questions (2026)](staff.md) | 1,097 |
+
+## By role
+
+| List | Questions |
+| :-- | --: |
+| [Software Engineer OA & Interview Questions (2026)](swe.md) | 3,959 |
+| [ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research.md) | 481 |
+| [Data Scientist OA & Interview Questions (2026)](data.md) | 1,075 |
+| [Quant Researcher, Developer & Trader OA & Interview Questions (2026)](quant-roles.md) | 287 |
+| [Product Manager OA & Interview Questions (2026)](pm.md) | 45 |
+| [Hardware Engineer OA & Interview Questions (2026)](hardware.md) | 12 |
+| [Backend Engineer OA & Interview Questions (2026)](backend.md) | 683 |
+| [Frontend Engineer OA & Interview Questions (2026)](frontend.md) | 106 |
+| [Platform & Infrastructure Engineer OA & Interview Questions (2026)](platform.md) | 164 |
+| [Engineering Manager OA & Interview Questions (2026)](manager.md) | 150 |
+
+## By role and level
+
+| List | Questions |
+| :-- | --: |
+| [Intern & New Grad Software Engineer OA & Interview Questions (2026)](swe--new-grad.md) | 1,123 |
+| [Mid-Level Software Engineer OA & Interview Questions (2026)](swe--mid.md) | 2,547 |
+| [Senior Software Engineer OA & Interview Questions (2026)](swe--senior.md) | 2,512 |
+| [Staff+ Software Engineer OA & Interview Questions (2026)](swe--staff.md) | 358 |
+| [Intern & New Grad ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--new-grad.md) | 69 |
+| [Mid-Level ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--mid.md) | 185 |
+| [Senior ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--senior.md) | 385 |
+| [Staff+ ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--staff.md) | 138 |
+| [Intern & New Grad Data Scientist OA & Interview Questions (2026)](data--new-grad.md) | 178 |
+| [Mid-Level Data Scientist OA & Interview Questions (2026)](data--mid.md) | 470 |
+| [Senior Data Scientist OA & Interview Questions (2026)](data--senior.md) | 957 |
+| [Staff+ Data Scientist OA & Interview Questions (2026)](data--staff.md) | 552 |
+| [Intern & New Grad Quant Researcher, Developer & Trader OA & Interview Questions (2026)](quant-roles--new-grad.md) | 120 |
+| [Mid-Level Quant Researcher, Developer & Trader OA & Interview Questions (2026)](quant-roles--mid.md) | 205 |
+| [Senior Quant Researcher, Developer & Trader OA & Interview Questions (2026)](quant-roles--senior.md) | 128 |
+| [Staff+ Quant Researcher, Developer & Trader OA & Interview Questions (2026)](quant-roles--staff.md) | 15 |
+| [Mid-Level Product Manager OA & Interview Questions (2026)](pm--mid.md) | 16 |
+| [Senior Product Manager OA & Interview Questions (2026)](pm--senior.md) | 41 |
+| [Staff+ Product Manager OA & Interview Questions (2026)](pm--staff.md) | 24 |
+| [Mid-Level Hardware Engineer OA & Interview Questions (2026)](hardware--mid.md) | 5 |
+| [Senior Hardware Engineer OA & Interview Questions (2026)](hardware--senior.md) | 9 |
+| [Staff+ Hardware Engineer OA & Interview Questions (2026)](hardware--staff.md) | 5 |
+
+## By industry
+
+| List | Questions |
+| :-- | --: |
 | [MAANG+ OA & Interview Questions (2026)](maang.md) | 1,698 |
+| [AI labs & AI infrastructure OA & Interview Questions (2026)](ai-labs.md) | 504 |
+| [Consumer internet & media OA & Interview Questions (2026)](consumer-internet.md) | 1,591 |
+| [E-commerce & marketplaces OA & Interview Questions (2026)](ecommerce-marketplace.md) | 1,238 |
+| [Developer tools, cloud & data infrastructure OA & Interview Questions (2026)](dev-infra.md) | 302 |
+| [Enterprise & business software OA & Interview Questions (2026)](enterprise-saas.md) | 723 |
+| [Cybersecurity OA & Interview Questions (2026)](security.md) | 80 |
+| [Fintech, payments & crypto OA & Interview Questions (2026)](fintech.md) | 509 |
+| [Quant trading & hedge funds OA & Interview Questions (2026)](quant.md) | 384 |
+| [Banks, insurers & asset managers OA & Interview Questions (2026)](banking-finance.md) | 428 |
+| [Semiconductors & chips OA & Interview Questions (2026)](semiconductors.md) | 64 |
+| [Hardware, devices & networking OA & Interview Questions (2026)](hardware-devices.md) | 225 |
+| [Autonomy, automotive & mobility OA & Interview Questions (2026)](autonomy-mobility.md) | 200 |
+| [Gaming & interactive OA & Interview Questions (2026)](gaming.md) | 106 |
+| [Health, biotech & medical devices OA & Interview Questions (2026)](health-bio.md) | 3 |
+| [IT services & consulting OA & Interview Questions (2026)](it-consulting.md) | 45 |
+
+## Everything else
+
+| List | Questions |
+| :-- | --: |
 | [Free to solve](free.md) | 1,978 |
+| [Every question, newest first](../question-bank/README.md) | 5,924 |

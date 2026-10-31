@@ -4,37 +4,41 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Dropbox on TrueInterview](https://trueinterview.io/problems/company/dropbox) · [How Dropbox interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/dropbox/README.md)
 
-**21 questions** · Senior & Staff+ 18 · last reported Sep 2026
+🏢 Enterprise & business software · **21 questions** · 1 from an OA · last reported Sep 2026
+
+**By level:** 🎓 Intern & New grad (2) · 🌱 Mid (6) · 🎯 Senior (18) · 🚀 Staff+ (5)
+
+**By role:** 💻 Software Engineering (18) · 📊 Data Science & Analytics (3)
 
 **Rounds:** 📝 OA (1) · 📞 Phone (10) · 🏢 Onsite (10)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/dropbox-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Token Bucket Rate Limiter II](https://trueinterview.io/questions/58b8e172-126c-506d-9294-bd87ba76d9d9)<br><sub>also [Uber](../companies/uber.md) / [Meta](../companies/meta.md)</sub> | Phone | **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/58b8e172-126c-506d-9294-bd87ba76d9d9) | Sep 2026 |
-| [Implement SnapshotSet](https://trueinterview.io/questions/457a2c8a-2f83-46a9-8137-e8f8ed59b3a6)<br><sub>also [Databricks](../companies/databricks.md)</sub> | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/457a2c8a-2f83-46a9-8137-e8f8ed59b3a6) | Jul 2026 |
+| [Token Bucket Rate Limiter II](https://trueinterview.io/questions/58b8e172-126c-506d-9294-bd87ba76d9d9)<br><sub>also [Uber](../companies/uber.md) / [Meta](../companies/meta.md)</sub> | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/58b8e172-126c-506d-9294-bd87ba76d9d9) | Sep 2026 |
+| [Implement SnapshotSet](https://trueinterview.io/questions/457a2c8a-2f83-46a9-8137-e8f8ed59b3a6)<br><sub>also [Databricks](../companies/databricks.md)</sub> | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/457a2c8a-2f83-46a9-8137-e8f8ed59b3a6) | Jul 2026 |
 | [Worker Registration Payroll Calculation](https://trueinterview.io/questions/c7dcf405-b5b0-405d-9164-b770da49caa0) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/c7dcf405-b5b0-405d-9164-b770da49caa0) | May 2026 |
-| [Double Circuit Breaker for server calls (lambda returns success/failure)](https://trueinterview.io/questions/09d9b5c2-55aa-42e6-aa90-59a942fb10f8) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/09d9b5c2-55aa-42e6-aa90-59a942fb10f8) | Apr 2026 |
-| [Event Logger with batching, fsync, and group commit follow-ups](https://trueinterview.io/questions/481f5542-4481-47c3-948d-fa2e58f4b6d9) | Onsite | **Senior** | System design | [![Practice][p]](https://trueinterview.io/questions/481f5542-4481-47c3-948d-fa2e58f4b6d9) | Apr 2026 |
-| [Describe surprising project learnings](https://trueinterview.io/questions/describe-surprising-project-learnings) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-surprising-project-learnings) | Mar 2026 |
-| [Describe Your Most Complex Project](https://trueinterview.io/questions/describe-your-most-complex-project) | Onsite | **Senior** | blog | [![Free][f]](https://trueinterview.io/questions/describe-your-most-complex-project) | Mar 2026 |
-| [Design and Implement an In-Memory KV Store (API + Optional Extensions)](https://trueinterview.io/questions/25de6019-dd6c-4d5c-a34f-39827dfbaba8) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/25de6019-dd6c-4d5c-a34f-39827dfbaba8) | Mar 2026 |
-| [File Crawler](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Onsite | Mid · **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Mar 2026 |
-| [Hangman Optimal Strategy](https://trueinterview.io/questions/03d208eb-7407-4966-b8c0-0f063d5fa252) | Phone | Mid · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/03d208eb-7407-4966-b8c0-0f063d5fa252) | Mar 2026 |
-| [Design a recursive distributed file crawler](https://trueinterview.io/questions/design-a-recursive-distributed-file-crawler) | Onsite | **Senior** · **Staff+** | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-recursive-distributed-file-crawler) | Jan 25, 2026 |
-| [API Design for Long Running Requests](https://trueinterview.io/questions/ea7d38db-f5ac-4619-b82f-c7d0228d01ca) | Onsite | **Senior** | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ea7d38db-f5ac-4619-b82f-c7d0228d01ca) | Nov 2025 |
+| [Double Circuit Breaker for server calls (lambda returns success/failure)](https://trueinterview.io/questions/09d9b5c2-55aa-42e6-aa90-59a942fb10f8) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/09d9b5c2-55aa-42e6-aa90-59a942fb10f8) | Apr 2026 |
+| [Event Logger with batching, fsync, and group commit follow-ups](https://trueinterview.io/questions/481f5542-4481-47c3-948d-fa2e58f4b6d9) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/481f5542-4481-47c3-948d-fa2e58f4b6d9) | Apr 2026 |
+| [Describe surprising project learnings](https://trueinterview.io/questions/describe-surprising-project-learnings) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-surprising-project-learnings) | Mar 2026 |
+| [Describe Your Most Complex Project](https://trueinterview.io/questions/describe-your-most-complex-project) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-your-most-complex-project) | Mar 2026 |
+| [Design and Implement an In-Memory KV Store (API + Optional Extensions)](https://trueinterview.io/questions/25de6019-dd6c-4d5c-a34f-39827dfbaba8) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/25de6019-dd6c-4d5c-a34f-39827dfbaba8) | Mar 2026 |
+| [File Crawler](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Mar 2026 |
+| [Hangman Optimal Strategy](https://trueinterview.io/questions/03d208eb-7407-4966-b8c0-0f063d5fa252) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/03d208eb-7407-4966-b8c0-0f063d5fa252) | Mar 2026 |
+| [Design a recursive distributed file crawler](https://trueinterview.io/questions/design-a-recursive-distributed-file-crawler) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-recursive-distributed-file-crawler) | Jan 25, 2026 |
+| [API Design for Long Running Requests](https://trueinterview.io/questions/ea7d38db-f5ac-4619-b82f-c7d0228d01ca) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ea7d38db-f5ac-4619-b82f-c7d0228d01ca) | Nov 2025 |
 | [Simulate a File System with Access Control](https://trueinterview.io/questions/f0867d5b-4d3f-4ff4-9af3-0c7f8b8160ca) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f0867d5b-4d3f-4ff4-9af3-0c7f8b8160ca) | Nov 2025 |
 | [Tetris-like Block Drop Simulation](https://trueinterview.io/questions/02df0747-8a69-4a01-9098-10ef7070a1a6) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/02df0747-8a69-4a01-9098-10ef7070a1a6) | Nov 2025 |
-| [Word Guessing Feedback](https://trueinterview.io/questions/066f3b72-1a40-4fca-8001-eecd1ddc3565) | OA | **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/066f3b72-1a40-4fca-8001-eecd1ddc3565) | Nov 2025 |
-| [Answer rapid-fire leadership checklist](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | Phone | **Senior** · **Staff+** · Manager | blog | [![Free][f]](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | — |
-| [Compute max island with constrained flips](https://trueinterview.io/questions/compute-max-island-with-constrained-flips) | Phone | Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-max-island-with-constrained-flips) | — |
-| [Explain a project with measurable impact](https://trueinterview.io/questions/explain-a-project-with-measurable-impact) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/explain-a-project-with-measurable-impact) | — |
-| [Review checkout code for defects and privacy](https://trueinterview.io/questions/review-checkout-code-for-defects-and-privacy) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/review-checkout-code-for-defects-and-privacy) | — |
-| [Run org-safe online experiment for recommender](https://trueinterview.io/questions/run-org-safe-online-experiment-for-recommender) | Phone | **Senior** · **Staff+** | blog | [![Free][f]](https://trueinterview.io/questions/run-org-safe-online-experiment-for-recommender) | — |
-| [Shortest Path with Uniform Walking Method](https://trueinterview.io/questions/374ea0b3-6ad5-4d15-a6a4-bfd7a92db739) | Phone | New grad · Mid · **Senior** | Coding | [![Practice][p]](https://trueinterview.io/questions/374ea0b3-6ad5-4d15-a6a4-bfd7a92db739) | — |
+| [Word Guessing Feedback](https://trueinterview.io/questions/066f3b72-1a40-4fca-8001-eecd1ddc3565) | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/066f3b72-1a40-4fca-8001-eecd1ddc3565) | Nov 2025 |
+| [Answer rapid-fire leadership checklist](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | — |
+| [Compute max island with constrained flips](https://trueinterview.io/questions/compute-max-island-with-constrained-flips) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-max-island-with-constrained-flips) | — |
+| [Explain a project with measurable impact](https://trueinterview.io/questions/explain-a-project-with-measurable-impact) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-a-project-with-measurable-impact) | — |
+| [Review checkout code for defects and privacy](https://trueinterview.io/questions/review-checkout-code-for-defects-and-privacy) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/review-checkout-code-for-defects-and-privacy) | — |
+| [Run org-safe online experiment for recommender](https://trueinterview.io/questions/run-org-safe-online-experiment-for-recommender) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/run-org-safe-online-experiment-for-recommender) | — |
+| [Shortest Path with Uniform Walking Method](https://trueinterview.io/questions/374ea0b3-6ad5-4d15-a6a4-bfd7a92db739) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/374ea0b3-6ad5-4d15-a6a4-bfd7a92db739) | — |

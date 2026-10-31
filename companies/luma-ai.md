@@ -4,20 +4,24 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Luma AI on TrueInterview](https://trueinterview.io/problems/company/luma-ai) · [How Luma AI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/luma-ai/README.md)
 
-🧠 AI labs · **6 questions** · Senior & Staff+ 1 · ML & Research Scientist 2 · Quant researcher & developer 1 · last reported Aug 2026
+🧠 AI labs & AI infrastructure · **6 questions** · 3 from an OA · last reported Aug 2026
+
+**By level:** 🎓 Intern & New grad (6) · 🎯 Senior (1)
+
+**By role:** 💻 Software Engineering (3) · 🤖 ML, AI & Research (2) · 📈 Quantitative Finance (1)
 
 **Rounds:** 📝 OA (3) · 📞 Phone (2) · 🏢 Onsite (1)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/luma-ai-interview-process)
 
-<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the seniority the loop was reported at · a dash means not recorded</sub>
+<sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
 [f]: ../assets/free.svg
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Closest Pair of Points](https://trueinterview.io/questions/closest-pair-of-points)<br><sub>also [Citadel](../companies/citadel.md)</sub> | Phone | New grad · **Senior** | Coding | [![Free][f]](https://trueinterview.io/questions/closest-pair-of-points) | Aug 2026 |
+| [Closest Pair of Points](https://trueinterview.io/questions/closest-pair-of-points)<br><sub>also [Citadel](../companies/citadel.md)</sub> | Phone | New grad · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/closest-pair-of-points) | Aug 2026 |
 | [Copy an Image Matrix](https://trueinterview.io/questions/6f016452-d9b6-5e16-b260-34ec46994410) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/6f016452-d9b6-5e16-b260-34ec46994410) | Jun 2026 |
 | [Gaussian Image Filter](https://trueinterview.io/questions/8725ba22-7231-5ba5-9991-fbf266e5c571) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/8725ba22-7231-5ba5-9991-fbf266e5c571) | Jun 2026 |
 | [Implement Softmax](https://trueinterview.io/questions/18c240e2-f238-5284-82b7-f4153b3b8844)<br><sub>also [Amazon](../companies/amazon.md)</sub> | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/18c240e2-f238-5284-82b7-f4153b3b8844) | Jun 2026 |
