@@ -19,5 +19,5 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Compare Arrays and Linked Lists for Indexed Operations](https://trueinterview.io/questions/compare-arrays-and-linked-lists-for-indexed-operations) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-arrays-and-linked-lists-for-indexed-operations) | 🆕 Sep 16, 2026 |
+| [Compare Arrays and Linked Lists for Indexed Operations](https://trueinterview.io/questions/compare-arrays-and-linked-lists-for-indexed-operations) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-arrays-and-linked-lists-for-indexed-operations) | Sep 16, 2026 |
 | [Redesign a Spam Classifier for Production](https://trueinterview.io/questions/redesign-a-spam-classifier-for-production) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/redesign-a-spam-classifier-for-production) | Aug 20, 2026 |
