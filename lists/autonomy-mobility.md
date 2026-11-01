@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Autonomy, automotive & mobility*.
 
-**200 questions** · 25 from an OA · 41 reported in the last 90 days · 51 free to solve
+**200 questions** · 25 from an OA · 41 reported in the last 90 days · 53 free to solve
 
 **By level:** 🎓 Intern & New grad (43) · 🌱 Mid (112) · 🎯 Senior (132) · 🚀 Staff+ (22)
 
@@ -190,8 +190,8 @@
 | **[WeRide](../companies/weride.md)** | [Minimize Cost to Make Blocks Unique](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Nov 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** / [WeRide](../companies/weride.md) | [Preprocess Dates](https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099) | Nov 2025 |
 | **[WeRide](../companies/weride.md)** | [Shortest Path to Collect All Coins](https://trueinterview.io/questions/ebc36290-8e59-49ee-aba8-88d6ce49f1cb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ebc36290-8e59-49ee-aba8-88d6ce49f1cb) | Nov 2025 |
-| **[Tesla](../companies/tesla.md)** | [First Solar Panel Placement in a Binary Grid](https://trueinterview.io/questions/solar-panel-placement-grid) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solar-panel-placement-grid) | Oct 31, 2025 |
-| **[WeRide](../companies/weride.md)** | [Implement matrix multiplication and fast exponentiation](https://trueinterview.io/questions/implement-matrix-multiplication-and-fast-exponentiation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-matrix-multiplication-and-fast-exponentiation) | Oct 2, 2025 |
+| **[Tesla](../companies/tesla.md)** | [First Solar Panel Placement in a Binary Grid](https://trueinterview.io/questions/solar-panel-placement-grid) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/solar-panel-placement-grid) | Oct 31, 2025 |
+| **[WeRide](../companies/weride.md)** | [Implement matrix multiplication and fast exponentiation](https://trueinterview.io/questions/implement-matrix-multiplication-and-fast-exponentiation) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-matrix-multiplication-and-fast-exponentiation) | Oct 2, 2025 |
 | **[Waymo](../companies/waymo.md)** | [Parking Lot + Robotaxi Dispatch](https://trueinterview.io/questions/sd-parking-and-dispatch) | Onsite | Senior | System design | [![Free][f]](https://trueinterview.io/questions/sd-parking-and-dispatch) | Sep 29, 2025 |
 | **[Waymo](../companies/waymo.md)** | [Sparse Matrix Left- and Right-Multiply Vector](https://trueinterview.io/questions/sparse-matrix-vector-multiply) | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/sparse-matrix-vector-multiply) | Sep 29, 2025 |
 | **[Tesla](../companies/tesla.md)** | [Robot Room Navigation Take-Home](https://trueinterview.io/questions/robot-room-navigation-takehome) | Take-home | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/robot-room-navigation-takehome) | Sep 24, 2025 |

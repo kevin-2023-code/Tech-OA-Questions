@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,547 questions** · 338 from an OA · 620 reported in the last 90 days · 625 free to solve
+**2,547 questions** · 338 from an OA · 620 reported in the last 90 days · 667 free to solve
 
 **Rounds:** 📝 OA (338) · 📞 Phone (1,480) · 🏢 Onsite (971) · 🏠 Take-home (5)
 
@@ -422,6 +422,6 @@
 | **[Rippling](../companies/rippling.md)** | [Time Complexity Analysis](https://trueinterview.io/questions/3ff04932-615f-483c-a528-757dfbfc638a) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/3ff04932-615f-483c-a528-757dfbfc638a) | Nov 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Woo Restaurant Design](https://trueinterview.io/questions/9b4cb899-5355-4016-b218-5bb90a044898) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/9b4cb899-5355-4016-b218-5bb90a044898) | Nov 2025 |
 | **[Amazon](../companies/amazon.md)** | [Describe failure, conflict, metrics, and AI lessons](https://trueinterview.io/questions/describe-failure-conflict-metrics-and-ai-lessons) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-failure-conflict-metrics-and-ai-lessons) | Oct 31, 2025 |
-| **[Tesla](../companies/tesla.md)** | [First Solar Panel Placement in a Binary Grid](https://trueinterview.io/questions/solar-panel-placement-grid) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solar-panel-placement-grid) | Oct 31, 2025 |
+| **[Tesla](../companies/tesla.md)** | [First Solar Panel Placement in a Binary Grid](https://trueinterview.io/questions/solar-panel-placement-grid) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/solar-panel-placement-grid) | Oct 31, 2025 |
 
 <sub>Page [1](swe--mid.md) · [2](swe--mid-2.md) · [3](swe--mid-3.md) · [4](swe--mid-4.md) · **5** · [6](swe--mid-6.md) · [7](swe--mid-7.md)</sub>

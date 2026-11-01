@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Platform Engineer** role.
 
-**164 questions** · 3 from an OA · 61 reported in the last 90 days · 53 free to solve
+**164 questions** · 3 from an OA · 61 reported in the last 90 days · 55 free to solve
 
 **By level:** 🎓 Intern & New grad (13) · 🌱 Mid (68) · 🎯 Senior (139) · 🚀 Staff+ (37)
 
@@ -170,10 +170,10 @@
 | **[Databricks](../companies/databricks.md)** | [Network Throttling System Design](https://trueinterview.io/questions/network-throttling-system-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/network-throttling-system-design) | Nov 20, 2025 |
 | **[Axon](../companies/axon.md)** | [Design a Test Orchestration System](https://trueinterview.io/questions/design-a-test-orchestration-system) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-a-test-orchestration-system) | Nov 18, 2025 |
 | **[Netflix](../companies/netflix.md)** | [Implement a Multithreaded Map](https://trueinterview.io/questions/5eae4920-e16f-4632-91b8-6f8ebdd6d4a1) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/5eae4920-e16f-4632-91b8-6f8ebdd6d4a1) | Nov 2025 |
-| **[Discord](../companies/discord.md)** | [Debug and mitigate a CPU spike incident](https://trueinterview.io/questions/debug-and-mitigate-a-cpu-spike-incident) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/debug-and-mitigate-a-cpu-spike-incident) | Oct 25, 2025 |
+| **[Discord](../companies/discord.md)** | [Debug and mitigate a CPU spike incident](https://trueinterview.io/questions/debug-and-mitigate-a-cpu-spike-incident) | Onsite | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/debug-and-mitigate-a-cpu-spike-incident) | Oct 25, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Analyze TCP three-way handshake states](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | Oct 24, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Identify incorrect statement about sockets](https://trueinterview.io/questions/identify-incorrect-statement-about-sockets) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/identify-incorrect-statement-about-sockets) | Oct 24, 2025 |
-| **[Amazon](../companies/amazon.md)** | [Concurrent Job Scheduler](https://trueinterview.io/questions/6010f396-e828-4075-a3c9-73203ba748bf) | Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/6010f396-e828-4075-a3c9-73203ba748bf) | Oct 2025 |
+| **[Amazon](../companies/amazon.md)** | [Concurrent Job Scheduler](https://trueinterview.io/questions/6010f396-e828-4075-a3c9-73203ba748bf) | Onsite | Senior · Staff+ | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/6010f396-e828-4075-a3c9-73203ba748bf) | Oct 2025 |
 | **[IBM](../companies/ibm.md)** | [Kubernetes Controller for Pod Balance](https://trueinterview.io/questions/kubernetes-controller-pod-balance) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/kubernetes-controller-pod-balance) | Aug 25, 2025 |
 | **[Figma](../companies/figma.md)** | [Deep Dive — What Happens When You Access a URL](https://trueinterview.io/questions/deep-dive-url-request-lifecycle) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/deep-dive-url-request-lifecycle) | Feb 1, 2025 |
 | **[Databricks](../companies/databricks.md)** / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) | [Design A VM Bandwidth Rate Limiter](https://trueinterview.io/questions/design-a-vm-bandwidth-rate-limiter-2) | Onsite | Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-a-vm-bandwidth-rate-limiter-2) | Jan 2025 |

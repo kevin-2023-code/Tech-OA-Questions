@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**128 questions** · 22 from an OA · 29 reported in the last 90 days · 60 free to solve
+**128 questions** · 22 from an OA · 29 reported in the last 90 days · 62 free to solve
 
 **Rounds:** 📝 OA (22) · 📞 Phone (79) · 🏢 Onsite (31) · 🏠 Take-home (1)
 
@@ -126,8 +126,8 @@
 | **[Point72](../companies/point72.md)** | [Expandable Array&lt;T> Class Template](https://trueinterview.io/questions/eea5c9ac-85a5-447b-a531-44537f1b2902) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/eea5c9ac-85a5-447b-a531-44537f1b2902) | Nov 2025 |
 | **[Two Sigma](../companies/two-sigma.md)** | [How Would You Test Whether Momentum Is a Real Alpha Signal in Stocks?](https://trueinterview.io/questions/how-would-you-test-whether-momentum-is-a-real-alpha-signal-in-stocks) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-test-whether-momentum-is-a-real-alpha-signal-in-stocks) | Nov 2025 |
 | **[Millennium](../companies/millennium.md)** | [Debug missing output in Python async HTTP flow](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Oct 24, 2025 |
-| **[Two Sigma](../companies/two-sigma.md)** | [Maximum Product Path in a Complete Directed Graph](https://trueinterview.io/questions/maximum-product-path-in-complete-directed-graph) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-product-path-in-complete-directed-graph) | Oct 9, 2025 |
-| **[Two Sigma](../companies/two-sigma.md)** | [Palindrome Warmup + Two-Task Worker Scheduling](https://trueinterview.io/questions/palindrome-and-task-scheduling-round) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/palindrome-and-task-scheduling-round) | Oct 9, 2025 |
+| **[Two Sigma](../companies/two-sigma.md)** | [Maximum Product Path in a Complete Directed Graph](https://trueinterview.io/questions/maximum-product-path-in-complete-directed-graph) | Onsite | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/maximum-product-path-in-complete-directed-graph) | Oct 9, 2025 |
+| **[Two Sigma](../companies/two-sigma.md)** | [Palindrome Warmup + Two-Task Worker Scheduling](https://trueinterview.io/questions/palindrome-and-task-scheduling-round) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/palindrome-and-task-scheduling-round) | Oct 9, 2025 |
 | **[DRW](../companies/drw.md)** | [Solve Three Algorithmic Problems](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems) | OA | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems) | Oct 8, 2025 |
 | **[IMC](../companies/imc.md)** | [Choose container set to minimize waste](https://trueinterview.io/questions/choose-container-set-to-minimize-waste) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/choose-container-set-to-minimize-waste) | Oct 6, 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [An Evening of Movies](https://trueinterview.io/questions/d5fd5e8c-f2f0-4231-bdd6-7fa8716245bc) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/d5fd5e8c-f2f0-4231-bdd6-7fa8716245bc) | — |

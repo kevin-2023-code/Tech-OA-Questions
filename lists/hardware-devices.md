@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Hardware, devices & networking*.
 
-**225 questions** · 32 from an OA · 50 reported in the last 90 days · 101 free to solve
+**225 questions** · 32 from an OA · 50 reported in the last 90 days · 103 free to solve
 
 **By level:** 🎓 Intern & New grad (60) · 🌱 Mid (142) · 🎯 Senior (145) · 🚀 Staff+ (27)
 
@@ -210,8 +210,8 @@
 | **[Apple](../companies/apple.md)** | [Explain Vision Encoders and LLM Bottlenecks](https://trueinterview.io/questions/explain-vision-encoders-and-llm-bottlenecks) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-vision-encoders-and-llm-bottlenecks) | Nov 11, 2025 |
 | **[Apple](../companies/apple.md)** | [Solve three easy algorithm problems](https://trueinterview.io/questions/solve-three-easy-algorithm-problems) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-three-easy-algorithm-problems) | Nov 11, 2025 |
 | **[Netflix](../companies/netflix.md)** / [Apple](../companies/apple.md) / [Snowflake](../companies/snowflake.md) | [ML Job Scheduler](https://trueinterview.io/questions/ml-job-scheduler) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-job-scheduler) | Nov 2025 |
-| **[Apple](../companies/apple.md)** | [Scale Digit-Square Convergence Requests](https://trueinterview.io/questions/scale-digit-square-convergence-requests) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/scale-digit-square-convergence-requests) | Oct 28, 2025 |
-| **[Apple](../companies/apple.md)** | [Solve Digit-Square and Grid BFS Problems](https://trueinterview.io/questions/solve-digit-square-and-grid-bfs-problems) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-digit-square-and-grid-bfs-problems) | Oct 28, 2025 |
+| **[Apple](../companies/apple.md)** | [Scale Digit-Square Convergence Requests](https://trueinterview.io/questions/scale-digit-square-convergence-requests) | Phone | Senior | System design | [![Free][f]](https://trueinterview.io/questions/scale-digit-square-convergence-requests) | Oct 28, 2025 |
+| **[Apple](../companies/apple.md)** | [Solve Digit-Square and Grid BFS Problems](https://trueinterview.io/questions/solve-digit-square-and-grid-bfs-problems) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/solve-digit-square-and-grid-bfs-problems) | Oct 28, 2025 |
 | **[Intuit](../companies/intuit.md)** / [Cisco](../companies/cisco.md) | [Look-and-Say Sequence](https://trueinterview.io/questions/look-and-say-sequence) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/look-and-say-sequence) | Sep 29, 2025 |
 | **[Cisco](../companies/cisco.md)** | [Add Two Reversed Digit Lists](https://trueinterview.io/questions/add-two-reversed-digit-lists) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/add-two-reversed-digit-lists) | Sep 6, 2025 |
 | **[Cisco](../companies/cisco.md)** | [Linked List Binary to Decimal](https://trueinterview.io/questions/linked-list-binary-to-decimal) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/linked-list-binary-to-decimal) | Sep 6, 2025 |

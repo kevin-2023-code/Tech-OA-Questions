@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,473 questions** · 485 from an OA · 755 reported in the last 90 days · 1,026 free to solve
+**3,473 questions** · 485 from an OA · 755 reported in the last 90 days · 1,082 free to solve
 
 **By role:** 💻 Software Engineering (2,547) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 

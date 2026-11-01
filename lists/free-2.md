@@ -6,13 +6,13 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**1,978 questions** · 218 from an OA · 398 reported in the last 90 days · 1,978 free to solve
+**2,056 questions** · 234 from an OA · 398 reported in the last 90 days · 2,056 free to solve
 
-**By level:** 🎓 Intern & New grad (415) · 🌱 Mid (1,026) · 🎯 Senior (1,499) · 🚀 Staff+ (662)
+**By level:** 🎓 Intern & New grad (445) · 🌱 Mid (1,082) · 🎯 Senior (1,554) · 🚀 Staff+ (670)
 
-**Companies:** [Meta (198)](../companies/meta.md) · [Amazon (170)](../companies/amazon.md) · [ByteDance (141)](../companies/bytedance.md) · [Google (126)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (103)](../companies/uber.md) · [Microsoft (73)](../companies/microsoft.md) · [Apple (72)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (49)](../companies/doordash.md) · [Goldman Sachs (43)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (36)](../companies/anthropic.md) · [Snapchat (34)](../companies/snapchat.md) · [Netflix (32)](../companies/netflix.md)
+**Companies:** [Meta (202)](../companies/meta.md) · [Amazon (172)](../companies/amazon.md) · [ByteDance (144)](../companies/bytedance.md) · [Google (127)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (105)](../companies/uber.md) · [Microsoft (76)](../companies/microsoft.md) · [Apple (74)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (50)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Snapchat (35)](../companies/snapchat.md) · [Bloomberg (34)](../companies/bloomberg.md)
 
-<sub>Page [1](free.md) · **2** · [3](free-3.md) · [4](free-4.md) · [5](free-5.md)</sub>
+<sub>Page [1](free.md) · **2** · [3](free-3.md) · [4](free-4.md) · [5](free-5.md) · [6](free-6.md)</sub>
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -422,4 +422,4 @@
 | **[JPMorgan](../companies/jpmorgan.md)** | [Explain Daily Signal Construction and a Prediction Workflow](https://trueinterview.io/questions/explain-daily-signal-construction-and-a-prediction-workflow) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-daily-signal-construction-and-a-prediction-workflow) | Mar 18, 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Answer common project leadership questions](https://trueinterview.io/questions/answer-common-project-leadership-questions) | Onsite | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-common-project-leadership-questions) | Mar 17, 2026 |
 
-<sub>Page [1](free.md) · **2** · [3](free-3.md) · [4](free-4.md) · [5](free-5.md)</sub>
+<sub>Page [1](free.md) · **2** · [3](free-3.md) · [4](free-4.md) · [5](free-5.md) · [6](free-6.md)</sub>

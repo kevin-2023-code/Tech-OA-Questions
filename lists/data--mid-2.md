@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**470 questions** · 76 from an OA · 38 reported in the last 90 days · 199 free to solve
+**470 questions** · 76 from an OA · 38 reported in the last 90 days · 204 free to solve
 
 **Rounds:** 📝 OA (76) · 📞 Phone (297) · 🏢 Onsite (102) · 🏠 Take-home (1)
 

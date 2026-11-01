@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Machine Learning Engineer**, **AI Engineer** or **Research Scientist** role.
 
-**481 questions** · 21 from an OA · 111 reported in the last 90 days · 181 free to solve
+**481 questions** · 21 from an OA · 111 reported in the last 90 days · 184 free to solve
 
 **By level:** 🎓 Intern & New grad (69) · 🌱 Mid (185) · 🎯 Senior (385) · 🚀 Staff+ (138)
 
@@ -43,10 +43,10 @@
 | **[Netflix](../companies/netflix.md)** / [Apple](../companies/apple.md) / [Snowflake](../companies/snowflake.md) | [ML Job Scheduler](https://trueinterview.io/questions/ml-job-scheduler) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-job-scheduler) | Nov 2025 |
 | **[Amazon](../companies/amazon.md)** | [Explain core components of reinforcement learning](https://trueinterview.io/questions/explain-core-components-of-reinforcement-learning) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-core-components-of-reinforcement-learning) | Oct 26, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Choose best prompt for AI code debugging](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | Oct 24, 2025 |
-| **[OpenAI](../companies/openai.md)** | [Design a Resumable Iterator with Checkpoint and Restore](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Oct 18, 2025 |
-| **[Goldman Sachs](../companies/goldman-sachs.md)** | [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Oct 10, 2025 |
+| **[OpenAI](../companies/openai.md)** | [Design a Resumable Iterator with Checkpoint and Restore](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Oct 18, 2025 |
+| **[Goldman Sachs](../companies/goldman-sachs.md)** | [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Oct 10, 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Evaluate TPR/FPR, sigmoid, and activations](https://trueinterview.io/questions/evaluate-tpr-fpr-sigmoid-and-activations) | OA | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-tpr-fpr-sigmoid-and-activations) | Oct 10, 2025 |
-| **[Perplexity](../companies/perplexity.md)** | [Embedding Model Server](https://trueinterview.io/questions/embedding-model-server) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/embedding-model-server) | Oct 9, 2025 |
+| **[Perplexity](../companies/perplexity.md)** | [Embedding Model Server](https://trueinterview.io/questions/embedding-model-server) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/embedding-model-server) | Oct 9, 2025 |
 | **[Pinterest](../companies/pinterest.md)** | [Explain your ML project end-to-end](https://trueinterview.io/questions/explain-your-ml-project-end-to-end) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-your-ml-project-end-to-end) | Oct 2025 |
 | **[IBM](../companies/ibm.md)** | [1-D Valid Convolution with Multithreading Follow-up](https://trueinterview.io/questions/one-dimensional-valid-convolution) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/one-dimensional-valid-convolution) | Aug 13, 2025 |
 | **[Tesla](../companies/tesla.md)** | [Route Nearest Checkpoint](https://trueinterview.io/questions/trajectory-waypoint-distance-queries) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/trajectory-waypoint-distance-queries) | Aug 11, 2025 |

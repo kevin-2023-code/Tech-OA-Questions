@@ -10,7 +10,7 @@
 
 Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Microsoft** and 126 more companies — **every row tagged with the round, the level and the role it was asked for.** Synced hourly.
 
-**5,924 questions** · **807 from an OA** · **132 companies** · 1,509 intern & new grad · 1,236 reported in the last 90 days · 1,978 free
+**5,924 questions** · **807 from an OA** · **132 companies** · 1,509 intern & new grad · 1,236 reported in the last 90 days · 2,056 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
@@ -38,7 +38,7 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 
 **By round:** [📝 OA (807)](rounds/oa.md) · [📞 Phone (3,136)](rounds/phone-screen.md) · [🏢 Onsite (2,346)](rounds/onsite.md) · [🏠 Take-home (12)](rounds/take-home.md)
 
-**By format:** [Coding (2,653)](formats/algorithm.md) · [System design (758)](formats/system-design.md) · [OOD / LLD (662)](formats/object-oriented-programming.md) · [SQL (301)](formats/sql.md) · [AI coding (134)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (1,978)](lists/free.md)
+**By format:** [Coding (2,653)](formats/algorithm.md) · [System design (758)](formats/system-design.md) · [OOD / LLD (662)](formats/object-oriented-programming.md) · [SQL (301)](formats/sql.md) · [AI coding (134)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (2,056)](lists/free.md)
 
 ## 📝 Companies with the most OA reports
 

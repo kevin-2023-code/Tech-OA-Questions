@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**205 questions** · 56 from an OA · 38 reported in the last 90 days · 98 free to solve
+**205 questions** · 56 from an OA · 38 reported in the last 90 days · 102 free to solve
 
 **Rounds:** 📝 OA (56) · 📞 Phone (116) · 🏢 Onsite (39)
 
@@ -187,12 +187,12 @@
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Min Mod and Max](https://trueinterview.io/questions/300141c0-9e82-4bc4-8055-d73e3ca2fae2) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/300141c0-9e82-4bc4-8055-d73e3ca2fae2) | Nov 2025 |
 | **[Citadel](../companies/citadel.md)** / [Verkada](../companies/verkada.md) | [Tree Diameter](https://trueinterview.io/questions/1553f8b2-f647-5b6c-82c7-e48852add677) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1553f8b2-f647-5b6c-82c7-e48852add677) | Nov 2025 |
 | **[Millennium](../companies/millennium.md)** | [Debug missing output in Python async HTTP flow](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Oct 24, 2025 |
-| **[Two Sigma](../companies/two-sigma.md)** | [Palindrome Warmup + Two-Task Worker Scheduling](https://trueinterview.io/questions/palindrome-and-task-scheduling-round) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/palindrome-and-task-scheduling-round) | Oct 9, 2025 |
+| **[Two Sigma](../companies/two-sigma.md)** | [Palindrome Warmup + Two-Task Worker Scheduling](https://trueinterview.io/questions/palindrome-and-task-scheduling-round) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/palindrome-and-task-scheduling-round) | Oct 9, 2025 |
 | **[DRW](../companies/drw.md)** | [Solve Three Algorithmic Problems](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems) | OA | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems) | Oct 8, 2025 |
 | **[IMC](../companies/imc.md)** | [Choose container set to minimize waste](https://trueinterview.io/questions/choose-container-set-to-minimize-waste) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/choose-container-set-to-minimize-waste) | Oct 6, 2025 |
-| **[Akuna Capital](../companies/akuna-capital.md)** | [Calculate Positive Profit Combinations](https://trueinterview.io/questions/9919842d-f64c-4fc5-9a0a-a636ac00bf95) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9919842d-f64c-4fc5-9a0a-a636ac00bf95) | Oct 2025 |
-| **[Akuna Capital](../companies/akuna-capital.md)** | [Delivery Management System (QR Intern)](https://trueinterview.io/questions/f05572aa-f89c-4422-b7fd-9569d863158f) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f05572aa-f89c-4422-b7fd-9569d863158f) | Oct 2025 |
-| **[Two Sigma](../companies/two-sigma.md)** | [Redundant Connection: Underground Pipes](https://trueinterview.io/questions/b6bf0892-4ac9-4967-b928-e3e1ced0f9e8) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b6bf0892-4ac9-4967-b928-e3e1ced0f9e8) | Oct 2025 |
+| **[Akuna Capital](../companies/akuna-capital.md)** | [Calculate Positive Profit Combinations](https://trueinterview.io/questions/9919842d-f64c-4fc5-9a0a-a636ac00bf95) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/9919842d-f64c-4fc5-9a0a-a636ac00bf95) | Oct 2025 |
+| **[Akuna Capital](../companies/akuna-capital.md)** | [Delivery Management System (QR Intern)](https://trueinterview.io/questions/f05572aa-f89c-4422-b7fd-9569d863158f) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/f05572aa-f89c-4422-b7fd-9569d863158f) | Oct 2025 |
+| **[Two Sigma](../companies/two-sigma.md)** | [Redundant Connection: Underground Pipes](https://trueinterview.io/questions/b6bf0892-4ac9-4967-b928-e3e1ced0f9e8) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/b6bf0892-4ac9-4967-b928-e3e1ced0f9e8) | Oct 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Array Challenge: Left-Comparison Running Counter](https://trueinterview.io/questions/left-comparison-running-counter) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/left-comparison-running-counter) | Sep 24, 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Find Missing and Repeated Element](https://trueinterview.io/questions/find-missing-and-repeated-element) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/find-missing-and-repeated-element) | Sep 23, 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Track Best Bid/Ask with Cancellations](https://trueinterview.io/questions/track-best-bid-ask-with-cancels) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/track-best-bid-ask-with-cancels) | Sep 22, 2025 |

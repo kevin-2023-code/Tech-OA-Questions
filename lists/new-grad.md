@@ -6,7 +6,7 @@
 
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,509 questions** · 497 from an OA · 307 reported in the last 90 days · 415 free to solve
+**1,509 questions** · 497 from an OA · 307 reported in the last 90 days · 445 free to solve
 
 **By role:** 💻 Software Engineering (1,123) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (120) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
 

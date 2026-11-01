@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**134 questions** · 14 from an OA · 21 reported in the last 90 days · 12 free to solve
+**134 questions** · 14 from an OA · 21 reported in the last 90 days · 13 free to solve
 
 **By level:** 🎓 Intern & New grad (35) · 🌱 Mid (82) · 🎯 Senior (93) · 🚀 Staff+ (12)
 
@@ -125,7 +125,7 @@
 | **[Okta](../companies/okta.md)** | [Build an Auth0-based MCP Server (Hands-on)](https://trueinterview.io/questions/oa-mcp-auth0-server) | OA | New grad | AI coding | [![Practice][p]](https://trueinterview.io/questions/oa-mcp-auth0-server) | Nov 22, 2025 |
 | **[SoFi](../companies/sofi.md)** | [Kanban Board Task Actions](https://trueinterview.io/questions/kanban-board-task-actions) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/kanban-board-task-actions) | Nov 14, 2025 |
 | **[Point72](../companies/point72.md)** | [Pandas Data Wrangling](https://trueinterview.io/questions/b62a7a6c-e26a-4b8f-805b-1178f1b1b907) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/b62a7a6c-e26a-4b8f-805b-1178f1b1b907) | Nov 2025 |
-| **[Akuna Capital](../companies/akuna-capital.md)** | [C++ Object Pool Debugging](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | OA | New grad · Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | Oct 5, 2025 |
+| **[Akuna Capital](../companies/akuna-capital.md)** | [C++ Object Pool Debugging](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | OA | New grad · Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | Oct 5, 2025 |
 | **[Tesla](../companies/tesla.md)** | [Debug Dijkstra Shortest Path for Navigation](https://trueinterview.io/questions/dijkstra-code-review-navigation) | Phone | Intern | AI coding | [![Free][f]](https://trueinterview.io/questions/dijkstra-code-review-navigation) | Aug 23, 2025 |
 | **[Ramp](../companies/ramp.md)** / [Databricks](../companies/databricks.md) / [SoFi](../companies/sofi.md) | [Tic Tac Toe](https://trueinterview.io/questions/tic-tac-toe) | Phone | New grad · Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/tic-tac-toe) | Jun 2025 |
 | **[Verkada](../companies/verkada.md)** | [Implement APIs in a Flask Application](https://trueinterview.io/questions/b1ddfa0e-5157-4aac-9de4-6777f33c983a) | Onsite | Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/b1ddfa0e-5157-4aac-9de4-6777f33c983a) | Mar 2025 |

@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**69 questions** · 14 from an OA · 19 reported in the last 90 days · 26 free to solve
+**69 questions** · 14 from an OA · 19 reported in the last 90 days · 27 free to solve
 
 **Rounds:** 📝 OA (14) · 📞 Phone (38) · 🏢 Onsite (24)
 
@@ -77,7 +77,7 @@
 | **[Meta](../companies/meta.md)** | [Implement weighted random city and sparse dot product](https://trueinterview.io/questions/implement-weighted-random-city-and-sparse-dot-product) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-weighted-random-city-and-sparse-dot-product) | Dec 15, 2025 |
 | **[Disney](../companies/disney.md)** | [Build Naive Bayes spam classifier with F1](https://trueinterview.io/questions/build-naive-bayes-spam-classifier-with-f1) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/build-naive-bayes-spam-classifier-with-f1) | Dec 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Choose best prompt for AI code debugging](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | Oct 24, 2025 |
-| **[Goldman Sachs](../companies/goldman-sachs.md)** | [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Oct 10, 2025 |
+| **[Goldman Sachs](../companies/goldman-sachs.md)** | [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Oct 10, 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Evaluate TPR/FPR, sigmoid, and activations](https://trueinterview.io/questions/evaluate-tpr-fpr-sigmoid-and-activations) | OA | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-tpr-fpr-sigmoid-and-activations) | Oct 10, 2025 |
 | **[Amazon](../companies/amazon.md)** | [Contrast CNNs and fully connected networks](https://trueinterview.io/questions/contrast-cnns-and-fully-connected-networks) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/contrast-cnns-and-fully-connected-networks) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Designing GPT-2 Prompts Using Given Keywords](https://trueinterview.io/questions/147c9781-846f-407b-a3e9-cb2f61ae898d) | Onsite | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/147c9781-846f-407b-a3e9-cb2f61ae898d) | — |

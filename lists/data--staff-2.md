@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**552 questions** · 7 from an OA · 12 reported in the last 90 days · 433 free to solve
+**552 questions** · 7 from an OA · 12 reported in the last 90 days · 435 free to solve
 
 **Rounds:** 📝 OA (7) · 📞 Phone (336) · 🏢 Onsite (209)
 

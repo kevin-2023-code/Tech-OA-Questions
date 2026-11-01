@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Frontend Engineer** role.
 
-**106 questions** · 7 from an OA · 27 reported in the last 90 days · 30 free to solve
+**106 questions** · 7 from an OA · 27 reported in the last 90 days · 31 free to solve
 
 **By level:** 🎓 Intern & New grad (12) · 🌱 Mid (70) · 🎯 Senior (67) · 🚀 Staff+ (7)
 
@@ -115,7 +115,7 @@
 | **[Lyft](../companies/lyft.md)** | [Frontend Autocomplete Component](https://trueinterview.io/questions/frontend-autocomplete-component) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/frontend-autocomplete-component) | Nov 17, 2025 |
 | **[Lyft](../companies/lyft.md)** | [Frontend Incremental Clicker with Configurable Buttons](https://trueinterview.io/questions/frontend-incremental-clicker-table) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/frontend-incremental-clicker-table) | Nov 17, 2025 |
 | **[SoFi](../companies/sofi.md)** | [Kanban Board Task Actions](https://trueinterview.io/questions/kanban-board-task-actions) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/kanban-board-task-actions) | Nov 14, 2025 |
-| **[SoFi](../companies/sofi.md)** | [Star Rating Component](https://trueinterview.io/questions/star-rating-component) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/star-rating-component) | Oct 6, 2025 |
+| **[SoFi](../companies/sofi.md)** | [Star Rating Component](https://trueinterview.io/questions/star-rating-component) | Onsite | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/star-rating-component) | Oct 6, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Implement popup and redirect in JavaScript](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | Oct 3, 2025 |
 | **[Robinhood](../companies/robinhood.md)** | [Mobile Table View Timer App](https://trueinterview.io/questions/mobile-table-view-timer-app) | Phone · Onsite | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/mobile-table-view-timer-app) | Aug 2025 |
 | **[Vanta](../companies/vanta.md)** | [Frontend Practical Coding — Work Against a Provided API](https://trueinterview.io/questions/frontend-api-practical) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/frontend-api-practical) | Jul 24, 2025 |

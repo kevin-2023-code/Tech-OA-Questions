@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**1,097 questions** · 20 from an OA · 156 reported in the last 90 days · 662 free to solve
+**1,097 questions** · 20 from an OA · 156 reported in the last 90 days · 670 free to solve
 
 **By role:** 💻 Software Engineering (358) · 🤖 ML, AI & Research (138) · 📊 Data Science & Analytics (552) · 📈 Quantitative Finance (15) · 📱 Product Management (24) · 🔧 Hardware Engineering (5)
 

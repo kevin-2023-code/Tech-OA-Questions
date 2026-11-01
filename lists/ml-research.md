@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Machine Learning Engineer**, **AI Engineer** or **Research Scientist** role.
 
-**481 questions** · 21 from an OA · 111 reported in the last 90 days · 181 free to solve
+**481 questions** · 21 from an OA · 111 reported in the last 90 days · 184 free to solve
 
 **By level:** 🎓 Intern & New grad (69) · 🌱 Mid (185) · 🎯 Senior (385) · 🚀 Staff+ (138)
 

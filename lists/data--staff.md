@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**552 questions** · 7 from an OA · 12 reported in the last 90 days · 433 free to solve
+**552 questions** · 7 from an OA · 12 reported in the last 90 days · 435 free to solve
 
 **Rounds:** 📝 OA (7) · 📞 Phone (336) · 🏢 Onsite (209)
 
@@ -143,8 +143,8 @@
 | **[Point72](../companies/point72.md)** | [How would you explain PCA and SHAP?](https://trueinterview.io/questions/how-would-you-explain-pca-and-shap) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-explain-pca-and-shap) | Oct 24, 2025 |
 | **[Intuit](../companies/intuit.md)** | [Design an experiment to evaluate an onboarding progress bar](https://trueinterview.io/questions/design-an-experiment-to-evaluate-an-onboarding-progress-bar) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-experiment-to-evaluate-an-onboarding-progress-bar) | Oct 21, 2025 |
 | **[Intuit](../companies/intuit.md)** | [Handle missing and unavailable predictive features](https://trueinterview.io/questions/handle-missing-and-unavailable-predictive-features) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-missing-and-unavailable-predictive-features) | Oct 21, 2025 |
-| **[Meta](../companies/meta.md)** | [How would you design Shop-ad ranking?](https://trueinterview.io/questions/how-would-you-design-shop-ad-ranking) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/how-would-you-design-shop-ad-ranking) | Oct 16, 2025 |
-| **[Meta](../companies/meta.md)** | [How would you evaluate upranking Shop ads?](https://trueinterview.io/questions/how-would-you-evaluate-upranking-shop-ads-2) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/how-would-you-evaluate-upranking-shop-ads-2) | Oct 16, 2025 |
+| **[Meta](../companies/meta.md)** | [How would you design Shop-ad ranking?](https://trueinterview.io/questions/how-would-you-design-shop-ad-ranking) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/how-would-you-design-shop-ad-ranking) | Oct 16, 2025 |
+| **[Meta](../companies/meta.md)** | [How would you evaluate upranking Shop ads?](https://trueinterview.io/questions/how-would-you-evaluate-upranking-shop-ads-2) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/how-would-you-evaluate-upranking-shop-ads-2) | Oct 16, 2025 |
 | **[Meta](../companies/meta.md)** | [Design an A/B test for a new shop-ads algorithm](https://trueinterview.io/questions/design-an-a-b-test-for-a-new-shop-ads-algorithm) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-a-b-test-for-a-new-shop-ads-algorithm) | Oct 14, 2025 |
 | **[Airwallex](../companies/airwallex.md)** | [Diagnose a dip in approval/conversion rate](https://trueinterview.io/questions/diagnose-a-dip-in-approval-conversion-rate) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-a-dip-in-approval-conversion-rate) | Oct 14, 2025 |
 | **[Airwallex](../companies/airwallex.md)** | [How would you test swapping two CTA buttons?](https://trueinterview.io/questions/how-would-you-test-swapping-two-cta-buttons) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-test-swapping-two-cta-buttons) | Oct 14, 2025 |

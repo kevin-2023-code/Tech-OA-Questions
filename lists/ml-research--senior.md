@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**385 questions** · 6 from an OA · 88 reported in the last 90 days · 142 free to solve
+**385 questions** · 6 from an OA · 88 reported in the last 90 days · 144 free to solve
 
 **Rounds:** 📝 OA (6) · 📞 Phone (186) · 🏢 Onsite (233) · 🏠 Take-home (1)
 
@@ -354,8 +354,8 @@
 | **[Apple](../companies/apple.md)** | [Explain Vision Encoders and LLM Bottlenecks](https://trueinterview.io/questions/explain-vision-encoders-and-llm-bottlenecks) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-vision-encoders-and-llm-bottlenecks) | Nov 11, 2025 |
 | **[Netflix](../companies/netflix.md)** / [Apple](../companies/apple.md) / [Snowflake](../companies/snowflake.md) | [ML Job Scheduler](https://trueinterview.io/questions/ml-job-scheduler) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-job-scheduler) | Nov 2025 |
 | **[Amazon](../companies/amazon.md)** | [Explain core components of reinforcement learning](https://trueinterview.io/questions/explain-core-components-of-reinforcement-learning) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-core-components-of-reinforcement-learning) | Oct 26, 2025 |
-| **[Goldman Sachs](../companies/goldman-sachs.md)** | [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Oct 10, 2025 |
-| **[Perplexity](../companies/perplexity.md)** | [Embedding Model Server](https://trueinterview.io/questions/embedding-model-server) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/embedding-model-server) | Oct 9, 2025 |
+| **[Goldman Sachs](../companies/goldman-sachs.md)** | [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Oct 10, 2025 |
+| **[Perplexity](../companies/perplexity.md)** | [Embedding Model Server](https://trueinterview.io/questions/embedding-model-server) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/embedding-model-server) | Oct 9, 2025 |
 | **[Tesla](../companies/tesla.md)** | [Route Nearest Checkpoint](https://trueinterview.io/questions/trajectory-waypoint-distance-queries) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/trajectory-waypoint-distance-queries) | Aug 11, 2025 |
 | **[Reddit](../companies/reddit.md)** | [Dictionary Word Transformation Path](https://trueinterview.io/questions/dictionary-word-transformation-path) | Onsite | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/dictionary-word-transformation-path) | Jul 21, 2025 |
 | **[Perplexity](../companies/perplexity.md)** | [Map-Reduce and Blockwise Attention](https://trueinterview.io/questions/map-reduce-and-blockwise-attention) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/map-reduce-and-blockwise-attention) | Jul 3, 2025 |

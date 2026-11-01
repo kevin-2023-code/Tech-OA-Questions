@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,079 questions** · 253 from an OA · 820 reported in the last 90 days · 1,499 free to solve
+**4,079 questions** · 253 from an OA · 820 reported in the last 90 days · 1,554 free to solve
 
 **By role:** 💻 Software Engineering (2,512) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 

@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Developer tools, cloud & data infrastructure*.
 
-**302 questions** · 29 from an OA · 66 reported in the last 90 days · 94 free to solve
+**302 questions** · 29 from an OA · 66 reported in the last 90 days · 97 free to solve
 
 **By level:** 🎓 Intern & New grad (69) · 🌱 Mid (211) · 🎯 Senior (185) · 🚀 Staff+ (35)
 
@@ -267,11 +267,11 @@
 | **[Confluent](../companies/confluent.md)** | [Message Logger](https://trueinterview.io/questions/30531964-1441-416b-8417-b0bcd364f28e) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/30531964-1441-416b-8417-b0bcd364f28e) | Nov 2025 |
 | **[Confluent](../companies/confluent.md)** | [Minimum Value to Get Positive Step by Step Sum](https://trueinterview.io/questions/3e9983d2-b98e-4f1e-b80a-0d32d1317fbd) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/3e9983d2-b98e-4f1e-b80a-0d32d1317fbd) | Nov 2025 |
 | **[Netflix](../companies/netflix.md)** / [Apple](../companies/apple.md) / [Snowflake](../companies/snowflake.md) | [ML Job Scheduler](https://trueinterview.io/questions/ml-job-scheduler) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-job-scheduler) | Nov 2025 |
-| **[Databricks](../companies/databricks.md)** | [Multi-Threaded Chat System](https://trueinterview.io/questions/multi-threaded-chat-system) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/multi-threaded-chat-system) | Oct 24, 2025 |
+| **[Databricks](../companies/databricks.md)** | [Multi-Threaded Chat System](https://trueinterview.io/questions/multi-threaded-chat-system) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/multi-threaded-chat-system) | Oct 24, 2025 |
 | **[Databricks](../companies/databricks.md)** | [Diagnose and fix multicollinearity in income regression](https://trueinterview.io/questions/diagnose-and-fix-multicollinearity-in-income-regression) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-fix-multicollinearity-in-income-regression) | Oct 14, 2025 |
 | **[Databricks](../companies/databricks.md)** | [Relate coefficients under linear feature transformation](https://trueinterview.io/questions/relate-coefficients-under-linear-feature-transformation-2) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/relate-coefficients-under-linear-feature-transformation-2) | Oct 14, 2025 |
-| **[Databricks](../companies/databricks.md)** | [Autonomous Ride-Hailing App System Design (Waymo-like)](https://trueinterview.io/questions/autonomous-ride-hailing-app-system-design-waymo-like) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/autonomous-ride-hailing-app-system-design-waymo-like) | Oct 9, 2025 |
-| **[Confluent](../companies/confluent.md)** / [Pinterest](../companies/pinterest.md) | [Design Delayed Tasks Scheduler](https://trueinterview.io/questions/design-delayed-tasks-scheduler) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-delayed-tasks-scheduler) | Oct 2025 |
+| **[Databricks](../companies/databricks.md)** | [Autonomous Ride-Hailing App System Design (Waymo-like)](https://trueinterview.io/questions/autonomous-ride-hailing-app-system-design-waymo-like) | Onsite | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/autonomous-ride-hailing-app-system-design-waymo-like) | Oct 9, 2025 |
+| **[Confluent](../companies/confluent.md)** / [Pinterest](../companies/pinterest.md) | [Design Delayed Tasks Scheduler](https://trueinterview.io/questions/design-delayed-tasks-scheduler) | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-delayed-tasks-scheduler) | Oct 2025 |
 | **[Snowflake](../companies/snowflake.md)** | [Unequal Elements](https://trueinterview.io/questions/unequal-elements) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/unequal-elements) | Jul 20, 2025 |
 | **[Snowflake](../companies/snowflake.md)** | [Vowels Substring](https://trueinterview.io/questions/vowels-substring) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/vowels-substring) | Jul 20, 2025 |
 | **[Snowflake](../companies/snowflake.md)** | [Minimize Marbles in Grid](https://trueinterview.io/questions/c08bdfd1-9b28-482c-b014-65143dc1ed00) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/c08bdfd1-9b28-482c-b014-65143dc1ed00) | Jun 2025 |

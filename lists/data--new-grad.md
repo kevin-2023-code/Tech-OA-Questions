@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**178 questions** · 66 from an OA · 19 reported in the last 90 days · 68 free to solve
+**178 questions** · 66 from an OA · 19 reported in the last 90 days · 71 free to solve
 
 **Rounds:** 📝 OA (66) · 📞 Phone (87) · 🏢 Onsite (29) · 🏠 Take-home (2)
 
@@ -114,10 +114,10 @@
 | **[ByteDance](../companies/bytedance.md)** | [Explain Type I/II errors vs precision/recall](https://trueinterview.io/questions/explain-type-i-ii-errors-vs-precision-recall-2) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-type-i-ii-errors-vs-precision-recall-2) | Nov 12, 2025 |
 | **[IBM](../companies/ibm.md)** | [Describe building statistical vs ML models](https://trueinterview.io/questions/describe-building-statistical-vs-ml-models) | Phone | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-building-statistical-vs-ml-models) | Nov 9, 2025 |
 | **[Meta](../companies/meta.md)** | [Compute probabilities for chatbot response quality](https://trueinterview.io/questions/compute-probabilities-for-chatbot-response-quality) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-probabilities-for-chatbot-response-quality) | Oct 30, 2025 |
-| **[PayPal](../companies/paypal.md)** | [Compute Variance from a Python List](https://trueinterview.io/questions/compute-variance-from-a-python-list) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-variance-from-a-python-list) | Oct 29, 2025 |
+| **[PayPal](../companies/paypal.md)** | [Compute Variance from a Python List](https://trueinterview.io/questions/compute-variance-from-a-python-list) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/compute-variance-from-a-python-list) | Oct 29, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Order SQL query logical processing steps](https://trueinterview.io/questions/order-sql-query-logical-processing-steps) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/order-sql-query-logical-processing-steps) | Oct 24, 2025 |
-| **[Intuit](../companies/intuit.md)** | [Weather Data Energy-Usage Ranking](https://trueinterview.io/questions/weather-data-energy-usage-ranking) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/weather-data-energy-usage-ranking) | Oct 3, 2025 |
-| **[IBM](../companies/ibm.md)** | [Write SQL to compute max and min marks](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | Oct 3, 2025 |
+| **[Intuit](../companies/intuit.md)** | [Weather Data Energy-Usage Ranking](https://trueinterview.io/questions/weather-data-energy-usage-ranking) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/weather-data-energy-usage-ranking) | Oct 3, 2025 |
+| **[IBM](../companies/ibm.md)** | [Write SQL to compute max and min marks](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | OA | Intern · New grad · Mid | SQL | [![Free][f]](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | Oct 3, 2025 |
 | **[Boston Consulting Group](../companies/boston-consulting-group.md)** | [Achieve 0.95 precision via thresholding](https://trueinterview.io/questions/achieve-0-95-precision-via-thresholding) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/achieve-0-95-precision-via-thresholding) | — |
 | **[Google](../companies/google.md)** | [Add a conditional column in Python](https://trueinterview.io/questions/add-a-conditional-column-in-python) | Phone | New grad · Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/add-a-conditional-column-in-python) | — |
 | **[Meta](../companies/meta.md)** | [Ads Impression SQL Query](https://trueinterview.io/questions/cd8e263f-9929-49d1-804b-210708292d39) | OA | Intern · New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/cd8e263f-9929-49d1-804b-210708292d39) | — |

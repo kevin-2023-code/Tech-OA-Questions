@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Fintech, payments & crypto*.
 
-**509 questions** · 87 from an OA · 83 reported in the last 90 days · 152 free to solve
+**509 questions** · 87 from an OA · 83 reported in the last 90 days · 159 free to solve
 
 **By level:** 🎓 Intern & New grad (171) · 🌱 Mid (339) · 🎯 Senior (348) · 🚀 Staff+ (89)
 

@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Gaming & interactive*.
 
-**106 questions** · 13 from an OA · 24 reported in the last 90 days · 30 free to solve
+**106 questions** · 13 from an OA · 24 reported in the last 90 days · 32 free to solve
 
 **By level:** 🎓 Intern & New grad (32) · 🌱 Mid (64) · 🎯 Senior (79) · 🚀 Staff+ (23)
 
@@ -98,8 +98,8 @@
 | **[Roblox](../companies/roblox.md)** | [Customized Programming Challenge for Roblox Business](https://trueinterview.io/questions/a391376f-4a36-466b-8e9a-3e9d95d82511) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/a391376f-4a36-466b-8e9a-3e9d95d82511) | Dec 2025 |
 | **[Roblox](../companies/roblox.md)** | [Apply Bayes' rule to compute posterior](https://trueinterview.io/questions/apply-bayes-rule-to-compute-posterior) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/apply-bayes-rule-to-compute-posterior) | Nov 24, 2025 |
 | **[Roblox](../companies/roblox.md)** | [Compute DiD and validate parallel trends](https://trueinterview.io/questions/compute-did-and-validate-parallel-trends) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-did-and-validate-parallel-trends) | Nov 23, 2025 |
-| **[Roblox](../companies/roblox.md)** | [Implement four DS coding tasks](https://trueinterview.io/questions/implement-four-ds-coding-tasks) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-four-ds-coding-tasks) | Oct 18, 2025 |
-| **[Roblox](../companies/roblox.md)** | [Rate Limit by Multiple Request Fields (Per-Field / Multi-Dimensional)](https://trueinterview.io/questions/e2d79c2d-ac40-4ca5-9aa3-5cf438f26893) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e2d79c2d-ac40-4ca5-9aa3-5cf438f26893) | Oct 2025 |
+| **[Roblox](../companies/roblox.md)** | [Implement four DS coding tasks](https://trueinterview.io/questions/implement-four-ds-coding-tasks) | OA | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-four-ds-coding-tasks) | Oct 18, 2025 |
+| **[Roblox](../companies/roblox.md)** | [Rate Limit by Multiple Request Fields (Per-Field / Multi-Dimensional)](https://trueinterview.io/questions/e2d79c2d-ac40-4ca5-9aa3-5cf438f26893) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/e2d79c2d-ac40-4ca5-9aa3-5cf438f26893) | Oct 2025 |
 | **[Roblox](../companies/roblox.md)** | [Same Word of HTML Labels](https://trueinterview.io/questions/same-word-of-html-labels) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/same-word-of-html-labels) | Sep 4, 2025 |
 | **[Roblox](../companies/roblox.md)** | [Randomly Partition Array](https://trueinterview.io/questions/randomly-partition-array) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/randomly-partition-array) | Sep 3, 2025 |
 | **[Roblox](../companies/roblox.md)** | [Auto Email Generation](https://trueinterview.io/questions/auto-email-generation) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/auto-email-generation) | Sep 2, 2025 |

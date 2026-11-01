@@ -130,5 +130,5 @@ An employer the registry has not classified is on no industry list, never guesse
 
 | List | Questions |
 | :-- | --: |
-| [Free to solve](free.md) | 1,978 |
+| [Free to solve](free.md) | 2,056 |
 | [Every question, newest first](../question-bank/README.md) | 5,924 |

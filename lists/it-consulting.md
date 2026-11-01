@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *IT services & consulting*.
 
-**45 questions** · 24 from an OA · 13 reported in the last 90 days · 17 free to solve
+**45 questions** · 24 from an OA · 13 reported in the last 90 days · 20 free to solve
 
 **By level:** 🎓 Intern & New grad (28) · 🌱 Mid (26) · 🎯 Senior (11) · 🚀 Staff+ (2)
 
@@ -52,9 +52,9 @@
 | **[IBM](../companies/ibm.md)** | [JSON Prediction Diff](https://trueinterview.io/questions/json-prediction-diff) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/json-prediction-diff) | Nov 7, 2025 |
 | **[IBM](../companies/ibm.md)** | [Minimum Insertions to Form Repeated abc Pattern](https://trueinterview.io/questions/minimum-insertions-to-abc-pattern) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-insertions-to-abc-pattern) | Nov 7, 2025 |
 | **[IBM](../companies/ibm.md)** / [Capital One](../companies/capital-one.md) | [Process Execution Time (Merge Inclusive Intervals)](https://trueinterview.io/questions/process-execution-time-merge-intervals) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/process-execution-time-merge-intervals) | Nov 3, 2025 |
-| **[IBM](../companies/ibm.md)** | [Frontend CSS Flexbox Layout Task](https://trueinterview.io/questions/frontend-css-flexbox-layout) | OA | — | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/frontend-css-flexbox-layout) | Oct 7, 2025 |
-| **[IBM](../companies/ibm.md)** | [Find minimum operations to make array sorted](https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted) | Oct 3, 2025 |
-| **[IBM](../companies/ibm.md)** | [Write SQL to compute max and min marks](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | Oct 3, 2025 |
+| **[IBM](../companies/ibm.md)** | [Frontend CSS Flexbox Layout Task](https://trueinterview.io/questions/frontend-css-flexbox-layout) | OA | — | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/frontend-css-flexbox-layout) | Oct 7, 2025 |
+| **[IBM](../companies/ibm.md)** | [Find minimum operations to make array sorted](https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted) | OA | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted) | Oct 3, 2025 |
+| **[IBM](../companies/ibm.md)** | [Write SQL to compute max and min marks](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | OA | Intern · New grad · Mid | SQL | [![Free][f]](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | Oct 3, 2025 |
 | **[Ramp](../companies/ramp.md)** / [IBM](../companies/ibm.md) | [Rate Limiter by IP Address](https://trueinterview.io/questions/rate-limiter-by-ip-address) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/rate-limiter-by-ip-address) | Sep 29, 2025 |
 | **[IBM](../companies/ibm.md)** | [Minimum Link Reallocation to Connect Repositories](https://trueinterview.io/questions/minimum-link-reallocation) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-link-reallocation) | Sep 21, 2025 |
 | **[IBM](../companies/ibm.md)** | [Earliest Coordinate Reach with Optional Moves](https://trueinterview.io/questions/earliest-coordinate-reach-with-optional-moves) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/earliest-coordinate-reach-with-optional-moves) | Sep 9, 2025 |

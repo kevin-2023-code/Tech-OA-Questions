@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Banks, insurers & asset managers*.
 
-**428 questions** · 106 from an OA · 82 reported in the last 90 days · 203 free to solve
+**428 questions** · 106 from an OA · 82 reported in the last 90 days · 211 free to solve
 
 **By level:** 🎓 Intern & New grad (152) · 🌱 Mid (229) · 🎯 Senior (263) · 🚀 Staff+ (76)
 
