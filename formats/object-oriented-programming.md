@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**662 questions** · 53 from an OA · 162 reported in the last 90 days · 84 free to solve
+**662 questions** · 53 from an OA · 161 reported in the last 90 days · 84 free to solve
 
 **By level:** 🎓 Intern & New grad (124) · 🌱 Mid (458) · 🎯 Senior (448) · 🚀 Staff+ (21)
 
@@ -67,7 +67,7 @@
 | **[Google](../companies/google.md)** | [Design Extensible Spreadsheet Aggregation APIs](https://trueinterview.io/questions/design-extensible-spreadsheet-aggregation-apis) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-extensible-spreadsheet-aggregation-apis) | 🆕 Sep 18, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Design Raw and Computed Spreadsheet Views](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | 🆕 Sep 18, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Extensible File Search](https://trueinterview.io/questions/file-search-by-size-and-suffix) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/file-search-by-size-and-suffix) | 🆕 Sep 18, 2026 |
-| **[Render](../companies/render.md)** | [Rate Limit an API During a Traffic Attack](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | 🆕 Sep 17, 2026 |
+| **[Render](../companies/render.md)** | [Rate Limit an API During a Traffic Attack](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | Sep 17, 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Design an iOS Timer App with Consistent State and Asynchronous UI Updates](https://trueinterview.io/questions/design-an-ios-timer-app-with-consistent-state-and-asynchronous-ui-updates) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-ios-timer-app-with-consistent-state-and-asynchronous-ui-updates) | Sep 15, 2026 |
 | **[Tradedesk](../companies/tradedesk.md)** | [Implement a Publish-Subscribe Event Bus in JavaScript or TypeScript](https://trueinterview.io/questions/implement-a-publish-subscribe-event-bus-in-javascript-or-typescript) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-publish-subscribe-event-bus-in-javascript-or-typescript) | Sep 15, 2026 |
 | **[xAI](../companies/xai.md)** | [Render Nested JSON in a Code-Style Viewer](https://trueinterview.io/questions/render-nested-json-in-a-code-style-viewer) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/render-nested-json-in-a-code-style-viewer) | Sep 15, 2026 |

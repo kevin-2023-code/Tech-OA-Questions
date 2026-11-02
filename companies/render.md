@@ -19,5 +19,5 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Rate Limit an API During a Traffic Attack](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | 🆕 Sep 17, 2026 |
+| [Rate Limit an API During a Traffic Attack](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | Sep 17, 2026 |
 | [Count Blocked Rate-Limited Requests](https://trueinterview.io/questions/count-blocked-rate-limited-requests) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/count-blocked-rate-limited-requests) | Feb 26, 2026 |
