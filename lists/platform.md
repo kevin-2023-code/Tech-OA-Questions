@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Platform Engineer** role.
 
-**164 questions** · 3 from an OA · 61 reported in the last 90 days · 55 free to solve
+**164 questions** · 3 from an OA · 60 reported in the last 90 days · 55 free to solve
 
 **By level:** 🎓 Intern & New grad (13) · 🌱 Mid (68) · 🎯 Senior (139) · 🚀 Staff+ (37)
 

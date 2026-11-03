@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**758 questions** · 10 from an OA · 192 reported in the last 90 days · 49 free to solve
+**758 questions** · 10 from an OA · 191 reported in the last 90 days · 49 free to solve
 
 **By level:** 🎓 Intern & New grad (13) · 🌱 Mid (164) · 🎯 Senior (701) · 🚀 Staff+ (351)
 
@@ -52,7 +52,7 @@
 | **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | 🆕 Sep 23, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Coordinate a Fleet of Restaurant Robots](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | 🆕 Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design a Kafka-Based File Watcher for Millions of Files](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | 🆕 Sep 20, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Design a Distribution-Center Inventory Update Service](https://trueinterview.io/questions/design-a-distribution-center-inventory-update-service) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-distribution-center-inventory-update-service) | 🆕 Sep 18, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Design a Distribution-Center Inventory Update Service](https://trueinterview.io/questions/design-a-distribution-center-inventory-update-service) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-distribution-center-inventory-update-service) | Sep 18, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Block Malicious IPs at an API Gateway Across Data Centers](https://trueinterview.io/questions/block-malicious-ips-at-an-api-gateway-across-data-centers) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/block-malicious-ips-at-an-api-gateway-across-data-centers) | Sep 17, 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Design a Task Scheduler](https://trueinterview.io/questions/design-a-task-scheduler) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-task-scheduler) | Sep 17, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Distributed Embedding and LM Head Design](https://trueinterview.io/questions/embedding-lm-head-distributed-sharding) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/embedding-lm-head-distributed-sharding) | Sep 17, 2026 |

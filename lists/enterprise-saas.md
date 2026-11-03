@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Enterprise & business software*.
 
-**723 questions** · 99 from an OA · 177 reported in the last 90 days · 220 free to solve
+**723 questions** · 99 from an OA · 175 reported in the last 90 days · 220 free to solve
 
 **By level:** 🎓 Intern & New grad (176) · 🌱 Mid (433) · 🎯 Senior (530) · 🚀 Staff+ (77)
 
@@ -66,7 +66,7 @@
 | **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | 🆕 Sep 28, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | 🆕 Sep 25, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | 🆕 Sep 25, 2026 |
-| **[Rippling](../companies/rippling.md)** | [Design Raw and Computed Spreadsheet Views](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | 🆕 Sep 18, 2026 |
+| **[Rippling](../companies/rippling.md)** | [Design Raw and Computed Spreadsheet Views](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | Sep 18, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Distributed Embedding and LM Head Design](https://trueinterview.io/questions/embedding-lm-head-distributed-sharding) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/embedding-lm-head-distributed-sharding) | Sep 17, 2026 |
 | **[Tradedesk](../companies/tradedesk.md)** | [Debug a Frontend Component That Shows Wrong API Results](https://trueinterview.io/questions/debug-a-frontend-component-that-shows-wrong-api-results) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-a-frontend-component-that-shows-wrong-api-results) | Sep 15, 2026 |
 | **[Tradedesk](../companies/tradedesk.md)** | [Implement a Publish-Subscribe Event Bus in JavaScript or TypeScript](https://trueinterview.io/questions/implement-a-publish-subscribe-event-bus-in-javascript-or-typescript) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-publish-subscribe-event-bus-in-javascript-or-typescript) | Sep 15, 2026 |

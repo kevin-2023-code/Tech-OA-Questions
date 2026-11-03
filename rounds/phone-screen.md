@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,136 questions** · 10 from an OA · 639 reported in the last 90 days · 1,166 free to solve
+**3,136 questions** · 10 from an OA · 637 reported in the last 90 days · 1,166 free to solve
 
 **By level:** 🎓 Intern & New grad (735) · 🌱 Mid (2,037) · 🎯 Senior (2,226) · 🚀 Staff+ (573)
 
@@ -168,8 +168,8 @@
 | **[Amazon](../companies/amazon.md)** | [Coordinate a Fleet of Restaurant Robots](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | 🆕 Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design a Kafka-Based File Watcher for Millions of Files](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | 🆕 Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Explain a Project That Could Not Meet a Tight Deadline](https://trueinterview.io/questions/explain-a-project-that-could-not-meet-a-tight-deadline) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-a-project-that-could-not-meet-a-tight-deadline) | 🆕 Sep 20, 2026 |
-| **[Citadel](../companies/citadel.md)** | [Define a Reliable Trade-Reconciliation Library Contract](https://trueinterview.io/questions/define-a-reliable-trade-reconciliation-library-contract) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/define-a-reliable-trade-reconciliation-library-contract) | 🆕 Sep 18, 2026 |
-| **[Citadel](../companies/citadel.md)** | [Design a Top-Ten Trade Query with Exact Amounts](https://trueinterview.io/questions/design-a-top-ten-trade-query-with-exact-amounts) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/design-a-top-ten-trade-query-with-exact-amounts) | 🆕 Sep 18, 2026 |
+| **[Citadel](../companies/citadel.md)** | [Define a Reliable Trade-Reconciliation Library Contract](https://trueinterview.io/questions/define-a-reliable-trade-reconciliation-library-contract) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/define-a-reliable-trade-reconciliation-library-contract) | Sep 18, 2026 |
+| **[Citadel](../companies/citadel.md)** | [Design a Top-Ten Trade Query with Exact Amounts](https://trueinterview.io/questions/design-a-top-ten-trade-query-with-exact-amounts) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/design-a-top-ten-trade-query-with-exact-amounts) | Sep 18, 2026 |
 | **[Meta](../companies/meta.md)** | [Data Engineering Leadership — Impact and Mentorship](https://trueinterview.io/questions/de-leadership-impact-and-mentorship) | Phone | Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/de-leadership-impact-and-mentorship) | Sep 17, 2026 |
 | **[Meta](../companies/meta.md)** | [Diagnose a Single-Server Crash with Concrete Linux Evidence](https://trueinterview.io/questions/diagnose-a-single-server-crash-with-concrete-linux-evidence) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-a-single-server-crash-with-concrete-linux-evidence) | Sep 17, 2026 |
 | **[ZipHQ](../companies/ziphq.md)** | [Find the Guaranteed Capture Time in a Turn-Based Graph Game](https://trueinterview.io/questions/find-the-guaranteed-capture-time-in-a-turn-based-graph-game) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-the-guaranteed-capture-time-in-a-turn-based-graph-game) | Sep 17, 2026 |
