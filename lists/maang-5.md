@@ -6,15 +6,15 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,698 questions** · 168 from an OA · 432 reported in the last 90 days · 584 free to solve
+**1,693 questions** · 169 from an OA · 431 reported in the last 90 days · 584 free to solve
 
-**By level:** 🎓 Intern & New grad (399) · 🌱 Mid (1,001) · 🎯 Senior (1,159) · 🚀 Staff+ (355)
+**By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
 
-**By role:** 💻 Software Engineering (1,128) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
+**By role:** 💻 Software Engineering (1,123) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
 
-**Rounds:** 📝 OA (168) · 📞 Phone (877) · 🏢 Onsite (776) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (169) · 📞 Phone (870) · 🏢 Onsite (776) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Amazon (470)](../companies/amazon.md) · [Google (383)](../companies/google.md) · [Microsoft (242)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
+**Companies:** [Meta (489)](../companies/meta.md) · [Amazon (466)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (240)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
 
 <sub>Page [1](maang.md) · [2](maang-2.md) · [3](maang-3.md) · [4](maang-4.md) · **5**</sub>
 
@@ -25,9 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Meta](../companies/meta.md)** | [Model comment count distribution and validate assumptions](https://trueinterview.io/questions/model-comment-count-distribution-and-validate-assumptions) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/model-comment-count-distribution-and-validate-assumptions) | — |
-| **[Meta](../companies/meta.md)** | [Model session times and comments with exponential/Poisson](https://trueinterview.io/questions/model-session-times-and-comments-with-exponential-poisson) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/model-session-times-and-comments-with-exponential-poisson) | — |
-| **[Meta](../companies/meta.md)** | [Model user-level ad impression allocation](https://trueinterview.io/questions/model-user-level-ad-impression-allocation) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/model-user-level-ad-impression-allocation) | — |
 | **[Google](../companies/google.md)** | [Narrow a confidence interval for a mean](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | — |
 | **[Netflix](../companies/netflix.md)** | [Navigate conflicting signals and ambiguous expectations](https://trueinterview.io/questions/navigate-conflicting-signals-and-ambiguous-expectations) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/navigate-conflicting-signals-and-ambiguous-expectations) | — |
 | **[Meta](../companies/meta.md)** | [Navigate reschedules, offers, and team-match uncertainty](https://trueinterview.io/questions/navigate-reschedules-offers-and-team-match-uncertainty) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/navigate-reschedules-offers-and-team-match-uncertainty) | — |
@@ -88,9 +85,7 @@
 | **[Meta](../companies/meta.md)** | [Test two models' proportions for significance](https://trueinterview.io/questions/test-two-models-proportions-for-significance) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/test-two-models-proportions-for-significance) | — |
 | **[LinkedIn](../companies/linkedin.md)** / [Meta](../companies/meta.md) | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |
 | **[Meta](../companies/meta.md)** | [Top 3 Customers by Book Purchases in Specific Categories](https://trueinterview.io/questions/48ac9704-e9a2-4d9e-ae72-7e46d09b96ad) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/48ac9704-e9a2-4d9e-ae72-7e46d09b96ad) | — |
-| **[Snapchat](../companies/snapchat.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2 | [Top K Frequent Elements in Integer Array Efficiently](https://trueinterview.io/questions/cd77d63e-ea70-4485-a616-90bf6c1fc5c0) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cd77d63e-ea70-4485-a616-90bf6c1fc5c0) | — |
 | **[Microsoft](../companies/microsoft.md)** | [Top K Relevant Apps by Keyword Scores](https://trueinterview.io/questions/512b2078-e57b-4c18-b5d4-995b82722fe1) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/512b2078-e57b-4c18-b5d4-995b82722fe1) | — |
-| **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Microsoft](../companies/microsoft.md) | [Top-K Using a Priority Queue](https://trueinterview.io/questions/dc419410-0835-45d4-8b4c-0e4b2a320880) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/dc419410-0835-45d4-8b4c-0e4b2a320880) | — |
 | **[Amazon](../companies/amazon.md)** | [Top-to-Bottom Reachability and Minimum-Cost Paths in a Binary Grid](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | — |
 | **[Meta](../companies/meta.md)** | [Tune fraud threshold under review capacity and costs](https://trueinterview.io/questions/tune-fraud-threshold-under-review-capacity-and-costs) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/tune-fraud-threshold-under-review-capacity-and-costs) | — |
 | **[Amazon](../companies/amazon.md)** | [Update and Retrieve Top K Largest Numbers](https://trueinterview.io/questions/8f2e18bb-b117-4961-a2a4-422ce3463f04) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/8f2e18bb-b117-4961-a2a4-422ce3463f04) | — |

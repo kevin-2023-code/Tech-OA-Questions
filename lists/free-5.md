@@ -8,9 +8,9 @@
 
 **2,056 questions** · 234 from an OA · 397 reported in the last 90 days · 2,056 free to solve
 
-**By level:** 🎓 Intern & New grad (445) · 🌱 Mid (1,082) · 🎯 Senior (1,554) · 🚀 Staff+ (670)
+**By level:** 🎓 Intern & New grad (445) · 🌱 Mid (1,083) · 🎯 Senior (1,554) · 🚀 Staff+ (670)
 
-**Companies:** [Meta (202)](../companies/meta.md) · [Amazon (172)](../companies/amazon.md) · [ByteDance (144)](../companies/bytedance.md) · [Google (127)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (105)](../companies/uber.md) · [Microsoft (76)](../companies/microsoft.md) · [Apple (74)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (50)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Snapchat (35)](../companies/snapchat.md) · [Bloomberg (34)](../companies/bloomberg.md)
+**Companies:** [Meta (203)](../companies/meta.md) · [Amazon (172)](../companies/amazon.md) · [ByteDance (144)](../companies/bytedance.md) · [Google (127)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (106)](../companies/uber.md) · [Microsoft (76)](../companies/microsoft.md) · [Apple (74)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (50)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Snapchat (36)](../companies/snapchat.md) · [Bloomberg (34)](../companies/bloomberg.md)
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · [4](free-4.md) · **5** · [6](free-6.md)</sub>
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| — | [Combination Sum IV](https://trueinterview.io/questions/combination-sum-iv) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/combination-sum-iv) | — |
 | **[Reddit](../companies/reddit.md)** | [Communicate and de-risk a non-experimental launch](https://trueinterview.io/questions/communicate-and-de-risk-a-non-experimental-launch) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/communicate-and-de-risk-a-non-experimental-launch) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Communicate technical impact under skeptical stakeholders](https://trueinterview.io/questions/communicate-technical-impact-under-skeptical-stakeholders) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/communicate-technical-impact-under-skeptical-stakeholders) | — |
 | **[Meta](../companies/meta.md)** | [Communicate trade-offs and influence launch](https://trueinterview.io/questions/communicate-trade-offs-and-influence-launch) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/communicate-trade-offs-and-influence-launch) | — |
@@ -420,6 +421,5 @@
 | **[Capital One](../companies/capital-one.md)** | [Quantify database bug cost/benefit](https://trueinterview.io/questions/quantify-database-bug-cost-benefit) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/quantify-database-bug-cost-benefit) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Quantify impact of your projects using STAR](https://trueinterview.io/questions/quantify-impact-of-your-projects-using-star) | Phone | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/quantify-impact-of-your-projects-using-star) | — |
 | **[Amazon](../companies/amazon.md)** | [Quantify improvement and compute required sample size](https://trueinterview.io/questions/quantify-improvement-and-compute-required-sample-size) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/quantify-improvement-and-compute-required-sample-size) | — |
-| **[Meta](../companies/meta.md)** | [Quantify launch decision with tests and guardrails](https://trueinterview.io/questions/quantify-launch-decision-with-tests-and-guardrails) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/quantify-launch-decision-with-tests-and-guardrails) | — |
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · [4](free-4.md) · **5** · [6](free-6.md)</sub>

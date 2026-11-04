@@ -6,11 +6,11 @@
 
 🛒 E-commerce & marketplaces · **27 questions** · 1 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (7) · 🌱 Mid (22) · 🎯 Senior (18) · 🚀 Staff+ (1)
+**By level:** 🎓 Intern & New grad (8) · 🌱 Mid (22) · 🎯 Senior (19) · 🚀 Staff+ (1)
 
 **By role:** 💻 Software Engineering (27)
 
-**Rounds:** 📝 OA (1) · 📞 Phone (22) · 🏢 Onsite (5)
+**Rounds:** 📝 OA (1) · 📞 Phone (21) · 🏢 Onsite (6)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/pinduoduo-interview-process)
 
@@ -22,15 +22,16 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | 🆕 Oct 1, 2026 |
-| [Top K Frequent Elements](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +4</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47) | 🆕 Oct 2026 |
+| [Top K Frequent Elements](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +6</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47) | 🆕 Oct 2026 |
 | [Discuss Your Background, Job-Change Motivation, and Offer Acceptance Factors](https://trueinterview.io/questions/discuss-your-background-job-change-motivation-and-offer-acceptance-factors) | Phone | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/discuss-your-background-job-change-motivation-and-offer-acceptance-factors) | Sep 2, 2026 |
-| [Longest Substring Without Repeating Characters II](https://trueinterview.io/questions/longest-substring-without-repeating-characters)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Sep 2026 |
+| [Longest Substring Without Repeating Characters II](https://trueinterview.io/questions/longest-substring-without-repeating-characters)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7</sub> | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Sep 2026 |
 | [Valid Parentheses](https://trueinterview.io/questions/valid-parentheses)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +10</sub> | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/valid-parentheses) | Sep 2026 |
-| [Count Longest Substrings After Character Replacements](https://trueinterview.io/questions/count-longest-substrings-after-character-replacements) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/count-longest-substrings-after-character-replacements) | Aug 22, 2026 |
 | [Present Evidence for Professional Strengths and Weaknesses](https://trueinterview.io/questions/present-evidence-for-professional-strengths-and-weaknesses) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/present-evidence-for-professional-strengths-and-weaknesses) | Aug 22, 2026 |
 | [Spiral Matrix (LC 54) + Follow-Ups](https://trueinterview.io/questions/spiral-matrix-traversal)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-traversal) | Aug 16, 2026 |
+| [Minesweeper (LC 529)](https://trueinterview.io/questions/onsite-coding-minesweeper-lc-529)<br><sub>also [Uber](../companies/uber.md)</sub> | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/onsite-coding-minesweeper-lc-529) | Aug 10, 2026 |
 | [Project Deep Dive & Behavioral](https://trueinterview.io/questions/project-deep-dive-and-bq-2) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/project-deep-dive-and-bq-2) | Aug 4, 2026 |
 | [Describe toughest project experience](https://trueinterview.io/questions/describe-toughest-project-experience) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-toughest-project-experience) | Aug 2026 |
+| [Find longest uniform substring after k replacements](https://trueinterview.io/questions/find-longest-uniform-substring-after-k-replacements)<br><sub>also [Apple](../companies/apple.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-longest-uniform-substring-after-k-replacements) | Aug 2026 |
 | [Search from the end in a sorted array (variant)](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb)<br><sub>also [Snapchat](../companies/snapchat.md) / [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / +3</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/642e58af-9415-45cf-afdf-ed0d0a400adb) | Aug 2026 |
 | [Spiral Matrix Generation](https://trueinterview.io/questions/spiral-matrix-generation) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-generation) | Aug 2026 |
 | [Validate Binary Search Tree](https://trueinterview.io/questions/validate-binary-search-tree)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/validate-binary-search-tree) | Aug 2026 |
@@ -46,5 +47,4 @@
 | [Logistics Variant](https://trueinterview.io/questions/86561494-7d80-47e0-a298-bb7b9e51ad7b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/86561494-7d80-47e0-a298-bb7b9e51ad7b) | Mar 2026 |
 | [Sort Colors and Sizes](https://trueinterview.io/questions/23ca2a64-66e5-4330-97ce-05fdcb3672cc) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/23ca2a64-66e5-4330-97ce-05fdcb3672cc) | May 2025 |
 | [Transaction Settlement](https://trueinterview.io/questions/2d3f6203-6989-434b-88a1-3299068e034e) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/2d3f6203-6989-434b-88a1-3299068e034e) | Mar 2025 |
-| [Minesweeper Variant](https://trueinterview.io/questions/e5567ea6-f961-428d-95f0-dea8ac70ddc6) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e5567ea6-f961-428d-95f0-dea8ac70ddc6) | — |
 | [Spiral Matrix Fill](https://trueinterview.io/questions/3b33f241-83ae-4754-af33-8eac2267c5b2)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/3b33f241-83ae-4754-af33-8eac2267c5b2) | — |

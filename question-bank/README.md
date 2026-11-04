@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 807 from an OA · 1,229 reported in the last 90 days · 2,056 free to solve
+**5,889 questions** · 802 from an OA · 1,223 reported in the last 90 days · 2,056 free to solve
 
-**By level:** 🎓 Intern & New grad (1,509) · 🌱 Mid (3,473) · 🎯 Senior (4,079) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (807) · 📞 Phone (3,136) · 🏢 Onsite (2,346) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,114) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page **1** · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -85,7 +85,7 @@
 | **[Google](../companies/google.md)** | [Count People Visible to the Last Person](https://trueinterview.io/questions/e9a97e39-fcc0-5bbf-b8c2-20dcb96a8a45) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e9a97e39-fcc0-5bbf-b8c2-20dcb96a8a45) | 🆕 Oct 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Count Valid IPv4 Addresses in Fetched Text](https://trueinterview.io/questions/100ce093-854b-5ebe-86bb-0e448b469a7d) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/100ce093-854b-5ebe-86bb-0e448b469a7d) | 🆕 Oct 2026 |
 | **[Google](../companies/google.md)** | [Count Visible People for Every Person](https://trueinterview.io/questions/e9bfbf28-f3d1-5845-ba02-e7e6d1a12d6d) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e9bfbf28-f3d1-5845-ba02-e7e6d1a12d6d) | 🆕 Oct 2026 |
-| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +6 | [Course Schedule](https://trueinterview.io/questions/course-schedule) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +8 | [Course Schedule](https://trueinterview.io/questions/course-schedule) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
 | **[Snapchat](../companies/snapchat.md)** / [ByteDance](../companies/bytedance.md) / [eBay](../companies/ebay.md) | [Course Schedule Cycle Detection](https://trueinterview.io/questions/course-schedule-cycle-detection) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/course-schedule-cycle-detection) | 🆕 Oct 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Credo Behavioral and Customer Engagement](https://trueinterview.io/questions/credo-behavioral-and-customer-engagement) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/credo-behavioral-and-customer-engagement) | 🆕 Oct 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Dasher Pay with Peak Time](https://trueinterview.io/questions/279dfa0f-1962-577d-b67a-132ea36cd03d) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/279dfa0f-1962-577d-b67a-132ea36cd03d) | 🆕 Oct 2026 |
@@ -250,7 +250,7 @@
 | **[Citadel](../companies/citadel.md)** | [Terminal-Based Two-Player Battleship](https://trueinterview.io/questions/05f24831-d93c-522f-85ee-0811e321b613) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/05f24831-d93c-522f-85ee-0811e321b613) | 🆕 Oct 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [The Earliest Moment When Everyone Become Friends](https://trueinterview.io/questions/967301de-f814-5c2b-8023-d834f84d5b1c) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/967301de-f814-5c2b-8023-d834f84d5b1c) | 🆕 Oct 2026 |
 | **[Roblox](../companies/roblox.md)** | [Time-Aware Search Autocomplete](https://trueinterview.io/questions/02e501ce-d611-5553-a651-36ddce5c14b2) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/02e501ce-d611-5553-a651-36ddce5c14b2) | 🆕 Oct 2026 |
-| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +5 | [Top K Frequent Elements](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47) | 🆕 Oct 2026 |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +7 | [Top K Frequent Elements](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47) | 🆕 Oct 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Top-Scoring Viewed Pin in a Sliding Time Window](https://trueinterview.io/questions/2dc9ad48-e6b4-5d98-acb7-0b4509e50479) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2dc9ad48-e6b4-5d98-acb7-0b4509e50479) | 🆕 Oct 2026 |
 | **[Netflix](../companies/netflix.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +1 | [Topological Sort / Course Schedule for Ads](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | 🆕 Oct 2026 |
 | **[Apple](../companies/apple.md)** | [Topological Sorting of a Directed Graph](https://trueinterview.io/questions/d8faf0ff-85e4-5ec7-b184-bb0ee7a6966e) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/d8faf0ff-85e4-5ec7-b184-bb0ee7a6966e) | 🆕 Oct 2026 |

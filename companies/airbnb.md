@@ -6,11 +6,11 @@
 
 🛒 E-commerce & marketplaces · **112 questions** · 15 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (28) · 🌱 Mid (63) · 🎯 Senior (73) · 🚀 Staff+ (16)
+**By level:** 🎓 Intern & New grad (28) · 🌱 Mid (64) · 🎯 Senior (72) · 🚀 Staff+ (16)
 
 **By role:** 💻 Software Engineering (84) · 🤖 ML, AI & Research (8) · 📊 Data Science & Analytics (18) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (15) · 📞 Phone (48) · 🏢 Onsite (59)
+**Rounds:** 📝 OA (15) · 📞 Phone (49) · 🏢 Onsite (58)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/airbnb-interview-process) · [SWE](https://trueinterview.io/study/airbnb-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/airbnb-machine-learning-engineer-interview-process)
 
@@ -70,6 +70,7 @@
 | [Find Median In Large Array](https://trueinterview.io/questions/find-median-in-large-array-2)<br><sub>also [Google](../companies/google.md) / [Meta](../companies/meta.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-median-in-large-array-2) | Aug 2026 |
 | [Highlight Phrases in Review](https://trueinterview.io/questions/review-token-replace) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/review-token-replace) | Aug 2026 |
 | [Maximum Concurrent Bookings](https://trueinterview.io/questions/b208c108-7a27-5f46-82c2-ffe1a121c692) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b208c108-7a27-5f46-82c2-ffe1a121c692) | Aug 2026 |
+| [Mouse and Cheese](https://trueinterview.io/questions/a960bd9c-a967-4226-8ce4-63f20024cb31)<br><sub>also [Meta](../companies/meta.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a960bd9c-a967-4226-8ce4-63f20024cb31) | Aug 2026 |
 | [Tag Matching and Annotation with Pattern Priority](https://trueinterview.io/questions/66c19222-268a-55ae-80db-62d14d9ad56c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/66c19222-268a-55ae-80db-62d14d9ad56c) | Aug 2026 |
 | [Text Box Formatter](https://trueinterview.io/questions/text-box-formatter) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/text-box-formatter) | Aug 2026 |
 | [URL Parser with Percent Unquote](https://trueinterview.io/questions/b8f2f270-a472-5c0c-927b-883b8fa80722) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b8f2f270-a472-5c0c-927b-883b8fa80722) | Aug 2026 |
@@ -115,7 +116,6 @@
 | [Payment Refund Allocation](https://trueinterview.io/questions/payment-refund-allocation) | Phone · Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/payment-refund-allocation) | Feb 2026 |
 | [Replace Text for Review](https://trueinterview.io/questions/80731212-708a-43a5-a87a-ad06f2e56b6b) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/80731212-708a-43a5-a87a-ad06f2e56b6b) | Feb 2026 |
 | [Water Pouring Problem](https://trueinterview.io/questions/b70c9cb6-02b6-445e-bc21-2135d02ea01b) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b70c9cb6-02b6-445e-bc21-2135d02ea01b) | Feb 2026 |
-| [Compute maze score using shortest path](https://trueinterview.io/questions/compute-maze-score-using-shortest-path) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-maze-score-using-shortest-path) | Jan 19, 2026 |
 | [Host Listings Page — Aggregation Optimization](https://trueinterview.io/questions/host-listings-page-optimization) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/host-listings-page-optimization) | Jan 10, 2026 |
 | [Design Airbnb Relisting Detection](https://trueinterview.io/questions/design-airbnb-relisting-detection) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-airbnb-relisting-detection) | Jan 2026 |
 | [Collatz Sequence Steps](https://trueinterview.io/questions/collatz-sequence-steps)<br><sub>also [Bloomberg](../companies/bloomberg.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/collatz-sequence-steps) | Dec 2025 |

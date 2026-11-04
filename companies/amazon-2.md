@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Amazon on TrueInterview](https://trueinterview.io/problems/company/amazon) · [How Amazon interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/amazon/README.md)
 
-🛒 E-commerce & marketplaces · **470 questions** · 53 from an OA · last reported Oct 2026
+🛒 E-commerce & marketplaces · **466 questions** · 53 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (148) · 🌱 Mid (300) · 🎯 Senior (289) · 🚀 Staff+ (70)
+**By level:** 🎓 Intern & New grad (148) · 🌱 Mid (297) · 🎯 Senior (287) · 🚀 Staff+ (70)
 
-**By role:** 💻 Software Engineering (341) · 🤖 ML, AI & Research (52) · 📊 Data Science & Analytics (67) · 📈 Quantitative Finance (3) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (337) · 🤖 ML, AI & Research (52) · 📊 Data Science & Analytics (67) · 📈 Quantitative Finance (3) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (53) · 📞 Phone (242) · 🏢 Onsite (209)
+**Rounds:** 📝 OA (53) · 📞 Phone (239) · 🏢 Onsite (207)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/amazon-interview-process) · [SWE](https://trueinterview.io/study/amazon-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/amazon-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/amazon-research-scientist-interview-process) · [Frontend](https://trueinterview.io/study/amazon-frontend-engineer-interview-process)
 
@@ -23,8 +23,6 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Demonstrate ownership and communication under pressure](https://trueinterview.io/questions/demonstrate-ownership-and-communication-under-pressure) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/demonstrate-ownership-and-communication-under-pressure) | — |
-| [Demonstrate problem-solving under resistance](https://trueinterview.io/questions/demonstrate-problem-solving-under-resistance) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/demonstrate-problem-solving-under-resistance) | — |
 | [Derive and compare core ML and RL methods](https://trueinterview.io/questions/derive-and-compare-core-ml-and-rl-methods) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/derive-and-compare-core-ml-and-rl-methods) | — |
 | [Design a Card Class](https://trueinterview.io/questions/125f2d6a-e8f9-4114-bfcb-8e08a080ce67) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/125f2d6a-e8f9-4114-bfcb-8e08a080ce67) | — |
 | [Design Amazon Kindle](https://trueinterview.io/questions/design-amazon-kindle) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-amazon-kindle) | — |
@@ -84,8 +82,6 @@
 | [Solve two string DP/hash problems](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | — |
 | [Solve two-sum variants at scale](https://trueinterview.io/questions/solve-two-sum-variants-at-scale) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-sum-variants-at-scale) | — |
 | [SQL Interview Questions (Window Functions and CTE)](https://trueinterview.io/questions/66986c12-8cc7-460c-8d29-f7dcec6170d1) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/66986c12-8cc7-460c-8d29-f7dcec6170d1) | — |
-| [Top K Frequent Elements in Integer Array Efficiently](https://trueinterview.io/questions/cd77d63e-ea70-4485-a616-90bf6c1fc5c0)<br><sub>also [Snapchat](../companies/snapchat.md) / [ByteDance](../companies/bytedance.md) / [Meta](../companies/meta.md) / +1</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cd77d63e-ea70-4485-a616-90bf6c1fc5c0) | — |
-| [Top-K Using a Priority Queue](https://trueinterview.io/questions/dc419410-0835-45d4-8b4c-0e4b2a320880)<br><sub>also [Uber](../companies/uber.md) / [Microsoft](../companies/microsoft.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/dc419410-0835-45d4-8b4c-0e4b2a320880) | — |
 | [Top-to-Bottom Reachability and Minimum-Cost Paths in a Binary Grid](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | — |
 | [Update and Retrieve Top K Largest Numbers](https://trueinterview.io/questions/8f2e18bb-b117-4961-a2a4-422ce3463f04) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/8f2e18bb-b117-4961-a2a4-422ce3463f04) | — |
 | [Use LEFT JOIN to Find Missing Relationships](https://trueinterview.io/questions/6a588842-cf65-4bb1-944b-b4829bfe9511) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/6a588842-cf65-4bb1-944b-b4829bfe9511) | — |

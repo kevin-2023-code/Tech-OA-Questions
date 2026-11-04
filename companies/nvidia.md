@@ -10,7 +10,7 @@
 
 **By role:** 💻 Software Engineering (39) · 🤖 ML, AI & Research (7) · 📊 Data Science & Analytics (8)
 
-**Rounds:** 📝 OA (4) · 📞 Phone (38) · 🏢 Onsite (21)
+**Rounds:** 📝 OA (4) · 📞 Phone (37) · 🏢 Onsite (22)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/nvidia-interview-process) · [ML engineer](https://trueinterview.io/study/nvidia-machine-learning-engineer-interview-process) · [Infra](https://trueinterview.io/study/nvidia-infrastructure-engineer-interview-process)
 
@@ -22,8 +22,9 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Research Project Deep Dive: Motivation, Training Pipeline, Results, and Takeaways](https://trueinterview.io/questions/research-project-deep-dive-motivation-training-pipeline-results-and-takeaways) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/research-project-deep-dive-motivation-training-pipeline-results-and-takeaways) | Sep 17, 2026 |
-| [Longest Substring Without Repeating Characters II](https://trueinterview.io/questions/longest-substring-without-repeating-characters)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Sep 2026 |
+| [Longest Substring Without Repeating Characters II](https://trueinterview.io/questions/longest-substring-without-repeating-characters)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7</sub> | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Sep 2026 |
 | [Valid Parentheses](https://trueinterview.io/questions/valid-parentheses)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +10</sub> | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/valid-parentheses) | Sep 2026 |
+| [Zero-Sum Triplets Without Duplicates](https://trueinterview.io/questions/three-sum)<br><sub>also [C3.ai](../companies/c3-ai.md) / [Microsoft](../companies/microsoft.md) / [Visa](../companies/visa.md)</sub> | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/three-sum) | Sep 2026 |
 | [Search in Rotated Sorted Array](https://trueinterview.io/questions/search-in-rotated-sorted-array)<br><sub>also [ByteDance](../companies/bytedance.md) / [eBay](../companies/ebay.md)</sub> | Phone · Onsite | Intern · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/search-in-rotated-sorted-array) | Aug 21, 2026 |
 | [Design an Autonomous-Vehicle Perception Pipeline](https://trueinterview.io/questions/design-an-autonomous-vehicle-perception-pipeline) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-autonomous-vehicle-perception-pipeline) | Aug 19, 2026 |
 | [Implement and Explain a C++ Smart Pointer](https://trueinterview.io/questions/implement-and-explain-a-cplusplus-smart-pointer) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-and-explain-a-cplusplus-smart-pointer) | Aug 19, 2026 |
@@ -68,7 +69,6 @@
 | [C++ Debugging and Output Prediction (Pointers, Inheritance, Multithreading)](https://trueinterview.io/questions/c9faf9f0-abee-46fa-8223-55faa41d234f) | Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/c9faf9f0-abee-46fa-8223-55faa41d234f) | — |
 | [Demonstrate cultural fit and sales-oriented leadership](https://trueinterview.io/questions/demonstrate-cultural-fit-and-sales-oriented-leadership) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/demonstrate-cultural-fit-and-sales-oriented-leadership) | — |
 | [Design and explain robust web APIs for ML inference](https://trueinterview.io/questions/design-and-explain-robust-web-apis-for-ml-inference) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-and-explain-robust-web-apis-for-ml-inference) | — |
-| [Find All Unique Triplets Summing to Zero in Array](https://trueinterview.io/questions/b5288bfc-ed12-420e-ba65-0f1987df2acb)<br><sub>also [Visa](../companies/visa.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b5288bfc-ed12-420e-ba65-0f1987df2acb) | — |
 | [Log Parser for Top N Items](https://trueinterview.io/questions/7c107386-3c24-4acd-9385-b7d274fca67b) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7c107386-3c24-4acd-9385-b7d274fca67b) | — |
 | [Reflect on interview takeaways and adaptation](https://trueinterview.io/questions/reflect-on-interview-takeaways-and-adaptation) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/reflect-on-interview-takeaways-and-adaptation) | — |
 | [Resolve conflict and learn from failure](https://trueinterview.io/questions/resolve-conflict-and-learn-from-failure) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resolve-conflict-and-learn-from-failure) | — |

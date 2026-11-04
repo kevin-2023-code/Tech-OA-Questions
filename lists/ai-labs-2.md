@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *AI labs & AI infrastructure*.
 
-**504 questions** · 39 from an OA · 158 reported in the last 90 days · 153 free to solve
+**503 questions** · 39 from an OA · 158 reported in the last 90 days · 152 free to solve
 
-**By level:** 🎓 Intern & New grad (95) · 🌱 Mid (307) · 🎯 Senior (428) · 🚀 Staff+ (85)
+**By level:** 🎓 Intern & New grad (95) · 🌱 Mid (307) · 🎯 Senior (427) · 🚀 Staff+ (85)
 
-**By role:** 💻 Software Engineering (378) · 🤖 ML, AI & Research (103) · 📊 Data Science & Analytics (14) · 📈 Quantitative Finance (2) · 📱 Product Management (3)
+**By role:** 💻 Software Engineering (377) · 🤖 ML, AI & Research (103) · 📊 Data Science & Analytics (14) · 📈 Quantitative Finance (2) · 📱 Product Management (3)
 
-**Rounds:** 📝 OA (39) · 📞 Phone (264) · 🏢 Onsite (251) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (39) · 📞 Phone (263) · 🏢 Onsite (251) · 🏠 Take-home (5)
 
-**Companies:** [OpenAI (176)](../companies/openai.md) · [Anthropic (99)](../companies/anthropic.md) · [C3.ai (55)](../companies/c3-ai.md) · [xAI (43)](../companies/xai.md) · [Scale AI (35)](../companies/scale-ai.md) · [Perplexity (25)](../companies/perplexity.md) · [Harvey (23)](../companies/harvey.md) · [Mercor (14)](../companies/mercor.md) · [Microsoft AI (13)](../companies/microsoft-ai.md) · [Mistral AI (9)](../companies/mistral-ai.md) · [Cursor (7)](../companies/cursor.md) · [Luma AI (6)](../companies/luma-ai.md) · [Moveworks (6)](../companies/moveworks.md) · [Together AI (6)](../companies/together-ai.md) · [Cohere (3)](../companies/cohere.md)
+**Companies:** [OpenAI (175)](../companies/openai.md) · [Anthropic (99)](../companies/anthropic.md) · [C3.ai (55)](../companies/c3-ai.md) · [xAI (43)](../companies/xai.md) · [Scale AI (35)](../companies/scale-ai.md) · [Perplexity (25)](../companies/perplexity.md) · [Harvey (23)](../companies/harvey.md) · [Mercor (14)](../companies/mercor.md) · [Microsoft AI (13)](../companies/microsoft-ai.md) · [Mistral AI (9)](../companies/mistral-ai.md) · [Cursor (7)](../companies/cursor.md) · [Luma AI (6)](../companies/luma-ai.md) · [Moveworks (6)](../companies/moveworks.md) · [Together AI (6)](../companies/together-ai.md) · [Cohere (3)](../companies/cohere.md)
 
 <sub>Page [1](ai-labs.md) · **2**</sub>
 
@@ -119,7 +119,6 @@
 | **[xAI](../companies/xai.md)** | [Radix Cache](https://trueinterview.io/questions/radix-cache) | Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/radix-cache) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Reachability on a Height Grid With a Climb Limit](https://trueinterview.io/questions/grid-jump-reachability) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/grid-jump-reachability) | — |
 | **[OpenAI](../companies/openai.md)** | [Reproduce Double Descent in Linear Regression](https://trueinterview.io/questions/a5c37bda-f1a1-528d-b6aa-0968b57e250a) | Onsite | New grad · Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/a5c37bda-f1a1-528d-b6aa-0968b57e250a) | — |
-| **[OpenAI](../companies/openai.md)** / [ByteDance](../companies/bytedance.md) / [OKX](../companies/okx.md) | [Restore Valid IPv4 Addresses](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06) | — |
 | **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Spot the Repeated Value in a Constrained Array](https://trueinterview.io/questions/find-duplicate-number) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-duplicate-number) | — |
 | **[OpenAI](../companies/openai.md)** | [Spreadsheet Implementation with Cycle Detection and Caching](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | — |

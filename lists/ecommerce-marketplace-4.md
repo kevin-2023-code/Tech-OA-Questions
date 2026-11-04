@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *E-commerce & marketplaces*.
 
-**1,238 questions** · 151 from an OA · 333 reported in the last 90 days · 436 free to solve
+**1,231 questions** · 150 from an OA · 330 reported in the last 90 days · 437 free to solve
 
-**By level:** 🎓 Intern & New grad (321) · 🌱 Mid (717) · 🎯 Senior (833) · 🚀 Staff+ (229)
+**By level:** 🎓 Intern & New grad (320) · 🌱 Mid (714) · 🎯 Senior (830) · 🚀 Staff+ (229)
 
-**By role:** 💻 Software Engineering (883) · 🤖 ML, AI & Research (98) · 📊 Data Science & Analytics (228) · 📈 Quantitative Finance (5) · 📱 Product Management (11)
+**By role:** 💻 Software Engineering (877) · 🤖 ML, AI & Research (98) · 📊 Data Science & Analytics (228) · 📈 Quantitative Finance (4) · 📱 Product Management (11)
 
-**Rounds:** 📝 OA (151) · 📞 Phone (627) · 🏢 Onsite (546) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (150) · 📞 Phone (623) · 🏢 Onsite (543) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (470)](../companies/amazon.md) · [Uber (266)](../companies/uber.md) · [DoorDash (151)](../companies/doordash.md) · [Airbnb (112)](../companies/airbnb.md) · [Instacart (65)](../companies/instacart.md) · [Lyft (49)](../companies/lyft.md) · [eBay (48)](../companies/ebay.md) · [Expedia (41)](../companies/expedia.md) · [Shopify (41)](../companies/shopify.md) · [Walmart Labs (35)](../companies/walmart-labs.md) · [Pinduoduo (27)](../companies/pinduoduo.md) · [Whatnot (19)](../companies/whatnot.md) · [Faire (5)](../companies/faire.md) · [StubHub (3)](../companies/stubhub.md)
+**Companies:** [Amazon (466)](../companies/amazon.md) · [Uber (263)](../companies/uber.md) · [DoorDash (151)](../companies/doordash.md) · [Airbnb (112)](../companies/airbnb.md) · [Instacart (65)](../companies/instacart.md) · [Lyft (49)](../companies/lyft.md) · [eBay (48)](../companies/ebay.md) · [Expedia (41)](../companies/expedia.md) · [Shopify (41)](../companies/shopify.md) · [Walmart Labs (35)](../companies/walmart-labs.md) · [Pinduoduo (27)](../companies/pinduoduo.md) · [Whatnot (19)](../companies/whatnot.md) · [Faire (5)](../companies/faire.md) · [StubHub (3)](../companies/stubhub.md)
 
 <sub>Page [1](ecommerce-marketplace.md) · [2](ecommerce-marketplace-2.md) · [3](ecommerce-marketplace-3.md) · **4**</sub>
 
@@ -25,11 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Amazon](../companies/amazon.md)** | [Retrieve Every Merchant ID the First Order for Each Date](https://trueinterview.io/questions/8067ece7-a152-41ae-818d-0e97b1e19376) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/8067ece7-a152-41ae-818d-0e97b1e19376) | — |
-| **[Hudson River Trading](../companies/hudson-river-trading.md)** / [Amazon](../companies/amazon.md) | [Reversi Move Simulation](https://trueinterview.io/questions/reversi-move-simulation-2) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/reversi-move-simulation-2) | — |
-| **[Amazon](../companies/amazon.md)** | [Root-cause an incident and drive consensus](https://trueinterview.io/questions/root-cause-an-incident-and-drive-consensus) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/root-cause-an-incident-and-drive-consensus) | — |
-| **[Uber](../companies/uber.md)** | [Schedule Meeting / Meeting Scheduler (interval scheduling with updates and deletions)](https://trueinterview.io/questions/2801b4ec-5414-46cc-9a74-9a2b5ded8d5f) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2801b4ec-5414-46cc-9a74-9a2b5ded8d5f) | — |
-| **[Uber](../companies/uber.md)** | [Select the better $5 promo-targeting model](https://trueinterview.io/questions/select-the-better-5-promo-targeting-model) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/select-the-better-5-promo-targeting-model) | — |
 | **[Amazon](../companies/amazon.md)** | [Server Request](https://trueinterview.io/questions/1b3d56cc-d40b-424b-8dd3-47a0e789cfcf) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/1b3d56cc-d40b-424b-8dd3-47a0e789cfcf) | — |
 | **[Instacart](../companies/instacart.md)** | [Should you roll out if NSM decreases?](https://trueinterview.io/questions/should-you-roll-out-if-nsm-decreases) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/should-you-roll-out-if-nsm-decreases) | — |
 | **[Shopify](../companies/shopify.md)** | [Simulate a Robot Following Commands on a Grid](https://trueinterview.io/questions/800f318f-3aba-4c06-9eef-ee7b1da55f6d) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/800f318f-3aba-4c06-9eef-ee7b1da55f6d) | — |
@@ -43,8 +38,6 @@
 | **[Coinbase](../companies/coinbase.md)** / [Instacart](../companies/instacart.md) | [Task Management System III](https://trueinterview.io/questions/task-management-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/task-management-system) | — |
 | **[Shopify](../companies/shopify.md)** | [Terminal Robot Simulator with Multiple Robots](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | — |
 | **[Airbnb](../companies/airbnb.md)** | [Test conversion difference and adjust for clustering](https://trueinterview.io/questions/test-conversion-difference-and-adjust-for-clustering) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/test-conversion-difference-and-adjust-for-clustering) | — |
-| **[Snapchat](../companies/snapchat.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2 | [Top K Frequent Elements in Integer Array Efficiently](https://trueinterview.io/questions/cd77d63e-ea70-4485-a616-90bf6c1fc5c0) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cd77d63e-ea70-4485-a616-90bf6c1fc5c0) | — |
-| **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Microsoft](../companies/microsoft.md) | [Top-K Using a Priority Queue](https://trueinterview.io/questions/dc419410-0835-45d4-8b4c-0e4b2a320880) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/dc419410-0835-45d4-8b4c-0e4b2a320880) | — |
 | **[Amazon](../companies/amazon.md)** | [Top-to-Bottom Reachability and Minimum-Cost Paths in a Binary Grid](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | — |
 | **[Amazon](../companies/amazon.md)** | [Update and Retrieve Top K Largest Numbers](https://trueinterview.io/questions/8f2e18bb-b117-4961-a2a4-422ce3463f04) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/8f2e18bb-b117-4961-a2a4-422ce3463f04) | — |
 | **[Amazon](../companies/amazon.md)** | [Use LEFT JOIN to Find Missing Relationships](https://trueinterview.io/questions/6a588842-cf65-4bb1-944b-b4829bfe9511) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/6a588842-cf65-4bb1-944b-b4829bfe9511) | — |

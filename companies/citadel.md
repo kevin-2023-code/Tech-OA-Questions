@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Citadel on TrueInterview](https://trueinterview.io/problems/company/citadel) · [How Citadel interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/citadel/README.md)
 
-📈 Quant trading & hedge funds · **98 questions** · 15 from an OA · last reported Oct 2026
+📈 Quant trading & hedge funds · **97 questions** · 15 from an OA · last reported Oct 2026
 
 **By level:** 🎓 Intern & New grad (32) · 🌱 Mid (58) · 🎯 Senior (44) · 🚀 Staff+ (7)
 
-**By role:** 💻 Software Engineering (23) · 🤖 ML, AI & Research (2) · 📊 Data Science & Analytics (3) · 📈 Quantitative Finance (69)
+**By role:** 💻 Software Engineering (23) · 🤖 ML, AI & Research (2) · 📊 Data Science & Analytics (3) · 📈 Quantitative Finance (68)
 
-**Rounds:** 📝 OA (15) · 📞 Phone (67) · 🏢 Onsite (21)
+**Rounds:** 📝 OA (15) · 📞 Phone (66) · 🏢 Onsite (21)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/citadel-interview-process)
 
@@ -117,5 +117,4 @@
 | [Implement lazy unique-merge generator for sorted streams](https://trueinterview.io/questions/implement-lazy-unique-merge-generator-for-sorted-streams) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-lazy-unique-merge-generator-for-sorted-streams) | — |
 | [Implement left join on Python lists, no packages](https://trueinterview.io/questions/implement-left-join-on-python-lists-no-packages) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-left-join-on-python-lists-no-packages) | — |
 | [Medium Level Algorithm Question](https://trueinterview.io/questions/2b3416a8-5a91-4284-b9fa-e0cb6ee1768c) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/2b3416a8-5a91-4284-b9fa-e0cb6ee1768c) | — |
-| [Minimum Changes for a Palindromic Periodic Password](https://trueinterview.io/questions/5f178ac0-8422-5332-b151-6b030e7edb50) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/5f178ac0-8422-5332-b151-6b030e7edb50) | — |
 | [Statistics from a 256-Bucket Frequency Array](https://trueinterview.io/questions/d00a6fa5-a7cf-5259-903f-603e51c7bfea) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/d00a6fa5-a7cf-5259-903f-603e51c7bfea) | — |

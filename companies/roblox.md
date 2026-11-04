@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Roblox on TrueInterview](https://trueinterview.io/problems/company/roblox) · [How Roblox interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/roblox/README.md)
 
-🎮 Gaming & interactive · **106 questions** · 13 from an OA · last reported Oct 2026
+🎮 Gaming & interactive · **105 questions** · 12 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (32) · 🌱 Mid (64) · 🎯 Senior (79) · 🚀 Staff+ (23)
+**By level:** 🎓 Intern & New grad (31) · 🌱 Mid (64) · 🎯 Senior (79) · 🚀 Staff+ (23)
 
-**By role:** 💻 Software Engineering (74) · 🤖 ML, AI & Research (7) · 📊 Data Science & Analytics (25)
+**By role:** 💻 Software Engineering (73) · 🤖 ML, AI & Research (7) · 📊 Data Science & Analytics (25)
 
-**Rounds:** 📝 OA (13) · 📞 Phone (63) · 🏢 Onsite (43)
+**Rounds:** 📝 OA (12) · 📞 Phone (63) · 🏢 Onsite (43)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/roblox-interview-process) · [SWE](https://trueinterview.io/study/roblox-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/roblox-machine-learning-engineer-interview-process) · [Frontend](https://trueinterview.io/study/roblox-frontend-engineer-interview-process)
 
@@ -44,7 +44,6 @@
 | [Number of Ways to Wear Different Hats to Each Other](https://trueinterview.io/questions/70e9b704-fadb-5196-b645-9ef00acf84e8)<br><sub>also [Uber](../companies/uber.md)</sub> | Phone | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/70e9b704-fadb-5196-b645-9ef00acf84e8) | Sep 2026 |
 | [Handle Release Risks and Cross-Team Blockers](https://trueinterview.io/questions/handle-release-risks-and-cross-team-blockers) | OA | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-release-risks-and-cross-team-blockers) | Aug 30, 2026 |
 | [Piano Keys: Vanilla UI Interaction](https://trueinterview.io/questions/piano-keys-vanilla-ui) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/piano-keys-vanilla-ui) | Aug 17, 2026 |
-| [Distinct Cyclic Number Pairs](https://trueinterview.io/questions/distinct-cyclic-number-pairs)<br><sub>also [ByteDance](../companies/bytedance.md)</sub> | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/distinct-cyclic-number-pairs) | Aug 12, 2026 |
 | [Configurable Tic-Tac-Toe Board](https://trueinterview.io/questions/027d9159-df55-5351-b2d2-b3f7e1bbac99) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/027d9159-df55-5351-b2d2-b3f7e1bbac99) | Aug 2026 |
 | [Design Search Autocomplete System](https://trueinterview.io/questions/design-search-autocomplete-system)<br><sub>also [Microsoft](../companies/microsoft.md) / [Pinterest](../companies/pinterest.md)</sub> | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-search-autocomplete-system) | Aug 2026 |
 | [HM Behavioral: Traffic Scale & Scope of Past Work](https://trueinterview.io/questions/behavioral-hm-traffic-and-scope) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/behavioral-hm-traffic-and-scope) | Aug 2026 |

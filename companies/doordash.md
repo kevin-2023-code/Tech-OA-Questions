@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +5</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
+| [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +7</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
 | [Dasher Pay with Peak Time](https://trueinterview.io/questions/279dfa0f-1962-577d-b67a-132ea36cd03d) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/279dfa0f-1962-577d-b67a-132ea36cd03d) | 🆕 Oct 2026 |
 | [Dasher Payment Model](https://trueinterview.io/questions/225122e6-6cec-454c-b592-53715cc6ab81)<br><sub>also [xAI](../companies/xai.md)</sub> | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/225122e6-6cec-454c-b592-53715cc6ab81) | 🆕 Oct 2026 |
 | [Design Metrics System](https://trueinterview.io/questions/ff47cb77-48e6-495a-b78e-84121502d66b)<br><sub>also [Amazon](../companies/amazon.md) / [Datadog](../companies/datadog.md) / [Google](../companies/google.md) / +5</sub> | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ff47cb77-48e6-495a-b78e-84121502d66b) | 🆕 Oct 2026 |

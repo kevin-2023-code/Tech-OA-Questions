@@ -6,11 +6,11 @@
 
 📱 Consumer internet & media · **489 questions** · 34 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (101) · 🌱 Mid (258) · 🎯 Senior (397) · 🚀 Staff+ (183)
+**By level:** 🎓 Intern & New grad (102) · 🌱 Mid (257) · 🎯 Senior (398) · 🚀 Staff+ (183)
 
 **By role:** 💻 Software Engineering (261) · 🤖 ML, AI & Research (28) · 📊 Data Science & Analytics (186) · 📱 Product Management (9)
 
-**Rounds:** 📝 OA (34) · 📞 Phone (251) · 🏢 Onsite (231) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (34) · 📞 Phone (250) · 🏢 Onsite (232) · 🏠 Take-home (1)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/meta-interview-process) · [SWE](https://trueinterview.io/study/meta-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/meta-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/meta-research-scientist-interview-process) · [Infra](https://trueinterview.io/study/meta-infrastructure-engineer-interview-process) · [Data scientist](https://trueinterview.io/study/meta-data-scientist-interview-process)
 
@@ -23,6 +23,8 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Design metrics for violating content exposure](https://trueinterview.io/questions/design-metrics-for-violating-content-exposure) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-metrics-for-violating-content-exposure) | — |
+| [Design offline segments for Meta Portal retail](https://trueinterview.io/questions/design-offline-segments-for-meta-portal-retail) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-offline-segments-for-meta-portal-retail) | — |
 | [Design pre-launch plan and cluster A/B test](https://trueinterview.io/questions/design-pre-launch-plan-and-cluster-a-b-test) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-pre-launch-plan-and-cluster-a-b-test) | — |
 | [Design robust group size limiting for calls](https://trueinterview.io/questions/design-robust-group-size-limiting-for-calls) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-robust-group-size-limiting-for-calls) | — |
 | [Design Spotify](https://trueinterview.io/questions/design-spotify-2)<br><sub>also [Confluent](../companies/confluent.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3</sub> | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-spotify-2) | — |
@@ -41,7 +43,6 @@
 | [Explain ACID and isolation levels](https://trueinterview.io/questions/explain-acid-and-isolation-levels) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-acid-and-isolation-levels) | — |
 | [Find Target Number Frequency in Sorted Array](https://trueinterview.io/questions/c48346eb-8fb7-4454-80ca-6907d18cbf45) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c48346eb-8fb7-4454-80ca-6907d18cbf45) | — |
 | [Find Total Sales by Unique Customers](https://trueinterview.io/questions/237e2cdf-214c-4455-9486-bcc9c85df7a9) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/237e2cdf-214c-4455-9486-bcc9c85df7a9) | — |
-| [Friend Request](https://trueinterview.io/questions/6a131d8f-2002-477c-be7f-ee4b4a01b54b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/6a131d8f-2002-477c-be7f-ee4b4a01b54b) | — |
 | [Group Video Call Data Analysis Queries](https://trueinterview.io/questions/3f8ab151-1633-4675-a957-6dfb74b18779) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/3f8ab151-1633-4675-a957-6dfb74b18779) | — |
 | [Handle diverse styles and give constructive feedback](https://trueinterview.io/questions/handle-diverse-styles-and-give-constructive-feedback) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-diverse-styles-and-give-constructive-feedback) | — |
 | [Handle sales pressure with analytical integrity](https://trueinterview.io/questions/handle-sales-pressure-with-analytical-integrity) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-sales-pressure-with-analytical-integrity) | — |
@@ -90,7 +91,6 @@
 | [Test two models' proportions for significance](https://trueinterview.io/questions/test-two-models-proportions-for-significance) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/test-two-models-proportions-for-significance) | — |
 | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34)<br><sub>also [LinkedIn](../companies/linkedin.md)</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |
 | [Top 3 Customers by Book Purchases in Specific Categories](https://trueinterview.io/questions/48ac9704-e9a2-4d9e-ae72-7e46d09b96ad) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/48ac9704-e9a2-4d9e-ae72-7e46d09b96ad) | — |
-| [Top K Frequent Elements in Integer Array Efficiently](https://trueinterview.io/questions/cd77d63e-ea70-4485-a616-90bf6c1fc5c0)<br><sub>also [Snapchat](../companies/snapchat.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +1</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cd77d63e-ea70-4485-a616-90bf6c1fc5c0) | — |
 | [Tune fraud threshold under review capacity and costs](https://trueinterview.io/questions/tune-fraud-threshold-under-review-capacity-and-costs) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/tune-fraud-threshold-under-review-capacity-and-costs) | — |
 | [Validate complete binary tree](https://trueinterview.io/questions/validate-complete-binary-tree) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-complete-binary-tree) | — |
 | [Validate needs and benchmark competitor adoption](https://trueinterview.io/questions/validate-needs-and-benchmark-competitor-adoption) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/validate-needs-and-benchmark-competitor-adoption) | — |

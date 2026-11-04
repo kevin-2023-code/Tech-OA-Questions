@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Quantitative Finance** role — researcher, developer or trader.
 
-**287 questions** · 87 from an OA · 52 reported in the last 90 days · 132 free to solve
+**285 questions** · 87 from an OA · 51 reported in the last 90 days · 132 free to solve
 
-**By level:** 🎓 Intern & New grad (120) · 🌱 Mid (205) · 🎯 Senior (128) · 🚀 Staff+ (15)
+**By level:** 🎓 Intern & New grad (119) · 🌱 Mid (205) · 🎯 Senior (128) · 🚀 Staff+ (15)
 
-**Rounds:** 📝 OA (87) · 📞 Phone (148) · 🏢 Onsite (60) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (87) · 📞 Phone (146) · 🏢 Onsite (60) · 🏠 Take-home (1)
 
-**Companies:** [Citadel (69)](../companies/citadel.md) · [Two Sigma (35)](../companies/two-sigma.md) · [Akuna Capital (31)](../companies/akuna-capital.md) · [Squarepoint (28)](../companies/squarepoint.md) · [Optiver (26)](../companies/optiver.md) · [Point72 (20)](../companies/point72.md) · [Hudson River Trading (17)](../companies/hudson-river-trading.md) · [Jane Street (15)](../companies/jane-street.md) · [IMC (9)](../companies/imc.md) · [DRW (8)](../companies/drw.md) · [Voleon (7)](../companies/voleon.md) · [Goldman Sachs (6)](../companies/goldman-sachs.md) · [SIG (6)](../companies/sig.md) · [ByteDance (4)](../companies/bytedance.md) · [Google (4)](../companies/google.md)
+**Companies:** [Citadel (68)](../companies/citadel.md) · [Two Sigma (35)](../companies/two-sigma.md) · [Akuna Capital (31)](../companies/akuna-capital.md) · [Squarepoint (27)](../companies/squarepoint.md) · [Optiver (26)](../companies/optiver.md) · [Point72 (20)](../companies/point72.md) · [Hudson River Trading (17)](../companies/hudson-river-trading.md) · [Jane Street (15)](../companies/jane-street.md) · [IMC (9)](../companies/imc.md) · [DRW (8)](../companies/drw.md) · [Voleon (7)](../companies/voleon.md) · [Goldman Sachs (6)](../companies/goldman-sachs.md) · [SIG (6)](../companies/sig.md) · [ByteDance (4)](../companies/bytedance.md) · [Google (4)](../companies/google.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -57,7 +57,6 @@
 | **[Citadel](../companies/citadel.md)** / [IBM](../companies/ibm.md) / [Oracle](../companies/oracle.md) | [Token Expiry and Reset Management Problem](https://trueinterview.io/questions/847cd959-ce43-4a47-a335-5a919aa91579) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/847cd959-ce43-4a47-a335-5a919aa91579) | Sep 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Choose Between an Array and a Linked List](https://trueinterview.io/questions/choose-between-an-array-and-a-linked-list) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-between-an-array-and-a-linked-list) | Aug 29, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Find Values Whose Removal Minimizes Pairing Cost](https://trueinterview.io/questions/find-values-whose-removal-minimizes-pairing-cost) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-values-whose-removal-minimizes-pairing-cost) | Aug 29, 2026 |
-| **[Squarepoint](../companies/squarepoint.md)** / [Uber](../companies/uber.md) | [Shortest Subarray with at Least K Distinct Values](https://trueinterview.io/questions/shortest-subarray-with-at-least-k-distinct-values) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-subarray-with-at-least-k-distinct-values) | Aug 29, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Value a Die Game with Optional Continuation](https://trueinterview.io/questions/value-a-die-game-with-optional-continuation) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/value-a-die-game-with-optional-continuation) | Aug 29, 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Evaluate a Hexadecimal Bitwise AND](https://trueinterview.io/questions/evaluate-a-hexadecimal-bitwise-and) | Phone | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-a-hexadecimal-bitwise-and) | Aug 26, 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Find the Maximum Value in a Binary Tree Recursively](https://trueinterview.io/questions/find-the-maximum-value-in-a-binary-tree-recursively) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-maximum-value-in-a-binary-tree-recursively) | Aug 26, 2026 |
@@ -301,7 +300,6 @@
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Max Harvested Crops](https://trueinterview.io/questions/0364d8f3-180c-434b-96f4-fbdf7412a3e3) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/0364d8f3-180c-434b-96f4-fbdf7412a3e3) | — |
 | **[Point72](../companies/point72.md)** | [Maximize outfits with distinct colors](https://trueinterview.io/questions/maximize-outfits-with-distinct-colors) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-outfits-with-distinct-colors) | — |
 | **[Citadel](../companies/citadel.md)** | [Medium Level Algorithm Question](https://trueinterview.io/questions/2b3416a8-5a91-4284-b9fa-e0cb6ee1768c) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/2b3416a8-5a91-4284-b9fa-e0cb6ee1768c) | — |
-| **[Citadel](../companies/citadel.md)** | [Minimum Changes for a Palindromic Periodic Password](https://trueinterview.io/questions/5f178ac0-8422-5332-b151-6b030e7edb50) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/5f178ac0-8422-5332-b151-6b030e7edb50) | — |
 | **[Squarepoint](../companies/squarepoint.md)** | [OOP Concepts in Python: Classes, Inheritance, and Polymorphism](https://trueinterview.io/questions/b334f7cb-9c94-4ce6-b861-9164f44eb748) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b334f7cb-9c94-4ce6-b861-9164f44eb748) | — |
 | **[Squarepoint](../companies/squarepoint.md)** | [Parse payroll file and answer queries](https://trueinterview.io/questions/parse-payroll-file-and-answer-queries) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/parse-payroll-file-and-answer-queries) | — |
 | **[Point72](../companies/point72.md)** | [Price a coin-doubling game rationally](https://trueinterview.io/questions/price-a-coin-doubling-game-rationally) | OA | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/price-a-coin-doubling-game-rationally) | — |

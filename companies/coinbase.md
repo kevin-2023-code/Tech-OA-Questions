@@ -6,11 +6,11 @@
 
 💳 Fintech, payments & crypto · **87 questions** · 19 from an OA · last reported Sep 2026
 
-**By level:** 🎓 Intern & New grad (20) · 🌱 Mid (60) · 🎯 Senior (63) · 🚀 Staff+ (13)
+**By level:** 🎓 Intern & New grad (19) · 🌱 Mid (60) · 🎯 Senior (62) · 🚀 Staff+ (14)
 
 **By role:** 💻 Software Engineering (66) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (15) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (19) · 📞 Phone (21) · 🏢 Onsite (49)
+**Rounds:** 📝 OA (19) · 📞 Phone (22) · 🏢 Onsite (48)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/coinbase-interview-process) · [SWE](https://trueinterview.io/study/coinbase-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/coinbase-machine-learning-engineer-interview-process) · [Frontend](https://trueinterview.io/study/coinbase-frontend-engineer-interview-process)
 
@@ -32,6 +32,7 @@
 | [Banking System with Payments and Account Merging](https://trueinterview.io/questions/c8060613-c56e-5708-920f-2455777b3d9f)<br><sub>also [Ramp](../companies/ramp.md) / [Anthropic](../companies/anthropic.md) / [Capital One](../companies/capital-one.md) / +2</sub> | Onsite | New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c8060613-c56e-5708-920f-2455777b3d9f) | Jul 2026 |
 | [Debug and Extend Cursor Queries](https://trueinterview.io/questions/debug-and-extend-cursor-queries) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/debug-and-extend-cursor-queries) | Jul 2026 |
 | [Design Coinbase Explore](https://trueinterview.io/questions/sd-coinbase-explore-realtime-price)<br><sub>also [Robinhood](../companies/robinhood.md) / [Snapchat](../companies/snapchat.md)</sub> | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/sd-coinbase-explore-realtime-price) | Jul 2026 |
+| [Array Plus One with Large-Input Follow-Up](https://trueinterview.io/questions/array-plus-one-with-large-input-follow-up)<br><sub>also [Intuit](../companies/intuit.md)</sub> | Phone | Mid · Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/array-plus-one-with-large-input-follow-up) | Jun 28, 2026 |
 | [Ring Buffer (Producer / Consumer with Backpressure)](https://trueinterview.io/questions/ring-buffer-producer-consumer) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ring-buffer-producer-consumer) | Jun 15, 2026 |
 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-stock-order-trade-management-system)<br><sub>also [Robinhood](../companies/robinhood.md) / [Databricks](../companies/databricks.md) / [Square](../companies/square.md)</sub> | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Jun 2026 |
 | [Recipe Manager](https://trueinterview.io/questions/recipe-manager)<br><sub>also [Anthropic](../companies/anthropic.md) / [HubSpot](../companies/hubspot.md) / [Ramp](../companies/ramp.md)</sub> | OA | New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/recipe-manager) | Jun 2026 |
@@ -62,7 +63,6 @@
 | [Design Credit Card Application System](https://trueinterview.io/questions/design-a-credit-approval-risk-engine) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-credit-approval-risk-engine) | Feb 15, 2026 |
 | [Calculate a Confidence Interval](https://trueinterview.io/questions/calculate-a-confidence-interval) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/calculate-a-confidence-interval) | Feb 13, 2026 |
 | [Design Identity-Trust A/B Test](https://trueinterview.io/questions/design-identity-trust-a-b-test) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-identity-trust-a-b-test) | Feb 13, 2026 |
-| [Implement Plus One](https://trueinterview.io/questions/implement-plus-one) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-plus-one) | Feb 13, 2026 |
 | [Interleave Iterator](https://trueinterview.io/questions/interleave-iterator) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/interleave-iterator) | Feb 13, 2026 |
 | [Maximize block fee with transaction selection](https://trueinterview.io/questions/maximize-block-fee-with-transaction-selection) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-block-fee-with-transaction-selection) | Feb 13, 2026 |
 | [ML Concepts and Coding Assessment](https://trueinterview.io/questions/mle-codesignal-oa) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-codesignal-oa) | Feb 8, 2026 |

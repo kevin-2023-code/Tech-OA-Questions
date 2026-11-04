@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Squarepoint on TrueInterview](https://trueinterview.io/problems/company/squarepoint) · [How Squarepoint interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/squarepoint/README.md)
 
-📈 Quant trading & hedge funds · **45 questions** · 13 from an OA · last reported Sep 2026
+📈 Quant trading & hedge funds · **45 questions** · 14 from an OA · last reported Sep 2026
 
 **By level:** 🎓 Intern & New grad (19) · 🌱 Mid (40) · 🎯 Senior (25) · 🚀 Staff+ (1)
 
-**By role:** 💻 Software Engineering (15) · 📊 Data Science & Analytics (2) · 📈 Quantitative Finance (28)
+**By role:** 💻 Software Engineering (16) · 📊 Data Science & Analytics (2) · 📈 Quantitative Finance (27)
 
-**Rounds:** 📝 OA (13) · 📞 Phone (25) · 🏢 Onsite (7)
+**Rounds:** 📝 OA (14) · 📞 Phone (24) · 🏢 Onsite (7)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/squarepoint-interview-process)
 
@@ -31,14 +31,13 @@
 | [Choose Between an Array and a Linked List](https://trueinterview.io/questions/choose-between-an-array-and-a-linked-list) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-between-an-array-and-a-linked-list) | Aug 29, 2026 |
 | [Count Files Safely from Bash](https://trueinterview.io/questions/count-files-safely-from-bash) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/count-files-safely-from-bash) | Aug 29, 2026 |
 | [Find Values Whose Removal Minimizes Pairing Cost](https://trueinterview.io/questions/find-values-whose-removal-minimizes-pairing-cost) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-values-whose-removal-minimizes-pairing-cost) | Aug 29, 2026 |
-| [Shortest Subarray with at Least K Distinct Values](https://trueinterview.io/questions/shortest-subarray-with-at-least-k-distinct-values)<br><sub>also [Uber](../companies/uber.md)</sub> | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-subarray-with-at-least-k-distinct-values) | Aug 29, 2026 |
 | [Value a Die Game with Optional Continuation](https://trueinterview.io/questions/value-a-die-game-with-optional-continuation) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/value-a-die-game-with-optional-continuation) | Aug 29, 2026 |
 | [Concatenate Two C++ Index Sequences at Compile Time](https://trueinterview.io/questions/concatenate-two-cplusplus-index-sequences-at-compile-time) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/concatenate-two-cplusplus-index-sequences-at-compile-time) | Aug 16, 2026 |
 | [Design an Ordered Vector with Move Semantics and Analyze Its Memory Layout](https://trueinterview.io/questions/design-an-ordered-vector-with-move-semantics-and-analyze-its-memory-layout) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-ordered-vector-with-move-semantics-and-analyze-its-memory-layout) | Aug 16, 2026 |
 | [Find a Target Sum Using Two Sorted Arrays](https://trueinterview.io/questions/find-a-target-sum-using-two-sorted-arrays) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-a-target-sum-using-two-sorted-arrays) | Aug 16, 2026 |
 | [Filter Numbers Greater Than the Average](https://trueinterview.io/questions/cd12a6b3-ba3b-5639-be01-4b54adbee445) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cd12a6b3-ba3b-5639-be01-4b54adbee445) | Jul 2026 |
 | [Most Frequent Character with Lexicographical Tie-Breaking](https://trueinterview.io/questions/d51e32aa-3b44-5206-a122-5dc924dc34c9) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d51e32aa-3b44-5206-a122-5dc924dc34c9) | Jul 2026 |
-| [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +1</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Jul 2026 |
+| [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Jul 2026 |
 | [Apply Insert, Update, and Remove Operations to a Keyed Store](https://trueinterview.io/questions/apply-insert-update-and-remove-operations-to-a-keyed-store) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/apply-insert-update-and-remove-operations-to-a-keyed-store) | Jun 20, 2026 |
 | [Auction Lots with Highest Bids](https://trueinterview.io/questions/auction-lots-with-highest-bids) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/auction-lots-with-highest-bids) | May 23, 2026 |
 | [Compute EMA Indicators and Detect Crossovers in Pandas](https://trueinterview.io/questions/eec3b2bb-0fda-44b2-bc31-5efa0e915e2d) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/eec3b2bb-0fda-44b2-bc31-5efa0e915e2d) | May 2026 |
@@ -47,6 +46,7 @@
 | [Find the Correlation Between Two Die-Face Counts](https://trueinterview.io/questions/find-the-correlation-between-two-die-face-counts) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/find-the-correlation-between-two-die-face-counts) | Apr 22, 2026 |
 | [Chunk a List of Lists](https://trueinterview.io/questions/chunk-a-list-of-lists) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/chunk-a-list-of-lists) | Apr 11, 2026 |
 | [Minimum Idleness After K Flips](https://trueinterview.io/questions/minimum-idleness-after-k-flips) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-idleness-after-k-flips) | Apr 11, 2026 |
+| [Shortest Subarray with At Least K Distinct](https://trueinterview.io/questions/oa-shortest-subarray-k-distinct)<br><sub>also [Uber](../companies/uber.md) / [Google](../companies/google.md)</sub> | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/oa-shortest-subarray-k-distinct) | Apr 1, 2026 |
 | [Counting Words in a Text](https://trueinterview.io/questions/059bd91c-1f39-44d5-a729-775a1192ee7d) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/059bd91c-1f39-44d5-a729-775a1192ee7d) | Apr 2026 |
 | [Maximize revenue by selling items with diminishing price](https://trueinterview.io/questions/c198810d-3a95-4eda-99ad-a34acf587680) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/c198810d-3a95-4eda-99ad-a34acf587680) | Apr 2026 |
 | [How Does Removing Zeros Affect Sharpe?](https://trueinterview.io/questions/how-does-removing-zeros-affect-sharpe) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-does-removing-zeros-affect-sharpe) | Mar 27, 2026 |

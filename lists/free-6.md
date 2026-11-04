@@ -8,9 +8,9 @@
 
 **2,056 questions** · 234 from an OA · 397 reported in the last 90 days · 2,056 free to solve
 
-**By level:** 🎓 Intern & New grad (445) · 🌱 Mid (1,082) · 🎯 Senior (1,554) · 🚀 Staff+ (670)
+**By level:** 🎓 Intern & New grad (445) · 🌱 Mid (1,083) · 🎯 Senior (1,554) · 🚀 Staff+ (670)
 
-**Companies:** [Meta (202)](../companies/meta.md) · [Amazon (172)](../companies/amazon.md) · [ByteDance (144)](../companies/bytedance.md) · [Google (127)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (105)](../companies/uber.md) · [Microsoft (76)](../companies/microsoft.md) · [Apple (74)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (50)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Snapchat (35)](../companies/snapchat.md) · [Bloomberg (34)](../companies/bloomberg.md)
+**Companies:** [Meta (203)](../companies/meta.md) · [Amazon (172)](../companies/amazon.md) · [ByteDance (144)](../companies/bytedance.md) · [Google (127)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (106)](../companies/uber.md) · [Microsoft (76)](../companies/microsoft.md) · [Apple (74)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (50)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Snapchat (36)](../companies/snapchat.md) · [Bloomberg (34)](../companies/bloomberg.md)
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · [4](free-4.md) · [5](free-5.md) · **6**</sub>
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Meta](../companies/meta.md)** | [Quantify launch decision with tests and guardrails](https://trueinterview.io/questions/quantify-launch-decision-with-tests-and-guardrails) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/quantify-launch-decision-with-tests-and-guardrails) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Rank factors for TikTok market entry](https://trueinterview.io/questions/rank-factors-for-tiktok-market-entry) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/rank-factors-for-tiktok-market-entry) | — |
 | **[Instacart](../companies/instacart.md)** | [Recommend and validate a budget allocation strategy](https://trueinterview.io/questions/recommend-and-validate-a-budget-allocation-strategy) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/recommend-and-validate-a-budget-allocation-strategy) | — |
 | **[Pinterest](../companies/pinterest.md)** | [Recover causal effect without a control group](https://trueinterview.io/questions/recover-causal-effect-without-a-control-group) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/recover-causal-effect-without-a-control-group) | — |
@@ -34,7 +35,6 @@
 | **[NVIDIA](../companies/nvidia.md)** | [Resolve conflict and learn from failure](https://trueinterview.io/questions/resolve-conflict-and-learn-from-failure) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resolve-conflict-and-learn-from-failure) | — |
 | **[Google](../companies/google.md)** | [Resolve conflict on trust versus growth priorities](https://trueinterview.io/questions/resolve-conflict-on-trust-versus-growth-priorities) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resolve-conflict-on-trust-versus-growth-priorities) | — |
 | **[Meta](../companies/meta.md)** | [Resolve exclusion, learn fast, and manage conflict](https://trueinterview.io/questions/resolve-exclusion-learn-fast-and-manage-conflict) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resolve-exclusion-learn-fast-and-manage-conflict) | — |
-| **[OpenAI](../companies/openai.md)** / [ByteDance](../companies/bytedance.md) / [OKX](../companies/okx.md) | [Restore Valid IPv4 Addresses](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06) | — |
 | **[Disney](../companies/disney.md)** | [Reverse Behavioral: Traits You Would Hire For as a Manager](https://trueinterview.io/questions/reverse-behavioral-hiring-for-team-fit) | Onsite | Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/reverse-behavioral-hiring-for-team-fit) | — |
 | — | [Reverse Bits](https://trueinterview.io/questions/reverse-bits) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/reverse-bits) | — |
 | **[Dropbox](../companies/dropbox.md)** | [Review checkout code for defects and privacy](https://trueinterview.io/questions/review-checkout-code-for-defects-and-privacy) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/review-checkout-code-for-defects-and-privacy) | — |

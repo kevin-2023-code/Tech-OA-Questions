@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Databricks on TrueInterview](https://trueinterview.io/problems/company/databricks) · [How Databricks interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/databricks/README.md)
 
-☁️ Developer tools, cloud & data infrastructure · **89 questions** · 5 from an OA · last reported Oct 2026
+☁️ Developer tools, cloud & data infrastructure · **88 questions** · 5 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (23) · 🌱 Mid (56) · 🎯 Senior (71) · 🚀 Staff+ (15)
+**By level:** 🎓 Intern & New grad (22) · 🌱 Mid (55) · 🎯 Senior (70) · 🚀 Staff+ (15)
 
-**By role:** 💻 Software Engineering (78) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (7) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (77) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (7) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (5) · 📞 Phone (40) · 🏢 Onsite (57)
+**Rounds:** 📝 OA (5) · 📞 Phone (39) · 🏢 Onsite (57)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/databricks-interview-process) · [SWE](https://trueinterview.io/study/databricks-software-engineer-interview-process) · [Infra](https://trueinterview.io/study/databricks-infrastructure-engineer-interview-process)
 
@@ -65,7 +65,6 @@
 | [Snapshot Set Iterator](https://trueinterview.io/questions/snapshotset-with-iterator)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/snapshotset-with-iterator) | Jul 2026 |
 | [Design Book Price Aggregator](https://trueinterview.io/questions/book-price-aggregator-and-purchase-platform) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/book-price-aggregator-and-purchase-platform) | Jun 18, 2026 |
 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-stock-order-trade-management-system)<br><sub>also [Robinhood](../companies/robinhood.md) / [Coinbase](../companies/coinbase.md) / [Square](../companies/square.md)</sub> | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Jun 2026 |
-| [Encrypt All Files in a File-System Tree](https://trueinterview.io/questions/encrypt-all-files-in-a-file-system-tree) | Phone | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/encrypt-all-files-in-a-file-system-tree) | Jun 2026 |
 | [Tetris Block Drop](https://trueinterview.io/questions/tetris-block-drop) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/tetris-block-drop) | Jun 2026 |
 | [In-Memory KV Cache with WAL Log](https://trueinterview.io/questions/in-memory-kv-cache-with-wal-log)<br><sub>also [OpenAI](../companies/openai.md)</sub> | Onsite | New grad · Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/in-memory-kv-cache-with-wal-log) | May 22, 2026 |
 | [String Pattern Partition by Source Indices](https://trueinterview.io/questions/string-pattern-partition) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/string-pattern-partition) | May 22, 2026 |

@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Snowflake on TrueInterview](https://trueinterview.io/problems/company/snowflake) · [How Snowflake interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/snowflake/README.md)
 
-☁️ Developer tools, cloud & data infrastructure · **147 questions** · 15 from an OA · last reported Oct 2026
+☁️ Developer tools, cloud & data infrastructure · **145 questions** · 15 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (30) · 🌱 Mid (111) · 🎯 Senior (76) · 🚀 Staff+ (15)
+**By level:** 🎓 Intern & New grad (30) · 🌱 Mid (109) · 🎯 Senior (76) · 🚀 Staff+ (15)
 
-**By role:** 💻 Software Engineering (133) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (10)
+**By role:** 💻 Software Engineering (131) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (10)
 
-**Rounds:** 📝 OA (15) · 📞 Phone (104) · 🏢 Onsite (61)
+**Rounds:** 📝 OA (15) · 📞 Phone (102) · 🏢 Onsite (61)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/snowflake-interview-process)
 
@@ -22,7 +22,7 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Tiered Rate Limiting Service](https://trueinterview.io/questions/tiered-rate-limiting-service) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/tiered-rate-limiting-service) | 🆕 Oct 1, 2026 |
-| [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +5</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
+| [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +7</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
 | [Minimum Meeting Rooms](https://trueinterview.io/questions/b4adc8d7-199a-591e-a08e-e1bd7437a7f7)<br><sub>also [Ramp](../companies/ramp.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +10</sub> | Phone | New grad · Mid · Senior · Staff+ | Coding | [![Free][f]](https://trueinterview.io/questions/b4adc8d7-199a-591e-a08e-e1bd7437a7f7) | 🆕 Oct 2026 |
 | [Rate Limiter](https://trueinterview.io/questions/rate-limiter)<br><sub>also [Stripe](../companies/stripe.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +6</sub> | Onsite | New grad · Mid · Senior · Staff+ | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limiter) | 🆕 Oct 2026 |
 | [Runtime-Configurable Multi-Tier Rate Limiter](https://trueinterview.io/questions/88d39b15-fccf-5f7f-bed3-9bdcba8b1dcf) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/88d39b15-fccf-5f7f-bed3-9bdcba8b1dcf) | 🆕 Oct 2026 |
@@ -106,7 +106,6 @@
 | [Copy Neighbor Sums Between Binary Trees](https://trueinterview.io/questions/copy-neighbor-sums-between-binary-trees) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/copy-neighbor-sums-between-binary-trees) | Apr 22, 2026 |
 | [Document Predicate Search Engine](https://trueinterview.io/questions/document-predicate-search-engine) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/document-predicate-search-engine) | Apr 20, 2026 |
 | [Merge Two Sorted Lists](https://trueinterview.io/questions/merge-two-sorted-lists)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/merge-two-sorted-lists) | Apr 20, 2026 |
-| [Limit Tree Height by Deletions](https://trueinterview.io/questions/limit-tree-height-by-deletions) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/limit-tree-height-by-deletions) | Apr 15, 2026 |
 | [Design a Durable Cron Job Scheduler](https://trueinterview.io/questions/design-a-durable-cron-job-scheduler)<br><sub>also [Cursor](../companies/cursor.md)</sub> | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-a-durable-cron-job-scheduler) | Apr 7, 2026 |
 | [Distributed Rate Limiter](https://trueinterview.io/questions/distributed-rate-limiter)<br><sub>also [xAI](../companies/xai.md) / [Atlassian](../companies/atlassian.md) / [Expedia](../companies/expedia.md) / +1</sub> | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/distributed-rate-limiter) | Apr 1, 2026 |
 | [Merge K Sorted Lists](https://trueinterview.io/questions/merge-k-sorted-lists)<br><sub>also [Apple](../companies/apple.md) / [ByteDance](../companies/bytedance.md) / [Citadel](../companies/citadel.md) / +1</sub> | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/merge-k-sorted-lists) | Apr 1, 2026 |
@@ -151,7 +150,6 @@
 | [Minimum Value Weight](https://trueinterview.io/questions/5a6b8049-d36d-443f-b540-d8618d4e470c) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/5a6b8049-d36d-443f-b540-d8618d4e470c) | Mar 2025 |
 | [Role-Based Access Control with Inheritance and Deny Rules](https://trueinterview.io/questions/406c257a-cd8f-4c52-ba90-ea79a05da226) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/406c257a-cd8f-4c52-ba90-ea79a05da226) | Mar 2025 |
 | [Build a cohort dashboard with Streamlit and SQL](https://trueinterview.io/questions/build-a-cohort-dashboard-with-streamlit-and-sql) | Onsite | Senior · Staff+ | SQL | [![Practice][p]](https://trueinterview.io/questions/build-a-cohort-dashboard-with-streamlit-and-sql) | — |
-| [Connect Four Game Evaluation](https://trueinterview.io/questions/996df6f4-26e7-4a59-953f-eeec0b118171) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/996df6f4-26e7-4a59-953f-eeec0b118171) | — |
 | [Contrast FCF vs NI; choose one statement](https://trueinterview.io/questions/contrast-fcf-vs-ni-choose-one-statement) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/contrast-fcf-vs-ni-choose-one-statement) | — |
 | [Decide and justify product metrics amid trade-offs](https://trueinterview.io/questions/decide-and-justify-product-metrics-amid-trade-offs) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/decide-and-justify-product-metrics-amid-trade-offs) | — |
 | [Derive uniform RNGs from limited or biased sources](https://trueinterview.io/questions/derive-uniform-rngs-from-limited-or-biased-sources) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/derive-uniform-rngs-from-limited-or-biased-sources) | — |

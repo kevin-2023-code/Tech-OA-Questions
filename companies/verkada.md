@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Verkada on TrueInterview](https://trueinterview.io/problems/company/verkada) · [How Verkada interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/verkada/README.md)
 
-🔒 Cybersecurity · **33 questions** · 1 from an OA · last reported Sep 2026
+🔒 Cybersecurity · **32 questions** · 1 from an OA · last reported Sep 2026
 
-**By level:** 🎓 Intern & New grad (6) · 🌱 Mid (27) · 🎯 Senior (12) · 🚀 Staff+ (4)
+**By level:** 🎓 Intern & New grad (5) · 🌱 Mid (26) · 🎯 Senior (12) · 🚀 Staff+ (4)
 
-**By role:** 💻 Software Engineering (32) · 📈 Quantitative Finance (1)
+**By role:** 💻 Software Engineering (31) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (1) · 📞 Phone (20) · 🏢 Onsite (15)
+**Rounds:** 📝 OA (1) · 📞 Phone (20) · 🏢 Onsite (14)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/verkada-interview-process)
 
@@ -22,9 +22,9 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Design a Massive Live Two-Choice Voting System](https://trueinterview.io/questions/design-a-massive-live-two-choice-voting-system) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-massive-live-two-choice-voting-system) | Sep 4, 2026 |
-| [Validate a Partially Filled Sudoku Board](https://trueinterview.io/questions/validate-a-partially-filled-sudoku-board) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-a-partially-filled-sudoku-board) | Sep 4, 2026 |
 | [Design Hotel Booking System](https://trueinterview.io/questions/booking-system-design)<br><sub>also [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / +6</sub> | Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/booking-system-design) | Sep 2026 |
 | [Design Realtime Temperature Monitoring System](https://trueinterview.io/questions/design-realtime-temperature-monitoring-system)<br><sub>also [Amazon](../companies/amazon.md)</sub> | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-realtime-temperature-monitoring-system) | Sep 2026 |
+| [LFU Cache](https://trueinterview.io/questions/lfu-cache)<br><sub>also [Apple](../companies/apple.md) / [Google](../companies/google.md) / [LinkedIn](../companies/linkedin.md) / +2</sub> | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/lfu-cache) | Sep 2026 |
 | [Design Youtube](https://trueinterview.io/questions/design-youtube)<br><sub>also [OpenAI](../companies/openai.md) / [Amazon](../companies/amazon.md) / [Datadog](../companies/datadog.md) / +4</sub> | Phone · Onsite | Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-youtube) | Aug 2026 |
 | [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2)<br><sub>also [Google](../companies/google.md) / [Microsoft](../companies/microsoft.md)</sub> | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-common-free-days-2) | Aug 2026 |
 | [Design News Feed](https://trueinterview.io/questions/design-news-feed)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [Confluent](../companies/confluent.md) / +12</sub> | Phone · Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-news-feed) | Jul 2026 |
@@ -51,6 +51,5 @@
 | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
 | [Tree Diameter](https://trueinterview.io/questions/1553f8b2-f647-5b6c-82c7-e48852add677)<br><sub>also [Citadel](../companies/citadel.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1553f8b2-f647-5b6c-82c7-e48852add677) | Nov 2025 |
 | [Implement APIs in a Flask Application](https://trueinterview.io/questions/b1ddfa0e-5157-4aac-9de4-6777f33c983a) | Onsite | Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/b1ddfa0e-5157-4aac-9de4-6777f33c983a) | Mar 2025 |
-| [LFU Cache II](https://trueinterview.io/questions/c488db3c-4149-4a40-8d6d-baca65c23221)<br><sub>also [Salesforce](../companies/salesforce.md)</sub> | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c488db3c-4149-4a40-8d6d-baca65c23221) | — |
 | [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md)</sub> | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | — |
 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / [Goldman Sachs](../companies/goldman-sachs.md) / +2</sub> | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |

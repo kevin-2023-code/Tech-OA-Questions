@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +5</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
+| [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +7</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
 | [Key-Value Store with TTL](https://trueinterview.io/questions/66384c98-64ab-5912-91f2-4f21bd58d645) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/66384c98-64ab-5912-91f2-4f21bd58d645) | 🆕 Oct 2026 |
 | [ML Research Orals (Self-Attention / LoRA / Optimizers)](https://trueinterview.io/questions/ml-research-orals) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/ml-research-orals) | 🆕 Oct 2026 |
 | [Topological Sort / Course Schedule for Ads](https://trueinterview.io/questions/topological-sort-course-schedule-ads)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / [eBay](../companies/ebay.md)</sub> | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/topological-sort-course-schedule-ads) | 🆕 Oct 2026 |

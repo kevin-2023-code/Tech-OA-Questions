@@ -6,15 +6,15 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,698 questions** · 168 from an OA · 432 reported in the last 90 days · 584 free to solve
+**1,693 questions** · 169 from an OA · 431 reported in the last 90 days · 584 free to solve
 
-**By level:** 🎓 Intern & New grad (399) · 🌱 Mid (1,001) · 🎯 Senior (1,159) · 🚀 Staff+ (355)
+**By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
 
-**By role:** 💻 Software Engineering (1,128) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
+**By role:** 💻 Software Engineering (1,123) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
 
-**Rounds:** 📝 OA (168) · 📞 Phone (877) · 🏢 Onsite (776) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (169) · 📞 Phone (870) · 🏢 Onsite (776) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Amazon (470)](../companies/amazon.md) · [Google (383)](../companies/google.md) · [Microsoft (242)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
+**Companies:** [Meta (489)](../companies/meta.md) · [Amazon (466)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (240)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
 
 <sub>Page [1](maang.md) · [2](maang-2.md) · **3** · [4](maang-4.md) · [5](maang-5.md)</sub>
 
@@ -25,7 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Amazon](../companies/amazon.md)** | [Science Application (Ambiguous Problem)](https://trueinterview.io/questions/science-application-ambiguous-problem) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/science-application-ambiguous-problem) | Apr 29, 2026 |
 | **[Amazon](../companies/amazon.md)** / [Pinterest](../companies/pinterest.md) | [Search / Ranking / Experimentation](https://trueinterview.io/questions/as-ml-system-design-search-ranking) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/as-ml-system-design-search-ranking) | Apr 29, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve Array Merge and Parentheses Cleanup](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Apr 29, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Bucket Batching DP (Applied Scientist Phone Screen)](https://trueinterview.io/questions/bucket-batching-dp-applied-scientist) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bucket-batching-dp-applied-scientist) | Apr 28, 2026 |
@@ -48,7 +47,7 @@
 | **[Netflix](../companies/netflix.md)** | [Nested Map Path Query (JSON Parser)](https://trueinterview.io/questions/nested-map-path-query-json-parser) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/nested-map-path-query-json-parser) | Apr 24, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve Tree View and Triplet Sum](https://trueinterview.io/questions/solve-tree-view-and-triplet-sum) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-tree-view-and-triplet-sum) | Apr 24, 2026 |
 | **[Meta](../companies/meta.md)** | [Continuous Subarray Sum](https://trueinterview.io/questions/continuous-subarray-sum) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/continuous-subarray-sum) | Apr 23, 2026 |
-| **[Meta](../companies/meta.md)** | [Minimum Add to Make Parentheses Valid II](https://trueinterview.io/questions/minimum-add-to-make-valid-parens) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-add-to-make-valid-parens) | Apr 23, 2026 |
+| **[Meta](../companies/meta.md)** / [ByteDance](../companies/bytedance.md) | [Minimum Add to Make Parentheses Valid II](https://trueinterview.io/questions/minimum-add-to-make-valid-parens) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-add-to-make-valid-parens) | Apr 23, 2026 |
 | **[Meta](../companies/meta.md)** / [Microsoft](../companies/microsoft.md) | [Design Ticket Booking System](https://trueinterview.io/questions/system-design-ticketmaster) | Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-ticketmaster) | Apr 22, 2026 |
 | **[Meta](../companies/meta.md)** | [Walls and Gates / Max Area of Island](https://trueinterview.io/questions/walls-and-gates-multi-source-bfs) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/walls-and-gates-multi-source-bfs) | Apr 21, 2026 |
 | **[Meta](../companies/meta.md)** | [Describe an Analysis Where You Used AI Responsibly](https://trueinterview.io/questions/describe-an-analysis-where-you-used-ai-responsibly) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-an-analysis-where-you-used-ai-responsibly) | Apr 20, 2026 |
@@ -112,7 +111,7 @@
 | **[Apple](../companies/apple.md)** / [ByteDance](../companies/bytedance.md) / [Citadel](../companies/citadel.md) / +2 | [Merge K Sorted Lists](https://trueinterview.io/questions/merge-k-sorted-lists) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/merge-k-sorted-lists) | Apr 1, 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) / [Salesforce](../companies/salesforce.md) | [Minimum Operations to Reduce an Integer to 0](https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0) | Apr 1, 2026 |
 | **[Meta](../companies/meta.md)** | [PE Troubleshooting — Web Server / Disk Full](https://trueinterview.io/questions/pe-troubleshooting) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/pe-troubleshooting) | Apr 1, 2026 |
-| **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Shortest Subarray with At Least K Distinct](https://trueinterview.io/questions/oa-shortest-subarray-k-distinct) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/oa-shortest-subarray-k-distinct) | Apr 1, 2026 |
+| **[Uber](../companies/uber.md)** / [Google](../companies/google.md) / [Squarepoint](../companies/squarepoint.md) | [Shortest Subarray with At Least K Distinct](https://trueinterview.io/questions/oa-shortest-subarray-k-distinct) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/oa-shortest-subarray-k-distinct) | Apr 1, 2026 |
 | **[Google](../companies/google.md)** | [Activate Features with Dependency Prerequisites (Simulation)](https://trueinterview.io/questions/660e4415-cd22-4d8d-9d65-6287f4804ea8) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/660e4415-cd22-4d8d-9d65-6287f4804ea8) | Apr 2026 |
 | **[Apple](../companies/apple.md)** | [Apply a 2D Box Blur Filter](https://trueinterview.io/questions/f377cc09-d8a0-47f3-9797-5ff6d3a0d580) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f377cc09-d8a0-47f3-9797-5ff6d3a0d580) | Apr 2026 |
 | **[Meta](../companies/meta.md)** | [Binary Tree: Print Left Boundary Bottom-Up and Right Boundary Top-Down](https://trueinterview.io/questions/0d8ad1b8-ec74-4ddf-9c25-37d113f4aad3) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/0d8ad1b8-ec74-4ddf-9c25-37d113f4aad3) | Apr 2026 |
@@ -154,7 +153,6 @@
 | **[Google](../companies/google.md)** | [Stuck Keyboard / Jammed String Dictionary Match](https://trueinterview.io/questions/ac1394bf-5720-4d6e-bdc5-e5f9614d3050) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ac1394bf-5720-4d6e-bdc5-e5f9614d3050) | Apr 2026 |
 | **[Meta](../companies/meta.md)** | [Write a Script to Monitor 'vmstat' Output](https://trueinterview.io/questions/0237fc06-24d7-4e05-97ce-e1b07257a2e8) | Onsite | Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/0237fc06-24d7-4e05-97ce-e1b07257a2e8) | Apr 2026 |
 | **[Netflix](../companies/netflix.md)** | [Multi-thread Atomic Counter](https://trueinterview.io/questions/multi-thread-atomic-counter) | Phone · Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/multi-thread-atomic-counter) | Mar 31, 2026 |
-| **[Google](../companies/google.md)** | [Check Whether an Integer Reads the Same Backward](https://trueinterview.io/questions/check-digits-and-combine-ranges-check-whether-an-integer-reads-the-same-backward) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/check-digits-and-combine-ranges-check-whether-an-integer-reads-the-same-backward) | Mar 29, 2026 |
 | **[Apple](../companies/apple.md)** | [Siri Grounded Response Generation](https://trueinterview.io/questions/siri-grounded-response-generation) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/siri-grounded-response-generation) | Mar 28, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Count Positive Pairs Satisfying 1/x + 1/y = 1/N](https://trueinterview.io/questions/equations-reciprocal-pair-count) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/equations-reciprocal-pair-count) | Mar 26, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Data Engineering Movie Success Pipeline](https://trueinterview.io/questions/data-engineering-movie-success-pipeline) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/data-engineering-movie-success-pipeline) | Mar 25, 2026 |
@@ -401,6 +399,7 @@
 | **[Microsoft](../companies/microsoft.md)** | [Design RESTful API for JSON Files](https://trueinterview.io/questions/b03ed863-99c2-4277-87f0-fd74fa4a9331) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b03ed863-99c2-4277-87f0-fd74fa4a9331) | Jan 2026 |
 | **[Meta](../companies/meta.md)** | [Diagnose a sudden KPI drop and validate causes](https://trueinterview.io/questions/diagnose-a-sudden-kpi-drop-and-validate-causes) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-a-sudden-kpi-drop-and-validate-causes) | Jan 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Find Shortest Path in Cyclic Graph](https://trueinterview.io/questions/73071813-b198-4495-aaa6-2e6ae5f847da) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/73071813-b198-4495-aaa6-2e6ae5f847da) | Jan 2026 |
+| **[Bloomberg](../companies/bloomberg.md)** / [Meta](../companies/meta.md) | [Friends Of Appropriate Ages](https://trueinterview.io/questions/friends-of-appropriate-ages) | Onsite | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/friends-of-appropriate-ages) | Jan 2026 |
 | **[Meta](../companies/meta.md)** / [Uber](../companies/uber.md) | [Majority Element](https://trueinterview.io/questions/8ef6f482-db59-407f-adc7-1118a22fdae0) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/8ef6f482-db59-407f-adc7-1118a22fdae0) | Jan 2026 |
 | **[Meta](../companies/meta.md)** | [Maze Solver: Print a Maze With Empty Cells Marked](https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc) | Jan 2026 |
 | **[Netflix](../companies/netflix.md)** | [Music Playlist Implementation](https://trueinterview.io/questions/07093608-c84a-4bc2-bee5-c906cb37cba6) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/07093608-c84a-4bc2-bee5-c906cb37cba6) | Jan 2026 |
@@ -425,5 +424,6 @@
 | **[Apple](../companies/apple.md)** | [Apple News Search Without ML](https://trueinterview.io/questions/apple-news-search-without-ml) | Phone · Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/apple-news-search-without-ml) | Dec 18, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Debug distributed-system performance problems](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | OA | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | Dec 17, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Describe a recent innovation you delivered](https://trueinterview.io/questions/describe-a-recent-innovation-you-delivered) | OA | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-a-recent-innovation-you-delivered) | Dec 17, 2025 |
+| **[Microsoft](../companies/microsoft.md)** | [Explain hash map internals and edge cases](https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases) | OA | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases) | Dec 17, 2025 |
 
 <sub>Page [1](maang.md) · [2](maang-2.md) · **3** · [4](maang-4.md) · [5](maang-5.md)</sub>

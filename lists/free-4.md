@@ -8,9 +8,9 @@
 
 **2,056 questions** · 234 from an OA · 397 reported in the last 90 days · 2,056 free to solve
 
-**By level:** 🎓 Intern & New grad (445) · 🌱 Mid (1,082) · 🎯 Senior (1,554) · 🚀 Staff+ (670)
+**By level:** 🎓 Intern & New grad (445) · 🌱 Mid (1,083) · 🎯 Senior (1,554) · 🚀 Staff+ (670)
 
-**Companies:** [Meta (202)](../companies/meta.md) · [Amazon (172)](../companies/amazon.md) · [ByteDance (144)](../companies/bytedance.md) · [Google (127)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (105)](../companies/uber.md) · [Microsoft (76)](../companies/microsoft.md) · [Apple (74)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (50)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Snapchat (35)](../companies/snapchat.md) · [Bloomberg (34)](../companies/bloomberg.md)
+**Companies:** [Meta (203)](../companies/meta.md) · [Amazon (172)](../companies/amazon.md) · [ByteDance (144)](../companies/bytedance.md) · [Google (127)](../companies/google.md) · [Capital One (112)](../companies/capital-one.md) · [Uber (106)](../companies/uber.md) · [Microsoft (76)](../companies/microsoft.md) · [Apple (74)](../companies/apple.md) · [Snowflake (54)](../companies/snowflake.md) · [DoorDash (50)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (40)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Snapchat (36)](../companies/snapchat.md) · [Bloomberg (34)](../companies/bloomberg.md)
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · **4** · [5](free-5.md) · [6](free-6.md)</sub>
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Akuna Capital](../companies/akuna-capital.md)** | [Enemy Factory with Shared Instances](https://trueinterview.io/questions/enemy-factory-shared-instances) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/enemy-factory-shared-instances) | Nov 2, 2025 |
 | **[Meta](../companies/meta.md)** | [Which clustering algorithm would you use and why](https://trueinterview.io/questions/which-clustering-algorithm-would-you-use-and-why) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/which-clustering-algorithm-would-you-use-and-why) | Nov 2, 2025 |
 | **[Boston Consulting Group](../companies/boston-consulting-group.md)** | [Build and evaluate imbalanced binary classifier](https://trueinterview.io/questions/build-and-evaluate-imbalanced-binary-classifier) | OA | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/build-and-evaluate-imbalanced-binary-classifier) | Nov 2025 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Check Output Correctness in Code](https://trueinterview.io/questions/d65899f8-0f93-47d6-9fd4-ca6ae30663bc) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/d65899f8-0f93-47d6-9fd4-ca6ae30663bc) | Nov 2025 |
@@ -420,6 +421,5 @@
 | **[Apple](../companies/apple.md)** | [Clarify status, education, and multi-role strategy](https://trueinterview.io/questions/clarify-status-education-and-multi-role-strategy) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/clarify-status-education-and-multi-role-strategy) | — |
 | — | [Climbing Stairs](https://trueinterview.io/questions/climbing-stairs) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/climbing-stairs) | — |
 | — | [Combination Sum](https://trueinterview.io/questions/combination-sum) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/combination-sum) | — |
-| — | [Combination Sum IV](https://trueinterview.io/questions/combination-sum-iv) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/combination-sum-iv) | — |
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · **4** · [5](free-5.md) · [6](free-6.md)</sub>

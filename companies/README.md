@@ -8,31 +8,31 @@ Counts are per company: a question reported at three employers is on three pages
 
 | Company | Industry | Questions | OA | Intern & NG | Mid | Senior | Staff+ | Last reported |
 | :-- | :-- | --: | --: | --: | --: | --: | --: | :-- |
-| [Meta](meta.md) | 📱 Consumer internet & media | 489 | 34 | 101 | 258 | 397 | 183 | Oct 2026 |
-| [Amazon](amazon.md) | 🛒 E-commerce & marketplaces | 470 | 53 | 148 | 300 | 289 | 70 | Oct 2026 |
-| [Google](google.md) | 📱 Consumer internet & media | 383 | 30 | 92 | 261 | 232 | 60 | Oct 2026 |
-| [ByteDance](bytedance.md) | 📱 Consumer internet & media | 350 | 39 | 100 | 231 | 233 | 64 | Oct 2026 |
-| [Uber](uber.md) | 🛒 E-commerce & marketplaces | 266 | 33 | 75 | 143 | 190 | 46 | Oct 2026 |
-| [Microsoft](microsoft.md) | 🏢 Enterprise & business software | 242 | 32 | 61 | 154 | 166 | 37 | Oct 2026 |
+| [Meta](meta.md) | 📱 Consumer internet & media | 489 | 34 | 102 | 257 | 398 | 183 | Oct 2026 |
+| [Amazon](amazon.md) | 🛒 E-commerce & marketplaces | 466 | 53 | 148 | 297 | 287 | 70 | Oct 2026 |
+| [Google](google.md) | 📱 Consumer internet & media | 382 | 31 | 91 | 260 | 231 | 60 | Oct 2026 |
+| [ByteDance](bytedance.md) | 📱 Consumer internet & media | 344 | 36 | 97 | 227 | 230 | 65 | Oct 2026 |
+| [Uber](uber.md) | 🛒 E-commerce & marketplaces | 263 | 32 | 74 | 142 | 190 | 46 | Oct 2026 |
+| [Microsoft](microsoft.md) | 🏢 Enterprise & business software | 240 | 32 | 61 | 152 | 166 | 37 | Oct 2026 |
 | [Capital One](capital-one.md) | 🏦 Banks, insurers & asset managers | 213 | 53 | 69 | 92 | 145 | 63 | Oct 2026 |
 | [Apple](apple.md) | 🖥️ Hardware, devices & networking | 182 | 13 | 40 | 119 | 123 | 19 | Oct 2026 |
-| [OpenAI](openai.md) | 🧠 AI labs & AI infrastructure | 176 | 9 | 12 | 89 | 159 | 30 | Oct 2026 |
+| [OpenAI](openai.md) | 🧠 AI labs & AI infrastructure | 175 | 9 | 12 | 89 | 158 | 30 | Oct 2026 |
 | [DoorDash](doordash.md) | 🛒 E-commerce & marketplaces | 151 | 9 | 22 | 83 | 121 | 35 | Oct 2026 |
-| [Snowflake](snowflake.md) | ☁️ Developer tools, cloud & data infrastructure | 147 | 15 | 30 | 111 | 76 | 15 | Oct 2026 |
 | [LinkedIn](linkedin.md) | 📱 Consumer internet & media | 145 | 6 | 23 | 82 | 118 | 36 | Oct 2026 |
+| [Snowflake](snowflake.md) | ☁️ Developer tools, cloud & data infrastructure | 145 | 15 | 30 | 109 | 76 | 15 | Oct 2026 |
 | [Pinterest](pinterest.md) | 📱 Consumer internet & media | 128 | 10 | 17 | 74 | 95 | 26 | Oct 2026 |
 | [Stripe](stripe.md) | 💳 Fintech, payments & crypto | 119 | 29 | 48 | 77 | 75 | 23 | Oct 2026 |
-| [Oracle](oracle.md) | 🏢 Enterprise & business software | 115 | 10 | 20 | 65 | 83 | 1 | Oct 2026 |
-| [Airbnb](airbnb.md) | 🛒 E-commerce & marketplaces | 112 | 15 | 28 | 63 | 73 | 16 | Oct 2026 |
+| [Oracle](oracle.md) | 🏢 Enterprise & business software | 115 | 10 | 20 | 66 | 82 | 1 | Oct 2026 |
+| [Airbnb](airbnb.md) | 🛒 E-commerce & marketplaces | 112 | 15 | 28 | 64 | 72 | 16 | Oct 2026 |
 | [Netflix](netflix.md) | 📱 Consumer internet & media | 107 | 13 | 18 | 51 | 87 | 11 | Oct 2026 |
-| [Roblox](roblox.md) | 🎮 Gaming & interactive | 106 | 13 | 32 | 64 | 79 | 23 | Oct 2026 |
-| [Salesforce](salesforce.md) | 🏢 Enterprise & business software | 100 | 25 | 34 | 55 | 71 | 7 | Oct 2026 |
+| [Roblox](roblox.md) | 🎮 Gaming & interactive | 105 | 12 | 31 | 64 | 79 | 23 | Oct 2026 |
 | [Anthropic](anthropic.md) | 🧠 AI labs & AI infrastructure | 99 | 16 | 25 | 71 | 81 | 10 | Oct 2026 |
-| [Citadel](citadel.md) | 📈 Quant trading & hedge funds | 98 | 15 | 32 | 58 | 44 | 7 | Oct 2026 |
+| [Salesforce](salesforce.md) | 🏢 Enterprise & business software | 99 | 25 | 35 | 55 | 71 | 7 | Oct 2026 |
+| [Citadel](citadel.md) | 📈 Quant trading & hedge funds | 97 | 15 | 32 | 58 | 44 | 7 | Oct 2026 |
 | [Bloomberg](bloomberg.md) | 🏦 Banks, insurers & asset managers | 95 | 4 | 34 | 72 | 58 | 2 | Oct 2026 |
-| [Databricks](databricks.md) | ☁️ Developer tools, cloud & data infrastructure | 89 | 5 | 23 | 56 | 71 | 15 | Oct 2026 |
-| [Coinbase](coinbase.md) | 💳 Fintech, payments & crypto | 87 | 19 | 20 | 60 | 63 | 13 | Sep 2026 |
-| [Snapchat](snapchat.md) | 📱 Consumer internet & media | 87 | 2 | 21 | 56 | 69 | 16 | Oct 2026 |
+| [Databricks](databricks.md) | ☁️ Developer tools, cloud & data infrastructure | 88 | 5 | 22 | 55 | 70 | 15 | Oct 2026 |
+| [Coinbase](coinbase.md) | 💳 Fintech, payments & crypto | 87 | 19 | 19 | 60 | 62 | 14 | Sep 2026 |
+| [Snapchat](snapchat.md) | 📱 Consumer internet & media | 87 | 2 | 21 | 56 | 70 | 16 | Oct 2026 |
 | [Waymo](waymo.md) | 🚗 Autonomy, automotive & mobility | 87 | 12 | 11 | 41 | 61 | 5 | Oct 2026 |
 | [Goldman Sachs](goldman-sachs.md) | 🏦 Banks, insurers & asset managers | 68 | 28 | 34 | 40 | 31 | 2 | Oct 2026 |
 | [Instacart](instacart.md) | 🛒 E-commerce & marketplaces | 65 | 8 | 8 | 30 | 54 | 30 | Oct 2026 |
@@ -42,7 +42,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Square](square.md) | 💳 Fintech, payments & crypto | 56 | — | 27 | 51 | 48 | 5 | Sep 2026 |
 | [C3.ai](c3-ai.md) | 🧠 AI labs & AI infrastructure | 55 | 2 | 27 | 42 | 53 | 8 | Oct 2026 |
 | [NVIDIA](nvidia.md) | 🔬 Semiconductors & chips | 54 | 4 | 13 | 32 | 41 | 8 | Sep 2026 |
-| [Robinhood](robinhood.md) | 💳 Fintech, payments & crypto | 54 | 1 | 4 | 33 | 46 | 11 | Oct 2026 |
+| [Robinhood](robinhood.md) | 💳 Fintech, payments & crypto | 53 | 1 | 4 | 32 | 45 | 11 | Oct 2026 |
 | [Tesla](tesla.md) | 🚗 Autonomy, automotive & mobility | 52 | 5 | 11 | 33 | 30 | 7 | Sep 2026 |
 | [Two Sigma](two-sigma.md) | 📈 Quant trading & hedge funds | 50 | 17 | 17 | 36 | 27 | — | Oct 2026 |
 | [Lyft](lyft.md) | 🛒 E-commerce & marketplaces | 49 | 1 | 7 | 38 | 35 | 9 | Oct 2026 |
@@ -51,7 +51,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Disney](disney.md) | — | 47 | 3 | 7 | 16 | 38 | 13 | Oct 2026 |
 | [Reddit](reddit.md) | 📱 Consumer internet & media | 47 | 1 | 5 | 29 | 41 | 12 | Oct 2026 |
 | [IBM](ibm.md) | 🧾 IT services & consulting | 45 | 24 | 28 | 26 | 11 | 2 | Oct 2026 |
-| [Squarepoint](squarepoint.md) | 📈 Quant trading & hedge funds | 45 | 13 | 19 | 40 | 25 | 1 | Sep 2026 |
+| [Squarepoint](squarepoint.md) | 📈 Quant trading & hedge funds | 45 | 14 | 19 | 40 | 25 | 1 | Sep 2026 |
 | [xAI](xai.md) | 🧠 AI labs & AI infrastructure | 43 | 3 | 6 | 28 | 33 | 5 | Oct 2026 |
 | [Expedia](expedia.md) | 🛒 E-commerce & marketplaces | 41 | 7 | 12 | 25 | 30 | 8 | Oct 2026 |
 | [Point72](point72.md) | 📈 Quant trading & hedge funds | 41 | 15 | 9 | 33 | 22 | 1 | Aug 2026 |
@@ -64,19 +64,19 @@ Counts are per company: a question reported at three employers is on three pages
 | [Optiver](optiver.md) | 📈 Quant trading & hedge funds | 35 | 19 | 28 | 21 | 8 | 1 | Oct 2026 |
 | [Scale AI](scale-ai.md) | 🧠 AI labs & AI infrastructure | 35 | 2 | 7 | 27 | 28 | 5 | Oct 2026 |
 | [Walmart Labs](walmart-labs.md) | 🛒 E-commerce & marketplaces | 35 | 6 | 6 | 18 | 21 | 5 | Oct 2026 |
-| [Verkada](verkada.md) | 🔒 Cybersecurity | 33 | 1 | 6 | 27 | 12 | 4 | Sep 2026 |
+| [Verkada](verkada.md) | 🔒 Cybersecurity | 32 | 1 | 5 | 26 | 12 | 4 | Sep 2026 |
 | [Confluent](confluent.md) | ☁️ Developer tools, cloud & data infrastructure | 30 | 4 | 6 | 16 | 22 | 4 | Sep 2026 |
 | [Applied Intuition](applied-intuition.md) | 🚗 Autonomy, automotive & mobility | 29 | 4 | 6 | 21 | 17 | 2 | Sep 2026 |
 | [Figma](figma.md) | 🏢 Enterprise & business software | 29 | 1 | 1 | 19 | 26 | 3 | Oct 2026 |
 | [Datadog](datadog.md) | ☁️ Developer tools, cloud & data infrastructure | 28 | 4 | 9 | 20 | 17 | 2 | Oct 2026 |
-| [JPMorgan](jpmorgan.md) | 🏦 Banks, insurers & asset managers | 28 | 13 | 8 | 16 | 15 | 3 | Sep 2026 |
+| [JPMorgan](jpmorgan.md) | 🏦 Banks, insurers & asset managers | 28 | 12 | 8 | 17 | 15 | 3 | Oct 2026 |
 | [Cisco](cisco.md) | 🖥️ Hardware, devices & networking | 27 | 18 | 18 | 16 | 9 | — | Sep 2026 |
-| [Pinduoduo](pinduoduo.md) | 🛒 E-commerce & marketplaces | 27 | 1 | 7 | 22 | 18 | 1 | Oct 2026 |
+| [Pinduoduo](pinduoduo.md) | 🛒 E-commerce & marketplaces | 27 | 1 | 8 | 22 | 19 | 1 | Oct 2026 |
 | [Perplexity](perplexity.md) | 🧠 AI labs & AI infrastructure | 25 | 3 | 6 | 13 | 15 | 5 | Sep 2026 |
 | [Harvey](harvey.md) | 🧠 AI labs & AI infrastructure | 23 | 1 | 1 | 14 | 20 | 2 | Sep 2026 |
 | [Hudson River Trading](hudson-river-trading.md) | 📈 Quant trading & hedge funds | 22 | 5 | 11 | 15 | 11 | — | Aug 2026 |
 | [Tradedesk](tradedesk.md) | 🏢 Enterprise & business software | 22 | 6 | 7 | 17 | 11 | 1 | Sep 2026 |
-| [WeRide](weride.md) | 🚗 Autonomy, automotive & mobility | 22 | 4 | 13 | 15 | 12 | — | Sep 2026 |
+| [WeRide](weride.md) | 🚗 Autonomy, automotive & mobility | 22 | 4 | 12 | 14 | 12 | — | Sep 2026 |
 | [Yelp](yelp.md) | 📱 Consumer internet & media | 22 | — | 9 | 17 | 22 | 7 | Oct 2026 |
 | [Dropbox](dropbox.md) | 🏢 Enterprise & business software | 21 | 1 | 2 | 6 | 18 | 5 | Sep 2026 |
 | [CVS Health](cvs-health.md) | — | 20 | 4 | 3 | 10 | 19 | 10 | Aug 2026 |
@@ -89,7 +89,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Bitkernel](bitkernel.md) | — | 15 | 15 | 15 | 14 | 7 | — | Oct 2025 |
 | [Jane Street](jane-street.md) | 📈 Quant trading & hedge funds | 15 | 1 | 4 | 9 | 14 | 6 | Sep 2026 |
 | [Vanta](vanta.md) | 🔒 Cybersecurity | 15 | 2 | — | 12 | 10 | — | Sep 2026 |
-| [Visa](visa.md) | 🏦 Banks, insurers & asset managers | 15 | 3 | 5 | 4 | 8 | 6 | Sep 2026 |
+| [Visa](visa.md) | 🏦 Banks, insurers & asset managers | 15 | 3 | 4 | 5 | 8 | 6 | Oct 2026 |
 | [Mercor](mercor.md) | 🧠 AI labs & AI infrastructure | 14 | — | 2 | 9 | 14 | 5 | Sep 2026 |
 | [Airwallex](airwallex.md) | 💳 Fintech, payments & crypto | 13 | — | 2 | 4 | 12 | 8 | Sep 2026 |
 | [HubSpot](hubspot.md) | 🏢 Enterprise & business software | 13 | 7 | 10 | 11 | 10 | 1 | Aug 2026 |
@@ -100,7 +100,7 @@ Counts are per company: a question reported at three employers is on three pages
 | [Palantir](palantir.md) | 🏢 Enterprise & business software | 12 | 3 | 6 | 10 | 9 | 2 | Aug 2026 |
 | [Tubi](tubi.md) | — | 12 | — | 2 | 6 | 11 | 6 | Feb 2026 |
 | [Airtable](airtable.md) | 🏢 Enterprise & business software | 11 | — | 3 | 7 | 11 | 1 | Jul 2026 |
-| [Asana](asana.md) | — | 11 | — | 1 | 6 | 10 | 4 | Apr 2026 |
+| [Asana](asana.md) | — | 11 | — | — | 6 | 10 | 4 | Jul 2026 |
 | [Axon](axon.md) | 🖥️ Hardware, devices & networking | 11 | — | 1 | 2 | 11 | 8 | Jun 2026 |
 | [Discord](discord.md) | 📱 Consumer internet & media | 11 | — | — | 5 | 11 | 8 | Sep 2026 |
 | [AMD](amd.md) | 🔬 Semiconductors & chips | 10 | — | 3 | 5 | 9 | 6 | Sep 2026 |
@@ -121,13 +121,13 @@ Counts are per company: a question reported at three employers is on three pages
 | [Gusto](gusto.md) | 🏢 Enterprise & business software | 6 | — | 1 | 3 | 5 | 2 | Aug 2026 |
 | [Luma AI](luma-ai.md) | 🧠 AI labs & AI infrastructure | 6 | 3 | 6 | — | 1 | — | Aug 2026 |
 | [Moveworks](moveworks.md) | 🧠 AI labs & AI infrastructure | 6 | — | 2 | 5 | 4 | 1 | May 2026 |
-| [OKX](okx.md) | 💳 Fintech, payments & crypto | 6 | 1 | 1 | 3 | 5 | — | Oct 2026 |
 | [Together AI](together-ai.md) | 🧠 AI labs & AI infrastructure | 6 | — | — | 3 | 6 | 2 | Sep 2026 |
 | [ZipHQ](ziphq.md) | — | 6 | — | — | 6 | 6 | — | Sep 2026 |
 | [Block](block.md) | 💳 Fintech, payments & crypto | 5 | 1 | 1 | 4 | 3 | — | May 2026 |
 | [Chicago Trading](chicago-trading.md) | 📈 Quant trading & hedge funds | 5 | — | — | 2 | 3 | — | Aug 2026 |
 | [Faire](faire.md) | 🛒 E-commerce & marketplaces | 5 | 1 | — | 5 | — | — | Apr 2026 |
 | [Millennium](millennium.md) | — | 5 | — | 1 | 5 | 5 | — | Sep 2026 |
+| [OKX](okx.md) | 💳 Fintech, payments & crypto | 5 | 1 | 1 | 3 | 4 | — | Oct 2026 |
 | [Rokt](rokt.md) | 🏢 Enterprise & business software | 5 | — | 1 | 2 | 5 | — | Aug 2026 |
 | [Sigmacomputing](sigmacomputing.md) | ☁️ Developer tools, cloud & data infrastructure | 5 | — | 1 | 4 | — | — | Jul 2026 |
 | [StackAdapt](stackadapt.md) | 🏢 Enterprise & business software | 5 | — | 2 | 5 | 2 | — | Aug 2026 |

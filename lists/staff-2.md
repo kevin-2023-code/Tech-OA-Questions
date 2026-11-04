@@ -12,7 +12,7 @@
 
 **Rounds:** 📝 OA (20) · 📞 Phone (573) · 🏢 Onsite (535) · 🏠 Take-home (1)
 
-**Companies:** [Meta (183)](../companies/meta.md) · [Amazon (70)](../companies/amazon.md) · [ByteDance (64)](../companies/bytedance.md) · [Capital One (63)](../companies/capital-one.md) · [Google (60)](../companies/google.md) · [Uber (46)](../companies/uber.md) · [Microsoft (37)](../companies/microsoft.md) · [LinkedIn (36)](../companies/linkedin.md) · [DoorDash (35)](../companies/doordash.md) · [Instacart (30)](../companies/instacart.md) · [OpenAI (30)](../companies/openai.md) · [Pinterest (26)](../companies/pinterest.md) · [Roblox (23)](../companies/roblox.md) · [Stripe (23)](../companies/stripe.md) · [Apple (19)](../companies/apple.md)
+**Companies:** [Meta (183)](../companies/meta.md) · [Amazon (70)](../companies/amazon.md) · [ByteDance (65)](../companies/bytedance.md) · [Capital One (63)](../companies/capital-one.md) · [Google (60)](../companies/google.md) · [Uber (46)](../companies/uber.md) · [Microsoft (37)](../companies/microsoft.md) · [LinkedIn (36)](../companies/linkedin.md) · [DoorDash (35)](../companies/doordash.md) · [Instacart (30)](../companies/instacart.md) · [OpenAI (30)](../companies/openai.md) · [Pinterest (26)](../companies/pinterest.md) · [Roblox (23)](../companies/roblox.md) · [Stripe (23)](../companies/stripe.md) · [Apple (19)](../companies/apple.md)
 
 <sub>Page [1](staff.md) · **2** · [3](staff-3.md)</sub>
 

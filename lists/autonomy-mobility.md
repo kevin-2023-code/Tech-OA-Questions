@@ -8,7 +8,7 @@
 
 **200 questions** · 25 from an OA · 41 reported in the last 90 days · 53 free to solve
 
-**By level:** 🎓 Intern & New grad (43) · 🌱 Mid (112) · 🎯 Senior (132) · 🚀 Staff+ (22)
+**By level:** 🎓 Intern & New grad (42) · 🌱 Mid (111) · 🎯 Senior (132) · 🚀 Staff+ (22)
 
 **By role:** 💻 Software Engineering (159) · 🤖 ML, AI & Research (22) · 📊 Data Science & Analytics (15) · 📈 Quantitative Finance (1)
 
@@ -188,6 +188,7 @@
 | **[Nuro](../companies/nuro.md)** | [Find gaps between intervals](https://trueinterview.io/questions/find-gaps-between-intervals) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-gaps-between-intervals) | Nov 9, 2025 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Arithmetic Expression Evaluator II](https://trueinterview.io/questions/78d6d121-b1eb-489a-ad84-0e90cce7d0fc) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/78d6d121-b1eb-489a-ad84-0e90cce7d0fc) | Nov 2025 |
 | **[WeRide](../companies/weride.md)** | [Minimize Cost to Make Blocks Unique](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Nov 2025 |
+| **[Rokt](../companies/rokt.md)** / [Instacart](../companies/instacart.md) / [WeRide](../companies/weride.md) | [Modified Basic Calculator](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Nov 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** / [WeRide](../companies/weride.md) | [Preprocess Dates](https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099) | Nov 2025 |
 | **[WeRide](../companies/weride.md)** | [Shortest Path to Collect All Coins](https://trueinterview.io/questions/ebc36290-8e59-49ee-aba8-88d6ce49f1cb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ebc36290-8e59-49ee-aba8-88d6ce49f1cb) | Nov 2025 |
 | **[Tesla](../companies/tesla.md)** | [First Solar Panel Placement in a Binary Grid](https://trueinterview.io/questions/solar-panel-placement-grid) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/solar-panel-placement-grid) | Oct 31, 2025 |
@@ -217,7 +218,6 @@
 | **[Tesla](../companies/tesla.md)** | [Decode Ways](https://trueinterview.io/questions/37632eca-7568-544f-bd3c-98fcd234717d) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/37632eca-7568-544f-bd3c-98fcd234717d) | — |
 | **[WeRide](../companies/weride.md)** | [Fibonacci Matrix Exponentiation](https://trueinterview.io/questions/86a07725-b6ab-462e-a70e-4b7543e61010) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/86a07725-b6ab-462e-a70e-4b7543e61010) | — |
 | **[Waymo](../companies/waymo.md)** | [How compare Waymo turning trajectories statistically](https://trueinterview.io/questions/how-compare-waymo-turning-trajectories-statistically) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-compare-waymo-turning-trajectories-statistically) | — |
-| **[WeRide](../companies/weride.md)** | [Implement a Calculator with Brackets](https://trueinterview.io/questions/9fc868b8-b683-4792-9f30-37e943638d43) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/9fc868b8-b683-4792-9f30-37e943638d43) | — |
 | **[WeRide](../companies/weride.md)** | [Is Bipartite Graph](https://trueinterview.io/questions/91f2f12c-8e72-43d8-9225-faacf732e455) | Phone | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/91f2f12c-8e72-43d8-9225-faacf732e455) | — |
 | **[WeRide](../companies/weride.md)** | [Long Break](https://trueinterview.io/questions/908737d5-1e10-4ed9-b0f6-e6c280b24347) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/908737d5-1e10-4ed9-b0f6-e6c280b24347) | — |
 | **[WeRide](../companies/weride.md)** | [Meetup Schedule](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | — |

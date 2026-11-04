@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Fintech, payments & crypto*.
 
-**509 questions** · 87 from an OA · 83 reported in the last 90 days · 159 free to solve
+**507 questions** · 87 from an OA · 83 reported in the last 90 days · 159 free to solve
 
-**By level:** 🎓 Intern & New grad (171) · 🌱 Mid (339) · 🎯 Senior (348) · 🚀 Staff+ (89)
+**By level:** 🎓 Intern & New grad (170) · 🌱 Mid (338) · 🎯 Senior (345) · 🚀 Staff+ (90)
 
-**By role:** 💻 Software Engineering (406) · 🤖 ML, AI & Research (11) · 📊 Data Science & Analytics (81) · 📈 Quantitative Finance (4) · 📱 Product Management (2)
+**By role:** 💻 Software Engineering (404) · 🤖 ML, AI & Research (11) · 📊 Data Science & Analytics (81) · 📈 Quantitative Finance (4) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (87) · 📞 Phone (233) · 🏢 Onsite (223)
+**Rounds:** 📝 OA (87) · 📞 Phone (233) · 🏢 Onsite (221)
 
-**Companies:** [Stripe (119)](../companies/stripe.md) · [Coinbase (87)](../companies/coinbase.md) · [Square (56)](../companies/square.md) · [Robinhood (54)](../companies/robinhood.md) · [Upstart (49)](../companies/upstart.md) · [PayPal (37)](../companies/paypal.md) · [SoFi (37)](../companies/sofi.md) · [Ramp (36)](../companies/ramp.md) · [Affirm (18)](../companies/affirm.md) · [Airwallex (13)](../companies/airwallex.md) · [Circle (6)](../companies/circle.md) · [OKX (6)](../companies/okx.md) · [Block (5)](../companies/block.md) · [Brex (4)](../companies/brex.md)
+**Companies:** [Stripe (119)](../companies/stripe.md) · [Coinbase (87)](../companies/coinbase.md) · [Square (56)](../companies/square.md) · [Robinhood (53)](../companies/robinhood.md) · [Upstart (49)](../companies/upstart.md) · [PayPal (37)](../companies/paypal.md) · [SoFi (37)](../companies/sofi.md) · [Ramp (36)](../companies/ramp.md) · [Affirm (18)](../companies/affirm.md) · [Airwallex (13)](../companies/airwallex.md) · [Circle (6)](../companies/circle.md) · [Block (5)](../companies/block.md) · [OKX (5)](../companies/okx.md) · [Brex (4)](../companies/brex.md)
 
 <sub>Page [1](fintech.md) · **2**</sub>
 
@@ -25,7 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Square](../companies/square.md)** | [Coin Flip Duel: Simulate HH Against HT](https://trueinterview.io/questions/coin-flip-race-simulation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/coin-flip-race-simulation) | — |
 | **[Coinbase](../companies/coinbase.md)** | [Compute adoption, latency, and cross-region transactions](https://trueinterview.io/questions/compute-adoption-latency-and-cross-region-transactions) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-adoption-latency-and-cross-region-transactions) | — |
 | **[Stripe](../companies/stripe.md)** | [Compute power and interpret uplift metrics](https://trueinterview.io/questions/compute-power-and-interpret-uplift-metrics) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-power-and-interpret-uplift-metrics) | — |
 | **[Stripe](../companies/stripe.md)** | [Compute Total Cost from Two Tables (SQL Aggregation + Join) with Tiered Fees Follow-up](https://trueinterview.io/questions/bdcdde80-7010-4c5f-b26c-7fc83901d0f9) | OA | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/bdcdde80-7010-4c5f-b26c-7fc83901d0f9) | — |
@@ -105,7 +104,6 @@
 | **[Square](../companies/square.md)** | [Randomized Partner Matching Across Repeated Rounds](https://trueinterview.io/questions/rotating-people-pairing) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/rotating-people-pairing) | — |
 | **[Square](../companies/square.md)** | [Randomized Two-Match Schedule Builder for a League](https://trueinterview.io/questions/round-robin-team-schedule) | Phone | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/round-robin-team-schedule) | — |
 | **[Square](../companies/square.md)** | [Ranking Players by Animal Counts With Tie Averaging](https://trueinterview.io/questions/animal-collection-owing-game) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/animal-collection-owing-game) | — |
-| **[OpenAI](../companies/openai.md)** / [ByteDance](../companies/bytedance.md) / [OKX](../companies/okx.md) | [Restore Valid IPv4 Addresses](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06) | — |
 | **[Square](../companies/square.md)** | [Round Trips and Happiest Route Over Flight Pairs](https://trueinterview.io/questions/airport-route-destination-query) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/airport-route-destination-query) | — |
 | **[Square](../companies/square.md)** | [Round-Robin Match Simulation With Power and ID Tiebreaks](https://trueinterview.io/questions/power-based-tournament-bracket) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/power-based-tournament-bracket) | — |
 | **[Square](../companies/square.md)** | [Route Class with Comparable Climbing Grades](https://trueinterview.io/questions/climbing-route-ratings) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/climbing-route-ratings) | — |

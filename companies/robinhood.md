@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Robinhood on TrueInterview](https://trueinterview.io/problems/company/robinhood) · [How Robinhood interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/robinhood/README.md)
 
-💳 Fintech, payments & crypto · **54 questions** · 1 from an OA · last reported Oct 2026
+💳 Fintech, payments & crypto · **53 questions** · 1 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (4) · 🌱 Mid (33) · 🎯 Senior (46) · 🚀 Staff+ (11)
+**By level:** 🎓 Intern & New grad (4) · 🌱 Mid (32) · 🎯 Senior (45) · 🚀 Staff+ (11)
 
-**By role:** 💻 Software Engineering (43) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (6) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (42) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (6) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (1) · 📞 Phone (23) · 🏢 Onsite (38)
+**Rounds:** 📝 OA (1) · 📞 Phone (23) · 🏢 Onsite (37)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/robinhood-interview-process) · [SWE](https://trueinterview.io/study/robinhood-software-engineer-interview-process) · [Frontend](https://trueinterview.io/study/robinhood-frontend-engineer-interview-process)
 
@@ -63,7 +63,6 @@
 | [Handle security vs velocity conflicts across teams](https://trueinterview.io/questions/handle-security-vs-velocity-conflicts-across-teams) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-security-vs-velocity-conflicts-across-teams) | Jan 22, 2026 |
 | [Security-Flavored Coding: Constrained Data Structure & Input Validation](https://trueinterview.io/questions/security-coding-constrained-ds-validation) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/security-coding-constrained-ds-validation) | Jan 9, 2026 |
 | [Count Trigger Events in Directed Acyclic Graph](https://trueinterview.io/questions/1c708aa4-2fbb-4cc4-ae73-3c423e4e9490) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1c708aa4-2fbb-4cc4-ae73-3c423e4e9490) | Dec 2025 |
-| [Friendship and Balance Tracker](https://trueinterview.io/questions/friendship-and-balance-tracker) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/friendship-and-balance-tracker) | Nov 4, 2025 |
 | [Distributed Job Scheduler II](https://trueinterview.io/questions/d7f93d7c-5482-4b4a-a828-ffa4e14efc86) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/d7f93d7c-5482-4b4a-a828-ffa4e14efc86) | Nov 2025 |
 | [Design an experiment to launch fractional shares](https://trueinterview.io/questions/design-an-experiment-to-launch-fractional-shares) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-experiment-to-launch-fractional-shares) | Oct 1, 2025 |
 | [Top 10 Words](https://trueinterview.io/questions/top-10-frequent-words) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/top-10-frequent-words) | Oct 2025 |

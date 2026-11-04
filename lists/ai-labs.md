@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *AI labs & AI infrastructure*.
 
-**504 questions** · 39 from an OA · 158 reported in the last 90 days · 153 free to solve
+**503 questions** · 39 from an OA · 158 reported in the last 90 days · 152 free to solve
 
-**By level:** 🎓 Intern & New grad (95) · 🌱 Mid (307) · 🎯 Senior (428) · 🚀 Staff+ (85)
+**By level:** 🎓 Intern & New grad (95) · 🌱 Mid (307) · 🎯 Senior (427) · 🚀 Staff+ (85)
 
-**By role:** 💻 Software Engineering (378) · 🤖 ML, AI & Research (103) · 📊 Data Science & Analytics (14) · 📈 Quantitative Finance (2) · 📱 Product Management (3)
+**By role:** 💻 Software Engineering (377) · 🤖 ML, AI & Research (103) · 📊 Data Science & Analytics (14) · 📈 Quantitative Finance (2) · 📱 Product Management (3)
 
-**Rounds:** 📝 OA (39) · 📞 Phone (264) · 🏢 Onsite (251) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (39) · 📞 Phone (263) · 🏢 Onsite (251) · 🏠 Take-home (5)
 
-**Companies:** [OpenAI (176)](../companies/openai.md) · [Anthropic (99)](../companies/anthropic.md) · [C3.ai (55)](../companies/c3-ai.md) · [xAI (43)](../companies/xai.md) · [Scale AI (35)](../companies/scale-ai.md) · [Perplexity (25)](../companies/perplexity.md) · [Harvey (23)](../companies/harvey.md) · [Mercor (14)](../companies/mercor.md) · [Microsoft AI (13)](../companies/microsoft-ai.md) · [Mistral AI (9)](../companies/mistral-ai.md) · [Cursor (7)](../companies/cursor.md) · [Luma AI (6)](../companies/luma-ai.md) · [Moveworks (6)](../companies/moveworks.md) · [Together AI (6)](../companies/together-ai.md) · [Cohere (3)](../companies/cohere.md)
+**Companies:** [OpenAI (175)](../companies/openai.md) · [Anthropic (99)](../companies/anthropic.md) · [C3.ai (55)](../companies/c3-ai.md) · [xAI (43)](../companies/xai.md) · [Scale AI (35)](../companies/scale-ai.md) · [Perplexity (25)](../companies/perplexity.md) · [Harvey (23)](../companies/harvey.md) · [Mercor (14)](../companies/mercor.md) · [Microsoft AI (13)](../companies/microsoft-ai.md) · [Mistral AI (9)](../companies/mistral-ai.md) · [Cursor (7)](../companies/cursor.md) · [Luma AI (6)](../companies/luma-ai.md) · [Moveworks (6)](../companies/moveworks.md) · [Together AI (6)](../companies/together-ai.md) · [Cohere (3)](../companies/cohere.md)
 
 <sub>Page **1** · [2](ai-labs-2.md)</sub>
 
@@ -153,7 +153,7 @@
 | **[C3.ai](../companies/c3-ai.md)** / [Meta](../companies/meta.md) | [Versioned Key-Value Store With Point-in-Time Reads](https://trueinterview.io/questions/time-based-key-value-store-3) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/time-based-key-value-store-3) | Sep 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Web Crawler](https://trueinterview.io/questions/web-crawler) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/web-crawler) | Sep 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Why Anthropic and its values?](https://trueinterview.io/questions/why-anthropic-and-its-values) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/why-anthropic-and-its-values) | Sep 2026 |
-| **[C3.ai](../companies/c3-ai.md)** | [Zero-Sum Triplets Without Duplicates](https://trueinterview.io/questions/three-sum) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/three-sum) | Sep 2026 |
+| **[C3.ai](../companies/c3-ai.md)** / [Microsoft](../companies/microsoft.md) / [NVIDIA](../companies/nvidia.md) / +1 | [Zero-Sum Triplets Without Duplicates](https://trueinterview.io/questions/three-sum) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/three-sum) | Sep 2026 |
 | **[Snowflake](../companies/snowflake.md)** / [ByteDance](../companies/bytedance.md) / [Databricks](../companies/databricks.md) / +1 | [Design In-Memory File System](https://trueinterview.io/questions/design-in-memory-file-system) | Phone · Onsite | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-in-memory-file-system) | Aug 31, 2026 |
 | **[Mercor](../companies/mercor.md)** | [Design a Project-to-Contractor Matching System](https://trueinterview.io/questions/design-a-project-to-contractor-matching-system) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-a-project-to-contractor-matching-system) | Aug 30, 2026 |
 | **[Mercor](../companies/mercor.md)** | [Shortest Grid Path with Obstacle Eliminations](https://trueinterview.io/questions/shortest-grid-path-with-obstacle-eliminations) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-grid-path-with-obstacle-eliminations) | Aug 30, 2026 |

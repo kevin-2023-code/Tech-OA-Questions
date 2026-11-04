@@ -8,11 +8,11 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**120 questions** · 57 from an OA · 30 reported in the last 90 days · 58 free to solve
+**119 questions** · 57 from an OA · 29 reported in the last 90 days · 58 free to solve
 
-**Rounds:** 📝 OA (57) · 📞 Phone (48) · 🏢 Onsite (18) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (57) · 📞 Phone (47) · 🏢 Onsite (18) · 🏠 Take-home (1)
 
-**Companies:** [Citadel (22)](../companies/citadel.md) · [Optiver (22)](../companies/optiver.md) · [Akuna Capital (18)](../companies/akuna-capital.md) · [Squarepoint (11)](../companies/squarepoint.md) · [Hudson River Trading (10)](../companies/hudson-river-trading.md) · [Two Sigma (8)](../companies/two-sigma.md) · [IMC (6)](../companies/imc.md) · [Goldman Sachs (5)](../companies/goldman-sachs.md) · [SIG (5)](../companies/sig.md) · [Jane Street (4)](../companies/jane-street.md) · [Voleon (4)](../companies/voleon.md) · [DRW (3)](../companies/drw.md) · [Point72 (3)](../companies/point72.md) · [Amazon (2)](../companies/amazon.md) · [ByteDance (2)](../companies/bytedance.md)
+**Companies:** [Citadel (22)](../companies/citadel.md) · [Optiver (22)](../companies/optiver.md) · [Akuna Capital (18)](../companies/akuna-capital.md) · [Hudson River Trading (10)](../companies/hudson-river-trading.md) · [Squarepoint (10)](../companies/squarepoint.md) · [Two Sigma (8)](../companies/two-sigma.md) · [IMC (6)](../companies/imc.md) · [Goldman Sachs (5)](../companies/goldman-sachs.md) · [SIG (5)](../companies/sig.md) · [Jane Street (4)](../companies/jane-street.md) · [Voleon (4)](../companies/voleon.md) · [DRW (3)](../companies/drw.md) · [Point72 (3)](../companies/point72.md) · [Amazon (2)](../companies/amazon.md) · [ByteDance (2)](../companies/bytedance.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -40,7 +40,6 @@
 | **[Jane Street](../companies/jane-street.md)** | [Solve probability and game-theory puzzles](https://trueinterview.io/questions/solve-probability-and-game-theory-puzzles) | Phone | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/solve-probability-and-game-theory-puzzles) | Sep 2026 |
 | **[Citadel](../companies/citadel.md)** / [IBM](../companies/ibm.md) / [Oracle](../companies/oracle.md) | [Token Expiry and Reset Management Problem](https://trueinterview.io/questions/847cd959-ce43-4a47-a335-5a919aa91579) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/847cd959-ce43-4a47-a335-5a919aa91579) | Sep 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Choose Between an Array and a Linked List](https://trueinterview.io/questions/choose-between-an-array-and-a-linked-list) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-between-an-array-and-a-linked-list) | Aug 29, 2026 |
-| **[Squarepoint](../companies/squarepoint.md)** / [Uber](../companies/uber.md) | [Shortest Subarray with at Least K Distinct Values](https://trueinterview.io/questions/shortest-subarray-with-at-least-k-distinct-values) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-subarray-with-at-least-k-distinct-values) | Aug 29, 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Evaluate a Hexadecimal Bitwise AND](https://trueinterview.io/questions/evaluate-a-hexadecimal-bitwise-and) | Phone | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-a-hexadecimal-bitwise-and) | Aug 26, 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Find the Maximum Value in a Binary Tree Recursively](https://trueinterview.io/questions/find-the-maximum-value-in-a-binary-tree-recursively) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-maximum-value-in-a-binary-tree-recursively) | Aug 26, 2026 |
 | **[IMC](../companies/imc.md)** | [Choose Between Two Machines and Allocate Work from Performance Curves](https://trueinterview.io/questions/choose-between-two-machines-and-allocate-work-from-performance-curves) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/choose-between-two-machines-and-allocate-work-from-performance-curves) | Aug 24, 2026 |

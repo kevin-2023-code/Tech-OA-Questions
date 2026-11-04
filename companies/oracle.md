@@ -6,11 +6,11 @@
 
 🏢 Enterprise & business software · **115 questions** · 10 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (20) · 🌱 Mid (65) · 🎯 Senior (83) · 🚀 Staff+ (1)
+**By level:** 🎓 Intern & New grad (20) · 🌱 Mid (66) · 🎯 Senior (82) · 🚀 Staff+ (1)
 
 **By role:** 💻 Software Engineering (105) · 🤖 ML, AI & Research (5) · 📊 Data Science & Analytics (3) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (10) · 📞 Phone (58) · 🏢 Onsite (54)
+**Rounds:** 📝 OA (10) · 📞 Phone (59) · 🏢 Onsite (53)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/oracle-interview-process)
 
@@ -40,6 +40,7 @@
 | [Binary Tree Paths With Target Sum](https://trueinterview.io/questions/7c3b95ff-ace7-5377-a58a-332635b2b2e7)<br><sub>also [ByteDance](../companies/bytedance.md) / [Meta](../companies/meta.md)</sub> | Phone | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7c3b95ff-ace7-5377-a58a-332635b2b2e7) | Sep 2026 |
 | [Design a ride-sharing system (Uber)](https://trueinterview.io/questions/design-a-ride-sharing-system-uber)<br><sub>also [Meta](../companies/meta.md)</sub> | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-ride-sharing-system-uber) | Sep 2026 |
 | [Event Ingestion + Top-K Aggregation](https://trueinterview.io/questions/system-design-event-ingestion-topk) | Onsite | Senior | System design | [![Free][f]](https://trueinterview.io/questions/system-design-event-ingestion-topk) | Sep 2026 |
+| [Find Course Order](https://trueinterview.io/questions/d595d212-9c6c-597e-aabe-752c6e2dc8a2)<br><sub>also [Google](../companies/google.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d595d212-9c6c-597e-aabe-752c6e2dc8a2) | Sep 2026 |
 | [Find Users with Valid Login Sessions](https://trueinterview.io/questions/a780c95b-69ec-4029-b04a-55101695e5d1)<br><sub>also [LinkedIn](../companies/linkedin.md)</sub> | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/a780c95b-69ec-4029-b04a-55101695e5d1) | Sep 2026 |
 | [Maximum of Minimums of Every Window](https://trueinterview.io/questions/4ffe3fac-ea66-5d5f-8331-b09736fb1392) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4ffe3fac-ea66-5d5f-8331-b09736fb1392) | Sep 2026 |
 | [Maximum Subarray Sum with Length at Most K](https://trueinterview.io/questions/c950578d-97d8-5e4e-a160-d010bbf52edb) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c950578d-97d8-5e4e-a160-d010bbf52edb) | Sep 2026 |
@@ -82,6 +83,7 @@
 | [Swap Two Variables Without Using Temporary Variable](https://trueinterview.io/questions/68870b4c-8508-4508-88c9-186133ebadf8)<br><sub>also [Apple](../companies/apple.md)</sub> | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/68870b4c-8508-4508-88c9-186133ebadf8) | Aug 2026 |
 | [Top K Frequent Elements with Descending Value Tie-Break](https://trueinterview.io/questions/fafdcfea-e85a-522c-a5d1-256c48782c32)<br><sub>also [Amazon](../companies/amazon.md)</sub> | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fafdcfea-e85a-522c-a5d1-256c48782c32) | Aug 2026 |
 | [VM Health Monitoring at 1M Scale](https://trueinterview.io/questions/system-design-vm-health-monitoring) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-vm-health-monitoring) | Aug 2026 |
+| [Insert Interval (LC 57)](https://trueinterview.io/questions/insert-interval)<br><sub>also [Apple](../companies/apple.md) / [Uber](../companies/uber.md)</sub> | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/insert-interval) | Jul 28, 2026 |
 | [Evaluate Subjective, Nondeterministic Agent Outputs](https://trueinterview.io/questions/evaluate-subjective-agent-outputs) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-subjective-agent-outputs) | Jul 18, 2026 |
 | [Implement Queue using Two Stacks](https://trueinterview.io/questions/fcc37027-f6b7-49ec-85c1-100853576313)<br><sub>also [Goldman Sachs](../companies/goldman-sachs.md) / [LinkedIn](../companies/linkedin.md)</sub> | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/fcc37027-f6b7-49ec-85c1-100853576313) | Jul 2026 |
 | [Maximum on Both Sides](https://trueinterview.io/questions/f547b32a-e42e-4a0e-899e-a8d686990998)<br><sub>also [eBay](../companies/ebay.md) / [NVIDIA](../companies/nvidia.md)</sub> | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f547b32a-e42e-4a0e-899e-a8d686990998) | Jun 2026 |
@@ -102,7 +104,6 @@
 | [Simplified Redis-Like KV / List Store](https://trueinterview.io/questions/simplified-redis-kv-store) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/simplified-redis-kv-store) | Feb 4, 2026 |
 | [Apply List of Operations (Command Pattern)](https://trueinterview.io/questions/apply-operations-command-pattern) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/apply-operations-command-pattern) | Feb 3, 2026 |
 | [Generate all permutations of a list](https://trueinterview.io/questions/55b47ffb-5c4d-4c32-b3fc-350263687e62)<br><sub>also [Apple](../companies/apple.md)</sub> | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/55b47ffb-5c4d-4c32-b3fc-350263687e62) | Feb 2026 |
-| [Return a valid course completion order](https://trueinterview.io/questions/return-a-valid-course-completion-order) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/return-a-valid-course-completion-order) | Jan 26, 2026 |
 | [Handwritten MHA and Sparse Matmul](https://trueinterview.io/questions/ml-coding-mha-sparse-matmul) | Phone | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/ml-coding-mha-sparse-matmul) | Jan 22, 2026 |
 | [Multi-Head Attention (from scratch)](https://trueinterview.io/questions/ml-coding-mha-sparse-matmul-multi-head-attention-from-scratch) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ml-coding-mha-sparse-matmul-multi-head-attention-from-scratch) | Jan 22, 2026 |
 | [Most Frequent Substring](https://trueinterview.io/questions/most-frequent-substring)<br><sub>also [HubSpot](../companies/hubspot.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/most-frequent-substring) | Jan 19, 2026 |
@@ -132,7 +133,6 @@
 | [Body-Temperature Measurement Classes](https://trueinterview.io/questions/ood-patient-temperature-classes) | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/ood-patient-temperature-classes) | Jan 15, 2025 |
 | [Design Authentication Manager](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a)<br><sub>also [IBM](../companies/ibm.md)</sub> | Onsite | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a) | — |
 | [Dropped Requests Rate Limiter II](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | — |
-| [Insert Intervals with Set](https://trueinterview.io/questions/c7b0a764-6082-4594-b239-e18448718a1c)<br><sub>also [Uber](../companies/uber.md)</sub> | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c7b0a764-6082-4594-b239-e18448718a1c) | — |
 | [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de)<br><sub>also [Meta](../companies/meta.md) / [IBM](../companies/ibm.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | — |
 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | [Sum of Root To Leaf Binary Numbers](https://trueinterview.io/questions/dc973cce-cdef-5be4-b8d4-83e37296c291) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/dc973cce-cdef-5be4-b8d4-83e37296c291) | — |

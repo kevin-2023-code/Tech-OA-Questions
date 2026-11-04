@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Asana on TrueInterview](https://trueinterview.io/problems/company/asana) · [How Asana interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/asana/README.md)
 
-**11 questions** · last reported Apr 2026
+**11 questions** · last reported Jul 2026
 
-**By level:** 🎓 Intern & New grad (1) · 🌱 Mid (6) · 🎯 Senior (10) · 🚀 Staff+ (4)
+**By level:** 🌱 Mid (6) · 🎯 Senior (10) · 🚀 Staff+ (4)
 
 **By role:** 💻 Software Engineering (11)
 
-**Rounds:** 📞 Phone (4) · 🏢 Onsite (7)
+**Rounds:** 📞 Phone (5) · 🏢 Onsite (6)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -19,9 +19,9 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
+| [Product of Array Except Self](https://trueinterview.io/questions/product-of-array-except-self)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [GEICO](../companies/geico.md) / +2</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/product-of-array-except-self) | Jul 2026 |
 | [Design and Solve a Rotatable Jigsaw Puzzle](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-and-solve-a-rotatable-jigsaw-puzzle) | Apr 13, 2026 |
 | [Answer Manager Behavioral Prompts](https://trueinterview.io/questions/answer-manager-behavioral-prompts) | Onsite | Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-manager-behavioral-prompts) | Apr 2, 2026 |
-| [Compute Products Excluding Each Index](https://trueinterview.io/questions/compute-products-excluding-each-index) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-products-excluding-each-index) | Apr 2, 2026 |
 | [Design a 2048 Game](https://trueinterview.io/questions/design-a-2048-game) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-2048-game) | Apr 2, 2026 |
 | [Design a Collaborative Todo List](https://trueinterview.io/questions/design-a-collaborative-todo-list) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-collaborative-todo-list) | Apr 2, 2026 |
 | [Implement an ASCII Art Printer](https://trueinterview.io/questions/implement-an-ascii-art-printer) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-an-ascii-art-printer) | Apr 2, 2026 |

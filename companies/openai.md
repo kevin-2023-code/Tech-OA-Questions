@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice OpenAI on TrueInterview](https://trueinterview.io/problems/company/openai) · [How OpenAI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/openai/README.md)
 
-🧠 AI labs & AI infrastructure · **176 questions** · 9 from an OA · last reported Oct 2026
+🧠 AI labs & AI infrastructure · **175 questions** · 9 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (12) · 🌱 Mid (89) · 🎯 Senior (159) · 🚀 Staff+ (30)
+**By level:** 🎓 Intern & New grad (12) · 🌱 Mid (89) · 🎯 Senior (158) · 🚀 Staff+ (30)
 
-**By role:** 💻 Software Engineering (120) · 🤖 ML, AI & Research (47) · 📊 Data Science & Analytics (6) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (119) · 🤖 ML, AI & Research (47) · 📊 Data Science & Analytics (6) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (9) · 📞 Phone (93) · 🏢 Onsite (93)
+**Rounds:** 📝 OA (9) · 📞 Phone (92) · 🏢 Onsite (93)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/openai-interview-process) · [SWE](https://trueinterview.io/study/openai-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/openai-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/openai-research-scientist-interview-process) · [AI engineer](https://trueinterview.io/study/openai-ai-engineer-interview-process) · [Infra](https://trueinterview.io/study/openai-infrastructure-engineer-interview-process) · [Frontend](https://trueinterview.io/study/openai-frontend-engineer-interview-process)
 
@@ -194,6 +194,5 @@
 | [Math + Coding + Research Brainstorm (Notebook-based)](https://trueinterview.io/questions/d249ed6c-598c-435e-ba34-56d4c3aded8f) | Onsite | New grad · Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/d249ed6c-598c-435e-ba34-56d4c3aded8f) | — |
 | [Multiprocessing Debugging for Neural Network Propagation](https://trueinterview.io/questions/a91050eb-ce04-4669-81b0-4219d72e6661) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/a91050eb-ce04-4669-81b0-4219d72e6661) | — |
 | [Reproduce Double Descent in Linear Regression](https://trueinterview.io/questions/a5c37bda-f1a1-528d-b6aa-0968b57e250a) | Onsite | New grad · Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/a5c37bda-f1a1-528d-b6aa-0968b57e250a) | — |
-| [Restore Valid IPv4 Addresses](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06)<br><sub>also [ByteDance](../companies/bytedance.md) / [OKX](../companies/okx.md)</sub> | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/b4ff5eff-1541-5da7-b251-598d75a41f06) | — |
 | [Spreadsheet Implementation with Cycle Detection and Caching](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | — |
 | [Write SQL for post-trial conversion cohorts](https://trueinterview.io/questions/write-sql-for-post-trial-conversion-cohorts) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-post-trial-conversion-cohorts) | — |

@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,346 questions** · 12 from an OA · 575 reported in the last 90 days · 769 free to solve
+**2,337 questions** · 12 from an OA · 574 reported in the last 90 days · 770 free to solve
 
-**By level:** 🎓 Intern & New grad (386) · 🌱 Mid (1,235) · 🎯 Senior (1,880) · 🚀 Staff+ (535)
+**By level:** 🎓 Intern & New grad (384) · 🌱 Mid (1,229) · 🎯 Senior (1,872) · 🚀 Staff+ (535)
 
-**By role:** 💻 Software Engineering (1,635) · 🤖 ML, AI & Research (262) · 📊 Data Science & Analytics (326) · 📈 Quantitative Finance (60) · 📱 Product Management (26) · 🔧 Hardware Engineering (4)
+**By role:** 💻 Software Engineering (1,627) · 🤖 ML, AI & Research (262) · 📊 Data Science & Analytics (326) · 📈 Quantitative Finance (60) · 📱 Product Management (26) · 🔧 Hardware Engineering (4)
 
-**Companies:** [Meta (231)](../companies/meta.md) · [Amazon (209)](../companies/amazon.md) · [Google (167)](../companies/google.md) · [Microsoft (120)](../companies/microsoft.md) · [Uber (106)](../companies/uber.md) · [ByteDance (95)](../companies/bytedance.md) · [OpenAI (93)](../companies/openai.md) · [DoorDash (81)](../companies/doordash.md) · [LinkedIn (76)](../companies/linkedin.md) · [Netflix (72)](../companies/netflix.md) · [Pinterest (62)](../companies/pinterest.md) · [Snowflake (61)](../companies/snowflake.md) · [Capital One (60)](../companies/capital-one.md) · [Airbnb (59)](../companies/airbnb.md) · [Apple (57)](../companies/apple.md) · [Databricks (57)](../companies/databricks.md) · [Anthropic (55)](../companies/anthropic.md) · [Oracle (54)](../companies/oracle.md) · [Stripe (50)](../companies/stripe.md) · [Coinbase (49)](../companies/coinbase.md)
+**Companies:** [Meta (232)](../companies/meta.md) · [Amazon (207)](../companies/amazon.md) · [Google (167)](../companies/google.md) · [Microsoft (121)](../companies/microsoft.md) · [Uber (106)](../companies/uber.md) · [ByteDance (94)](../companies/bytedance.md) · [OpenAI (93)](../companies/openai.md) · [DoorDash (81)](../companies/doordash.md) · [LinkedIn (76)](../companies/linkedin.md) · [Netflix (72)](../companies/netflix.md) · [Pinterest (62)](../companies/pinterest.md) · [Snowflake (61)](../companies/snowflake.md) · [Capital One (60)](../companies/capital-one.md) · [Airbnb (58)](../companies/airbnb.md) · [Apple (57)](../companies/apple.md) · [Databricks (57)](../companies/databricks.md) · [Anthropic (55)](../companies/anthropic.md) · [Oracle (53)](../companies/oracle.md) · [Stripe (50)](../companies/stripe.md) · [Coinbase (48)](../companies/coinbase.md)
 
 <sub>Page **1** · [2](onsite-2.md) · [3](onsite-3.md) · [4](onsite-4.md) · [5](onsite-5.md) · [6](onsite-6.md)</sub>
 

@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Salesforce on TrueInterview](https://trueinterview.io/problems/company/salesforce) · [How Salesforce interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/salesforce/README.md)
 
-🏢 Enterprise & business software · **100 questions** · 25 from an OA · last reported Oct 2026
+🏢 Enterprise & business software · **99 questions** · 25 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (34) · 🌱 Mid (55) · 🎯 Senior (71) · 🚀 Staff+ (7)
+**By level:** 🎓 Intern & New grad (35) · 🌱 Mid (55) · 🎯 Senior (71) · 🚀 Staff+ (7)
 
-**By role:** 💻 Software Engineering (97) · 🤖 ML, AI & Research (2) · 📊 Data Science & Analytics (1)
+**By role:** 💻 Software Engineering (96) · 🤖 ML, AI & Research (2) · 📊 Data Science & Analytics (1)
 
-**Rounds:** 📝 OA (25) · 📞 Phone (47) · 🏢 Onsite (35) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (25) · 📞 Phone (47) · 🏢 Onsite (34) · 🏠 Take-home (1)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/salesforce-interview-process)
 
@@ -28,7 +28,8 @@
 | [Design an Idempotent Payment Processing Platform](https://trueinterview.io/questions/design-an-idempotent-payment-processing-platform) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-idempotent-payment-processing-platform) | Sep 2026 |
 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +6</sub> | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | [Implement Merge Sort and Explain Its Recursion Tree](https://trueinterview.io/questions/fd482349-0d16-53dc-92d1-556d697f78c4) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fd482349-0d16-53dc-92d1-556d697f78c4) | Sep 2026 |
-| [LFU Cache](https://trueinterview.io/questions/lfu-cache)<br><sub>also [Apple](../companies/apple.md) / [Google](../companies/google.md) / [LinkedIn](../companies/linkedin.md) / +1</sub> | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/lfu-cache) | Sep 2026 |
+| [LFU Cache](https://trueinterview.io/questions/lfu-cache)<br><sub>also [Apple](../companies/apple.md) / [Google](../companies/google.md) / [LinkedIn](../companies/linkedin.md) / +2</sub> | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/lfu-cache) | Sep 2026 |
+| [Longest Substring Without Repeating Characters II](https://trueinterview.io/questions/longest-substring-without-repeating-characters)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7</sub> | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Sep 2026 |
 | [Maximum Requests in a Time Window](https://trueinterview.io/questions/maximum-requests-in-time-window) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-requests-in-time-window) | Sep 2026 |
 | [Print All Parent Keys in a Nested Map](https://trueinterview.io/questions/a7ce2cbb-cf93-5959-9403-38c7e5839ab8) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/a7ce2cbb-cf93-5959-9403-38c7e5839ab8) | Sep 2026 |
 | [String Anagram Windows](https://trueinterview.io/questions/44f7611e-614f-4bde-9a4e-75bccab17ace)<br><sub>also [ByteDance](../companies/bytedance.md) / [Databricks](../companies/databricks.md) / [Microsoft](../companies/microsoft.md) / +1</sub> | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/44f7611e-614f-4bde-9a4e-75bccab17ace) | Sep 2026 |
@@ -109,7 +110,6 @@
 | [Get Node To Remove](https://trueinterview.io/questions/ed5d75fb-ab61-493a-8093-c5164fc7d293) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ed5d75fb-ab61-493a-8093-c5164fc7d293) | — |
 | [Get Perfect Pairs Count](https://trueinterview.io/questions/b738f1a9-80bb-420c-b1e1-26d677279f90)<br><sub>also [Snowflake](../companies/snowflake.md)</sub> | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b738f1a9-80bb-420c-b1e1-26d677279f90) | — |
 | [Get Special Substring (MTS)](https://trueinterview.io/questions/5e82414b-11b4-4b76-93fc-3ab5dc368f3e) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5e82414b-11b4-4b76-93fc-3ab5dc368f3e) | — |
-| [LFU Cache II](https://trueinterview.io/questions/c488db3c-4149-4a40-8d6d-baca65c23221)<br><sub>also [Verkada](../companies/verkada.md)</sub> | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c488db3c-4149-4a40-8d6d-baca65c23221) | — |
 | [Max Number of Operations](https://trueinterview.io/questions/9199cd77-9bb2-415d-b4ba-0e50f824e949) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/9199cd77-9bb2-415d-b4ba-0e50f824e949) | — |
 | [Min Cost to Complete All Projects](https://trueinterview.io/questions/08ff536a-d720-46c5-be65-d1ae3443bead) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/08ff536a-d720-46c5-be65-d1ae3443bead) | — |
 | [Minimize Length of Longest Substring](https://trueinterview.io/questions/58c4ff99-6edc-4bf8-a18a-33ee1f085852) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/58c4ff99-6edc-4bf8-a18a-33ee1f085852) | — |
@@ -118,6 +118,5 @@
 | [Most Visited Marker in Sprint Training](https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f) | — |
 | [Plan Cuts](https://trueinterview.io/questions/ab773d52-94f1-4fd6-bfab-5f1fd5b30525) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ab773d52-94f1-4fd6-bfab-5f1fd5b30525) | — |
 | [Schedule Batch Difference](https://trueinterview.io/questions/196f56f0-c674-4d5d-b2f4-8e5f97f8e0c1) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/196f56f0-c674-4d5d-b2f4-8e5f97f8e0c1) | — |
-| [Sliding Window Character Count](https://trueinterview.io/questions/dcaaca5a-56c3-438b-b2c3-0cfb7567fcc0) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/dcaaca5a-56c3-438b-b2c3-0cfb7567fcc0) | — |
 | [Spam Classification](https://trueinterview.io/questions/32ae8ac4-07db-42b6-9ace-a99f3b13c4ed) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/32ae8ac4-07db-42b6-9ace-a99f3b13c4ed) | — |
 | [Tool Changer](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | — |

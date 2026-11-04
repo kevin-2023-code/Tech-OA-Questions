@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,346 questions** · 12 from an OA · 575 reported in the last 90 days · 769 free to solve
+**2,337 questions** · 12 from an OA · 574 reported in the last 90 days · 770 free to solve
 
-**By level:** 🎓 Intern & New grad (386) · 🌱 Mid (1,235) · 🎯 Senior (1,880) · 🚀 Staff+ (535)
+**By level:** 🎓 Intern & New grad (384) · 🌱 Mid (1,229) · 🎯 Senior (1,872) · 🚀 Staff+ (535)
 
-**By role:** 💻 Software Engineering (1,635) · 🤖 ML, AI & Research (262) · 📊 Data Science & Analytics (326) · 📈 Quantitative Finance (60) · 📱 Product Management (26) · 🔧 Hardware Engineering (4)
+**By role:** 💻 Software Engineering (1,627) · 🤖 ML, AI & Research (262) · 📊 Data Science & Analytics (326) · 📈 Quantitative Finance (60) · 📱 Product Management (26) · 🔧 Hardware Engineering (4)
 
-**Companies:** [Meta (231)](../companies/meta.md) · [Amazon (209)](../companies/amazon.md) · [Google (167)](../companies/google.md) · [Microsoft (120)](../companies/microsoft.md) · [Uber (106)](../companies/uber.md) · [ByteDance (95)](../companies/bytedance.md) · [OpenAI (93)](../companies/openai.md) · [DoorDash (81)](../companies/doordash.md) · [LinkedIn (76)](../companies/linkedin.md) · [Netflix (72)](../companies/netflix.md) · [Pinterest (62)](../companies/pinterest.md) · [Snowflake (61)](../companies/snowflake.md) · [Capital One (60)](../companies/capital-one.md) · [Airbnb (59)](../companies/airbnb.md) · [Apple (57)](../companies/apple.md) · [Databricks (57)](../companies/databricks.md) · [Anthropic (55)](../companies/anthropic.md) · [Oracle (54)](../companies/oracle.md) · [Stripe (50)](../companies/stripe.md) · [Coinbase (49)](../companies/coinbase.md)
+**Companies:** [Meta (232)](../companies/meta.md) · [Amazon (207)](../companies/amazon.md) · [Google (167)](../companies/google.md) · [Microsoft (121)](../companies/microsoft.md) · [Uber (106)](../companies/uber.md) · [ByteDance (94)](../companies/bytedance.md) · [OpenAI (93)](../companies/openai.md) · [DoorDash (81)](../companies/doordash.md) · [LinkedIn (76)](../companies/linkedin.md) · [Netflix (72)](../companies/netflix.md) · [Pinterest (62)](../companies/pinterest.md) · [Snowflake (61)](../companies/snowflake.md) · [Capital One (60)](../companies/capital-one.md) · [Airbnb (58)](../companies/airbnb.md) · [Apple (57)](../companies/apple.md) · [Databricks (57)](../companies/databricks.md) · [Anthropic (55)](../companies/anthropic.md) · [Oracle (53)](../companies/oracle.md) · [Stripe (50)](../companies/stripe.md) · [Coinbase (48)](../companies/coinbase.md)
 
 <sub>Page [1](onsite.md) · [2](onsite-2.md) · **3** · [4](onsite-4.md) · [5](onsite-5.md) · [6](onsite-6.md)</sub>
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Pinterest](../companies/pinterest.md)** | [ML Fundamentals Quick-Fire](https://trueinterview.io/questions/ml-fundamentals-quick-fire) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/ml-fundamentals-quick-fire) | Jun 30, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Object-Oriented Design Round](https://trueinterview.io/questions/object-oriented-design-round) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/object-oriented-design-round) | Jun 30, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Dependency Ordering With Topological Sort](https://trueinterview.io/questions/topological-sort-with-ordering) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/topological-sort-with-ordering) | Jun 29, 2026 |
 | **[Intuit](../companies/intuit.md)** | [Premium Product Recommendation System](https://trueinterview.io/questions/premium-product-recommendation-system) | Phone · Onsite | Mid · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/premium-product-recommendation-system) | Jun 28, 2026 |
@@ -79,7 +78,6 @@
 | **[Meta](../companies/meta.md)** | [Shared Substring in String List](https://trueinterview.io/questions/ai-coding-substring-from-list) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/ai-coding-substring-from-list) | Jun 9, 2026 |
 | **[Snowflake](../companies/snowflake.md)** / [Apple](../companies/apple.md) | [Happy Number](https://trueinterview.io/questions/3a2210a0-15ef-5007-840a-e26869dbf4a9) | Phone · Onsite | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/3a2210a0-15ef-5007-840a-e26869dbf4a9) | Jun 8, 2026 |
 | **[Uber](../companies/uber.md)** | [Construct Quad Tree](https://trueinterview.io/questions/construct-quad-tree) | OA · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/construct-quad-tree) | Jun 6, 2026 |
-| **[ByteDance](../companies/bytedance.md)** / [Amazon](../companies/amazon.md) | [Course Schedule and Topological Sort on a Directed Graph](https://trueinterview.io/questions/course-schedule-topo-sort) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/course-schedule-topo-sort) | Jun 6, 2026 |
 | **[Uber](../companies/uber.md)** | [Random Bingo Card Generator](https://trueinterview.io/questions/bingo-card-generator) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bingo-card-generator) | Jun 6, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [In-Memory Cache: Bug-Fix + Durability](https://trueinterview.io/questions/coding-q2-lru-cache-durability) | Phone · Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/coding-q2-lru-cache-durability) | Jun 4, 2026 |
 | **[SoFi](../companies/sofi.md)** | [Manager Behavioral and Project Deep Dive](https://trueinterview.io/questions/manager-behavioral-and-project-deep-dive) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/manager-behavioral-and-project-deep-dive) | Jun 4, 2026 |
@@ -421,5 +419,7 @@
 | **[Netflix](../companies/netflix.md)** | [Organization tree traversal](https://trueinterview.io/questions/implement-caches-undo-and-traversal-organization-tree-traversal) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-caches-undo-and-traversal-organization-tree-traversal) | Apr 3, 2026 |
 | **[Stripe](../companies/stripe.md)** | [String Path Compression](https://trueinterview.io/questions/string-path-compression) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/string-path-compression) | Apr 3, 2026 |
 | **[Asana](../companies/asana.md)** | [Answer Manager Behavioral Prompts](https://trueinterview.io/questions/answer-manager-behavioral-prompts) | Onsite | Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-manager-behavioral-prompts) | Apr 2, 2026 |
+| **[OpenAI](../companies/openai.md)** | [Compute Matrix Prefix Products And Gradients](https://trueinterview.io/questions/compute-matrix-prefix-products-and-gradients) | Onsite | Senior · Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-matrix-prefix-products-and-gradients) | Apr 2, 2026 |
+| **[DoorDash](../companies/doordash.md)** | [Customer Review Page (EM)](https://trueinterview.io/questions/system-design-customer-review-page-em) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-customer-review-page-em) | Apr 2, 2026 |
 
 <sub>Page [1](onsite.md) · [2](onsite-2.md) · **3** · [4](onsite-4.md) · [5](onsite-5.md) · [6](onsite-6.md)</sub>

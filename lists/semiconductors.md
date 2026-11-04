@@ -6,13 +6,13 @@
 
 > **Industry:** Employers the shared company registry files under *Semiconductors & chips*.
 
-**64 questions** · 4 from an OA · 16 reported in the last 90 days · 32 free to solve
+**64 questions** · 4 from an OA · 17 reported in the last 90 days · 32 free to solve
 
 **By level:** 🎓 Intern & New grad (16) · 🌱 Mid (37) · 🎯 Senior (50) · 🚀 Staff+ (14)
 
 **By role:** 💻 Software Engineering (47) · 🤖 ML, AI & Research (8) · 📊 Data Science & Analytics (8) · 🔧 Hardware Engineering (1)
 
-**Rounds:** 📝 OA (4) · 📞 Phone (38) · 🏢 Onsite (31)
+**Rounds:** 📝 OA (4) · 📞 Phone (37) · 🏢 Onsite (32)
 
 **Companies:** [NVIDIA (54)](../companies/nvidia.md) · [AMD (10)](../companies/amd.md)
 
@@ -34,8 +34,9 @@
 | **[AMD](../companies/amd.md)** | [Optimize the Memory Accesses of a GPU Matrix Transpose](https://trueinterview.io/questions/optimize-the-memory-accesses-of-a-gpu-matrix-transpose) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/optimize-the-memory-accesses-of-a-gpu-matrix-transpose) | Sep 14, 2026 |
 | **[AMD](../companies/amd.md)** | [Trace an LLM Request Through a Paged-KV Inference Engine](https://trueinterview.io/questions/trace-an-llm-request-through-a-paged-kv-inference-engine) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/trace-an-llm-request-through-a-paged-kv-inference-engine) | Sep 14, 2026 |
 | **[AMD](../companies/amd.md)** | [Use the Roofline Model to Analyze Prefill and Decoding](https://trueinterview.io/questions/use-the-roofline-model-to-analyze-prefill-and-decoding) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/use-the-roofline-model-to-analyze-prefill-and-decoding) | Sep 14, 2026 |
-| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [Longest Substring Without Repeating Characters II](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Sep 2026 |
+| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +8 | [Longest Substring Without Repeating Characters II](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Sep 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +11 | [Valid Parentheses](https://trueinterview.io/questions/valid-parentheses) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/valid-parentheses) | Sep 2026 |
+| **[C3.ai](../companies/c3-ai.md)** / [Microsoft](../companies/microsoft.md) / [NVIDIA](../companies/nvidia.md) / +1 | [Zero-Sum Triplets Without Duplicates](https://trueinterview.io/questions/three-sum) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/three-sum) | Sep 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [eBay](../companies/ebay.md) / [NVIDIA](../companies/nvidia.md) | [Search in Rotated Sorted Array](https://trueinterview.io/questions/search-in-rotated-sorted-array) | Phone · Onsite | Intern · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/search-in-rotated-sorted-array) | Aug 21, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Design an Autonomous-Vehicle Perception Pipeline](https://trueinterview.io/questions/design-an-autonomous-vehicle-perception-pipeline) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-autonomous-vehicle-perception-pipeline) | Aug 19, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Implement and Explain a C++ Smart Pointer](https://trueinterview.io/questions/implement-and-explain-a-cplusplus-smart-pointer) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-and-explain-a-cplusplus-smart-pointer) | Aug 19, 2026 |
@@ -80,7 +81,6 @@
 | **[NVIDIA](../companies/nvidia.md)** | [C++ Debugging and Output Prediction (Pointers, Inheritance, Multithreading)](https://trueinterview.io/questions/c9faf9f0-abee-46fa-8223-55faa41d234f) | Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/c9faf9f0-abee-46fa-8223-55faa41d234f) | — |
 | **[NVIDIA](../companies/nvidia.md)** | [Demonstrate cultural fit and sales-oriented leadership](https://trueinterview.io/questions/demonstrate-cultural-fit-and-sales-oriented-leadership) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/demonstrate-cultural-fit-and-sales-oriented-leadership) | — |
 | **[NVIDIA](../companies/nvidia.md)** | [Design and explain robust web APIs for ML inference](https://trueinterview.io/questions/design-and-explain-robust-web-apis-for-ml-inference) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-and-explain-robust-web-apis-for-ml-inference) | — |
-| **[Visa](../companies/visa.md)** / [NVIDIA](../companies/nvidia.md) | [Find All Unique Triplets Summing to Zero in Array](https://trueinterview.io/questions/b5288bfc-ed12-420e-ba65-0f1987df2acb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b5288bfc-ed12-420e-ba65-0f1987df2acb) | — |
 | **[NVIDIA](../companies/nvidia.md)** | [Log Parser for Top N Items](https://trueinterview.io/questions/7c107386-3c24-4acd-9385-b7d274fca67b) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7c107386-3c24-4acd-9385-b7d274fca67b) | — |
 | **[NVIDIA](../companies/nvidia.md)** | [Reflect on interview takeaways and adaptation](https://trueinterview.io/questions/reflect-on-interview-takeaways-and-adaptation) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/reflect-on-interview-takeaways-and-adaptation) | — |
 | **[NVIDIA](../companies/nvidia.md)** | [Resolve conflict and learn from failure](https://trueinterview.io/questions/resolve-conflict-and-learn-from-failure) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resolve-conflict-and-learn-from-failure) | — |

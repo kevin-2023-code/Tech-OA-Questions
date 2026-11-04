@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**662 questions** · 53 from an OA · 161 reported in the last 90 days · 84 free to solve
+**659 questions** · 53 from an OA · 161 reported in the last 90 days · 85 free to solve
 
-**By level:** 🎓 Intern & New grad (124) · 🌱 Mid (458) · 🎯 Senior (448) · 🚀 Staff+ (21)
+**By level:** 🎓 Intern & New grad (123) · 🌱 Mid (455) · 🎯 Senior (446) · 🚀 Staff+ (21)
 
-**Rounds:** 📝 OA (53) · 📞 Phone (235) · 🏢 Onsite (439) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (53) · 📞 Phone (234) · 🏢 Onsite (437) · 🏠 Take-home (1)
 
 **Companies:** [Amazon (48)](../companies/amazon.md) · [Coinbase (32)](../companies/coinbase.md) · [Google (32)](../companies/google.md) · [Microsoft (32)](../companies/microsoft.md) · [OpenAI (32)](../companies/openai.md) · [Airbnb (27)](../companies/airbnb.md) · [Anthropic (26)](../companies/anthropic.md) · [LinkedIn (26)](../companies/linkedin.md) · [Netflix (24)](../companies/netflix.md) · [Uber (24)](../companies/uber.md) · [ByteDance (22)](../companies/bytedance.md) · [Apple (19)](../companies/apple.md) · [Oracle (19)](../companies/oracle.md) · [Bloomberg (16)](../companies/bloomberg.md) · [Citadel (16)](../companies/citadel.md)
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Netflix](../companies/netflix.md)** | [Double-Checked Locking / Locking Correctness in Multithreaded Code](https://trueinterview.io/questions/6bcb25e8-ba72-4809-9b07-09b387195248) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/6bcb25e8-ba72-4809-9b07-09b387195248) | Mar 2026 |
 | **[Dropbox](../companies/dropbox.md)** | [File Crawler](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Mar 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Find the Celebrity with Minimum API Calls](https://trueinterview.io/questions/590462c8-36cd-5a7f-86ee-bb03d9cd3526) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/590462c8-36cd-5a7f-86ee-bb03d9cd3526) | Mar 2026 |
 | **[Ramp](../companies/ramp.md)** | [Frontend Hidden URL and React Wordle](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | Mar 2026 |
@@ -102,7 +101,6 @@
 | **[Optiver](../companies/optiver.md)** | [Design Circular Queue (Ring Buffer)](https://trueinterview.io/questions/circular-queue-design) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/circular-queue-design) | Jan 16, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Implement a Round-Robin Task Scheduler](https://trueinterview.io/questions/round-robin-task-scheduler) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/round-robin-task-scheduler) | Jan 15, 2026 |
 | **[Disney](../companies/disney.md)** | [Single-Rule Ad Filter](https://trueinterview.io/questions/single-rule-ad-filter) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/single-rule-ad-filter) | Jan 12, 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [MaxStack](https://trueinterview.io/questions/implement-stack-variants-and-upward-path-sum-maxstack) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-stack-variants-and-upward-path-sum-maxstack) | Jan 10, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Implement a memory allocator with malloc/free](https://trueinterview.io/questions/implement-a-memory-allocator-with-malloc-free) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-memory-allocator-with-malloc-free) | Jan 9, 2026 |
 | **[Apple](../companies/apple.md)** | [Airplane Seat Reservation API](https://trueinterview.io/questions/airplane-seat-reservation-api) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/airplane-seat-reservation-api) | Jan 6, 2026 |
 | **[Apple](../companies/apple.md)** | [Design TTL Cache](https://trueinterview.io/questions/design-ttl-cache) | Phone · Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-ttl-cache) | Jan 2, 2026 |
@@ -252,7 +250,6 @@
 | **[Disney](../companies/disney.md)** | [In-Memory Workspace of Nested Files and Folders](https://trueinterview.io/questions/workspace-resource-tree) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/workspace-resource-tree) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Iterator Over Arbitrarily Nested Integer Lists](https://trueinterview.io/questions/flatten-nested-list-iterator) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/flatten-nested-list-iterator) | — |
 | **[PayPal](../companies/paypal.md)** | [K-Means Clustering Implementation with Manual Initialization](https://trueinterview.io/questions/a6c5b902-e069-4338-a552-3b4fb74531ca) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a6c5b902-e069-4338-a552-3b4fb74531ca) | — |
-| **[Verkada](../companies/verkada.md)** / [Salesforce](../companies/salesforce.md) | [LFU Cache II](https://trueinterview.io/questions/c488db3c-4149-4a40-8d6d-baca65c23221) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c488db3c-4149-4a40-8d6d-baca65c23221) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Live Leaderboard of Company Share Totals](https://trueinterview.io/questions/company-shares-top-k) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/company-shares-top-k) | — |
 | **[Microsoft](../companies/microsoft.md)** | [LLM Training Dataset Quality Check for Excel Copilot Tasks](https://trueinterview.io/questions/cca976aa-f821-4b1f-ba1a-44dafd0b7d8d) | Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cca976aa-f821-4b1f-ba1a-44dafd0b7d8d) | — |
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
