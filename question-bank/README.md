@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,924 questions** · 807 from an OA · 1,232 reported in the last 90 days · 2,056 free to solve
+**5,924 questions** · 807 from an OA · 1,229 reported in the last 90 days · 2,056 free to solve
 
 **By level:** 🎓 Intern & New grad (1,509) · 🌱 Mid (3,473) · 🎯 Senior (4,079) · 🚀 Staff+ (1,097)
 
@@ -298,7 +298,7 @@
 | **[Amazon](../companies/amazon.md)** | [Coordinate a Fleet of Restaurant Robots](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | 🆕 Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design a Kafka-Based File Watcher for Millions of Files](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | 🆕 Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Explain a Project That Could Not Meet a Tight Deadline](https://trueinterview.io/questions/explain-a-project-that-could-not-meet-a-tight-deadline) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-a-project-that-could-not-meet-a-tight-deadline) | 🆕 Sep 20, 2026 |
-| **[Airbnb](../companies/airbnb.md)** | [Document Redaction](https://trueinterview.io/questions/mle-document-redaction) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-document-redaction) | 🆕 Sep 19, 2026 |
+| **[Airbnb](../companies/airbnb.md)** | [Document Redaction](https://trueinterview.io/questions/mle-document-redaction) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-document-redaction) | Sep 19, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Calculate Inventory Purchases with Buy-X-Get-Y-Free Coupons](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Sep 18, 2026 |
 | **[Houzz](../companies/houzz.md)** | [Convert a Column Number to an Excel-Style Label](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | Sep 18, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Debug Search and Stock Behavior in a Library Application](https://trueinterview.io/questions/debug-search-and-stock-behavior-in-a-library-application) | OA | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-search-and-stock-behavior-in-a-library-application) | Sep 18, 2026 |

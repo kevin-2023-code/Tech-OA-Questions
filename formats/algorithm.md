@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,653 questions** · 589 from an OA · 533 reported in the last 90 days · 483 free to solve
+**2,653 questions** · 589 from an OA · 531 reported in the last 90 days · 483 free to solve
 
 **By level:** 🎓 Intern & New grad (1,026) · 🌱 Mid (1,891) · 🎯 Senior (1,402) · 🚀 Staff+ (51)
 
@@ -156,7 +156,7 @@
 | **[Amazon](../companies/amazon.md)** | [Multi-Head Attention Coding](https://trueinterview.io/questions/multi-head-attention-coding) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multi-head-attention-coding) | 🆕 Sep 26, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Tic-Tac-Toe Game-State Check](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | 🆕 Sep 25, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | 🆕 Sep 25, 2026 |
-| **[Airbnb](../companies/airbnb.md)** | [Document Redaction](https://trueinterview.io/questions/mle-document-redaction) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-document-redaction) | 🆕 Sep 19, 2026 |
+| **[Airbnb](../companies/airbnb.md)** | [Document Redaction](https://trueinterview.io/questions/mle-document-redaction) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-document-redaction) | Sep 19, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Calculate Inventory Purchases with Buy-X-Get-Y-Free Coupons](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Sep 18, 2026 |
 | **[Houzz](../companies/houzz.md)** | [Convert a Column Number to an Excel-Style Label](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | Sep 18, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Design a Top-Ten Trade Query with Exact Amounts](https://trueinterview.io/questions/design-a-top-ten-trade-query-with-exact-amounts) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/design-a-top-ten-trade-query-with-exact-amounts) | Sep 18, 2026 |

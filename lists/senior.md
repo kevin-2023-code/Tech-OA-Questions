@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,079 questions** · 253 from an OA · 816 reported in the last 90 days · 1,554 free to solve
+**4,079 questions** · 253 from an OA · 813 reported in the last 90 days · 1,554 free to solve
 
 **By role:** 💻 Software Engineering (2,512) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
@@ -179,7 +179,7 @@
 | **[Amazon](../companies/amazon.md)** | [Coordinate a Fleet of Restaurant Robots](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | 🆕 Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design a Kafka-Based File Watcher for Millions of Files](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | 🆕 Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Explain a Project That Could Not Meet a Tight Deadline](https://trueinterview.io/questions/explain-a-project-that-could-not-meet-a-tight-deadline) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-a-project-that-could-not-meet-a-tight-deadline) | 🆕 Sep 20, 2026 |
-| **[Airbnb](../companies/airbnb.md)** | [Document Redaction](https://trueinterview.io/questions/mle-document-redaction) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-document-redaction) | 🆕 Sep 19, 2026 |
+| **[Airbnb](../companies/airbnb.md)** | [Document Redaction](https://trueinterview.io/questions/mle-document-redaction) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-document-redaction) | Sep 19, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Calculate Inventory Purchases with Buy-X-Get-Y-Free Coupons](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Sep 18, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Debug Search and Stock Behavior in a Library Application](https://trueinterview.io/questions/debug-search-and-stock-behavior-in-a-library-application) | OA | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-search-and-stock-behavior-in-a-library-application) | Sep 18, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design a Distribution-Center Inventory Update Service](https://trueinterview.io/questions/design-a-distribution-center-inventory-update-service) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-distribution-center-inventory-update-service) | Sep 18, 2026 |
