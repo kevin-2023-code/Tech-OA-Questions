@@ -10,7 +10,7 @@
 
 Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Microsoft** and 126 more companies — **every row tagged with the round, the level and the role it was asked for.** Synced hourly.
 
-**5,889 questions** · **802 from an OA** · **132 companies** · 1,495 intern & new grad · 1,221 reported in the last 90 days · 2,056 free
+**5,889 questions** · **802 from an OA** · **132 companies** · 1,495 intern & new grad · 1,219 reported in the last 90 days · 2,056 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 

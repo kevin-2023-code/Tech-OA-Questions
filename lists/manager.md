@@ -6,7 +6,7 @@
 
 > **Role:** Reported at a **Manager** loop.
 
-**150 questions** · 3 from an OA · 22 reported in the last 90 days · 145 free to solve
+**150 questions** · 3 from an OA · 21 reported in the last 90 days · 145 free to solve
 
 **By level:** 🎓 Intern & New grad (2) · 🌱 Mid (28) · 🎯 Senior (144) · 🚀 Staff+ (106)
 

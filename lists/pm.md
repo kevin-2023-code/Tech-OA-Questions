@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Product Manager** role.
 
-**45 questions** · 0 from an OA · 9 reported in the last 90 days · 40 free to solve
+**45 questions** · 0 from an OA · 8 reported in the last 90 days · 40 free to solve
 
 **By level:** 🎓 Intern & New grad (2) · 🌱 Mid (16) · 🎯 Senior (41) · 🚀 Staff+ (24)
 
