@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Hardware, devices & networking*.
 
-**225 questions** · 32 from an OA · 49 reported in the last 90 days · 103 free to solve
+**225 questions** · 32 from an OA · 48 reported in the last 90 days · 103 free to solve
 
 **By level:** 🎓 Intern & New grad (60) · 🌱 Mid (142) · 🎯 Senior (145) · 🚀 Staff+ (27)
 

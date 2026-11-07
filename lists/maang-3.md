@@ -6,7 +6,7 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,693 questions** · 169 from an OA · 431 reported in the last 90 days · 584 free to solve
+**1,693 questions** · 169 from an OA · 429 reported in the last 90 days · 584 free to solve
 
 **By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
 

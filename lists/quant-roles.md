@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Quantitative Finance** role — researcher, developer or trader.
 
-**285 questions** · 87 from an OA · 51 reported in the last 90 days · 132 free to solve
+**285 questions** · 87 from an OA · 50 reported in the last 90 days · 132 free to solve
 
 **By level:** 🎓 Intern & New grad (119) · 🌱 Mid (205) · 🎯 Senior (128) · 🚀 Staff+ (15)
 
