@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,058 questions** · 252 from an OA · 805 reported in the last 90 days · 1,554 free to solve
+**4,058 questions** · 252 from an OA · 803 reported in the last 90 days · 1,554 free to solve
 
 **By role:** 💻 Software Engineering (2,492) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
@@ -174,8 +174,8 @@
 | **[Amazon](../companies/amazon.md)** | [Multi-Head Attention Coding](https://trueinterview.io/questions/multi-head-attention-coding) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multi-head-attention-coding) | 🆕 Sep 26, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | 🆕 Sep 25, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | 🆕 Sep 25, 2026 |
-| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | 🆕 Sep 23, 2026 |
-| **[Pinterest](../companies/pinterest.md)** | [Senior Staff Hiring-Manager Conversation](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | 🆕 Sep 23, 2026 |
+| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
+| **[Pinterest](../companies/pinterest.md)** | [Senior Staff Hiring-Manager Conversation](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Sep 23, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Coordinate a Fleet of Restaurant Robots](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design a Kafka-Based File Watcher for Millions of Files](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Explain a Project That Could Not Meet a Tight Deadline](https://trueinterview.io/questions/explain-a-project-that-could-not-meet-a-tight-deadline) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-a-project-that-could-not-meet-a-tight-deadline) | Sep 20, 2026 |

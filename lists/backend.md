@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Backend Engineer** role.
 
-**683 questions** · 49 from an OA · 167 reported in the last 90 days · 100 free to solve
+**683 questions** · 49 from an OA · 166 reported in the last 90 days · 100 free to solve
 
 **By level:** 🎓 Intern & New grad (80) · 🌱 Mid (307) · 🎯 Senior (527) · 🚀 Staff+ (155)
 
@@ -49,7 +49,7 @@
 | **[Stripe](../companies/stripe.md)** | [Split Tender: Gift Cards, Expiration, Surcharges, and Refunds](https://trueinterview.io/questions/3a47c1a0-fd3b-53f5-893c-89c8e19184eb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a47c1a0-fd3b-53f5-893c-89c8e19184eb) | 🆕 Oct 2026 |
 | **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | 🆕 Sep 28, 2026 |
 | **[Google](../companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | 🆕 Sep 28, 2026 |
-| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | 🆕 Sep 23, 2026 |
+| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design a Kafka-Based File Watcher for Millions of Files](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design a Distribution-Center Inventory Update Service](https://trueinterview.io/questions/design-a-distribution-center-inventory-update-service) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-distribution-center-inventory-update-service) | Sep 18, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Block Malicious IPs at an API Gateway Across Data Centers](https://trueinterview.io/questions/block-malicious-ips-at-an-api-gateway-across-data-centers) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/block-malicious-ips-at-an-api-gateway-across-data-centers) | Sep 17, 2026 |

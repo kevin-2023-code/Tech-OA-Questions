@@ -6,7 +6,7 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,056 questions** · 234 from an OA · 396 reported in the last 90 days · 2,056 free to solve
+**2,056 questions** · 234 from an OA · 395 reported in the last 90 days · 2,056 free to solve
 
 **By level:** 🎓 Intern & New grad (445) · 🌱 Mid (1,083) · 🎯 Senior (1,554) · 🚀 Staff+ (670)
 
@@ -99,9 +99,9 @@
 | **[Snowflake](../companies/snowflake.md)** | [Encode and Decode Strings (LC 271)](https://trueinterview.io/questions/encode-and-decode-strings) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/encode-and-decode-strings) | 🆕 Sep 29, 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | 🆕 Sep 29, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Systems and Java Fundamentals](https://trueinterview.io/questions/other-systems-java-fundamentals) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/other-systems-java-fundamentals) | 🆕 Sep 28, 2026 |
-| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | 🆕 Sep 23, 2026 |
-| **[Netflix](../companies/netflix.md)** | [MLE Intern OA: ML Fundamentals](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | OA | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | 🆕 Sep 23, 2026 |
-| **[Pinterest](../companies/pinterest.md)** | [Senior Staff Hiring-Manager Conversation](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | 🆕 Sep 23, 2026 |
+| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
+| **[Netflix](../companies/netflix.md)** | [MLE Intern OA: ML Fundamentals](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | OA | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | Sep 23, 2026 |
+| **[Pinterest](../companies/pinterest.md)** | [Senior Staff Hiring-Manager Conversation](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Sep 23, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Explain a Project That Could Not Meet a Tight Deadline](https://trueinterview.io/questions/explain-a-project-that-could-not-meet-a-tight-deadline) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-a-project-that-could-not-meet-a-tight-deadline) | Sep 20, 2026 |
 | **[Houzz](../companies/houzz.md)** | [Convert a Column Number to an Excel-Style Label](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | Sep 18, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Debug Search and Stock Behavior in a Library Application](https://trueinterview.io/questions/debug-search-and-stock-behavior-in-a-library-application) | OA | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-search-and-stock-behavior-in-a-library-application) | Sep 18, 2026 |

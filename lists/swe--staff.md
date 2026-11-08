@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**358 questions** · 11 from an OA · 113 reported in the last 90 days · 152 free to solve
+**358 questions** · 11 from an OA · 112 reported in the last 90 days · 152 free to solve
 
 **Rounds:** 📝 OA (11) · 📞 Phone (149) · 🏢 Onsite (224) · 🏠 Take-home (1)
 
@@ -39,7 +39,7 @@
 | **[Capital One](../companies/capital-one.md)** | [Rotate Matrix Over Diagonals](https://trueinterview.io/questions/660e4c62-f166-4841-ad96-71010100f126) | Phone | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/660e4c62-f166-4841-ad96-71010100f126) | 🆕 Oct 2026 |
 | **[Meta](../companies/meta.md)** | [Traditional Behavioral](https://trueinterview.io/questions/traditional-behavioral-meta) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/traditional-behavioral-meta) | 🆕 Oct 2026 |
 | **[Stripe](../companies/stripe.md)** | [Transaction Risk Rules with Boolean Expressions](https://trueinterview.io/questions/faff15a8-89a1-5476-9d42-5d7a4e1803c6) | Phone | Mid · Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/faff15a8-89a1-5476-9d42-5d7a4e1803c6) | 🆕 Oct 2026 |
-| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | 🆕 Sep 23, 2026 |
+| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Design Raw and Computed Spreadsheet Views](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | Sep 18, 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Design a Task Scheduler](https://trueinterview.io/questions/design-a-task-scheduler) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-task-scheduler) | Sep 17, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Explain a Technical Project from Milestone to Production](https://trueinterview.io/questions/explain-a-technical-project-from-milestone-to-production) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-a-technical-project-from-milestone-to-production) | Sep 17, 2026 |

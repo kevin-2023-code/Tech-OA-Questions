@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 484 from an OA · 746 reported in the last 90 days · 1,083 free to solve
+**3,451 questions** · 484 from an OA · 745 reported in the last 90 days · 1,083 free to solve
 
 **By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
@@ -203,7 +203,7 @@
 | **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | 🆕 Sep 25, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Tic-Tac-Toe Game-State Check](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | 🆕 Sep 25, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | 🆕 Sep 25, 2026 |
-| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | 🆕 Sep 23, 2026 |
+| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Calculate Inventory Purchases with Buy-X-Get-Y-Free Coupons](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Sep 18, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Define a Reliable Trade-Reconciliation Library Contract](https://trueinterview.io/questions/define-a-reliable-trade-reconciliation-library-contract) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/define-a-reliable-trade-reconciliation-library-contract) | Sep 18, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Design a Top-Ten Trade Query with Exact Amounts](https://trueinterview.io/questions/design-a-top-ten-trade-query-with-exact-amounts) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/design-a-top-ten-trade-query-with-exact-amounts) | Sep 18, 2026 |

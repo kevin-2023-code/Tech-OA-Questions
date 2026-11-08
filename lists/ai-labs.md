@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *AI labs & AI infrastructure*.
 
-**503 questions** · 39 from an OA · 157 reported in the last 90 days · 152 free to solve
+**503 questions** · 39 from an OA · 156 reported in the last 90 days · 152 free to solve
 
 **By level:** 🎓 Intern & New grad (95) · 🌱 Mid (307) · 🎯 Senior (427) · 🚀 Staff+ (85)
 
@@ -58,7 +58,7 @@
 | **[xAI](../companies/xai.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [Weighted LRU Cache](https://trueinterview.io/questions/weighted-lru-cache-2) | Phone | Intern · New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/weighted-lru-cache-2) | 🆕 Oct 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +4 | [Word Search II](https://trueinterview.io/questions/word-search-ii) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/word-search-ii) | 🆕 Oct 2026 |
 | **[OpenAI](../companies/openai.md)** | [Poker Simulation](https://trueinterview.io/questions/poker-simulation) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/poker-simulation) | 🆕 Sep 28, 2026 |
-| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | 🆕 Sep 23, 2026 |
+| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Order Tasks with Dependencies Using a Deterministic Topological Sort](https://trueinterview.io/questions/order-tasks-with-dependencies-using-a-deterministic-topological-sort) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/order-tasks-with-dependencies-using-a-deterministic-topological-sort) | Sep 17, 2026 |
 | **[Snowflake](../companies/snowflake.md)** / [Anthropic](../companies/anthropic.md) | [Web URL Crawler at Scale](https://trueinterview.io/questions/web-url-crawler-at-scale) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/web-url-crawler-at-scale) | Sep 17, 2026 |
 | **[Harvey](../companies/harvey.md)** | [Design a Chat Application with Durable Conversation History](https://trueinterview.io/questions/design-a-chat-application-with-durable-conversation-history) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-chat-application-with-durable-conversation-history) | Sep 15, 2026 |
