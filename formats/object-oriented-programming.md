@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**659 questions** · 53 from an OA · 159 reported in the last 90 days · 85 free to solve
+**659 questions** · 53 from an OA · 158 reported in the last 90 days · 85 free to solve
 
 **By level:** 🎓 Intern & New grad (123) · 🌱 Mid (455) · 🎯 Senior (446) · 🚀 Staff+ (21)
 
@@ -62,7 +62,7 @@
 | **[Waymo](../companies/waymo.md)** | [Merge Object Histories Across Two Tracking Systems](https://trueinterview.io/questions/cross-system-object-tracker-history) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cross-system-object-tracker-history) | 🆕 Sep 29, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Poker Simulation](https://trueinterview.io/questions/poker-simulation) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/poker-simulation) | 🆕 Sep 28, 2026 |
 | **[Google](../companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | 🆕 Sep 28, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | 🆕 Sep 25, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | Sep 25, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Define a Reliable Trade-Reconciliation Library Contract](https://trueinterview.io/questions/define-a-reliable-trade-reconciliation-library-contract) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/define-a-reliable-trade-reconciliation-library-contract) | Sep 18, 2026 |
 | **[Google](../companies/google.md)** | [Design Extensible Spreadsheet Aggregation APIs](https://trueinterview.io/questions/design-extensible-spreadsheet-aggregation-apis) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-extensible-spreadsheet-aggregation-apis) | Sep 18, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Design Raw and Computed Spreadsheet Views](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-raw-and-computed-spreadsheet-views) | Sep 18, 2026 |

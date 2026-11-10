@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,110 questions** · 351 from an OA · 231 reported in the last 90 days · 286 free to solve
+**1,110 questions** · 351 from an OA · 230 reported in the last 90 days · 286 free to solve
 
 **Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
 
@@ -102,7 +102,7 @@
 | **[Amazon](../companies/amazon.md)** | [Ones and Zeroes (LC 474)](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | 🆕 Sep 29, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Othello Move — Flip Captured Pieces](https://trueinterview.io/questions/othello-move-flip-simulation) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/othello-move-flip-simulation) | 🆕 Sep 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Spiral Matrix (LC 54) with Follow-Up Constraints](https://trueinterview.io/questions/spiral-matrix-constant-space) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-constant-space) | 🆕 Sep 28, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | 🆕 Sep 25, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Sep 25, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Calculate Inventory Purchases with Buy-X-Get-Y-Free Coupons](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Sep 18, 2026 |
 | **[Houzz](../companies/houzz.md)** | [Convert a Column Number to an Excel-Style Label](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | Sep 18, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Order Tasks with Dependencies Using a Deterministic Topological Sort](https://trueinterview.io/questions/order-tasks-with-dependencies-using-a-deterministic-topological-sort) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/order-tasks-with-dependencies-using-a-deterministic-topological-sort) | Sep 17, 2026 |

@@ -6,7 +6,7 @@
 
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,495 questions** · 495 from an OA · 299 reported in the last 90 days · 445 free to solve
+**1,495 questions** · 495 from an OA · 298 reported in the last 90 days · 445 free to solve
 
 **By role:** 💻 Software Engineering (1,110) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
 
@@ -120,7 +120,7 @@
 | **[Amazon](../companies/amazon.md)** | [Ones and Zeroes (LC 474)](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | 🆕 Sep 29, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Othello Move — Flip Captured Pieces](https://trueinterview.io/questions/othello-move-flip-simulation) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/othello-move-flip-simulation) | 🆕 Sep 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Spiral Matrix (LC 54) with Follow-Up Constraints](https://trueinterview.io/questions/spiral-matrix-constant-space) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-constant-space) | 🆕 Sep 28, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | 🆕 Sep 25, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Sep 25, 2026 |
 | **[Netflix](../companies/netflix.md)** | [MLE Intern OA: ML Fundamentals](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | OA | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | Sep 23, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Calculate Inventory Purchases with Buy-X-Get-Y-Free Coupons](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Sep 18, 2026 |
 | **[Houzz](../companies/houzz.md)** | [Convert a Column Number to an Excel-Style Label](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | Sep 18, 2026 |

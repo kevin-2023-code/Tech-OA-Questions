@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 975 reported in the last 90 days · 1,018 free to solve
+**3,927 questions** · 586 from an OA · 970 reported in the last 90 days · 1,018 free to solve
 
 **By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
 
@@ -244,9 +244,9 @@
 | **[ByteDance](../companies/bytedance.md)** | [Spiral Matrix (LC 54) with Follow-Up Constraints](https://trueinterview.io/questions/spiral-matrix-constant-space) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-constant-space) | 🆕 Sep 28, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Systems and Java Fundamentals](https://trueinterview.io/questions/other-systems-java-fundamentals) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/other-systems-java-fundamentals) | 🆕 Sep 28, 2026 |
 | **[Google](../companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | 🆕 Sep 28, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | 🆕 Sep 25, 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Tic-Tac-Toe Game-State Check](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | 🆕 Sep 25, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | 🆕 Sep 25, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | Sep 25, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Tic-Tac-Toe Game-State Check](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Sep 25, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Sep 25, 2026 |
 | **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Senior Staff Hiring-Manager Conversation](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Sep 23, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Coordinate a Fleet of Restaurant Robots](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Sep 20, 2026 |

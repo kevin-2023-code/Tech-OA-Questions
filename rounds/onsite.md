@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,337 questions** · 12 from an OA · 570 reported in the last 90 days · 770 free to solve
+**2,337 questions** · 12 from an OA · 569 reported in the last 90 days · 770 free to solve
 
 **By level:** 🎓 Intern & New grad (384) · 🌱 Mid (1,229) · 🎯 Senior (1,872) · 🚀 Staff+ (535)
 
@@ -158,8 +158,8 @@
 | **[Citadel](../companies/citadel.md)** | [Research Engineer Sequence Classification](https://trueinterview.io/questions/research-engineer-sequence-classification) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/research-engineer-sequence-classification) | 🆕 Sep 27, 2026 |
 | **[Amazon](../companies/amazon.md)** | [GRPO Notebook Exercise](https://trueinterview.io/questions/grpo-notebook-exercise) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/grpo-notebook-exercise) | 🆕 Sep 26, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Multi-Head Attention Coding](https://trueinterview.io/questions/multi-head-attention-coding) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multi-head-attention-coding) | 🆕 Sep 26, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | 🆕 Sep 25, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | 🆕 Sep 25, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | Sep 25, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Sep 25, 2026 |
 | **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Senior Staff Hiring-Manager Conversation](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Sep 23, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Document Redaction](https://trueinterview.io/questions/mle-document-redaction) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-document-redaction) | Sep 19, 2026 |

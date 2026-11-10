@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 519 reported in the last 90 days · 482 free to solve
+**2,621 questions** · 584 from an OA · 517 reported in the last 90 days · 482 free to solve
 
 **By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
@@ -154,8 +154,8 @@
 | **[Citadel](../companies/citadel.md)** | [Research Engineer Sequence Classification](https://trueinterview.io/questions/research-engineer-sequence-classification) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/research-engineer-sequence-classification) | 🆕 Sep 27, 2026 |
 | **[Amazon](../companies/amazon.md)** | [GRPO Notebook Exercise](https://trueinterview.io/questions/grpo-notebook-exercise) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/grpo-notebook-exercise) | 🆕 Sep 26, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Multi-Head Attention Coding](https://trueinterview.io/questions/multi-head-attention-coding) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multi-head-attention-coding) | 🆕 Sep 26, 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Tic-Tac-Toe Game-State Check](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | 🆕 Sep 25, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | 🆕 Sep 25, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Tic-Tac-Toe Game-State Check](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Sep 25, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Sep 25, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Document Redaction](https://trueinterview.io/questions/mle-document-redaction) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/mle-document-redaction) | Sep 19, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Calculate Inventory Purchases with Buy-X-Get-Y-Free Coupons](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-inventory-purchases-with-buy-x-get-y-free-coupons) | Sep 18, 2026 |
 | **[Houzz](../companies/houzz.md)** | [Convert a Column Number to an Excel-Style Label](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | Sep 18, 2026 |

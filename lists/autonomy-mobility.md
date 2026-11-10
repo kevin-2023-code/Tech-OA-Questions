@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Autonomy, automotive & mobility*.
 
-**200 questions** · 25 from an OA · 41 reported in the last 90 days · 53 free to solve
+**200 questions** · 25 from an OA · 40 reported in the last 90 days · 53 free to solve
 
 **By level:** 🎓 Intern & New grad (42) · 🌱 Mid (111) · 🎯 Senior (132) · 🚀 Staff+ (22)
 
