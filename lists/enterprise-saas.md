@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Enterprise & business software*.
 
-**719 questions** · 99 from an OA · 172 reported in the last 90 days · 221 free to solve
+**719 questions** · 99 from an OA · 168 reported in the last 90 days · 221 free to solve
 
 **By level:** 🎓 Intern & New grad (176) · 🌱 Mid (431) · 🎯 Senior (528) · 🚀 Staff+ (77)
 
