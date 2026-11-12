@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 484 from an OA · 740 reported in the last 90 days · 1,083 free to solve
+**3,451 questions** · 484 from an OA · 730 reported in the last 90 days · 1,083 free to solve
 
 **By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
@@ -199,7 +199,7 @@
 | **[OpenAI](../companies/openai.md)** | [Poker Simulation](https://trueinterview.io/questions/poker-simulation) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/poker-simulation) | 🆕 Sep 28, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Systems and Java Fundamentals](https://trueinterview.io/questions/other-systems-java-fundamentals) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/other-systems-java-fundamentals) | 🆕 Sep 28, 2026 |
 | **[Google](../companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | 🆕 Sep 28, 2026 |
-| **[Citadel](../companies/citadel.md)** | [Research Engineer Sequence Classification](https://trueinterview.io/questions/research-engineer-sequence-classification) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/research-engineer-sequence-classification) | 🆕 Sep 27, 2026 |
+| **[Citadel](../companies/citadel.md)** | [Research Engineer Sequence Classification](https://trueinterview.io/questions/research-engineer-sequence-classification) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/research-engineer-sequence-classification) | Sep 27, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | Sep 25, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Tic-Tac-Toe Game-State Check](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Sep 25, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Sep 25, 2026 |

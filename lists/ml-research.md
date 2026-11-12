@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Machine Learning Engineer**, **AI Engineer** or **Research Scientist** role.
 
-**481 questions** · 21 from an OA · 111 reported in the last 90 days · 184 free to solve
+**481 questions** · 21 from an OA · 110 reported in the last 90 days · 184 free to solve
 
 **By level:** 🎓 Intern & New grad (69) · 🌱 Mid (185) · 🎯 Senior (385) · 🚀 Staff+ (138)
 
@@ -50,7 +50,7 @@
 | **[Capital One](../companies/capital-one.md)** | [Predict Driver Class](https://trueinterview.io/questions/27d3daec-8a20-5bd2-9364-86cf2bf8d72c) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/27d3daec-8a20-5bd2-9364-86cf2bf8d72c) | 🆕 Oct 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Preprocess Driver Classification Data](https://trueinterview.io/questions/15af0c8a-dc55-54c3-9403-fc710f60b51a) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/15af0c8a-dc55-54c3-9403-fc710f60b51a) | 🆕 Oct 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Recruiter Screen — Why Anthropic Deep-Dive](https://trueinterview.io/questions/recruiter-screen-why-anthropic) | Phone | New grad · Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/recruiter-screen-why-anthropic) | 🆕 Oct 2026 |
-| **[Citadel](../companies/citadel.md)** | [Research Engineer Sequence Classification](https://trueinterview.io/questions/research-engineer-sequence-classification) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/research-engineer-sequence-classification) | 🆕 Sep 27, 2026 |
+| **[Citadel](../companies/citadel.md)** | [Research Engineer Sequence Classification](https://trueinterview.io/questions/research-engineer-sequence-classification) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/research-engineer-sequence-classification) | Sep 27, 2026 |
 | **[Amazon](../companies/amazon.md)** | [GRPO Notebook Exercise](https://trueinterview.io/questions/grpo-notebook-exercise) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/grpo-notebook-exercise) | Sep 26, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Multi-Head Attention Coding](https://trueinterview.io/questions/multi-head-attention-coding) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multi-head-attention-coding) | Sep 26, 2026 |
 | **[Netflix](../companies/netflix.md)** | [MLE Intern OA: ML Fundamentals](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | OA | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | Sep 23, 2026 |

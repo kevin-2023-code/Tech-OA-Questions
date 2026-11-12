@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**178 questions** · 66 from an OA · 19 reported in the last 90 days · 71 free to solve
+**178 questions** · 66 from an OA · 13 reported in the last 90 days · 71 free to solve
 
 **Rounds:** 📝 OA (66) · 📞 Phone (87) · 🏢 Onsite (29) · 🏠 Take-home (2)
 

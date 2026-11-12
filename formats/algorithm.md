@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 515 reported in the last 90 days · 482 free to solve
+**2,621 questions** · 584 from an OA · 513 reported in the last 90 days · 482 free to solve
 
 **By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
@@ -151,7 +151,7 @@
 | **[Amazon](../companies/amazon.md)** | [Evaluate Division (LC 399) with a High-Volume Query Follow-Up](https://trueinterview.io/questions/evaluate-division-lc-399) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-division-lc-399) | 🆕 Sep 28, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Othello Move — Flip Captured Pieces](https://trueinterview.io/questions/othello-move-flip-simulation) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/othello-move-flip-simulation) | 🆕 Sep 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Spiral Matrix (LC 54) with Follow-Up Constraints](https://trueinterview.io/questions/spiral-matrix-constant-space) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-constant-space) | 🆕 Sep 28, 2026 |
-| **[Citadel](../companies/citadel.md)** | [Research Engineer Sequence Classification](https://trueinterview.io/questions/research-engineer-sequence-classification) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/research-engineer-sequence-classification) | 🆕 Sep 27, 2026 |
+| **[Citadel](../companies/citadel.md)** | [Research Engineer Sequence Classification](https://trueinterview.io/questions/research-engineer-sequence-classification) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/research-engineer-sequence-classification) | Sep 27, 2026 |
 | **[Amazon](../companies/amazon.md)** | [GRPO Notebook Exercise](https://trueinterview.io/questions/grpo-notebook-exercise) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/grpo-notebook-exercise) | Sep 26, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Multi-Head Attention Coding](https://trueinterview.io/questions/multi-head-attention-coding) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multi-head-attention-coding) | Sep 26, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Tic-Tac-Toe Game-State Check](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Sep 25, 2026 |

@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Developer tools, cloud & data infrastructure*.
 
-**299 questions** · 29 from an OA · 66 reported in the last 90 days · 97 free to solve
+**299 questions** · 29 from an OA · 64 reported in the last 90 days · 97 free to solve
 
 **By level:** 🎓 Intern & New grad (68) · 🌱 Mid (208) · 🎯 Senior (184) · 🚀 Staff+ (35)
 
