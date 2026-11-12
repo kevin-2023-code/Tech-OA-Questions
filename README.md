@@ -10,7 +10,7 @@
 
 Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Microsoft** and 126 more companies — **every row tagged with the round, the level and the role it was asked for.** Synced hourly.
 
-**5,889 questions** · **802 from an OA** · **132 companies** · 1,495 intern & new grad · 1,190 reported in the last 90 days · 2,056 free
+**5,889 questions** · **802 from an OA** · **132 companies** · 1,495 intern & new grad · 1,190 reported in the last 90 days · 2,114 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
@@ -38,7 +38,7 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 
 **By round:** [📝 OA (802)](rounds/oa.md) · [📞 Phone (3,114)](rounds/phone-screen.md) · [🏢 Onsite (2,337)](rounds/onsite.md) · [🏠 Take-home (12)](rounds/take-home.md)
 
-**By format:** [Coding (2,621)](formats/algorithm.md) · [System design (758)](formats/system-design.md) · [OOD / LLD (659)](formats/object-oriented-programming.md) · [SQL (301)](formats/sql.md) · [AI coding (134)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (2,056)](lists/free.md)
+**By format:** [Coding (2,621)](formats/algorithm.md) · [System design (758)](formats/system-design.md) · [OOD / LLD (659)](formats/object-oriented-programming.md) · [SQL (301)](formats/sql.md) · [AI coding (134)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (2,114)](lists/free.md)
 
 ## 📝 Companies with the most OA reports
 
@@ -93,7 +93,7 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 | **[Microsoft](companies/microsoft.md)** | [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-iv) | 🆕 Oct 1, 2026 |
 | **[Amazon](companies/amazon.md)** / [Scale AI](companies/scale-ai.md) | [Lowest Common Manager in an Org Chart (Binary-Tree LCA Family)](https://trueinterview.io/questions/lowest-common-manager-org-chart) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-manager-org-chart) | 🆕 Oct 1, 2026 |
 | **[Apple](companies/apple.md)** / [Amazon](companies/amazon.md) / [Bloomberg](companies/bloomberg.md) / +7 | [LRU Cache](https://trueinterview.io/questions/lru-cache) | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | 🆕 Oct 1, 2026 |
-| **[Microsoft](companies/microsoft.md)** | [Maximum Number of Occurrences of a Substring (LC 1297)](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | 🆕 Oct 1, 2026 |
+| **[Microsoft](companies/microsoft.md)** | [Maximum Number of Occurrences of a Substring (LC 1297)](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | 🆕 Oct 1, 2026 |
 | **[Microsoft](companies/microsoft.md)** | [Maximum Subarray Sum After K Concatenations](https://trueinterview.io/questions/k-concatenation-maximum-subarray-sum) | Onsite | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/k-concatenation-maximum-subarray-sum) | 🆕 Oct 1, 2026 |
 | **[Citadel](companies/citadel.md)** | [Memory Blocks — Reachable MEX After One Increment](https://trueinterview.io/questions/oa-memory-block-mex-one-increment) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/oa-memory-block-mex-one-increment) | 🆕 Oct 1, 2026 |
 | **[Microsoft](companies/microsoft.md)** | [Minimum Set of Values to Remove Half the Array](https://trueinterview.io/questions/min-set-size-remove-half) | Onsite | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/min-set-size-remove-half) | 🆕 Oct 1, 2026 |
@@ -129,7 +129,7 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 | **[Intuit](companies/intuit.md)** | [Concurrent Task Processor](https://trueinterview.io/questions/a75fd921-df8c-4835-9430-d544a97cc769) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a75fd921-df8c-4835-9430-d544a97cc769) | 🆕 Oct 2026 |
 | **[Capital One](companies/capital-one.md)** | [Count Arithmetic Triplets After Each Query](https://trueinterview.io/questions/ff10e415-447b-5ca5-9793-e7714cddfbe6) | Phone | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/ff10e415-447b-5ca5-9793-e7714cddfbe6) | 🆕 Oct 2026 |
 | **[Amazon](companies/amazon.md)** | [Count Connected Components (Union-Find)](https://trueinterview.io/questions/count-connected-components-union-find) | Phone · Onsite | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-connected-components-union-find) | 🆕 Oct 2026 |
-| **[ByteDance](companies/bytedance.md)** | [Count of Smaller Numbers After Self](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | 🆕 Oct 2026 |
+| **[ByteDance](companies/bytedance.md)** | [Count of Smaller Numbers After Self](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | 🆕 Oct 2026 |
 | **[OpenAI](companies/openai.md)** | [Count Paths Visiting Exactly One Shop of Each Type](https://trueinterview.io/questions/f27c58d6-4e09-5c7e-b35a-4e84bd26cc9f) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f27c58d6-4e09-5c7e-b35a-4e84bd26cc9f) | 🆕 Oct 2026 |
 | **[Google](companies/google.md)** | [Count People Visible to the Last Person](https://trueinterview.io/questions/e9a97e39-fcc0-5bbf-b8c2-20dcb96a8a45) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e9a97e39-fcc0-5bbf-b8c2-20dcb96a8a45) | 🆕 Oct 2026 |
 | **[Pinterest](companies/pinterest.md)** | [Count Valid IPv4 Addresses in Fetched Text](https://trueinterview.io/questions/100ce093-854b-5ebe-86bb-0e448b469a7d) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/100ce093-854b-5ebe-86bb-0e448b469a7d) | 🆕 Oct 2026 |

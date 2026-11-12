@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**385 questions** · 6 from an OA · 87 reported in the last 90 days · 144 free to solve
+**385 questions** · 6 from an OA · 87 reported in the last 90 days · 145 free to solve
 
 **Rounds:** 📝 OA (6) · 📞 Phone (186) · 🏢 Onsite (233) · 🏠 Take-home (1)
 
@@ -316,7 +316,7 @@
 | **[ByteDance](../companies/bytedance.md)** | [How to deploy and tune multimodal models?](https://trueinterview.io/questions/how-to-deploy-and-tune-multimodal-models) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-to-deploy-and-tune-multimodal-models) | Jan 10, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Explain KV cache in Transformer inference](https://trueinterview.io/questions/explain-kv-cache-in-transformer-inference) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-kv-cache-in-transformer-inference) | Jan 6, 2026 |
 | **[Google](../companies/google.md)** | [Respond to long-term concerns after A/B success](https://trueinterview.io/questions/respond-to-long-term-concerns-after-a-b-success) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/respond-to-long-term-concerns-after-a-b-success) | Jan 6, 2026 |
-| **[Uber](../companies/uber.md)** | [Number of Ways to Earn Points](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Jan 5, 2026 |
+| **[Uber](../companies/uber.md)** | [Number of Ways to Earn Points](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Jan 5, 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Product Feed and Shopping Recommendation System](https://trueinterview.io/questions/product-feed-and-shopping-recommendation-system) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/product-feed-and-shopping-recommendation-system) | Jan 5, 2026 |
 | **[Apple](../companies/apple.md)** | [Design a streaming embedding-based classifier](https://trueinterview.io/questions/design-a-streaming-embedding-based-classifier) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-streaming-embedding-based-classifier) | Jan 2, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Spam Email Detection](https://trueinterview.io/questions/spam-email-detection) | Phone · Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/spam-email-detection) | Jan 1, 2026 |

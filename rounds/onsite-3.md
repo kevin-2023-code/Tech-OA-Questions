@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,337 questions** · 12 from an OA · 558 reported in the last 90 days · 770 free to solve
+**2,337 questions** · 12 from an OA · 558 reported in the last 90 days · 786 free to solve
 
 **By level:** 🎓 Intern & New grad (384) · 🌱 Mid (1,229) · 🎯 Senior (1,872) · 🚀 Staff+ (535)
 
@@ -51,7 +51,7 @@
 | **[Rippling](../companies/rippling.md)** | [Expense System](https://trueinterview.io/questions/expense-rules-engine) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/expense-rules-engine) | Jun 18, 2026 |
 | **[Uber](../companies/uber.md)** | [App User Behavior Data Platform](https://trueinterview.io/questions/onsite-sd-app-user-behavior-data-platform) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/onsite-sd-app-user-behavior-data-platform) | Jun 17, 2026 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Build a File-Driven Data Visualization and Replay UI](https://trueinterview.io/questions/build-a-file-driven-data-visualization-and-replay-ui) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/build-a-file-driven-data-visualization-and-replay-ui) | Jun 17, 2026 |
-| **[Snowflake](../companies/snowflake.md)** | [Calculate Amount Paid in Taxes](https://trueinterview.io/questions/calculate-amount-paid-in-taxes) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-amount-paid-in-taxes) | Jun 17, 2026 |
+| **[Snowflake](../companies/snowflake.md)** | [Calculate Amount Paid in Taxes](https://trueinterview.io/questions/calculate-amount-paid-in-taxes) | Phone · Onsite | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/calculate-amount-paid-in-taxes) | Jun 17, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Design Customer Support Ticketing System](https://trueinterview.io/questions/ticket-routing-system-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ticket-routing-system-design) | Jun 17, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Behavioral Question Pool](https://trueinterview.io/questions/behavioral-question-pool) | Phone · Onsite | Intern · New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/behavioral-question-pool) | Jun 16, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Design Underground System](https://trueinterview.io/questions/design-underground-system) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-underground-system) | Jun 16, 2026 |
@@ -104,7 +104,7 @@
 | **[Reddit](../companies/reddit.md)** | [Design Reddit Comments Ranking System](https://trueinterview.io/questions/design-reddit-s-post-comment-ranking-system) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-reddit-s-post-comment-ranking-system) | Jun 2026 |
 | **[Robinhood](../companies/robinhood.md)** / [Coinbase](../companies/coinbase.md) / [Databricks](../companies/databricks.md) / +1 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Jun 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Efficiency of Distributed Systems](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Jun 2026 |
-| **[C3.ai](../companies/c3-ai.md)** | [Enumerate All Balanced Bracket Strings for N Pairs](https://trueinterview.io/questions/generate-parentheses) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-parentheses) | Jun 2026 |
+| **[C3.ai](../companies/c3-ai.md)** | [Enumerate All Balanced Bracket Strings for N Pairs](https://trueinterview.io/questions/generate-parentheses) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/generate-parentheses) | Jun 2026 |
 | **[Apple](../companies/apple.md)** | [Evaluate a model and choose metrics](https://trueinterview.io/questions/evaluate-a-model-and-choose-metrics) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-a-model-and-choose-metrics) | Jun 2026 |
 | **[OpenAI](../companies/openai.md)** | [Explain motivation and mission alignment](https://trueinterview.io/questions/explain-motivation-and-mission-alignment) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-motivation-and-mission-alignment) | Jun 2026 |
 | **[SoFi](../companies/sofi.md)** | [Extend an Existing Codebase to Support Accessibility Requirements](https://trueinterview.io/questions/e09854da-00dd-4596-a22c-a1b2463a2a29) | Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/e09854da-00dd-4596-a22c-a1b2463a2a29) | Jun 2026 |

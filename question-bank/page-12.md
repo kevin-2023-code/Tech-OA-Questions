@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,056 free to solve
+**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
 
 **By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
 
@@ -284,7 +284,7 @@
 | **[Disney](../companies/disney.md)** | [Airport Runway Scheduling: Assign Each Flight a Runway](https://trueinterview.io/questions/airport-runway-assignment) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/airport-runway-assignment) | — |
 | **[Lyft](../companies/lyft.md)** | [Alien Base Attack](https://trueinterview.io/questions/alien-base-attack) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/alien-base-attack) | — |
 | **[SoFi](../companies/sofi.md)** | [Align with PM on ranking goals](https://trueinterview.io/questions/align-with-pm-on-ranking-goals) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/align-with-pm-on-ranking-goals) | — |
-| **[Meta](../companies/meta.md)** / [Apple](../companies/apple.md) | [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
+| **[Meta](../companies/meta.md)** / [Apple](../companies/apple.md) | [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Alternating Iterator Over Two Lists](https://trueinterview.io/questions/zigzag-interleaving-iterator) | Phone | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/zigzag-interleaving-iterator) | — |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [An Evening of Movies](https://trueinterview.io/questions/d5fd5e8c-f2f0-4231-bdd6-7fa8716245bc) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/d5fd5e8c-f2f0-4231-bdd6-7fa8716245bc) | — |
 | **[Bloomberg](../companies/bloomberg.md)** | [Anagram Question](https://trueinterview.io/questions/34828e80-d9ef-43e4-856f-8b5bf8c29609) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/34828e80-d9ef-43e4-856f-8b5bf8c29609) | — |
@@ -345,7 +345,7 @@
 | **[Karat](../companies/karat.md)** | [Board Game Teleporters: Reachable Squares and Finishability](https://trueinterview.io/questions/teleporter-board-game) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/teleporter-board-game) | — |
 | **[Square](../companies/square.md)** | [Boatman, Fox, Chicken and Grain River Crossing Planner](https://trueinterview.io/questions/river-crossing-puzzle) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/river-crossing-puzzle) | — |
 | **[Meta](../companies/meta.md)** | [Brainstorm how to optimize email engagement](https://trueinterview.io/questions/brainstorm-how-to-optimize-email-engagement) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/brainstorm-how-to-optimize-email-engagement) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Bucket Words That Share the Same Letters](https://trueinterview.io/questions/group-anagrams-2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/group-anagrams-2) | — |
+| **[C3.ai](../companies/c3-ai.md)** | [Bucket Words That Share the Same Letters](https://trueinterview.io/questions/group-anagrams-2) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/group-anagrams-2) | — |
 | **[Tradedesk](../companies/tradedesk.md)** | [Buddies Greater than Target](https://trueinterview.io/questions/055e2b8e-9813-42ea-be04-71e25dff05a4) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/055e2b8e-9813-42ea-be04-71e25dff05a4) | — |
 | **[Amazon](../companies/amazon.md)** | [Build a BFS Web Crawler with Robust Retry and URL Normalization](https://trueinterview.io/questions/f34ba82c-7551-45b0-89de-a459613355eb) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f34ba82c-7551-45b0-89de-a459613355eb) | — |
 | **[Capital One](../companies/capital-one.md)** | [Build a causal ML pipeline end-to-end](https://trueinterview.io/questions/build-a-causal-ml-pipeline-end-to-end) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/build-a-causal-ml-pipeline-end-to-end) | — |

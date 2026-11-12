@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**205 questions** · 56 from an OA · 37 reported in the last 90 days · 102 free to solve
+**205 questions** · 56 from an OA · 37 reported in the last 90 days · 103 free to solve
 
 **Rounds:** 📝 OA (56) · 📞 Phone (116) · 🏢 Onsite (39)
 
@@ -101,7 +101,7 @@
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Guess Number II](https://trueinterview.io/questions/guess-number-ii) | Phone | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/guess-number-ii) | May 1, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Compute EMA Indicators and Detect Crossovers in Pandas](https://trueinterview.io/questions/eec3b2bb-0fda-44b2-bc31-5efa0e915e2d) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/eec3b2bb-0fda-44b2-bc31-5efa0e915e2d) | May 2026 |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Implement itoa()](https://trueinterview.io/questions/4856d68c-2108-40c6-aac6-9ef1c545e397) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4856d68c-2108-40c6-aac6-9ef1c545e397) | May 2026 |
-| **[Point72](../companies/point72.md)** | [Lexicographically Smallest String After Substring Operation](https://trueinterview.io/questions/ba992b9b-c4bd-4972-8d2f-504c8782f205) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ba992b9b-c4bd-4972-8d2f-504c8782f205) | May 2026 |
+| **[Point72](../companies/point72.md)** | [Lexicographically Smallest String After Substring Operation](https://trueinterview.io/questions/ba992b9b-c4bd-4972-8d2f-504c8782f205) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/ba992b9b-c4bd-4972-8d2f-504c8782f205) | May 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** | [QR Statistics / Domain Knowledge Oral](https://trueinterview.io/questions/qr-statistics-domain-oral) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/qr-statistics-domain-oral) | May 2026 |
 | **[Optiver](../companies/optiver.md)** | [Count Ordered Sequences That Sum to a Target](https://trueinterview.io/questions/count-ordered-sequences-that-sum-to-a-target) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-ordered-sequences-that-sum-to-a-target) | Apr 28, 2026 |
 | **[Citadel](../companies/citadel.md)** | [GQS Quant Phone — Correlation Range + Box-Muller-Style Sampling](https://trueinterview.io/questions/gqs-quant-phone-brainteasers) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/gqs-quant-phone-brainteasers) | Apr 28, 2026 |

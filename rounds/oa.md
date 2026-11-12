@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**802 questions** · 802 from an OA · 132 reported in the last 90 days · 234 free to solve
+**802 questions** · 802 from an OA · 132 reported in the last 90 days · 241 free to solve
 
 **By level:** 🎓 Intern & New grad (495) · 🌱 Mid (484) · 🎯 Senior (252) · 🚀 Staff+ (20)
 
@@ -32,7 +32,7 @@
 | **[Capital One](../companies/capital-one.md)** | [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/number-line-block-placement) | 🆕 Oct 2, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Employee Attrition Prediction](https://trueinterview.io/questions/employee-attrition-prediction) | OA · Onsite | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/employee-attrition-prediction) | 🆕 Oct 1, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-iv) | 🆕 Oct 1, 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Maximum Number of Occurrences of a Substring (LC 1297)](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | 🆕 Oct 1, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Maximum Number of Occurrences of a Substring (LC 1297)](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | 🆕 Oct 1, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Memory Blocks — Reachable MEX After One Increment](https://trueinterview.io/questions/oa-memory-block-mex-one-increment) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/oa-memory-block-mex-one-increment) | 🆕 Oct 1, 2026 |
 | **[Amazon](../companies/amazon.md)** | [AI Assistant Repo Bug-Fix](https://trueinterview.io/questions/ai-assistant-repo-bug-fix) | OA | Intern · New grad · Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/ai-assistant-repo-bug-fix) | 🆕 Oct 2026 |
 | **[Google](../companies/google.md)** | [Answer Google Behavioral Questions](https://trueinterview.io/questions/answer-google-behavioral-questions) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-google-behavioral-questions) | 🆕 Oct 2026 |

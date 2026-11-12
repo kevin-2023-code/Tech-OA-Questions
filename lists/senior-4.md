@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,554 free to solve
+**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,590 free to solve
 
 **By role:** 💻 Software Engineering (2,492) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
@@ -87,7 +87,7 @@
 | **[Reddit](../companies/reddit.md)** | [Design Reddit Comments Ranking System](https://trueinterview.io/questions/design-reddit-s-post-comment-ranking-system) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-reddit-s-post-comment-ranking-system) | Jun 2026 |
 | **[Robinhood](../companies/robinhood.md)** / [Coinbase](../companies/coinbase.md) / [Databricks](../companies/databricks.md) / +1 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Jun 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Efficiency of Distributed Systems](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Jun 2026 |
-| **[C3.ai](../companies/c3-ai.md)** | [Enumerate All Balanced Bracket Strings for N Pairs](https://trueinterview.io/questions/generate-parentheses) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-parentheses) | Jun 2026 |
+| **[C3.ai](../companies/c3-ai.md)** | [Enumerate All Balanced Bracket Strings for N Pairs](https://trueinterview.io/questions/generate-parentheses) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/generate-parentheses) | Jun 2026 |
 | **[Apple](../companies/apple.md)** | [Evaluate a model and choose metrics](https://trueinterview.io/questions/evaluate-a-model-and-choose-metrics) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-a-model-and-choose-metrics) | Jun 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** / [Two Sigma](../companies/two-sigma.md) | [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/exchange-order-matching-engine) | Jun 2026 |
 | **[OpenAI](../companies/openai.md)** | [Explain motivation and mission alignment](https://trueinterview.io/questions/explain-motivation-and-mission-alignment) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-motivation-and-mission-alignment) | Jun 2026 |

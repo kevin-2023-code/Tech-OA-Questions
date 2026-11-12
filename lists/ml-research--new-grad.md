@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**69 questions** · 14 from an OA · 19 reported in the last 90 days · 27 free to solve
+**69 questions** · 14 from an OA · 19 reported in the last 90 days · 28 free to solve
 
 **Rounds:** 📝 OA (14) · 📞 Phone (38) · 🏢 Onsite (24)
 
@@ -66,7 +66,7 @@
 | **[Tesla](../companies/tesla.md)** | [Speed-Limit RL Reward from Trajectory Samples](https://trueinterview.io/questions/speed-limit-rl-reward) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/speed-limit-rl-reward) | Feb 3, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [How to deploy and tune multimodal models?](https://trueinterview.io/questions/how-to-deploy-and-tune-multimodal-models) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-to-deploy-and-tune-multimodal-models) | Jan 10, 2026 |
 | **[Perplexity](../companies/perplexity.md)** | [Byte Tokenizer](https://trueinterview.io/questions/8edaef48-6a51-41bc-aa63-1a491ca4bcf3) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/8edaef48-6a51-41bc-aa63-1a491ca4bcf3) | Jan 6, 2026 |
-| **[Uber](../companies/uber.md)** | [Number of Ways to Earn Points](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Jan 5, 2026 |
+| **[Uber](../companies/uber.md)** | [Number of Ways to Earn Points](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Jan 5, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Bagging from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | Jan 4, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [k-Means from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-k-means-from-scratch) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/codesignal-ml-rs-oa-k-means-from-scratch) | Jan 4, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [ML Concepts and Coding Assessment](https://trueinterview.io/questions/codesignal-ml-rs-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/codesignal-ml-rs-oa) | Jan 4, 2026 |

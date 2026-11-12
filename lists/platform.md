@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Platform Engineer** role.
 
-**164 questions** · 3 from an OA · 56 reported in the last 90 days · 55 free to solve
+**164 questions** · 3 from an OA · 56 reported in the last 90 days · 56 free to solve
 
 **By level:** 🎓 Intern & New grad (13) · 🌱 Mid (68) · 🎯 Senior (139) · 🚀 Staff+ (37)
 
@@ -63,7 +63,7 @@
 | **[ByteDance](../companies/bytedance.md)** | [How to triage slow service alerts](https://trueinterview.io/questions/how-to-triage-slow-service-alerts) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-to-triage-slow-service-alerts) | Sep 2026 |
 | **[Apple](../companies/apple.md)** | [Improve QA Benchmarks, Regression Tests, and HPC Resource Use](https://trueinterview.io/questions/improve-qa-benchmarks-regression-tests-and-hpc-resource-use) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/improve-qa-benchmarks-regression-tests-and-hpc-resource-use) | Sep 2026 |
 | **[Oracle](../companies/oracle.md)** | [Maximum of Minimums of Every Window](https://trueinterview.io/questions/4ffe3fac-ea66-5d5f-8331-b09736fb1392) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4ffe3fac-ea66-5d5f-8331-b09736fb1392) | Sep 2026 |
-| **[LinkedIn](../companies/linkedin.md)** | [Merge Two Binary Trees](https://trueinterview.io/questions/ae49b4f1-cc71-525c-8a18-f23565f7f7c4) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ae49b4f1-cc71-525c-8a18-f23565f7f7c4) | Sep 2026 |
+| **[LinkedIn](../companies/linkedin.md)** | [Merge Two Binary Trees](https://trueinterview.io/questions/ae49b4f1-cc71-525c-8a18-f23565f7f7c4) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/ae49b4f1-cc71-525c-8a18-f23565f7f7c4) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Minimum Edge Moves to Connect a Graph](https://trueinterview.io/questions/9f5e5a76-c43a-54fe-9d99-d0966ec173fa) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/9f5e5a76-c43a-54fe-9d99-d0966ec173fa) | Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [Monitor Devices Over an Unreliable Network](https://trueinterview.io/questions/monitor-devices-over-an-unreliable-network) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/monitor-devices-over-an-unreliable-network) | Sep 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Multi-Key Bounded Task Executor](https://trueinterview.io/questions/multi-key-bounded-task-executor) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/multi-key-bounded-task-executor) | Sep 2026 |

@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**185 questions** · 9 from an OA · 49 reported in the last 90 days · 86 free to solve
+**185 questions** · 9 from an OA · 49 reported in the last 90 days · 87 free to solve
 
 **Rounds:** 📝 OA (9) · 📞 Phone (116) · 🏢 Onsite (89)
 
@@ -168,7 +168,7 @@
 | **[Oracle](../companies/oracle.md)** | [Handwritten MHA and Sparse Matmul](https://trueinterview.io/questions/ml-coding-mha-sparse-matmul) | Phone | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/ml-coding-mha-sparse-matmul) | Jan 22, 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Describe an innovation you drove end-to-end](https://trueinterview.io/questions/describe-an-innovation-you-drove-end-to-end) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-an-innovation-you-drove-end-to-end) | Jan 10, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [How to deploy and tune multimodal models?](https://trueinterview.io/questions/how-to-deploy-and-tune-multimodal-models) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-to-deploy-and-tune-multimodal-models) | Jan 10, 2026 |
-| **[Uber](../companies/uber.md)** | [Number of Ways to Earn Points](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Jan 5, 2026 |
+| **[Uber](../companies/uber.md)** | [Number of Ways to Earn Points](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Jan 5, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Explain overfitting and how to prevent it](https://trueinterview.io/questions/explain-overfitting-and-how-to-prevent-it) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-overfitting-and-how-to-prevent-it) | Jan 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Explain Transformer, GPT vs BERT, and PR metrics](https://trueinterview.io/questions/explain-transformer-gpt-vs-bert-and-pr-metrics) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-transformer-gpt-vs-bert-and-pr-metrics) | Jan 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [Jupyter Pair Programming on Messy Classification Data](https://trueinterview.io/questions/mle-jupyter-classification) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/mle-jupyter-classification) | Dec 19, 2025 |

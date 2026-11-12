@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,554 free to solve
+**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,590 free to solve
 
 **By role:** 💻 Software Engineering (2,492) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
@@ -51,7 +51,7 @@
 | **[Stripe](../companies/stripe.md)** | [Business Account Data Verification](https://trueinterview.io/questions/business-account-data-verification) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/business-account-data-verification) | 🆕 Oct 2026 |
 | **[OpenAI](../companies/openai.md)** | [Chat Bot System Refactoring](https://trueinterview.io/questions/chat-bot-system-refactoring) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/chat-bot-system-refactoring) | 🆕 Oct 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Clone a Doubly Linked List with Special Pointers](https://trueinterview.io/questions/98ba233b-3f42-5e5c-8397-394f08d4fdb2) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/98ba233b-3f42-5e5c-8397-394f08d4fdb2) | 🆕 Oct 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Count of Smaller Numbers After Self](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | 🆕 Oct 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Count of Smaller Numbers After Self](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | 🆕 Oct 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Count Valid IPv4 Addresses in Fetched Text](https://trueinterview.io/questions/100ce093-854b-5ebe-86bb-0e448b469a7d) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/100ce093-854b-5ebe-86bb-0e448b469a7d) | 🆕 Oct 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +8 | [Course Schedule](https://trueinterview.io/questions/course-schedule) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
 | **[Snapchat](../companies/snapchat.md)** / [ByteDance](../companies/bytedance.md) / [eBay](../companies/ebay.md) | [Course Schedule Cycle Detection](https://trueinterview.io/questions/course-schedule-cycle-detection) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/course-schedule-cycle-detection) | 🆕 Oct 2026 |

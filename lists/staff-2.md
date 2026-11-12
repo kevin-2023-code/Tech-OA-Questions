@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**1,097 questions** · 20 from an OA · 154 reported in the last 90 days · 670 free to solve
+**1,097 questions** · 20 from an OA · 154 reported in the last 90 days · 671 free to solve
 
 **By role:** 💻 Software Engineering (358) · 🤖 ML, AI & Research (138) · 📊 Data Science & Analytics (552) · 📈 Quantitative Finance (15) · 📱 Product Management (24) · 🔧 Hardware Engineering (5)
 
@@ -84,7 +84,7 @@
 | **[LinkedIn](../companies/linkedin.md)** | [How do you win project buy-in?](https://trueinterview.io/questions/how-do-you-win-project-buy-in) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-do-you-win-project-buy-in) | Jan 1, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Spam Email Detection](https://trueinterview.io/questions/spam-email-detection) | Phone · Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/spam-email-detection) | Jan 1, 2026 |
 | **[Meta](../companies/meta.md)** | [Compute p-values, power, and adjust errors](https://trueinterview.io/questions/compute-p-values-power-and-adjust-errors) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-p-values-power-and-adjust-errors) | Jan 2026 |
-| **[DoorDash](../companies/doordash.md)** | [Count and Say](https://trueinterview.io/questions/fd94fd33-664d-46f3-b15b-9121ced75b5e) | OA | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/fd94fd33-664d-46f3-b15b-9121ced75b5e) | Jan 2026 |
+| **[DoorDash](../companies/doordash.md)** | [Count and Say](https://trueinterview.io/questions/fd94fd33-664d-46f3-b15b-9121ced75b5e) | OA | Staff+ | Coding | [![Free][f]](https://trueinterview.io/questions/fd94fd33-664d-46f3-b15b-9121ced75b5e) | Jan 2026 |
 | **[Google](../companies/google.md)** | [Demonstrate stakeholder communication and influence](https://trueinterview.io/questions/demonstrate-stakeholder-communication-and-influence) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/demonstrate-stakeholder-communication-and-influence) | Jan 2026 |
 | **[Uber](../companies/uber.md)** | [Design an experiment with marketplace network effects](https://trueinterview.io/questions/design-an-experiment-with-marketplace-network-effects) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-experiment-with-marketplace-network-effects) | Jan 2026 |
 | **[Meta](../companies/meta.md)** | [Diagnose a sudden KPI drop and validate causes](https://trueinterview.io/questions/diagnose-a-sudden-kpi-drop-and-validate-causes) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-a-sudden-kpi-drop-and-validate-causes) | Jan 2026 |

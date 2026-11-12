@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**802 questions** · 802 from an OA · 132 reported in the last 90 days · 234 free to solve
+**802 questions** · 802 from an OA · 132 reported in the last 90 days · 241 free to solve
 
 **By level:** 🎓 Intern & New grad (495) · 🌱 Mid (484) · 🎯 Senior (252) · 🚀 Staff+ (20)
 

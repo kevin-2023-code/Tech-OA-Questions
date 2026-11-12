@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,018 free to solve
+**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,074 free to solve
 
 **By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
 
@@ -144,7 +144,7 @@
 | **[ByteDance](../companies/bytedance.md)** | [Stickers to Spell Word (LeetCode 691)](https://trueinterview.io/questions/stickers-to-spell-word) | Onsite | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/stickers-to-spell-word) | Aug 17, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Working Hours Register](https://trueinterview.io/questions/oa-working-hours-register) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-working-hours-register) | Aug 17, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Concatenate Two C++ Index Sequences at Compile Time](https://trueinterview.io/questions/concatenate-two-cplusplus-index-sequences-at-compile-time) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/concatenate-two-cplusplus-index-sequences-at-compile-time) | Aug 16, 2026 |
-| **[Apple](../companies/apple.md)** | [Copy List with Random Pointer (LC 138)](https://trueinterview.io/questions/copy-list-with-random-pointer-2) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/copy-list-with-random-pointer-2) | Aug 16, 2026 |
+| **[Apple](../companies/apple.md)** | [Copy List with Random Pointer (LC 138)](https://trueinterview.io/questions/copy-list-with-random-pointer-2) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/copy-list-with-random-pointer-2) | Aug 16, 2026 |
 | **[SIG](../companies/sig.md)** | [Count Cookie Flavor Combinations](https://trueinterview.io/questions/count-cookie-flavor-combinations) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/count-cookie-flavor-combinations) | Aug 16, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Count Distinct Values in a Massive Sorted Array](https://trueinterview.io/questions/coding-count-distinct-sorted-array) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/coding-count-distinct-sorted-array) | Aug 16, 2026 |
 | **[SIG](../companies/sig.md)** | [Count Grid Paths with No Three Equal Moves](https://trueinterview.io/questions/count-grid-paths-with-no-three-equal-moves) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-grid-paths-with-no-three-equal-moves) | Aug 16, 2026 |

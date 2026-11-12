@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 484 from an OA · 730 reported in the last 90 days · 1,083 free to solve
+**3,451 questions** · 484 from an OA · 730 reported in the last 90 days · 1,128 free to solve
 
 **By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
@@ -23,7 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[ByteDance](../companies/bytedance.md)** | [Array Partition](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | Dec 2025 |
+| **[ByteDance](../companies/bytedance.md)** | [Array Partition](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | Dec 2025 |
 | **[Intuit](../companies/intuit.md)** | [BankAccount Deposit and Withdraw Methods with Tests](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Dec 2025 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [Circular Active Computers Window](https://trueinterview.io/questions/circular-active-computers-window) | OA · Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/circular-active-computers-window) | Dec 2025 |
 | **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
@@ -416,7 +416,7 @@
 | **[Karat](../companies/karat.md)** | [Aggregating Ad Clicks Across Domains and Parent Domains](https://trueinterview.io/questions/ad-clicks-domain-analysis) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/ad-clicks-domain-analysis) | — |
 | **[Disney](../companies/disney.md)** | [Airport Runway Scheduling: Assign Each Flight a Runway](https://trueinterview.io/questions/airport-runway-assignment) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/airport-runway-assignment) | — |
 | **[Lyft](../companies/lyft.md)** | [Alien Base Attack](https://trueinterview.io/questions/alien-base-attack) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/alien-base-attack) | — |
-| **[Meta](../companies/meta.md)** / [Apple](../companies/apple.md) | [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
+| **[Meta](../companies/meta.md)** / [Apple](../companies/apple.md) | [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Alternating Iterator Over Two Lists](https://trueinterview.io/questions/zigzag-interleaving-iterator) | Phone | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/zigzag-interleaving-iterator) | — |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [An Evening of Movies](https://trueinterview.io/questions/d5fd5e8c-f2f0-4231-bdd6-7fa8716245bc) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/d5fd5e8c-f2f0-4231-bdd6-7fa8716245bc) | — |
 | **[Capital One](../companies/capital-one.md)** | [Analyze ad watch-time with Excel pivots](https://trueinterview.io/questions/analyze-ad-watch-time-with-excel-pivots) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-ad-watch-time-with-excel-pivots) | — |

@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *AI labs & AI infrastructure*.
 
-**503 questions** · 39 from an OA · 156 reported in the last 90 days · 152 free to solve
+**503 questions** · 39 from an OA · 156 reported in the last 90 days · 163 free to solve
 
 **By level:** 🎓 Intern & New grad (95) · 🌱 Mid (307) · 🎯 Senior (427) · 🚀 Staff+ (85)
 
@@ -250,7 +250,7 @@
 | **[Luma AI](../companies/luma-ai.md)** | [Copy an Image Matrix](https://trueinterview.io/questions/6f016452-d9b6-5e16-b260-34ec46994410) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/6f016452-d9b6-5e16-b260-34ec46994410) | Jun 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Describe failure impact and resolve cross-functional conflict](https://trueinterview.io/questions/describe-failure-impact-and-resolve-cross-functional-conflict) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-failure-impact-and-resolve-cross-functional-conflict) | Jun 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Efficiency of Distributed Systems](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Jun 2026 |
-| **[C3.ai](../companies/c3-ai.md)** | [Enumerate All Balanced Bracket Strings for N Pairs](https://trueinterview.io/questions/generate-parentheses) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-parentheses) | Jun 2026 |
+| **[C3.ai](../companies/c3-ai.md)** | [Enumerate All Balanced Bracket Strings for N Pairs](https://trueinterview.io/questions/generate-parentheses) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/generate-parentheses) | Jun 2026 |
 | **[OpenAI](../companies/openai.md)** | [Explain motivation and mission alignment](https://trueinterview.io/questions/explain-motivation-and-mission-alignment) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-motivation-and-mission-alignment) | Jun 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Find All Possible Recipes from Given Supplies](https://trueinterview.io/questions/89c84243-c0ab-5947-8e9b-9a29a3f7895c) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/89c84243-c0ab-5947-8e9b-9a29a3f7895c) | Jun 2026 |
 | **[Luma AI](../companies/luma-ai.md)** | [Gaussian Image Filter](https://trueinterview.io/questions/8725ba22-7231-5ba5-9991-fbf266e5c571) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/8725ba22-7231-5ba5-9991-fbf266e5c571) | Jun 2026 |
@@ -412,7 +412,7 @@
 | **[Mercor](../companies/mercor.md)** | [Explain VPCs and private/public network connectivity](https://trueinterview.io/questions/explain-vpcs-and-private-public-network-connectivity) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-vpcs-and-private-public-network-connectivity) | Jan 17, 2026 |
 | **[Mercor](../companies/mercor.md)** | [Explain what happens when opening a website](https://trueinterview.io/questions/explain-what-happens-when-opening-a-website) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-what-happens-when-opening-a-website) | Jan 17, 2026 |
 | **[xAI](../companies/xai.md)** | [Implement two string utility functions](https://trueinterview.io/questions/implement-two-string-utility-functions) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-two-string-utility-functions) | Jan 17, 2026 |
-| **[xAI](../companies/xai.md)** | [Maximum Number of Distinct Elements After Operations](https://trueinterview.io/questions/maximum-number-of-distinct-elements-after-operations) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-number-of-distinct-elements-after-operations) | Jan 15, 2026 |
+| **[xAI](../companies/xai.md)** | [Maximum Number of Distinct Elements After Operations](https://trueinterview.io/questions/maximum-number-of-distinct-elements-after-operations) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/maximum-number-of-distinct-elements-after-operations) | Jan 15, 2026 |
 | **[xAI](../companies/xai.md)** | [Multithreaded Array Sort](https://trueinterview.io/questions/parallel-integer-sort) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/parallel-integer-sort) | Jan 15, 2026 |
 | **[xAI](../companies/xai.md)** | [K-th Element on a Streaming Time Window](https://trueinterview.io/questions/kth-element-streaming-window) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/kth-element-streaming-window) | Jan 14, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Implement a memory allocator with malloc/free](https://trueinterview.io/questions/implement-a-memory-allocator-with-malloc-free) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-memory-allocator-with-malloc-free) | Jan 9, 2026 |

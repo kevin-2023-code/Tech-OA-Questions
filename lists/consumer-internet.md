@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Consumer internet & media*.
 
-**1,581 questions** · 128 from an OA · 341 reported in the last 90 days · 565 free to solve
+**1,581 questions** · 128 from an OA · 341 reported in the last 90 days · 578 free to solve
 
 **By level:** 🎓 Intern & New grad (334) · 🌱 Mid (904) · 🎯 Senior (1,148) · 🚀 Staff+ (389)
 
@@ -37,7 +37,7 @@
 | **[LinkedIn](../companies/linkedin.md)** | [Behavioral / BQ Question Pack](https://trueinterview.io/questions/behavioral-bq-pack) | Phone · Onsite | New grad · Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/behavioral-bq-pack) | 🆕 Oct 2026 |
 | **[Google](../companies/google.md)** | [Behavioral Round (Googliness Themes)](https://trueinterview.io/questions/bq-round-google-style) | Phone · Onsite | New grad · Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/bq-round-google-style) | 🆕 Oct 2026 |
 | **[Uber](../companies/uber.md)** / [Pinterest](../companies/pinterest.md) | [Bus Routes (LC 815)](https://trueinterview.io/questions/phone-screen-bus-routes) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/phone-screen-bus-routes) | 🆕 Oct 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Count of Smaller Numbers After Self](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | 🆕 Oct 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Count of Smaller Numbers After Self](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | 🆕 Oct 2026 |
 | **[Google](../companies/google.md)** | [Count People Visible to the Last Person](https://trueinterview.io/questions/e9a97e39-fcc0-5bbf-b8c2-20dcb96a8a45) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e9a97e39-fcc0-5bbf-b8c2-20dcb96a8a45) | 🆕 Oct 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Count Valid IPv4 Addresses in Fetched Text](https://trueinterview.io/questions/100ce093-854b-5ebe-86bb-0e448b469a7d) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/100ce093-854b-5ebe-86bb-0e448b469a7d) | 🆕 Oct 2026 |
 | **[Google](../companies/google.md)** | [Count Visible People for Every Person](https://trueinterview.io/questions/e9bfbf28-f3d1-5845-ba02-e7e6d1a12d6d) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e9bfbf28-f3d1-5845-ba02-e7e6d1a12d6d) | 🆕 Oct 2026 |
@@ -266,7 +266,7 @@
 | **[ByteDance](../companies/bytedance.md)** / [Amazon](../companies/amazon.md) / [Uber](../companies/uber.md) | [Meeting Rooms III](https://trueinterview.io/questions/c7deeb3e-3110-567c-bdbd-2d0511efaf01) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/c7deeb3e-3110-567c-bdbd-2d0511efaf01) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Meeting Scheduler — Earliest Available Slot](https://trueinterview.io/questions/coding-meeting-scheduler-earliest-slot) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/coding-meeting-scheduler-earliest-slot) | Sep 2026 |
 | **[Citadel](../companies/citadel.md)** / [ByteDance](../companies/bytedance.md) | [Merge K Sorted Price Streams](https://trueinterview.io/questions/merge-k-sorted-streams-ood) | Phone | Intern · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/merge-k-sorted-streams-ood) | Sep 2026 |
-| **[LinkedIn](../companies/linkedin.md)** | [Merge Two Binary Trees](https://trueinterview.io/questions/ae49b4f1-cc71-525c-8a18-f23565f7f7c4) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ae49b4f1-cc71-525c-8a18-f23565f7f7c4) | Sep 2026 |
+| **[LinkedIn](../companies/linkedin.md)** | [Merge Two Binary Trees](https://trueinterview.io/questions/ae49b4f1-cc71-525c-8a18-f23565f7f7c4) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/ae49b4f1-cc71-525c-8a18-f23565f7f7c4) | Sep 2026 |
 | **[Google](../companies/google.md)** | [Merge Two Ordered Trees with Duplicate Child Names](https://trueinterview.io/questions/209df204-f3fd-510e-9130-3131abf054e0) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/209df204-f3fd-510e-9130-3131abf054e0) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Minimum Length Substring](https://trueinterview.io/questions/c7a9cd29-a095-51b6-892b-70df2898ff3f) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c7a9cd29-a095-51b6-892b-70df2898ff3f) | Sep 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Minimum Subsequences to Form a Target String](https://trueinterview.io/questions/9423861c-f075-545f-82c3-3725c330617d) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/9423861c-f075-545f-82c3-3725c330617d) | Sep 2026 |

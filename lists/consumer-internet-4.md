@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Consumer internet & media*.
 
-**1,581 questions** · 128 from an OA · 341 reported in the last 90 days · 565 free to solve
+**1,581 questions** · 128 from an OA · 341 reported in the last 90 days · 578 free to solve
 
 **By level:** 🎓 Intern & New grad (334) · 🌱 Mid (904) · 🎯 Senior (1,148) · 🚀 Staff+ (389)
 
@@ -53,7 +53,7 @@
 | **[Google](../companies/google.md)** | [Add a conditional column in Python](https://trueinterview.io/questions/add-a-conditional-column-in-python) | Phone | New grad · Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/add-a-conditional-column-in-python) | — |
 | **[Meta](../companies/meta.md)** | [Ads Impression SQL Query](https://trueinterview.io/questions/cd8e263f-9929-49d1-804b-210708292d39) | OA | Intern · New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/cd8e263f-9929-49d1-804b-210708292d39) | — |
 | **[Netflix](../companies/netflix.md)** | [Aggregate D1 retention cohorts in SQL](https://trueinterview.io/questions/aggregate-d1-retention-cohorts-in-sql) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/aggregate-d1-retention-cohorts-in-sql) | — |
-| **[Meta](../companies/meta.md)** / [Apple](../companies/apple.md) | [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
+| **[Meta](../companies/meta.md)** / [Apple](../companies/apple.md) | [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
 | **[Pinterest](../companies/pinterest.md)** | [Analyze a geo rollout and interpret charts](https://trueinterview.io/questions/analyze-a-geo-rollout-and-interpret-charts) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-a-geo-rollout-and-interpret-charts) | — |
 | **[Meta](../companies/meta.md)** | [Analyze ad targeting expectations and distributions](https://trueinterview.io/questions/analyze-ad-targeting-expectations-and-distributions) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-ad-targeting-expectations-and-distributions) | — |
 | **[Meta](../companies/meta.md)** | [Analyze daily comments distribution and sampling](https://trueinterview.io/questions/analyze-daily-comments-distribution-and-sampling) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-daily-comments-distribution-and-sampling) | — |

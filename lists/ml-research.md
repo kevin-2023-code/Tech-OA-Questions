@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Machine Learning Engineer**, **AI Engineer** or **Research Scientist** role.
 
-**481 questions** · 21 from an OA · 110 reported in the last 90 days · 184 free to solve
+**481 questions** · 21 from an OA · 110 reported in the last 90 days · 185 free to solve
 
 **By level:** 🎓 Intern & New grad (69) · 🌱 Mid (185) · 🎯 Senior (385) · 🚀 Staff+ (138)
 
@@ -394,7 +394,7 @@
 | **[Perplexity](../companies/perplexity.md)** | [Byte Tokenizer](https://trueinterview.io/questions/8edaef48-6a51-41bc-aa63-1a491ca4bcf3) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/8edaef48-6a51-41bc-aa63-1a491ca4bcf3) | Jan 6, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Explain KV cache in Transformer inference](https://trueinterview.io/questions/explain-kv-cache-in-transformer-inference) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-kv-cache-in-transformer-inference) | Jan 6, 2026 |
 | **[Google](../companies/google.md)** | [Respond to long-term concerns after A/B success](https://trueinterview.io/questions/respond-to-long-term-concerns-after-a-b-success) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/respond-to-long-term-concerns-after-a-b-success) | Jan 6, 2026 |
-| **[Uber](../companies/uber.md)** | [Number of Ways to Earn Points](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Jan 5, 2026 |
+| **[Uber](../companies/uber.md)** | [Number of Ways to Earn Points](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/number-of-ways-to-earn-points) | Jan 5, 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Product Feed and Shopping Recommendation System](https://trueinterview.io/questions/product-feed-and-shopping-recommendation-system) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/product-feed-and-shopping-recommendation-system) | Jan 5, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Bagging from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | Jan 4, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [k-Means from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-k-means-from-scratch) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/codesignal-ml-rs-oa-k-means-from-scratch) | Jan 4, 2026 |

@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Quant trading & hedge funds*.
 
-**383 questions** · 119 from an OA · 66 reported in the last 90 days · 165 free to solve
+**383 questions** · 119 from an OA · 66 reported in the last 90 days · 166 free to solve
 
 **By level:** 🎓 Intern & New grad (160) · 🌱 Mid (270) · 🎯 Senior (187) · 🚀 Staff+ (22)
 
@@ -182,7 +182,7 @@
 | **[Two Sigma](../companies/two-sigma.md)** | [Greedy feature selection](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-greedy-feature-selection) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-greedy-feature-selection) | May 2026 |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Implement itoa()](https://trueinterview.io/questions/4856d68c-2108-40c6-aac6-9ef1c545e397) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4856d68c-2108-40c6-aac6-9ef1c545e397) | May 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Implement Square Root Without Using sqrt (Precision Required)](https://trueinterview.io/questions/9e64a322-382b-47f3-8bdf-41f3a925fe32) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9e64a322-382b-47f3-8bdf-41f3a925fe32) | May 2026 |
-| **[Point72](../companies/point72.md)** | [Lexicographically Smallest String After Substring Operation](https://trueinterview.io/questions/ba992b9b-c4bd-4972-8d2f-504c8782f205) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ba992b9b-c4bd-4972-8d2f-504c8782f205) | May 2026 |
+| **[Point72](../companies/point72.md)** | [Lexicographically Smallest String After Substring Operation](https://trueinterview.io/questions/ba992b9b-c4bd-4972-8d2f-504c8782f205) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/ba992b9b-c4bd-4972-8d2f-504c8782f205) | May 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** | [QR Statistics / Domain Knowledge Oral](https://trueinterview.io/questions/qr-statistics-domain-oral) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/qr-statistics-domain-oral) | May 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** | [Similarity analysis](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-similarity-analysis) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-similarity-analysis) | May 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** | [Volatility analysis](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-volatility-analysis) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-volatility-analysis) | May 2026 |

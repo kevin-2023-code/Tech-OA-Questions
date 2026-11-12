@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,056 free to solve
+**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
 
 **By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
 
@@ -365,7 +365,7 @@
 | **[Google](../companies/google.md)** | [Find Nearest Favorite City](https://trueinterview.io/questions/5d8835c7-92b4-4902-be8d-28cfc27aa289) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5d8835c7-92b4-4902-be8d-28cfc27aa289) | Sep 2026 |
 | **[Databricks](../companies/databricks.md)** | [Find Optimal Commute](https://trueinterview.io/questions/find-optimal-commute) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-optimal-commute) | Sep 2026 |
 | **[Meta](../companies/meta.md)** | [Find Shortest Path in Matrix](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Sep 2026 |
-| **[Roblox](../companies/roblox.md)** / [Microsoft](../companies/microsoft.md) / [Uber](../companies/uber.md) | [Find the Closest Palindrome](https://trueinterview.io/questions/find-the-closest-palindrome) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-closest-palindrome) | Sep 2026 |
+| **[Roblox](../companies/roblox.md)** / [Microsoft](../companies/microsoft.md) / [Uber](../companies/uber.md) | [Find the Closest Palindrome](https://trueinterview.io/questions/find-the-closest-palindrome) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-the-closest-palindrome) | Sep 2026 |
 | **[Stripe](../companies/stripe.md)** | [Find the Latest Bank Account Balance](https://trueinterview.io/questions/74133864-60db-59b8-b4f9-663c0ff1ad00) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/74133864-60db-59b8-b4f9-663c0ff1ad00) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Find the Second Minimum in a Tournament Tree](https://trueinterview.io/questions/03cf85cf-d059-5960-9a3b-07b92478b554) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/03cf85cf-d059-5960-9a3b-07b92478b554) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Find the Top 10 Most Frequent IP Addresses](https://trueinterview.io/questions/043bcc4b-65d7-5602-86a0-e43f48487ab4) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/043bcc4b-65d7-5602-86a0-e43f48487ab4) | Sep 2026 |

@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Autonomy, automotive & mobility*.
 
-**200 questions** · 25 from an OA · 40 reported in the last 90 days · 53 free to solve
+**200 questions** · 25 from an OA · 40 reported in the last 90 days · 55 free to solve
 
 **By level:** 🎓 Intern & New grad (42) · 🌱 Mid (111) · 🎯 Senior (132) · 🚀 Staff+ (22)
 
@@ -85,7 +85,7 @@
 | **[Waymo](../companies/waymo.md)** | [Evaluate Smart Wait Launch Impact](https://trueinterview.io/questions/evaluate-smart-wait-launch-impact) | OA | New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-smart-wait-launch-impact) | Jul 2026 |
 | **[Waymo](../companies/waymo.md)** | [Implement Safe Average Function](https://trueinterview.io/questions/implement-safe-average-function) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-safe-average-function) | Jul 2026 |
 | **[Waymo](../companies/waymo.md)** | [Low-Frequency Users By City](https://trueinterview.io/questions/low-frequency-users-by-city) | OA | New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/low-frequency-users-by-city) | Jul 2026 |
-| **[Waymo](../companies/waymo.md)** / [Uber](../companies/uber.md) | [Minimum Number of Refueling Stops](https://trueinterview.io/questions/95fdca49-56e1-5288-ba84-4eb580ab2d0c) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/95fdca49-56e1-5288-ba84-4eb580ab2d0c) | Jul 2026 |
+| **[Waymo](../companies/waymo.md)** / [Uber](../companies/uber.md) | [Minimum Number of Refueling Stops](https://trueinterview.io/questions/95fdca49-56e1-5288-ba84-4eb580ab2d0c) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/95fdca49-56e1-5288-ba84-4eb580ab2d0c) | Jul 2026 |
 | **[Waymo](../companies/waymo.md)** | [Monthly Ride Aggregation](https://trueinterview.io/questions/monthly-ride-aggregation) | OA | New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/monthly-ride-aggregation) | Jul 2026 |
 | **[Waymo](../companies/waymo.md)** | [Retention Rating By Active Month](https://trueinterview.io/questions/retention-rating-by-active-month) | OA | New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/retention-rating-by-active-month) | Jul 2026 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Sensor Data Query Processor](https://trueinterview.io/questions/12f19a25-7175-5224-8bf1-2e6262350b76) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/12f19a25-7175-5224-8bf1-2e6262350b76) | Jul 2026 |
@@ -178,7 +178,7 @@
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Topological Sort with Nested Elements](https://trueinterview.io/questions/75bb27c8-8c45-415d-bd44-edfb0d52af96) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/75bb27c8-8c45-415d-bd44-edfb0d52af96) | Jan 2026 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Validate JSON against Protobuf](https://trueinterview.io/questions/05f64d73-a5a3-45b8-9df3-8e995581973b) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/05f64d73-a5a3-45b8-9df3-8e995581973b) | Jan 2026 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Evaluate variables in simple arithmetic DSL](https://trueinterview.io/questions/evaluate-variables-in-simple-arithmetic-dsl) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-variables-in-simple-arithmetic-dsl) | Dec 1, 2025 |
-| **[Pinterest](../companies/pinterest.md)** / [WeRide](../companies/weride.md) | [Delete Node in a Linked List](https://trueinterview.io/questions/13d6911a-76ff-4500-b9d4-54ca1a194576) | OA | Intern · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/13d6911a-76ff-4500-b9d4-54ca1a194576) | Dec 2025 |
+| **[Pinterest](../companies/pinterest.md)** / [WeRide](../companies/weride.md) | [Delete Node in a Linked List](https://trueinterview.io/questions/13d6911a-76ff-4500-b9d4-54ca1a194576) | OA | Intern · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/13d6911a-76ff-4500-b9d4-54ca1a194576) | Dec 2025 |
 | **[WeRide](../companies/weride.md)** | [Fast Exponentiation](https://trueinterview.io/questions/426281b5-c8ea-4c25-ab4a-3a5ba2ef4a5e) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/426281b5-c8ea-4c25-ab4a-3a5ba2ef4a5e) | Dec 2025 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Message Parser](https://trueinterview.io/questions/e50a4680-a10a-486b-8a7a-5058a6225a0e) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e50a4680-a10a-486b-8a7a-5058a6225a0e) | Dec 2025 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Track simulations and report timeouts](https://trueinterview.io/questions/track-simulations-and-report-timeouts) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/track-simulations-and-report-timeouts) | Dec 2025 |

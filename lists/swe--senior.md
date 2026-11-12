@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,492 questions** · 165 from an OA · 623 reported in the last 90 days · 680 free to solve
+**2,492 questions** · 165 from an OA · 623 reported in the last 90 days · 715 free to solve
 
 **Rounds:** 📝 OA (165) · 📞 Phone (1,297) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
@@ -44,7 +44,7 @@
 | **[Stripe](../companies/stripe.md)** | [Business Account Data Verification](https://trueinterview.io/questions/business-account-data-verification) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/business-account-data-verification) | 🆕 Oct 2026 |
 | **[OpenAI](../companies/openai.md)** | [Chat Bot System Refactoring](https://trueinterview.io/questions/chat-bot-system-refactoring) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/chat-bot-system-refactoring) | 🆕 Oct 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Clone a Doubly Linked List with Special Pointers](https://trueinterview.io/questions/98ba233b-3f42-5e5c-8397-394f08d4fdb2) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/98ba233b-3f42-5e5c-8397-394f08d4fdb2) | 🆕 Oct 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Count of Smaller Numbers After Self](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | 🆕 Oct 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Count of Smaller Numbers After Self](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/58826ffb-024c-5d30-8762-6025e225fb4a) | 🆕 Oct 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Count Valid IPv4 Addresses in Fetched Text](https://trueinterview.io/questions/100ce093-854b-5ebe-86bb-0e448b469a7d) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/100ce093-854b-5ebe-86bb-0e448b469a7d) | 🆕 Oct 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +8 | [Course Schedule](https://trueinterview.io/questions/course-schedule) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
 | **[Snapchat](../companies/snapchat.md)** / [ByteDance](../companies/bytedance.md) / [eBay](../companies/ebay.md) | [Course Schedule Cycle Detection](https://trueinterview.io/questions/course-schedule-cycle-detection) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/course-schedule-cycle-detection) | 🆕 Oct 2026 |
@@ -402,7 +402,7 @@
 | **[Google](../companies/google.md)** | [Find Nearest Favorite City](https://trueinterview.io/questions/5d8835c7-92b4-4902-be8d-28cfc27aa289) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5d8835c7-92b4-4902-be8d-28cfc27aa289) | Sep 2026 |
 | **[Databricks](../companies/databricks.md)** | [Find Optimal Commute](https://trueinterview.io/questions/find-optimal-commute) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-optimal-commute) | Sep 2026 |
 | **[Meta](../companies/meta.md)** | [Find Shortest Path in Matrix](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/cd73881c-9f33-4f7c-a4a9-74f9eed0f4c1) | Sep 2026 |
-| **[Roblox](../companies/roblox.md)** / [Microsoft](../companies/microsoft.md) / [Uber](../companies/uber.md) | [Find the Closest Palindrome](https://trueinterview.io/questions/find-the-closest-palindrome) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-closest-palindrome) | Sep 2026 |
+| **[Roblox](../companies/roblox.md)** / [Microsoft](../companies/microsoft.md) / [Uber](../companies/uber.md) | [Find the Closest Palindrome](https://trueinterview.io/questions/find-the-closest-palindrome) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-the-closest-palindrome) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Find the Top 10 Most Frequent IP Addresses](https://trueinterview.io/questions/043bcc4b-65d7-5602-86a0-e43f48487ab4) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/043bcc4b-65d7-5602-86a0-e43f48487ab4) | Sep 2026 |
 | **[Google](../companies/google.md)** | [Find Timed-Out Activities from Logs (OO Design)](https://trueinterview.io/questions/ad01f55b-fde8-4a15-8995-b438f5576b3a) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ad01f55b-fde8-4a15-8995-b438f5576b3a) | Sep 2026 |
 | **[Oracle](../companies/oracle.md)** / [LinkedIn](../companies/linkedin.md) | [Find Users with Valid Login Sessions](https://trueinterview.io/questions/a780c95b-69ec-4029-b04a-55101695e5d1) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/a780c95b-69ec-4029-b04a-55101695e5d1) | Sep 2026 |

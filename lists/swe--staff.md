@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**358 questions** · 11 from an OA · 111 reported in the last 90 days · 152 free to solve
+**358 questions** · 11 from an OA · 111 reported in the last 90 days · 153 free to solve
 
 **Rounds:** 📝 OA (11) · 📞 Phone (149) · 🏢 Onsite (224) · 🏠 Take-home (1)
 
@@ -300,7 +300,7 @@
 | **[Snapchat](../companies/snapchat.md)** | [Compare WebSocket, SSE, and long polling](https://trueinterview.io/questions/compare-websocket-sse-and-long-polling) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-websocket-sse-and-long-polling) | Jan 4, 2026 |
 | **[Google](../companies/google.md)** | [Describe conflict, ambiguity, and process improvement](https://trueinterview.io/questions/describe-conflict-ambiguity-and-process-improvement) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-conflict-ambiguity-and-process-improvement) | Jan 1, 2026 |
 | **[Confluent](../companies/confluent.md)** | [Explain Linux Command Execution, Filesystems, and Isolation](https://trueinterview.io/questions/explain-linux-command-execution-filesystems-and-isolation) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-linux-command-execution-filesystems-and-isolation) | Jan 1, 2026 |
-| **[DoorDash](../companies/doordash.md)** | [Count and Say](https://trueinterview.io/questions/fd94fd33-664d-46f3-b15b-9121ced75b5e) | OA | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/fd94fd33-664d-46f3-b15b-9121ced75b5e) | Jan 2026 |
+| **[DoorDash](../companies/doordash.md)** | [Count and Say](https://trueinterview.io/questions/fd94fd33-664d-46f3-b15b-9121ced75b5e) | OA | Staff+ | Coding | [![Free][f]](https://trueinterview.io/questions/fd94fd33-664d-46f3-b15b-9121ced75b5e) | Jan 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design a Multi-Resource Resource Loader](https://trueinterview.io/questions/design-a-multi-resource-resource-loader) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-multi-resource-resource-loader) | Dec 23, 2025 |
 | **[Meta](../companies/meta.md)** | [Navigate Stakeholder Conflict During a Compressed Delivery Timeline](https://trueinterview.io/questions/navigate-stakeholder-conflict-during-a-compressed-delivery-timeline) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/navigate-stakeholder-conflict-during-a-compressed-delivery-timeline) | Dec 21, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Debug distributed-system performance problems](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | OA | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | Dec 17, 2025 |

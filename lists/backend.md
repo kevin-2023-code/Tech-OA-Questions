@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Backend Engineer** role.
 
-**683 questions** · 49 from an OA · 162 reported in the last 90 days · 100 free to solve
+**683 questions** · 49 from an OA · 162 reported in the last 90 days · 101 free to solve
 
 **By level:** 🎓 Intern & New grad (80) · 🌱 Mid (307) · 🎯 Senior (527) · 🚀 Staff+ (155)
 
@@ -274,7 +274,7 @@
 | **[Microsoft](../companies/microsoft.md)** | [Todo List Full-Stack System Design](https://trueinterview.io/questions/todo-list-full-stack-system-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/todo-list-full-stack-system-design) | Jun 21, 2026 |
 | **[Databricks](../companies/databricks.md)** | [Design Book Price Aggregator](https://trueinterview.io/questions/book-price-aggregator-and-purchase-platform) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/book-price-aggregator-and-purchase-platform) | Jun 18, 2026 |
 | **[Uber](../companies/uber.md)** | [App User Behavior Data Platform](https://trueinterview.io/questions/onsite-sd-app-user-behavior-data-platform) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/onsite-sd-app-user-behavior-data-platform) | Jun 17, 2026 |
-| **[Snowflake](../companies/snowflake.md)** | [Calculate Amount Paid in Taxes](https://trueinterview.io/questions/calculate-amount-paid-in-taxes) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/calculate-amount-paid-in-taxes) | Jun 17, 2026 |
+| **[Snowflake](../companies/snowflake.md)** | [Calculate Amount Paid in Taxes](https://trueinterview.io/questions/calculate-amount-paid-in-taxes) | Phone · Onsite | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/calculate-amount-paid-in-taxes) | Jun 17, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Design Customer Support Ticketing System](https://trueinterview.io/questions/ticket-routing-system-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ticket-routing-system-design) | Jun 17, 2026 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Design Parsing Boundaries for Interdependent Message Types](https://trueinterview.io/questions/design-parsing-boundaries-for-interdependent-message-types) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-parsing-boundaries-for-interdependent-message-types) | Jun 17, 2026 |
 | **[Uber](../companies/uber.md)** | [Rate Limiter (Coding + Trade-offs)](https://trueinterview.io/questions/phone-screen-rate-limiter) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/phone-screen-rate-limiter) | Jun 16, 2026 |

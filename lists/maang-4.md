@@ -6,7 +6,7 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,693 questions** · 169 from an OA · 421 reported in the last 90 days · 584 free to solve
+**1,693 questions** · 169 from an OA · 421 reported in the last 90 days · 599 free to solve
 
 **By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
 
@@ -80,7 +80,7 @@
 | **[Meta](../companies/meta.md)** | [Minimum Length of Subarray with Min-Max Difference](https://trueinterview.io/questions/a4398c05-cc42-4b2b-804e-6e65102c2ecb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a4398c05-cc42-4b2b-804e-6e65102c2ecb) | Dec 2025 |
 | **[Google](../companies/google.md)** | [Reverse Coin Change](https://trueinterview.io/questions/38201242-69cb-409c-8f87-dc3b4332236c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/38201242-69cb-409c-8f87-dc3b4332236c) | Dec 2025 |
 | **[Meta](../companies/meta.md)** / [LinkedIn](../companies/linkedin.md) | [Robot Room Cleaner: Find Target](https://trueinterview.io/questions/7c0209a8-0314-4e7a-967c-5d751c4cf468) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7c0209a8-0314-4e7a-967c-5d751c4cf468) | Dec 2025 |
-| **[Meta](../companies/meta.md)** | [Rotate Array](https://trueinterview.io/questions/89d877dc-407d-4508-bc3b-1e1b3b0bc1f3) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/89d877dc-407d-4508-bc3b-1e1b3b0bc1f3) | Dec 2025 |
+| **[Meta](../companies/meta.md)** | [Rotate Array](https://trueinterview.io/questions/89d877dc-407d-4508-bc3b-1e1b3b0bc1f3) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/89d877dc-407d-4508-bc3b-1e1b3b0bc1f3) | Dec 2025 |
 | **[Apple](../companies/apple.md)** | [Second Highest Salary](https://trueinterview.io/questions/second-highest-salary-2) | Phone · Onsite | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/second-highest-salary-2) | Dec 2025 |
 | **[Google](../companies/google.md)** | [Unique Paths in a 2D Matrix with Moves](https://trueinterview.io/questions/9bc06af6-5391-48cc-9eb3-8364423d3a52) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9bc06af6-5391-48cc-9eb3-8364423d3a52) | Dec 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Solve four classic algorithm problems](https://trueinterview.io/questions/solve-four-classic-algorithm-problems) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-classic-algorithm-problems) | Nov 30, 2025 |
@@ -163,7 +163,7 @@
 | **[Amazon](../companies/amazon.md)** | [Add Non-Overlapping Intervals and Query Point Coverage](https://trueinterview.io/questions/cd18c960-2e58-5dfb-8bb7-7557de4179d7) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/cd18c960-2e58-5dfb-8bb7-7557de4179d7) | — |
 | **[Meta](../companies/meta.md)** | [Ads Impression SQL Query](https://trueinterview.io/questions/cd8e263f-9929-49d1-804b-210708292d39) | OA | Intern · New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/cd8e263f-9929-49d1-804b-210708292d39) | — |
 | **[Netflix](../companies/netflix.md)** | [Aggregate D1 retention cohorts in SQL](https://trueinterview.io/questions/aggregate-d1-retention-cohorts-in-sql) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/aggregate-d1-retention-cohorts-in-sql) | — |
-| **[Meta](../companies/meta.md)** / [Apple](../companies/apple.md) | [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
+| **[Meta](../companies/meta.md)** / [Apple](../companies/apple.md) | [All Nodes Distance K in Binary Tree](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/c8f0b32a-6b2d-4555-a72d-59d7ec845170) | — |
 | **[Meta](../companies/meta.md)** | [Analyze ad targeting expectations and distributions](https://trueinterview.io/questions/analyze-ad-targeting-expectations-and-distributions) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-ad-targeting-expectations-and-distributions) | — |
 | **[Amazon](../companies/amazon.md)** | [Analyze an A/B test over last 7 days](https://trueinterview.io/questions/analyze-an-a-b-test-over-last-7-days) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-an-a-b-test-over-last-7-days) | — |
 | **[Meta](../companies/meta.md)** | [Analyze daily comments distribution and sampling](https://trueinterview.io/questions/analyze-daily-comments-distribution-and-sampling) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-daily-comments-distribution-and-sampling) | — |

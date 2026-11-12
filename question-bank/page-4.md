@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,056 free to solve
+**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
 
 **By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
 
@@ -321,7 +321,7 @@
 | **[Airbnb](../companies/airbnb.md)** | [URL Query Parameter Parsing](https://trueinterview.io/questions/url-query-string-parser) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/url-query-string-parser) | Aug 2026 |
 | **[Atlassian](../companies/atlassian.md)** / [Google](../companies/google.md) / [Tesla](../companies/tesla.md) | [URL Router Design](https://trueinterview.io/questions/url-router-design) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-router-design) | Aug 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [URL Shortener / Tiny URL System Design](https://trueinterview.io/questions/url-shortener-system-design) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/url-shortener-system-design) | Aug 2026 |
-| **[Meta](../companies/meta.md)** / [eBay](../companies/ebay.md) | [Valid Number](https://trueinterview.io/questions/lc-valid-number) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/lc-valid-number) | Aug 2026 |
+| **[Meta](../companies/meta.md)** / [eBay](../companies/ebay.md) | [Valid Number](https://trueinterview.io/questions/lc-valid-number) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/lc-valid-number) | Aug 2026 |
 | **[Meta](../companies/meta.md)** / [Microsoft](../companies/microsoft.md) | [Valid Palindrome II](https://trueinterview.io/questions/valid-palindrome-ii) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/valid-palindrome-ii) | Aug 2026 |
 | **[Apple](../companies/apple.md)** | [Validate and Aggregate HTTP Access Logs](https://trueinterview.io/questions/a0c61319-db55-58db-871b-be9dff51aee8) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a0c61319-db55-58db-871b-be9dff51aee8) | Aug 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [Validate Binary Search Tree](https://trueinterview.io/questions/validate-binary-search-tree) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/validate-binary-search-tree) | Aug 2026 |
@@ -393,7 +393,7 @@
 | **[Pinduoduo](../companies/pinduoduo.md)** | [Count Longest Increasing Subsequences](https://trueinterview.io/questions/count-longest-increasing-subsequences) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/count-longest-increasing-subsequences) | Jul 17, 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Critique a Recent Engineering Project and Explain What You Would Redo](https://trueinterview.io/questions/critique-a-recent-engineering-project-and-explain-what-you-would-redo) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/critique-a-recent-engineering-project-and-explain-what-you-would-redo) | Jul 17, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design a Highly Available Conversational AI Service](https://trueinterview.io/questions/design-a-highly-available-conversational-ai-service) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-highly-available-conversational-ai-service) | Jul 17, 2026 |
-| **[Salesforce](../companies/salesforce.md)** | [Maximal Rectangle (LeetCode 85)](https://trueinterview.io/questions/maximal-rectangle) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximal-rectangle) | Jul 17, 2026 |
+| **[Salesforce](../companies/salesforce.md)** | [Maximal Rectangle (LeetCode 85)](https://trueinterview.io/questions/maximal-rectangle) | Onsite | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/maximal-rectangle) | Jul 17, 2026 |
 | **[Salesforce](../companies/salesforce.md)** / [Databricks](../companies/databricks.md) / [Uber](../companies/uber.md) | [Maximal Square (LeetCode 221)](https://trueinterview.io/questions/maximal-square) | Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/maximal-square) | Jul 17, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Project Architecture Deep Dive (AI Engineer / Backend)](https://trueinterview.io/questions/project-deep-dive-ai-engineer) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/project-deep-dive-ai-engineer) | Jul 17, 2026 |
 | **[Pinduoduo](../companies/pinduoduo.md)** | [Resume-Driven Language & Database Fundamentals](https://trueinterview.io/questions/resume-driven-language-database-fundamentals) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resume-driven-language-database-fundamentals) | Jul 17, 2026 |

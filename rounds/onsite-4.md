@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,337 questions** · 12 from an OA · 558 reported in the last 90 days · 770 free to solve
+**2,337 questions** · 12 from an OA · 558 reported in the last 90 days · 786 free to solve
 
 **By level:** 🎓 Intern & New grad (384) · 🌱 Mid (1,229) · 🎯 Senior (1,872) · 🚀 Staff+ (535)
 
@@ -207,7 +207,7 @@
 | **[Dropbox](../companies/dropbox.md)** | [File Crawler](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Mar 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Find best downhill ski run from a start](https://trueinterview.io/questions/find-best-downhill-ski-run-from-a-start) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-best-downhill-ski-run-from-a-start) | Mar 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Find the Celebrity with Minimum API Calls](https://trueinterview.io/questions/590462c8-36cd-5a7f-86ee-bb03d9cd3526) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/590462c8-36cd-5a7f-86ee-bb03d9cd3526) | Mar 2026 |
-| **[Bloomberg](../companies/bloomberg.md)** | [Flatten a Multilevel Doubly Linked List](https://trueinterview.io/questions/flatten-multilevel-doubly-linked-list) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/flatten-multilevel-doubly-linked-list) | Mar 2026 |
+| **[Bloomberg](../companies/bloomberg.md)** | [Flatten a Multilevel Doubly Linked List](https://trueinterview.io/questions/flatten-multilevel-doubly-linked-list) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/flatten-multilevel-doubly-linked-list) | Mar 2026 |
 | **[DoorDash](../companies/doordash.md)** | [How do you discuss mistakes and trade-offs?](https://trueinterview.io/questions/how-do-you-discuss-mistakes-and-trade-offs) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-do-you-discuss-mistakes-and-trade-offs) | Mar 2026 |
 | **[DoorDash](../companies/doordash.md)** | [How would you prevent wrong items in deliveries?](https://trueinterview.io/questions/how-would-you-prevent-wrong-items-in-deliveries) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-prevent-wrong-items-in-deliveries) | Mar 2026 |
 | **[Netflix](../companies/netflix.md)** | [How would you support ML stakeholders?](https://trueinterview.io/questions/how-would-you-support-ml-stakeholders) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-support-ml-stakeholders) | Mar 2026 |
@@ -373,7 +373,7 @@
 | **[DoorDash](../companies/doordash.md)** | [Investigate High Memory Usage](https://trueinterview.io/questions/investigate-high-memory-usage) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/investigate-high-memory-usage) | Jan 31, 2026 |
 | **[Meta](../companies/meta.md)** | [Design Nearby and Notification Ranking](https://trueinterview.io/questions/design-nearby-and-notification-ranking) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-nearby-and-notification-ranking) | Jan 30, 2026 |
 | **[Meta](../companies/meta.md)** | [Discuss Projects, Failures, and Growth](https://trueinterview.io/questions/discuss-projects-failures-and-growth) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/discuss-projects-failures-and-growth) | Jan 30, 2026 |
-| **[Snowflake](../companies/snowflake.md)** | [Maximum Number of Events That Can Be Attended](https://trueinterview.io/questions/maximum-number-of-events-that-can-be-attended) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-number-of-events-that-can-be-attended) | Jan 30, 2026 |
+| **[Snowflake](../companies/snowflake.md)** | [Maximum Number of Events That Can Be Attended](https://trueinterview.io/questions/maximum-number-of-events-that-can-be-attended) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/maximum-number-of-events-that-can-be-attended) | Jan 30, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [MinStack, MaxStack and Streaming Median](https://trueinterview.io/questions/streaming-median-min-max-stack) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/streaming-median-min-max-stack) | Jan 30, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Rate Limiter for Expensive API with User-Configurable Monthly Quota](https://trueinterview.io/questions/rate-limiter-user-configurable-quota) | Phone · Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/rate-limiter-user-configurable-quota) | Jan 30, 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Search Suggestion Service](https://trueinterview.io/questions/search-suggestion-service) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/search-suggestion-service) | Jan 30, 2026 |
