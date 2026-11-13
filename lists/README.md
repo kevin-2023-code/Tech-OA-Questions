@@ -59,15 +59,15 @@ An employer the registry has not classified is on no industry list, never guesse
 | List | Questions |
 | :-- | --: |
 | [Intern & New Grad OA & Interview Questions (2026)](new-grad.md) | 1,495 |
-| [Mid-Level OA & Interview Questions (2026)](mid.md) | 3,451 |
-| [Senior OA & Interview Questions (2026)](senior.md) | 4,058 |
+| [Mid-Level OA & Interview Questions (2026)](mid.md) | 3,452 |
+| [Senior OA & Interview Questions (2026)](senior.md) | 4,059 |
 | [Staff+ OA & Interview Questions (2026)](staff.md) | 1,097 |
 
 ## By role
 
 | List | Questions |
 | :-- | --: |
-| [Software Engineer OA & Interview Questions (2026)](swe.md) | 3,927 |
+| [Software Engineer OA & Interview Questions (2026)](swe.md) | 3,928 |
 | [ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research.md) | 481 |
 | [Data Scientist OA & Interview Questions (2026)](data.md) | 1,075 |
 | [Quant Researcher, Developer & Trader OA & Interview Questions (2026)](quant-roles.md) | 285 |
@@ -83,8 +83,8 @@ An employer the registry has not classified is on no industry list, never guesse
 | List | Questions |
 | :-- | --: |
 | [Intern & New Grad Software Engineer OA & Interview Questions (2026)](swe--new-grad.md) | 1,110 |
-| [Mid-Level Software Engineer OA & Interview Questions (2026)](swe--mid.md) | 2,526 |
-| [Senior Software Engineer OA & Interview Questions (2026)](swe--senior.md) | 2,492 |
+| [Mid-Level Software Engineer OA & Interview Questions (2026)](swe--mid.md) | 2,527 |
+| [Senior Software Engineer OA & Interview Questions (2026)](swe--senior.md) | 2,493 |
 | [Staff+ Software Engineer OA & Interview Questions (2026)](swe--staff.md) | 358 |
 | [Intern & New Grad ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--new-grad.md) | 69 |
 | [Mid-Level ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--mid.md) | 185 |
@@ -130,5 +130,5 @@ An employer the registry has not classified is on no industry list, never guesse
 
 | List | Questions |
 | :-- | --: |
-| [Free to solve](free.md) | 2,114 |
-| [Every question, newest first](../question-bank/README.md) | 5,889 |
+| [Free to solve](free.md) | 2,115 |
+| [Every question, newest first](../question-bank/README.md) | 5,890 |

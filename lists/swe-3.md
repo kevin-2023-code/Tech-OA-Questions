@@ -6,11 +6,11 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,074 free to solve
+**3,928 questions** · 586 from an OA · 957 reported in the last 90 days · 1,075 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,016) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
 
 **Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Anthropic](../companies/anthropic.md)** | [Web Crawler](https://trueinterview.io/questions/web-crawler) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/web-crawler) | Sep 2026 |
 | **[Netflix](../companies/netflix.md)** | [Weighted Cache](https://trueinterview.io/questions/weighted-cache) | Phone · Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/weighted-cache) | Sep 2026 |
 | **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) | [Weighted Sum of Nested Integer Array by Depth](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Sep 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Why Anthropic and its values?](https://trueinterview.io/questions/why-anthropic-and-its-values) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/why-anthropic-and-its-values) | Sep 2026 |
@@ -422,6 +423,5 @@
 | **[Amazon](../companies/amazon.md)** | [Step Outside Your Professional Comfort Zone](https://trueinterview.io/questions/step-outside-your-professional-comfort-zone) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/step-outside-your-professional-comfort-zone) | Aug 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Stock Price Tracker (Online Stock Span)](https://trueinterview.io/questions/3a741f76-d92f-5234-8363-4fce4a55e475) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a741f76-d92f-5234-8363-4fce4a55e475) | Aug 2026 |
 | **[Apple](../companies/apple.md)** / [ByteDance](../companies/bytedance.md) / [Meta](../companies/meta.md) | [Subarray Sum Equals K](https://trueinterview.io/questions/subarray-sum-equals-k) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/subarray-sum-equals-k) | Aug 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Subtract Two Numbers Represented by Forward-Order Linked Lists](https://trueinterview.io/questions/ff0e0f3b-5fa8-542c-9f99-2afc8d2457fa) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ff0e0f3b-5fa8-542c-9f99-2afc8d2457fa) | Aug 2026 |
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · **3** · [4](swe-4.md) · [5](swe-5.md) · [6](swe-6.md) · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>

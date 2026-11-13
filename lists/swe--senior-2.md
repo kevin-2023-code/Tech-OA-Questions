@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,492 questions** · 165 from an OA · 623 reported in the last 90 days · 715 free to solve
+**2,493 questions** · 165 from an OA · 621 reported in the last 90 days · 716 free to solve
 
-**Rounds:** 📝 OA (165) · 📞 Phone (1,297) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (165) · 📞 Phone (1,298) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
 **Companies:** [Meta (188)](../companies/meta.md) · [Amazon (182)](../companies/amazon.md) · [Google (157)](../companies/google.md) · [ByteDance (144)](../companies/bytedance.md) · [Uber (136)](../companies/uber.md) · [Microsoft (128)](../companies/microsoft.md) · [OpenAI (105)](../companies/openai.md) · [LinkedIn (96)](../companies/linkedin.md) · [Apple (82)](../companies/apple.md) · [Oracle (77)](../companies/oracle.md) · [Salesforce (69)](../companies/salesforce.md) · [DoorDash (68)](../companies/doordash.md) · [Snowflake (63)](../companies/snowflake.md) · [Anthropic (60)](../companies/anthropic.md) · [Databricks (60)](../companies/databricks.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Reddit](../companies/reddit.md)** | [Hiring-Manager Domain Round](https://trueinterview.io/questions/hiring-manager-domain-round) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hiring-manager-domain-round) | Sep 2026 |
 | **[Netflix](../companies/netflix.md)** | [Homepage Billboard Rotation](https://trueinterview.io/questions/homepage-billboard-rotation) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/homepage-billboard-rotation) | Sep 2026 |
 | **[Stripe](../companies/stripe.md)** | [Hotel Booking Reminder](https://trueinterview.io/questions/subscription-email-scheduler) | Onsite | Intern · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/subscription-email-scheduler) | Sep 2026 |
 | **[Databricks](../companies/databricks.md)** / [Amazon](../companies/amazon.md) / [Cisco](../companies/cisco.md) / +2 | [House Robber Series](https://trueinterview.io/questions/house-robber-series) | Phone · Onsite | New grad · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-series) | Sep 2026 |
@@ -422,6 +423,5 @@
 | **[Snowflake](../companies/snowflake.md)** | [Marketing Touch Streak](https://trueinterview.io/questions/marketing-touch-streak) | Phone | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/marketing-touch-streak) | Jul 22, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Matching Rental Amenities](https://trueinterview.io/questions/matching-rental-amenities) | Phone | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/matching-rental-amenities) | Jul 22, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Maximize Prime Item Inventory](https://trueinterview.io/questions/maximize-prime-item-inventory) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/maximize-prime-item-inventory) | Jul 22, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Word Segmentation with a Dictionary Helper](https://trueinterview.io/questions/word-segmentation-dictionary-helper) | Onsite | Intern · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/word-segmentation-dictionary-helper) | Jul 22, 2026 |
 
 <sub>Page [1](swe--senior.md) · **2** · [3](swe--senior-3.md) · [4](swe--senior-4.md) · [5](swe--senior-5.md) · [6](swe--senior-6.md) · [7](swe--senior-7.md)</sub>

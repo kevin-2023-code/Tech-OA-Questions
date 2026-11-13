@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**659 questions** · 53 from an OA · 157 reported in the last 90 days · 85 free to solve
+**660 questions** · 53 from an OA · 158 reported in the last 90 days · 86 free to solve
 
-**By level:** 🎓 Intern & New grad (123) · 🌱 Mid (455) · 🎯 Senior (446) · 🚀 Staff+ (21)
+**By level:** 🎓 Intern & New grad (123) · 🌱 Mid (456) · 🎯 Senior (447) · 🚀 Staff+ (21)
 
-**Rounds:** 📝 OA (53) · 📞 Phone (234) · 🏢 Onsite (437) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (53) · 📞 Phone (235) · 🏢 Onsite (437) · 🏠 Take-home (1)
 
 **Companies:** [Amazon (48)](../companies/amazon.md) · [Coinbase (32)](../companies/coinbase.md) · [Google (32)](../companies/google.md) · [Microsoft (32)](../companies/microsoft.md) · [OpenAI (32)](../companies/openai.md) · [Airbnb (27)](../companies/airbnb.md) · [Anthropic (26)](../companies/anthropic.md) · [LinkedIn (26)](../companies/linkedin.md) · [Netflix (24)](../companies/netflix.md) · [Uber (24)](../companies/uber.md) · [ByteDance (22)](../companies/bytedance.md) · [Apple (19)](../companies/apple.md) · [Oracle (19)](../companies/oracle.md) · [Bloomberg (16)](../companies/bloomberg.md) · [Citadel (16)](../companies/citadel.md)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Netflix](../companies/netflix.md)** | [Double-Checked Locking / Locking Correctness in Multithreaded Code](https://trueinterview.io/questions/6bcb25e8-ba72-4809-9b07-09b387195248) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/6bcb25e8-ba72-4809-9b07-09b387195248) | Mar 2026 |
 | **[Dropbox](../companies/dropbox.md)** | [File Crawler](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Mar 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Find the Celebrity with Minimum API Calls](https://trueinterview.io/questions/590462c8-36cd-5a7f-86ee-bb03d9cd3526) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/590462c8-36cd-5a7f-86ee-bb03d9cd3526) | Mar 2026 |
 | **[Ramp](../companies/ramp.md)** | [Frontend Hidden URL and React Wordle](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | Mar 2026 |

@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 337 from an OA · 602 reported in the last 90 days · 711 free to solve
+**2,527 questions** · 337 from an OA · 601 reported in the last 90 days · 712 free to solve
 
-**Rounds:** 📝 OA (337) · 📞 Phone (1,464) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (337) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
 **Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Goldman Sachs](../companies/goldman-sachs.md)** | [Highest Average Score Per Person](https://trueinterview.io/questions/max-average-score-per-person) | OA · Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/max-average-score-per-person) | Jul 6, 2026 |
 | **[Google](../companies/google.md)** | [L6 System Design (Staff Loop)](https://trueinterview.io/questions/l6-system-design-staff-loop) | Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/l6-system-design-staff-loop) | Jul 6, 2026 |
 | **[SoFi](../companies/sofi.md)** | [Reachable Nodes in a Directed Graph](https://trueinterview.io/questions/reachable-nodes-in-directed-graph) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/reachable-nodes-in-directed-graph) | Jul 4, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Hardware-Adjacent Project Deep Dive](https://trueinterview.io/questions/hardware-adjacent-project-deep-dive) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hardware-adjacent-project-deep-dive) | Jul 3, 2026 |
@@ -422,6 +423,5 @@
 | **[Meta](../companies/meta.md)** | [Remove Invalid Parentheses Minimally](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup-remove-invalid-parentheses-minimally) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup-remove-invalid-parentheses-minimally) | Apr 29, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve Array Merge and Parentheses Cleanup](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Apr 29, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Account Registration Deduplication](https://trueinterview.io/questions/account-merge-dedup-users) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/account-merge-dedup-users) | Apr 28, 2026 |
-| **[Shopify](../companies/shopify.md)** | [Compute Jaccard Similarity for Lists](https://trueinterview.io/questions/compute-jaccard-similarity-for-lists) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-jaccard-similarity-for-lists) | Apr 28, 2026 |
 
 <sub>Page [1](swe--mid.md) · [2](swe--mid-2.md) · **3** · [4](swe--mid-4.md) · [5](swe--mid-5.md) · [6](swe--mid-6.md) · [7](swe--mid-7.md)</sub>

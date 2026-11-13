@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 484 from an OA · 730 reported in the last 90 days · 1,128 free to solve
+**3,452 questions** · 484 from an OA · 728 reported in the last 90 days · 1,129 free to solve
 
-**By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
+**By role:** 💻 Software Engineering (2,527) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
-**Rounds:** 📝 OA (484) · 📞 Phone (2,021) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (484) · 📞 Phone (2,022) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
 
 **Companies:** [Amazon (297)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (257)](../companies/meta.md) · [ByteDance (227)](../companies/bytedance.md) · [Microsoft (152)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (82)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Meta](../companies/meta.md)** | [Write SQL for car rental utilization by city](https://trueinterview.io/questions/write-sql-for-car-rental-utilization-by-city) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-car-rental-utilization-by-city) | Dec 1, 2025 |
 | **[ByteDance](../companies/bytedance.md)** | [Array Partition](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | Dec 2025 |
 | **[Intuit](../companies/intuit.md)** | [BankAccount Deposit and Withdraw Methods with Tests](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Dec 2025 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [Circular Active Computers Window](https://trueinterview.io/questions/circular-active-computers-window) | OA · Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/circular-active-computers-window) | Dec 2025 |
@@ -422,6 +423,5 @@
 | **[Capital One](../companies/capital-one.md)** | [Analyze ad watch-time with Excel pivots](https://trueinterview.io/questions/analyze-ad-watch-time-with-excel-pivots) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-ad-watch-time-with-excel-pivots) | — |
 | **[Meta](../companies/meta.md)** | [Analyze daily comments distribution and sampling](https://trueinterview.io/questions/analyze-daily-comments-distribution-and-sampling) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-daily-comments-distribution-and-sampling) | — |
 | **[Google](../companies/google.md)** | [Analyze data duplication effects in linear regression](https://trueinterview.io/questions/analyze-data-duplication-effects-in-linear-regression) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-data-duplication-effects-in-linear-regression) | — |
-| **[ByteDance](../companies/bytedance.md)** | [Analyze DFS, BFS, and A* trade-offs](https://trueinterview.io/questions/analyze-dfs-bfs-and-a-trade-offs) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-dfs-bfs-and-a-trade-offs) | — |
 
 <sub>Page [1](mid.md) · [2](mid-2.md) · [3](mid-3.md) · [4](mid-4.md) · [5](mid-5.md) · [6](mid-6.md) · **7** · [8](mid-8.md) · [9](mid-9.md)</sub>

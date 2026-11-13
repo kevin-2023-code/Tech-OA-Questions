@@ -6,11 +6,11 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,074 free to solve
+**3,928 questions** · 586 from an OA · 957 reported in the last 90 days · 1,075 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,016) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
 
 **Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Amazon](../companies/amazon.md)** | [Min Errors in 0/1/! Subsequence DP](https://trueinterview.io/questions/errors-in-zero-one-bang-subsequence-dp) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/errors-in-zero-one-bang-subsequence-dp) | Apr 16, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Sliding-Window Stream Session Bucketing](https://trueinterview.io/questions/sliding-window-stream-bucketing) | Phone · Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/sliding-window-stream-bucketing) | Apr 16, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [2-D Matrix Transpose with Memory-Layout Discussion](https://trueinterview.io/questions/matrix-transpose-memory-layout) | Phone · Onsite | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transpose-memory-layout) | Apr 15, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Disk Space Manager / KV Store with setAll](https://trueinterview.io/questions/storage-manager-and-kv-setall) | Phone | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/storage-manager-and-kv-setall) | Apr 15, 2026 |
@@ -422,6 +423,5 @@
 | **[Amplitude](../companies/amplitude.md)** | [Dictionary Encoding (Lossless) for Comma-Separated Words](https://trueinterview.io/questions/82075e9a-8980-4522-bfeb-1fa58bdf7e03) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/82075e9a-8980-4522-bfeb-1fa58bdf7e03) | Mar 2026 |
 | **[Asana](../companies/asana.md)** | [Discuss projects, mentorship, and conflict resolution](https://trueinterview.io/questions/discuss-projects-mentorship-and-conflict-resolution) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/discuss-projects-mentorship-and-conflict-resolution) | Mar 2026 |
 | **[Netflix](../companies/netflix.md)** | [Double-Checked Locking / Locking Correctness in Multithreaded Code](https://trueinterview.io/questions/6bcb25e8-ba72-4809-9b07-09b387195248) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/6bcb25e8-ba72-4809-9b07-09b387195248) | Mar 2026 |
-| **[Bloomberg](../companies/bloomberg.md)** | [Equal Frequency After One Deletion](https://trueinterview.io/questions/equal-character-frequency) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/equal-character-frequency) | Mar 2026 |
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · [3](swe-3.md) · [4](swe-4.md) · [5](swe-5.md) · **6** · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>

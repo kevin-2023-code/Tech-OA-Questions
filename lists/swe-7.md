@@ -6,11 +6,11 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,074 free to solve
+**3,928 questions** · 586 from an OA · 957 reported in the last 90 days · 1,075 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,016) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
 
 **Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Bloomberg](../companies/bloomberg.md)** | [Equal Frequency After One Deletion](https://trueinterview.io/questions/equal-character-frequency) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/equal-character-frequency) | Mar 2026 |
 | **[SoFi](../companies/sofi.md)** | [Explain benefits of a lockfile](https://trueinterview.io/questions/explain-benefits-of-a-lockfile) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-benefits-of-a-lockfile) | Mar 2026 |
 | **[SoFi](../companies/sofi.md)** | [Explain GC, singleton, and OOP principles](https://trueinterview.io/questions/explain-gc-singleton-and-oop-principles) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-gc-singleton-and-oop-principles) | Mar 2026 |
 | **[Dropbox](../companies/dropbox.md)** | [File Crawler](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Mar 2026 |
@@ -422,6 +423,5 @@
 | **[Mercor](../companies/mercor.md)** | [Explain Kubernetes autoscaling and traffic routing](https://trueinterview.io/questions/explain-kubernetes-autoscaling-and-traffic-routing) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-kubernetes-autoscaling-and-traffic-routing) | Jan 17, 2026 |
 | **[Mercor](../companies/mercor.md)** | [Explain VPCs and private/public network connectivity](https://trueinterview.io/questions/explain-vpcs-and-private-public-network-connectivity) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-vpcs-and-private-public-network-connectivity) | Jan 17, 2026 |
 | **[Mercor](../companies/mercor.md)** | [Explain what happens when opening a website](https://trueinterview.io/questions/explain-what-happens-when-opening-a-website) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-what-happens-when-opening-a-website) | Jan 17, 2026 |
-| **[Boston Consulting Group](../companies/boston-consulting-group.md)** | [Implement palindrome check and valid parentheses](https://trueinterview.io/questions/implement-palindrome-check-and-valid-parentheses) | Phone | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-palindrome-check-and-valid-parentheses) | Jan 17, 2026 |
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · [3](swe-3.md) · [4](swe-4.md) · [5](swe-5.md) · [6](swe-6.md) · **7** · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>

@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
+**5,890 questions** · 802 from an OA · 1,180 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,114) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · **10** · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Reddit](../companies/reddit.md)** | [Related Communities Finder](https://trueinterview.io/questions/related-communities-finder) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/related-communities-finder) | Jan 23, 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Sliding-Window Order Message Rate Limiter](https://trueinterview.io/questions/sliding-window-order-message-rate-limiter) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/sliding-window-order-message-rate-limiter) | Jan 23, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Solve these string, subset, and date problems](https://trueinterview.io/questions/solve-these-string-subset-and-date-problems) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-these-string-subset-and-date-problems) | Jan 23, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Answer ownership, conflict, and failure recovery questions](https://trueinterview.io/questions/answer-ownership-conflict-and-failure-recovery-questions) | Phone | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-ownership-conflict-and-failure-recovery-questions) | Jan 22, 2026 |
@@ -418,6 +419,5 @@
 | **[Google](../companies/google.md)** | [Track the Running Median of an Integer Stream](https://trueinterview.io/questions/track-the-running-median-of-an-integer-stream) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/track-the-running-median-of-an-integer-stream) | Dec 8, 2025 |
 | **[DoorDash](../companies/doordash.md)** | [Code Craft: Cart with Promotions](https://trueinterview.io/questions/code-craft-cart-promotions-ood) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/code-craft-cart-promotions-ood) | Dec 7, 2025 |
 | **[PayPal](../companies/paypal.md)** | [Decide if a dice-betting game is favorable](https://trueinterview.io/questions/decide-if-a-dice-betting-game-is-favorable) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/decide-if-a-dice-betting-game-is-favorable) | Dec 7, 2025 |
-| **[PayPal](../companies/paypal.md)** | [Write SQL for top drivers and cancellation rates](https://trueinterview.io/questions/write-sql-for-top-drivers-and-cancellation-rates) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-top-drivers-and-cancellation-rates) | Dec 7, 2025 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · **10** · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

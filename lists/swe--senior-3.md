@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,492 questions** · 165 from an OA · 623 reported in the last 90 days · 715 free to solve
+**2,493 questions** · 165 from an OA · 621 reported in the last 90 days · 716 free to solve
 
-**Rounds:** 📝 OA (165) · 📞 Phone (1,297) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (165) · 📞 Phone (1,298) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
 **Companies:** [Meta (188)](../companies/meta.md) · [Amazon (182)](../companies/amazon.md) · [Google (157)](../companies/google.md) · [ByteDance (144)](../companies/bytedance.md) · [Uber (136)](../companies/uber.md) · [Microsoft (128)](../companies/microsoft.md) · [OpenAI (105)](../companies/openai.md) · [LinkedIn (96)](../companies/linkedin.md) · [Apple (82)](../companies/apple.md) · [Oracle (77)](../companies/oracle.md) · [Salesforce (69)](../companies/salesforce.md) · [DoorDash (68)](../companies/doordash.md) · [Snowflake (63)](../companies/snowflake.md) · [Anthropic (60)](../companies/anthropic.md) · [Databricks (60)](../companies/databricks.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Amazon](../companies/amazon.md)** | [Word Segmentation with a Dictionary Helper](https://trueinterview.io/questions/word-segmentation-dictionary-helper) | Onsite | Intern · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/word-segmentation-dictionary-helper) | Jul 22, 2026 |
 | **[Databricks](../companies/databricks.md)** | [Senior FDE Recruiter Screen](https://trueinterview.io/questions/senior-fde-recruiter-screen) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/senior-fde-recruiter-screen) | Jul 21, 2026 |
 | **[Meta](../companies/meta.md)** | [Tally Service](https://trueinterview.io/questions/tally-service-concurrent-windowed-counter) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/tally-service-concurrent-windowed-counter) | Jul 20, 2026 |
 | **[Meta](../companies/meta.md)** | [Randomized Container](https://trueinterview.io/questions/randomized-container) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/randomized-container) | Jul 19, 2026 |
@@ -422,6 +423,5 @@
 | **[JPMorgan](../companies/jpmorgan.md)** | [Design a Reliable Bank Payment System](https://trueinterview.io/questions/design-a-reliable-bank-payment-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-reliable-bank-payment-system) | Apr 23, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Design Online Product Catalog](https://trueinterview.io/questions/system-design-product-catalog) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-product-catalog) | Apr 23, 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Fractional Inventory](https://trueinterview.io/questions/fractional-share-inventory-trading) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/fractional-share-inventory-trading) | Apr 23, 2026 |
-| **[Instacart](../companies/instacart.md)** | [In-Memory Key-Value Store](https://trueinterview.io/questions/oa-in-memory-key-value-store) | OA | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-in-memory-key-value-store) | Apr 23, 2026 |
 
 <sub>Page [1](swe--senior.md) · [2](swe--senior-2.md) · **3** · [4](swe--senior-4.md) · [5](swe--senior-5.md) · [6](swe--senior-6.md) · [7](swe--senior-7.md)</sub>

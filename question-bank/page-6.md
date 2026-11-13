@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
+**5,890 questions** · 802 from an OA · 1,180 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,114) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · **6** · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Microsoft](../companies/microsoft.md)** | [Design device telemetry pipeline for real-time and batch](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | OA | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | Jun 2026 |
 | **[Lyft](../companies/lyft.md)** / [Uber](../companies/uber.md) | [Design Facebook Messenger](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Jun 2026 |
 | **[Reddit](../companies/reddit.md)** | [Design Reddit Comments Ranking System](https://trueinterview.io/questions/design-reddit-s-post-comment-ranking-system) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-reddit-s-post-comment-ranking-system) | Jun 2026 |
 | **[Robinhood](../companies/robinhood.md)** / [Coinbase](../companies/coinbase.md) / [Databricks](../companies/databricks.md) / +1 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Jun 2026 |
@@ -418,6 +419,5 @@
 | **[Uber](../companies/uber.md)** | [Strictly Convex Function Minimum](https://trueinterview.io/questions/strictly-convex-function-minimum) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/strictly-convex-function-minimum) | May 2026 |
 | **[Amazon](../companies/amazon.md)** | [Student Printing Queue: Enumerate All Valid Printing Orders (Queue to Ring Variant)](https://trueinterview.io/questions/2f74ec78-ce03-4ec9-985d-86839640c844) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/2f74ec78-ce03-4ec9-985d-86839640c844) | May 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Task Management System](https://trueinterview.io/questions/task-management-system-online-assessment) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/task-management-system-online-assessment) | May 2026 |
-| **[Circle](../companies/circle.md)** | [Task Management System: Add and List Current Tasks](https://trueinterview.io/questions/f59f7803-1b1c-45b7-94bf-8af1205b5abc) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f59f7803-1b1c-45b7-94bf-8af1205b5abc) | May 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · **6** · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

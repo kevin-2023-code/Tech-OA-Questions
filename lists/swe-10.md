@@ -6,11 +6,11 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,074 free to solve
+**3,928 questions** · 586 from an OA · 957 reported in the last 90 days · 1,075 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,016) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
 
 **Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[C3.ai](../companies/c3-ai.md)** | [Design a Multi-Car Elevator Dispatch and Control System](https://trueinterview.io/questions/elevator-system-design) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/elevator-system-design) | — |
 | **[Disney](../companies/disney.md)** | [Design a Multi-Game Ranking Service at Scale](https://trueinterview.io/questions/global-game-leaderboard) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/global-game-leaderboard) | — |
 | **[xAI](../companies/xai.md)** | [Design a Rate Limiter with Variable User Quotas](https://trueinterview.io/questions/design-a-rate-limiter-with-variable-user-quotas) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-rate-limiter-with-variable-user-quotas) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Design a Sparse Vector Class With a Fast Dot Product](https://trueinterview.io/questions/sparse-vector-dot-product) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/sparse-vector-dot-product) | — |

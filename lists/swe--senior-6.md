@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,492 questions** · 165 from an OA · 623 reported in the last 90 days · 715 free to solve
+**2,493 questions** · 165 from an OA · 621 reported in the last 90 days · 716 free to solve
 
-**Rounds:** 📝 OA (165) · 📞 Phone (1,297) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (165) · 📞 Phone (1,298) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
 **Companies:** [Meta (188)](../companies/meta.md) · [Amazon (182)](../companies/amazon.md) · [Google (157)](../companies/google.md) · [ByteDance (144)](../companies/bytedance.md) · [Uber (136)](../companies/uber.md) · [Microsoft (128)](../companies/microsoft.md) · [OpenAI (105)](../companies/openai.md) · [LinkedIn (96)](../companies/linkedin.md) · [Apple (82)](../companies/apple.md) · [Oracle (77)](../companies/oracle.md) · [Salesforce (69)](../companies/salesforce.md) · [DoorDash (68)](../companies/doordash.md) · [Snowflake (63)](../companies/snowflake.md) · [Anthropic (60)](../companies/anthropic.md) · [Databricks (60)](../companies/databricks.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Meta](../companies/meta.md)** | [Longest balanced subarray](https://trueinterview.io/questions/find-balanced-subarray-and-increasing-tree-path-longest-balanced-subarray-0-1) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-balanced-subarray-and-increasing-tree-path-longest-balanced-subarray-0-1) | Nov 2, 2025 |
 | **[Meta](../companies/meta.md)** | [Find K-th Largest and Longest Vacation](https://trueinterview.io/questions/find-k-th-largest-and-longest-vacation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-k-th-largest-and-longest-vacation) | Nov 1, 2025 |
 | **[Dropbox](../companies/dropbox.md)** | [API Design for Long Running Requests](https://trueinterview.io/questions/ea7d38db-f5ac-4619-b82f-c7d0228d01ca) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ea7d38db-f5ac-4619-b82f-c7d0228d01ca) | Nov 2025 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Check Output Correctness in Code](https://trueinterview.io/questions/d65899f8-0f93-47d6-9fd4-ca6ae30663bc) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/d65899f8-0f93-47d6-9fd4-ca6ae30663bc) | Nov 2025 |
@@ -422,6 +423,5 @@
 | **[Salesforce](../companies/salesforce.md)** | [Plan Cuts](https://trueinterview.io/questions/ab773d52-94f1-4fd6-bfab-5f1fd5b30525) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ab773d52-94f1-4fd6-bfab-5f1fd5b30525) | — |
 | **[Square](../companies/square.md)** | [Planet Distance, Blast Simulation and Cheapest Way to Clear Them All](https://trueinterview.io/questions/planet-weapon-targeting) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/planet-weapon-targeting) | — |
 | **[Amazon](../companies/amazon.md)** | [Priority Job Scheduler with Invocation-Based Cooldown](https://trueinterview.io/questions/c71062c7-9f71-5cca-9a40-1da03671f934) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c71062c7-9f71-5cca-9a40-1da03671f934) | — |
-| **[StackAdapt](../companies/stackadapt.md)** | [Priority-Based Rate-Limited Web Crawler Design](https://trueinterview.io/questions/b03b2470-1381-490c-9ac6-cd85d1245d22) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b03b2470-1381-490c-9ac6-cd85d1245d22) | — |
 
 <sub>Page [1](swe--senior.md) · [2](swe--senior-2.md) · [3](swe--senior-3.md) · [4](swe--senior-4.md) · [5](swe--senior-5.md) · **6** · [7](swe--senior-7.md)</sub>

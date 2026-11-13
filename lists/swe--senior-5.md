@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,492 questions** · 165 from an OA · 623 reported in the last 90 days · 715 free to solve
+**2,493 questions** · 165 from an OA · 621 reported in the last 90 days · 716 free to solve
 
-**Rounds:** 📝 OA (165) · 📞 Phone (1,297) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (165) · 📞 Phone (1,298) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
 **Companies:** [Meta (188)](../companies/meta.md) · [Amazon (182)](../companies/amazon.md) · [Google (157)](../companies/google.md) · [ByteDance (144)](../companies/bytedance.md) · [Uber (136)](../companies/uber.md) · [Microsoft (128)](../companies/microsoft.md) · [OpenAI (105)](../companies/openai.md) · [LinkedIn (96)](../companies/linkedin.md) · [Apple (82)](../companies/apple.md) · [Oracle (77)](../companies/oracle.md) · [Salesforce (69)](../companies/salesforce.md) · [DoorDash (68)](../companies/doordash.md) · [Snowflake (63)](../companies/snowflake.md) · [Anthropic (60)](../companies/anthropic.md) · [Databricks (60)](../companies/databricks.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Meta](../companies/meta.md)** | [Design an in-memory cloud file system](https://trueinterview.io/questions/design-an-in-memory-cloud-file-system) | OA | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-cloud-file-system) | Feb 11, 2026 |
 | **[Axon](../companies/axon.md)** | [Design camera-footage upload with custody chain](https://trueinterview.io/questions/design-camera-footage-upload-with-custody-chain) | Phone | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-camera-footage-upload-with-custody-chain) | Feb 11, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design Frontend Feed Status App](https://trueinterview.io/questions/design-frontend-feed-status-app) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-frontend-feed-status-app) | Feb 11, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Explain iOS ARC and avoid retain cycles](https://trueinterview.io/questions/explain-ios-arc-and-avoid-retain-cycles) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-ios-arc-and-avoid-retain-cycles) | Feb 11, 2026 |
@@ -422,6 +423,5 @@
 | **[Expedia](../companies/expedia.md)** | [Design a listing connectivity ingestion service](https://trueinterview.io/questions/design-a-listing-connectivity-ingestion-service) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-listing-connectivity-ingestion-service) | Nov 5, 2025 |
 | **[Okta](../companies/okta.md)** | [Memory Allocator (Allocate / Free)](https://trueinterview.io/questions/memory-allocator-3) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/memory-allocator-3) | Nov 5, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Design top-K frequency store for varying workloads](https://trueinterview.io/questions/design-top-k-frequency-store-for-varying-workloads) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-top-k-frequency-store-for-varying-workloads) | Nov 3, 2025 |
-| **[Meta](../companies/meta.md)** | [Longest balanced subarray](https://trueinterview.io/questions/find-balanced-subarray-and-increasing-tree-path-longest-balanced-subarray-0-1) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-balanced-subarray-and-increasing-tree-path-longest-balanced-subarray-0-1) | Nov 2, 2025 |
 
 <sub>Page [1](swe--senior.md) · [2](swe--senior-2.md) · [3](swe--senior-3.md) · [4](swe--senior-4.md) · **5** · [6](swe--senior-6.md) · [7](swe--senior-7.md)</sub>

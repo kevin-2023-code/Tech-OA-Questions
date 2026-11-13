@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
+**5,890 questions** · 802 from an OA · 1,180 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,114) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · **3** · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Uber](../companies/uber.md)** | [K Smallest Squared Values in a Sorted Array](https://trueinterview.io/questions/4b41e162-c1e7-59a7-b837-0054a23558ef) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/4b41e162-c1e7-59a7-b837-0054a23558ef) | Sep 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Keep Merchant Addresses, Social Followers, and Wiki Facts Up to Date](https://trueinterview.io/questions/keep-merchant-addresses-social-followers-and-wiki-facts-up-to-date) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/keep-merchant-addresses-social-followers-and-wiki-facts-up-to-date) | Sep 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Keep Stable Unique Column Names Across Schema Changes](https://trueinterview.io/questions/keep-stable-unique-column-names-across-schema-changes) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/keep-stable-unique-column-names-across-schema-changes) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Kth Smallest Element in a BST (LC 230)](https://trueinterview.io/questions/kth-smallest-element-in-a-bst-2) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/kth-smallest-element-in-a-bst-2) | Sep 2026 |
@@ -418,6 +419,5 @@
 | **[Databricks](../companies/databricks.md)** | [SWE / MLE Behavioral Round](https://trueinterview.io/questions/swe-behavioral-round) | Onsite | New grad · Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/swe-behavioral-round) | Aug 13, 2026 |
 | **[Google](../companies/google.md)** | [Target Expressions from Ordered Digits](https://trueinterview.io/questions/target-expressions-ordered-digits) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/target-expressions-ordered-digits) | Aug 13, 2026 |
 | **[Apple](../companies/apple.md)** | [Trade In Payouts](https://trueinterview.io/questions/trade-in-payouts) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/trade-in-payouts) | Aug 13, 2026 |
-| **[Snowflake](../companies/snowflake.md)** | [Webinar Popularity](https://trueinterview.io/questions/webinar-popularity) | Onsite | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/webinar-popularity) | Aug 13, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · **3** · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

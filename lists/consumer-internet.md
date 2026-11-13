@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Consumer internet & media*.
 
-**1,581 questions** · 128 from an OA · 341 reported in the last 90 days · 578 free to solve
+**1,581 questions** · 128 from an OA · 336 reported in the last 90 days · 578 free to solve
 
 **By level:** 🎓 Intern & New grad (334) · 🌱 Mid (904) · 🎯 Senior (1,148) · 🚀 Staff+ (389)
 
@@ -110,9 +110,9 @@
 | **[Google](../companies/google.md)** | [Path Minimizing the Maximum Cell (Swim in Rising Water)](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | 🆕 Sep 29, 2026 |
 | **[Google](../companies/google.md)** | [Shortest Path Nodes and Escaping a Pursuer](https://trueinterview.io/questions/shortest-path-nodes-and-pursuer-escape) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-path-nodes-and-pursuer-escape) | 🆕 Sep 29, 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | 🆕 Sep 29, 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Spiral Matrix (LC 54) with Follow-Up Constraints](https://trueinterview.io/questions/spiral-matrix-constant-space) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-constant-space) | 🆕 Sep 28, 2026 |
-| **[LinkedIn](../companies/linkedin.md)** | [Systems and Java Fundamentals](https://trueinterview.io/questions/other-systems-java-fundamentals) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/other-systems-java-fundamentals) | 🆕 Sep 28, 2026 |
-| **[Google](../companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | 🆕 Sep 28, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Spiral Matrix (LC 54) with Follow-Up Constraints](https://trueinterview.io/questions/spiral-matrix-constant-space) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-constant-space) | Sep 28, 2026 |
+| **[LinkedIn](../companies/linkedin.md)** | [Systems and Java Fundamentals](https://trueinterview.io/questions/other-systems-java-fundamentals) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/other-systems-java-fundamentals) | Sep 28, 2026 |
+| **[Google](../companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | Sep 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Tic-Tac-Toe Game-State Check](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Sep 25, 2026 |
 | **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
 | **[Netflix](../companies/netflix.md)** | [MLE Intern OA: ML Fundamentals](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | OA | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | Sep 23, 2026 |

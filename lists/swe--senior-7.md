@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,492 questions** · 165 from an OA · 623 reported in the last 90 days · 715 free to solve
+**2,493 questions** · 165 from an OA · 621 reported in the last 90 days · 716 free to solve
 
-**Rounds:** 📝 OA (165) · 📞 Phone (1,297) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (165) · 📞 Phone (1,298) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
 **Companies:** [Meta (188)](../companies/meta.md) · [Amazon (182)](../companies/amazon.md) · [Google (157)](../companies/google.md) · [ByteDance (144)](../companies/bytedance.md) · [Uber (136)](../companies/uber.md) · [Microsoft (128)](../companies/microsoft.md) · [OpenAI (105)](../companies/openai.md) · [LinkedIn (96)](../companies/linkedin.md) · [Apple (82)](../companies/apple.md) · [Oracle (77)](../companies/oracle.md) · [Salesforce (69)](../companies/salesforce.md) · [DoorDash (68)](../companies/doordash.md) · [Snowflake (63)](../companies/snowflake.md) · [Anthropic (60)](../companies/anthropic.md) · [Databricks (60)](../companies/databricks.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[StackAdapt](../companies/stackadapt.md)** | [Priority-Based Rate-Limited Web Crawler Design](https://trueinterview.io/questions/b03b2470-1381-490c-9ac6-cd85d1245d22) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b03b2470-1381-490c-9ac6-cd85d1245d22) | — |
 | **[Cisco](../companies/cisco.md)** | [Process Queries to Find Critical Nodes](https://trueinterview.io/questions/3be3ddff-6db5-49c0-916c-299316bc4912) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/3be3ddff-6db5-49c0-916c-299316bc4912) | — |
 | **[Microsoft](../companies/microsoft.md)** | [Processing Service Logs for Error Detection and Reporting](https://trueinterview.io/questions/d179f051-5594-4883-b756-5c65264930c3) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/d179f051-5594-4883-b756-5c65264930c3) | — |
 | **[Karat](../companies/karat.md)** | [Proving a Low-Traffic Service Can Scale to 1000 RPS](https://trueinterview.io/questions/load-test-1-to-1000-rps) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/load-test-1-to-1000-rps) | — |

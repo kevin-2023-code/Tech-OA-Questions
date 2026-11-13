@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
+**5,890 questions** · 802 from an OA · 1,180 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,114) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · **14** · [15](page-15.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Capital One](../companies/capital-one.md)** | [Diagnose and fix a flight-delay modeling setup](https://trueinterview.io/questions/diagnose-and-fix-a-flight-delay-modeling-setup) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-fix-a-flight-delay-modeling-setup) | — |
 | **[Instacart](../companies/instacart.md)** | [Diagnose and fix low conversion rigorously](https://trueinterview.io/questions/diagnose-and-fix-low-conversion-rigorously) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-fix-low-conversion-rigorously) | — |
 | **[Tubi](../companies/tubi.md)** | [Diagnose and fix selection bias in experiments](https://trueinterview.io/questions/diagnose-and-fix-selection-bias-in-experiments) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-fix-selection-bias-in-experiments) | — |
 | **[Amazon](../companies/amazon.md)** | [Diagnose and fix underperforming ML model](https://trueinterview.io/questions/diagnose-and-fix-underperforming-ml-model) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-fix-underperforming-ml-model) | — |
@@ -418,6 +419,5 @@
 | **[Capital One](../companies/capital-one.md)** | [Optimize profitability for coding contract decisions](https://trueinterview.io/questions/optimize-profitability-for-coding-contract-decisions) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/optimize-profitability-for-coding-contract-decisions) | — |
 | **[Onemain Financial](../companies/onemain-financial.md)** | [Optimize SaaS pricing and profit](https://trueinterview.io/questions/optimize-saas-pricing-and-profit) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/optimize-saas-pricing-and-profit) | — |
 | **[Roblox](../companies/roblox.md)** | [Optimize the Space of Code in Coding Screen](https://trueinterview.io/questions/92dadf5d-6db1-424c-b110-2cd7b367704d) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/92dadf5d-6db1-424c-b110-2cd7b367704d) | — |
-| **[Capital One](../companies/capital-one.md)** | [Optimize theme park queues and revenue](https://trueinterview.io/questions/optimize-theme-park-queues-and-revenue) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/optimize-theme-park-queues-and-revenue) | — |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · **14** · [15](page-15.md)</sub>

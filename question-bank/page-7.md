@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
+**5,890 questions** · 802 from an OA · 1,180 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,114) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · **7** · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Circle](../companies/circle.md)** | [Task Management System: Add and List Current Tasks](https://trueinterview.io/questions/f59f7803-1b1c-45b7-94bf-8af1205b5abc) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f59f7803-1b1c-45b7-94bf-8af1205b5abc) | May 2026 |
 | **[Circle](../companies/circle.md)** | [Task Query by Time and Name Filter with Sorting](https://trueinterview.io/questions/091d8486-b41a-4846-8a15-c30d696e1a7f) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/091d8486-b41a-4846-8a15-c30d696e1a7f) | May 2026 |
 | **[OpenAI](../companies/openai.md)** | [Toy Language Interpreter](https://trueinterview.io/questions/d7b129eb-5166-4c1e-97bc-02132d748c47) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/d7b129eb-5166-4c1e-97bc-02132d748c47) | May 2026 |
 | **[Rippling](../companies/rippling.md)** | [Track article votes and last three flips](https://trueinterview.io/questions/track-article-votes-and-last-three-flips) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/track-article-votes-and-last-three-flips) | May 2026 |
@@ -418,6 +419,5 @@
 | **[Apple](../companies/apple.md)** | [Implement an Image Filter](https://trueinterview.io/questions/implement-an-image-filter) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-an-image-filter) | Apr 2026 |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Implement buffer readers for char/int/string with pointer advancement](https://trueinterview.io/questions/dd77f43b-876b-4c4a-828b-2e48ea7294dc) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/dd77f43b-876b-4c4a-828b-2e48ea7294dc) | Apr 2026 |
 | **[OpenAI](../companies/openai.md)** | [Implement delimiter-free string codec](https://trueinterview.io/questions/implement-delimiter-free-string-codec) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-delimiter-free-string-codec) | Apr 2026 |
-| **[Point72](../companies/point72.md)** | [Implement DictMixin and JSONMixin for object serialization](https://trueinterview.io/questions/7ad69fb1-c9a9-4b36-b763-d2f45f47cecc) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7ad69fb1-c9a9-4b36-b763-d2f45f47cecc) | Apr 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · **7** · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

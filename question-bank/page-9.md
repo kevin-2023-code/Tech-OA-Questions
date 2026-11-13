@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
+**5,890 questions** · 802 from an OA · 1,180 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,114) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · **9** · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Atlassian](../companies/atlassian.md)** | [RAG Search Augmentation and Internal Chatbot](https://trueinterview.io/questions/rag-search-augmentation-internal-chatbot) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/rag-search-augmentation-internal-chatbot) | Feb 26, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [String-Command Calculator](https://trueinterview.io/questions/calculator-string-commands) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/calculator-string-commands) | Feb 26, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Weighted Sampling from Score Distribution](https://trueinterview.io/questions/weighted-sampling-from-scores) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/weighted-sampling-from-scores) | Feb 26, 2026 |
 | **[Google](../companies/google.md)** | [Apply Range Overwrite Queries](https://trueinterview.io/questions/apply-range-overwrite-queries) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/apply-range-overwrite-queries) | Feb 25, 2026 |
@@ -418,6 +419,5 @@
 | **[Verkada](../companies/verkada.md)** | [Implement LRU and LFU caches](https://trueinterview.io/questions/implement-lru-and-lfu-caches) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-lru-and-lfu-caches) | Jan 23, 2026 |
 | **[Reddit](../companies/reddit.md)** | [Merge JSON Event Logs](https://trueinterview.io/questions/merge-json-event-logs) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/merge-json-event-logs) | Jan 23, 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Moving Average Signal System](https://trueinterview.io/questions/moving-average-signal-system) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/moving-average-signal-system) | Jan 23, 2026 |
-| **[Reddit](../companies/reddit.md)** | [Related Communities Finder](https://trueinterview.io/questions/related-communities-finder) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/related-communities-finder) | Jan 23, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · **9** · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

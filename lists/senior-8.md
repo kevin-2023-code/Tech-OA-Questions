@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,590 free to solve
+**4,059 questions** · 252 from an OA · 777 reported in the last 90 days · 1,591 free to solve
 
-**By role:** 💻 Software Engineering (2,492) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
+**By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
-**Rounds:** 📝 OA (252) · 📞 Phone (2,213) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
+**Rounds:** 📝 OA (252) · 📞 Phone (2,214) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
 
 **Companies:** [Meta (398)](../companies/meta.md) · [Amazon (287)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (230)](../companies/bytedance.md) · [Uber (190)](../companies/uber.md) · [Microsoft (166)](../companies/microsoft.md) · [OpenAI (158)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (118)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Oracle (82)](../companies/oracle.md) · [Anthropic (81)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Millennium](../companies/millennium.md)** | [Debug missing output in Python async HTTP flow](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Oct 24, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Detect impossible binary search comparison sequence](https://trueinterview.io/questions/detect-impossible-binary-search-comparison-sequence) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/detect-impossible-binary-search-comparison-sequence) | Oct 24, 2025 |
 | **[Airwallex](../companies/airwallex.md)** | [How do you resolve partner conflict?](https://trueinterview.io/questions/how-do-you-resolve-partner-conflict) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-do-you-resolve-partner-conflict) | Oct 24, 2025 |
 | **[Point72](../companies/point72.md)** | [How would you explain PCA and SHAP?](https://trueinterview.io/questions/how-would-you-explain-pca-and-shap) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-explain-pca-and-shap) | Oct 24, 2025 |
@@ -422,6 +423,5 @@
 | **[Square](../companies/square.md)** | [Counting Plants That Propagate Weekly After Maturity](https://trueinterview.io/questions/basil-propagation-growth-count) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/basil-propagation-growth-count) | — |
 | **[Stripe](../companies/stripe.md)** | [Create a UI Component for Passport Validation](https://trueinterview.io/questions/6906bc8c-d026-4897-935f-ad4842034fa0) | Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/6906bc8c-d026-4897-935f-ad4842034fa0) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Create RESTful API with CSV and JSON Conversion](https://trueinterview.io/questions/44f4defb-82d9-46e7-a008-0c8e2f044a17) | Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/44f4defb-82d9-46e7-a008-0c8e2f044a17) | — |
-| **[CVS Health](../companies/cvs-health.md)** | [Create Views, Insert, and Update Correctly](https://trueinterview.io/questions/create-views-insert-and-update-correctly) | OA | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/create-views-insert-and-update-correctly) | — |
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · [3](senior-3.md) · [4](senior-4.md) · [5](senior-5.md) · [6](senior-6.md) · [7](senior-7.md) · **8** · [9](senior-9.md) · [10](senior-10.md) · [11](senior-11.md)</sub>

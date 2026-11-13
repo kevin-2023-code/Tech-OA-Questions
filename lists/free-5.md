@@ -6,9 +6,9 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,114 questions** · 241 from an OA · 401 reported in the last 90 days · 2,114 free to solve
+**2,115 questions** · 241 from an OA · 397 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,128) · 🎯 Senior (1,590) · 🚀 Staff+ (671)
+**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,129) · 🎯 Senior (1,591) · 🚀 Staff+ (671)
 
 **Companies:** [Meta (208)](../companies/meta.md) · [Amazon (174)](../companies/amazon.md) · [ByteDance (148)](../companies/bytedance.md) · [Google (129)](../companies/google.md) · [Capital One (113)](../companies/capital-one.md) · [Uber (113)](../companies/uber.md) · [Microsoft (80)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (41)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Bloomberg (37)](../companies/bloomberg.md) · [Oracle (36)](../companies/oracle.md)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Dropbox](../companies/dropbox.md)** | [Answer rapid-fire leadership checklist](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | — |
 | **[Amazon](../companies/amazon.md)** | [Apply Double ML with text-address features](https://trueinterview.io/questions/apply-double-ml-with-text-address-features) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/apply-double-ml-with-text-address-features) | — |
 | **[Uber](../companies/uber.md)** | [Apply instrumental variables under interference](https://trueinterview.io/questions/apply-instrumental-variables-under-interference) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/apply-instrumental-variables-under-interference) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Apply PSM rigorously for observational A/B analysis](https://trueinterview.io/questions/apply-psm-rigorously-for-observational-a-b-analysis) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/apply-psm-rigorously-for-observational-a-b-analysis) | — |
@@ -420,6 +421,5 @@
 | **[Voleon](../companies/voleon.md)** | [Load and visualize large CSV robustly](https://trueinterview.io/questions/load-and-visualize-large-csv-robustly) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/load-and-visualize-large-csv-robustly) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Longest Equal-Step Subsequence in an Integer Array](https://trueinterview.io/questions/longest-arithmetic-subsequence) | Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-arithmetic-subsequence) | — |
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) | [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | — |
-| **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · [4](free-4.md) · **5** · [6](free-6.md)</sub>

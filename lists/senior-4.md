@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,590 free to solve
+**4,059 questions** · 252 from an OA · 777 reported in the last 90 days · 1,591 free to solve
 
-**By role:** 💻 Software Engineering (2,492) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
+**By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
-**Rounds:** 📝 OA (252) · 📞 Phone (2,213) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
+**Rounds:** 📝 OA (252) · 📞 Phone (2,214) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
 
 **Companies:** [Meta (398)](../companies/meta.md) · [Amazon (287)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (230)](../companies/bytedance.md) · [Uber (190)](../companies/uber.md) · [Microsoft (166)](../companies/microsoft.md) · [OpenAI (158)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (118)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Oracle (82)](../companies/oracle.md) · [Anthropic (81)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Airbnb](../companies/airbnb.md)** | [Design Customer Support Ticketing System](https://trueinterview.io/questions/ticket-routing-system-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ticket-routing-system-design) | Jun 17, 2026 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Design Parsing Boundaries for Interdependent Message Types](https://trueinterview.io/questions/design-parsing-boundaries-for-interdependent-message-types) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-parsing-boundaries-for-interdependent-message-types) | Jun 17, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Behavioral Question Pool](https://trueinterview.io/questions/behavioral-question-pool) | Phone · Onsite | Intern · New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/behavioral-question-pool) | Jun 16, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Design Underground System](https://trueinterview.io/questions/design-underground-system) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-underground-system) | Jun 16, 2026 |
@@ -422,6 +423,5 @@
 | **[Microsoft](../companies/microsoft.md)** | [Handle Cross-Team Dependencies and Scope Conflicts](https://trueinterview.io/questions/handle-cross-team-dependencies-and-scope-conflicts) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-cross-team-dependencies-and-scope-conflicts) | Apr 18, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Implement K-Means and Detect Divisible Subarrays](https://trueinterview.io/questions/implement-k-means-and-detect-divisible-subarrays) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-k-means-and-detect-divisible-subarrays) | Apr 18, 2026 |
 | **[Tesla](../companies/tesla.md)** / [Microsoft](../companies/microsoft.md) | [Minimum Absolute Difference Pairs](https://trueinterview.io/questions/minimum-absolute-difference-pairs) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-absolute-difference-pairs) | Apr 18, 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Sort Three Categories In Place](https://trueinterview.io/questions/sort-three-categories-in-place) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/sort-three-categories-in-place) | Apr 18, 2026 |
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · [3](senior-3.md) · **4** · [5](senior-5.md) · [6](senior-6.md) · [7](senior-7.md) · [8](senior-8.md) · [9](senior-9.md) · [10](senior-10.md) · [11](senior-11.md)</sub>

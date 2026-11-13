@@ -6,11 +6,11 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,074 free to solve
+**3,928 questions** · 586 from an OA · 957 reported in the last 90 days · 1,075 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,016) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
 
 **Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[IBM](../companies/ibm.md)** / [Capital One](../companies/capital-one.md) | [Process Execution Time (Merge Inclusive Intervals)](https://trueinterview.io/questions/process-execution-time-merge-intervals) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/process-execution-time-merge-intervals) | Nov 3, 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Enemy Factory with Shared Instances](https://trueinterview.io/questions/enemy-factory-shared-instances) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/enemy-factory-shared-instances) | Nov 2, 2025 |
 | **[Meta](../companies/meta.md)** | [Longest balanced subarray](https://trueinterview.io/questions/find-balanced-subarray-and-increasing-tree-path-longest-balanced-subarray-0-1) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-balanced-subarray-and-increasing-tree-path-longest-balanced-subarray-0-1) | Nov 2, 2025 |
 | **[Meta](../companies/meta.md)** | [Find K-th Largest and Longest Vacation](https://trueinterview.io/questions/find-k-th-largest-and-longest-vacation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-k-th-largest-and-longest-vacation) | Nov 1, 2025 |
@@ -422,6 +423,5 @@
 | **[Confluent](../companies/confluent.md)** / [Databricks](../companies/databricks.md) / [LinkedIn](../companies/linkedin.md) / +1 | [Design A Kafka-like Distributed Message Queue](https://trueinterview.io/questions/design-a-kafka-like-distributed-message-queue) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kafka-like-distributed-message-queue) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Design a large-scale ticketing system](https://trueinterview.io/questions/design-a-large-scale-ticketing-system) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-large-scale-ticketing-system) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Design a Multi-Branch Library Database for Books and E-books](https://trueinterview.io/questions/library-management-db-design) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/library-management-db-design) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Design a Multi-Car Elevator Dispatch and Control System](https://trueinterview.io/questions/elevator-system-design) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/elevator-system-design) | — |
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · [3](swe-3.md) · [4](swe-4.md) · [5](swe-5.md) · [6](swe-6.md) · [7](swe-7.md) · [8](swe-8.md) · **9** · [10](swe-10.md)</sub>

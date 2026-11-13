@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
+**5,890 questions** · 802 from an OA · 1,180 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,114) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · **2** · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Rippling](../companies/rippling.md)** | [Design News Pull Scheduling, Article Storage, and Topic Reads](https://trueinterview.io/questions/design-news-pull-scheduling-article-storage-and-topic-reads) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-news-pull-scheduling-article-storage-and-topic-reads) | Sep 10, 2026 |
 | **[Wayfair](../companies/wayfair.md)** | [Evaluate Post-Purchase Recommendation Emails](https://trueinterview.io/questions/evaluate-post-purchase-recommendation-emails) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-post-purchase-recommendation-emails) | Sep 10, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Explain Platform Evolution, Ownership, and Career Motivation](https://trueinterview.io/questions/explain-platform-evolution-ownership-and-career-motivation) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-platform-evolution-ownership-and-career-motivation) | Sep 10, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Find the First Value Repeated During a Left-to-Right Scan](https://trueinterview.io/questions/find-the-first-value-repeated-during-a-left-to-right-scan) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-first-value-repeated-during-a-left-to-right-scan) | Sep 10, 2026 |
@@ -418,6 +419,5 @@
 | **[Bloomberg](../companies/bloomberg.md)** | [Introduce yourself and explain why Bloomberg](https://trueinterview.io/questions/introduce-yourself-and-explain-why-bloomberg) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/introduce-yourself-and-explain-why-bloomberg) | Sep 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Iterative Digit String Group Summation](https://trueinterview.io/questions/6c924cfb-290e-56c8-9599-9fe4c6ecf254) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/6c924cfb-290e-56c8-9599-9fe4c6ecf254) | Sep 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Google](../companies/google.md) / [Microsoft](../companies/microsoft.md) / +1 | [Jump Game](https://trueinterview.io/questions/25fc504b-0fcb-40f7-9453-780b842efd06) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/25fc504b-0fcb-40f7-9453-780b842efd06) | Sep 2026 |
-| **[Uber](../companies/uber.md)** | [K Smallest Squared Values in a Sorted Array](https://trueinterview.io/questions/4b41e162-c1e7-59a7-b837-0054a23558ef) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/4b41e162-c1e7-59a7-b837-0054a23558ef) | Sep 2026 |
 
 <sub>Page [1](README.md) · **2** · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

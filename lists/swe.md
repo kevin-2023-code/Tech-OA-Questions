@@ -6,11 +6,11 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,074 free to solve
+**3,928 questions** · 586 from an OA · 957 reported in the last 90 days · 1,075 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,016) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
 
 **Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Datologyai](../companies/datologyai.md)** | [Cursor-Based Text Editor: Typing, Backspace, and Four-Way Cursor Movement](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | 🆕 Oct 14, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Progressive Banking System](https://trueinterview.io/questions/oa-banking-system-2) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-banking-system-2) | 🆕 Oct 14, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Parcel Attribute Store](https://trueinterview.io/questions/oa-parcel-attribute-store) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-parcel-attribute-store) | 🆕 Oct 9, 2026 |
 | **[Disney](../companies/disney.md)** | [Data Engineer Hiring Manager & Panel Behavioral](https://trueinterview.io/questions/data-engineer-hm-and-panel-behavioral) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/data-engineer-hm-and-panel-behavioral) | 🆕 Oct 8, 2026 |
@@ -237,13 +238,13 @@
 | **[Microsoft](../companies/microsoft.md)** | [Region Sizes in a Binary Image](https://trueinterview.io/questions/binary-image-region-sizes) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-image-region-sizes) | 🆕 Sep 29, 2026 |
 | **[Google](../companies/google.md)** | [Shortest Path Nodes and Escaping a Pursuer](https://trueinterview.io/questions/shortest-path-nodes-and-pursuer-escape) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/shortest-path-nodes-and-pursuer-escape) | 🆕 Sep 29, 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | 🆕 Sep 29, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Evaluate Division (LC 399) with a High-Volume Query Follow-Up](https://trueinterview.io/questions/evaluate-division-lc-399) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-division-lc-399) | 🆕 Sep 28, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | 🆕 Sep 28, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Othello Move — Flip Captured Pieces](https://trueinterview.io/questions/othello-move-flip-simulation) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/othello-move-flip-simulation) | 🆕 Sep 28, 2026 |
-| **[OpenAI](../companies/openai.md)** | [Poker Simulation](https://trueinterview.io/questions/poker-simulation) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/poker-simulation) | 🆕 Sep 28, 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Spiral Matrix (LC 54) with Follow-Up Constraints](https://trueinterview.io/questions/spiral-matrix-constant-space) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-constant-space) | 🆕 Sep 28, 2026 |
-| **[LinkedIn](../companies/linkedin.md)** | [Systems and Java Fundamentals](https://trueinterview.io/questions/other-systems-java-fundamentals) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/other-systems-java-fundamentals) | 🆕 Sep 28, 2026 |
-| **[Google](../companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | 🆕 Sep 28, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Evaluate Division (LC 399) with a High-Volume Query Follow-Up](https://trueinterview.io/questions/evaluate-division-lc-399) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-division-lc-399) | Sep 28, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | Sep 28, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Othello Move — Flip Captured Pieces](https://trueinterview.io/questions/othello-move-flip-simulation) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/othello-move-flip-simulation) | Sep 28, 2026 |
+| **[OpenAI](../companies/openai.md)** | [Poker Simulation](https://trueinterview.io/questions/poker-simulation) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/poker-simulation) | Sep 28, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Spiral Matrix (LC 54) with Follow-Up Constraints](https://trueinterview.io/questions/spiral-matrix-constant-space) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-constant-space) | Sep 28, 2026 |
+| **[LinkedIn](../companies/linkedin.md)** | [Systems and Java Fundamentals](https://trueinterview.io/questions/other-systems-java-fundamentals) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/other-systems-java-fundamentals) | Sep 28, 2026 |
+| **[Google](../companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | Sep 28, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | Sep 25, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Tic-Tac-Toe Game-State Check](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tic-tac-toe-game-state-check) | Sep 25, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Sep 25, 2026 |
@@ -422,6 +423,5 @@
 | **[Stripe](../companies/stripe.md)** | [Subtract Blocked Periods from Allowed Deployment Windows](https://trueinterview.io/questions/subtract-blocked-periods-from-allowed-deployment-windows) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/subtract-blocked-periods-from-allowed-deployment-windows) | Sep 4, 2026 |
 | **[Mercor](../companies/mercor.md)** | [Compare Merge Sort with Factorial and Randomized Inefficient Sorts](https://trueinterview.io/questions/compare-merge-sort-with-factorial-and-randomized-inefficient-sorts) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-merge-sort-with-factorial-and-randomized-inefficient-sorts) | Sep 3, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Compute Effective Letter Permissions in a DAG](https://trueinterview.io/questions/compute-effective-letter-permissions-in-a-dag) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-effective-letter-permissions-in-a-dag) | Sep 3, 2026 |
-| **[Atlassian](../companies/atlassian.md)** | [Design a Music Player with Queue, Loop, and Shuffle](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | Sep 3, 2026 |
 
 <sub>Page **1** · [2](swe-2.md) · [3](swe-3.md) · [4](swe-4.md) · [5](swe-5.md) · [6](swe-6.md) · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>

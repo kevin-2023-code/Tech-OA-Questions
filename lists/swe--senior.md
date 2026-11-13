@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,492 questions** · 165 from an OA · 623 reported in the last 90 days · 715 free to solve
+**2,493 questions** · 165 from an OA · 621 reported in the last 90 days · 716 free to solve
 
-**Rounds:** 📝 OA (165) · 📞 Phone (1,297) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (165) · 📞 Phone (1,298) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
 **Companies:** [Meta (188)](../companies/meta.md) · [Amazon (182)](../companies/amazon.md) · [Google (157)](../companies/google.md) · [ByteDance (144)](../companies/bytedance.md) · [Uber (136)](../companies/uber.md) · [Microsoft (128)](../companies/microsoft.md) · [OpenAI (105)](../companies/openai.md) · [LinkedIn (96)](../companies/linkedin.md) · [Apple (82)](../companies/apple.md) · [Oracle (77)](../companies/oracle.md) · [Salesforce (69)](../companies/salesforce.md) · [DoorDash (68)](../companies/doordash.md) · [Snowflake (63)](../companies/snowflake.md) · [Anthropic (60)](../companies/anthropic.md) · [Databricks (60)](../companies/databricks.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Datologyai](../companies/datologyai.md)** | [Cursor-Based Text Editor: Typing, Backspace, and Four-Way Cursor Movement](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | 🆕 Oct 14, 2026 |
 | **[Disney](../companies/disney.md)** | [Data Engineer Hiring Manager & Panel Behavioral](https://trueinterview.io/questions/data-engineer-hm-and-panel-behavioral) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/data-engineer-hm-and-panel-behavioral) | 🆕 Oct 8, 2026 |
 | **[Disney](../companies/disney.md)** | [Data Pipeline Design (Data Engineer)](https://trueinterview.io/questions/data-pipeline-design-data-engineer) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/data-pipeline-design-data-engineer) | 🆕 Oct 8, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Ticket Booking System Under Flash-Sale Traffic](https://trueinterview.io/questions/ticket-booking-flash-sale-system) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ticket-booking-flash-sale-system) | 🆕 Oct 5, 2026 |
@@ -139,7 +140,7 @@
 | **[Google](../companies/google.md)** | [Path Minimizing the Maximum Cell (Swim in Rising Water)](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | 🆕 Sep 29, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Region Sizes in a Binary Image](https://trueinterview.io/questions/binary-image-region-sizes) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-image-region-sizes) | 🆕 Sep 29, 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | 🆕 Sep 29, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | 🆕 Sep 28, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | Sep 28, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | Sep 25, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Sep 25, 2026 |
 | **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
@@ -422,6 +423,5 @@
 | **[ByteDance](../companies/bytedance.md)** | [Hiring Manager / Final Behavioral Round](https://trueinterview.io/questions/hm-behavioral-final-round) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hm-behavioral-final-round) | Sep 2026 |
 | **[Stripe](../companies/stripe.md)** | [Hiring Manager Behavioral](https://trueinterview.io/questions/hiring-manager-behavioral-2) | Onsite | Intern · Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hiring-manager-behavioral-2) | Sep 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Hiring Manager Screen](https://trueinterview.io/questions/hiring-manager-screen) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hiring-manager-screen) | Sep 2026 |
-| **[Reddit](../companies/reddit.md)** | [Hiring-Manager Domain Round](https://trueinterview.io/questions/hiring-manager-domain-round) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hiring-manager-domain-round) | Sep 2026 |
 
 <sub>Page **1** · [2](swe--senior-2.md) · [3](swe--senior-3.md) · [4](swe--senior-4.md) · [5](swe--senior-5.md) · [6](swe--senior-6.md) · [7](swe--senior-7.md)</sub>

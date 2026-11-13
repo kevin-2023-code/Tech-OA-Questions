@@ -6,11 +6,11 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,074 free to solve
+**3,928 questions** · 586 from an OA · 957 reported in the last 90 days · 1,075 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,016) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
 
 **Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Stripe](../companies/stripe.md)** | [Design a Superhero Dispatch System](https://trueinterview.io/questions/design-a-superhero-dispatch-system) | Onsite | New grad · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-superhero-dispatch-system) | Jun 2026 |
 | **[Instacart](../companies/instacart.md)** | [Design and Implement Idempotent Library Notifications for Due Dates and Holds](https://trueinterview.io/questions/7d71a4ee-7826-5c5d-97ec-af7be9f3fc39) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7d71a4ee-7826-5c5d-97ec-af7be9f3fc39) | Jun 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design device telemetry pipeline for real-time and batch](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | OA | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | Jun 2026 |
 | **[Lyft](../companies/lyft.md)** / [Uber](../companies/uber.md) | [Design Facebook Messenger](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Jun 2026 |
@@ -422,6 +423,5 @@
 | **[Microsoft](../companies/microsoft.md)** | [Retain Top K Elements](https://trueinterview.io/questions/retain-top-k-elements) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/retain-top-k-elements) | Apr 17, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Compute Exclusive Time from Stack Events](https://trueinterview.io/questions/compute-exclusive-time-from-stack-events) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-exclusive-time-from-stack-events) | Apr 16, 2026 |
 | **[Mistral AI](../companies/mistral-ai.md)** | [Compute Remaining GPUs With Switching Limits](https://trueinterview.io/questions/compute-remaining-gpus-with-switching-limits) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/compute-remaining-gpus-with-switching-limits) | Apr 16, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Min Errors in 0/1/! Subsequence DP](https://trueinterview.io/questions/errors-in-zero-one-bang-subsequence-dp) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/errors-in-zero-one-bang-subsequence-dp) | Apr 16, 2026 |
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · [3](swe-3.md) · [4](swe-4.md) · **5** · [6](swe-6.md) · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>

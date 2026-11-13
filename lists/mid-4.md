@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 484 from an OA · 730 reported in the last 90 days · 1,128 free to solve
+**3,452 questions** · 484 from an OA · 728 reported in the last 90 days · 1,129 free to solve
 
-**By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
+**By role:** 💻 Software Engineering (2,527) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
-**Rounds:** 📝 OA (484) · 📞 Phone (2,021) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (484) · 📞 Phone (2,022) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
 
 **Companies:** [Amazon (297)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (257)](../companies/meta.md) · [ByteDance (227)](../companies/bytedance.md) · [Microsoft (152)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (82)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Verkada](../companies/verkada.md)** | [Camera Log Relay Server](https://trueinterview.io/questions/camera-log-relay-server) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/camera-log-relay-server) | Jun 5, 2026 |
 | **[Verkada](../companies/verkada.md)** | [Camera Motion Detection](https://trueinterview.io/questions/camera-motion-detection) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/camera-motion-detection) | Jun 5, 2026 |
 | **[Verkada](../companies/verkada.md)** | [Design Ambient Light Sensor System](https://trueinterview.io/questions/design-ambient-light-sensor-system) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-ambient-light-sensor-system) | Jun 5, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Put Boxes Into the Warehouse (LC 1564)](https://trueinterview.io/questions/put-boxes-into-warehouse) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/put-boxes-into-warehouse) | Jun 5, 2026 |
@@ -422,6 +423,5 @@
 | **[Waymo](../companies/waymo.md)** | [Find Largest Adjacent Sorted Difference](https://trueinterview.io/questions/find-largest-adjacent-sorted-difference) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-largest-adjacent-sorted-difference) | Apr 12, 2026 |
 | **[Perplexity](../companies/perplexity.md)** | [Frontend Discover Infinite Scroll](https://trueinterview.io/questions/35618d45-785f-413b-ba19-66b7d4c0e730) | OA | New grad · Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/35618d45-785f-413b-ba19-66b7d4c0e730) | Apr 12, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve Two String Problems](https://trueinterview.io/questions/solve-two-string-problems-3) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-string-problems-3) | Apr 12, 2026 |
-| **[Meta](../companies/meta.md)** | [Validate abbreviations and brackets](https://trueinterview.io/questions/validate-abbreviations-and-brackets) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-abbreviations-and-brackets) | Apr 12, 2026 |
 
 <sub>Page [1](mid.md) · [2](mid-2.md) · [3](mid-3.md) · **4** · [5](mid-5.md) · [6](mid-6.md) · [7](mid-7.md) · [8](mid-8.md) · [9](mid-9.md)</sub>

@@ -138,5 +138,6 @@ Counts are per company: a question reported at three employers is on three pages
 | [StubHub](stubhub.md) | 🛒 E-commerce & marketplaces | 3 | — | — | 1 | 3 | — | Jun 2026 |
 | [Indeed](indeed.md) | — | 2 | — | — | 1 | 2 | 1 | Sep 2026 |
 | [Render](render.md) | ☁️ Developer tools, cloud & data infrastructure | 2 | — | — | 2 | 2 | — | Sep 2026 |
+| [Datologyai](datologyai.md) | — | 1 | — | — | 1 | 1 | — | Oct 2026 |
 | [Houzz](houzz.md) | — | 1 | 1 | 1 | — | — | — | Sep 2026 |
 | [Nclusion](nclusion.md) | — | 1 | — | 1 | 1 | — | — | Sep 2026 |

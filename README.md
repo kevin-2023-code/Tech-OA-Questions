@@ -8,9 +8,9 @@
 
 💻 SWE · 🤖 ML & AI · 📊 Data Science · 📈 Quant · 📱 PM &nbsp;—&nbsp; 🎓 Intern & New grad · 🌱 Mid · 🎯 Senior · 🚀 Staff+
 
-Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Microsoft** and 126 more companies — **every row tagged with the round, the level and the role it was asked for.** Synced hourly.
+Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Microsoft** and 127 more companies — **every row tagged with the round, the level and the role it was asked for.** Synced hourly.
 
-**5,889 questions** · **802 from an OA** · **132 companies** · 1,495 intern & new grad · 1,190 reported in the last 90 days · 2,114 free
+**5,890 questions** · **802 from an OA** · **133 companies** · 1,495 intern & new grad · 1,180 reported in the last 90 days · 2,115 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
@@ -24,21 +24,21 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 
 | Role ↓ · Level → | 🎓 **Intern & New grad**<br><sub>university · 0–1 yrs</sub> | 🌱 **Mid**<br><sub>≈ L4 / E4 / SDE II</sub> | 🎯 **Senior**<br><sub>≈ L5 / E5 / SDE III</sub> | 🚀 **Staff+**<br><sub>≈ L6 / E6 and up</sub> | 🌐 **All levels** |
 | :-- | :-: | :-: | :-: | :-: | :-: |
-| 💻 **Software Engineering**<br><sub>SWE · backend · frontend · platform</sub> | [**1,110**](lists/swe--new-grad.md) | [**2,526**](lists/swe--mid.md) | [**2,492**](lists/swe--senior.md) | [**358**](lists/swe--staff.md) | [**3,927**](lists/swe.md) |
+| 💻 **Software Engineering**<br><sub>SWE · backend · frontend · platform</sub> | [**1,110**](lists/swe--new-grad.md) | [**2,527**](lists/swe--mid.md) | [**2,493**](lists/swe--senior.md) | [**358**](lists/swe--staff.md) | [**3,928**](lists/swe.md) |
 | 🤖 **ML, AI & Research**<br><sub>MLE · AI engineer · research scientist</sub> | [**69**](lists/ml-research--new-grad.md) | [**185**](lists/ml-research--mid.md) | [**385**](lists/ml-research--senior.md) | [**138**](lists/ml-research--staff.md) | [**481**](lists/ml-research.md) |
 | 📊 **Data Science & Analytics**<br><sub>DS · analytics · SQL-heavy loops</sub> | [**178**](lists/data--new-grad.md) | [**470**](lists/data--mid.md) | [**957**](lists/data--senior.md) | [**552**](lists/data--staff.md) | [**1,075**](lists/data.md) |
 | 📈 **Quantitative Finance**<br><sub>QR · QD · QT</sub> | [**119**](lists/quant-roles--new-grad.md) | [**205**](lists/quant-roles--mid.md) | [**128**](lists/quant-roles--senior.md) | [**15**](lists/quant-roles--staff.md) | [**285**](lists/quant-roles.md) |
 | 📱 **Product Management**<br><sub>PM · TPM</sub> | — | [**16**](lists/pm--mid.md) | [**41**](lists/pm--senior.md) | [**24**](lists/pm--staff.md) | [**45**](lists/pm.md) |
 | 🔧 **Hardware Engineering**<br><sub>hardware · embedded</sub> | — | [**5**](lists/hardware--mid.md) | [**9**](lists/hardware--senior.md) | [**5**](lists/hardware--staff.md) | [**12**](lists/hardware.md) |
-| 🗂️ **Every role**<br><sub>incl. unclassified</sub> | [**1,495**](lists/new-grad.md) | [**3,451**](lists/mid.md) | [**4,058**](lists/senior.md) | [**1,097**](lists/staff.md) | [**5,889**](question-bank/README.md) |
+| 🗂️ **Every role**<br><sub>incl. unclassified</sub> | [**1,495**](lists/new-grad.md) | [**3,452**](lists/mid.md) | [**4,059**](lists/senior.md) | [**1,097**](lists/staff.md) | [**5,890**](question-bank/README.md) |
 
 **Narrower:** ⚙️ [Backend (683)](lists/backend.md) · 🖥️ [Frontend (106)](lists/frontend.md) · ☁️ [Platform & infra (164)](lists/platform.md) · 👔 [Engineering manager (150)](lists/manager.md)
 
 **🏭 By industry:** 🏛️ [MAANG+ (1,693)](lists/maang.md) · 📱 [Consumer internet & media (1,581)](lists/consumer-internet.md) · 🛒 [E-commerce & marketplaces (1,231)](lists/ecommerce-marketplace.md) · 🏢 [Enterprise & business software (719)](lists/enterprise-saas.md) · 💳 [Fintech, payments & crypto (507)](lists/fintech.md) · 🧠 [AI labs & AI infrastructure (503)](lists/ai-labs.md) · 🏦 [Banks, insurers & asset managers (427)](lists/banking-finance.md) · 📈 [Quant trading & hedge funds (383)](lists/quant.md) · ☁️ [Developer tools, cloud & data infrastructure (299)](lists/dev-infra.md) · 🖥️ [Hardware, devices & networking (225)](lists/hardware-devices.md) · 🚗 [Autonomy, automotive & mobility (200)](lists/autonomy-mobility.md) · 🎮 [Gaming & interactive (105)](lists/gaming.md) · 🔒 [Cybersecurity (79)](lists/security.md) · 🔬 [Semiconductors & chips (64)](lists/semiconductors.md) · 🧾 [IT services & consulting (45)](lists/it-consulting.md) · 🧬 [Health, biotech & medical devices (3)](lists/health-bio.md)
 
-**By round:** [📝 OA (802)](rounds/oa.md) · [📞 Phone (3,114)](rounds/phone-screen.md) · [🏢 Onsite (2,337)](rounds/onsite.md) · [🏠 Take-home (12)](rounds/take-home.md)
+**By round:** [📝 OA (802)](rounds/oa.md) · [📞 Phone (3,115)](rounds/phone-screen.md) · [🏢 Onsite (2,337)](rounds/onsite.md) · [🏠 Take-home (12)](rounds/take-home.md)
 
-**By format:** [Coding (2,621)](formats/algorithm.md) · [System design (758)](formats/system-design.md) · [OOD / LLD (659)](formats/object-oriented-programming.md) · [SQL (301)](formats/sql.md) · [AI coding (134)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (2,114)](lists/free.md)
+**By format:** [Coding (2,621)](formats/algorithm.md) · [System design (758)](formats/system-design.md) · [OOD / LLD (660)](formats/object-oriented-programming.md) · [SQL (301)](formats/sql.md) · [AI coding (134)](formats/ai-coding.md) &nbsp;·&nbsp; [🆓 Free to solve (2,115)](lists/free.md)
 
 ## 📝 Companies with the most OA reports
 
@@ -68,6 +68,7 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Datologyai](companies/datologyai.md)** | [Cursor-Based Text Editor: Typing, Backspace, and Four-Way Cursor Movement](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | 🆕 Oct 14, 2026 |
 | **[Airbnb](companies/airbnb.md)** | [Progressive Banking System](https://trueinterview.io/questions/oa-banking-system-2) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-banking-system-2) | 🆕 Oct 14, 2026 |
 | **[Airbnb](companies/airbnb.md)** | [Parcel Attribute Store](https://trueinterview.io/questions/oa-parcel-attribute-store) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-parcel-attribute-store) | 🆕 Oct 9, 2026 |
 | **[Disney](companies/disney.md)** | [Data Engineer Hiring Manager & Panel Behavioral](https://trueinterview.io/questions/data-engineer-hm-and-panel-behavioral) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/data-engineer-hm-and-panel-behavioral) | 🆕 Oct 8, 2026 |
@@ -187,9 +188,8 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 | **[Apple](companies/apple.md)** | [Distributed Rate Limiter with Lua Details](https://trueinterview.io/questions/distributed-rate-limiter-with-lua) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/distributed-rate-limiter-with-lua) | 🆕 Oct 2026 |
 | **[Capital One](companies/capital-one.md)** | [Driver Dataset Exploratory Analysis](https://trueinterview.io/questions/dca94c12-e6ad-549e-a6a9-18a195ab3cb6) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/dca94c12-e6ad-549e-a6a9-18a195ab3cb6) | 🆕 Oct 2026 |
 | **[ByteDance](companies/bytedance.md)** | [Dropout, Overfitting, Normalization, Loss Functions](https://trueinterview.io/questions/ml-knowledge-oral-cluster) | Phone · Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/ml-knowledge-oral-cluster) | 🆕 Oct 2026 |
-| **[Google](companies/google.md)** / [Microsoft](companies/microsoft.md) | [Employee Shift Timeline Table](https://trueinterview.io/questions/0dbc81af-dd9a-45a6-8f23-c42c1feb88e1) | Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/0dbc81af-dd9a-45a6-8f23-c42c1feb88e1) | 🆕 Oct 2026 |
 
-[**All 5,889 questions, every company, newest first →**](question-bank/README.md)
+[**All 5,890 questions, every company, newest first →**](question-bank/README.md)
 
 ## 📊 What the loop looks like at your level
 
@@ -199,7 +199,7 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 | :-- | --: | --: | --: | --: | --: | --: |
 | 🎓 Intern & New grad | 399 | 73% | 1% | 10% | 3% | 3% |
 | 🌱 Mid | 1,358 | 67% | 4% | 12% | 3% | 2% |
-| 🎯 Senior | 3,018 | 45% | 12% | 14% | 7% | 3% |
+| 🎯 Senior | 3,019 | 45% | 12% | 14% | 7% | 3% |
 | 🚀 Staff+ | 1,097 | 5% | 32% | 2% | 3% | 1% |
 
 <sub>And by industry: how much of what candidates reported came from an **OA round**, and the format mix.</sub>
@@ -228,7 +228,7 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 **🧠 AI labs & AI infrastructure:** [OpenAI (175)](companies/openai.md) · [Anthropic (99)](companies/anthropic.md) · [C3.ai (55)](companies/c3-ai.md) · [xAI (43)](companies/xai.md) · [Scale AI (35)](companies/scale-ai.md) · [Perplexity (25)](companies/perplexity.md) · [Harvey (23)](companies/harvey.md) · [Mercor (14)](companies/mercor.md) · [Microsoft AI (13)](companies/microsoft-ai.md) · [Mistral AI (9)](companies/mistral-ai.md) · [Cursor (7)](companies/cursor.md) · [Luma AI (6)](companies/luma-ai.md) · [Moveworks (6)](companies/moveworks.md) · [Together AI (6)](companies/together-ai.md) · [Cohere (3)](companies/cohere.md)
 
 <details>
-<summary><b>🌐 + 77 more companies in 12 more industries</b></summary>
+<summary><b>🌐 + 78 more companies in 12 more industries</b></summary>
 
 **🏢 Enterprise & business software:** [Oracle (115)](companies/oracle.md) · [Salesforce (99)](companies/salesforce.md) · [Atlassian (63)](companies/atlassian.md) · [Rippling (58)](companies/rippling.md) · [Intuit (38)](companies/intuit.md) · [Figma (29)](companies/figma.md) · [Tradedesk (22)](companies/tradedesk.md) · [Dropbox (21)](companies/dropbox.md) · [HubSpot (13)](companies/hubspot.md) · [Palantir (12)](companies/palantir.md) · [Airtable (11)](companies/airtable.md) · [Amplitude (8)](companies/amplitude.md) · [Bobyard (7)](companies/bobyard.md) · [Gusto (6)](companies/gusto.md) · [Rokt (5)](companies/rokt.md) · [StackAdapt (5)](companies/stackadapt.md)
 
@@ -252,7 +252,7 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 
 **🧬 Health, biotech & medical devices:** [Oscar Health (3)](companies/oscar-health.md)
 
-**🌐 Not yet classified:** [Karat (61)](companies/karat.md) · [Disney (47)](companies/disney.md) · [CVS Health (20)](companies/cvs-health.md) · [Boston Consulting Group (19)](companies/boston-consulting-group.md) · [Thumbtack (16)](companies/thumbtack.md) · [Bitkernel (15)](companies/bitkernel.md) · [Onemain Financial (12)](companies/onemain-financial.md) · [Tubi (12)](companies/tubi.md) · [Asana (11)](companies/asana.md) · [Glean (10)](companies/glean.md) · [Wayfair (7)](companies/wayfair.md) · [ZipHQ (6)](companies/ziphq.md) · [Millennium (5)](companies/millennium.md) · [Siemens (4)](companies/siemens.md) · [Indeed (2)](companies/indeed.md) · [Houzz (1)](companies/houzz.md) · [Nclusion (1)](companies/nclusion.md)
+**🌐 Not yet classified:** [Karat (61)](companies/karat.md) · [Disney (47)](companies/disney.md) · [CVS Health (20)](companies/cvs-health.md) · [Boston Consulting Group (19)](companies/boston-consulting-group.md) · [Thumbtack (16)](companies/thumbtack.md) · [Bitkernel (15)](companies/bitkernel.md) · [Onemain Financial (12)](companies/onemain-financial.md) · [Tubi (12)](companies/tubi.md) · [Asana (11)](companies/asana.md) · [Glean (10)](companies/glean.md) · [Wayfair (7)](companies/wayfair.md) · [ZipHQ (6)](companies/ziphq.md) · [Millennium (5)](companies/millennium.md) · [Siemens (4)](companies/siemens.md) · [Indeed (2)](companies/indeed.md) · [Datologyai (1)](companies/datologyai.md) · [Houzz (1)](companies/houzz.md) · [Nclusion (1)](companies/nclusion.md)
 
 </details>
 

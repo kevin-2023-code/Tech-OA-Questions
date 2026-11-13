@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,590 free to solve
+**4,059 questions** · 252 from an OA · 777 reported in the last 90 days · 1,591 free to solve
 
-**By role:** 💻 Software Engineering (2,492) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
+**By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
-**Rounds:** 📝 OA (252) · 📞 Phone (2,213) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
+**Rounds:** 📝 OA (252) · 📞 Phone (2,214) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
 
 **Companies:** [Meta (398)](../companies/meta.md) · [Amazon (287)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (230)](../companies/bytedance.md) · [Uber (190)](../companies/uber.md) · [Microsoft (166)](../companies/microsoft.md) · [OpenAI (158)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (118)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Oracle (82)](../companies/oracle.md) · [Anthropic (81)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Scale AI](../companies/scale-ai.md)** | [Generate Jailbreak Prompts from Text Inputs Algorithm](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | — |
 | **[Arista](../companies/arista.md)** | [Generate Matrix B](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | — |
 | **[Amazon](../companies/amazon.md)** | [Generate primes up to n efficiently](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | — |
 | **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
@@ -422,6 +423,5 @@
 | **[Lyft](../companies/lyft.md)** | [Web Crawler with Communication Constraint](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | Onsite | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | — |
 | **[Karat](../companies/karat.md)** | [Why Sharding Users by First Letter Fails](https://trueinterview.io/questions/photo-sharding-by-alphabet) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/photo-sharding-by-alphabet) | — |
 | **[Confluent](../companies/confluent.md)** | [Wildcard Matching](https://trueinterview.io/questions/wildcard-matching) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/wildcard-matching) | — |
-| **[Amazon](../companies/amazon.md)** | [Window Function to Rank Within Group](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | — |
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · [3](senior-3.md) · [4](senior-4.md) · [5](senior-5.md) · [6](senior-6.md) · [7](senior-7.md) · [8](senior-8.md) · [9](senior-9.md) · **10** · [11](senior-11.md)</sub>

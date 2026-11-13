@@ -6,9 +6,9 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,114 questions** · 241 from an OA · 401 reported in the last 90 days · 2,114 free to solve
+**2,115 questions** · 241 from an OA · 397 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,128) · 🎯 Senior (1,590) · 🚀 Staff+ (671)
+**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,129) · 🎯 Senior (1,591) · 🚀 Staff+ (671)
 
 **Companies:** [Meta (208)](../companies/meta.md) · [Amazon (174)](../companies/amazon.md) · [ByteDance (148)](../companies/bytedance.md) · [Google (129)](../companies/google.md) · [Capital One (113)](../companies/capital-one.md) · [Uber (113)](../companies/uber.md) · [Microsoft (80)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (41)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Bloomberg (37)](../companies/bloomberg.md) · [Oracle (36)](../companies/oracle.md)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Anthropic](../companies/anthropic.md)** | [Implement a UI From a Figma Mock in React + TypeScript](https://trueinterview.io/questions/1a1fb907-7914-40b7-aa33-f5825437aa91) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/1a1fb907-7914-40b7-aa33-f5825437aa91) | Apr 2026 |
 | **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) | [In-Memory Database with SQL Operations](https://trueinterview.io/questions/in-memory-database-with-sql-operations) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-database-with-sql-operations) | Apr 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** / [Point72](../companies/point72.md) | [IPO Share Allocation](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | Apr 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Load Factor Calculation](https://trueinterview.io/questions/service-dependency-load-factor) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/service-dependency-load-factor) | Apr 2026 |
@@ -420,6 +421,5 @@
 | **[Stripe](../companies/stripe.md)** | [Evaluate Stripe Capital Lending Strategy](https://trueinterview.io/questions/evaluate-stripe-capital-lending-strategy) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-stripe-capital-lending-strategy) | Nov 29, 2025 |
 | **[Upstart](../companies/upstart.md)** | [Solve core probability/statistics mini-problems](https://trueinterview.io/questions/solve-core-probability-statistics-mini-problems) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/solve-core-probability-statistics-mini-problems) | Nov 29, 2025 |
 | **[Two Sigma](../companies/two-sigma.md)** | [Slopes of y-on-x vs x-on-y Regression: Relationship and When They Are Equal](https://trueinterview.io/questions/slopes-of-y-on-x-vs-x-on-y-regression-relationship-and-when-they-are-equal) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/slopes-of-y-on-x-vs-x-on-y-regression-relationship-and-when-they-are-equal) | Nov 28, 2025 |
-| **[Apple](../companies/apple.md)** | [How would you handle an unresponsive teammate?](https://trueinterview.io/questions/how-would-you-handle-an-unresponsive-teammate) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-handle-an-unresponsive-teammate) | Nov 27, 2025 |
 
 <sub>Page [1](free.md) · [2](free-2.md) · **3** · [4](free-4.md) · [5](free-5.md) · [6](free-6.md)</sub>

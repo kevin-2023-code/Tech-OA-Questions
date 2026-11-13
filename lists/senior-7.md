@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,590 free to solve
+**4,059 questions** · 252 from an OA · 777 reported in the last 90 days · 1,591 free to solve
 
-**By role:** 💻 Software Engineering (2,492) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
+**By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
-**Rounds:** 📝 OA (252) · 📞 Phone (2,213) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
+**Rounds:** 📝 OA (252) · 📞 Phone (2,214) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
 
 **Companies:** [Meta (398)](../companies/meta.md) · [Amazon (287)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (230)](../companies/bytedance.md) · [Uber (190)](../companies/uber.md) · [Microsoft (166)](../companies/microsoft.md) · [OpenAI (158)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (118)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Oracle (82)](../companies/oracle.md) · [Anthropic (81)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[NVIDIA](../companies/nvidia.md)** | [Introduce yourself for a senior role](https://trueinterview.io/questions/introduce-yourself-for-a-senior-role) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/introduce-yourself-for-a-senior-role) | Jan 6, 2026 |
 | **[Google](../companies/google.md)** | [Resolve Team Disagreement During a Cross-Functional Performance Fix](https://trueinterview.io/questions/resolve-team-disagreement-during-a-cross-functional-performance-fix) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resolve-team-disagreement-during-a-cross-functional-performance-fix) | Jan 6, 2026 |
 | **[Google](../companies/google.md)** | [Respond to long-term concerns after A/B success](https://trueinterview.io/questions/respond-to-long-term-concerns-after-a-b-success) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/respond-to-long-term-concerns-after-a-b-success) | Jan 6, 2026 |
 | **[Expedia](../companies/expedia.md)** | [Solve three interview coding problems](https://trueinterview.io/questions/solve-three-interview-coding-problems) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-three-interview-coding-problems) | Jan 6, 2026 |
@@ -422,6 +423,5 @@
 | **[Bitkernel](../companies/bitkernel.md)** | [Analyze TCP three-way handshake states](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | Oct 24, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Classify concurrency anomaly between two transactions](https://trueinterview.io/questions/classify-concurrency-anomaly-between-two-transactions) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/classify-concurrency-anomaly-between-two-transactions) | Oct 24, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Convert binary tree traversals to forest count](https://trueinterview.io/questions/convert-binary-tree-traversals-to-forest-count) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/convert-binary-tree-traversals-to-forest-count) | Oct 24, 2025 |
-| **[Millennium](../companies/millennium.md)** | [Debug missing output in Python async HTTP flow](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-missing-output-in-python-async-http-flow) | Oct 24, 2025 |
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · [3](senior-3.md) · [4](senior-4.md) · [5](senior-5.md) · [6](senior-6.md) · **7** · [8](senior-8.md) · [9](senior-9.md) · [10](senior-10.md) · [11](senior-11.md)</sub>

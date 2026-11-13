@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 337 from an OA · 602 reported in the last 90 days · 711 free to solve
+**2,527 questions** · 337 from an OA · 601 reported in the last 90 days · 712 free to solve
 
-**Rounds:** 📝 OA (337) · 📞 Phone (1,464) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (337) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
 **Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Snowflake](../companies/snowflake.md)** | [Modified Knapsack Problem](https://trueinterview.io/questions/e4d29efa-828d-4ebc-b3c6-c8e54ee8058f) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e4d29efa-828d-4ebc-b3c6-c8e54ee8058f) | — |
 | **[PayPal](../companies/paypal.md)** | [Modify Array](https://trueinterview.io/questions/92f5f467-65b4-44de-b437-09d22915f525) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/92f5f467-65b4-44de-b437-09d22915f525) | — |
 | **[Confluent](../companies/confluent.md)** | [Monsters Battle](https://trueinterview.io/questions/monsters-battle) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/monsters-battle) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Most Visited Marker in Sprint Training](https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f) | — |

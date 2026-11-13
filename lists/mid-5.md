@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 484 from an OA · 730 reported in the last 90 days · 1,128 free to solve
+**3,452 questions** · 484 from an OA · 728 reported in the last 90 days · 1,129 free to solve
 
-**By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
+**By role:** 💻 Software Engineering (2,527) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
-**Rounds:** 📝 OA (484) · 📞 Phone (2,021) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (484) · 📞 Phone (2,022) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
 
 **Companies:** [Amazon (297)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (257)](../companies/meta.md) · [ByteDance (227)](../companies/bytedance.md) · [Microsoft (152)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (82)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Meta](../companies/meta.md)** | [Validate abbreviations and brackets](https://trueinterview.io/questions/validate-abbreviations-and-brackets) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-abbreviations-and-brackets) | Apr 12, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Chunk a List of Lists](https://trueinterview.io/questions/chunk-a-list-of-lists) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/chunk-a-list-of-lists) | Apr 11, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Count Trips From Vehicle Logs](https://trueinterview.io/questions/count-trips-from-vehicle-logs) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/count-trips-from-vehicle-logs) | Apr 11, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Minimum Idleness After K Flips](https://trueinterview.io/questions/minimum-idleness-after-k-flips) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-idleness-after-k-flips) | Apr 11, 2026 |
@@ -422,6 +423,5 @@
 | **[ByteDance](../companies/bytedance.md)** | [Design video captioning under compute limits](https://trueinterview.io/questions/design-video-captioning-under-compute-limits) | Phone | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/design-video-captioning-under-compute-limits) | Feb 12, 2026 |
 | **[Together AI](../companies/together-ai.md)** | [Detect cycles and break them in pod dependencies](https://trueinterview.io/questions/detect-cycles-and-break-them-in-pod-dependencies) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/detect-cycles-and-break-them-in-pod-dependencies) | Feb 12, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Explain motivation for QA and career goals](https://trueinterview.io/questions/explain-motivation-for-qa-and-career-goals) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-motivation-for-qa-and-career-goals) | Feb 12, 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Explain overfitting, dropout, normalization, RL post-training](https://trueinterview.io/questions/explain-overfitting-dropout-normalization-rl-post-training) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-overfitting-dropout-normalization-rl-post-training) | Feb 12, 2026 |
 
 <sub>Page [1](mid.md) · [2](mid-2.md) · [3](mid-3.md) · [4](mid-4.md) · **5** · [6](mid-6.md) · [7](mid-7.md) · [8](mid-8.md) · [9](mid-9.md)</sub>

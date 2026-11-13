@@ -6,11 +6,11 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,074 free to solve
+**3,928 questions** · 586 from an OA · 957 reported in the last 90 days · 1,075 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,016) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
 
 **Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Microsoft](../companies/microsoft.md)** | [Subtract Two Numbers Represented by Forward-Order Linked Lists](https://trueinterview.io/questions/ff0e0f3b-5fa8-542c-9f99-2afc8d2457fa) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ff0e0f3b-5fa8-542c-9f99-2afc8d2457fa) | Aug 2026 |
 | **[Microsoft](../companies/microsoft.md)** / [Microsoft AI](../companies/microsoft-ai.md) | [Suffix Maximum Count](https://trueinterview.io/questions/suffix-maximum-count-2) | Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/suffix-maximum-count-2) | Aug 2026 |
 | **[Meta](../companies/meta.md)** | [Sum of BST Nodes Within Given Range](https://trueinterview.io/questions/08d3c6cb-aa6e-4d12-9236-73bfdf07ff60) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/08d3c6cb-aa6e-4d12-9236-73bfdf07ff60) | Aug 2026 |
 | **[Apple](../companies/apple.md)** / [Oracle](../companies/oracle.md) | [Swap Two Variables Without Using Temporary Variable](https://trueinterview.io/questions/68870b4c-8508-4508-88c9-186133ebadf8) | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/68870b4c-8508-4508-88c9-186133ebadf8) | Aug 2026 |
@@ -422,6 +423,5 @@
 | **[Anthropic](../companies/anthropic.md)** | [Describe failure impact and resolve cross-functional conflict](https://trueinterview.io/questions/describe-failure-impact-and-resolve-cross-functional-conflict) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-failure-impact-and-resolve-cross-functional-conflict) | Jun 2026 |
 | **[Rippling](../companies/rippling.md)** / [Snapchat](../companies/snapchat.md) | [Design a News Aggregation Feed](https://trueinterview.io/questions/design-a-news-aggregation-feed) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-news-aggregation-feed) | Jun 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a replicated key-value store with quorums](https://trueinterview.io/questions/design-a-replicated-key-value-store-with-quorums) | OA | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-replicated-key-value-store-with-quorums) | Jun 2026 |
-| **[Stripe](../companies/stripe.md)** | [Design a Superhero Dispatch System](https://trueinterview.io/questions/design-a-superhero-dispatch-system) | Onsite | New grad · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-superhero-dispatch-system) | Jun 2026 |
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · [3](swe-3.md) · **4** · [5](swe-5.md) · [6](swe-6.md) · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>

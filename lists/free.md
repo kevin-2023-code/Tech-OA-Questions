@@ -6,9 +6,9 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,114 questions** · 241 from an OA · 401 reported in the last 90 days · 2,114 free to solve
+**2,115 questions** · 241 from an OA · 397 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,128) · 🎯 Senior (1,590) · 🚀 Staff+ (671)
+**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,129) · 🎯 Senior (1,591) · 🚀 Staff+ (671)
 
 **Companies:** [Meta (208)](../companies/meta.md) · [Amazon (174)](../companies/amazon.md) · [ByteDance (148)](../companies/bytedance.md) · [Google (129)](../companies/google.md) · [Capital One (113)](../companies/capital-one.md) · [Uber (113)](../companies/uber.md) · [Microsoft (80)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (41)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Bloomberg (37)](../companies/bloomberg.md) · [Oracle (36)](../companies/oracle.md)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Datologyai](../companies/datologyai.md)** | [Cursor-Based Text Editor: Typing, Backspace, and Four-Way Cursor Movement](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | 🆕 Oct 14, 2026 |
 | **[Disney](../companies/disney.md)** | [Data Engineer Hiring Manager & Panel Behavioral](https://trueinterview.io/questions/data-engineer-hm-and-panel-behavioral) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/data-engineer-hm-and-panel-behavioral) | 🆕 Oct 8, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-iv) | 🆕 Oct 1, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [LRU Cache](https://trueinterview.io/questions/lru-cache) | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | 🆕 Oct 1, 2026 |
@@ -101,7 +102,7 @@
 | **[Amazon](../companies/amazon.md)** | [Work Simulation & Work Style Assessment](https://trueinterview.io/questions/work-style-simulation-assessment) | OA | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/work-style-simulation-assessment) | 🆕 Oct 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Encode and Decode Strings (LC 271)](https://trueinterview.io/questions/encode-and-decode-strings) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/encode-and-decode-strings) | 🆕 Sep 29, 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | 🆕 Sep 29, 2026 |
-| **[LinkedIn](../companies/linkedin.md)** | [Systems and Java Fundamentals](https://trueinterview.io/questions/other-systems-java-fundamentals) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/other-systems-java-fundamentals) | 🆕 Sep 28, 2026 |
+| **[LinkedIn](../companies/linkedin.md)** | [Systems and Java Fundamentals](https://trueinterview.io/questions/other-systems-java-fundamentals) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/other-systems-java-fundamentals) | Sep 28, 2026 |
 | **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
 | **[Netflix](../companies/netflix.md)** | [MLE Intern OA: ML Fundamentals](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | OA | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | Sep 23, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Senior Staff Hiring-Manager Conversation](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/senior-staff-hiring-manager-conversation) | Sep 23, 2026 |
@@ -420,6 +421,5 @@
 | **[Google](../companies/google.md)** | [Compare Language-Model Post-Training Methods](https://trueinterview.io/questions/compare-language-model-post-training-methods) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-language-model-post-training-methods) | Aug 14, 2026 |
 | **[Google](../companies/google.md)** | [Detect and Prevent Reward Hacking](https://trueinterview.io/questions/detect-and-prevent-reward-hacking) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/detect-and-prevent-reward-hacking) | Aug 14, 2026 |
 | **[Google](../companies/google.md)** | [Explain KL Divergence in Language Models](https://trueinterview.io/questions/explain-kl-divergence-in-language-models) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-kl-divergence-in-language-models) | Aug 14, 2026 |
-| **[Google](../companies/google.md)** | [Explain VAEs, ELBO, KL, and Reparameterization](https://trueinterview.io/questions/explain-vaes-elbo-kl-and-reparameterization) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-vaes-elbo-kl-and-reparameterization) | Aug 14, 2026 |
 
 <sub>Page **1** · [2](free-2.md) · [3](free-3.md) · [4](free-4.md) · [5](free-5.md) · [6](free-6.md)</sub>

@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 337 from an OA · 602 reported in the last 90 days · 711 free to solve
+**2,527 questions** · 337 from an OA · 601 reported in the last 90 days · 712 free to solve
 
-**Rounds:** 📝 OA (337) · 📞 Phone (1,464) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (337) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
 **Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Bitkernel](../companies/bitkernel.md)** | [Analyze TCP three-way handshake states](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | Oct 24, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Classify concurrency anomaly between two transactions](https://trueinterview.io/questions/classify-concurrency-anomaly-between-two-transactions) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/classify-concurrency-anomaly-between-two-transactions) | Oct 24, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Convert binary tree traversals to forest count](https://trueinterview.io/questions/convert-binary-tree-traversals-to-forest-count) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/convert-binary-tree-traversals-to-forest-count) | Oct 24, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Count binary search steps for specific keys](https://trueinterview.io/questions/count-binary-search-steps-for-specific-keys) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/count-binary-search-steps-for-specific-keys) | Oct 24, 2025 |
@@ -422,6 +423,5 @@
 | **[C3.ai](../companies/c3-ai.md)** | [Minimum Total Manhattan Travel to a Shared Meeting Cell](https://trueinterview.io/questions/best-meeting-point) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/best-meeting-point) | — |
 | **[Anthropic](../companies/anthropic.md)** | [Minimum Workers with Deterministic Job Assignment](https://trueinterview.io/questions/168b4161-b86a-5ebc-a16f-6118c8c00adb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/168b4161-b86a-5ebc-a16f-6118c8c00adb) | — |
 | **[Disney](../companies/disney.md)** | [Minutes Until Every Orange Rots in a Grid](https://trueinterview.io/questions/rotting-oranges-lc-994) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/rotting-oranges-lc-994) | — |
-| **[Snowflake](../companies/snowflake.md)** | [Modified Knapsack Problem](https://trueinterview.io/questions/e4d29efa-828d-4ebc-b3c6-c8e54ee8058f) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e4d29efa-828d-4ebc-b3c6-c8e54ee8058f) | — |
 
 <sub>Page [1](swe--mid.md) · [2](swe--mid-2.md) · [3](swe--mid-3.md) · [4](swe--mid-4.md) · [5](swe--mid-5.md) · **6** · [7](swe--mid-7.md)</sub>

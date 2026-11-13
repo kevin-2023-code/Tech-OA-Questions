@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
+**5,890 questions** · 802 from an OA · 1,180 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,114) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · **13** · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Karat](../companies/karat.md)** | [Choose-Your-Path Book: Reaching Endings Under a Fixed Choice Rule](https://trueinterview.io/questions/choose-your-story-book-endings) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/choose-your-story-book-endings) | — |
 | **[Karat](../companies/karat.md)** | [Choosing Consistency Models for Banking, Catalog and Analytics](https://trueinterview.io/questions/strong-vs-eventual-consistency-scenarios) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/strong-vs-eventual-consistency-scenarios) | — |
 | **[Google](../companies/google.md)** | [Clarify ambiguous requirements under pressure](https://trueinterview.io/questions/clarify-ambiguous-requirements-under-pressure) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/clarify-ambiguous-requirements-under-pressure) | — |
 | **[Meta](../companies/meta.md)** | [Clarify scope and align to mission](https://trueinterview.io/questions/clarify-scope-and-align-to-mission) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/clarify-scope-and-align-to-mission) | — |
@@ -418,6 +419,5 @@
 | **[ByteDance](../companies/bytedance.md)** | [Diagnose a sudden metric spike or drop](https://trueinterview.io/questions/diagnose-a-sudden-metric-spike-or-drop) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-a-sudden-metric-spike-or-drop) | — |
 | **[Disney](../companies/disney.md)** | [Diagnose and decide on watch-time drop](https://trueinterview.io/questions/diagnose-and-decide-on-watch-time-drop) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-decide-on-watch-time-drop) | — |
 | **[DoorDash](../companies/doordash.md)** | [Diagnose and experiment to reduce late deliveries](https://trueinterview.io/questions/diagnose-and-experiment-to-reduce-late-deliveries) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-experiment-to-reduce-late-deliveries) | — |
-| **[Capital One](../companies/capital-one.md)** | [Diagnose and fix a flight-delay modeling setup](https://trueinterview.io/questions/diagnose-and-fix-a-flight-delay-modeling-setup) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-fix-a-flight-delay-modeling-setup) | — |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · **13** · [14](page-14.md) · [15](page-15.md)</sub>

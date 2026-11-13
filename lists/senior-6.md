@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,590 free to solve
+**4,059 questions** · 252 from an OA · 777 reported in the last 90 days · 1,591 free to solve
 
-**By role:** 💻 Software Engineering (2,492) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
+**By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
-**Rounds:** 📝 OA (252) · 📞 Phone (2,213) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
+**Rounds:** 📝 OA (252) · 📞 Phone (2,214) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
 
 **Companies:** [Meta (398)](../companies/meta.md) · [Amazon (287)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (230)](../companies/bytedance.md) · [Uber (190)](../companies/uber.md) · [Microsoft (166)](../companies/microsoft.md) · [OpenAI (158)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (118)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Oracle (82)](../companies/oracle.md) · [Anthropic (81)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Databricks](../companies/databricks.md)** | [Run-Length Encoding (RLE)](https://trueinterview.io/questions/implement-rle-and-bit-packing-compression-run-length-encoding-rle) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-rle-and-bit-packing-compression-run-length-encoding-rle) | Mar 2026 |
 | **[Expedia](../companies/expedia.md)** | [Scattered Palindrome Substring Count (Swappable to Palindrome)](https://trueinterview.io/questions/8e6b85b8-933e-4aee-a502-746ffb820b1d) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/8e6b85b8-933e-4aee-a502-746ffb820b1d) | Mar 2026 |
 | **[Meta](../companies/meta.md)** | [Second Largest Permutation From Given Multiset](https://trueinterview.io/questions/b013b902-f3a6-444e-a0a9-866fa7ac2f06) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b013b902-f3a6-444e-a0a9-866fa7ac2f06) | Mar 2026 |
 | **[SoFi](../companies/sofi.md)** | [Second Most Frequent Tag from Flattened Triples](https://trueinterview.io/questions/e89bef94-d185-481f-94fe-b1ad86364481) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e89bef94-d185-481f-94fe-b1ad86364481) | Mar 2026 |
@@ -422,6 +423,5 @@
 | **[Palantir](../companies/palantir.md)** | [Handle value conflicts and disagreeing with leadership](https://trueinterview.io/questions/handle-value-conflicts-and-disagreeing-with-leadership) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-value-conflicts-and-disagreeing-with-leadership) | Jan 6, 2026 |
 | **[Expedia](../companies/expedia.md)** | [How do you learn new knowledge quickly?](https://trueinterview.io/questions/how-do-you-learn-new-knowledge-quickly) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-do-you-learn-new-knowledge-quickly) | Jan 6, 2026 |
 | **[Google](../companies/google.md)** | [How would you answer these behavioral prompts?](https://trueinterview.io/questions/how-would-you-answer-these-behavioral-prompts) | Phone | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-answer-these-behavioral-prompts) | Jan 6, 2026 |
-| **[NVIDIA](../companies/nvidia.md)** | [Introduce yourself for a senior role](https://trueinterview.io/questions/introduce-yourself-for-a-senior-role) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/introduce-yourself-for-a-senior-role) | Jan 6, 2026 |
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · [3](senior-3.md) · [4](senior-4.md) · [5](senior-5.md) · **6** · [7](senior-7.md) · [8](senior-8.md) · [9](senior-9.md) · [10](senior-10.md) · [11](senior-11.md)</sub>

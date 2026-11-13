@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 337 from an OA · 602 reported in the last 90 days · 711 free to solve
+**2,527 questions** · 337 from an OA · 601 reported in the last 90 days · 712 free to solve
 
-**Rounds:** 📝 OA (337) · 📞 Phone (1,464) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (337) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
 **Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[ByteDance](../companies/bytedance.md)** | [Delete nodes in linked list and binary tree](https://trueinterview.io/questions/delete-nodes-in-linked-list-and-binary-tree) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/delete-nodes-in-linked-list-and-binary-tree) | Feb 11, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Explain iOS ARC and avoid retain cycles](https://trueinterview.io/questions/explain-ios-arc-and-avoid-retain-cycles) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-ios-arc-and-avoid-retain-cycles) | Feb 11, 2026 |
 | **[Uber](../companies/uber.md)** | [Find minimum reversals to orient edges away from root](https://trueinterview.io/questions/find-minimum-reversals-to-orient-edges-away-from-root) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-minimum-reversals-to-orient-edges-away-from-root) | Feb 11, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Group words that are anagrams](https://trueinterview.io/questions/solve-string-grouping-and-tree-right-view-problems-group-words-that-are-anagrams) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-string-grouping-and-tree-right-view-problems-group-words-that-are-anagrams) | Feb 11, 2026 |
@@ -422,6 +423,5 @@
 | **[Apple](../companies/apple.md)** | [Solve Digit-Square and Grid BFS Problems](https://trueinterview.io/questions/solve-digit-square-and-grid-bfs-problems) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/solve-digit-square-and-grid-bfs-problems) | Oct 28, 2025 |
 | **[Amazon](../companies/amazon.md)** | [Check if adding edge creates cycle in digraph](https://trueinterview.io/questions/check-if-adding-edge-creates-cycle-in-digraph) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/check-if-adding-edge-creates-cycle-in-digraph) | Oct 26, 2025 |
 | **[Discord](../companies/discord.md)** | [Implement an asyncio-based chat server](https://trueinterview.io/questions/implement-an-asyncio-based-chat-server) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-an-asyncio-based-chat-server) | Oct 25, 2025 |
-| **[Bitkernel](../companies/bitkernel.md)** | [Analyze TCP three-way handshake states](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | Oct 24, 2025 |
 
 <sub>Page [1](swe--mid.md) · [2](swe--mid-2.md) · [3](swe--mid-3.md) · [4](swe--mid-4.md) · **5** · [6](swe--mid-6.md) · [7](swe--mid-7.md)</sub>

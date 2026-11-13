@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,889 questions** · 802 from an OA · 1,190 reported in the last 90 days · 2,114 free to solve
+**5,890 questions** · 802 from an OA · 1,180 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,058) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,114) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · **8** · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Point72](../companies/point72.md)** | [Implement DictMixin and JSONMixin for object serialization](https://trueinterview.io/questions/7ad69fb1-c9a9-4b36-b763-d2f45f47cecc) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7ad69fb1-c9a9-4b36-b763-d2f45f47cecc) | Apr 2026 |
 | **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) | [In-Memory Database with SQL Operations](https://trueinterview.io/questions/in-memory-database-with-sql-operations) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-database-with-sql-operations) | Apr 2026 |
 | **[Coinbase](../companies/coinbase.md)** | [In-Memory DB with per-key user lock: setByUser/deleteByUser/lock/unlock](https://trueinterview.io/questions/64e826a3-6585-4f8a-a6a0-6b3fcb775999) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/64e826a3-6585-4f8a-a6a0-6b3fcb775999) | Apr 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Insert/Delete/GetRandom in O(1) with TTL per item (follow-up)](https://trueinterview.io/questions/26f6e8b3-62a6-4359-8ae4-3943de03e7e6) | Onsite | Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/26f6e8b3-62a6-4359-8ae4-3943de03e7e6) | Apr 2026 |
@@ -418,6 +419,5 @@
 | **[Two Sigma](../companies/two-sigma.md)** | [How detect duplicate card records?](https://trueinterview.io/questions/how-detect-duplicate-card-records) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-detect-duplicate-card-records) | Feb 26, 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** | [Implement merge sort and largest 1-rectangle](https://trueinterview.io/questions/implement-merge-sort-and-largest-1-rectangle) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-merge-sort-and-largest-1-rectangle) | Feb 26, 2026 |
 | **[xAI](../companies/xai.md)** | [Nested Structure Flatten and Unflatten](https://trueinterview.io/questions/nested-structure-flatten-and-unflatten) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/nested-structure-flatten-and-unflatten) | Feb 26, 2026 |
-| **[Atlassian](../companies/atlassian.md)** | [RAG Search Augmentation and Internal Chatbot](https://trueinterview.io/questions/rag-search-augmentation-internal-chatbot) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/rag-search-augmentation-internal-chatbot) | Feb 26, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · **8** · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

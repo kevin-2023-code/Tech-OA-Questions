@@ -6,9 +6,9 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,114 questions** · 241 from an OA · 401 reported in the last 90 days · 2,114 free to solve
+**2,115 questions** · 241 from an OA · 397 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,128) · 🎯 Senior (1,590) · 🚀 Staff+ (671)
+**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,129) · 🎯 Senior (1,591) · 🚀 Staff+ (671)
 
 **Companies:** [Meta (208)](../companies/meta.md) · [Amazon (174)](../companies/amazon.md) · [ByteDance (148)](../companies/bytedance.md) · [Google (129)](../companies/google.md) · [Capital One (113)](../companies/capital-one.md) · [Uber (113)](../companies/uber.md) · [Microsoft (80)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (41)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Bloomberg (37)](../companies/bloomberg.md) · [Oracle (36)](../companies/oracle.md)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Google](../companies/google.md)** | [Explain VAEs, ELBO, KL, and Reparameterization](https://trueinterview.io/questions/explain-vaes-elbo-kl-and-reparameterization) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-vaes-elbo-kl-and-reparameterization) | Aug 14, 2026 |
 | **[Google](../companies/google.md)** | [Interpret Language-Model Perplexity](https://trueinterview.io/questions/interpret-language-model-perplexity) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/interpret-language-model-perplexity) | Aug 14, 2026 |
 | **[Google](../companies/google.md)** | [Research Paper Presentation and Defense (DeepMind RS)](https://trueinterview.io/questions/deepmind-rs-paper-presentation-defense) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/deepmind-rs-paper-presentation-defense) | Aug 13, 2026 |
 | **[Databricks](../companies/databricks.md)** | [SWE / MLE Behavioral Round](https://trueinterview.io/questions/swe-behavioral-round) | Onsite | New grad · Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/swe-behavioral-round) | Aug 13, 2026 |
@@ -420,6 +421,5 @@
 | **[Meta](../companies/meta.md)** / [DoorDash](../companies/doordash.md) | [Find Peak Element](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/35f2ff41-64d2-4224-9988-855e1a3fbc61) | Apr 2026 |
 | **[Amazon](../companies/amazon.md)** | [Handle scope creep and teammate conflict](https://trueinterview.io/questions/handle-scope-creep-and-teammate-conflict) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-scope-creep-and-teammate-conflict) | Apr 2026 |
 | **[DoorDash](../companies/doordash.md)** | [How would you mentor junior teammates?](https://trueinterview.io/questions/how-would-you-mentor-junior-teammates) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-mentor-junior-teammates) | Apr 2026 |
-| **[Anthropic](../companies/anthropic.md)** | [Implement a UI From a Figma Mock in React + TypeScript](https://trueinterview.io/questions/1a1fb907-7914-40b7-aa33-f5825437aa91) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/1a1fb907-7914-40b7-aa33-f5825437aa91) | Apr 2026 |
 
 <sub>Page [1](free.md) · **2** · [3](free-3.md) · [4](free-4.md) · [5](free-5.md) · [6](free-6.md)</sub>

@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,492 questions** · 165 from an OA · 623 reported in the last 90 days · 715 free to solve
+**2,493 questions** · 165 from an OA · 621 reported in the last 90 days · 716 free to solve
 
-**Rounds:** 📝 OA (165) · 📞 Phone (1,297) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (165) · 📞 Phone (1,298) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
 **Companies:** [Meta (188)](../companies/meta.md) · [Amazon (182)](../companies/amazon.md) · [Google (157)](../companies/google.md) · [ByteDance (144)](../companies/bytedance.md) · [Uber (136)](../companies/uber.md) · [Microsoft (128)](../companies/microsoft.md) · [OpenAI (105)](../companies/openai.md) · [LinkedIn (96)](../companies/linkedin.md) · [Apple (82)](../companies/apple.md) · [Oracle (77)](../companies/oracle.md) · [Salesforce (69)](../companies/salesforce.md) · [DoorDash (68)](../companies/doordash.md) · [Snowflake (63)](../companies/snowflake.md) · [Anthropic (60)](../companies/anthropic.md) · [Databricks (60)](../companies/databricks.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Instacart](../companies/instacart.md)** | [In-Memory Key-Value Store](https://trueinterview.io/questions/oa-in-memory-key-value-store) | OA | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-in-memory-key-value-store) | Apr 23, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Model Campaigns, Targeting, and Edit History for a Demand-Side Ad Platform](https://trueinterview.io/questions/model-campaigns-targeting-and-edit-history-for-a-demand-side-ad-platform) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/model-campaigns-targeting-and-edit-history-for-a-demand-side-ad-platform) | Apr 23, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Convert IPv4 Ranges to CIDR Blocks](https://trueinterview.io/questions/convert-ipv4-ranges-to-cidr-blocks) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/convert-ipv4-ranges-to-cidr-blocks) | Apr 22, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Copy Neighbor Sums Between Binary Trees](https://trueinterview.io/questions/copy-neighbor-sums-between-binary-trees) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/copy-neighbor-sums-between-binary-trees) | Apr 22, 2026 |
@@ -422,6 +423,5 @@
 | **[Google](../companies/google.md)** | [Answer leadership and quality tradeoff questions](https://trueinterview.io/questions/answer-leadership-and-quality-tradeoff-questions) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-leadership-and-quality-tradeoff-questions) | Feb 11, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Check perfect square using binary search](https://trueinterview.io/questions/check-perfect-square-using-binary-search) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/check-perfect-square-using-binary-search) | Feb 11, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Delete nodes in linked list and binary tree](https://trueinterview.io/questions/delete-nodes-in-linked-list-and-binary-tree) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/delete-nodes-in-linked-list-and-binary-tree) | Feb 11, 2026 |
-| **[Meta](../companies/meta.md)** | [Design an in-memory cloud file system](https://trueinterview.io/questions/design-an-in-memory-cloud-file-system) | OA | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-cloud-file-system) | Feb 11, 2026 |
 
 <sub>Page [1](swe--senior.md) · [2](swe--senior-2.md) · [3](swe--senior-3.md) · **4** · [5](swe--senior-5.md) · [6](swe--senior-6.md) · [7](swe--senior-7.md)</sub>

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**758 questions** · 10 from an OA · 184 reported in the last 90 days · 49 free to solve
+**758 questions** · 10 from an OA · 181 reported in the last 90 days · 49 free to solve
 
 **By level:** 🎓 Intern & New grad (13) · 🌱 Mid (164) · 🎯 Senior (701) · 🚀 Staff+ (351)
 
@@ -48,7 +48,7 @@
 | **[OpenAI](../companies/openai.md)** | [Payment / Coffee-Shop Ordering (read the prompt!)](https://trueinterview.io/questions/payment-coffee-shop) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/payment-coffee-shop) | 🆕 Oct 2026 |
 | **[Robinhood](../companies/robinhood.md)** / [Roblox](../companies/roblox.md) | [Photo Album System Design](https://trueinterview.io/questions/photo-album-frontend-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/photo-album-frontend-design) | 🆕 Oct 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Lab Machine Compute-Load Monitoring System Design](https://trueinterview.io/questions/lab-machine-monitoring-system-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/lab-machine-monitoring-system-design) | 🆕 Sep 29, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | 🆕 Sep 28, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | Sep 28, 2026 |
 | **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +2 | [Design Online Chess Game](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/design-chess-com-online-chess-game) | Sep 23, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Coordinate a Fleet of Restaurant Robots](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/coordinate-a-fleet-of-restaurant-robots) | Sep 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design a Kafka-Based File Watcher for Millions of Files](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-kafka-based-file-watcher-for-millions-of-files) | Sep 20, 2026 |

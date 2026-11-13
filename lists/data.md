@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Data Scientist** role.
 
-**1,075 questions** · 97 from an OA · 55 reported in the last 90 days · 667 free to solve
+**1,075 questions** · 97 from an OA · 54 reported in the last 90 days · 667 free to solve
 
 **By level:** 🎓 Intern & New grad (178) · 🌱 Mid (470) · 🎯 Senior (957) · 🚀 Staff+ (552)
 

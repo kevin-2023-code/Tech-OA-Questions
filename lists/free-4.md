@@ -6,9 +6,9 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,114 questions** · 241 from an OA · 401 reported in the last 90 days · 2,114 free to solve
+**2,115 questions** · 241 from an OA · 397 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,128) · 🎯 Senior (1,590) · 🚀 Staff+ (671)
+**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,129) · 🎯 Senior (1,591) · 🚀 Staff+ (671)
 
 **Companies:** [Meta (208)](../companies/meta.md) · [Amazon (174)](../companies/amazon.md) · [ByteDance (148)](../companies/bytedance.md) · [Google (129)](../companies/google.md) · [Capital One (113)](../companies/capital-one.md) · [Uber (113)](../companies/uber.md) · [Microsoft (80)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (41)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Bloomberg (37)](../companies/bloomberg.md) · [Oracle (36)](../companies/oracle.md)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Apple](../companies/apple.md)** | [How would you handle an unresponsive teammate?](https://trueinterview.io/questions/how-would-you-handle-an-unresponsive-teammate) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-handle-an-unresponsive-teammate) | Nov 27, 2025 |
 | **[Snapchat](../companies/snapchat.md)** | [How do you decide with limited information?](https://trueinterview.io/questions/how-do-you-decide-with-limited-information) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-do-you-decide-with-limited-information) | Nov 26, 2025 |
 | **[Roblox](../companies/roblox.md)** | [Apply Bayes' rule to compute posterior](https://trueinterview.io/questions/apply-bayes-rule-to-compute-posterior) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/apply-bayes-rule-to-compute-posterior) | Nov 24, 2025 |
 | **[Google](../companies/google.md)** | [Can bootstrap help reduce variance](https://trueinterview.io/questions/can-bootstrap-help-reduce-variance) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/can-bootstrap-help-reduce-variance) | Nov 24, 2025 |
@@ -420,6 +421,5 @@
 | **[Uber](../companies/uber.md)** | [Analyze results and large p-values correctly](https://trueinterview.io/questions/analyze-results-and-large-p-values-correctly) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-results-and-large-p-values-correctly) | — |
 | **[Capital One](../companies/capital-one.md)** | [Analyze your favorite app and improve it](https://trueinterview.io/questions/analyze-your-favorite-app-and-improve-it) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-your-favorite-app-and-improve-it) | — |
 | **[Amazon](../companies/amazon.md)** | [Answer Amazon-style behavioral questions](https://trueinterview.io/questions/answer-amazon-style-behavioral-questions) | Phone | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-amazon-style-behavioral-questions) | — |
-| **[Dropbox](../companies/dropbox.md)** | [Answer rapid-fire leadership checklist](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | — |
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · **4** · [5](free-5.md) · [6](free-6.md)</sub>

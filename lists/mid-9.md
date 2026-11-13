@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 484 from an OA · 730 reported in the last 90 days · 1,128 free to solve
+**3,452 questions** · 484 from an OA · 728 reported in the last 90 days · 1,129 free to solve
 
-**By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
+**By role:** 💻 Software Engineering (2,527) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
-**Rounds:** 📝 OA (484) · 📞 Phone (2,021) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (484) · 📞 Phone (2,022) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
 
 **Companies:** [Amazon (297)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (257)](../companies/meta.md) · [ByteDance (227)](../companies/bytedance.md) · [Microsoft (152)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (82)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Rubrik](../companies/rubrik.md)** | [Maximize Happiness](https://trueinterview.io/questions/9a5a6369-36c2-41ca-923b-276bf08c2011) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/9a5a6369-36c2-41ca-923b-276bf08c2011) | — |
 | **[Karat](../companies/karat.md)** | [Maximize Museums Visited on a Timed Train Trip](https://trueinterview.io/questions/museum-visits-train-trip) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/museum-visits-train-trip) | — |
 | **[Point72](../companies/point72.md)** | [Maximize outfits with distinct colors](https://trueinterview.io/questions/maximize-outfits-with-distinct-colors) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-outfits-with-distinct-colors) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Maximize products bought under budget](https://trueinterview.io/questions/maximize-products-bought-under-budget) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-products-bought-under-budget) | — |

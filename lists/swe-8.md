@@ -6,11 +6,11 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,927 questions** · 586 from an OA · 961 reported in the last 90 days · 1,074 free to solve
+**3,928 questions** · 586 from an OA · 957 reported in the last 90 days · 1,075 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,492) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,016) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
 
 **Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Boston Consulting Group](../companies/boston-consulting-group.md)** | [Implement palindrome check and valid parentheses](https://trueinterview.io/questions/implement-palindrome-check-and-valid-parentheses) | Phone | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-palindrome-check-and-valid-parentheses) | Jan 17, 2026 |
 | **[xAI](../companies/xai.md)** | [Implement two string utility functions](https://trueinterview.io/questions/implement-two-string-utility-functions) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-two-string-utility-functions) | Jan 17, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Maximum Profit Query Selection](https://trueinterview.io/questions/single-query-max-revenue) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/single-query-max-revenue) | Jan 17, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Merchant Fraud Score](https://trueinterview.io/questions/merchant-fraud-score-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/merchant-fraud-score-oa) | Jan 17, 2026 |
@@ -422,6 +423,5 @@
 | **[Expedia](../companies/expedia.md)** | [Design a listing connectivity ingestion service](https://trueinterview.io/questions/design-a-listing-connectivity-ingestion-service) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-listing-connectivity-ingestion-service) | Nov 5, 2025 |
 | **[Okta](../companies/okta.md)** | [Memory Allocator (Allocate / Free)](https://trueinterview.io/questions/memory-allocator-3) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/memory-allocator-3) | Nov 5, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Design top-K frequency store for varying workloads](https://trueinterview.io/questions/design-top-k-frequency-store-for-varying-workloads) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-top-k-frequency-store-for-varying-workloads) | Nov 3, 2025 |
-| **[IBM](../companies/ibm.md)** / [Capital One](../companies/capital-one.md) | [Process Execution Time (Merge Inclusive Intervals)](https://trueinterview.io/questions/process-execution-time-merge-intervals) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/process-execution-time-merge-intervals) | Nov 3, 2025 |
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · [3](swe-3.md) · [4](swe-4.md) · [5](swe-5.md) · [6](swe-6.md) · [7](swe-7.md) · **8** · [9](swe-9.md) · [10](swe-10.md)</sub>

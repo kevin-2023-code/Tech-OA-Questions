@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 337 from an OA · 602 reported in the last 90 days · 711 free to solve
+**2,527 questions** · 337 from an OA · 601 reported in the last 90 days · 712 free to solve
 
-**Rounds:** 📝 OA (337) · 📞 Phone (1,464) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (337) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
 **Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Apple](../companies/apple.md)** | [Improve QA Benchmarks, Regression Tests, and HPC Resource Use](https://trueinterview.io/questions/improve-qa-benchmarks-regression-tests-and-hpc-resource-use) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/improve-qa-benchmarks-regression-tests-and-hpc-resource-use) | Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [In-Memory Key-Value Store with Write-Ahead Log Recovery](https://trueinterview.io/questions/746c7b5c-9f31-46ca-8bcf-0e0d69e5b090) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/746c7b5c-9f31-46ca-8bcf-0e0d69e5b090) | Sep 2026 |
 | **[OpenAI](../companies/openai.md)** / [Anthropic](../companies/anthropic.md) | [Infection Spread Simulation](https://trueinterview.io/questions/infection-spread-simulation) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/infection-spread-simulation) | Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [Infectious Disease Simulation (Multi-part)](https://trueinterview.io/questions/06f15ce5-2ae4-473c-baa8-1edfdb0936f8) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/06f15ce5-2ae4-473c-baa8-1edfdb0936f8) | Sep 2026 |
@@ -422,6 +423,5 @@
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Merge Strings Alternately](https://trueinterview.io/questions/merge-strings-alternately) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/merge-strings-alternately) | Jul 7, 2026 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Minimum Talent-Complete Team from Every Start](https://trueinterview.io/questions/minimum-talent-complete-team-from-each-start) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-talent-complete-team-from-each-start) | Jul 7, 2026 |
 | **[Figma](../companies/figma.md)** | [Design Document Layer System](https://trueinterview.io/questions/document-layer-apply-undo) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/document-layer-apply-undo) | Jul 6, 2026 |
-| **[Goldman Sachs](../companies/goldman-sachs.md)** | [Highest Average Score Per Person](https://trueinterview.io/questions/max-average-score-per-person) | OA · Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/max-average-score-per-person) | Jul 6, 2026 |
 
 <sub>Page [1](swe--mid.md) · **2** · [3](swe--mid-3.md) · [4](swe--mid-4.md) · [5](swe--mid-5.md) · [6](swe--mid-6.md) · [7](swe--mid-7.md)</sub>

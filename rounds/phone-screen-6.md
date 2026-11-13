@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,114 questions** · 10 from an OA · 610 reported in the last 90 days · 1,207 free to solve
+**3,115 questions** · 10 from an OA · 603 reported in the last 90 days · 1,208 free to solve
 
-**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,021) · 🎯 Senior (2,213) · 🚀 Staff+ (573)
+**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,022) · 🎯 Senior (2,214) · 🚀 Staff+ (573)
 
-**By role:** 💻 Software Engineering (2,016) · 🤖 ML, AI & Research (244) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
+**By role:** 💻 Software Engineering (2,017) · 🤖 ML, AI & Research (244) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
 
 **Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (92)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Walmart Labs](../companies/walmart-labs.md)** | [Course Overlap by Student ID](https://trueinterview.io/questions/course-overlap) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/course-overlap) | Dec 31, 2025 |
 | **[Snapchat](../companies/snapchat.md)** | [Find Peak Event Moment](https://trueinterview.io/questions/find-peak-event-moment) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-peak-event-moment) | Dec 31, 2025 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Spring Boot Verbal Quiz](https://trueinterview.io/questions/spring-boot-verbal-quiz) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/spring-boot-verbal-quiz) | Dec 31, 2025 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Validate Nonogram Solution](https://trueinterview.io/questions/validate-nonogram) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-nonogram) | Dec 31, 2025 |
@@ -420,6 +421,5 @@
 | **[Uber](../companies/uber.md)** | [Analyze results and large p-values correctly](https://trueinterview.io/questions/analyze-results-and-large-p-values-correctly) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-results-and-large-p-values-correctly) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Analyze shopping funnel with joins and windows](https://trueinterview.io/questions/analyze-shopping-funnel-with-joins-and-windows) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/analyze-shopping-funnel-with-joins-and-windows) | — |
 | **[Voleon](../companies/voleon.md)** | [Analyze time-zoned events with pandas](https://trueinterview.io/questions/analyze-time-zoned-events-with-pandas) | Phone | Senior · Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/analyze-time-zoned-events-with-pandas) | — |
-| **[Square](../companies/square.md)** | [Ancestor and Descendant Queries on Parent Records](https://trueinterview.io/questions/family-relationship-checker) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/family-relationship-checker) | — |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · **6** · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

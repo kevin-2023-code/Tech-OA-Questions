@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,114 questions** · 10 from an OA · 610 reported in the last 90 days · 1,207 free to solve
+**3,115 questions** · 10 from an OA · 603 reported in the last 90 days · 1,208 free to solve
 
-**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,021) · 🎯 Senior (2,213) · 🚀 Staff+ (573)
+**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,022) · 🎯 Senior (2,214) · 🚀 Staff+ (573)
 
-**By role:** 💻 Software Engineering (2,016) · 🤖 ML, AI & Research (244) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
+**By role:** 💻 Software Engineering (2,017) · 🤖 ML, AI & Research (244) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
 
 **Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (92)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Square](../companies/square.md)** | [Ancestor and Descendant Queries on Parent Records](https://trueinterview.io/questions/family-relationship-checker) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/family-relationship-checker) | — |
 | **[Amazon](../companies/amazon.md)** | [Answer Amazon-style behavioral questions](https://trueinterview.io/questions/answer-amazon-style-behavioral-questions) | Phone | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-amazon-style-behavioral-questions) | — |
 | **[Dropbox](../companies/dropbox.md)** | [Answer rapid-fire leadership checklist](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-rapid-fire-leadership-checklist) | — |
 | **[Amazon](../companies/amazon.md)** | [Append country tables and rank salaries in USD](https://trueinterview.io/questions/append-country-tables-and-rank-salaries-in-usd) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/append-country-tables-and-rank-salaries-in-usd) | — |
@@ -420,6 +421,5 @@
 | **[Karat](../companies/karat.md)** | [Fixing Slow File Deduplication in a Shared Upload Service](https://trueinterview.io/questions/file-dedup-bytewise-comparison) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/file-dedup-bytewise-comparison) | — |
 | **[Coinbase](../companies/coinbase.md)** | [Flatten Iterator for Vector of Iterators with getnext() and hasnext() Methods](https://trueinterview.io/questions/4ac45ecd-0c2b-47e5-bae9-8f19aa67657e) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/4ac45ecd-0c2b-47e5-bae9-8f19aa67657e) | — |
 | **[Tradedesk](../companies/tradedesk.md)** | [Flights](https://trueinterview.io/questions/64f3d712-00ab-40df-badd-22e7510d3cd6) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/64f3d712-00ab-40df-badd-22e7510d3cd6) | — |
-| **[Karat](../companies/karat.md)** | [Follow Counts and Similar-Taste Movie Suggestions](https://trueinterview.io/questions/follow-graph-movie-recommendations) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/follow-graph-movie-recommendations) | — |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · **7** · [8](phone-screen-8.md)</sub>

@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 337 from an OA · 602 reported in the last 90 days · 711 free to solve
+**2,527 questions** · 337 from an OA · 601 reported in the last 90 days · 712 free to solve
 
-**Rounds:** 📝 OA (337) · 📞 Phone (1,464) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (337) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
 **Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Shopify](../companies/shopify.md)** | [Compute Jaccard Similarity for Lists](https://trueinterview.io/questions/compute-jaccard-similarity-for-lists) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-jaccard-similarity-for-lists) | Apr 28, 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Employee Referral Program](https://trueinterview.io/questions/referral-program-leaderboard) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/referral-program-leaderboard) | Apr 28, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Find Valid IP Addresses in Files](https://trueinterview.io/questions/find-valid-ip-addresses-in-files) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-valid-ip-addresses-in-files) | Apr 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Implement Sorted Search and Array Updates](https://trueinterview.io/questions/implement-sorted-search-and-array-updates) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-sorted-search-and-array-updates) | Apr 28, 2026 |
@@ -422,6 +423,5 @@
 | **[Capital One](../companies/capital-one.md)** | [Solve multiple algorithmic interview questions](https://trueinterview.io/questions/solve-multiple-algorithmic-interview-questions) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-multiple-algorithmic-interview-questions) | Feb 12, 2026 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Transaction Authorizer / Fraud Checks](https://trueinterview.io/questions/transaction-authorizer-fraud-checks) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/transaction-authorizer-fraud-checks) | Feb 12, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Check perfect square using binary search](https://trueinterview.io/questions/check-perfect-square-using-binary-search) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/check-perfect-square-using-binary-search) | Feb 11, 2026 |
-| **[ByteDance](../companies/bytedance.md)** | [Delete nodes in linked list and binary tree](https://trueinterview.io/questions/delete-nodes-in-linked-list-and-binary-tree) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/delete-nodes-in-linked-list-and-binary-tree) | Feb 11, 2026 |
 
 <sub>Page [1](swe--mid.md) · [2](swe--mid-2.md) · [3](swe--mid-3.md) · **4** · [5](swe--mid-5.md) · [6](swe--mid-6.md) · [7](swe--mid-7.md)</sub>

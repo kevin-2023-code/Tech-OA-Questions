@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,590 free to solve
+**4,059 questions** · 252 from an OA · 777 reported in the last 90 days · 1,591 free to solve
 
-**By role:** 💻 Software Engineering (2,492) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
+**By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
-**Rounds:** 📝 OA (252) · 📞 Phone (2,213) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
+**Rounds:** 📝 OA (252) · 📞 Phone (2,214) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
 
 **Companies:** [Meta (398)](../companies/meta.md) · [Amazon (287)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (230)](../companies/bytedance.md) · [Uber (190)](../companies/uber.md) · [Microsoft (166)](../companies/microsoft.md) · [OpenAI (158)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (118)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Oracle (82)](../companies/oracle.md) · [Anthropic (81)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Datologyai](../companies/datologyai.md)** | [Cursor-Based Text Editor: Typing, Backspace, and Four-Way Cursor Movement](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | 🆕 Oct 14, 2026 |
 | **[Disney](../companies/disney.md)** | [Data Engineer Hiring Manager & Panel Behavioral](https://trueinterview.io/questions/data-engineer-hm-and-panel-behavioral) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/data-engineer-hm-and-panel-behavioral) | 🆕 Oct 8, 2026 |
 | **[Disney](../companies/disney.md)** | [Data Engineer Tech Questions: LLM Prompting, Data Quality & Security](https://trueinterview.io/questions/data-engineer-llm-prompting-and-data-quality) | Phone · Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/data-engineer-llm-prompting-and-data-quality) | 🆕 Oct 8, 2026 |
 | **[Disney](../companies/disney.md)** | [Data Pipeline Design (Data Engineer)](https://trueinterview.io/questions/data-pipeline-design-data-engineer) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/data-pipeline-design-data-engineer) | 🆕 Oct 8, 2026 |
@@ -169,7 +170,7 @@
 | **[Google](../companies/google.md)** | [Path Minimizing the Maximum Cell (Swim in Rising Water)](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/path-min-max-grid-dijkstra) | 🆕 Sep 29, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Region Sizes in a Binary Image](https://trueinterview.io/questions/binary-image-region-sizes) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-image-region-sizes) | 🆕 Sep 29, 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | 🆕 Sep 29, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | 🆕 Sep 28, 2026 |
+| **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | Sep 28, 2026 |
 | **[Amazon](../companies/amazon.md)** | [GRPO Notebook Exercise](https://trueinterview.io/questions/grpo-notebook-exercise) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/grpo-notebook-exercise) | Sep 26, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Multi-Head Attention Coding](https://trueinterview.io/questions/multi-head-attention-coding) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multi-head-attention-coding) | Sep 26, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | Sep 25, 2026 |
@@ -422,6 +423,5 @@
 | **[LinkedIn](../companies/linkedin.md)** | [Collect and Query Recent User Activity](https://trueinterview.io/questions/collect-and-query-recent-user-activity) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/collect-and-query-recent-user-activity) | Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [Compare Three-Card Poker Hands with Optional Flush Rule](https://trueinterview.io/questions/bf3e16a6-a286-5c60-a8ac-673058700b96) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/bf3e16a6-a286-5c60-a8ac-673058700b96) | Sep 2026 |
 | **[Databricks](../companies/databricks.md)** | [Compute last-5-minute QPS in memory](https://trueinterview.io/questions/compute-last-5-minute-qps-in-memory) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-last-5-minute-qps-in-memory) | Sep 2026 |
-| **[Anthropic](../companies/anthropic.md)** / [MongoDB](../companies/mongodb.md) | [Concurrent Web Crawler](https://trueinterview.io/questions/24ef32e6-b554-41ca-977b-307982b4d871) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/24ef32e6-b554-41ca-977b-307982b4d871) | Sep 2026 |
 
 <sub>Page **1** · [2](senior-2.md) · [3](senior-3.md) · [4](senior-4.md) · [5](senior-5.md) · [6](senior-6.md) · [7](senior-7.md) · [8](senior-8.md) · [9](senior-9.md) · [10](senior-10.md) · [11](senior-11.md)</sub>

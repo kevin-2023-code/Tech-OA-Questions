@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,114 questions** · 10 from an OA · 610 reported in the last 90 days · 1,207 free to solve
+**3,115 questions** · 10 from an OA · 603 reported in the last 90 days · 1,208 free to solve
 
-**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,021) · 🎯 Senior (2,213) · 🚀 Staff+ (573)
+**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,022) · 🎯 Senior (2,214) · 🚀 Staff+ (573)
 
-**By role:** 💻 Software Engineering (2,016) · 🤖 ML, AI & Research (244) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
+**By role:** 💻 Software Engineering (2,017) · 🤖 ML, AI & Research (244) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
 
 **Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (92)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Rippling](../companies/rippling.md)** | [Maximize Amount After Two Days of Conversions](https://trueinterview.io/questions/maximize-amount-after-two-days-of-conversions) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/maximize-amount-after-two-days-of-conversions) | Mar 2026 |
 | **[Amazon](../companies/amazon.md)** | [Median Rating of Most Recent N Comments](https://trueinterview.io/questions/076fe196-70a4-4387-a808-a26eabd45cdd) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/076fe196-70a4-4387-a808-a26eabd45cdd) | Mar 2026 |
 | **[Verkada](../companies/verkada.md)** | [Merge Alert Intervals Across Multiple Cameras](https://trueinterview.io/questions/a4f0ae26-f3ea-4975-9c68-99712a354b65) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a4f0ae26-f3ea-4975-9c68-99712a354b65) | Mar 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Merge N sorted lists into one sorted list](https://trueinterview.io/questions/05df5d18-4c49-4622-9296-d227c283f950) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/05df5d18-4c49-4622-9296-d227c283f950) | Mar 2026 |
@@ -420,6 +421,5 @@
 | **[Goldman Sachs](../companies/goldman-sachs.md)** / [Microsoft](../companies/microsoft.md) | [Spiral Matrix Traversal](https://trueinterview.io/questions/spiral-matrix-output) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/spiral-matrix-output) | Jan 2026 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Topological Sort with Nested Elements](https://trueinterview.io/questions/75bb27c8-8c45-415d-bd44-edfb0d52af96) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/75bb27c8-8c45-415d-bd44-edfb0d52af96) | Jan 2026 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Validate JSON against Protobuf](https://trueinterview.io/questions/05f64d73-a5a3-45b8-9df3-8e995581973b) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/05f64d73-a5a3-45b8-9df3-8e995581973b) | Jan 2026 |
-| **[Walmart Labs](../companies/walmart-labs.md)** | [Course Overlap by Student ID](https://trueinterview.io/questions/course-overlap) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/course-overlap) | Dec 31, 2025 |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · **5** · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

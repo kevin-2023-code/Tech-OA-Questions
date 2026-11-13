@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**659 questions** · 53 from an OA · 157 reported in the last 90 days · 85 free to solve
+**660 questions** · 53 from an OA · 158 reported in the last 90 days · 86 free to solve
 
-**By level:** 🎓 Intern & New grad (123) · 🌱 Mid (455) · 🎯 Senior (446) · 🚀 Staff+ (21)
+**By level:** 🎓 Intern & New grad (123) · 🌱 Mid (456) · 🎯 Senior (447) · 🚀 Staff+ (21)
 
-**Rounds:** 📝 OA (53) · 📞 Phone (234) · 🏢 Onsite (437) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (53) · 📞 Phone (235) · 🏢 Onsite (437) · 🏠 Take-home (1)
 
 **Companies:** [Amazon (48)](../companies/amazon.md) · [Coinbase (32)](../companies/coinbase.md) · [Google (32)](../companies/google.md) · [Microsoft (32)](../companies/microsoft.md) · [OpenAI (32)](../companies/openai.md) · [Airbnb (27)](../companies/airbnb.md) · [Anthropic (26)](../companies/anthropic.md) · [LinkedIn (26)](../companies/linkedin.md) · [Netflix (24)](../companies/netflix.md) · [Uber (24)](../companies/uber.md) · [ByteDance (22)](../companies/bytedance.md) · [Apple (19)](../companies/apple.md) · [Oracle (19)](../companies/oracle.md) · [Bloomberg (16)](../companies/bloomberg.md) · [Citadel (16)](../companies/citadel.md)
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Datologyai](../companies/datologyai.md)** | [Cursor-Based Text Editor: Typing, Backspace, and Four-Way Cursor Movement](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cursor-based-text-editor-typing-backspace-and-four-way-cursor-movement) | 🆕 Oct 14, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Progressive Banking System](https://trueinterview.io/questions/oa-banking-system-2) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-banking-system-2) | 🆕 Oct 14, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Parcel Attribute Store](https://trueinterview.io/questions/oa-parcel-attribute-store) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-parcel-attribute-store) | 🆕 Oct 9, 2026 |
 | **[Disney](../companies/disney.md)** | [Data Engineer Tech Questions: LLM Prompting, Data Quality & Security](https://trueinterview.io/questions/data-engineer-llm-prompting-and-data-quality) | Phone · Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/data-engineer-llm-prompting-and-data-quality) | 🆕 Oct 8, 2026 |
@@ -60,8 +61,8 @@
 | **[Airbnb](../companies/airbnb.md)** | [Workspace Credit Ledger with Scheduled Transfers](https://trueinterview.io/questions/4c1be592-b2c7-59dc-a159-34b0311bed57) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/4c1be592-b2c7-59dc-a159-34b0311bed57) | 🆕 Oct 2026 |
 | **[IBM](../companies/ibm.md)** | [Function Signature Matching Library (Variadic Overloads)](https://trueinterview.io/questions/function-signature-matching-library) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/function-signature-matching-library) | 🆕 Sep 29, 2026 |
 | **[Waymo](../companies/waymo.md)** | [Merge Object Histories Across Two Tracking Systems](https://trueinterview.io/questions/cross-system-object-tracker-history) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cross-system-object-tracker-history) | 🆕 Sep 29, 2026 |
-| **[OpenAI](../companies/openai.md)** | [Poker Simulation](https://trueinterview.io/questions/poker-simulation) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/poker-simulation) | 🆕 Sep 28, 2026 |
-| **[Google](../companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | 🆕 Sep 28, 2026 |
+| **[OpenAI](../companies/openai.md)** | [Poker Simulation](https://trueinterview.io/questions/poker-simulation) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/poker-simulation) | Sep 28, 2026 |
+| **[Google](../companies/google.md)** | [URL Request Handler Router](https://trueinterview.io/questions/url-request-handler-router) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/url-request-handler-router) | Sep 28, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | Sep 25, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Define a Reliable Trade-Reconciliation Library Contract](https://trueinterview.io/questions/define-a-reliable-trade-reconciliation-library-contract) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/define-a-reliable-trade-reconciliation-library-contract) | Sep 18, 2026 |
 | **[Google](../companies/google.md)** | [Design Extensible Spreadsheet Aggregation APIs](https://trueinterview.io/questions/design-extensible-spreadsheet-aggregation-apis) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-extensible-spreadsheet-aggregation-apis) | Sep 18, 2026 |
@@ -420,6 +421,5 @@
 | **[Circle](../companies/circle.md)** | [Design a Recipe Storage System with Case-Insensitive Name Uniqueness and String IDs](https://trueinterview.io/questions/a50dfa50-dd7a-4d96-92e5-4a2f7fef2dbd) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a50dfa50-dd7a-4d96-92e5-4a2f7fef2dbd) | Mar 2026 |
 | **[Dropbox](../companies/dropbox.md)** | [Design and Implement an In-Memory KV Store (API + Optional Extensions)](https://trueinterview.io/questions/25de6019-dd6c-4d5c-a34f-39827dfbaba8) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/25de6019-dd6c-4d5c-a34f-39827dfbaba8) | Mar 2026 |
 | **[Lyft](../companies/lyft.md)** / [Applied Intuition](../companies/applied-intuition.md) | [Design In-Memory Key-Value Database](https://trueinterview.io/questions/design-in-memory-key-value-database) | Onsite | Intern | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-in-memory-key-value-database) | Mar 2026 |
-| **[Netflix](../companies/netflix.md)** | [Double-Checked Locking / Locking Correctness in Multithreaded Code](https://trueinterview.io/questions/6bcb25e8-ba72-4809-9b07-09b387195248) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/6bcb25e8-ba72-4809-9b07-09b387195248) | Mar 2026 |
 
 <sub>Page **1** · [2](object-oriented-programming-2.md)</sub>

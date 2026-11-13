@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 484 from an OA · 730 reported in the last 90 days · 1,128 free to solve
+**3,452 questions** · 484 from an OA · 728 reported in the last 90 days · 1,129 free to solve
 
-**By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
+**By role:** 💻 Software Engineering (2,527) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
-**Rounds:** 📝 OA (484) · 📞 Phone (2,021) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (484) · 📞 Phone (2,022) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
 
 **Companies:** [Amazon (297)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (257)](../companies/meta.md) · [ByteDance (227)](../companies/bytedance.md) · [Microsoft (152)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (82)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Stripe](../companies/stripe.md)** | [Describe a high-impact project via STAR](https://trueinterview.io/questions/describe-a-high-impact-project-via-star) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-a-high-impact-project-via-star) | Aug 2026 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [Describe a proud project and conflict](https://trueinterview.io/questions/describe-a-proud-project-and-conflict) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-a-proud-project-and-conflict) | Aug 2026 |
 | **[Meta](../companies/meta.md)** | [Describe conflict resolution and initiative](https://trueinterview.io/questions/describe-conflict-resolution-and-initiative) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-conflict-resolution-and-initiative) | Aug 2026 |
 | **[Pinduoduo](../companies/pinduoduo.md)** | [Describe toughest project experience](https://trueinterview.io/questions/describe-toughest-project-experience) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-toughest-project-experience) | Aug 2026 |
@@ -422,6 +423,5 @@
 | **[Meta](../companies/meta.md)** | [Shared Substring in String List](https://trueinterview.io/questions/ai-coding-substring-from-list) | Onsite | Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/ai-coding-substring-from-list) | Jun 9, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Max Credits with K Classes (Interval-Style)](https://trueinterview.io/questions/course-credit-max-k-classes) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/course-credit-max-k-classes) | Jun 7, 2026 |
 | **[Uber](../companies/uber.md)** | [Construct Quad Tree](https://trueinterview.io/questions/construct-quad-tree) | OA · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/construct-quad-tree) | Jun 6, 2026 |
-| **[Verkada](../companies/verkada.md)** | [Camera Log Relay Server](https://trueinterview.io/questions/camera-log-relay-server) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/camera-log-relay-server) | Jun 5, 2026 |
 
 <sub>Page [1](mid.md) · [2](mid-2.md) · **3** · [4](mid-4.md) · [5](mid-5.md) · [6](mid-6.md) · [7](mid-7.md) · [8](mid-8.md) · [9](mid-9.md)</sub>

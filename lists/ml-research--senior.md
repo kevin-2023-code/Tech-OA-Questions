@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**385 questions** · 6 from an OA · 87 reported in the last 90 days · 145 free to solve
+**385 questions** · 6 from an OA · 82 reported in the last 90 days · 145 free to solve
 
 **Rounds:** 📝 OA (6) · 📞 Phone (186) · 🏢 Onsite (233) · 🏠 Take-home (1)
 

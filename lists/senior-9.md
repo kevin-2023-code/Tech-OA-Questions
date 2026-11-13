@@ -6,11 +6,11 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,058 questions** · 252 from an OA · 784 reported in the last 90 days · 1,590 free to solve
+**4,059 questions** · 252 from an OA · 777 reported in the last 90 days · 1,591 free to solve
 
-**By role:** 💻 Software Engineering (2,492) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
+**By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
-**Rounds:** 📝 OA (252) · 📞 Phone (2,213) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
+**Rounds:** 📝 OA (252) · 📞 Phone (2,214) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
 
 **Companies:** [Meta (398)](../companies/meta.md) · [Amazon (287)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (230)](../companies/bytedance.md) · [Uber (190)](../companies/uber.md) · [Microsoft (166)](../companies/microsoft.md) · [OpenAI (158)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (118)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Oracle (82)](../companies/oracle.md) · [Anthropic (81)](../companies/anthropic.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[CVS Health](../companies/cvs-health.md)** | [Create Views, Insert, and Update Correctly](https://trueinterview.io/questions/create-views-insert-and-update-correctly) | OA | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/create-views-insert-and-update-correctly) | — |
 | **[Brex](../companies/brex.md)** | [Credit Card Service with Points Earning and Redemption System](https://trueinterview.io/questions/72fc1b26-d7bc-4260-a442-36f08b50385c) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/72fc1b26-d7bc-4260-a442-36f08b50385c) | — |
 | **[Capital One](../companies/capital-one.md)** | [Critique a product interface and propose fixes](https://trueinterview.io/questions/critique-a-product-interface-and-propose-fixes) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/critique-a-product-interface-and-propose-fixes) | — |
 | **[Square](../companies/square.md)** | [Crop Purchasing and Reinvestment Under a Budget](https://trueinterview.io/questions/crop-budget-profit-maximization) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/crop-budget-profit-maximization) | — |
@@ -422,6 +423,5 @@
 | **[Karat](../companies/karat.md)** | [Friend Count at Scale for a Bidirectional Relationship Table](https://trueinterview.io/questions/bidirectional-friend-count-sql) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/bidirectional-friend-count-sql) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Friendship String](https://trueinterview.io/questions/99375dc6-cb8e-404c-abc8-3d56c84f329c) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/99375dc6-cb8e-404c-abc8-3d56c84f329c) | — |
 | **[Amazon](../companies/amazon.md)** | [Game Shop Design](https://trueinterview.io/questions/0f33f62b-5a8a-40d0-a6bb-c637b20b3cdf) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/0f33f62b-5a8a-40d0-a6bb-c637b20b3cdf) | — |
-| **[Scale AI](../companies/scale-ai.md)** | [Generate Jailbreak Prompts from Text Inputs Algorithm](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | — |
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · [3](senior-3.md) · [4](senior-4.md) · [5](senior-5.md) · [6](senior-6.md) · [7](senior-7.md) · [8](senior-8.md) · **9** · [10](senior-10.md) · [11](senior-11.md)</sub>
