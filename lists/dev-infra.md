@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Developer tools, cloud & data infrastructure*.
 
-**299 questions** · 29 from an OA · 64 reported in the last 90 days · 105 free to solve
+**299 questions** · 29 from an OA · 63 reported in the last 90 days · 105 free to solve
 
 **By level:** 🎓 Intern & New grad (68) · 🌱 Mid (208) · 🎯 Senior (184) · 🚀 Staff+ (35)
 
@@ -33,7 +33,7 @@
 | **[Snowflake](../companies/snowflake.md)** | [Runtime-Configurable Multi-Tier Rate Limiter](https://trueinterview.io/questions/88d39b15-fccf-5f7f-bed3-9bdcba8b1dcf) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/88d39b15-fccf-5f7f-bed3-9bdcba8b1dcf) | 🆕 Oct 2026 |
 | **[Snowflake](../companies/snowflake.md)** / [Amazon](../companies/amazon.md) / [Meta](../companies/meta.md) / +1 | [Shortest Path in a Binary Matrix with Obstacles](https://trueinterview.io/questions/55c071d4-9b02-564b-ab0c-f766c602e360) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/55c071d4-9b02-564b-ab0c-f766c602e360) | 🆕 Oct 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +4 | [Word Search II](https://trueinterview.io/questions/word-search-ii) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/word-search-ii) | 🆕 Oct 2026 |
-| **[Snowflake](../companies/snowflake.md)** | [Encode and Decode Strings (LC 271)](https://trueinterview.io/questions/encode-and-decode-strings) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/encode-and-decode-strings) | 🆕 Sep 29, 2026 |
+| **[Snowflake](../companies/snowflake.md)** | [Encode and Decode Strings (LC 271)](https://trueinterview.io/questions/encode-and-decode-strings) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/encode-and-decode-strings) | Sep 29, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Explain a Technical Project from Milestone to Production](https://trueinterview.io/questions/explain-a-technical-project-from-milestone-to-production) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-a-technical-project-from-milestone-to-production) | Sep 17, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Four-in-a-row Game](https://trueinterview.io/questions/connect-four-can-play-win) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/connect-four-can-play-win) | Sep 17, 2026 |
 | **[Render](../companies/render.md)** | [Rate Limit an API During a Traffic Attack](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limit-an-api-during-a-traffic-attack) | Sep 17, 2026 |

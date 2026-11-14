@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Frontend Engineer** role.
 
-**106 questions** · 7 from an OA · 26 reported in the last 90 days · 31 free to solve
+**106 questions** · 7 from an OA · 25 reported in the last 90 days · 31 free to solve
 
 **By level:** 🎓 Intern & New grad (12) · 🌱 Mid (70) · 🎯 Senior (67) · 🚀 Staff+ (7)
 

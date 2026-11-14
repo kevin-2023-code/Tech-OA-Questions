@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,110 questions** · 351 from an OA · 229 reported in the last 90 days · 311 free to solve
+**1,110 questions** · 351 from an OA · 227 reported in the last 90 days · 311 free to solve
 
 **Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
 
@@ -97,9 +97,9 @@
 | **[Amazon](../companies/amazon.md)** | [Work Simulation & Work Style Assessment](https://trueinterview.io/questions/work-style-simulation-assessment) | OA | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/work-style-simulation-assessment) | 🆕 Oct 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Workspace Credit Ledger with Scheduled Transfers](https://trueinterview.io/questions/4c1be592-b2c7-59dc-a159-34b0311bed57) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/4c1be592-b2c7-59dc-a159-34b0311bed57) | 🆕 Oct 2026 |
 | **[Stripe](../companies/stripe.md)** | [Request Routing System](https://trueinterview.io/questions/request-routing-system) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/request-routing-system) | 🆕 Sep 30, 2026 |
-| **[Google](../companies/google.md)** | [Friend Graph with Timeline (Friend / Unfriend Events)](https://trueinterview.io/questions/friend-graph-with-timeline) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/friend-graph-with-timeline) | 🆕 Sep 29, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Lowest Common Ancestor of a Binary Search Tree (LC 235)](https://trueinterview.io/questions/lowest-common-ancestor-bst-lc-235) | Phone · Onsite | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-ancestor-bst-lc-235) | 🆕 Sep 29, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Ones and Zeroes (LC 474)](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | 🆕 Sep 29, 2026 |
+| **[Google](../companies/google.md)** | [Friend Graph with Timeline (Friend / Unfriend Events)](https://trueinterview.io/questions/friend-graph-with-timeline) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/friend-graph-with-timeline) | Sep 29, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Lowest Common Ancestor of a Binary Search Tree (LC 235)](https://trueinterview.io/questions/lowest-common-ancestor-bst-lc-235) | Phone · Onsite | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-ancestor-bst-lc-235) | Sep 29, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Ones and Zeroes (LC 474)](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | Sep 29, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Othello Move — Flip Captured Pieces](https://trueinterview.io/questions/othello-move-flip-simulation) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/othello-move-flip-simulation) | Sep 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Spiral Matrix (LC 54) with Follow-Up Constraints](https://trueinterview.io/questions/spiral-matrix-constant-space) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/spiral-matrix-constant-space) | Sep 28, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Sep 25, 2026 |

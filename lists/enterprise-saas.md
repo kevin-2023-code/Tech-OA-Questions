@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Enterprise & business software*.
 
-**719 questions** · 99 from an OA · 163 reported in the last 90 days · 231 free to solve
+**719 questions** · 99 from an OA · 161 reported in the last 90 days · 231 free to solve
 
 **By level:** 🎓 Intern & New grad (176) · 🌱 Mid (431) · 🎯 Senior (528) · 🚀 Staff+ (77)
 
@@ -61,8 +61,8 @@
 | **[Oracle](../companies/oracle.md)** | [Resume / Project Deep Dive (HM or Tech Screen Opener)](https://trueinterview.io/questions/resume-project-deep-dive) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resume-project-deep-dive) | 🆕 Oct 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +7 | [Top K Frequent Elements](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2acc6b8b-bbda-51ad-871f-96b08b6bae47) | 🆕 Oct 2026 |
 | **[xAI](../companies/xai.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [Weighted LRU Cache](https://trueinterview.io/questions/weighted-lru-cache-2) | Phone | Intern · New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/weighted-lru-cache-2) | 🆕 Oct 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Lab Machine Compute-Load Monitoring System Design](https://trueinterview.io/questions/lab-machine-monitoring-system-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/lab-machine-monitoring-system-design) | 🆕 Sep 29, 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Region Sizes in a Binary Image](https://trueinterview.io/questions/binary-image-region-sizes) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-image-region-sizes) | 🆕 Sep 29, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Lab Machine Compute-Load Monitoring System Design](https://trueinterview.io/questions/lab-machine-monitoring-system-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/lab-machine-monitoring-system-design) | Sep 29, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Region Sizes in a Binary Image](https://trueinterview.io/questions/binary-image-region-sizes) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-image-region-sizes) | Sep 29, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Large-File Video Upload](https://trueinterview.io/questions/system-design-large-file-video-upload) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-large-file-video-upload) | Sep 28, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Logger Handler Pipeline](https://trueinterview.io/questions/logger-handler-pipeline) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/logger-handler-pipeline) | Sep 25, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Valid Parentheses with a Follow-Up](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-parentheses-with-follow-up) | Sep 25, 2026 |

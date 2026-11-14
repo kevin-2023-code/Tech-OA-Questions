@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *E-commerce & marketplaces*.
 
-**1,231 questions** · 150 from an OA · 322 reported in the last 90 days · 449 free to solve
+**1,231 questions** · 150 from an OA · 320 reported in the last 90 days · 449 free to solve
 
 **By level:** 🎓 Intern & New grad (320) · 🌱 Mid (714) · 🎯 Senior (830) · 🚀 Staff+ (229)
 
@@ -116,9 +116,9 @@
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +4 | [Word Search II](https://trueinterview.io/questions/word-search-ii) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/word-search-ii) | 🆕 Oct 2026 |
 | **[Amazon](../companies/amazon.md)** | [Work Simulation & Work Style Assessment](https://trueinterview.io/questions/work-style-simulation-assessment) | OA | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/work-style-simulation-assessment) | 🆕 Oct 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Workspace Credit Ledger with Scheduled Transfers](https://trueinterview.io/questions/4c1be592-b2c7-59dc-a159-34b0311bed57) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/4c1be592-b2c7-59dc-a159-34b0311bed57) | 🆕 Oct 2026 |
-| **[Amazon](../companies/amazon.md)** | [Lowest Common Ancestor of a Binary Search Tree (LC 235)](https://trueinterview.io/questions/lowest-common-ancestor-bst-lc-235) | Phone · Onsite | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-ancestor-bst-lc-235) | 🆕 Sep 29, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Ones and Zeroes (LC 474)](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | 🆕 Sep 29, 2026 |
-| **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | 🆕 Sep 29, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Lowest Common Ancestor of a Binary Search Tree (LC 235)](https://trueinterview.io/questions/lowest-common-ancestor-bst-lc-235) | Phone · Onsite | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-ancestor-bst-lc-235) | Sep 29, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Ones and Zeroes (LC 474)](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/ones-and-zeroes-lc-474) | Sep 29, 2026 |
+| **[Uber](../companies/uber.md)** / [Google](../companies/google.md) | [Squares of a Sorted Array](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/e1f619c5-e21e-49ac-a3d9-fdfc720cb32c) | Sep 29, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Evaluate Division (LC 399) with a High-Volume Query Follow-Up](https://trueinterview.io/questions/evaluate-division-lc-399) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-division-lc-399) | Sep 28, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Othello Move — Flip Captured Pieces](https://trueinterview.io/questions/othello-move-flip-simulation) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/othello-move-flip-simulation) | Sep 28, 2026 |
 | **[Amazon](../companies/amazon.md)** | [GRPO Notebook Exercise](https://trueinterview.io/questions/grpo-notebook-exercise) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/grpo-notebook-exercise) | Sep 26, 2026 |

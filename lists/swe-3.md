@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,928 questions** · 586 from an OA · 957 reported in the last 90 days · 1,075 free to solve
+**3,928 questions** · 586 from an OA · 950 reported in the last 90 days · 1,075 free to solve
 
 **By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 

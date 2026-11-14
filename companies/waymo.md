@@ -22,7 +22,7 @@
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Rate Limiter](https://trueinterview.io/questions/rate-limiter)<br><sub>also [Stripe](../companies/stripe.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +6</sub> | Onsite | New grad · Mid · Senior · Staff+ | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/rate-limiter) | 🆕 Oct 2026 |
-| [Merge Object Histories Across Two Tracking Systems](https://trueinterview.io/questions/cross-system-object-tracker-history) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cross-system-object-tracker-history) | 🆕 Sep 29, 2026 |
+| [Merge Object Histories Across Two Tracking Systems](https://trueinterview.io/questions/cross-system-object-tracker-history) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cross-system-object-tracker-history) | Sep 29, 2026 |
 | [Compare Driving Algorithms Using Hard-Braking Rates](https://trueinterview.io/questions/compare-driving-algorithms-using-hard-braking-rates) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-driving-algorithms-using-hard-braking-rates) | Sep 6, 2026 |
 | [Build an Arithmetic Expression to Reach a Target](https://trueinterview.io/questions/arithmetic-expression-reach-target) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/arithmetic-expression-reach-target) | Sep 2026 |
 | [Count Islands and Compute Coastline Length](https://trueinterview.io/questions/d3f92d42-3cee-5d76-bec0-10b3df78167e) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/d3f92d42-3cee-5d76-bec0-10b3df78167e) | Sep 2026 |

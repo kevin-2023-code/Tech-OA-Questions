@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *AI labs & AI infrastructure*.
 
-**503 questions** · 39 from an OA · 156 reported in the last 90 days · 163 free to solve
+**503 questions** · 39 from an OA · 153 reported in the last 90 days · 163 free to solve
 
 **By level:** 🎓 Intern & New grad (95) · 🌱 Mid (307) · 🎯 Senior (427) · 🚀 Staff+ (85)
 

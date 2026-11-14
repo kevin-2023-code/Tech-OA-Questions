@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Quant trading & hedge funds*.
 
-**383 questions** · 119 from an OA · 66 reported in the last 90 days · 166 free to solve
+**383 questions** · 119 from an OA · 65 reported in the last 90 days · 166 free to solve
 
 **By level:** 🎓 Intern & New grad (160) · 🌱 Mid (270) · 🎯 Senior (187) · 🚀 Staff+ (22)
 
