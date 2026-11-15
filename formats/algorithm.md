@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 503 reported in the last 90 days · 540 free to solve
+**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 540 free to solve
 
 **By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
@@ -136,7 +136,7 @@
 | **[Amazon](../companies/amazon.md)** | [URL reachability from navigation table](https://trueinterview.io/questions/solve-two-set-and-graph-problems-url-reachability-from-navigation-table) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-set-and-graph-problems-url-reachability-from-navigation-table) | 🆕 Oct 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Validate a Decimal Number String](https://trueinterview.io/questions/c4ab51bc-0703-5e40-aca8-21c8d8a63a0a) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/c4ab51bc-0703-5e40-aca8-21c8d8a63a0a) | 🆕 Oct 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +4 | [Word Search II](https://trueinterview.io/questions/word-search-ii) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/word-search-ii) | 🆕 Oct 2026 |
-| **[Stripe](../companies/stripe.md)** | [Request Routing System](https://trueinterview.io/questions/request-routing-system) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/request-routing-system) | 🆕 Sep 30, 2026 |
+| **[Stripe](../companies/stripe.md)** | [Request Routing System](https://trueinterview.io/questions/request-routing-system) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/request-routing-system) | Sep 30, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Encode and Decode Strings (LC 271)](https://trueinterview.io/questions/encode-and-decode-strings) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/encode-and-decode-strings) | Sep 29, 2026 |
 | **[Google](../companies/google.md)** | [Friend Graph with Timeline (Friend / Unfriend Events)](https://trueinterview.io/questions/friend-graph-with-timeline) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/friend-graph-with-timeline) | Sep 29, 2026 |
 | **[Google](../companies/google.md)** | [Grid Path Count with Diagonal Moves and Checkpoints](https://trueinterview.io/questions/grid-path-count-three-moves-checkpoints) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/grid-path-count-three-moves-checkpoints) | Sep 29, 2026 |

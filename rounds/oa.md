@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**802 questions** · 802 from an OA · 132 reported in the last 90 days · 241 free to solve
+**802 questions** · 802 from an OA · 125 reported in the last 90 days · 241 free to solve
 
 **By level:** 🎓 Intern & New grad (495) · 🌱 Mid (484) · 🎯 Senior (252) · 🚀 Staff+ (20)
 
@@ -60,7 +60,7 @@
 | **[LinkedIn](../companies/linkedin.md)** | [Sum of a Multidimensional Array](https://trueinterview.io/questions/efb1f73c-dfba-48ad-b8be-bc0206abd5e9) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/efb1f73c-dfba-48ad-b8be-bc0206abd5e9) | 🆕 Oct 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Validate a Decimal Number String](https://trueinterview.io/questions/c4ab51bc-0703-5e40-aca8-21c8d8a63a0a) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/c4ab51bc-0703-5e40-aca8-21c8d8a63a0a) | 🆕 Oct 2026 |
 | **[Amazon](../companies/amazon.md)** | [Work Simulation & Work Style Assessment](https://trueinterview.io/questions/work-style-simulation-assessment) | OA | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/work-style-simulation-assessment) | 🆕 Oct 2026 |
-| **[Stripe](../companies/stripe.md)** | [Request Routing System](https://trueinterview.io/questions/request-routing-system) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/request-routing-system) | 🆕 Sep 30, 2026 |
+| **[Stripe](../companies/stripe.md)** | [Request Routing System](https://trueinterview.io/questions/request-routing-system) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/request-routing-system) | Sep 30, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Othello Move — Flip Captured Pieces](https://trueinterview.io/questions/othello-move-flip-simulation) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/othello-move-flip-simulation) | Sep 28, 2026 |
 | **[Netflix](../companies/netflix.md)** | [MLE Intern OA: ML Fundamentals](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | OA | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | Sep 23, 2026 |
 | **[Houzz](../companies/houzz.md)** | [Convert a Column Number to an Excel-Style Label](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/convert-a-column-number-to-an-excel-style-label) | Sep 18, 2026 |

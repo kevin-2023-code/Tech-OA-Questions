@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,452 questions** · 484 from an OA · 723 reported in the last 90 days · 1,129 free to solve
+**3,452 questions** · 484 from an OA · 709 reported in the last 90 days · 1,129 free to solve
 
 **By role:** 💻 Software Engineering (2,527) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
@@ -185,7 +185,7 @@
 | **[Capital One](../companies/capital-one.md)** | [Virtual Credit Card Validator (Case Study)](https://trueinterview.io/questions/virtual-credit-card-validator) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/virtual-credit-card-validator) | 🆕 Oct 2026 |
 | **[xAI](../companies/xai.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [Weighted LRU Cache](https://trueinterview.io/questions/weighted-lru-cache-2) | Phone | Intern · New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/weighted-lru-cache-2) | 🆕 Oct 2026 |
 | **[Uber](../companies/uber.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +4 | [Word Search II](https://trueinterview.io/questions/word-search-ii) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/word-search-ii) | 🆕 Oct 2026 |
-| **[Stripe](../companies/stripe.md)** | [Request Routing System](https://trueinterview.io/questions/request-routing-system) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/request-routing-system) | 🆕 Sep 30, 2026 |
+| **[Stripe](../companies/stripe.md)** | [Request Routing System](https://trueinterview.io/questions/request-routing-system) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/request-routing-system) | Sep 30, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Encode and Decode Strings (LC 271)](https://trueinterview.io/questions/encode-and-decode-strings) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/encode-and-decode-strings) | Sep 29, 2026 |
 | **[Google](../companies/google.md)** | [Friend Graph with Timeline (Friend / Unfriend Events)](https://trueinterview.io/questions/friend-graph-with-timeline) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/friend-graph-with-timeline) | Sep 29, 2026 |
 | **[IBM](../companies/ibm.md)** | [Function Signature Matching Library (Variadic Overloads)](https://trueinterview.io/questions/function-signature-matching-library) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/function-signature-matching-library) | Sep 29, 2026 |
