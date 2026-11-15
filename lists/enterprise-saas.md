@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Enterprise & business software*.
 
-**719 questions** · 99 from an OA · 155 reported in the last 90 days · 231 free to solve
+**718 questions** · 98 from an OA · 155 reported in the last 90 days · 231 free to solve
 
-**By level:** 🎓 Intern & New grad (176) · 🌱 Mid (431) · 🎯 Senior (528) · 🚀 Staff+ (77)
+**By level:** 🎓 Intern & New grad (175) · 🌱 Mid (430) · 🎯 Senior (528) · 🚀 Staff+ (77)
 
-**By role:** 💻 Software Engineering (608) · 🤖 ML, AI & Research (45) · 📊 Data Science & Analytics (56) · 📈 Quantitative Finance (3) · 📱 Product Management (2)
+**By role:** 💻 Software Engineering (607) · 🤖 ML, AI & Research (45) · 📊 Data Science & Analytics (56) · 📈 Quantitative Finance (3) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (99) · 📞 Phone (349) · 🏢 Onsite (325) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (98) · 📞 Phone (349) · 🏢 Onsite (325) · 🏠 Take-home (1)
 
-**Companies:** [Microsoft (240)](../companies/microsoft.md) · [Oracle (115)](../companies/oracle.md) · [Salesforce (99)](../companies/salesforce.md) · [Atlassian (63)](../companies/atlassian.md) · [Rippling (58)](../companies/rippling.md) · [Intuit (38)](../companies/intuit.md) · [Figma (29)](../companies/figma.md) · [Tradedesk (22)](../companies/tradedesk.md) · [Dropbox (21)](../companies/dropbox.md) · [HubSpot (13)](../companies/hubspot.md) · [Palantir (12)](../companies/palantir.md) · [Airtable (11)](../companies/airtable.md) · [Amplitude (8)](../companies/amplitude.md) · [Bobyard (7)](../companies/bobyard.md) · [Gusto (6)](../companies/gusto.md) · [Rokt (5)](../companies/rokt.md) · [StackAdapt (5)](../companies/stackadapt.md)
+**Companies:** [Microsoft (240)](../companies/microsoft.md) · [Oracle (115)](../companies/oracle.md) · [Salesforce (99)](../companies/salesforce.md) · [Atlassian (63)](../companies/atlassian.md) · [Rippling (58)](../companies/rippling.md) · [Intuit (38)](../companies/intuit.md) · [Figma (29)](../companies/figma.md) · [Tradedesk (22)](../companies/tradedesk.md) · [Dropbox (21)](../companies/dropbox.md) · [HubSpot (12)](../companies/hubspot.md) · [Palantir (12)](../companies/palantir.md) · [Airtable (11)](../companies/airtable.md) · [Amplitude (8)](../companies/amplitude.md) · [Bobyard (7)](../companies/bobyard.md) · [Gusto (6)](../companies/gusto.md) · [Rokt (5)](../companies/rokt.md) · [StackAdapt (5)](../companies/stackadapt.md)
 
 <sub>Page **1** · [2](enterprise-saas-2.md)</sub>
 
@@ -118,7 +118,7 @@
 | **[Airbnb](../companies/airbnb.md)** / [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / +7 | [Design Hotel Booking System](https://trueinterview.io/questions/booking-system-design) | Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/booking-system-design) | Sep 2026 |
 | **[Robinhood](../companies/robinhood.md)** / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +13 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Design Tagging System](https://trueinterview.io/questions/tagging-system-rest-api) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/tagging-system-rest-api) | Sep 2026 |
-| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | **[Oracle](../companies/oracle.md)** | [Event Ingestion + Top-K Aggregation](https://trueinterview.io/questions/system-design-event-ingestion-topk) | Onsite | Senior | System design | [![Free][f]](https://trueinterview.io/questions/system-design-event-ingestion-topk) | Sep 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [File System Collection](https://trueinterview.io/questions/file-system-collection) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/file-system-collection) | Sep 2026 |
 | **[Google](../companies/google.md)** / [Oracle](../companies/oracle.md) | [Find Course Order](https://trueinterview.io/questions/d595d212-9c6c-597e-aabe-752c6e2dc8a2) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d595d212-9c6c-597e-aabe-752c6e2dc8a2) | Sep 2026 |

@@ -6,11 +6,11 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,115 questions** · 241 from an OA · 384 reported in the last 90 days · 2,115 free to solve
+**2,115 questions** · 240 from an OA · 385 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,129) · 🎯 Senior (1,591) · 🚀 Staff+ (671)
+**By level:** 🎓 Intern & New grad (470) · 🌱 Mid (1,129) · 🎯 Senior (1,592) · 🚀 Staff+ (671)
 
-**Companies:** [Meta (208)](../companies/meta.md) · [Amazon (174)](../companies/amazon.md) · [ByteDance (148)](../companies/bytedance.md) · [Google (129)](../companies/google.md) · [Capital One (113)](../companies/capital-one.md) · [Uber (113)](../companies/uber.md) · [Microsoft (80)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (41)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Bloomberg (37)](../companies/bloomberg.md) · [Oracle (36)](../companies/oracle.md)
+**Companies:** [Meta (208)](../companies/meta.md) · [Amazon (175)](../companies/amazon.md) · [ByteDance (148)](../companies/bytedance.md) · [Google (130)](../companies/google.md) · [Capital One (113)](../companies/capital-one.md) · [Uber (113)](../companies/uber.md) · [Microsoft (81)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (41)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Bloomberg (37)](../companies/bloomberg.md) · [Roblox (37)](../companies/roblox.md)
 
 <sub>Page [1](free.md) · [2](free-2.md) · **3** · [4](free-4.md) · [5](free-5.md) · [6](free-6.md)</sub>
 
@@ -21,6 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[DoorDash](../companies/doordash.md)** | [How would you mentor junior teammates?](https://trueinterview.io/questions/how-would-you-mentor-junior-teammates) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-mentor-junior-teammates) | Apr 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Implement a UI From a Figma Mock in React + TypeScript](https://trueinterview.io/questions/1a1fb907-7914-40b7-aa33-f5825437aa91) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/1a1fb907-7914-40b7-aa33-f5825437aa91) | Apr 2026 |
 | **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) | [In-Memory Database with SQL Operations](https://trueinterview.io/questions/in-memory-database-with-sql-operations) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-database-with-sql-operations) | Apr 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** / [Point72](../companies/point72.md) | [IPO Share Allocation](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | Apr 2026 |
@@ -399,7 +400,6 @@
 | **[ByteDance](../companies/bytedance.md)** | [Array Partition](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | Dec 2025 |
 | **[Disney](../companies/disney.md)** | [Build Naive Bayes spam classifier with F1](https://trueinterview.io/questions/build-naive-bayes-spam-classifier-with-f1) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/build-naive-bayes-spam-classifier-with-f1) | Dec 2025 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [Circular Active Computers Window](https://trueinterview.io/questions/circular-active-computers-window) | OA · Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/circular-active-computers-window) | Dec 2025 |
-| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | **[Ramp](../companies/ramp.md)** / [eBay](../companies/ebay.md) | [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Dec 2025 |
 | **[Pinterest](../companies/pinterest.md)** / [WeRide](../companies/weride.md) | [Delete Node in a Linked List](https://trueinterview.io/questions/13d6911a-76ff-4500-b9d4-54ca1a194576) | OA | Intern · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/13d6911a-76ff-4500-b9d4-54ca1a194576) | Dec 2025 |
 | **[Uber](../companies/uber.md)** | [Demonstrate business impact from a project](https://trueinterview.io/questions/demonstrate-business-impact-from-a-project) | Phone | Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/demonstrate-business-impact-from-a-project) | Dec 2025 |

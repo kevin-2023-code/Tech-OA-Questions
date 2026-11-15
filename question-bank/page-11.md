@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
+**5,888 questions** · 800 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,493) · 🌱 Mid (3,450) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (800) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · **11** · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,7 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[PayPal](../companies/paypal.md)** | [Write SQL for top drivers and cancellation rates](https://trueinterview.io/questions/write-sql-for-top-drivers-and-cancellation-rates) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-top-drivers-and-cancellation-rates) | Dec 7, 2025 |
 | **[Meta](../companies/meta.md)** | [Compute active ad revenue by creation source](https://trueinterview.io/questions/compute-active-ad-revenue-by-creation-source) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-active-ad-revenue-by-creation-source) | Dec 6, 2025 |
 | **[Meta](../companies/meta.md)** | [Define engagement metrics and analyze comment distribution](https://trueinterview.io/questions/define-engagement-metrics-and-analyze-comment-distribution) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/define-engagement-metrics-and-analyze-comment-distribution) | Dec 6, 2025 |
 | **[Rokt](../companies/rokt.md)** | [Design Google-scale CI/CD pipeline](https://trueinterview.io/questions/design-google-scale-ci-cd-pipeline) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-google-scale-ci-cd-pipeline) | Dec 6, 2025 |
@@ -56,7 +55,6 @@
 | **[ByteDance](../companies/bytedance.md)** | [BST Node Search and Delete](https://trueinterview.io/questions/31cfc7de-9b80-4134-aa0c-dca151fdaf0b) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/31cfc7de-9b80-4134-aa0c-dca151fdaf0b) | Dec 2025 |
 | **[Disney](../companies/disney.md)** | [Build Naive Bayes spam classifier with F1](https://trueinterview.io/questions/build-naive-bayes-spam-classifier-with-f1) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/build-naive-bayes-spam-classifier-with-f1) | Dec 2025 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [Circular Active Computers Window](https://trueinterview.io/questions/circular-active-computers-window) | OA · Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/circular-active-computers-window) | Dec 2025 |
-| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | **[Airbnb](../companies/airbnb.md)** / [Bloomberg](../companies/bloomberg.md) | [Collatz Sequence Steps](https://trueinterview.io/questions/collatz-sequence-steps) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/collatz-sequence-steps) | Dec 2025 |
 | **[Ramp](../companies/ramp.md)** / [eBay](../companies/ebay.md) | [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Dec 2025 |
 | **[eBay](../companies/ebay.md)** | [Count Difference in Uppercase and Lowercase Letters](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | Dec 2025 |
@@ -419,5 +417,7 @@
 | **[Databricks](../companies/databricks.md)** | [Diagnose and fix multicollinearity in income regression](https://trueinterview.io/questions/diagnose-and-fix-multicollinearity-in-income-regression) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-fix-multicollinearity-in-income-regression) | Oct 14, 2025 |
 | **[Airwallex](../companies/airwallex.md)** | [How would you test swapping two CTA buttons?](https://trueinterview.io/questions/how-would-you-test-swapping-two-cta-buttons) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-test-swapping-two-cta-buttons) | Oct 14, 2025 |
 | **[Databricks](../companies/databricks.md)** | [Relate coefficients under linear feature transformation](https://trueinterview.io/questions/relate-coefficients-under-linear-feature-transformation-2) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/relate-coefficients-under-linear-feature-transformation-2) | Oct 14, 2025 |
+| **[Google](../companies/google.md)** | [Design tests to measure latency impact](https://trueinterview.io/questions/design-tests-to-measure-latency-impact) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-tests-to-measure-latency-impact) | Oct 13, 2025 |
+| **[Meta](../companies/meta.md)** | [Evaluate emoji reactions launch](https://trueinterview.io/questions/evaluate-emoji-reactions-launch) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-emoji-reactions-launch) | Oct 13, 2025 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · **11** · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

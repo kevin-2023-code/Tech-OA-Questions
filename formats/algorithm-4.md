@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 540 free to solve
+**2,620 questions** · 583 from an OA · 484 reported in the last 90 days · 540 free to solve
 
-**By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
+**By level:** 🎓 Intern & New grad (1,012) · 🌱 Mid (1,871) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
-**Rounds:** 📝 OA (584) · 📞 Phone (1,580) · 🏢 Onsite (652) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (583) · 📞 Phone (1,580) · 🏢 Onsite (652) · 🏠 Take-home (2)
 
 **Companies:** [Google (219)](../companies/google.md) · [Amazon (217)](../companies/amazon.md) · [Meta (181)](../companies/meta.md) · [ByteDance (179)](../companies/bytedance.md) · [Uber (160)](../companies/uber.md) · [Microsoft (136)](../companies/microsoft.md) · [Apple (101)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (67)](../companies/oracle.md) · [Bloomberg (65)](../companies/bloomberg.md) · [Capital One (65)](../companies/capital-one.md) · [LinkedIn (63)](../companies/linkedin.md) · [OpenAI (60)](../companies/openai.md) · [Pinterest (57)](../companies/pinterest.md)
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Waymo](../companies/waymo.md)** | [Garage Occupancy per Timestamp](https://trueinterview.io/questions/garage-occupancy-per-timestamp) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/garage-occupancy-per-timestamp) | Apr 24, 2026 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [Implement Integer Square Root](https://trueinterview.io/questions/implement-integer-square-root) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-integer-square-root) | Apr 24, 2026 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Insert Spaces Around Palindrome Layers](https://trueinterview.io/questions/shrink-palindrome-spaces) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/shrink-palindrome-spaces) | Apr 24, 2026 |
 | **[Waymo](../companies/waymo.md)** | [Largest Rectangle Area](https://trueinterview.io/questions/max-area-rectangle-coordinate-set) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/max-area-rectangle-coordinate-set) | Apr 24, 2026 |
@@ -421,5 +420,6 @@
 | **[Jane Street](../companies/jane-street.md)** | [Transform sparse time-code stream to dense rows](https://trueinterview.io/questions/transform-sparse-time-code-stream-to-dense-rows) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-sparse-time-code-stream-to-dense-rows) | Feb 12, 2026 |
 | **[Uber](../companies/uber.md)** | [Check if each prefix forms 1..k permutation](https://trueinterview.io/questions/check-if-each-prefix-forms-1-k-permutation) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/check-if-each-prefix-forms-1-k-permutation) | Feb 11, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Check perfect square using binary search](https://trueinterview.io/questions/check-perfect-square-using-binary-search) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/check-perfect-square-using-binary-search) | Feb 11, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Delete nodes in linked list and binary tree](https://trueinterview.io/questions/delete-nodes-in-linked-list-and-binary-tree) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/delete-nodes-in-linked-list-and-binary-tree) | Feb 11, 2026 |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · **4** · [5](algorithm-5.md) · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>

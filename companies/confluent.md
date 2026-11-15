@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / [Google](../companies/google.md) / +6</sub> | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / [Google](../companies/google.md) / +6</sub> | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | [O(1) Key-Value Store with Average and Max Retrieval](https://trueinterview.io/questions/f6664ca5-9a30-4110-a9b2-5d15940d61f2) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6664ca5-9a30-4110-a9b2-5d15940d61f2) | Sep 2026 |
 | [Search Words and Phrases in a Large Line-Oriented File](https://trueinterview.io/questions/search-words-and-phrases-in-a-large-line-oriented-file) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/search-words-and-phrases-in-a-large-line-oriented-file) | Sep 2026 |
 | [Durable Key-Value Store Serialization](https://trueinterview.io/questions/durable-key-value-store-serialization)<br><sub>also [OpenAI](../companies/openai.md) / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +6</sub> | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/durable-key-value-store-serialization) | Aug 2026 |

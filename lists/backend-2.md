@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Backend Engineer** role.
 
-**683 questions** · 49 from an OA · 153 reported in the last 90 days · 101 free to solve
+**682 questions** · 48 from an OA · 153 reported in the last 90 days · 101 free to solve
 
-**By level:** 🎓 Intern & New grad (80) · 🌱 Mid (307) · 🎯 Senior (527) · 🚀 Staff+ (155)
+**By level:** 🎓 Intern & New grad (79) · 🌱 Mid (306) · 🎯 Senior (527) · 🚀 Staff+ (155)
 
-**Rounds:** 📝 OA (49) · 📞 Phone (246) · 🏢 Onsite (439) · 🏠 Take-home (4)
+**Rounds:** 📝 OA (48) · 📞 Phone (246) · 🏢 Onsite (439) · 🏠 Take-home (4)
 
-**Companies:** [Stripe (43)](../companies/stripe.md) · [Amazon (42)](../companies/amazon.md) · [Meta (40)](../companies/meta.md) · [ByteDance (30)](../companies/bytedance.md) · [Microsoft (29)](../companies/microsoft.md) · [DoorDash (28)](../companies/doordash.md) · [OpenAI (27)](../companies/openai.md) · [Karat (25)](../companies/karat.md) · [Uber (25)](../companies/uber.md) · [Snowflake (23)](../companies/snowflake.md) · [Google (22)](../companies/google.md) · [Coinbase (21)](../companies/coinbase.md) · [LinkedIn (21)](../companies/linkedin.md) · [Anthropic (20)](../companies/anthropic.md) · [Atlassian (20)](../companies/atlassian.md)
+**Companies:** [Stripe (43)](../companies/stripe.md) · [Amazon (42)](../companies/amazon.md) · [Meta (40)](../companies/meta.md) · [ByteDance (30)](../companies/bytedance.md) · [Microsoft (29)](../companies/microsoft.md) · [DoorDash (28)](../companies/doordash.md) · [OpenAI (27)](../companies/openai.md) · [Karat (25)](../companies/karat.md) · [Uber (25)](../companies/uber.md) · [Snowflake (23)](../companies/snowflake.md) · [Google (22)](../companies/google.md) · [LinkedIn (21)](../companies/linkedin.md) · [Anthropic (20)](../companies/anthropic.md) · [Atlassian (20)](../companies/atlassian.md) · [Coinbase (20)](../companies/coinbase.md)
 
 <sub>Page [1](backend.md) · **2**</sub>
 
@@ -167,7 +167,6 @@
 | **[Rippling](../companies/rippling.md)** | [Music Player](https://trueinterview.io/questions/music-player) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/music-player) | Dec 8, 2025 |
 | **[DoorDash](../companies/doordash.md)** | [Code Craft: Cart with Promotions](https://trueinterview.io/questions/code-craft-cart-promotions-ood) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/code-craft-cart-promotions-ood) | Dec 7, 2025 |
 | **[Meta](../companies/meta.md)** | [Model entities for feed content and shares](https://trueinterview.io/questions/model-entities-for-feed-content-and-shares) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/model-entities-for-feed-content-and-shares) | Dec 1, 2025 |
-| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | **[Coinbase](../companies/coinbase.md)** | [Database Design and Implementation](https://trueinterview.io/questions/21808437-d0e2-42be-8536-5cb42b058133) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/21808437-d0e2-42be-8536-5cb42b058133) | Dec 2025 |
 | **[Rippling](../companies/rippling.md)** | [Design a large-scale news app with caching](https://trueinterview.io/questions/design-a-large-scale-news-app-with-caching) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-large-scale-news-app-with-caching) | Dec 2025 |
 | **[LinkedIn](../companies/linkedin.md)** | [Design a Top-K search words service](https://trueinterview.io/questions/design-a-top-k-search-words-service) | Phone | Mid · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-top-k-search-words-service) | Dec 2025 |

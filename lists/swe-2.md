@@ -6,11 +6,11 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,928 questions** · 586 from an OA · 921 reported in the last 90 days · 1,075 free to solve
+**3,926 questions** · 584 from an OA · 921 reported in the last 90 days · 1,075 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,527) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,108) · 🌱 Mid (2,525) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (584) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
 
 **Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
@@ -175,7 +175,7 @@
 | **[ByteDance](../companies/bytedance.md)** / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +7 | [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Sep 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Design Tagging System](https://trueinterview.io/questions/tagging-system-rest-api) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/tagging-system-rest-api) | Sep 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Design Telemetry Ingestion and Reconcile Metric Names](https://trueinterview.io/questions/design-telemetry-ingestion-and-reconcile-metric-names) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-telemetry-ingestion-and-reconcile-metric-names) | Sep 2026 |
-| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +4 | [Design Typehead Suggestion](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Sep 2026 |
 | **[Google](../companies/google.md)** / [Amazon](../companies/amazon.md) | [Design Unix Find Command](https://trueinterview.io/questions/design-unix-find-command-2) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-find-command-2) | Sep 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Detect Fraudulent Transactions](https://trueinterview.io/questions/84306b63-f79d-5a02-9d25-921f49151cc0) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/84306b63-f79d-5a02-9d25-921f49151cc0) | Sep 2026 |

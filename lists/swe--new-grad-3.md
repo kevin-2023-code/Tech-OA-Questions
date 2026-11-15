@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,110 questions** · 351 from an OA · 224 reported in the last 90 days · 311 free to solve
+**1,108 questions** · 349 from an OA · 224 reported in the last 90 days · 310 free to solve
 
-**Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (349) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
 
 **Companies:** [Amazon (119)](../companies/amazon.md) · [Meta (76)](../companies/meta.md) · [ByteDance (75)](../companies/bytedance.md) · [Google (75)](../companies/google.md) · [Uber (67)](../companies/uber.md) · [Microsoft (51)](../companies/microsoft.md) · [Capital One (45)](../companies/capital-one.md) · [Stripe (43)](../companies/stripe.md) · [Salesforce (34)](../companies/salesforce.md) · [Apple (33)](../companies/apple.md) · [Bloomberg (32)](../companies/bloomberg.md) · [Snowflake (29)](../companies/snowflake.md) · [Airbnb (27)](../companies/airbnb.md) · [C3.ai (27)](../companies/c3-ai.md) · [Square (27)](../companies/square.md)
 
@@ -23,8 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Bitkernel](../companies/bitkernel.md)** | [Implement popup and redirect in JavaScript](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | Oct 3, 2025 |
-| **[Atlassian](../companies/atlassian.md)** | [F1 Last Lap Improvement](https://trueinterview.io/questions/f1-last-lap-improvement) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/f1-last-lap-improvement) | Oct 2, 2025 |
 | **[Atlassian](../companies/atlassian.md)** | [Find Anagram in String](https://trueinterview.io/questions/find-anagram-in-string) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-anagram-in-string) | Oct 2, 2025 |
 | **[WeRide](../companies/weride.md)** | [Implement matrix multiplication and fast exponentiation](https://trueinterview.io/questions/implement-matrix-multiplication-and-fast-exponentiation) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-matrix-multiplication-and-fast-exponentiation) | Oct 2, 2025 |
 | **[Atlassian](../companies/atlassian.md)** | [Subscription Billing Statement](https://trueinterview.io/questions/subscription-billing-statement) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/subscription-billing-statement) | Oct 2, 2025 |

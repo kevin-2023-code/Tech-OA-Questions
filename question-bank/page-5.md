@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
+**5,888 questions** · 800 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,493) · 🌱 Mid (3,450) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (800) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · **5** · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -337,7 +337,6 @@
 | **[Whatnot](../companies/whatnot.md)** | [Filter Unsafe Messages](https://trueinterview.io/questions/filter-unsafe-messages) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/filter-unsafe-messages) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Find Matching Skeletons](https://trueinterview.io/questions/find-matching-skeletons) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/find-matching-skeletons) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Fit Saved Rectangles in a Box](https://trueinterview.io/questions/fit-saved-rectangles-in-a-box) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fit-saved-rectangles-in-a-box) | Jun 12, 2026 |
-| **[eBay](../companies/ebay.md)** | [Group Chat Mention Counter](https://trueinterview.io/questions/group-chat-mention-counter) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/group-chat-mention-counter) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Match Cyclic Shift to Descending Sequence](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Max Matrix Border Distinct Sum](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Obstacle Placement and Block Check](https://trueinterview.io/questions/obstacle-placement-and-block-check) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/obstacle-placement-and-block-check) | Jun 12, 2026 |
@@ -419,5 +418,6 @@
 | **[Stripe](../companies/stripe.md)** | [Design a Superhero Dispatch System](https://trueinterview.io/questions/design-a-superhero-dispatch-system) | Onsite | New grad · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-superhero-dispatch-system) | Jun 2026 |
 | **[Google](../companies/google.md)** | [Design an A/B test with guardrails and SRM checks](https://trueinterview.io/questions/design-an-a-b-test-with-guardrails-and-srm-checks) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-a-b-test-with-guardrails-and-srm-checks) | Jun 2026 |
 | **[Instacart](../companies/instacart.md)** | [Design and Implement Idempotent Library Notifications for Due Dates and Holds](https://trueinterview.io/questions/7d71a4ee-7826-5c5d-97ec-af7be9f3fc39) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7d71a4ee-7826-5c5d-97ec-af7be9f3fc39) | Jun 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Design device telemetry pipeline for real-time and batch](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | OA | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | Jun 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · **5** · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

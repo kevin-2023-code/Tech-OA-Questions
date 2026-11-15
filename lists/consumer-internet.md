@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Consumer internet & media*.
 
-**1,581 questions** · 128 from an OA · 327 reported in the last 90 days · 578 free to solve
+**1,581 questions** · 128 from an OA · 327 reported in the last 90 days · 579 free to solve
 
 **By level:** 🎓 Intern & New grad (334) · 🌱 Mid (904) · 🎯 Senior (1,148) · 🚀 Staff+ (389)
 
@@ -210,7 +210,7 @@
 | **[Robinhood](../companies/robinhood.md)** / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +13 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | **[Reddit](../companies/reddit.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +10 | [Design Notification System](https://trueinterview.io/questions/design-a-notification-system-for-reddit) | Onsite | Mid · Senior · Staff+ · Manager | System design | [![Free][f]](https://trueinterview.io/questions/design-a-notification-system-for-reddit) | Sep 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +7 | [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Sep 2026 |
-| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +4 | [Design Typehead Suggestion](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Sep 2026 |
 | **[Google](../companies/google.md)** / [Amazon](../companies/amazon.md) | [Design Unix Find Command](https://trueinterview.io/questions/design-unix-find-command-2) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-find-command-2) | Sep 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Enumerate All Simple Paths and Directed Cycles](https://trueinterview.io/questions/da77d8f0-0d6f-5c7b-b2d3-7817a85ee644) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/da77d8f0-0d6f-5c7b-b2d3-7817a85ee644) | Sep 2026 |

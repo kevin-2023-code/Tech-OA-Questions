@@ -4,15 +4,15 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**802 questions** · 802 from an OA · 125 reported in the last 90 days · 241 free to solve
+**800 questions** · 800 from an OA · 125 reported in the last 90 days · 240 free to solve
 
-**By level:** 🎓 Intern & New grad (495) · 🌱 Mid (484) · 🎯 Senior (252) · 🚀 Staff+ (20)
+**By level:** 🎓 Intern & New grad (493) · 🌱 Mid (482) · 🎯 Senior (252) · 🚀 Staff+ (20)
 
-**By role:** 💻 Software Engineering (586) · 🤖 ML, AI & Research (21) · 📊 Data Science & Analytics (97) · 📈 Quantitative Finance (87)
+**By role:** 💻 Software Engineering (584) · 🤖 ML, AI & Research (21) · 📊 Data Science & Analytics (97) · 📈 Quantitative Finance (87)
 
-**Companies:** [Amazon (53)](../companies/amazon.md) · [Capital One (53)](../companies/capital-one.md) · [ByteDance (36)](../companies/bytedance.md) · [Meta (34)](../companies/meta.md) · [Microsoft (32)](../companies/microsoft.md) · [Uber (32)](../companies/uber.md) · [Google (31)](../companies/google.md) · [Stripe (29)](../companies/stripe.md) · [Goldman Sachs (28)](../companies/goldman-sachs.md) · [Salesforce (25)](../companies/salesforce.md) · [IBM (24)](../companies/ibm.md) · [Akuna Capital (22)](../companies/akuna-capital.md) · [Coinbase (19)](../companies/coinbase.md) · [Optiver (19)](../companies/optiver.md) · [Cisco (18)](../companies/cisco.md) · [Two Sigma (17)](../companies/two-sigma.md) · [Anthropic (16)](../companies/anthropic.md) · [Upstart (16)](../companies/upstart.md) · [Airbnb (15)](../companies/airbnb.md) · [Bitkernel (15)](../companies/bitkernel.md)
+**Companies:** [Amazon (53)](../companies/amazon.md) · [Capital One (53)](../companies/capital-one.md) · [ByteDance (36)](../companies/bytedance.md) · [Meta (34)](../companies/meta.md) · [Microsoft (32)](../companies/microsoft.md) · [Uber (32)](../companies/uber.md) · [Google (31)](../companies/google.md) · [Stripe (29)](../companies/stripe.md) · [Goldman Sachs (28)](../companies/goldman-sachs.md) · [Salesforce (25)](../companies/salesforce.md) · [IBM (24)](../companies/ibm.md) · [Akuna Capital (22)](../companies/akuna-capital.md) · [Optiver (19)](../companies/optiver.md) · [Cisco (18)](../companies/cisco.md) · [Coinbase (18)](../companies/coinbase.md) · [Two Sigma (17)](../companies/two-sigma.md) · [Anthropic (16)](../companies/anthropic.md) · [Upstart (16)](../companies/upstart.md) · [Airbnb (15)](../companies/airbnb.md) · [Bitkernel (15)](../companies/bitkernel.md)
 
-<sub>Page [1](oa.md) · **2** · [3](oa-3.md)</sub>
+<sub>Page [1](oa.md) · **2**</sub>
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Amazon](../companies/amazon.md)** | [In-place Array Reordering (0/1/2 sort variant)](https://trueinterview.io/questions/8f2cdb13-1620-4874-900f-1597fce80c27) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8f2cdb13-1620-4874-900f-1597fce80c27) | Mar 2026 |
 | **[Citadel](../companies/citadel.md)** | [Largest Team Built Around a Core Employee](https://trueinterview.io/questions/interval-overlap-max-team) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/interval-overlap-max-team) | Mar 2026 |
 | **[Reddit](../companies/reddit.md)** | [Logger Rate Limiter](https://trueinterview.io/questions/logger-rate-limiter) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/logger-rate-limiter) | Mar 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Max Sum Sliding Window and Return Start Days (1-based)](https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39) | Mar 2026 |
@@ -140,7 +139,6 @@
 | **[Netflix](../companies/netflix.md)** | [One-Hot Encoding of An Array](https://trueinterview.io/questions/one-hot-encoding-of-an-array) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/one-hot-encoding-of-an-array) | Dec 5, 2025 |
 | **[ByteDance](../companies/bytedance.md)** | [Array Partition](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/68134649-a71c-42b7-8c16-1c8baedd96e6) | Dec 2025 |
 | **[JPMorgan](../companies/jpmorgan.md)** | [Circular Active Computers Window](https://trueinterview.io/questions/circular-active-computers-window) | OA · Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/circular-active-computers-window) | Dec 2025 |
-| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | **[Ramp](../companies/ramp.md)** / [eBay](../companies/ebay.md) | [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Dec 2025 |
 | **[eBay](../companies/ebay.md)** | [Count Difference in Uppercase and Lowercase Letters](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | Dec 2025 |
 | **[Roblox](../companies/roblox.md)** | [Customized Programming Challenge for Roblox Business](https://trueinterview.io/questions/a391376f-4a36-466b-8e9a-3e9d95d82511) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/a391376f-4a36-466b-8e9a-3e9d95d82511) | Dec 2025 |
@@ -421,5 +419,7 @@
 | **[Netflix](../companies/netflix.md)** | [User Last Order Date and Order Count SQL Query](https://trueinterview.io/questions/271dd842-2fcc-4d29-834a-4db7987216dd) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/271dd842-2fcc-4d29-834a-4db7987216dd) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Vowel Substring](https://trueinterview.io/questions/1d80c735-5231-4343-a34b-0dade4106bdb) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/1d80c735-5231-4343-a34b-0dade4106bdb) | — |
 | **[Amazon](../companies/amazon.md)** | [Window Function to Rank Within Group](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | — |
+| **[Point72](../companies/point72.md)** | [Write SQL for recent customer activity](https://trueinterview.io/questions/write-sql-for-recent-customer-activity) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-recent-customer-activity) | — |
+| **[Stripe](../companies/stripe.md)** | [Write SQL to detect recurring non-subscription users](https://trueinterview.io/questions/write-sql-to-detect-recurring-non-subscription-users) | OA | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-to-detect-recurring-non-subscription-users) | — |
 
-<sub>Page [1](oa.md) · **2** · [3](oa-3.md)</sub>
+<sub>Page [1](oa.md) · **2**</sub>

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**758 questions** · 10 from an OA · 172 reported in the last 90 days · 49 free to solve
+**758 questions** · 10 from an OA · 172 reported in the last 90 days · 50 free to solve
 
 **By level:** 🎓 Intern & New grad (13) · 🌱 Mid (164) · 🎯 Senior (701) · 🚀 Staff+ (351)
 
@@ -140,7 +140,7 @@
 | **[ByteDance](../companies/bytedance.md)** / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +7 | [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Sep 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Design Tagging System](https://trueinterview.io/questions/tagging-system-rest-api) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/tagging-system-rest-api) | Sep 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Design Telemetry Ingestion and Reconcile Metric Names](https://trueinterview.io/questions/design-telemetry-ingestion-and-reconcile-metric-names) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-telemetry-ingestion-and-reconcile-metric-names) | Sep 2026 |
-| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +4 | [Design Typehead Suggestion](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Sep 2026 |
 | **[Databricks](../companies/databricks.md)** | [Distributed File System](https://trueinterview.io/questions/distributed-file-system) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/distributed-file-system) | Sep 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Estimate FFN Compute, Memory, and Sharding Communication](https://trueinterview.io/questions/estimate-ffn-compute-memory-and-sharding-communication) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/estimate-ffn-compute-memory-and-sharding-communication) | Sep 2026 |

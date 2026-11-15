@@ -6,11 +6,11 @@
 
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,495 questions** · 495 from an OA · 278 reported in the last 90 days · 471 free to solve
+**1,493 questions** · 493 from an OA · 278 reported in the last 90 days · 470 free to solve
 
-**By role:** 💻 Software Engineering (1,110) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
+**By role:** 💻 Software Engineering (1,108) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
 
-**Rounds:** 📝 OA (495) · 📞 Phone (725) · 🏢 Onsite (384) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (493) · 📞 Phone (725) · 🏢 Onsite (384) · 🏠 Take-home (5)
 
 **Companies:** [Amazon (148)](../companies/amazon.md) · [Meta (102)](../companies/meta.md) · [ByteDance (97)](../companies/bytedance.md) · [Google (91)](../companies/google.md) · [Uber (74)](../companies/uber.md) · [Capital One (69)](../companies/capital-one.md) · [Microsoft (61)](../companies/microsoft.md) · [Stripe (48)](../companies/stripe.md) · [Apple (40)](../companies/apple.md) · [Salesforce (35)](../companies/salesforce.md) · [Bloomberg (34)](../companies/bloomberg.md) · [Goldman Sachs (34)](../companies/goldman-sachs.md) · [Citadel (32)](../companies/citadel.md) · [Roblox (31)](../companies/roblox.md) · [Snowflake (30)](../companies/snowflake.md)
 
@@ -69,7 +69,6 @@
 | **[eBay](../companies/ebay.md)** | [Count and Flip Binary Operations](https://trueinterview.io/questions/count-and-flip-binary-operations) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-and-flip-binary-operations) | Jun 12, 2026 |
 | **[Whatnot](../companies/whatnot.md)** | [Filter Unsafe Messages](https://trueinterview.io/questions/filter-unsafe-messages) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/filter-unsafe-messages) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Find Matching Skeletons](https://trueinterview.io/questions/find-matching-skeletons) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/find-matching-skeletons) | Jun 12, 2026 |
-| **[eBay](../companies/ebay.md)** | [Group Chat Mention Counter](https://trueinterview.io/questions/group-chat-mention-counter) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/group-chat-mention-counter) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Match Cyclic Shift to Descending Sequence](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Max Matrix Border Distinct Sum](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Obstacle Placement and Block Check](https://trueinterview.io/questions/obstacle-placement-and-block-check) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/obstacle-placement-and-block-check) | Jun 12, 2026 |
@@ -423,5 +422,6 @@
 | **[ByteDance](../companies/bytedance.md)** | [MinStack](https://trueinterview.io/questions/implement-stack-variants-and-upward-path-sum-minstack) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-stack-variants-and-upward-path-sum-minstack) | Feb 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Payment Refund Allocation](https://trueinterview.io/questions/payment-refund-allocation) | Phone · Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/payment-refund-allocation) | Feb 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Replace Text for Review](https://trueinterview.io/questions/80731212-708a-43a5-a87a-ad06f2e56b6b) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/80731212-708a-43a5-a87a-ad06f2e56b6b) | Feb 2026 |
+| **[IBM](../companies/ibm.md)** | [Reverse Last Two Characters with a Space](https://trueinterview.io/questions/aed17c65-c5b3-4e56-a00d-9edbfd9f0f59) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/aed17c65-c5b3-4e56-a00d-9edbfd9f0f59) | Feb 2026 |
 
 <sub>Page [1](new-grad.md) · **2** · [3](new-grad-3.md) · [4](new-grad-4.md)</sub>

@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 540 free to solve
+**2,620 questions** · 583 from an OA · 484 reported in the last 90 days · 540 free to solve
 
-**By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
+**By level:** 🎓 Intern & New grad (1,012) · 🌱 Mid (1,871) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
-**Rounds:** 📝 OA (584) · 📞 Phone (1,580) · 🏢 Onsite (652) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (583) · 📞 Phone (1,580) · 🏢 Onsite (652) · 🏠 Take-home (2)
 
 **Companies:** [Google (219)](../companies/google.md) · [Amazon (217)](../companies/amazon.md) · [Meta (181)](../companies/meta.md) · [ByteDance (179)](../companies/bytedance.md) · [Uber (160)](../companies/uber.md) · [Microsoft (136)](../companies/microsoft.md) · [Apple (101)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (67)](../companies/oracle.md) · [Bloomberg (65)](../companies/bloomberg.md) · [Capital One (65)](../companies/capital-one.md) · [LinkedIn (63)](../companies/linkedin.md) · [OpenAI (60)](../companies/openai.md) · [Pinterest (57)](../companies/pinterest.md)
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Oracle](../companies/oracle.md)** | [Anagram Word Replacement in Phrases](https://trueinterview.io/questions/anagram-phrase-replacement) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/anagram-phrase-replacement) | Nov 21, 2025 |
 | **[Stripe](../companies/stripe.md)** | [Currency Exchange Rate Converter](https://trueinterview.io/questions/currency-exchange-rate-converter) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/currency-exchange-rate-converter) | Nov 21, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Sort 0..32000 with Bit-Vector Storage](https://trueinterview.io/questions/bit-vector-sort-0-to-32000) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/bit-vector-sort-0-to-32000) | Nov 21, 2025 |
 | **[Apple](../companies/apple.md)** | [Find Failed Login IPs](https://trueinterview.io/questions/find-failed-login-ips) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/find-failed-login-ips) | Nov 20, 2025 |
@@ -421,5 +420,6 @@
 | **[Amazon](../companies/amazon.md)** | [Find Minimum Operations](https://trueinterview.io/questions/0aa375be-b6b5-4767-a41e-2879f81b0dc0) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/0aa375be-b6b5-4767-a41e-2879f81b0dc0) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Find Missing and Duplicate Number in an Array](https://trueinterview.io/questions/0d030286-48a6-45c2-8f5d-d66af3b65f86) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/0d030286-48a6-45c2-8f5d-d66af3b65f86) | — |
 | **[PayPal](../companies/paypal.md)** | [Find Reachable Good Endings in Choose Your Own Adventure Book](https://trueinterview.io/questions/15808a55-af32-4748-a811-48bd2ef1f829) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/15808a55-af32-4748-a811-48bd2ef1f829) | — |
+| **[Datadog](../companies/datadog.md)** | [Find Repeated Words in Text Using Regular Expressions](https://trueinterview.io/questions/0f0b2ee7-c88c-46e8-b6af-1e88cf27aa6f) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/0f0b2ee7-c88c-46e8-b6af-1e88cf27aa6f) | — |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · [5](algorithm-5.md) · **6** · [7](algorithm-7.md)</sub>

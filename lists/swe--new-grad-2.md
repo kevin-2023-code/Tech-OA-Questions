@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,110 questions** · 351 from an OA · 224 reported in the last 90 days · 311 free to solve
+**1,108 questions** · 349 from an OA · 224 reported in the last 90 days · 310 free to solve
 
-**Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (349) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
 
 **Companies:** [Amazon (119)](../companies/amazon.md) · [Meta (76)](../companies/meta.md) · [ByteDance (75)](../companies/bytedance.md) · [Google (75)](../companies/google.md) · [Uber (67)](../companies/uber.md) · [Microsoft (51)](../companies/microsoft.md) · [Capital One (45)](../companies/capital-one.md) · [Stripe (43)](../companies/stripe.md) · [Salesforce (34)](../companies/salesforce.md) · [Apple (33)](../companies/apple.md) · [Bloomberg (32)](../companies/bloomberg.md) · [Snowflake (29)](../companies/snowflake.md) · [Airbnb (27)](../companies/airbnb.md) · [C3.ai (27)](../companies/c3-ai.md) · [Square (27)](../companies/square.md)
 
@@ -23,7 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Meta](../companies/meta.md)** | [In-Memory Database with Record CRUD and Lock/Unlock](https://trueinterview.io/questions/f341df17-eb5b-4daf-9399-fe1f5ab67be5) | Onsite | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f341df17-eb5b-4daf-9399-fe1f5ab67be5) | May 2026 |
 | **[Netflix](../companies/netflix.md)** / [Coinbase](../companies/coinbase.md) / [Pinterest](../companies/pinterest.md) | [Longest Run of Identical Characters](https://trueinterview.io/questions/ee3f373d-6a1f-5751-b6f7-d7f4577b6670) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ee3f373d-6a1f-5751-b6f7-d7f4577b6670) | May 2026 |
 | **[Datadog](../companies/datadog.md)** / [ByteDance](../companies/bytedance.md) / [Verkada](../companies/verkada.md) | [Minimum Coin Combination Counts](https://trueinterview.io/questions/minimum-coin-combination-counts) | Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-coin-combination-counts) | May 2026 |
 | **[Oscar Health](../companies/oscar-health.md)** | [Morse Code Conversion](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | Phone | New grad · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | May 2026 |
@@ -334,7 +333,6 @@
 | **[eBay](../companies/ebay.md)** | [Balloon Explosion](https://trueinterview.io/questions/bec1bae5-6bc3-4a83-8430-077c684da76c) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/bec1bae5-6bc3-4a83-8430-077c684da76c) | Dec 2025 |
 | **[Intuit](../companies/intuit.md)** | [BankAccount Deposit and Withdraw Methods with Tests](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Dec 2025 |
 | **[Salesforce](../companies/salesforce.md)** | [Binary String 01 to 10 swap](https://trueinterview.io/questions/b997e44e-31ce-42c6-aee6-e8489a0fa721) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b997e44e-31ce-42c6-aee6-e8489a0fa721) | Dec 2025 |
-| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | **[Airbnb](../companies/airbnb.md)** / [Bloomberg](../companies/bloomberg.md) | [Collatz Sequence Steps](https://trueinterview.io/questions/collatz-sequence-steps) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/collatz-sequence-steps) | Dec 2025 |
 | **[Ramp](../companies/ramp.md)** / [eBay](../companies/ebay.md) | [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Dec 2025 |
 | **[eBay](../companies/ebay.md)** | [Count Difference in Uppercase and Lowercase Letters](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | Dec 2025 |
@@ -423,5 +421,7 @@
 | **[DRW](../companies/drw.md)** | [Knockout Tournament Match Counts](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-knockout-tournament-match-counts) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-knockout-tournament-match-counts) | Oct 8, 2025 |
 | **[DRW](../companies/drw.md)** | [Robot Path Planning](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-robot-path-planning) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-robot-path-planning) | Oct 8, 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [C++ Object Pool Debugging](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | OA | New grad · Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | Oct 5, 2025 |
+| **[Bitkernel](../companies/bitkernel.md)** | [Implement popup and redirect in JavaScript](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | Oct 3, 2025 |
+| **[Atlassian](../companies/atlassian.md)** | [F1 Last Lap Improvement](https://trueinterview.io/questions/f1-last-lap-improvement) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/f1-last-lap-improvement) | Oct 2, 2025 |
 
 <sub>Page [1](swe--new-grad.md) · **2** · [3](swe--new-grad-3.md)</sub>

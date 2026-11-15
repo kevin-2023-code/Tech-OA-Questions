@@ -31,9 +31,9 @@ Counts are per company: a question reported at three employers is on three pages
 | [Citadel](citadel.md) | 📈 Quant trading & hedge funds | 97 | 15 | 32 | 58 | 44 | 7 | Oct 2026 |
 | [Bloomberg](bloomberg.md) | 🏦 Banks, insurers & asset managers | 95 | 4 | 34 | 72 | 58 | 2 | Oct 2026 |
 | [Databricks](databricks.md) | ☁️ Developer tools, cloud & data infrastructure | 88 | 5 | 22 | 55 | 70 | 15 | Oct 2026 |
-| [Coinbase](coinbase.md) | 💳 Fintech, payments & crypto | 87 | 19 | 19 | 60 | 62 | 14 | Sep 2026 |
 | [Snapchat](snapchat.md) | 📱 Consumer internet & media | 87 | 2 | 21 | 56 | 70 | 16 | Oct 2026 |
 | [Waymo](waymo.md) | 🚗 Autonomy, automotive & mobility | 87 | 12 | 11 | 41 | 61 | 5 | Oct 2026 |
+| [Coinbase](coinbase.md) | 💳 Fintech, payments & crypto | 86 | 18 | 18 | 59 | 62 | 14 | Sep 2026 |
 | [Goldman Sachs](goldman-sachs.md) | 🏦 Banks, insurers & asset managers | 68 | 28 | 34 | 40 | 31 | 2 | Oct 2026 |
 | [Instacart](instacart.md) | 🛒 E-commerce & marketplaces | 65 | 8 | 8 | 30 | 54 | 30 | Oct 2026 |
 | [Atlassian](atlassian.md) | 🏢 Enterprise & business software | 63 | 4 | 11 | 41 | 57 | 7 | Oct 2026 |
@@ -47,9 +47,9 @@ Counts are per company: a question reported at three employers is on three pages
 | [Two Sigma](two-sigma.md) | 📈 Quant trading & hedge funds | 50 | 17 | 17 | 36 | 27 | — | Oct 2026 |
 | [Lyft](lyft.md) | 🛒 E-commerce & marketplaces | 49 | 1 | 7 | 38 | 35 | 9 | Oct 2026 |
 | [Upstart](upstart.md) | 💳 Fintech, payments & crypto | 49 | 16 | 23 | 35 | 30 | 10 | Sep 2026 |
-| [eBay](ebay.md) | 🛒 E-commerce & marketplaces | 48 | 13 | 17 | 31 | 30 | 5 | Oct 2026 |
 | [Disney](disney.md) | — | 47 | 3 | 7 | 16 | 38 | 13 | Oct 2026 |
 | [Reddit](reddit.md) | 📱 Consumer internet & media | 47 | 1 | 5 | 29 | 41 | 12 | Oct 2026 |
+| [eBay](ebay.md) | 🛒 E-commerce & marketplaces | 46 | 11 | 15 | 29 | 30 | 5 | Oct 2026 |
 | [IBM](ibm.md) | 🧾 IT services & consulting | 45 | 24 | 28 | 26 | 11 | 2 | Oct 2026 |
 | [Squarepoint](squarepoint.md) | 📈 Quant trading & hedge funds | 45 | 14 | 19 | 40 | 25 | 1 | Sep 2026 |
 | [xAI](xai.md) | 🧠 AI labs & AI infrastructure | 43 | 3 | 6 | 28 | 33 | 5 | Oct 2026 |
@@ -92,9 +92,9 @@ Counts are per company: a question reported at three employers is on three pages
 | [Visa](visa.md) | 🏦 Banks, insurers & asset managers | 15 | 3 | 4 | 5 | 8 | 6 | Oct 2026 |
 | [Mercor](mercor.md) | 🧠 AI labs & AI infrastructure | 14 | — | 2 | 9 | 14 | 5 | Sep 2026 |
 | [Airwallex](airwallex.md) | 💳 Fintech, payments & crypto | 13 | — | 2 | 4 | 12 | 8 | Sep 2026 |
-| [HubSpot](hubspot.md) | 🏢 Enterprise & business software | 13 | 7 | 10 | 11 | 10 | 1 | Aug 2026 |
 | [Microsoft AI](microsoft-ai.md) | 🧠 AI labs & AI infrastructure | 13 | 1 | 2 | 11 | 10 | 3 | Oct 2026 |
 | [Okta](okta.md) | 🔒 Cybersecurity | 13 | 2 | 3 | 4 | 11 | — | Oct 2026 |
+| [HubSpot](hubspot.md) | 🏢 Enterprise & business software | 12 | 6 | 9 | 10 | 10 | 1 | Aug 2026 |
 | [Nuro](nuro.md) | 🚗 Autonomy, automotive & mobility | 12 | — | 2 | 4 | 12 | 8 | Aug 2026 |
 | [Onemain Financial](onemain-financial.md) | — | 12 | — | — | 7 | 12 | 5 | Jun 2026 |
 | [Palantir](palantir.md) | 🏢 Enterprise & business software | 12 | 3 | 6 | 10 | 9 | 2 | Aug 2026 |

@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Fintech, payments & crypto*.
 
-**507 questions** · 87 from an OA · 79 reported in the last 90 days · 159 free to solve
+**506 questions** · 86 from an OA · 79 reported in the last 90 days · 158 free to solve
 
-**By level:** 🎓 Intern & New grad (170) · 🌱 Mid (338) · 🎯 Senior (345) · 🚀 Staff+ (90)
+**By level:** 🎓 Intern & New grad (169) · 🌱 Mid (337) · 🎯 Senior (345) · 🚀 Staff+ (90)
 
-**By role:** 💻 Software Engineering (404) · 🤖 ML, AI & Research (11) · 📊 Data Science & Analytics (81) · 📈 Quantitative Finance (4) · 📱 Product Management (2)
+**By role:** 💻 Software Engineering (403) · 🤖 ML, AI & Research (11) · 📊 Data Science & Analytics (81) · 📈 Quantitative Finance (4) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (87) · 📞 Phone (233) · 🏢 Onsite (221)
+**Rounds:** 📝 OA (86) · 📞 Phone (233) · 🏢 Onsite (221)
 
-**Companies:** [Stripe (119)](../companies/stripe.md) · [Coinbase (87)](../companies/coinbase.md) · [Square (56)](../companies/square.md) · [Robinhood (53)](../companies/robinhood.md) · [Upstart (49)](../companies/upstart.md) · [PayPal (37)](../companies/paypal.md) · [SoFi (37)](../companies/sofi.md) · [Ramp (36)](../companies/ramp.md) · [Affirm (18)](../companies/affirm.md) · [Airwallex (13)](../companies/airwallex.md) · [Circle (6)](../companies/circle.md) · [Block (5)](../companies/block.md) · [OKX (5)](../companies/okx.md) · [Brex (4)](../companies/brex.md)
+**Companies:** [Stripe (119)](../companies/stripe.md) · [Coinbase (86)](../companies/coinbase.md) · [Square (56)](../companies/square.md) · [Robinhood (53)](../companies/robinhood.md) · [Upstart (49)](../companies/upstart.md) · [PayPal (37)](../companies/paypal.md) · [SoFi (37)](../companies/sofi.md) · [Ramp (36)](../companies/ramp.md) · [Affirm (18)](../companies/affirm.md) · [Airwallex (13)](../companies/airwallex.md) · [Circle (6)](../companies/circle.md) · [Block (5)](../companies/block.md) · [OKX (5)](../companies/okx.md) · [Brex (4)](../companies/brex.md)
 
 <sub>Page **1** · [2](fintech-2.md)</sub>
 
@@ -347,7 +347,6 @@
 | **[Stripe](../companies/stripe.md)** | [Linked User Records by Similarity](https://trueinterview.io/questions/record-linkage-similarity) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/record-linkage-similarity) | Dec 4, 2025 |
 | **[Coinbase](../companies/coinbase.md)** | [Write SQL to rank top products per category](https://trueinterview.io/questions/write-sql-to-rank-top-products-per-category) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-to-rank-top-products-per-category) | Dec 4, 2025 |
 | **[Coinbase](../companies/coinbase.md)** | [Signup Form](https://trueinterview.io/questions/fe-sd-signup-form) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/fe-sd-signup-form) | Dec 1, 2025 |
-| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | **[Ramp](../companies/ramp.md)** / [eBay](../companies/ebay.md) | [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Dec 2025 |
 | **[Robinhood](../companies/robinhood.md)** | [Count Trigger Events in Directed Acyclic Graph](https://trueinterview.io/questions/1c708aa4-2fbb-4cc4-ae73-3c423e4e9490) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1c708aa4-2fbb-4cc4-ae73-3c423e4e9490) | Dec 2025 |
 | **[Coinbase](../companies/coinbase.md)** | [Database Design and Implementation](https://trueinterview.io/questions/21808437-d0e2-42be-8536-5cb42b058133) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/21808437-d0e2-42be-8536-5cb42b058133) | Dec 2025 |
@@ -425,5 +424,6 @@
 | **[Square](../companies/square.md)** | [Cat Weight and Height Query Filters](https://trueinterview.io/questions/cat-measurements-sql) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cat-measurements-sql) | — |
 | **[Stripe](../companies/stripe.md)** | [Choose threshold under costs and uncertainty](https://trueinterview.io/questions/choose-threshold-under-costs-and-uncertainty) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-threshold-under-costs-and-uncertainty) | — |
 | **[Square](../companies/square.md)** | [Coin Flip Duel: Simulate HH Against HT](https://trueinterview.io/questions/coin-flip-race-simulation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/coin-flip-race-simulation) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Compute adoption, latency, and cross-region transactions](https://trueinterview.io/questions/compute-adoption-latency-and-cross-region-transactions) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-adoption-latency-and-cross-region-transactions) | — |
 
 <sub>Page **1** · [2](fintech-2.md)</sub>

@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 540 free to solve
+**2,620 questions** · 583 from an OA · 484 reported in the last 90 days · 540 free to solve
 
-**By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
+**By level:** 🎓 Intern & New grad (1,012) · 🌱 Mid (1,871) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
-**Rounds:** 📝 OA (584) · 📞 Phone (1,580) · 🏢 Onsite (652) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (583) · 📞 Phone (1,580) · 🏢 Onsite (652) · 🏠 Take-home (2)
 
 **Companies:** [Google (219)](../companies/google.md) · [Amazon (217)](../companies/amazon.md) · [Meta (181)](../companies/meta.md) · [ByteDance (179)](../companies/bytedance.md) · [Uber (160)](../companies/uber.md) · [Microsoft (136)](../companies/microsoft.md) · [Apple (101)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (67)](../companies/oracle.md) · [Bloomberg (65)](../companies/bloomberg.md) · [Capital One (65)](../companies/capital-one.md) · [LinkedIn (63)](../companies/linkedin.md) · [OpenAI (60)](../companies/openai.md) · [Pinterest (57)](../companies/pinterest.md)
 

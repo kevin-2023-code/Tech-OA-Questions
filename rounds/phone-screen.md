@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,115 questions** · 10 from an OA · 593 reported in the last 90 days · 1,208 free to solve
+**3,115 questions** · 10 from an OA · 593 reported in the last 90 days · 1,209 free to solve
 
 **By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,022) · 🎯 Senior (2,214) · 🚀 Staff+ (573)
 
@@ -362,7 +362,7 @@
 | **[Robinhood](../companies/robinhood.md)** / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +13 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design Real-Time Electricity Monitoring and Policy Control](https://trueinterview.io/questions/design-real-time-electricity-monitoring-and-policy-control) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-real-time-electricity-monitoring-and-policy-control) | Sep 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Design Telemetry Ingestion and Reconcile Metric Names](https://trueinterview.io/questions/design-telemetry-ingestion-and-reconcile-metric-names) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-telemetry-ingestion-and-reconcile-metric-names) | Sep 2026 |
-| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Detect Fraudulent Transactions](https://trueinterview.io/questions/84306b63-f79d-5a02-9d25-921f49151cc0) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/84306b63-f79d-5a02-9d25-921f49151cc0) | Sep 2026 |
 | **[Citadel](../companies/citadel.md)** | [Discuss a Project You Are Proud Of and How You Work](https://trueinterview.io/questions/discuss-a-project-you-are-proud-of-and-how-you-work) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/discuss-a-project-you-are-proud-of-and-how-you-work) | Sep 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Distinct Border Sum of Maximum-Sum Frames](https://trueinterview.io/questions/f11dcc38-131a-5006-8491-5901149f2b1c) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/f11dcc38-131a-5006-8491-5901149f2b1c) | Sep 2026 |

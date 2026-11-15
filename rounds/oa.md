@@ -4,15 +4,15 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**802 questions** · 802 from an OA · 125 reported in the last 90 days · 241 free to solve
+**800 questions** · 800 from an OA · 125 reported in the last 90 days · 240 free to solve
 
-**By level:** 🎓 Intern & New grad (495) · 🌱 Mid (484) · 🎯 Senior (252) · 🚀 Staff+ (20)
+**By level:** 🎓 Intern & New grad (493) · 🌱 Mid (482) · 🎯 Senior (252) · 🚀 Staff+ (20)
 
-**By role:** 💻 Software Engineering (586) · 🤖 ML, AI & Research (21) · 📊 Data Science & Analytics (97) · 📈 Quantitative Finance (87)
+**By role:** 💻 Software Engineering (584) · 🤖 ML, AI & Research (21) · 📊 Data Science & Analytics (97) · 📈 Quantitative Finance (87)
 
-**Companies:** [Amazon (53)](../companies/amazon.md) · [Capital One (53)](../companies/capital-one.md) · [ByteDance (36)](../companies/bytedance.md) · [Meta (34)](../companies/meta.md) · [Microsoft (32)](../companies/microsoft.md) · [Uber (32)](../companies/uber.md) · [Google (31)](../companies/google.md) · [Stripe (29)](../companies/stripe.md) · [Goldman Sachs (28)](../companies/goldman-sachs.md) · [Salesforce (25)](../companies/salesforce.md) · [IBM (24)](../companies/ibm.md) · [Akuna Capital (22)](../companies/akuna-capital.md) · [Coinbase (19)](../companies/coinbase.md) · [Optiver (19)](../companies/optiver.md) · [Cisco (18)](../companies/cisco.md) · [Two Sigma (17)](../companies/two-sigma.md) · [Anthropic (16)](../companies/anthropic.md) · [Upstart (16)](../companies/upstart.md) · [Airbnb (15)](../companies/airbnb.md) · [Bitkernel (15)](../companies/bitkernel.md)
+**Companies:** [Amazon (53)](../companies/amazon.md) · [Capital One (53)](../companies/capital-one.md) · [ByteDance (36)](../companies/bytedance.md) · [Meta (34)](../companies/meta.md) · [Microsoft (32)](../companies/microsoft.md) · [Uber (32)](../companies/uber.md) · [Google (31)](../companies/google.md) · [Stripe (29)](../companies/stripe.md) · [Goldman Sachs (28)](../companies/goldman-sachs.md) · [Salesforce (25)](../companies/salesforce.md) · [IBM (24)](../companies/ibm.md) · [Akuna Capital (22)](../companies/akuna-capital.md) · [Optiver (19)](../companies/optiver.md) · [Cisco (18)](../companies/cisco.md) · [Coinbase (18)](../companies/coinbase.md) · [Two Sigma (17)](../companies/two-sigma.md) · [Anthropic (16)](../companies/anthropic.md) · [Upstart (16)](../companies/upstart.md) · [Airbnb (15)](../companies/airbnb.md) · [Bitkernel (15)](../companies/bitkernel.md)
 
-<sub>Page **1** · [2](oa-2.md) · [3](oa-3.md)</sub>
+<sub>Page **1** · [2](oa-2.md)</sub>
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -264,7 +264,6 @@
 | **[eBay](../companies/ebay.md)** | [Count and Flip Binary Operations](https://trueinterview.io/questions/count-and-flip-binary-operations) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-and-flip-binary-operations) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Find Matching Skeletons](https://trueinterview.io/questions/find-matching-skeletons) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/find-matching-skeletons) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Fit Saved Rectangles in a Box](https://trueinterview.io/questions/fit-saved-rectangles-in-a-box) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fit-saved-rectangles-in-a-box) | Jun 12, 2026 |
-| **[eBay](../companies/ebay.md)** | [Group Chat Mention Counter](https://trueinterview.io/questions/group-chat-mention-counter) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/group-chat-mention-counter) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Match Cyclic Shift to Descending Sequence](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Max Matrix Border Distinct Sum](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Obstacle Placement and Block Check](https://trueinterview.io/questions/obstacle-placement-and-block-check) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/obstacle-placement-and-block-check) | Jun 12, 2026 |
@@ -421,5 +420,6 @@
 | **[DoorDash](../companies/doordash.md)** | [Design an API for pay computation with retries](https://trueinterview.io/questions/design-an-api-for-pay-computation-with-retries) | OA | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-api-for-pay-computation-with-retries) | Mar 2026 |
 | **[Ramp](../companies/ramp.md)** | [Frontend Hidden URL and React Wordle](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | Mar 2026 |
 | **[Ramp](../companies/ramp.md)** | [In-Memory Banking System (4 Levels)](https://trueinterview.io/questions/oa-banking-system) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-banking-system) | Mar 2026 |
+| **[Amazon](../companies/amazon.md)** | [In-place Array Reordering (0/1/2 sort variant)](https://trueinterview.io/questions/8f2cdb13-1620-4874-900f-1597fce80c27) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8f2cdb13-1620-4874-900f-1597fce80c27) | Mar 2026 |
 
-<sub>Page **1** · [2](oa-2.md) · [3](oa-3.md)</sub>
+<sub>Page **1** · [2](oa-2.md)</sub>

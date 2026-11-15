@@ -6,7 +6,7 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,693 questions** · 169 from an OA · 400 reported in the last 90 days · 599 free to solve
+**1,693 questions** · 169 from an OA · 400 reported in the last 90 days · 600 free to solve
 
 **By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
 
@@ -275,7 +275,7 @@
 | **[Robinhood](../companies/robinhood.md)** / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +13 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | **[Reddit](../companies/reddit.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +10 | [Design Notification System](https://trueinterview.io/questions/design-a-notification-system-for-reddit) | Onsite | Mid · Senior · Staff+ · Manager | System design | [![Free][f]](https://trueinterview.io/questions/design-a-notification-system-for-reddit) | Sep 2026 |
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) | [Design Realtime Temperature Monitoring System](https://trueinterview.io/questions/design-realtime-temperature-monitoring-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-realtime-temperature-monitoring-system) | Sep 2026 |
-| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +4 | [Design Typehead Suggestion](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Sep 2026 |
 | **[Google](../companies/google.md)** / [Amazon](../companies/amazon.md) | [Design Unix Find Command](https://trueinterview.io/questions/design-unix-find-command-2) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-find-command-2) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Drone Delivery on a Hub Ring — Minimum Travel](https://trueinterview.io/questions/drone-hub-ring-min-travel) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/drone-hub-ring-min-travel) | Sep 2026 |

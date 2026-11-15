@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 540 free to solve
+**2,620 questions** · 583 from an OA · 484 reported in the last 90 days · 540 free to solve
 
-**By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
+**By level:** 🎓 Intern & New grad (1,012) · 🌱 Mid (1,871) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
-**Rounds:** 📝 OA (584) · 📞 Phone (1,580) · 🏢 Onsite (652) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (583) · 📞 Phone (1,580) · 🏢 Onsite (652) · 🏠 Take-home (2)
 
 **Companies:** [Google (219)](../companies/google.md) · [Amazon (217)](../companies/amazon.md) · [Meta (181)](../companies/meta.md) · [ByteDance (179)](../companies/bytedance.md) · [Uber (160)](../companies/uber.md) · [Microsoft (136)](../companies/microsoft.md) · [Apple (101)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (67)](../companies/oracle.md) · [Bloomberg (65)](../companies/bloomberg.md) · [Capital One (65)](../companies/capital-one.md) · [LinkedIn (63)](../companies/linkedin.md) · [OpenAI (60)](../companies/openai.md) · [Pinterest (57)](../companies/pinterest.md)
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[ByteDance](../companies/bytedance.md)** | [Delete nodes in linked list and binary tree](https://trueinterview.io/questions/delete-nodes-in-linked-list-and-binary-tree) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/delete-nodes-in-linked-list-and-binary-tree) | Feb 11, 2026 |
 | **[Uber](../companies/uber.md)** | [Find minimum reversals to orient edges away from root](https://trueinterview.io/questions/find-minimum-reversals-to-orient-edges-away-from-root) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-minimum-reversals-to-orient-edges-away-from-root) | Feb 11, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Group words that are anagrams](https://trueinterview.io/questions/solve-string-grouping-and-tree-right-view-problems-group-words-that-are-anagrams) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-string-grouping-and-tree-right-view-problems-group-words-that-are-anagrams) | Feb 11, 2026 |
 | **[Uber](../companies/uber.md)** / [Microsoft](../companies/microsoft.md) / [Ramp](../companies/ramp.md) | [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/purchase-optimization) | Feb 11, 2026 |
@@ -421,5 +420,6 @@
 | **[Ramp](../companies/ramp.md)** | [Detect Recurring Transactions](https://trueinterview.io/questions/detect-recurring-transactions) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/detect-recurring-transactions) | Nov 22, 2025 |
 | **[Amazon](../companies/amazon.md)** | [Implement Interview Coding Problems](https://trueinterview.io/questions/implement-interview-coding-problems) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-interview-coding-problems) | Nov 22, 2025 |
 | **[Tesla](../companies/tesla.md)** | [NumPy Conv2D Forward and Parameter Count](https://trueinterview.io/questions/numpy-conv2d-forward) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/numpy-conv2d-forward) | Nov 22, 2025 |
+| **[Oracle](../companies/oracle.md)** | [Anagram Word Replacement in Phrases](https://trueinterview.io/questions/anagram-phrase-replacement) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/anagram-phrase-replacement) | Nov 21, 2025 |
 
 <sub>Page [1](algorithm.md) · [2](algorithm-2.md) · [3](algorithm-3.md) · [4](algorithm-4.md) · **5** · [6](algorithm-6.md) · [7](algorithm-7.md)</sub>

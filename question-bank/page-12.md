@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
+**5,888 questions** · 800 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,452) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,493) · 🌱 Mid (3,450) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (800) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · **12** · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,8 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Google](../companies/google.md)** | [Design tests to measure latency impact](https://trueinterview.io/questions/design-tests-to-measure-latency-impact) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-tests-to-measure-latency-impact) | Oct 13, 2025 |
-| **[Meta](../companies/meta.md)** | [Evaluate emoji reactions launch](https://trueinterview.io/questions/evaluate-emoji-reactions-launch) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-emoji-reactions-launch) | Oct 13, 2025 |
 | **[Google](../companies/google.md)** | [Explain mixed models and fixed vs random effects](https://trueinterview.io/questions/explain-mixed-models-and-fixed-vs-random-effects) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-mixed-models-and-fixed-vs-random-effects) | Oct 13, 2025 |
 | **[DoorDash](../companies/doordash.md)** | [Allocate Support Cost and Diagnose Decline](https://trueinterview.io/questions/allocate-support-cost-and-diagnose-decline) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/allocate-support-cost-and-diagnose-decline) | Oct 12, 2025 |
 | **[Perplexity](../companies/perplexity.md)** | [Stream Processing with Stop Words](https://trueinterview.io/questions/stream-processing-with-stop-words) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/stream-processing-with-stop-words) | Oct 12, 2025 |
@@ -419,5 +417,7 @@
 | **[Intuit](../companies/intuit.md)** | [Choose the right test for proportions](https://trueinterview.io/questions/choose-the-right-test-for-proportions) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-the-right-test-for-proportions) | — |
 | **[Meta](../companies/meta.md)** | [Choose threshold under asymmetric costs](https://trueinterview.io/questions/choose-threshold-under-asymmetric-costs) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-threshold-under-asymmetric-costs) | — |
 | **[Stripe](../companies/stripe.md)** | [Choose threshold under costs and uncertainty](https://trueinterview.io/questions/choose-threshold-under-costs-and-uncertainty) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-threshold-under-costs-and-uncertainty) | — |
+| **[Karat](../companies/karat.md)** | [Choose-Your-Path Book: Reaching Endings Under a Fixed Choice Rule](https://trueinterview.io/questions/choose-your-story-book-endings) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/choose-your-story-book-endings) | — |
+| **[Karat](../companies/karat.md)** | [Choosing Consistency Models for Banking, Catalog and Analytics](https://trueinterview.io/questions/strong-vs-eventual-consistency-scenarios) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/strong-vs-eventual-consistency-scenarios) | — |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · **12** · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

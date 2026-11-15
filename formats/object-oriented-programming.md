@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**660 questions** · 53 from an OA · 156 reported in the last 90 days · 86 free to solve
+**659 questions** · 52 from an OA · 156 reported in the last 90 days · 85 free to solve
 
-**By level:** 🎓 Intern & New grad (123) · 🌱 Mid (456) · 🎯 Senior (447) · 🚀 Staff+ (21)
+**By level:** 🎓 Intern & New grad (122) · 🌱 Mid (455) · 🎯 Senior (447) · 🚀 Staff+ (21)
 
-**Rounds:** 📝 OA (53) · 📞 Phone (235) · 🏢 Onsite (437) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (52) · 📞 Phone (235) · 🏢 Onsite (437) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (48)](../companies/amazon.md) · [Coinbase (32)](../companies/coinbase.md) · [Google (32)](../companies/google.md) · [Microsoft (32)](../companies/microsoft.md) · [OpenAI (32)](../companies/openai.md) · [Airbnb (27)](../companies/airbnb.md) · [Anthropic (26)](../companies/anthropic.md) · [LinkedIn (26)](../companies/linkedin.md) · [Netflix (24)](../companies/netflix.md) · [Uber (24)](../companies/uber.md) · [ByteDance (22)](../companies/bytedance.md) · [Apple (19)](../companies/apple.md) · [Oracle (19)](../companies/oracle.md) · [Bloomberg (16)](../companies/bloomberg.md) · [Citadel (16)](../companies/citadel.md)
+**Companies:** [Amazon (48)](../companies/amazon.md) · [Google (32)](../companies/google.md) · [Microsoft (32)](../companies/microsoft.md) · [OpenAI (32)](../companies/openai.md) · [Coinbase (31)](../companies/coinbase.md) · [Airbnb (27)](../companies/airbnb.md) · [Anthropic (26)](../companies/anthropic.md) · [LinkedIn (26)](../companies/linkedin.md) · [Netflix (24)](../companies/netflix.md) · [Uber (24)](../companies/uber.md) · [ByteDance (22)](../companies/bytedance.md) · [Apple (19)](../companies/apple.md) · [Oracle (19)](../companies/oracle.md) · [Bloomberg (16)](../companies/bloomberg.md) · [Citadel (16)](../companies/citadel.md)
 
 <sub>Page **1** · [2](object-oriented-programming-2.md)</sub>
 

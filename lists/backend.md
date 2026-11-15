@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Backend Engineer** role.
 
-**683 questions** · 49 from an OA · 153 reported in the last 90 days · 101 free to solve
+**682 questions** · 48 from an OA · 153 reported in the last 90 days · 101 free to solve
 
-**By level:** 🎓 Intern & New grad (80) · 🌱 Mid (307) · 🎯 Senior (527) · 🚀 Staff+ (155)
+**By level:** 🎓 Intern & New grad (79) · 🌱 Mid (306) · 🎯 Senior (527) · 🚀 Staff+ (155)
 
-**Rounds:** 📝 OA (49) · 📞 Phone (246) · 🏢 Onsite (439) · 🏠 Take-home (4)
+**Rounds:** 📝 OA (48) · 📞 Phone (246) · 🏢 Onsite (439) · 🏠 Take-home (4)
 
-**Companies:** [Stripe (43)](../companies/stripe.md) · [Amazon (42)](../companies/amazon.md) · [Meta (40)](../companies/meta.md) · [ByteDance (30)](../companies/bytedance.md) · [Microsoft (29)](../companies/microsoft.md) · [DoorDash (28)](../companies/doordash.md) · [OpenAI (27)](../companies/openai.md) · [Karat (25)](../companies/karat.md) · [Uber (25)](../companies/uber.md) · [Snowflake (23)](../companies/snowflake.md) · [Google (22)](../companies/google.md) · [Coinbase (21)](../companies/coinbase.md) · [LinkedIn (21)](../companies/linkedin.md) · [Anthropic (20)](../companies/anthropic.md) · [Atlassian (20)](../companies/atlassian.md)
+**Companies:** [Stripe (43)](../companies/stripe.md) · [Amazon (42)](../companies/amazon.md) · [Meta (40)](../companies/meta.md) · [ByteDance (30)](../companies/bytedance.md) · [Microsoft (29)](../companies/microsoft.md) · [DoorDash (28)](../companies/doordash.md) · [OpenAI (27)](../companies/openai.md) · [Karat (25)](../companies/karat.md) · [Uber (25)](../companies/uber.md) · [Snowflake (23)](../companies/snowflake.md) · [Google (22)](../companies/google.md) · [LinkedIn (21)](../companies/linkedin.md) · [Anthropic (20)](../companies/anthropic.md) · [Atlassian (20)](../companies/atlassian.md) · [Coinbase (20)](../companies/coinbase.md)
 
 <sub>Page **1** · [2](backend-2.md)</sub>
 
@@ -116,7 +116,7 @@
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) | [Design Realtime Temperature Monitoring System](https://trueinterview.io/questions/design-realtime-temperature-monitoring-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-realtime-temperature-monitoring-system) | Sep 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Design Tagging System](https://trueinterview.io/questions/tagging-system-rest-api) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/tagging-system-rest-api) | Sep 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Design Telemetry Ingestion and Reconcile Metric Names](https://trueinterview.io/questions/design-telemetry-ingestion-and-reconcile-metric-names) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-telemetry-ingestion-and-reconcile-metric-names) | Sep 2026 |
-| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | **[LinkedIn](../companies/linkedin.md)** / [Amazon](../companies/amazon.md) / [Google](../companies/google.md) / +4 | [Design Typehead Suggestion](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/sd-typeahead-autocomplete) | Sep 2026 |
 | **[Oracle](../companies/oracle.md)** | [Event Ingestion + Top-K Aggregation](https://trueinterview.io/questions/system-design-event-ingestion-topk) | Onsite | Senior | System design | [![Free][f]](https://trueinterview.io/questions/system-design-event-ingestion-topk) | Sep 2026 |
 | **[Meta](../companies/meta.md)** | [Facebook Search (Mini Elasticsearch)](https://trueinterview.io/questions/system-design-facebook-search) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/system-design-facebook-search) | Sep 2026 |

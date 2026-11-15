@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice eBay on TrueInterview](https://trueinterview.io/problems/company/ebay) · [How eBay interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/ebay/README.md)
 
-🛒 E-commerce & marketplaces · **48 questions** · 13 from an OA · last reported Oct 2026
+🛒 E-commerce & marketplaces · **46 questions** · 11 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (17) · 🌱 Mid (31) · 🎯 Senior (30) · 🚀 Staff+ (5)
+**By level:** 🎓 Intern & New grad (15) · 🌱 Mid (29) · 🎯 Senior (30) · 🚀 Staff+ (5)
 
-**By role:** 💻 Software Engineering (46) · 🤖 ML, AI & Research (2)
+**By role:** 💻 Software Engineering (44) · 🤖 ML, AI & Research (2)
 
-**Rounds:** 📝 OA (13) · 📞 Phone (20) · 🏢 Onsite (20)
+**Rounds:** 📝 OA (11) · 📞 Phone (20) · 🏢 Onsite (20)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/ebay-interview-process)
 
@@ -29,7 +29,7 @@
 | [Design Hotel Booking System](https://trueinterview.io/questions/booking-system-design)<br><sub>also [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / [Expedia](../companies/expedia.md) / +6</sub> | Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/booking-system-design) | Sep 2026 |
 | [Design Online Donation Service](https://trueinterview.io/questions/charity-donation-system)<br><sub>also [Lyft](../companies/lyft.md) / [DoorDash](../companies/doordash.md) / [Whatnot](../companies/whatnot.md)</sub> | Onsite | New grad · Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/charity-donation-system) | Sep 2026 |
 | [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9)<br><sub>also [ByteDance](../companies/bytedance.md) / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +6</sub> | Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Sep 2026 |
-| [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [Confluent](../companies/confluent.md) / [Google](../companies/google.md) / +6</sub> | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| [Design TinyURL](https://trueinterview.io/questions/design-tinyurl)<br><sub>also [Amazon](../companies/amazon.md) / [Confluent](../companies/confluent.md) / [Google](../companies/google.md) / +6</sub> | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | [Describe Your Most Technically Difficult Project](https://trueinterview.io/questions/describe-your-most-technically-difficult-project) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-your-most-technically-difficult-project) | Aug 26, 2026 |
 | [Search in Rotated Sorted Array](https://trueinterview.io/questions/search-in-rotated-sorted-array)<br><sub>also [ByteDance](../companies/bytedance.md) / [NVIDIA](../companies/nvidia.md)</sub> | Phone · Onsite | Intern · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/search-in-rotated-sorted-array) | Aug 21, 2026 |
 | [Design a Shopping Search Bar with Autocomplete](https://trueinterview.io/questions/design-a-shopping-search-bar-with-autocomplete) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-shopping-search-bar-with-autocomplete) | Aug 19, 2026 |
@@ -44,7 +44,6 @@
 | [Count and Flip Binary Operations](https://trueinterview.io/questions/count-and-flip-binary-operations) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-and-flip-binary-operations) | Jun 12, 2026 |
 | [Find Matching Skeletons](https://trueinterview.io/questions/find-matching-skeletons) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/find-matching-skeletons) | Jun 12, 2026 |
 | [Fit Saved Rectangles in a Box](https://trueinterview.io/questions/fit-saved-rectangles-in-a-box) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fit-saved-rectangles-in-a-box) | Jun 12, 2026 |
-| [Group Chat Mention Counter](https://trueinterview.io/questions/group-chat-mention-counter) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/group-chat-mention-counter) | Jun 12, 2026 |
 | [Match Cyclic Shift to Descending Sequence](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | Jun 12, 2026 |
 | [Max Matrix Border Distinct Sum](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | Jun 12, 2026 |
 | [Obstacle Placement and Block Check](https://trueinterview.io/questions/obstacle-placement-and-block-check) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/obstacle-placement-and-block-check) | Jun 12, 2026 |
@@ -66,6 +65,5 @@
 | [Maximum Length Balanced Subarray (Equal Sum Halves)](https://trueinterview.io/questions/f588f532-09ac-4651-97ca-e680fb0b1c3b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f588f532-09ac-4651-97ca-e680fb0b1c3b) | Feb 2026 |
 | [Validate US Phone Numbers with Regular Expression](https://trueinterview.io/questions/1714f199-0812-421e-8e1a-edb4b9379eb8) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1714f199-0812-421e-8e1a-edb4b9379eb8) | Jan 2026 |
 | [Balloon Explosion](https://trueinterview.io/questions/bec1bae5-6bc3-4a83-8430-077c684da76c) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/bec1bae5-6bc3-4a83-8430-077c684da76c) | Dec 2025 |
-| [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system)<br><sub>also [Coinbase](../companies/coinbase.md) / [HubSpot](../companies/hubspot.md)</sub> | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase)<br><sub>also [Ramp](../companies/ramp.md)</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Dec 2025 |
 | [Count Difference in Uppercase and Lowercase Letters](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | Dec 2025 |

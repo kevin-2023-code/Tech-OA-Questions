@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**660 questions** · 53 from an OA · 156 reported in the last 90 days · 86 free to solve
+**659 questions** · 52 from an OA · 156 reported in the last 90 days · 85 free to solve
 
-**By level:** 🎓 Intern & New grad (123) · 🌱 Mid (456) · 🎯 Senior (447) · 🚀 Staff+ (21)
+**By level:** 🎓 Intern & New grad (122) · 🌱 Mid (455) · 🎯 Senior (447) · 🚀 Staff+ (21)
 
-**Rounds:** 📝 OA (53) · 📞 Phone (235) · 🏢 Onsite (437) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (52) · 📞 Phone (235) · 🏢 Onsite (437) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (48)](../companies/amazon.md) · [Coinbase (32)](../companies/coinbase.md) · [Google (32)](../companies/google.md) · [Microsoft (32)](../companies/microsoft.md) · [OpenAI (32)](../companies/openai.md) · [Airbnb (27)](../companies/airbnb.md) · [Anthropic (26)](../companies/anthropic.md) · [LinkedIn (26)](../companies/linkedin.md) · [Netflix (24)](../companies/netflix.md) · [Uber (24)](../companies/uber.md) · [ByteDance (22)](../companies/bytedance.md) · [Apple (19)](../companies/apple.md) · [Oracle (19)](../companies/oracle.md) · [Bloomberg (16)](../companies/bloomberg.md) · [Citadel (16)](../companies/citadel.md)
+**Companies:** [Amazon (48)](../companies/amazon.md) · [Google (32)](../companies/google.md) · [Microsoft (32)](../companies/microsoft.md) · [OpenAI (32)](../companies/openai.md) · [Coinbase (31)](../companies/coinbase.md) · [Airbnb (27)](../companies/airbnb.md) · [Anthropic (26)](../companies/anthropic.md) · [LinkedIn (26)](../companies/linkedin.md) · [Netflix (24)](../companies/netflix.md) · [Uber (24)](../companies/uber.md) · [ByteDance (22)](../companies/bytedance.md) · [Apple (19)](../companies/apple.md) · [Oracle (19)](../companies/oracle.md) · [Bloomberg (16)](../companies/bloomberg.md) · [Citadel (16)](../companies/citadel.md)
 
 <sub>Page [1](object-oriented-programming.md) · **2**</sub>
 
@@ -128,7 +128,6 @@
 | **[OpenAI](../companies/openai.md)** | [Implement map serialization and deserialization](https://trueinterview.io/questions/implement-map-serialization-and-deserialization) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-map-serialization-and-deserialization) | Dec 1, 2025 |
 | **[Intuit](../companies/intuit.md)** | [BankAccount Deposit and Withdraw Methods with Tests](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Dec 2025 |
 | **[ByteDance](../companies/bytedance.md)** | [BST Node Search and Delete](https://trueinterview.io/questions/31cfc7de-9b80-4134-aa0c-dca151fdaf0b) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/31cfc7de-9b80-4134-aa0c-dca151fdaf0b) | Dec 2025 |
-| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | **[Coinbase](../companies/coinbase.md)** | [Database Design and Implementation](https://trueinterview.io/questions/21808437-d0e2-42be-8536-5cb42b058133) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/21808437-d0e2-42be-8536-5cb42b058133) | Dec 2025 |
 | **[Coinbase](../companies/coinbase.md)** | [Design an in-memory database with TTL and backups](https://trueinterview.io/questions/design-an-in-memory-database-with-ttl-and-backups) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-database-with-ttl-and-backups) | Dec 2025 |
 | **[LinkedIn](../companies/linkedin.md)** | [Design an in-memory key-value store using maps](https://trueinterview.io/questions/design-an-in-memory-key-value-store-using-maps) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-key-value-store-using-maps) | Dec 2025 |

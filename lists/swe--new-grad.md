@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,110 questions** · 351 from an OA · 224 reported in the last 90 days · 311 free to solve
+**1,108 questions** · 349 from an OA · 224 reported in the last 90 days · 310 free to solve
 
-**Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (349) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
 
 **Companies:** [Amazon (119)](../companies/amazon.md) · [Meta (76)](../companies/meta.md) · [ByteDance (75)](../companies/bytedance.md) · [Google (75)](../companies/google.md) · [Uber (67)](../companies/uber.md) · [Microsoft (51)](../companies/microsoft.md) · [Capital One (45)](../companies/capital-one.md) · [Stripe (43)](../companies/stripe.md) · [Salesforce (34)](../companies/salesforce.md) · [Apple (33)](../companies/apple.md) · [Bloomberg (32)](../companies/bloomberg.md) · [Snowflake (29)](../companies/snowflake.md) · [Airbnb (27)](../companies/airbnb.md) · [C3.ai (27)](../companies/c3-ai.md) · [Square (27)](../companies/square.md)
 
@@ -353,7 +353,6 @@
 | **[eBay](../companies/ebay.md)** | [Count and Flip Binary Operations](https://trueinterview.io/questions/count-and-flip-binary-operations) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-and-flip-binary-operations) | Jun 12, 2026 |
 | **[Whatnot](../companies/whatnot.md)** | [Filter Unsafe Messages](https://trueinterview.io/questions/filter-unsafe-messages) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/filter-unsafe-messages) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Find Matching Skeletons](https://trueinterview.io/questions/find-matching-skeletons) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/find-matching-skeletons) | Jun 12, 2026 |
-| **[eBay](../companies/ebay.md)** | [Group Chat Mention Counter](https://trueinterview.io/questions/group-chat-mention-counter) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/group-chat-mention-counter) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Match Cyclic Shift to Descending Sequence](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Max Matrix Border Distinct Sum](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Obstacle Placement and Block Check](https://trueinterview.io/questions/obstacle-placement-and-block-check) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/obstacle-placement-and-block-check) | Jun 12, 2026 |
@@ -423,5 +422,6 @@
 | **[Oscar Health](../companies/oscar-health.md)** | [Decode Morse Code to All Possible Original Strings](https://trueinterview.io/questions/93be479d-c2bc-46b0-9f1f-36d31c30bfb6) | Phone | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/93be479d-c2bc-46b0-9f1f-36d31c30bfb6) | May 2026 |
 | **[Amazon](../companies/amazon.md)** | [Describe handling deadlines, pride, and conflict](https://trueinterview.io/questions/describe-handling-deadlines-pride-and-conflict) | Phone | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-handling-deadlines-pride-and-conflict) | May 2026 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [How would you handle conflict and data pressure?](https://trueinterview.io/questions/how-would-you-handle-conflict-and-data-pressure) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-handle-conflict-and-data-pressure) | May 2026 |
+| **[Meta](../companies/meta.md)** | [In-Memory Database with Record CRUD and Lock/Unlock](https://trueinterview.io/questions/f341df17-eb5b-4daf-9399-fe1f5ab67be5) | Onsite | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f341df17-eb5b-4daf-9399-fe1f5ab67be5) | May 2026 |
 
 <sub>Page **1** · [2](swe--new-grad-2.md) · [3](swe--new-grad-3.md)</sub>

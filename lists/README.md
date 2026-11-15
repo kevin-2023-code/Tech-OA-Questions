@@ -58,8 +58,8 @@ An employer the registry has not classified is on no industry list, never guesse
 
 | List | Questions |
 | :-- | --: |
-| [Intern & New Grad OA & Interview Questions (2026)](new-grad.md) | 1,495 |
-| [Mid-Level OA & Interview Questions (2026)](mid.md) | 3,452 |
+| [Intern & New Grad OA & Interview Questions (2026)](new-grad.md) | 1,493 |
+| [Mid-Level OA & Interview Questions (2026)](mid.md) | 3,450 |
 | [Senior OA & Interview Questions (2026)](senior.md) | 4,059 |
 | [Staff+ OA & Interview Questions (2026)](staff.md) | 1,097 |
 
@@ -67,13 +67,13 @@ An employer the registry has not classified is on no industry list, never guesse
 
 | List | Questions |
 | :-- | --: |
-| [Software Engineer OA & Interview Questions (2026)](swe.md) | 3,928 |
+| [Software Engineer OA & Interview Questions (2026)](swe.md) | 3,926 |
 | [ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research.md) | 481 |
 | [Data Scientist OA & Interview Questions (2026)](data.md) | 1,075 |
 | [Quant Researcher, Developer & Trader OA & Interview Questions (2026)](quant-roles.md) | 285 |
 | [Product Manager OA & Interview Questions (2026)](pm.md) | 45 |
 | [Hardware Engineer OA & Interview Questions (2026)](hardware.md) | 12 |
-| [Backend Engineer OA & Interview Questions (2026)](backend.md) | 683 |
+| [Backend Engineer OA & Interview Questions (2026)](backend.md) | 682 |
 | [Frontend Engineer OA & Interview Questions (2026)](frontend.md) | 106 |
 | [Platform & Infrastructure Engineer OA & Interview Questions (2026)](platform.md) | 164 |
 | [Engineering Manager OA & Interview Questions (2026)](manager.md) | 150 |
@@ -82,8 +82,8 @@ An employer the registry has not classified is on no industry list, never guesse
 
 | List | Questions |
 | :-- | --: |
-| [Intern & New Grad Software Engineer OA & Interview Questions (2026)](swe--new-grad.md) | 1,110 |
-| [Mid-Level Software Engineer OA & Interview Questions (2026)](swe--mid.md) | 2,527 |
+| [Intern & New Grad Software Engineer OA & Interview Questions (2026)](swe--new-grad.md) | 1,108 |
+| [Mid-Level Software Engineer OA & Interview Questions (2026)](swe--mid.md) | 2,525 |
 | [Senior Software Engineer OA & Interview Questions (2026)](swe--senior.md) | 2,493 |
 | [Staff+ Software Engineer OA & Interview Questions (2026)](swe--staff.md) | 358 |
 | [Intern & New Grad ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--new-grad.md) | 69 |
@@ -112,11 +112,11 @@ An employer the registry has not classified is on no industry list, never guesse
 | [MAANG+ OA & Interview Questions (2026)](maang.md) | 1,693 |
 | [AI labs & AI infrastructure OA & Interview Questions (2026)](ai-labs.md) | 503 |
 | [Consumer internet & media OA & Interview Questions (2026)](consumer-internet.md) | 1,581 |
-| [E-commerce & marketplaces OA & Interview Questions (2026)](ecommerce-marketplace.md) | 1,231 |
+| [E-commerce & marketplaces OA & Interview Questions (2026)](ecommerce-marketplace.md) | 1,229 |
 | [Developer tools, cloud & data infrastructure OA & Interview Questions (2026)](dev-infra.md) | 299 |
-| [Enterprise & business software OA & Interview Questions (2026)](enterprise-saas.md) | 719 |
+| [Enterprise & business software OA & Interview Questions (2026)](enterprise-saas.md) | 718 |
 | [Cybersecurity OA & Interview Questions (2026)](security.md) | 79 |
-| [Fintech, payments & crypto OA & Interview Questions (2026)](fintech.md) | 507 |
+| [Fintech, payments & crypto OA & Interview Questions (2026)](fintech.md) | 506 |
 | [Quant trading & hedge funds OA & Interview Questions (2026)](quant.md) | 383 |
 | [Banks, insurers & asset managers OA & Interview Questions (2026)](banking-finance.md) | 427 |
 | [Semiconductors & chips OA & Interview Questions (2026)](semiconductors.md) | 64 |
@@ -131,4 +131,4 @@ An employer the registry has not classified is on no industry list, never guesse
 | List | Questions |
 | :-- | --: |
 | [Free to solve](free.md) | 2,115 |
-| [Every question, newest first](../question-bank/README.md) | 5,890 |
+| [Every question, newest first](../question-bank/README.md) | 5,888 |

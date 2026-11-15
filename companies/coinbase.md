@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Coinbase on TrueInterview](https://trueinterview.io/problems/company/coinbase) · [How Coinbase interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/coinbase/README.md)
 
-💳 Fintech, payments & crypto · **87 questions** · 19 from an OA · last reported Sep 2026
+💳 Fintech, payments & crypto · **86 questions** · 18 from an OA · last reported Sep 2026
 
-**By level:** 🎓 Intern & New grad (19) · 🌱 Mid (60) · 🎯 Senior (62) · 🚀 Staff+ (14)
+**By level:** 🎓 Intern & New grad (18) · 🌱 Mid (59) · 🎯 Senior (62) · 🚀 Staff+ (14)
 
-**By role:** 💻 Software Engineering (66) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (15) · 📈 Quantitative Finance (1)
+**By role:** 💻 Software Engineering (65) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (15) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (19) · 📞 Phone (22) · 🏢 Onsite (48)
+**Rounds:** 📝 OA (18) · 📞 Phone (22) · 🏢 Onsite (48)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/coinbase-interview-process) · [SWE](https://trueinterview.io/study/coinbase-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/coinbase-machine-learning-engineer-interview-process) · [Frontend](https://trueinterview.io/study/coinbase-frontend-engineer-interview-process)
 
@@ -78,7 +78,6 @@
 | [Build a baseline classification model from messy data](https://trueinterview.io/questions/build-a-baseline-classification-model-from-messy-data) | Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/build-a-baseline-classification-model-from-messy-data) | Dec 4, 2025 |
 | [Write SQL to rank top products per category](https://trueinterview.io/questions/write-sql-to-rank-top-products-per-category) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-to-rank-top-products-per-category) | Dec 4, 2025 |
 | [Signup Form](https://trueinterview.io/questions/fe-sd-signup-form) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/fe-sd-signup-form) | Dec 1, 2025 |
-| [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system)<br><sub>also [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md)</sub> | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | [Database Design and Implementation](https://trueinterview.io/questions/21808437-d0e2-42be-8536-5cb42b058133) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/21808437-d0e2-42be-8536-5cb42b058133) | Dec 2025 |
 | [Design a blob storage system for lunar environment](https://trueinterview.io/questions/design-a-blob-storage-system-for-lunar-environment) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-blob-storage-system-for-lunar-environment) | Dec 2025 |
 | [Design an in-memory database with TTL and backups](https://trueinterview.io/questions/design-an-in-memory-database-with-ttl-and-backups) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-database-with-ttl-and-backups) | Dec 2025 |

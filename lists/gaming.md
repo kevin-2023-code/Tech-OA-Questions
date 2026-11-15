@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Gaming & interactive*.
 
-**105 questions** · 12 from an OA · 23 reported in the last 90 days · 36 free to solve
+**105 questions** · 12 from an OA · 23 reported in the last 90 days · 37 free to solve
 
 **By level:** 🎓 Intern & New grad (31) · 🌱 Mid (64) · 🎯 Senior (79) · 🚀 Staff+ (23)
 
@@ -40,7 +40,7 @@
 | **[Roblox](../companies/roblox.md)** | [File Chunk Range Tracking](https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges) | Sep 9, 2026 |
 | **[Roblox](../companies/roblox.md)** | [Candy Crush Grid Matching and Gravity](https://trueinterview.io/questions/candy-crush-grid-matching-and-gravity) | Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/candy-crush-grid-matching-and-gravity) | Sep 2026 |
 | **[Roblox](../companies/roblox.md)** | [Design A Shared Todo List](https://trueinterview.io/questions/design-collaborative-to-do-list-system) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-collaborative-to-do-list-system) | Sep 2026 |
-| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | **[Roblox](../companies/roblox.md)** / [Microsoft](../companies/microsoft.md) / [Uber](../companies/uber.md) | [Find the Closest Palindrome](https://trueinterview.io/questions/find-the-closest-palindrome) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-the-closest-palindrome) | Sep 2026 |
 | **[Roblox](../companies/roblox.md)** | [Lasers and Robot](https://trueinterview.io/questions/cc7ea860-4eb6-5776-9026-f8bb5368ca1b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cc7ea860-4eb6-5776-9026-f8bb5368ca1b) | Sep 2026 |
 | **[Roblox](../companies/roblox.md)** / [Uber](../companies/uber.md) | [Number of Ways to Wear Different Hats to Each Other](https://trueinterview.io/questions/70e9b704-fadb-5196-b645-9ef00acf84e8) | Phone | New grad · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/70e9b704-fadb-5196-b645-9ef00acf84e8) | Sep 2026 |

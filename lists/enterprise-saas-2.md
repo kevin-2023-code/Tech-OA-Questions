@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Enterprise & business software*.
 
-**719 questions** · 99 from an OA · 155 reported in the last 90 days · 231 free to solve
+**718 questions** · 98 from an OA · 155 reported in the last 90 days · 231 free to solve
 
-**By level:** 🎓 Intern & New grad (176) · 🌱 Mid (431) · 🎯 Senior (528) · 🚀 Staff+ (77)
+**By level:** 🎓 Intern & New grad (175) · 🌱 Mid (430) · 🎯 Senior (528) · 🚀 Staff+ (77)
 
-**By role:** 💻 Software Engineering (608) · 🤖 ML, AI & Research (45) · 📊 Data Science & Analytics (56) · 📈 Quantitative Finance (3) · 📱 Product Management (2)
+**By role:** 💻 Software Engineering (607) · 🤖 ML, AI & Research (45) · 📊 Data Science & Analytics (56) · 📈 Quantitative Finance (3) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (99) · 📞 Phone (349) · 🏢 Onsite (325) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (98) · 📞 Phone (349) · 🏢 Onsite (325) · 🏠 Take-home (1)
 
-**Companies:** [Microsoft (240)](../companies/microsoft.md) · [Oracle (115)](../companies/oracle.md) · [Salesforce (99)](../companies/salesforce.md) · [Atlassian (63)](../companies/atlassian.md) · [Rippling (58)](../companies/rippling.md) · [Intuit (38)](../companies/intuit.md) · [Figma (29)](../companies/figma.md) · [Tradedesk (22)](../companies/tradedesk.md) · [Dropbox (21)](../companies/dropbox.md) · [HubSpot (13)](../companies/hubspot.md) · [Palantir (12)](../companies/palantir.md) · [Airtable (11)](../companies/airtable.md) · [Amplitude (8)](../companies/amplitude.md) · [Bobyard (7)](../companies/bobyard.md) · [Gusto (6)](../companies/gusto.md) · [Rokt (5)](../companies/rokt.md) · [StackAdapt (5)](../companies/stackadapt.md)
+**Companies:** [Microsoft (240)](../companies/microsoft.md) · [Oracle (115)](../companies/oracle.md) · [Salesforce (99)](../companies/salesforce.md) · [Atlassian (63)](../companies/atlassian.md) · [Rippling (58)](../companies/rippling.md) · [Intuit (38)](../companies/intuit.md) · [Figma (29)](../companies/figma.md) · [Tradedesk (22)](../companies/tradedesk.md) · [Dropbox (21)](../companies/dropbox.md) · [HubSpot (12)](../companies/hubspot.md) · [Palantir (12)](../companies/palantir.md) · [Airtable (11)](../companies/airtable.md) · [Amplitude (8)](../companies/amplitude.md) · [Bobyard (7)](../companies/bobyard.md) · [Gusto (6)](../companies/gusto.md) · [Rokt (5)](../companies/rokt.md) · [StackAdapt (5)](../companies/stackadapt.md)
 
 <sub>Page [1](enterprise-saas.md) · **2**</sub>
 
@@ -152,7 +152,6 @@
 | **[Rippling](../companies/rippling.md)** | [Aggregate expenses by person, trip, and category](https://trueinterview.io/questions/aggregate-expenses-by-person-trip-and-category) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-expenses-by-person-trip-and-category) | Dec 2025 |
 | **[Intuit](../companies/intuit.md)** | [BankAccount Deposit and Withdraw Methods with Tests](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2825627f-fe90-4c07-b8ee-be0fc9f6d578) | Dec 2025 |
 | **[Salesforce](../companies/salesforce.md)** | [Binary String 01 to 10 swap](https://trueinterview.io/questions/b997e44e-31ce-42c6-aee6-e8489a0fa721) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b997e44e-31ce-42c6-aee6-e8489a0fa721) | Dec 2025 |
-| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Cloud Storage System](https://trueinterview.io/questions/cloud-file-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/cloud-file-system) | Dec 2025 |
 | **[Rippling](../companies/rippling.md)** | [Design a large-scale news app with caching](https://trueinterview.io/questions/design-a-large-scale-news-app-with-caching) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-large-scale-news-app-with-caching) | Dec 2025 |
 | **[Rippling](../companies/rippling.md)** | [Design an ad-click aggregation and enrichment pipeline](https://trueinterview.io/questions/design-an-ad-click-aggregation-and-enrichment-pipeline) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-ad-click-aggregation-and-enrichment-pipeline) | Dec 2025 |
 | **[Amazon](../companies/amazon.md)** / [Salesforce](../companies/salesforce.md) | [Design Elevator Control System](https://trueinterview.io/questions/design-elevator-control-system) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-elevator-control-system) | Dec 2025 |

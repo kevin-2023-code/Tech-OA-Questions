@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,527 questions** · 337 from an OA · 587 reported in the last 90 days · 712 free to solve
+**2,525 questions** · 335 from an OA · 587 reported in the last 90 days · 712 free to solve
 
-**Rounds:** 📝 OA (337) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (335) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
 **Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
@@ -175,7 +175,6 @@
 | **[eBay](../companies/ebay.md)** | [Count and Flip Binary Operations](https://trueinterview.io/questions/count-and-flip-binary-operations) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-and-flip-binary-operations) | Jun 12, 2026 |
 | **[Whatnot](../companies/whatnot.md)** | [Filter Unsafe Messages](https://trueinterview.io/questions/filter-unsafe-messages) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/filter-unsafe-messages) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Fit Saved Rectangles in a Box](https://trueinterview.io/questions/fit-saved-rectangles-in-a-box) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fit-saved-rectangles-in-a-box) | Jun 12, 2026 |
-| **[eBay](../companies/ebay.md)** | [Group Chat Mention Counter](https://trueinterview.io/questions/group-chat-mention-counter) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/group-chat-mention-counter) | Jun 12, 2026 |
 | **[eBay](../companies/ebay.md)** | [Obstacle Placement and Block Check](https://trueinterview.io/questions/obstacle-placement-and-block-check) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/obstacle-placement-and-block-check) | Jun 12, 2026 |
 | **[Reddit](../companies/reddit.md)** | [Tennis Scoring II](https://trueinterview.io/questions/tennis-match-scoring) | Phone · Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/tennis-match-scoring) | Jun 12, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Event Filter & Queue Routing Service](https://trueinterview.io/questions/event-filter-routing-service) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/event-filter-routing-service) | Jun 11, 2026 |
@@ -423,5 +422,6 @@
 | **[Meta](../companies/meta.md)** | [Remove Invalid Parentheses Minimally](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup-remove-invalid-parentheses-minimally) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup-remove-invalid-parentheses-minimally) | Apr 29, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve Array Merge and Parentheses Cleanup](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Apr 29, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Account Registration Deduplication](https://trueinterview.io/questions/account-merge-dedup-users) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/account-merge-dedup-users) | Apr 28, 2026 |
+| **[Shopify](../companies/shopify.md)** | [Compute Jaccard Similarity for Lists](https://trueinterview.io/questions/compute-jaccard-similarity-for-lists) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-jaccard-similarity-for-lists) | Apr 28, 2026 |
 
 <sub>Page [1](swe--mid.md) · [2](swe--mid-2.md) · **3** · [4](swe--mid-4.md) · [5](swe--mid-5.md) · [6](swe--mid-6.md) · [7](swe--mid-7.md)</sub>

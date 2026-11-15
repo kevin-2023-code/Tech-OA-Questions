@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Developer tools, cloud & data infrastructure*.
 
-**299 questions** · 29 from an OA · 62 reported in the last 90 days · 105 free to solve
+**299 questions** · 29 from an OA · 62 reported in the last 90 days · 106 free to solve
 
 **By level:** 🎓 Intern & New grad (68) · 🌱 Mid (208) · 🎯 Senior (184) · 🚀 Staff+ (35)
 
@@ -59,7 +59,7 @@
 | **[Databricks](../companies/databricks.md)** | [Design Hit Counter with Variable Time Windows](https://trueinterview.io/questions/design-hit-counter-with-variable-time-windows) | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-hit-counter-with-variable-time-windows) | Sep 2026 |
 | **[Robinhood](../companies/robinhood.md)** / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +13 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +7 | [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Sep 2026 |
-| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | **[Databricks](../companies/databricks.md)** | [Distributed File System](https://trueinterview.io/questions/distributed-file-system) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/distributed-file-system) | Sep 2026 |
 | **[Databricks](../companies/databricks.md)** | [File Encryption Tree Optimization](https://trueinterview.io/questions/file-encryption-tree-optimization) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/file-encryption-tree-optimization) | Sep 2026 |
 | **[Snowflake](../companies/snowflake.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [Find Median from Data Stream](https://trueinterview.io/questions/find-median-from-data-stream) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-median-from-data-stream) | Sep 2026 |

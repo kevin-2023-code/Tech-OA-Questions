@@ -6,11 +6,11 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,115 questions** · 241 from an OA · 384 reported in the last 90 days · 2,115 free to solve
+**2,115 questions** · 240 from an OA · 385 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (471) · 🌱 Mid (1,129) · 🎯 Senior (1,591) · 🚀 Staff+ (671)
+**By level:** 🎓 Intern & New grad (470) · 🌱 Mid (1,129) · 🎯 Senior (1,592) · 🚀 Staff+ (671)
 
-**Companies:** [Meta (208)](../companies/meta.md) · [Amazon (174)](../companies/amazon.md) · [ByteDance (148)](../companies/bytedance.md) · [Google (129)](../companies/google.md) · [Capital One (113)](../companies/capital-one.md) · [Uber (113)](../companies/uber.md) · [Microsoft (80)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (41)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Bloomberg (37)](../companies/bloomberg.md) · [Oracle (36)](../companies/oracle.md)
+**Companies:** [Meta (208)](../companies/meta.md) · [Amazon (175)](../companies/amazon.md) · [ByteDance (148)](../companies/bytedance.md) · [Google (130)](../companies/google.md) · [Capital One (113)](../companies/capital-one.md) · [Uber (113)](../companies/uber.md) · [Microsoft (81)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (51)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (41)](../companies/linkedin.md) · [Anthropic (37)](../companies/anthropic.md) · [Bloomberg (37)](../companies/bloomberg.md) · [Roblox (37)](../companies/roblox.md)
 
 <sub>Page **1** · [2](free-2.md) · [3](free-3.md) · [4](free-4.md) · [5](free-5.md) · [6](free-6.md)</sub>
 
@@ -279,6 +279,7 @@
 | **[Robinhood](../companies/robinhood.md)** / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +13 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design) | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | **[Reddit](../companies/reddit.md)** / [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / +10 | [Design Notification System](https://trueinterview.io/questions/design-a-notification-system-for-reddit) | Onsite | Mid · Senior · Staff+ · Manager | System design | [![Free][f]](https://trueinterview.io/questions/design-a-notification-system-for-reddit) | Sep 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [Airbnb](../companies/airbnb.md) / [Databricks](../companies/databricks.md) / +7 | [Design Slack-like Chat System](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/5d7d8ccc-dacc-4e00-81cb-0b56694fc5c9) | Sep 2026 |
+| **[Amazon](../companies/amazon.md)** / [Confluent](../companies/confluent.md) / [eBay](../companies/ebay.md) / +7 | [Design TinyURL](https://trueinterview.io/questions/design-tinyurl) | Phone | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-tinyurl) | Sep 2026 |
 | **[Citadel](../companies/citadel.md)** | [Discuss a Project You Are Proud Of and How You Work](https://trueinterview.io/questions/discuss-a-project-you-are-proud-of-and-how-you-work) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/discuss-a-project-you-are-proud-of-and-how-you-work) | Sep 2026 |
 | **[Oracle](../companies/oracle.md)** | [Event Ingestion + Top-K Aggregation](https://trueinterview.io/questions/system-design-event-ingestion-topk) | Onsite | Senior | System design | [![Free][f]](https://trueinterview.io/questions/system-design-event-ingestion-topk) | Sep 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Experience / Project Deep-Dive Round](https://trueinterview.io/questions/experience-project-deep-dive) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/experience-project-deep-dive) | Sep 2026 |
@@ -420,6 +421,5 @@
 | **[Amazon](../companies/amazon.md)** | [Mean and Variance Through Maximum Likelihood](https://trueinterview.io/questions/mean-and-variance-through-maximum-likelihood) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/mean-and-variance-through-maximum-likelihood) | Aug 15, 2026 |
 | **[Google](../companies/google.md)** | [Compare Language-Model Post-Training Methods](https://trueinterview.io/questions/compare-language-model-post-training-methods) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-language-model-post-training-methods) | Aug 14, 2026 |
 | **[Google](../companies/google.md)** | [Detect and Prevent Reward Hacking](https://trueinterview.io/questions/detect-and-prevent-reward-hacking) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/detect-and-prevent-reward-hacking) | Aug 14, 2026 |
-| **[Google](../companies/google.md)** | [Explain KL Divergence in Language Models](https://trueinterview.io/questions/explain-kl-divergence-in-language-models) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-kl-divergence-in-language-models) | Aug 14, 2026 |
 
 <sub>Page **1** · [2](free-2.md) · [3](free-3.md) · [4](free-4.md) · [5](free-5.md) · [6](free-6.md)</sub>
