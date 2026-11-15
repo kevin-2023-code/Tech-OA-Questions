@@ -6,7 +6,7 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,693 questions** · 169 from an OA · 400 reported in the last 90 days · 600 free to solve
+**1,693 questions** · 169 from an OA · 400 reported in the last 90 days · 610 free to solve
 
 **By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
 
@@ -121,7 +121,7 @@
 | **[Google](../companies/google.md)** / [Stripe](../companies/stripe.md) | [Match payments to invoices by memo or amount](https://trueinterview.io/questions/match-payments-to-invoices-by-memo-or-amount-2) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/match-payments-to-invoices-by-memo-or-amount-2) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** | [Maximum Concurrent Processes from Intervals](https://trueinterview.io/questions/max-concurrent-processes-sweep-line) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/max-concurrent-processes-sweep-line) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** / [Netflix](../companies/netflix.md) | [Maximum Interval Overlap Count](https://trueinterview.io/questions/maximum-interval-overlap-count) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-interval-overlap-count) | Aug 2026 |
-| **[Meta](../companies/meta.md)** / [ByteDance](../companies/bytedance.md) | [Maximum Unique Character Subset](https://trueinterview.io/questions/ai-coding-max-unique-character-subset) | Onsite | Mid · Senior · Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/ai-coding-max-unique-character-subset) | Aug 2026 |
+| **[Meta](../companies/meta.md)** / [ByteDance](../companies/bytedance.md) | [Maximum Unique Character Subset](https://trueinterview.io/questions/ai-coding-max-unique-character-subset) | Onsite | Mid · Senior · Staff+ | Coding | [![Free][f]](https://trueinterview.io/questions/ai-coding-max-unique-character-subset) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** / [Meta](../companies/meta.md) | [Merge Three Sorted Arrays with Deduplication](https://trueinterview.io/questions/c6b726cd-d319-5469-8ea1-fa90146e850b) | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c6b726cd-d319-5469-8ea1-fa90146e850b) | Aug 2026 |
 | **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) / [Apple](../companies/apple.md) / +14 | [Merge Two Interval Lists](https://trueinterview.io/questions/aaf19257-7725-4e52-8c40-d17ba3fd9390) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/aaf19257-7725-4e52-8c40-d17ba3fd9390) | Aug 2026 |
 | **[Meta](../companies/meta.md)** | [Min Remove to Make Valid Parentheses](https://trueinterview.io/questions/min-remove-to-make-valid-parens) | Phone | Intern · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/min-remove-to-make-valid-parens) | Aug 2026 |
@@ -263,7 +263,7 @@
 | **[Amazon](../companies/amazon.md)** | [Stock Trading Profit Calculator](https://trueinterview.io/questions/f3286655-0c6e-59e7-a316-0de0f93a91e0) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f3286655-0c6e-59e7-a316-0de0f93a91e0) | Jul 2026 |
 | **[Google](../companies/google.md)** | [Streaming Latest-Per-Message Log Processor](https://trueinterview.io/questions/6d6b2135-4b5a-5d62-9d36-a219378d3488) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/6d6b2135-4b5a-5d62-9d36-a219378d3488) | Jul 2026 |
 | **[Google](../companies/google.md)** | [String Decompression with Nested Counts](https://trueinterview.io/questions/string-decompression-nested-counts) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/string-decompression-nested-counts) | Jul 2026 |
-| **[Pinterest](../companies/pinterest.md)** / [Google](../companies/google.md) | [Trie Autocomplete / Prefix Search](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Jul 2026 |
+| **[Pinterest](../companies/pinterest.md)** / [Google](../companies/google.md) | [Trie Autocomplete / Prefix Search](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/trie-autocomplete-prefix-search) | Jul 2026 |
 | **[Apple](../companies/apple.md)** | [Unit Conversion II](https://trueinterview.io/questions/00f63c5f-2290-52e8-bdeb-3514a6c97993) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/00f63c5f-2290-52e8-bdeb-3514a6c97993) | Jul 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Valid Time Combinations](https://trueinterview.io/questions/valid-time-combinations) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/valid-time-combinations) | Jul 2026 |
 | **[Apple](../companies/apple.md)** | [Write a One-Hot SystemVerilog Constraint Without $onehot](https://trueinterview.io/questions/7772306e-c2e1-50b0-b143-ea071affcf0b) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7772306e-c2e1-50b0-b143-ea071affcf0b) | Jul 2026 |

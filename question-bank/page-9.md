@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
+**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,167 free to solve
 
 **By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
@@ -192,11 +192,11 @@
 | **[Scale AI](../companies/scale-ai.md)** | [Distinct Wall Crossing on Number Line](https://trueinterview.io/questions/distinct-wall-crossing-on-number-line) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/distinct-wall-crossing-on-number-line) | Feb 6, 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Evaluate a new ranking model](https://trueinterview.io/questions/evaluate-a-new-ranking-model) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-a-new-ranking-model) | Feb 6, 2026 |
 | **[Apple](../companies/apple.md)** | [Find Median (Oracle Variant)](https://trueinterview.io/questions/find-median-oracle-variant) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-median-oracle-variant) | Feb 6, 2026 |
-| **[Optiver](../companies/optiver.md)** | [Minimum Expected Asset Cost](https://trueinterview.io/questions/minimum-expected-asset-cost) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-expected-asset-cost) | Feb 6, 2026 |
+| **[Optiver](../companies/optiver.md)** | [Minimum Expected Asset Cost](https://trueinterview.io/questions/minimum-expected-asset-cost) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-expected-asset-cost) | Feb 6, 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Poker Hand Game Checker](https://trueinterview.io/questions/poker-hand-game-checker) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/poker-hand-game-checker) | Feb 6, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Refactor Obfuscated C++ Code (Hidden Best-Time-To-Buy-Sell)](https://trueinterview.io/questions/obfuscated-code-refactor) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/obfuscated-code-refactor) | Feb 6, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve peak element and unique word abbreviation](https://trueinterview.io/questions/solve-peak-element-and-unique-word-abbreviation) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-peak-element-and-unique-word-abbreviation) | Feb 6, 2026 |
-| **[Optiver](../companies/optiver.md)** | [Target Stock Portfolio Operations](https://trueinterview.io/questions/target-stock-portfolio-operations) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/target-stock-portfolio-operations) | Feb 6, 2026 |
+| **[Optiver](../companies/optiver.md)** | [Target Stock Portfolio Operations](https://trueinterview.io/questions/target-stock-portfolio-operations) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/target-stock-portfolio-operations) | Feb 6, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Derive Backpropagation for Matrix-Product Layers](https://trueinterview.io/questions/derive-backpropagation-for-matrix-product-layers) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/derive-backpropagation-for-matrix-product-layers) | Feb 5, 2026 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Movement Command Controller](https://trueinterview.io/questions/movement-command-controller) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/movement-command-controller) | Feb 5, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Systems Utility Coding: Temperature Spike, Logs, Brackets](https://trueinterview.io/questions/systems-utility-coding) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/systems-utility-coding) | Feb 5, 2026 |

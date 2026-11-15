@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 483 from an OA · 709 reported in the last 90 days · 1,129 free to solve
+**3,451 questions** · 483 from an OA · 709 reported in the last 90 days · 1,174 free to solve
 
 **By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
@@ -166,7 +166,7 @@
 | **[Google](../companies/google.md)** | [Compute violation rate and flag precision in SQL](https://trueinterview.io/questions/compute-violation-rate-and-flag-precision-in-sql) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-violation-rate-and-flag-precision-in-sql) | — |
 | **[Coinbase](../companies/coinbase.md)** | [Compute wallet-link probabilities, expectation, and conditionals](https://trueinterview.io/questions/compute-wallet-link-probabilities-and-conditionals) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-wallet-link-probabilities-and-conditionals) | — |
 | **[Thumbtack](../companies/thumbtack.md)** | [Compute weighted response rates by job category](https://trueinterview.io/questions/compute-weighted-response-rates-by-job-category) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-weighted-response-rates-by-job-category) | — |
-| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
+| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Construct Winning Sequence](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | — |
 | **[Amazon](../companies/amazon.md)** | [Contrast CNNs and fully connected networks](https://trueinterview.io/questions/contrast-cnns-and-fully-connected-networks) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/contrast-cnns-and-fully-connected-networks) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Contrast FCF vs NI; choose one statement](https://trueinterview.io/questions/contrast-fcf-vs-ni-choose-one-statement) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/contrast-fcf-vs-ni-choose-one-statement) | — |
@@ -327,7 +327,7 @@
 | **[Scale AI](../companies/scale-ai.md)** | [Generate Jailbreak Prompts from Text Inputs Algorithm](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | — |
 | **[Arista](../companies/arista.md)** | [Generate Matrix B](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | — |
 | **[Amazon](../companies/amazon.md)** | [Generate primes up to n efficiently](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Get Max Efficiency](https://trueinterview.io/questions/f17bf4e8-5c3c-440a-8223-2134aa4a4837) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f17bf4e8-5c3c-440a-8223-2134aa4a4837) | — |
 | **[Expedia](../companies/expedia.md)** / [IBM](../companies/ibm.md) | [Get Maximum Efficiency](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Get Maximum Sum of Strengths](https://trueinterview.io/questions/229ffa68-8eb3-41a4-aae7-64d9770c15d1) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/229ffa68-8eb3-41a4-aae7-64d9770c15d1) | — |

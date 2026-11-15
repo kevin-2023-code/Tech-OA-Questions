@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,110 questions** · 351 from an OA · 224 reported in the last 90 days · 310 free to solve
+**1,110 questions** · 351 from an OA · 224 reported in the last 90 days · 324 free to solve
 
 **Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
 
@@ -144,7 +144,7 @@
 | **[Amazon](../companies/amazon.md)** | [Compute array modes with ties and no-mode rule](https://trueinterview.io/questions/compute-array-modes-with-ties-and-no-mode-rule) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-array-modes-with-ties-and-no-mode-rule) | — |
 | **[Pinterest](../companies/pinterest.md)** | [Compute average unique pins per user](https://trueinterview.io/questions/compute-average-unique-pins-per-user) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-average-unique-pins-per-user) | — |
 | **[Uber](../companies/uber.md)** | [Compute maximum concurrent trips from intervals](https://trueinterview.io/questions/compute-maximum-concurrent-trips-from-intervals) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-maximum-concurrent-trips-from-intervals) | — |
-| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
+| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Construct Winning Sequence](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Count Binary Subarrays Hitting a Target Sum](https://trueinterview.io/questions/binary-subarrays-with-sum) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/binary-subarrays-with-sum) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Count Days a Temperature Stays the Maximum](https://trueinterview.io/questions/highest-temperature-span) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/highest-temperature-span) | — |

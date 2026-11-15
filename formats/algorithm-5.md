@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 540 free to solve
+**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 582 free to solve
 
 **By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
@@ -41,11 +41,11 @@
 | **[Microsoft](../companies/microsoft.md)** | [Fill rooms with nearest-gate distance](https://trueinterview.io/questions/fill-rooms-with-nearest-gate-distance) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fill-rooms-with-nearest-gate-distance) | Feb 7, 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Distinct Wall Crossing on Number Line](https://trueinterview.io/questions/distinct-wall-crossing-on-number-line) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/distinct-wall-crossing-on-number-line) | Feb 6, 2026 |
 | **[Apple](../companies/apple.md)** | [Find Median (Oracle Variant)](https://trueinterview.io/questions/find-median-oracle-variant) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-median-oracle-variant) | Feb 6, 2026 |
-| **[Optiver](../companies/optiver.md)** | [Minimum Expected Asset Cost](https://trueinterview.io/questions/minimum-expected-asset-cost) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-expected-asset-cost) | Feb 6, 2026 |
+| **[Optiver](../companies/optiver.md)** | [Minimum Expected Asset Cost](https://trueinterview.io/questions/minimum-expected-asset-cost) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-expected-asset-cost) | Feb 6, 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Poker Hand Game Checker](https://trueinterview.io/questions/poker-hand-game-checker) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/poker-hand-game-checker) | Feb 6, 2026 |
 | **[Citadel](../companies/citadel.md)** | [Refactor Obfuscated C++ Code (Hidden Best-Time-To-Buy-Sell)](https://trueinterview.io/questions/obfuscated-code-refactor) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/obfuscated-code-refactor) | Feb 6, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve peak element and unique word abbreviation](https://trueinterview.io/questions/solve-peak-element-and-unique-word-abbreviation) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-peak-element-and-unique-word-abbreviation) | Feb 6, 2026 |
-| **[Optiver](../companies/optiver.md)** | [Target Stock Portfolio Operations](https://trueinterview.io/questions/target-stock-portfolio-operations) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/target-stock-portfolio-operations) | Feb 6, 2026 |
+| **[Optiver](../companies/optiver.md)** | [Target Stock Portfolio Operations](https://trueinterview.io/questions/target-stock-portfolio-operations) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/target-stock-portfolio-operations) | Feb 6, 2026 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Movement Command Controller](https://trueinterview.io/questions/movement-command-controller) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/movement-command-controller) | Feb 5, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Systems Utility Coding: Temperature Spike, Logs, Brackets](https://trueinterview.io/questions/systems-utility-coding) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/systems-utility-coding) | Feb 5, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +13 | [Merge Intervals](https://trueinterview.io/questions/merge-intervals) | Phone | — | Coding | [![Free][f]](https://trueinterview.io/questions/merge-intervals) | Feb 4, 2026 |

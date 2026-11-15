@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Cybersecurity*.
 
-**79 questions** · 7 from an OA · 7 reported in the last 90 days · 25 free to solve
+**79 questions** · 7 from an OA · 7 reported in the last 90 days · 27 free to solve
 
 **By level:** 🎓 Intern & New grad (14) · 🌱 Mid (58) · 🎯 Senior (47) · 🚀 Staff+ (5)
 
@@ -45,7 +45,7 @@
 | **[Okta](../companies/okta.md)** | [Reverse Substrings Between Each Pair of Parentheses](https://trueinterview.io/questions/reverse-substrings-in-parentheses) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/reverse-substrings-in-parentheses) | Jun 24, 2026 |
 | **[Vanta](../companies/vanta.md)** | [DAU / MAU Internal Analytics System](https://trueinterview.io/questions/dau-mau-analytics-system) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/dau-mau-analytics-system) | Jun 10, 2026 |
 | **[Verkada](../companies/verkada.md)** | [Camera Log Relay Server](https://trueinterview.io/questions/camera-log-relay-server) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/camera-log-relay-server) | Jun 5, 2026 |
-| **[Verkada](../companies/verkada.md)** | [Camera Motion Detection](https://trueinterview.io/questions/camera-motion-detection) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/camera-motion-detection) | Jun 5, 2026 |
+| **[Verkada](../companies/verkada.md)** | [Camera Motion Detection](https://trueinterview.io/questions/camera-motion-detection) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/camera-motion-detection) | Jun 5, 2026 |
 | **[Verkada](../companies/verkada.md)** | [Design Ambient Light Sensor System](https://trueinterview.io/questions/design-ambient-light-sensor-system) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-ambient-light-sensor-system) | Jun 5, 2026 |
 | **[Okta](../companies/okta.md)** | [Array Duplication — O(n) and Memory Trade-offs](https://trueinterview.io/questions/array-deduplication) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/array-deduplication) | Jun 2, 2026 |
 | **[Verkada](../companies/verkada.md)** | [Jumping by Height](https://trueinterview.io/questions/b0999093-eb28-5f5e-a89c-b103e821d914) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b0999093-eb28-5f5e-a89c-b103e821d914) | Jun 2026 |
@@ -75,7 +75,7 @@
 | **[Okta](../companies/okta.md)** | [Build an Auth0-based MCP Server (Hands-on)](https://trueinterview.io/questions/oa-mcp-auth0-server) | OA | New grad | AI coding | [![Practice][p]](https://trueinterview.io/questions/oa-mcp-auth0-server) | Nov 22, 2025 |
 | **[Okta](../companies/okta.md)** | [Dependency Cycle Detection (Deadlock)](https://trueinterview.io/questions/dependency-cycle-detection) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/dependency-cycle-detection) | Nov 5, 2025 |
 | **[Okta](../companies/okta.md)** | [Memory Allocator (Allocate / Free)](https://trueinterview.io/questions/memory-allocator-3) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/memory-allocator-3) | Nov 5, 2025 |
-| **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
+| **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
 | **[Citadel](../companies/citadel.md)** / [Verkada](../companies/verkada.md) | [Tree Diameter](https://trueinterview.io/questions/1553f8b2-f647-5b6c-82c7-e48852add677) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1553f8b2-f647-5b6c-82c7-e48852add677) | Nov 2025 |
 | **[Vanta](../companies/vanta.md)** | [Test Run Status Monitor (Failing → Passing Windows)](https://trueinterview.io/questions/test-status-monitor) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/test-status-monitor) | Jul 31, 2025 |
 | **[Vanta](../companies/vanta.md)** | [Frontend Practical Coding — Work Against a Provided API](https://trueinterview.io/questions/frontend-api-practical) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/frontend-api-practical) | Jul 24, 2025 |

@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 483 from an OA · 709 reported in the last 90 days · 1,129 free to solve
+**3,451 questions** · 483 from an OA · 709 reported in the last 90 days · 1,174 free to solve
 
 **By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
@@ -65,7 +65,7 @@
 | **[Square](../companies/square.md)** | [MotoGP Season Points and Championship Clinch Check](https://trueinterview.io/questions/motogp-season-points-ranking) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/motogp-season-points-ranking) | — |
 | **[Karat](../companies/karat.md)** | [Multi-Part Cipher Encryption and Decryption Challenge](https://trueinterview.io/questions/matrix-transposition-cipher) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transposition-cipher) | — |
 | **[OpenAI](../companies/openai.md)** | [Multiprocessing Debugging for Neural Network Propagation](https://trueinterview.io/questions/a91050eb-ce04-4669-81b0-4219d72e6661) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/a91050eb-ce04-4669-81b0-4219d72e6661) | — |
-| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multistream-reader) | — |
+| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/multistream-reader) | — |
 | **[Square](../companies/square.md)** | [Mutual Like Counts and Best-Friend Recommendation](https://trueinterview.io/questions/likes-count-friend-recommendation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/likes-count-friend-recommendation) | — |
 | **[Yelp](../companies/yelp.md)** / [xAI](../companies/xai.md) | [N-gram Split](https://trueinterview.io/questions/n-gram-split-2) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/n-gram-split-2) | — |
 | **[Google](../companies/google.md)** | [Narrow a confidence interval for a mean](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | — |

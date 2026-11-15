@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 336 from an OA · 587 reported in the last 90 days · 712 free to solve
+**2,526 questions** · 336 from an OA · 587 reported in the last 90 days · 754 free to solve
 
 **Rounds:** 📝 OA (336) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
@@ -59,7 +59,7 @@
 | **[Upstart](../companies/upstart.md)** | [Compute coordinate bounds](https://trueinterview.io/questions/implement-three-assessment-functions-compute-coordinate-bounds) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-three-assessment-functions-compute-coordinate-bounds) | Apr 20, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Find the highest eligible score](https://trueinterview.io/questions/implement-three-assessment-functions-find-the-highest-eligible-score) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-three-assessment-functions-find-the-highest-eligible-score) | Apr 20, 2026 |
 | **[Apple](../companies/apple.md)** | [Flood Fill](https://trueinterview.io/questions/flood-fill) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/flood-fill) | Apr 20, 2026 |
-| **[Coinbase](../companies/coinbase.md)** | [Food Delivery System (Multi-Level Coding)](https://trueinterview.io/questions/food-delivery-system-2) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/food-delivery-system-2) | Apr 20, 2026 |
+| **[Coinbase](../companies/coinbase.md)** | [Food Delivery System (Multi-Level Coding)](https://trueinterview.io/questions/food-delivery-system-2) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/food-delivery-system-2) | Apr 20, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Snowflake](../companies/snowflake.md) | [Merge Two Sorted Lists](https://trueinterview.io/questions/merge-two-sorted-lists) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/merge-two-sorted-lists) | Apr 20, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Move across a server grid efficiently](https://trueinterview.io/questions/implement-three-assessment-functions-move-across-a-server-grid-efficiently) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-three-assessment-functions-move-across-a-server-grid-efficiently) | Apr 20, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Array Generation Service](https://trueinterview.io/questions/lex-largest-string-via-state-flips) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/lex-largest-string-via-state-flips) | Apr 19, 2026 |
@@ -282,7 +282,7 @@
 | **[Apple](../companies/apple.md)** / [Microsoft](../companies/microsoft.md) | [Binary Search Tree Iterator](https://trueinterview.io/questions/binary-search-tree-iterator) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/binary-search-tree-iterator) | Mar 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) / [Meta](../companies/meta.md) | [Binary Tree Longest Consecutive Sequence II](https://trueinterview.io/questions/binary-tree-longest-consecutive-sequence-ii) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-longest-consecutive-sequence-ii) | Mar 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Binary Tree Traversal using Iterative and Recursive Methods](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Mar 2026 |
-| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
+| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
 | **[SoFi](../companies/sofi.md)** | [Build a Search Bar with HTML/CSS (No Framework)](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Mar 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Can a target string be formed using double-sided letter cards (each card used at most once)?](https://trueinterview.io/questions/5ed24cce-5556-420b-922b-69afe32a617d) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/5ed24cce-5556-420b-922b-69afe32a617d) | Mar 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Can Cut All Given Squares From a Rectangle Grid](https://trueinterview.io/questions/8df7409a-9106-435c-8157-bf0c94e6467e) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/8df7409a-9106-435c-8157-bf0c94e6467e) | Mar 2026 |

@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Staff+** loop (≈ L6 / E6 / Principal and above).
 
-**358 questions** · 11 from an OA · 108 reported in the last 90 days · 153 free to solve
+**358 questions** · 11 from an OA · 108 reported in the last 90 days · 154 free to solve
 
 **Rounds:** 📝 OA (11) · 📞 Phone (149) · 🏢 Onsite (224) · 🏠 Take-home (1)
 
@@ -144,7 +144,7 @@
 | **[Gusto](../companies/gusto.md)** | [Fairly Distribute Money With Limits](https://trueinterview.io/questions/15342126-93db-52f6-a234-8f5da3a03fb2) | Phone | Senior · Staff+ | Coding | [![Free][f]](https://trueinterview.io/questions/15342126-93db-52f6-a234-8f5da3a03fb2) | Aug 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Hiring Manager Round — Behavioral & Collaboration](https://trueinterview.io/questions/onsite-hm-behavioral) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/onsite-hm-behavioral) | Aug 2026 |
 | **[Roblox](../companies/roblox.md)** | [HM Behavioral: Traffic Scale & Scope of Past Work](https://trueinterview.io/questions/behavioral-hm-traffic-and-scope) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/behavioral-hm-traffic-and-scope) | Aug 2026 |
-| **[Meta](../companies/meta.md)** / [ByteDance](../companies/bytedance.md) | [Maximum Unique Character Subset](https://trueinterview.io/questions/ai-coding-max-unique-character-subset) | Onsite | Mid · Senior · Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/ai-coding-max-unique-character-subset) | Aug 2026 |
+| **[Meta](../companies/meta.md)** / [ByteDance](../companies/bytedance.md) | [Maximum Unique Character Subset](https://trueinterview.io/questions/ai-coding-max-unique-character-subset) | Onsite | Mid · Senior · Staff+ | Coding | [![Free][f]](https://trueinterview.io/questions/ai-coding-max-unique-character-subset) | Aug 2026 |
 | **[Stripe](../companies/stripe.md)** | [Metric Counter Library](https://trueinterview.io/questions/metric-counter-library) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/metric-counter-library) | Aug 2026 |
 | **[Lyft](../companies/lyft.md)** / [ByteDance](../companies/bytedance.md) / [Meta](../companies/meta.md) | [Minimum Window Substring](https://trueinterview.io/questions/minimum-window-substring) | Phone | Mid · Senior · Staff+ | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-window-substring) | Aug 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Nearest Supply Point in a Map](https://trueinterview.io/questions/2d464101-c921-5548-8f3e-508ad1f9c109) | Phone | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/2d464101-c921-5548-8f3e-508ad1f9c109) | Aug 2026 |

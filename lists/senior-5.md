@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,059 questions** · 252 from an OA · 740 reported in the last 90 days · 1,592 free to solve
+**4,059 questions** · 252 from an OA · 740 reported in the last 90 days · 1,626 free to solve
 
 **By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
@@ -361,7 +361,7 @@
 | **[Meta](../companies/meta.md)** | [Arithmetic Expression Evaluator (Limited Operators)](https://trueinterview.io/questions/ddaa35f9-b880-41bb-bcd4-e6f0bac02b2c) | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ddaa35f9-b880-41bb-bcd4-e6f0bac02b2c) | Mar 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Basic Calculator III](https://trueinterview.io/questions/basic-calculator-4) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/basic-calculator-4) | Mar 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Binary Tree Traversal using Iterative and Recursive Methods](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Mar 2026 |
-| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
+| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
 | **[SoFi](../companies/sofi.md)** | [Build a Search Bar with HTML/CSS (No Framework)](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Mar 2026 |
 | **[Tesla](../companies/tesla.md)** | [Burning a Binary Tree (Time to Burn Entire Tree)](https://trueinterview.io/questions/19d7abba-9f7c-4acd-ab07-797730cfba83) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/19d7abba-9f7c-4acd-ab07-797730cfba83) | Mar 2026 |
 | **[Meta](../companies/meta.md)** | [Calculator with plus, times, and power](https://trueinterview.io/questions/45133f21-4ced-4f5a-957f-356543eba0d3) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/45133f21-4ced-4f5a-957f-356543eba0d3) | Mar 2026 |

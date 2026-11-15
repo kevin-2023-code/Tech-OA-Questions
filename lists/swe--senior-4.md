@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,493 questions** · 165 from an OA · 588 reported in the last 90 days · 717 free to solve
+**2,493 questions** · 165 from an OA · 588 reported in the last 90 days · 750 free to solve
 
 **Rounds:** 📝 OA (165) · 📞 Phone (1,298) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
@@ -38,7 +38,7 @@
 | **[Snowflake](../companies/snowflake.md)** | [Document Predicate Search Engine](https://trueinterview.io/questions/document-predicate-search-engine) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/document-predicate-search-engine) | Apr 20, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Find the highest eligible score](https://trueinterview.io/questions/implement-three-assessment-functions-find-the-highest-eligible-score) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-three-assessment-functions-find-the-highest-eligible-score) | Apr 20, 2026 |
 | **[Apple](../companies/apple.md)** | [Flood Fill](https://trueinterview.io/questions/flood-fill) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/flood-fill) | Apr 20, 2026 |
-| **[Coinbase](../companies/coinbase.md)** | [Food Delivery System (Multi-Level Coding)](https://trueinterview.io/questions/food-delivery-system-2) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/food-delivery-system-2) | Apr 20, 2026 |
+| **[Coinbase](../companies/coinbase.md)** | [Food Delivery System (Multi-Level Coding)](https://trueinterview.io/questions/food-delivery-system-2) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/food-delivery-system-2) | Apr 20, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Snowflake](../companies/snowflake.md) | [Merge Two Sorted Lists](https://trueinterview.io/questions/merge-two-sorted-lists) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/merge-two-sorted-lists) | Apr 20, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Move across a server grid efficiently](https://trueinterview.io/questions/implement-three-assessment-functions-move-across-a-server-grid-efficiently) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-three-assessment-functions-move-across-a-server-grid-efficiently) | Apr 20, 2026 |
 | **[Okta](../companies/okta.md)** | [Validate IPv4 Addresses in an Array](https://trueinterview.io/questions/ipv4-validation) | Phone · Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ipv4-validation) | Apr 20, 2026 |
@@ -294,7 +294,7 @@
 | **[Meta](../companies/meta.md)** | [Arithmetic Expression Evaluator (Limited Operators)](https://trueinterview.io/questions/ddaa35f9-b880-41bb-bcd4-e6f0bac02b2c) | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ddaa35f9-b880-41bb-bcd4-e6f0bac02b2c) | Mar 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Basic Calculator III](https://trueinterview.io/questions/basic-calculator-4) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/basic-calculator-4) | Mar 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Binary Tree Traversal using Iterative and Recursive Methods](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Mar 2026 |
-| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
+| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
 | **[SoFi](../companies/sofi.md)** | [Build a Search Bar with HTML/CSS (No Framework)](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Mar 2026 |
 | **[Tesla](../companies/tesla.md)** | [Burning a Binary Tree (Time to Burn Entire Tree)](https://trueinterview.io/questions/19d7abba-9f7c-4acd-ab07-797730cfba83) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/19d7abba-9f7c-4acd-ab07-797730cfba83) | Mar 2026 |
 | **[Meta](../companies/meta.md)** | [Calculator with plus, times, and power](https://trueinterview.io/questions/45133f21-4ced-4f5a-957f-356543eba0d3) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/45133f21-4ced-4f5a-957f-356543eba0d3) | Mar 2026 |

@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,059 questions** · 252 from an OA · 740 reported in the last 90 days · 1,592 free to solve
+**4,059 questions** · 252 from an OA · 740 reported in the last 90 days · 1,626 free to solve
 
 **By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
@@ -26,7 +26,7 @@
 | **[Scale AI](../companies/scale-ai.md)** | [Generate Jailbreak Prompts from Text Inputs Algorithm](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | — |
 | **[Arista](../companies/arista.md)** | [Generate Matrix B](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | — |
 | **[Amazon](../companies/amazon.md)** | [Generate primes up to n efficiently](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
 | **[Karat](../companies/karat.md)** | [Geo-Localized Multilingual News Push Platform](https://trueinterview.io/questions/multi-country-localized-news-push) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/multi-country-localized-news-push) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Get Max Efficiency](https://trueinterview.io/questions/f17bf4e8-5c3c-440a-8223-2134aa4a4837) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f17bf4e8-5c3c-440a-8223-2134aa4a4837) | — |
 | **[Expedia](../companies/expedia.md)** / [IBM](../companies/ibm.md) | [Get Maximum Efficiency](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | — |
@@ -213,7 +213,7 @@
 | **[Karat](../companies/karat.md)** | [Moving Freezer Analytics From Cloud to an Offline Microcontroller](https://trueinterview.io/questions/freezer-cloud-to-microcontroller) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/freezer-cloud-to-microcontroller) | — |
 | **[Karat](../companies/karat.md)** | [Multi-Part Cipher Encryption and Decryption Challenge](https://trueinterview.io/questions/matrix-transposition-cipher) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transposition-cipher) | — |
 | **[OpenAI](../companies/openai.md)** | [Multiprocessing Debugging for Neural Network Propagation](https://trueinterview.io/questions/a91050eb-ce04-4669-81b0-4219d72e6661) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/a91050eb-ce04-4669-81b0-4219d72e6661) | — |
-| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multistream-reader) | — |
+| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/multistream-reader) | — |
 | **[Square](../companies/square.md)** | [Mutual Like Counts and Best-Friend Recommendation](https://trueinterview.io/questions/likes-count-friend-recommendation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/likes-count-friend-recommendation) | — |
 | **[Yelp](../companies/yelp.md)** / [xAI](../companies/xai.md) | [N-gram Split](https://trueinterview.io/questions/n-gram-split-2) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/n-gram-split-2) | — |
 | **[Google](../companies/google.md)** | [Narrow a confidence interval for a mean](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | — |

@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,059 questions** · 252 from an OA · 740 reported in the last 90 days · 1,592 free to solve
+**4,059 questions** · 252 from an OA · 740 reported in the last 90 days · 1,626 free to solve
 
 **By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
@@ -24,7 +24,7 @@
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
 | **[Amazon](../companies/amazon.md)** | [Window Function to Rank Within Group](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | — |
-| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/windowed-key-value-store) | — |
+| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/windowed-key-value-store) | — |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** / [Google](../companies/google.md) | [Winner in a Dot Grid Game](https://trueinterview.io/questions/winner-in-a-dot-grid-game-2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/winner-in-a-dot-grid-game-2) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Word Compression](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | — |
 | **[Square](../companies/square.md)** | [Word Rewriter That Keeps Punctuation in Place](https://trueinterview.io/questions/pig-latin-word-transform) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/pig-latin-word-transform) | — |

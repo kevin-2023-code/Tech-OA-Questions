@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 483 from an OA · 709 reported in the last 90 days · 1,129 free to solve
+**3,451 questions** · 483 from an OA · 709 reported in the last 90 days · 1,174 free to solve
 
 **By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
@@ -260,7 +260,7 @@
 | **[Apple](../companies/apple.md)** / [Microsoft](../companies/microsoft.md) | [Binary Search Tree Iterator](https://trueinterview.io/questions/binary-search-tree-iterator) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/binary-search-tree-iterator) | Mar 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) / [Meta](../companies/meta.md) | [Binary Tree Longest Consecutive Sequence II](https://trueinterview.io/questions/binary-tree-longest-consecutive-sequence-ii) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-longest-consecutive-sequence-ii) | Mar 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Binary Tree Traversal using Iterative and Recursive Methods](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Mar 2026 |
-| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
+| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
 | **[Netflix](../companies/netflix.md)** | [Bucket Users by Movie Completion Percentage from an Event Stream](https://trueinterview.io/questions/60956877-012c-4640-b2a1-e6dad3baacbf) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/60956877-012c-4640-b2a1-e6dad3baacbf) | Mar 2026 |
 | **[SoFi](../companies/sofi.md)** | [Build a Search Bar with HTML/CSS (No Framework)](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Mar 2026 |
 | **[Snapchat](../companies/snapchat.md)** | [Can a target string be formed using double-sided letter cards (each card used at most once)?](https://trueinterview.io/questions/5ed24cce-5556-420b-922b-69afe32a617d) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/5ed24cce-5556-420b-922b-69afe32a617d) | Mar 2026 |

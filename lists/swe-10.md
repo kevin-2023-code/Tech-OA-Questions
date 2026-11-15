@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,928 questions** · 586 from an OA · 921 reported in the last 90 days · 1,075 free to solve
+**3,928 questions** · 586 from an OA · 921 reported in the last 90 days · 1,122 free to solve
 
 **By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
@@ -103,7 +103,7 @@
 | **[Amazon](../companies/amazon.md)** | [Game Shop Design](https://trueinterview.io/questions/0f33f62b-5a8a-40d0-a6bb-c637b20b3cdf) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/0f33f62b-5a8a-40d0-a6bb-c637b20b3cdf) | — |
 | **[Arista](../companies/arista.md)** | [Generate Matrix B](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | — |
 | **[Amazon](../companies/amazon.md)** | [Generate primes up to n efficiently](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
 | **[Karat](../companies/karat.md)** | [Geo-Localized Multilingual News Push Platform](https://trueinterview.io/questions/multi-country-localized-news-push) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/multi-country-localized-news-push) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Get Max Efficiency](https://trueinterview.io/questions/f17bf4e8-5c3c-440a-8223-2134aa4a4837) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f17bf4e8-5c3c-440a-8223-2134aa4a4837) | — |
 | **[Expedia](../companies/expedia.md)** / [IBM](../companies/ibm.md) | [Get Maximum Efficiency](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | — |
@@ -213,7 +213,7 @@
 | **[Salesforce](../companies/salesforce.md)** | [Most Visited Marker in Sprint Training](https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f) | — |
 | **[Square](../companies/square.md)** | [MotoGP Season Points and Championship Clinch Check](https://trueinterview.io/questions/motogp-season-points-ranking) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/motogp-season-points-ranking) | — |
 | **[Karat](../companies/karat.md)** | [Multi-Part Cipher Encryption and Decryption Challenge](https://trueinterview.io/questions/matrix-transposition-cipher) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transposition-cipher) | — |
-| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multistream-reader) | — |
+| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/multistream-reader) | — |
 | **[Square](../companies/square.md)** | [Mutual Like Counts and Best-Friend Recommendation](https://trueinterview.io/questions/likes-count-friend-recommendation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/likes-count-friend-recommendation) | — |
 | **[Yelp](../companies/yelp.md)** / [xAI](../companies/xai.md) | [N-gram Split](https://trueinterview.io/questions/n-gram-split-2) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/n-gram-split-2) | — |
 | **[Tradedesk](../companies/tradedesk.md)** | [Narrative Words](https://trueinterview.io/questions/9ad96e3a-7f96-4ddb-bcbb-724f098ce6e9) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/9ad96e3a-7f96-4ddb-bcbb-724f098ce6e9) | — |
@@ -346,7 +346,7 @@
 | **[Lyft](../companies/lyft.md)** | [Web Crawler with Communication Constraint](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | Onsite | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | — |
 | **[Karat](../companies/karat.md)** | [Why Sharding Users by First Letter Fails](https://trueinterview.io/questions/photo-sharding-by-alphabet) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/photo-sharding-by-alphabet) | — |
 | **[Confluent](../companies/confluent.md)** | [Wildcard Matching](https://trueinterview.io/questions/wildcard-matching) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/wildcard-matching) | — |
-| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/windowed-key-value-store) | — |
+| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/windowed-key-value-store) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Word Compression](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | — |
 | **[Square](../companies/square.md)** | [Word Rewriter That Keeps Punctuation in Place](https://trueinterview.io/questions/pig-latin-word-transform) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/pig-latin-word-transform) | — |
 | **[PayPal](../companies/paypal.md)** | [Word Search in 2D Grid with Diagonal Moves](https://trueinterview.io/questions/2368bd69-e229-442c-ba36-d37839e9d530) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/2368bd69-e229-442c-ba36-d37839e9d530) | — |

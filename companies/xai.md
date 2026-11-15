@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Dasher Payment Model](https://trueinterview.io/questions/225122e6-6cec-454c-b592-53715cc6ab81)<br><sub>also [DoorDash](../companies/doordash.md)</sub> | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/225122e6-6cec-454c-b592-53715cc6ab81) | 🆕 Oct 2026 |
+| [Dasher Payment Model](https://trueinterview.io/questions/225122e6-6cec-454c-b592-53715cc6ab81)<br><sub>also [DoorDash](../companies/doordash.md)</sub> | Phone · Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/225122e6-6cec-454c-b592-53715cc6ab81) | 🆕 Oct 2026 |
 | [Design ChatGPT](https://trueinterview.io/questions/design-chatgpt)<br><sub>also [Amazon](../companies/amazon.md) / [Anthropic](../companies/anthropic.md) / [OpenAI](../companies/openai.md)</sub> | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-chatgpt) | 🆕 Oct 2026 |
 | [Weighted LRU Cache](https://trueinterview.io/questions/weighted-lru-cache-2)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / +6</sub> | Phone | Intern · New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/weighted-lru-cache-2) | 🆕 Oct 2026 |
 | [Design a Collaborative Document Editor](https://trueinterview.io/questions/design-a-collaborative-document-editor) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-collaborative-document-editor) | Sep 15, 2026 |

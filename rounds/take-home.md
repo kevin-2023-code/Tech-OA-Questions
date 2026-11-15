@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**12 questions** · 5 from an OA · 1 reported in the last 90 days · 3 free to solve
+**12 questions** · 5 from an OA · 1 reported in the last 90 days · 4 free to solve
 
 **By level:** 🎓 Intern & New grad (5) · 🌱 Mid (6) · 🎯 Senior (9) · 🚀 Staff+ (1)
 
@@ -21,7 +21,7 @@
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
 | **[Capital One](../companies/capital-one.md)** | [NYC Green Taxi Data Science Challenge](https://trueinterview.io/questions/nyc-green-taxi-data-science-challenge) | Take-home | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/nyc-green-taxi-data-science-challenge) | Aug 28, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Full-Stack AI-Pairing Assessment](https://trueinterview.io/questions/full-stack-ai-assessment) | OA · Take-home | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/full-stack-ai-assessment) | Jun 22, 2026 |
-| **[Optiver](../companies/optiver.md)** | [Build Binary Tree from Edges / S-Expression](https://trueinterview.io/questions/binary-tree-from-edges) | OA · Take-home | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-from-edges) | Jun 15, 2026 |
+| **[Optiver](../companies/optiver.md)** | [Build Binary Tree from Edges / S-Expression](https://trueinterview.io/questions/binary-tree-from-edges) | OA · Take-home | New grad · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/binary-tree-from-edges) | Jun 15, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Mechanistic Interpretability Take-Home — Sample-Aspect Double Descent](https://trueinterview.io/questions/mech-interp-take-home) | Take-home | Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/mech-interp-take-home) | Apr 19, 2026 |
 | **[xAI](../companies/xai.md)** | [In-Memory Database — Levels 1–4 (TTL + Backup/Restore)](https://trueinterview.io/questions/in-memory-database-ttl-backup) | OA · Take-home | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/in-memory-database-ttl-backup) | Apr 1, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Code Review of a Python Repository](https://trueinterview.io/questions/code-review-oa) | OA · Take-home | New grad | AI coding | [![Practice][p]](https://trueinterview.io/questions/code-review-oa) | Mar 5, 2026 |

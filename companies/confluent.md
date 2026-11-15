@@ -50,4 +50,4 @@
 | [Monsters Battle](https://trueinterview.io/questions/monsters-battle) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/monsters-battle) | — |
 | [Rank Songs by Popularity](https://trueinterview.io/questions/a849f910-580a-4423-ad79-2a2524364c49)<br><sub>also [Expedia](../companies/expedia.md)</sub> | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a849f910-580a-4423-ad79-2a2524364c49) | — |
 | [Wildcard Matching](https://trueinterview.io/questions/wildcard-matching) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/wildcard-matching) | — |
-| [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/windowed-key-value-store) | — |
+| [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/windowed-key-value-store) | — |

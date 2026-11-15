@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,115 questions** · 10 from an OA · 593 reported in the last 90 days · 1,209 free to solve
+**3,115 questions** · 10 from an OA · 593 reported in the last 90 days · 1,239 free to solve
 
 **By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,022) · 🎯 Senior (2,214) · 🚀 Staff+ (573)
 
@@ -161,7 +161,7 @@
 | **[Karat](../companies/karat.md)** | [Moving Freezer Analytics From Cloud to an Offline Microcontroller](https://trueinterview.io/questions/freezer-cloud-to-microcontroller) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/freezer-cloud-to-microcontroller) | — |
 | **[Karat](../companies/karat.md)** | [Multi-Part Cipher Encryption and Decryption Challenge](https://trueinterview.io/questions/matrix-transposition-cipher) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transposition-cipher) | — |
 | **[OpenAI](../companies/openai.md)** | [Multiprocessing Debugging for Neural Network Propagation](https://trueinterview.io/questions/a91050eb-ce04-4669-81b0-4219d72e6661) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/a91050eb-ce04-4669-81b0-4219d72e6661) | — |
-| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multistream-reader) | — |
+| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/multistream-reader) | — |
 | **[Square](../companies/square.md)** | [Mutual Like Counts and Best-Friend Recommendation](https://trueinterview.io/questions/likes-count-friend-recommendation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/likes-count-friend-recommendation) | — |
 | **[Yelp](../companies/yelp.md)** / [xAI](../companies/xai.md) | [N-gram Split](https://trueinterview.io/questions/n-gram-split-2) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/n-gram-split-2) | — |
 | **[Google](../companies/google.md)** | [Narrow a confidence interval for a mean](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | — |
@@ -299,7 +299,7 @@
 | **[Amazon](../companies/amazon.md)** | [Verify subscriptions and analyze orders with SQL/Python](https://trueinterview.io/questions/verify-subscriptions-and-analyze-orders-with-sql-python) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/verify-subscriptions-and-analyze-orders-with-sql-python) | — |
 | **[Karat](../companies/karat.md)** | [Why Sharding Users by First Letter Fails](https://trueinterview.io/questions/photo-sharding-by-alphabet) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/photo-sharding-by-alphabet) | — |
 | **[Confluent](../companies/confluent.md)** | [Wildcard Matching](https://trueinterview.io/questions/wildcard-matching) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/wildcard-matching) | — |
-| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/windowed-key-value-store) | — |
+| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/windowed-key-value-store) | — |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** / [Google](../companies/google.md) | [Winner in a Dot Grid Game](https://trueinterview.io/questions/winner-in-a-dot-grid-game-2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/winner-in-a-dot-grid-game-2) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Word Compression](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | — |
 | **[Square](../companies/square.md)** | [Word Rewriter That Keeps Punctuation in Place](https://trueinterview.io/questions/pig-latin-word-transform) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/pig-latin-word-transform) | — |

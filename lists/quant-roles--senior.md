@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**128 questions** · 22 from an OA · 27 reported in the last 90 days · 62 free to solve
+**128 questions** · 22 from an OA · 27 reported in the last 90 days · 63 free to solve
 
 **Rounds:** 📝 OA (22) · 📞 Phone (79) · 🏢 Onsite (31) · 🏠 Take-home (1)
 
@@ -69,7 +69,7 @@
 | **[Voleon](../companies/voleon.md)** | [Bound R-Squared for Individual and Combined OLS Regressions](https://trueinterview.io/questions/bound-r-squared-for-individual-and-combined-ols-regressions) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/bound-r-squared-for-individual-and-combined-ols-regressions) | Jun 27, 2026 |
 | **[Voleon](../companies/voleon.md)** | [Reason About Train and Test Loss Under Regularization and More Data](https://trueinterview.io/questions/reason-about-train-and-test-loss-under-regularization-and-more-data) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/reason-about-train-and-test-loss-under-regularization-and-more-data) | Jun 27, 2026 |
 | **[Voleon](../companies/voleon.md)** | [Row and Column Sums: Square Matrices and Nilpotence](https://trueinterview.io/questions/row-and-column-sums-square-matrices-and-nilpotence) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/row-and-column-sums-square-matrices-and-nilpotence) | Jun 27, 2026 |
-| **[Optiver](../companies/optiver.md)** | [Build Binary Tree from Edges / S-Expression](https://trueinterview.io/questions/binary-tree-from-edges) | OA · Take-home | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-from-edges) | Jun 15, 2026 |
+| **[Optiver](../companies/optiver.md)** | [Build Binary Tree from Edges / S-Expression](https://trueinterview.io/questions/binary-tree-from-edges) | OA · Take-home | New grad · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/binary-tree-from-edges) | Jun 15, 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** / [Two Sigma](../companies/two-sigma.md) | [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/exchange-order-matching-engine) | Jun 2026 |
 | **[Citadel](../companies/citadel.md)** | [HFT Onsite Round 3 — Sort Complexity + Linux Fundamentals + tail(n) Design](https://trueinterview.io/questions/citadel-hft-onsite-fundamentals) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/citadel-hft-onsite-fundamentals) | May 7, 2026 |
 | **[Two Sigma](../companies/two-sigma.md)** | [QR Statistics / Domain Knowledge Oral](https://trueinterview.io/questions/qr-statistics-domain-oral) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/qr-statistics-domain-oral) | May 2026 |

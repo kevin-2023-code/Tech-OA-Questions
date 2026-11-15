@@ -6,7 +6,7 @@
 
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,495 questions** · 495 from an OA · 278 reported in the last 90 days · 470 free to solve
+**1,495 questions** · 495 from an OA · 278 reported in the last 90 days · 489 free to solve
 
 **By role:** 💻 Software Engineering (1,110) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
 
@@ -239,7 +239,7 @@
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Communications Handler (CommsHandler)](https://trueinterview.io/questions/communications-handler) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/communications-handler) | Nov 4, 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Fun With Anagrams (Deduplicate Anagrams)](https://trueinterview.io/questions/fun-with-anagrams-dedup) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/fun-with-anagrams-dedup) | Nov 4, 2025 |
 | **[IMC](../companies/imc.md)** | [Analyze time complexity and threading trade-offs](https://trueinterview.io/questions/analyze-time-complexity-and-threading-trade-offs) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-time-complexity-and-threading-trade-offs) | Nov 3, 2025 |
-| **[Optiver](../companies/optiver.md)** | [Stock Transaction Sequence Counting (Catalan / DP)](https://trueinterview.io/questions/stock-transaction-counting) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/stock-transaction-counting) | Nov 3, 2025 |
+| **[Optiver](../companies/optiver.md)** | [Stock Transaction Sequence Counting (Catalan / DP)](https://trueinterview.io/questions/stock-transaction-counting) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/stock-transaction-counting) | Nov 3, 2025 |
 | **[Meta](../companies/meta.md)** | [Longest balanced subarray](https://trueinterview.io/questions/find-balanced-subarray-and-increasing-tree-path-longest-balanced-subarray-0-1) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-balanced-subarray-and-increasing-tree-path-longest-balanced-subarray-0-1) | Nov 2, 2025 |
 | **[Meta](../companies/meta.md)** | [Find K-th Largest and Longest Vacation](https://trueinterview.io/questions/find-k-th-largest-and-longest-vacation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-k-th-largest-and-longest-vacation) | Nov 1, 2025 |
 | **[Anthropic](../companies/anthropic.md)** | [Implement a Function 'get_when' in an In-Memory Database](https://trueinterview.io/questions/b6750541-51ba-4dfa-93b2-568a0c81515b) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b6750541-51ba-4dfa-93b2-568a0c81515b) | Nov 2025 |

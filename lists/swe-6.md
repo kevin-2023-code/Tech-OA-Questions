@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,928 questions** · 586 from an OA · 921 reported in the last 90 days · 1,075 free to solve
+**3,928 questions** · 586 from an OA · 921 reported in the last 90 days · 1,122 free to solve
 
 **By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
@@ -380,7 +380,7 @@
 | **[Apple](../companies/apple.md)** / [Microsoft](../companies/microsoft.md) | [Binary Search Tree Iterator](https://trueinterview.io/questions/binary-search-tree-iterator) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/binary-search-tree-iterator) | Mar 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) / [Meta](../companies/meta.md) | [Binary Tree Longest Consecutive Sequence II](https://trueinterview.io/questions/binary-tree-longest-consecutive-sequence-ii) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-longest-consecutive-sequence-ii) | Mar 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Binary Tree Traversal using Iterative and Recursive Methods](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Mar 2026 |
-| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
+| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
 | **[SoFi](../companies/sofi.md)** | [Build a Search Bar with HTML/CSS (No Framework)](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/41ece47c-96fe-4b5b-b5ce-c093234fdc1d) | Mar 2026 |
 | **[Tesla](../companies/tesla.md)** | [Burning a Binary Tree (Time to Burn Entire Tree)](https://trueinterview.io/questions/19d7abba-9f7c-4acd-ab07-797730cfba83) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/19d7abba-9f7c-4acd-ab07-797730cfba83) | Mar 2026 |
 | **[Meta](../companies/meta.md)** | [Calculator with plus, times, and power](https://trueinterview.io/questions/45133f21-4ced-4f5a-957f-356543eba0d3) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/45133f21-4ced-4f5a-957f-356543eba0d3) | Mar 2026 |

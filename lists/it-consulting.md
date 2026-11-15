@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *IT services & consulting*.
 
-**45 questions** · 24 from an OA · 13 reported in the last 90 days · 20 free to solve
+**45 questions** · 24 from an OA · 13 reported in the last 90 days · 21 free to solve
 
 **By level:** 🎓 Intern & New grad (28) · 🌱 Mid (26) · 🎯 Senior (11) · 🚀 Staff+ (2)
 
@@ -36,7 +36,7 @@
 | **[IBM](../companies/ibm.md)** | [Sum of XOR Values Over All Array Pairs](https://trueinterview.io/questions/05a3f338-fc03-5eac-9ba5-80a8b11965b1) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/05a3f338-fc03-5eac-9ba5-80a8b11965b1) | Sep 2026 |
 | **[Citadel](../companies/citadel.md)** / [IBM](../companies/ibm.md) / [Oracle](../companies/oracle.md) | [Token Expiry and Reset Management Problem](https://trueinterview.io/questions/847cd959-ce43-4a47-a335-5a919aa91579) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/847cd959-ce43-4a47-a335-5a919aa91579) | Sep 2026 |
 | **[IBM](../companies/ibm.md)** | [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Aug 27, 2026 |
-| **[Expedia](../companies/expedia.md)** / [IBM](../companies/ibm.md) | [Card Packets with Identical Distribution](https://trueinterview.io/questions/card-packets-with-identical-distribution) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/card-packets-with-identical-distribution) | May 30, 2026 |
+| **[Expedia](../companies/expedia.md)** / [IBM](../companies/ibm.md) | [Card Packets with Identical Distribution](https://trueinterview.io/questions/card-packets-with-identical-distribution) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/card-packets-with-identical-distribution) | May 30, 2026 |
 | **[IBM](../companies/ibm.md)** | [Count 3^x * 5^y Numbers and Decreasing Subarrays](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | Apr 25, 2026 |
 | **[IBM](../companies/ibm.md)** | [Count strictly decreasing-by-1 subarrays of length at least 2](https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16) | Apr 2026 |
 | **[Salesforce](../companies/salesforce.md)** / [IBM](../companies/ibm.md) | [Maximum Number of Palindromic Strings](https://trueinterview.io/questions/maximum-palindromic-strings) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/maximum-palindromic-strings) | Mar 19, 2026 |

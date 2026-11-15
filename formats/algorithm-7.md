@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 540 free to solve
+**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 582 free to solve
 
 **By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
@@ -139,7 +139,7 @@
 | **[Square](../companies/square.md)** | [MotoGP Season Points and Championship Clinch Check](https://trueinterview.io/questions/motogp-season-points-ranking) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/motogp-season-points-ranking) | — |
 | **[Karat](../companies/karat.md)** | [Multi-Part Cipher Encryption and Decryption Challenge](https://trueinterview.io/questions/matrix-transposition-cipher) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transposition-cipher) | — |
 | **[OpenAI](../companies/openai.md)** | [Multiprocessing Debugging for Neural Network Propagation](https://trueinterview.io/questions/a91050eb-ce04-4669-81b0-4219d72e6661) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/a91050eb-ce04-4669-81b0-4219d72e6661) | — |
-| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multistream-reader) | — |
+| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/multistream-reader) | — |
 | **[Square](../companies/square.md)** | [Mutual Like Counts and Best-Friend Recommendation](https://trueinterview.io/questions/likes-count-friend-recommendation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/likes-count-friend-recommendation) | — |
 | **[Yelp](../companies/yelp.md)** / [xAI](../companies/xai.md) | [N-gram Split](https://trueinterview.io/questions/n-gram-split-2) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/n-gram-split-2) | — |
 | **[Tradedesk](../companies/tradedesk.md)** | [Narrative Words](https://trueinterview.io/questions/9ad96e3a-7f96-4ddb-bcbb-724f098ce6e9) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/9ad96e3a-7f96-4ddb-bcbb-724f098ce6e9) | — |
@@ -224,7 +224,7 @@
 | **[Block](../companies/block.md)** | [Tournament Progression Chart with JavaScript Simulation and UI](https://trueinterview.io/questions/5d30d8fe-838b-4c5a-9e01-a47461a797fc) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5d30d8fe-838b-4c5a-9e01-a47461a797fc) | — |
 | **[Boston Consulting Group](../companies/boston-consulting-group.md)** | [Transform and aggregate messy event data](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | — |
 | **[Onemain Financial](../companies/onemain-financial.md)** | [Transform clickstream with pandas sessionization](https://trueinterview.io/questions/transform-clickstream-with-pandas-sessionization) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/transform-clickstream-with-pandas-sessionization) | — |
-| **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Travese and Merge Two N-ary Trees](https://trueinterview.io/questions/642b9c47-c6ed-43dc-863d-112f6426db92) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/642b9c47-c6ed-43dc-863d-112f6426db92) | — |
+| **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Travese and Merge Two N-ary Trees](https://trueinterview.io/questions/642b9c47-c6ed-43dc-863d-112f6426db92) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/642b9c47-c6ed-43dc-863d-112f6426db92) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Tree Levels After Node Deletions](https://trueinterview.io/questions/tree-levels-after-node-deletions) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tree-levels-after-node-deletions) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Two-Basket Fruit Picking Along a Tree Row](https://trueinterview.io/questions/fruit-into-baskets) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/fruit-into-baskets) | — |
 | **[Square](../companies/square.md)** | [Two-Player Ball Throwing Game Simulation](https://trueinterview.io/questions/ball-throwing-turn-probability) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ball-throwing-turn-probability) | — |

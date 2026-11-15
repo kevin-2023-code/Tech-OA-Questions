@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,493 questions** · 165 from an OA · 588 reported in the last 90 days · 717 free to solve
+**2,493 questions** · 165 from an OA · 588 reported in the last 90 days · 750 free to solve
 
 **Rounds:** 📝 OA (165) · 📞 Phone (1,298) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
@@ -111,7 +111,7 @@
 | **[Lyft](../companies/lyft.md)** | [Web Crawler with Communication Constraint](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | Onsite | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | — |
 | **[Karat](../companies/karat.md)** | [Why Sharding Users by First Letter Fails](https://trueinterview.io/questions/photo-sharding-by-alphabet) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/photo-sharding-by-alphabet) | — |
 | **[Confluent](../companies/confluent.md)** | [Wildcard Matching](https://trueinterview.io/questions/wildcard-matching) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/wildcard-matching) | — |
-| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/windowed-key-value-store) | — |
+| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/windowed-key-value-store) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Word Compression](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | — |
 | **[Square](../companies/square.md)** | [Word Rewriter That Keeps Punctuation in Place](https://trueinterview.io/questions/pig-latin-word-transform) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/pig-latin-word-transform) | — |
 | **[PayPal](../companies/paypal.md)** | [Word Search in 2D Grid with Diagonal Moves](https://trueinterview.io/questions/2368bd69-e229-442c-ba36-d37839e9d530) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/2368bd69-e229-442c-ba36-d37839e9d530) | — |

@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Backend Engineer** role.
 
-**683 questions** · 49 from an OA · 153 reported in the last 90 days · 101 free to solve
+**683 questions** · 49 from an OA · 153 reported in the last 90 days · 106 free to solve
 
 **By level:** 🎓 Intern & New grad (80) · 🌱 Mid (306) · 🎯 Senior (527) · 🚀 Staff+ (155)
 
@@ -305,6 +305,6 @@
 | **[Coinbase](../companies/coinbase.md)** | [Transaction History System with Add, Delete, and Balance Calculation](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | — |
 | **[Lyft](../companies/lyft.md)** | [Web Crawler with Communication Constraint](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | Onsite | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | — |
 | **[Karat](../companies/karat.md)** | [Why Sharding Users by First Letter Fails](https://trueinterview.io/questions/photo-sharding-by-alphabet) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/photo-sharding-by-alphabet) | — |
-| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/windowed-key-value-store) | — |
+| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/windowed-key-value-store) | — |
 
 <sub>Page [1](backend.md) · **2**</sub>

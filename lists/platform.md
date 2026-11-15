@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Platform Engineer** role.
 
-**164 questions** · 3 from an OA · 54 reported in the last 90 days · 56 free to solve
+**164 questions** · 3 from an OA · 54 reported in the last 90 days · 57 free to solve
 
 **By level:** 🎓 Intern & New grad (13) · 🌱 Mid (68) · 🎯 Senior (139) · 🚀 Staff+ (37)
 
@@ -59,7 +59,7 @@
 | **[Anthropic](../companies/anthropic.md)** | [Distributed Mode and Median](https://trueinterview.io/questions/distributed-mode-and-median) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/distributed-mode-and-median) | Sep 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Estimate FFN Compute, Memory, and Sharding Communication](https://trueinterview.io/questions/estimate-ffn-compute-memory-and-sharding-communication) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/estimate-ffn-compute-memory-and-sharding-communication) | Sep 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Explain Virtual Memory Beyond Physical RAM](https://trueinterview.io/questions/explain-virtual-memory-beyond-physical-ram) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-virtual-memory-beyond-physical-ram) | Sep 2026 |
-| **[Databricks](../companies/databricks.md)** | [Firewall CIDR Rules](https://trueinterview.io/questions/firewall-cidr-rules) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/firewall-cidr-rules) | Sep 2026 |
+| **[Databricks](../companies/databricks.md)** | [Firewall CIDR Rules](https://trueinterview.io/questions/firewall-cidr-rules) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/firewall-cidr-rules) | Sep 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [How to triage slow service alerts](https://trueinterview.io/questions/how-to-triage-slow-service-alerts) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-to-triage-slow-service-alerts) | Sep 2026 |
 | **[Apple](../companies/apple.md)** | [Improve QA Benchmarks, Regression Tests, and HPC Resource Use](https://trueinterview.io/questions/improve-qa-benchmarks-regression-tests-and-hpc-resource-use) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/improve-qa-benchmarks-regression-tests-and-hpc-resource-use) | Sep 2026 |
 | **[Oracle](../companies/oracle.md)** | [Maximum of Minimums of Every Window](https://trueinterview.io/questions/4ffe3fac-ea66-5d5f-8331-b09736fb1392) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4ffe3fac-ea66-5d5f-8331-b09736fb1392) | Sep 2026 |

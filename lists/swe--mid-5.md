@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 336 from an OA · 587 reported in the last 90 days · 712 free to solve
+**2,526 questions** · 336 from an OA · 587 reported in the last 90 days · 754 free to solve
 
 **Rounds:** 📝 OA (336) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
@@ -400,7 +400,7 @@
 | **[Microsoft](../companies/microsoft.md)** | [Find the Maximum Length of Subarray with Sum Less Than Target](https://trueinterview.io/questions/d79ccd99-253b-4c50-af8b-1721844580a0) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d79ccd99-253b-4c50-af8b-1721844580a0) | Nov 2025 |
 | **[Pinterest](../companies/pinterest.md)** | [Implement custom round function](https://trueinterview.io/questions/b1edadf2-a0a2-430e-9c61-abc05944b832) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b1edadf2-a0a2-430e-9c61-abc05944b832) | Nov 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Kth Smallest Element in a Binary Search Tree (write full main, with follow-ups)](https://trueinterview.io/questions/65a8813c-9014-4ae9-af67-cfef594d9d98) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/65a8813c-9014-4ae9-af67-cfef594d9d98) | Nov 2025 |
-| **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
+| **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
 | **[Google](../companies/google.md)** | [Safe Travel Ranges](https://trueinterview.io/questions/edf263d8-b3ed-4f7e-a78c-1686163531db) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/edf263d8-b3ed-4f7e-a78c-1686163531db) | Nov 2025 |
 | **[WeRide](../companies/weride.md)** | [Shortest Path to Collect All Coins](https://trueinterview.io/questions/ebc36290-8e59-49ee-aba8-88d6ce49f1cb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ebc36290-8e59-49ee-aba8-88d6ce49f1cb) | Nov 2025 |
 | **[Dropbox](../companies/dropbox.md)** | [Simulate a File System with Access Control](https://trueinterview.io/questions/f0867d5b-4d3f-4ff4-9af3-0c7f8b8160ca) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f0867d5b-4d3f-4ff4-9af3-0c7f8b8160ca) | Nov 2025 |

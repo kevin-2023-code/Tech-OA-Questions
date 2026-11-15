@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
+**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,167 free to solve
 
 **By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
@@ -225,7 +225,7 @@
 | **[Coinbase](../companies/coinbase.md)** | [Transaction History System with Add, Delete, and Balance Calculation](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | — |
 | **[Boston Consulting Group](../companies/boston-consulting-group.md)** | [Transform and aggregate messy event data](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | — |
 | **[Onemain Financial](../companies/onemain-financial.md)** | [Transform clickstream with pandas sessionization](https://trueinterview.io/questions/transform-clickstream-with-pandas-sessionization) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/transform-clickstream-with-pandas-sessionization) | — |
-| **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Travese and Merge Two N-ary Trees](https://trueinterview.io/questions/642b9c47-c6ed-43dc-863d-112f6426db92) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/642b9c47-c6ed-43dc-863d-112f6426db92) | — |
+| **[Hudson River Trading](../companies/hudson-river-trading.md)** | [Travese and Merge Two N-ary Trees](https://trueinterview.io/questions/642b9c47-c6ed-43dc-863d-112f6426db92) | OA | Intern · New grad | Coding | [![Free][f]](https://trueinterview.io/questions/642b9c47-c6ed-43dc-863d-112f6426db92) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Tree Levels After Node Deletions](https://trueinterview.io/questions/tree-levels-after-node-deletions) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/tree-levels-after-node-deletions) | — |
 | **[Meta](../companies/meta.md)** | [Tune fraud threshold under review capacity and costs](https://trueinterview.io/questions/tune-fraud-threshold-under-review-capacity-and-costs) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/tune-fraud-threshold-under-review-capacity-and-costs) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Two-Basket Fruit Picking Along a Tree Row](https://trueinterview.io/questions/fruit-into-baskets) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/fruit-into-baskets) | — |
@@ -250,7 +250,7 @@
 | **[Karat](../companies/karat.md)** | [Why Sharding Users by First Letter Fails](https://trueinterview.io/questions/photo-sharding-by-alphabet) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/photo-sharding-by-alphabet) | — |
 | **[Confluent](../companies/confluent.md)** | [Wildcard Matching](https://trueinterview.io/questions/wildcard-matching) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/wildcard-matching) | — |
 | **[Amazon](../companies/amazon.md)** | [Window Function to Rank Within Group](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | — |
-| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/windowed-key-value-store) | — |
+| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/windowed-key-value-store) | — |
 | **[Hudson River Trading](../companies/hudson-river-trading.md)** / [Google](../companies/google.md) | [Winner in a Dot Grid Game](https://trueinterview.io/questions/winner-in-a-dot-grid-game-2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/winner-in-a-dot-grid-game-2) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Word Compression](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | — |
 | **[Square](../companies/square.md)** | [Word Rewriter That Keeps Punctuation in Place](https://trueinterview.io/questions/pig-latin-word-transform) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/pig-latin-word-transform) | — |

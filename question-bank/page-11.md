@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
+**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,167 free to solve
 
 **By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
@@ -291,7 +291,7 @@
 | **[Microsoft](../companies/microsoft.md)** | [Design top-K frequency store for varying workloads](https://trueinterview.io/questions/design-top-k-frequency-store-for-varying-workloads) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-top-k-frequency-store-for-varying-workloads) | Nov 3, 2025 |
 | **[IBM](../companies/ibm.md)** / [Capital One](../companies/capital-one.md) | [Process Execution Time (Merge Inclusive Intervals)](https://trueinterview.io/questions/process-execution-time-merge-intervals) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/process-execution-time-merge-intervals) | Nov 3, 2025 |
 | **[PayPal](../companies/paypal.md)** | [Reduce airport ride cancellations under causal constraints](https://trueinterview.io/questions/reduce-airport-cancellations-under-causal-constraints) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/reduce-airport-cancellations-under-causal-constraints) | Nov 3, 2025 |
-| **[Optiver](../companies/optiver.md)** | [Stock Transaction Sequence Counting (Catalan / DP)](https://trueinterview.io/questions/stock-transaction-counting) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/stock-transaction-counting) | Nov 3, 2025 |
+| **[Optiver](../companies/optiver.md)** | [Stock Transaction Sequence Counting (Catalan / DP)](https://trueinterview.io/questions/stock-transaction-counting) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/stock-transaction-counting) | Nov 3, 2025 |
 | **[Gusto](../companies/gusto.md)** | [Compute p-values for 2 variants vs control](https://trueinterview.io/questions/compute-p-values-for-2-variants-vs-control) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-p-values-for-2-variants-vs-control) | Nov 2, 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Enemy Factory with Shared Instances](https://trueinterview.io/questions/enemy-factory-shared-instances) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/enemy-factory-shared-instances) | Nov 2, 2025 |
 | **[Meta](../companies/meta.md)** | [Longest balanced subarray](https://trueinterview.io/questions/find-balanced-subarray-and-increasing-tree-path-longest-balanced-subarray-0-1) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-balanced-subarray-and-increasing-tree-path-longest-balanced-subarray-0-1) | Nov 2, 2025 |
@@ -321,7 +321,7 @@
 | **[Pinterest](../companies/pinterest.md)** | [Implement custom round function](https://trueinterview.io/questions/b1edadf2-a0a2-430e-9c61-abc05944b832) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b1edadf2-a0a2-430e-9c61-abc05944b832) | Nov 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Kth Smallest Element in a Binary Search Tree (write full main, with follow-ups)](https://trueinterview.io/questions/65a8813c-9014-4ae9-af67-cfef594d9d98) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/65a8813c-9014-4ae9-af67-cfef594d9d98) | Nov 2025 |
 | **[Oracle](../companies/oracle.md)** | [List All LRU Cache Possibilities](https://trueinterview.io/questions/8783a1ff-f1f9-404a-b4d1-d006ae36d2a1) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/8783a1ff-f1f9-404a-b4d1-d006ae36d2a1) | Nov 2025 |
-| **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
+| **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
 | **[Uber](../companies/uber.md)** / [ByteDance](../companies/bytedance.md) / [Databricks](../companies/databricks.md) | [Max Area of Island](https://trueinterview.io/questions/10444131-24d7-4989-88fc-82a67c8fd20f) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/10444131-24d7-4989-88fc-82a67c8fd20f) | Nov 2025 |
 | **[Uber](../companies/uber.md)** | [Max Levels from Each Index](https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc) | Nov 2025 |
 | **[Confluent](../companies/confluent.md)** | [Message Logger](https://trueinterview.io/questions/30531964-1441-416b-8417-b0bcd364f28e) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/30531964-1441-416b-8417-b0bcd364f28e) | Nov 2025 |

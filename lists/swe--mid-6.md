@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 336 from an OA · 587 reported in the last 90 days · 712 free to solve
+**2,526 questions** · 336 from an OA · 587 reported in the last 90 days · 754 free to solve
 
 **Rounds:** 📝 OA (336) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
@@ -241,7 +241,7 @@
 | **[Uber](../companies/uber.md)** | [Compute maximum concurrent trips from intervals](https://trueinterview.io/questions/compute-maximum-concurrent-trips-from-intervals) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-maximum-concurrent-trips-from-intervals) | — |
 | **[Apple](../companies/apple.md)** | [Compute optimal matrix-chain multiplication order](https://trueinterview.io/questions/compute-optimal-matrix-chain-multiplication-order) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-optimal-matrix-chain-multiplication-order) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Compute Ratios From Variable Equations](https://trueinterview.io/questions/evaluate-division-2) | Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/evaluate-division-2) | — |
-| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
+| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Construct Winning Sequence](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | — |
 | **[Rippling](../companies/rippling.md)** | [Convert amounts between multiple currencies](https://trueinterview.io/questions/convert-amounts-between-multiple-currencies) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/convert-amounts-between-multiple-currencies) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Count Binary Subarrays Hitting a Target Sum](https://trueinterview.io/questions/binary-subarrays-with-sum) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/binary-subarrays-with-sum) | — |
@@ -332,7 +332,7 @@
 | **[Rubrik](../companies/rubrik.md)** | [Friendship String](https://trueinterview.io/questions/99375dc6-cb8e-404c-abc8-3d56c84f329c) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/99375dc6-cb8e-404c-abc8-3d56c84f329c) | — |
 | **[Arista](../companies/arista.md)** | [Generate Matrix B](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | — |
 | **[Amazon](../companies/amazon.md)** | [Generate primes up to n efficiently](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Get Max Efficiency](https://trueinterview.io/questions/f17bf4e8-5c3c-440a-8223-2134aa4a4837) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f17bf4e8-5c3c-440a-8223-2134aa4a4837) | — |
 | **[Expedia](../companies/expedia.md)** / [IBM](../companies/ibm.md) | [Get Maximum Efficiency](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Get Maximum Sum of Strengths](https://trueinterview.io/questions/229ffa68-8eb3-41a4-aae7-64d9770c15d1) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/229ffa68-8eb3-41a4-aae7-64d9770c15d1) | — |

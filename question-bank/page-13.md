@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
+**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,167 free to solve
 
 **By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
@@ -129,7 +129,7 @@
 | **[Thumbtack](../companies/thumbtack.md)** | [Compute weekly 3-week rolling sums in SQL](https://trueinterview.io/questions/compute-weekly-3-week-rolling-sums-in-sql) | Phone | Senior | SQL | [![Free][f]](https://trueinterview.io/questions/compute-weekly-3-week-rolling-sums-in-sql) | — |
 | **[Thumbtack](../companies/thumbtack.md)** | [Compute weighted response rates by job category](https://trueinterview.io/questions/compute-weighted-response-rates-by-job-category) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-weighted-response-rates-by-job-category) | — |
 | **[Visa](../companies/visa.md)** | [Concurrent User Management System Architecture Design](https://trueinterview.io/questions/0b31ae3b-9d46-43e6-b4ba-b4ff6c58394a) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/0b31ae3b-9d46-43e6-b4ba-b4ff6c58394a) | — |
-| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
+| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Construct Winning Sequence](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | — |
 | **[Amazon](../companies/amazon.md)** | [Contrast CNNs and fully connected networks](https://trueinterview.io/questions/contrast-cnns-and-fully-connected-networks) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/contrast-cnns-and-fully-connected-networks) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Contrast FCF vs NI; choose one statement](https://trueinterview.io/questions/contrast-fcf-vs-ni-choose-one-statement) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/contrast-fcf-vs-ni-choose-one-statement) | — |

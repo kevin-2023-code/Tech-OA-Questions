@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**660 questions** · 53 from an OA · 156 reported in the last 90 days · 85 free to solve
+**660 questions** · 53 from an OA · 156 reported in the last 90 days · 95 free to solve
 
 **By level:** 🎓 Intern & New grad (123) · 🌱 Mid (455) · 🎯 Senior (447) · 🚀 Staff+ (21)
 
@@ -239,7 +239,7 @@
 | **[xAI](../companies/xai.md)** | [Durable KV Cache](https://trueinterview.io/questions/durable-kv-cache) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/durable-kv-cache) | — |
 | **[Gusto](../companies/gusto.md)** | [Efficient Key-Value Store with Insert, Retrieve, Delete Operations](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a3e93e72-8cf9-43ac-87cf-e2ca17cce899) | — |
 | **[Square](../companies/square.md)** | [Five-Card Hand Scoring: Suit, Pairs and Fifteens](https://trueinterview.io/questions/five-card-hand-scoring) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/five-card-hand-scoring) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
 | **[Square](../companies/square.md)** | [Grid Board With a Turning, Moving Player](https://trueinterview.io/questions/grid-board-player-movement) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/grid-board-player-movement) | — |
 | **[Karat](../companies/karat.md)** | [Group-Based Permissions with Inheritance and ACL Checks](https://trueinterview.io/questions/group-based-user-permissions) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/group-based-user-permissions) | — |
 | **[LinkedIn](../companies/linkedin.md)** | [Implement a Custom Iterator](https://trueinterview.io/questions/00663347-51f2-475a-a0ac-1dc56de070d8) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/00663347-51f2-475a-a0ac-1dc56de070d8) | — |
@@ -280,6 +280,6 @@
 | **[Coinbase](../companies/coinbase.md)** / [Instacart](../companies/instacart.md) | [Task Management System III](https://trueinterview.io/questions/task-management-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/task-management-system) | — |
 | **[LinkedIn](../companies/linkedin.md)** / [Meta](../companies/meta.md) | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |
 | **[Coinbase](../companies/coinbase.md)** | [Transaction History System with Add, Delete, and Balance Calculation](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/7c91bdaf-7852-4e5f-a023-d6b03d998867) | — |
-| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/windowed-key-value-store) | — |
+| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/windowed-key-value-store) | — |
 
 <sub>Page [1](object-oriented-programming.md) · **2**</sub>

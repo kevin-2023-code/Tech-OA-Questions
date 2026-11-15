@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,115 questions** · 10 from an OA · 593 reported in the last 90 days · 1,209 free to solve
+**3,115 questions** · 10 from an OA · 593 reported in the last 90 days · 1,239 free to solve
 
 **By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,022) · 🎯 Senior (2,214) · 🚀 Staff+ (573)
 
@@ -247,7 +247,7 @@
 | **[Two Sigma](../companies/two-sigma.md)** | [How Would You Test Whether Momentum Is a Real Alpha Signal in Stocks?](https://trueinterview.io/questions/how-would-you-test-whether-momentum-is-a-real-alpha-signal-in-stocks) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-test-whether-momentum-is-a-real-alpha-signal-in-stocks) | Nov 2025 |
 | **[Pinterest](../companies/pinterest.md)** | [Implement custom round function](https://trueinterview.io/questions/b1edadf2-a0a2-430e-9c61-abc05944b832) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b1edadf2-a0a2-430e-9c61-abc05944b832) | Nov 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Kth Smallest Element in a Binary Search Tree (write full main, with follow-ups)](https://trueinterview.io/questions/65a8813c-9014-4ae9-af67-cfef594d9d98) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/65a8813c-9014-4ae9-af67-cfef594d9d98) | Nov 2025 |
-| **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
+| **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
 | **[Uber](../companies/uber.md)** / [ByteDance](../companies/bytedance.md) / [Databricks](../companies/databricks.md) | [Max Area of Island](https://trueinterview.io/questions/10444131-24d7-4989-88fc-82a67c8fd20f) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/10444131-24d7-4989-88fc-82a67c8fd20f) | Nov 2025 |
 | **[WeRide](../companies/weride.md)** | [Minimize Cost to Make Blocks Unique](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Nov 2025 |
 | **[Rokt](../companies/rokt.md)** / [Instacart](../companies/instacart.md) / [WeRide](../companies/weride.md) | [Modified Basic Calculator](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Nov 2025 |

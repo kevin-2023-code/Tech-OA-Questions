@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,928 questions** · 586 from an OA · 921 reported in the last 90 days · 1,075 free to solve
+**3,928 questions** · 586 from an OA · 921 reported in the last 90 days · 1,122 free to solve
 
 **By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
 
@@ -44,7 +44,7 @@
 | **[Pinterest](../companies/pinterest.md)** | [Implement custom round function](https://trueinterview.io/questions/b1edadf2-a0a2-430e-9c61-abc05944b832) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b1edadf2-a0a2-430e-9c61-abc05944b832) | Nov 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Kth Smallest Element in a Binary Search Tree (write full main, with follow-ups)](https://trueinterview.io/questions/65a8813c-9014-4ae9-af67-cfef594d9d98) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/65a8813c-9014-4ae9-af67-cfef594d9d98) | Nov 2025 |
 | **[Oracle](../companies/oracle.md)** | [List All LRU Cache Possibilities](https://trueinterview.io/questions/8783a1ff-f1f9-404a-b4d1-d006ae36d2a1) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/8783a1ff-f1f9-404a-b4d1-d006ae36d2a1) | Nov 2025 |
-| **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
+| **[Verkada](../companies/verkada.md)** | [Matrix Transpose with Workers](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/d2c51fe8-e8cb-4b41-9fb4-1dc03c1b4c3b) | Nov 2025 |
 | **[Uber](../companies/uber.md)** / [ByteDance](../companies/bytedance.md) / [Databricks](../companies/databricks.md) | [Max Area of Island](https://trueinterview.io/questions/10444131-24d7-4989-88fc-82a67c8fd20f) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/10444131-24d7-4989-88fc-82a67c8fd20f) | Nov 2025 |
 | **[Uber](../companies/uber.md)** | [Max Levels from Each Index](https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc) | Nov 2025 |
 | **[Confluent](../companies/confluent.md)** | [Message Logger](https://trueinterview.io/questions/30531964-1441-416b-8417-b0bcd364f28e) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/30531964-1441-416b-8417-b0bcd364f28e) | Nov 2025 |
@@ -375,7 +375,7 @@
 | **[Apple](../companies/apple.md)** | [Compute optimal matrix-chain multiplication order](https://trueinterview.io/questions/compute-optimal-matrix-chain-multiplication-order) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-optimal-matrix-chain-multiplication-order) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Compute Ratios From Variable Equations](https://trueinterview.io/questions/evaluate-division-2) | Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/evaluate-division-2) | — |
 | **[Visa](../companies/visa.md)** | [Concurrent User Management System Architecture Design](https://trueinterview.io/questions/0b31ae3b-9d46-43e6-b4ba-b4ff6c58394a) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/0b31ae3b-9d46-43e6-b4ba-b4ff6c58394a) | — |
-| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
+| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Construct Winning Sequence](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | — |
 | **[Rippling](../companies/rippling.md)** | [Convert amounts between multiple currencies](https://trueinterview.io/questions/convert-amounts-between-multiple-currencies) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/convert-amounts-between-multiple-currencies) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Count Binary Subarrays Hitting a Target Sum](https://trueinterview.io/questions/binary-subarrays-with-sum) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/binary-subarrays-with-sum) | — |

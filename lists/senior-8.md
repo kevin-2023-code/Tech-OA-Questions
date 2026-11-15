@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,059 questions** · 252 from an OA · 740 reported in the last 90 days · 1,592 free to solve
+**4,059 questions** · 252 from an OA · 740 reported in the last 90 days · 1,626 free to solve
 
 **By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
@@ -400,7 +400,7 @@
 | **[Thumbtack](../companies/thumbtack.md)** | [Compute weekly 3-week rolling sums in SQL](https://trueinterview.io/questions/compute-weekly-3-week-rolling-sums-in-sql) | Phone | Senior | SQL | [![Free][f]](https://trueinterview.io/questions/compute-weekly-3-week-rolling-sums-in-sql) | — |
 | **[Thumbtack](../companies/thumbtack.md)** | [Compute weighted response rates by job category](https://trueinterview.io/questions/compute-weighted-response-rates-by-job-category) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-weighted-response-rates-by-job-category) | — |
 | **[Visa](../companies/visa.md)** | [Concurrent User Management System Architecture Design](https://trueinterview.io/questions/0b31ae3b-9d46-43e6-b4ba-b4ff6c58394a) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/0b31ae3b-9d46-43e6-b4ba-b4ff6c58394a) | — |
-| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
+| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Construct Winning Sequence](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e5dec594-f0c4-4845-ac11-ebd1eb19f8bb) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Contrast FCF vs NI; choose one statement](https://trueinterview.io/questions/contrast-fcf-vs-ni-choose-one-statement) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/contrast-fcf-vs-ni-choose-one-statement) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Control confounding in observational ad lift](https://trueinterview.io/questions/control-confounding-in-observational-ad-lift) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/control-confounding-in-observational-ad-lift) | — |

@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 540 free to solve
+**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 582 free to solve
 
 **By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
@@ -286,7 +286,7 @@
 | **[Google](../companies/google.md)** | [Belt Packing: Return a Triplet When 3 Items Fit a Threshold](https://trueinterview.io/questions/b529815f-11de-4c9b-b00c-abf641811da9) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b529815f-11de-4c9b-b00c-abf641811da9) | Mar 2026 |
 | **[Uber](../companies/uber.md)** / [Google](../companies/google.md) / [Meta](../companies/meta.md) | [Binary Tree Longest Consecutive Sequence II](https://trueinterview.io/questions/binary-tree-longest-consecutive-sequence-ii) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-longest-consecutive-sequence-ii) | Mar 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [Binary Tree Traversal using Iterative and Recursive Methods](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/af752656-c437-4650-9101-e1f7472265a5) | Mar 2026 |
-| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
+| **[Airbnb](../companies/airbnb.md)** / [Waymo](../companies/waymo.md) | [Board Score](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/56b407e8-ba0e-4120-a839-4bc5a36a9e0d) | Mar 2026 |
 | **[Netflix](../companies/netflix.md)** | [Bucket Users by Movie Completion Percentage from an Event Stream](https://trueinterview.io/questions/60956877-012c-4640-b2a1-e6dad3baacbf) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/60956877-012c-4640-b2a1-e6dad3baacbf) | Mar 2026 |
 | **[Tesla](../companies/tesla.md)** | [Burning a Binary Tree (Time to Burn Entire Tree)](https://trueinterview.io/questions/19d7abba-9f7c-4acd-ab07-797730cfba83) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/19d7abba-9f7c-4acd-ab07-797730cfba83) | Mar 2026 |
 | **[Meta](../companies/meta.md)** | [Calculator with plus, times, and power](https://trueinterview.io/questions/45133f21-4ced-4f5a-957f-356543eba0d3) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/45133f21-4ced-4f5a-957f-356543eba0d3) | Mar 2026 |

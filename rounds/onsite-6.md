@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,337 questions** · 12 from an OA · 526 reported in the last 90 days · 786 free to solve
+**2,337 questions** · 12 from an OA · 526 reported in the last 90 days · 813 free to solve
 
 **By level:** 🎓 Intern & New grad (384) · 🌱 Mid (1,229) · 🎯 Senior (1,872) · 🚀 Staff+ (535)
 
@@ -202,7 +202,7 @@
 | **[Square](../companies/square.md)** | [Frequency-Based Binary Encoding Pipeline](https://trueinterview.io/questions/letter-frequency-huffman-tree) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/letter-frequency-huffman-tree) | — |
 | **[Amazon](../companies/amazon.md)** | [Game Shop Design](https://trueinterview.io/questions/0f33f62b-5a8a-40d0-a6bb-c637b20b3cdf) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/0f33f62b-5a8a-40d0-a6bb-c637b20b3cdf) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Generate Jailbreak Prompts from Text Inputs Algorithm](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/49333e01-4b07-4b53-b4b6-ca3fb77a0f8c) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
 | **[Disney](../companies/disney.md)** | [Getting Productive Fast in a Large Unfamiliar Codebase](https://trueinterview.io/questions/ramping-on-unfamiliar-codebase) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/ramping-on-unfamiliar-codebase) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Greedy Line Wrapping with Even Word Spacing](https://trueinterview.io/questions/text-justification) | Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/text-justification) | — |
 | **[Capital One](../companies/capital-one.md)** | [Handle an irate passenger after flight delay](https://trueinterview.io/questions/handle-an-irate-passenger-after-flight-delay) | Onsite | Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-an-irate-passenger-after-flight-delay) | — |
@@ -265,7 +265,7 @@
 | **[Uber](../companies/uber.md)** | [Model waiting-time abandonment via survival](https://trueinterview.io/questions/model-waiting-time-abandonment-via-survival) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/model-waiting-time-abandonment-via-survival) | — |
 | **[Confluent](../companies/confluent.md)** | [Monsters Battle](https://trueinterview.io/questions/monsters-battle) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/monsters-battle) | — |
 | **[Square](../companies/square.md)** | [MotoGP Season Points and Championship Clinch Check](https://trueinterview.io/questions/motogp-season-points-ranking) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/motogp-season-points-ranking) | — |
-| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multistream-reader) | — |
+| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/multistream-reader) | — |
 | **[Yelp](../companies/yelp.md)** / [xAI](../companies/xai.md) | [N-gram Split](https://trueinterview.io/questions/n-gram-split-2) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/n-gram-split-2) | — |
 | **[Netflix](../companies/netflix.md)** | [Navigate conflicting signals and ambiguous expectations](https://trueinterview.io/questions/navigate-conflicting-signals-and-ambiguous-expectations) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/navigate-conflicting-signals-and-ambiguous-expectations) | — |
 | **[Meta](../companies/meta.md)** | [Navigate reschedules, offers, and team-match uncertainty](https://trueinterview.io/questions/navigate-reschedules-offers-and-team-match-uncertainty) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/navigate-reschedules-offers-and-team-match-uncertainty) | — |

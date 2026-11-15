@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *E-commerce & marketplaces*.
 
-**1,231 questions** · 150 from an OA · 312 reported in the last 90 days · 449 free to solve
+**1,231 questions** · 150 from an OA · 312 reported in the last 90 days · 468 free to solve
 
 **By level:** 🎓 Intern & New grad (320) · 🌱 Mid (713) · 🎯 Senior (830) · 🚀 Staff+ (229)
 
@@ -282,7 +282,7 @@
 | **[Lyft](../companies/lyft.md)** | [Compute Poisson supply–demand match probability](https://trueinterview.io/questions/compute-poisson-supplydemand-match-probability) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-poisson-supplydemand-match-probability) | — |
 | **[DoorDash](../companies/doordash.md)** | [Compute rolling cold-delivery rates with windows](https://trueinterview.io/questions/compute-rolling-cold-delivery-rates-with-windows) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-rolling-cold-delivery-rates-with-windows) | — |
 | **[DoorDash](../companies/doordash.md)** | [Compute sample sizes and error control](https://trueinterview.io/questions/compute-sample-sizes-and-error-control) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-sample-sizes-and-error-control) | — |
-| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
+| **[DoorDash](../companies/doordash.md)** | [Construct Restaurant Daily Menu](https://trueinterview.io/questions/construct-restaurant-daily-menu) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/construct-restaurant-daily-menu) | — |
 | **[Amazon](../companies/amazon.md)** | [Contrast CNNs and fully connected networks](https://trueinterview.io/questions/contrast-cnns-and-fully-connected-networks) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/contrast-cnns-and-fully-connected-networks) | — |
 | **[Expedia](../companies/expedia.md)** | [Count Groups with Maximum Language Relationships](https://trueinterview.io/questions/60045377-fc3f-4505-9688-a3134b5faa33) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/60045377-fc3f-4505-9688-a3134b5faa33) | — |
 | **[Whatnot](../companies/whatnot.md)** / [Atlassian](../companies/atlassian.md) | [Count Singler Role Co-occurrences](https://trueinterview.io/questions/count-singler-role-co-occurrences-2) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/count-singler-role-co-occurrences-2) | — |
@@ -403,7 +403,7 @@
 | **[Expedia](../companies/expedia.md)** | [Minimum Additional Capabilities to Equalize Team Work Hours](https://trueinterview.io/questions/5c1401d7-3928-496a-b8ac-cd5bba5b5587) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5c1401d7-3928-496a-b8ac-cd5bba5b5587) | — |
 | **[Expedia](../companies/expedia.md)** | [Minimum Steps to Reorder Layers](https://trueinterview.io/questions/b99ee58c-743f-4caf-a4f4-751b8ca48ecc) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b99ee58c-743f-4caf-a4f4-751b8ca48ecc) | — |
 | **[Uber](../companies/uber.md)** | [Model waiting-time abandonment via survival](https://trueinterview.io/questions/model-waiting-time-abandonment-via-survival) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/model-waiting-time-abandonment-via-survival) | — |
-| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/multistream-reader) | — |
+| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/multistream-reader) | — |
 | **[Uber](../companies/uber.md)** | [Navigate urgency, priorities, and conflict](https://trueinterview.io/questions/navigate-urgency-priorities-and-conflict) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/navigate-urgency-priorities-and-conflict) | — |
 | **[Shopify](../companies/shopify.md)** | [Perform no-calculator math accurately and fast](https://trueinterview.io/questions/perform-no-calculator-math-accurately-and-fast) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/perform-no-calculator-math-accurately-and-fast) | — |
 | **[Amazon](../companies/amazon.md)** | [Pizza Slices Calculator Program](https://trueinterview.io/questions/43b6b9d3-5c99-4c4e-bfbd-0005865fd5e3) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/43b6b9d3-5c99-4c4e-bfbd-0005865fd5e3) | — |

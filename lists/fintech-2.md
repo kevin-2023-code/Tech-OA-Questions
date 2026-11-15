@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Fintech, payments & crypto*.
 
-**507 questions** · 87 from an OA · 79 reported in the last 90 days · 158 free to solve
+**507 questions** · 87 from an OA · 79 reported in the last 90 days · 162 free to solve
 
 **By level:** 🎓 Intern & New grad (170) · 🌱 Mid (337) · 🎯 Senior (345) · 🚀 Staff+ (90)
 
@@ -73,7 +73,7 @@
 | **[Coinbase](../companies/coinbase.md)** | [Flatten Iterator for Vector of Iterators with getnext() and hasnext() Methods](https://trueinterview.io/questions/4ac45ecd-0c2b-47e5-bae9-8f19aa67657e) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/4ac45ecd-0c2b-47e5-bae9-8f19aa67657e) | — |
 | **[Upstart](../companies/upstart.md)** | [Formulate hypotheses and metrics for video-pin ramp](https://trueinterview.io/questions/formulate-hypotheses-and-metrics-for-video-pin-ramp) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/formulate-hypotheses-and-metrics-for-video-pin-ramp) | — |
 | **[Square](../companies/square.md)** | [Frequency-Based Binary Encoding Pipeline](https://trueinterview.io/questions/letter-frequency-huffman-tree) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/letter-frequency-huffman-tree) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
+| **[Coinbase](../companies/coinbase.md)** | [Generate Random NFT](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/c371c4af-f5cd-4071-967e-e37e7b38cdb3) | — |
 | **[Square](../companies/square.md)** | [Grid Board With a Turning, Moving Player](https://trueinterview.io/questions/grid-board-player-movement) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/grid-board-player-movement) | — |
 | **[Affirm](../companies/affirm.md)** | [High Correlation Seller](https://trueinterview.io/questions/high-correlation-seller) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/high-correlation-seller) | — |
 | **[Robinhood](../companies/robinhood.md)** | [Implement Android findViewById](https://trueinterview.io/questions/20f0926e-8b1b-4160-b794-3e5c1f012212) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/20f0926e-8b1b-4160-b794-3e5c1f012212) | — |

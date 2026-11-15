@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
+**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,167 free to solve
 
 **By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
@@ -145,7 +145,7 @@
 | **[Meta](../companies/meta.md)** | [Explain How Your Analytics Work Shapes Product Strategy](https://trueinterview.io/questions/explain-how-your-analytics-work-shapes-product-strategy) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-how-your-analytics-work-shapes-product-strategy) | Apr 20, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Find the highest eligible score](https://trueinterview.io/questions/implement-three-assessment-functions-find-the-highest-eligible-score) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-three-assessment-functions-find-the-highest-eligible-score) | Apr 20, 2026 |
 | **[Apple](../companies/apple.md)** | [Flood Fill](https://trueinterview.io/questions/flood-fill) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/flood-fill) | Apr 20, 2026 |
-| **[Coinbase](../companies/coinbase.md)** | [Food Delivery System (Multi-Level Coding)](https://trueinterview.io/questions/food-delivery-system-2) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/food-delivery-system-2) | Apr 20, 2026 |
+| **[Coinbase](../companies/coinbase.md)** | [Food Delivery System (Multi-Level Coding)](https://trueinterview.io/questions/food-delivery-system-2) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/food-delivery-system-2) | Apr 20, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Snowflake](../companies/snowflake.md) | [Merge Two Sorted Lists](https://trueinterview.io/questions/merge-two-sorted-lists) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/merge-two-sorted-lists) | Apr 20, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Move across a server grid efficiently](https://trueinterview.io/questions/implement-three-assessment-functions-move-across-a-server-grid-efficiently) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-three-assessment-functions-move-across-a-server-grid-efficiently) | Apr 20, 2026 |
 | **[Okta](../companies/okta.md)** | [Python + SQL Technical Round (Typing, Debugging, Joins)](https://trueinterview.io/questions/python-sql-debugging-round) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/python-sql-debugging-round) | Apr 20, 2026 |
