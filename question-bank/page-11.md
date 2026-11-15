@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,888 questions** · 800 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
+**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,493) · 🌱 Mid (3,450) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (800) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · **11** · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -124,6 +124,7 @@
 | **[Apple](../companies/apple.md)** | [Second Highest Salary](https://trueinterview.io/questions/second-highest-salary-2) | Phone · Onsite | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/second-highest-salary-2) | Dec 2025 |
 | **[Pinterest](../companies/pinterest.md)** | [Set Equality Verification](https://trueinterview.io/questions/0def6fa8-60e7-41ea-bf60-ab321aa731ea) | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/0def6fa8-60e7-41ea-bf60-ab321aa731ea) | Dec 2025 |
 | **[Disney](../companies/disney.md)** | [Shopping Cart](https://trueinterview.io/questions/frontend-shopping-cart-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/frontend-shopping-cart-design) | Dec 2025 |
+| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Snippet Vault](https://trueinterview.io/questions/snippet-vault) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/snippet-vault) | Dec 2025 |
 | **[Reddit](../companies/reddit.md)** | [Tennis Scoring](https://trueinterview.io/questions/b30fcfc7-0dd6-4ac0-822e-39e316e02870) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b30fcfc7-0dd6-4ac0-822e-39e316e02870) | Dec 2025 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Track simulations and report timeouts](https://trueinterview.io/questions/track-simulations-and-report-timeouts) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/track-simulations-and-report-timeouts) | Dec 2025 |
 | **[Google](../companies/google.md)** | [Unique Paths in a 2D Matrix with Moves](https://trueinterview.io/questions/9bc06af6-5391-48cc-9eb3-8364423d3a52) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/9bc06af6-5391-48cc-9eb3-8364423d3a52) | Dec 2025 |
@@ -418,6 +419,5 @@
 | **[Airwallex](../companies/airwallex.md)** | [How would you test swapping two CTA buttons?](https://trueinterview.io/questions/how-would-you-test-swapping-two-cta-buttons) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-would-you-test-swapping-two-cta-buttons) | Oct 14, 2025 |
 | **[Databricks](../companies/databricks.md)** | [Relate coefficients under linear feature transformation](https://trueinterview.io/questions/relate-coefficients-under-linear-feature-transformation-2) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/relate-coefficients-under-linear-feature-transformation-2) | Oct 14, 2025 |
 | **[Google](../companies/google.md)** | [Design tests to measure latency impact](https://trueinterview.io/questions/design-tests-to-measure-latency-impact) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-tests-to-measure-latency-impact) | Oct 13, 2025 |
-| **[Meta](../companies/meta.md)** | [Evaluate emoji reactions launch](https://trueinterview.io/questions/evaluate-emoji-reactions-launch) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-emoji-reactions-launch) | Oct 13, 2025 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · **11** · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

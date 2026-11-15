@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Coinbase on TrueInterview](https://trueinterview.io/problems/company/coinbase) · [How Coinbase interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/coinbase/README.md)
 
-💳 Fintech, payments & crypto · **86 questions** · 18 from an OA · last reported Sep 2026
+💳 Fintech, payments & crypto · **87 questions** · 19 from an OA · last reported Sep 2026
 
-**By level:** 🎓 Intern & New grad (18) · 🌱 Mid (59) · 🎯 Senior (62) · 🚀 Staff+ (14)
+**By level:** 🎓 Intern & New grad (19) · 🌱 Mid (59) · 🎯 Senior (62) · 🚀 Staff+ (14)
 
-**By role:** 💻 Software Engineering (65) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (15) · 📈 Quantitative Finance (1)
+**By role:** 💻 Software Engineering (66) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (15) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (18) · 📞 Phone (22) · 🏢 Onsite (48)
+**Rounds:** 📝 OA (19) · 📞 Phone (22) · 🏢 Onsite (48)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/coinbase-interview-process) · [SWE](https://trueinterview.io/study/coinbase-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/coinbase-machine-learning-engineer-interview-process) · [Frontend](https://trueinterview.io/study/coinbase-frontend-engineer-interview-process)
 
@@ -83,6 +83,7 @@
 | [Design an in-memory database with TTL and backups](https://trueinterview.io/questions/design-an-in-memory-database-with-ttl-and-backups) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-database-with-ttl-and-backups) | Dec 2025 |
 | [Execution Task with Promise Chains](https://trueinterview.io/questions/7296b5d5-6b1c-4ff1-ae43-012cb3886ad1) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7296b5d5-6b1c-4ff1-ae43-012cb3886ad1) | Dec 2025 |
 | [Find Shortest Path for All Items](https://trueinterview.io/questions/6b165ecf-6592-4940-ab4d-0bb42c54a0e5) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/6b165ecf-6592-4940-ab4d-0bb42c54a0e5) | Dec 2025 |
+| [Snippet Vault](https://trueinterview.io/questions/snippet-vault)<br><sub>also [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md)</sub> | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/snippet-vault) | Dec 2025 |
 | [Food Delivery System](https://trueinterview.io/questions/food-delivery-system) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/food-delivery-system) | Jul 22, 2025 |
 | [Build and evaluate a conversion prediction model](https://trueinterview.io/questions/build-and-evaluate-a-conversion-prediction-model) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/build-and-evaluate-a-conversion-prediction-model) | — |
 | [Compute adoption, latency, and cross-region transactions](https://trueinterview.io/questions/compute-adoption-latency-and-cross-region-transactions) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-adoption-latency-and-cross-region-transactions) | — |

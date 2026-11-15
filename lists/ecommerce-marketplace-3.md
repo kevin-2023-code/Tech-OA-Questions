@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *E-commerce & marketplaces*.
 
-**1,229 questions** · 148 from an OA · 312 reported in the last 90 days · 449 free to solve
+**1,231 questions** · 150 from an OA · 312 reported in the last 90 days · 449 free to solve
 
-**By level:** 🎓 Intern & New grad (318) · 🌱 Mid (712) · 🎯 Senior (830) · 🚀 Staff+ (229)
+**By level:** 🎓 Intern & New grad (320) · 🌱 Mid (713) · 🎯 Senior (830) · 🚀 Staff+ (229)
 
-**By role:** 💻 Software Engineering (875) · 🤖 ML, AI & Research (98) · 📊 Data Science & Analytics (228) · 📈 Quantitative Finance (4) · 📱 Product Management (11)
+**By role:** 💻 Software Engineering (877) · 🤖 ML, AI & Research (98) · 📊 Data Science & Analytics (228) · 📈 Quantitative Finance (4) · 📱 Product Management (11)
 
-**Rounds:** 📝 OA (148) · 📞 Phone (623) · 🏢 Onsite (543) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (150) · 📞 Phone (623) · 🏢 Onsite (543) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (466)](../companies/amazon.md) · [Uber (263)](../companies/uber.md) · [DoorDash (151)](../companies/doordash.md) · [Airbnb (112)](../companies/airbnb.md) · [Instacart (65)](../companies/instacart.md) · [Lyft (49)](../companies/lyft.md) · [eBay (46)](../companies/ebay.md) · [Expedia (41)](../companies/expedia.md) · [Shopify (41)](../companies/shopify.md) · [Walmart Labs (35)](../companies/walmart-labs.md) · [Pinduoduo (27)](../companies/pinduoduo.md) · [Whatnot (19)](../companies/whatnot.md) · [Faire (5)](../companies/faire.md) · [StubHub (3)](../companies/stubhub.md)
+**Companies:** [Amazon (466)](../companies/amazon.md) · [Uber (263)](../companies/uber.md) · [DoorDash (151)](../companies/doordash.md) · [Airbnb (112)](../companies/airbnb.md) · [Instacart (65)](../companies/instacart.md) · [Lyft (49)](../companies/lyft.md) · [eBay (48)](../companies/ebay.md) · [Expedia (41)](../companies/expedia.md) · [Shopify (41)](../companies/shopify.md) · [Walmart Labs (35)](../companies/walmart-labs.md) · [Pinduoduo (27)](../companies/pinduoduo.md) · [Whatnot (19)](../companies/whatnot.md) · [Faire (5)](../companies/faire.md) · [StubHub (3)](../companies/stubhub.md)
 
 <sub>Page [1](ecommerce-marketplace.md) · [2](ecommerce-marketplace-2.md) · **3** · [4](ecommerce-marketplace-4.md)</sub>
 
@@ -170,6 +170,7 @@
 | **[DoorDash](../companies/doordash.md)** | [Find Eligible Order Sequence](https://trueinterview.io/questions/find-eligible-order-sequence) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-eligible-order-sequence) | Dec 2025 |
 | **[Airbnb](../companies/airbnb.md)** | [Find Split Stays for Airbnb Listings](https://trueinterview.io/questions/e03cb6a7-a689-4b72-ba5e-bc25eceb157b) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e03cb6a7-a689-4b72-ba5e-bc25eceb157b) | Dec 2025 |
 | **[Walmart Labs](../companies/walmart-labs.md)** / [Amazon](../companies/amazon.md) | [Find the First Corrupted Character](https://trueinterview.io/questions/8593ff20-396d-44a7-9fb2-21c5eee2d0e1) | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/8593ff20-396d-44a7-9fb2-21c5eee2d0e1) | Dec 2025 |
+| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Snippet Vault](https://trueinterview.io/questions/snippet-vault) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/snippet-vault) | Dec 2025 |
 | **[Airbnb](../companies/airbnb.md)** | [Query System — Time + Geo Filtered User Activity](https://trueinterview.io/questions/query-system-time-geo-search) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/query-system-time-geo-search) | Nov 30, 2025 |
 | **[Databricks](../companies/databricks.md)** / [Salesforce](../companies/salesforce.md) / [Uber](../companies/uber.md) | [Maximal Square and Rectangle in Binary Matrix](https://trueinterview.io/questions/maximal-square-and-rectangle-in-binary-matrix) | Phone · Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximal-square-and-rectangle-in-binary-matrix) | Nov 26, 2025 |
 | **[Amazon](../companies/amazon.md)** | [Implement Interview Coding Problems](https://trueinterview.io/questions/implement-interview-coding-problems) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-interview-coding-problems) | Nov 22, 2025 |
@@ -424,6 +425,5 @@
 | **[Uber](../companies/uber.md)** | [Schedule Meeting / Meeting Scheduler (interval scheduling with updates and deletions)](https://trueinterview.io/questions/2801b4ec-5414-46cc-9a74-9a2b5ded8d5f) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2801b4ec-5414-46cc-9a74-9a2b5ded8d5f) | — |
 | **[Uber](../companies/uber.md)** | [Select the better $5 promo-targeting model](https://trueinterview.io/questions/select-the-better-5-promo-targeting-model) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/select-the-better-5-promo-targeting-model) | — |
 | **[Amazon](../companies/amazon.md)** | [Server Request](https://trueinterview.io/questions/1b3d56cc-d40b-424b-8dd3-47a0e789cfcf) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/1b3d56cc-d40b-424b-8dd3-47a0e789cfcf) | — |
-| **[Instacart](../companies/instacart.md)** | [Should you roll out if NSM decreases?](https://trueinterview.io/questions/should-you-roll-out-if-nsm-decreases) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/should-you-roll-out-if-nsm-decreases) | — |
 
 <sub>Page [1](ecommerce-marketplace.md) · [2](ecommerce-marketplace-2.md) · **3** · [4](ecommerce-marketplace-4.md)</sub>

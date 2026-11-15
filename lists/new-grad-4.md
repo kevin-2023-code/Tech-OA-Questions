@@ -6,11 +6,11 @@
 
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,493 questions** · 493 from an OA · 278 reported in the last 90 days · 470 free to solve
+**1,495 questions** · 495 from an OA · 278 reported in the last 90 days · 470 free to solve
 
-**By role:** 💻 Software Engineering (1,108) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
+**By role:** 💻 Software Engineering (1,110) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
 
-**Rounds:** 📝 OA (493) · 📞 Phone (725) · 🏢 Onsite (384) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (495) · 📞 Phone (725) · 🏢 Onsite (384) · 🏠 Take-home (5)
 
 **Companies:** [Amazon (148)](../companies/amazon.md) · [Meta (102)](../companies/meta.md) · [ByteDance (97)](../companies/bytedance.md) · [Google (91)](../companies/google.md) · [Uber (74)](../companies/uber.md) · [Capital One (69)](../companies/capital-one.md) · [Microsoft (61)](../companies/microsoft.md) · [Stripe (48)](../companies/stripe.md) · [Apple (40)](../companies/apple.md) · [Salesforce (35)](../companies/salesforce.md) · [Bloomberg (34)](../companies/bloomberg.md) · [Goldman Sachs (34)](../companies/goldman-sachs.md) · [Citadel (32)](../companies/citadel.md) · [Roblox (31)](../companies/roblox.md) · [Snowflake (30)](../companies/snowflake.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Karat](../companies/karat.md)** | [Can the Singer Hit Every Note? Vocal Range Check](https://trueinterview.io/questions/singer-vocal-range-songs) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/singer-vocal-range-songs) | — |
 | **[Karat](../companies/karat.md)** | [Castle Rooms Pointing at Treasure Rooms](https://trueinterview.io/questions/castle-treasure-room-instructions) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/castle-treasure-room-instructions) | — |
 | **[Disney](../companies/disney.md)** | [Check Reachability Between Two Graph Nodes](https://trueinterview.io/questions/graph-path-exists-bfs) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/graph-path-exists-bfs) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Check Whether a Binary Tree Obeys Search-Tree Ordering](https://trueinterview.io/questions/validate-bst) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-bst) | — |
@@ -291,6 +292,7 @@
 | **[Shopify](../companies/shopify.md)** | [Terminal Robot Simulator with Multiple Robots](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | — |
 | **[Google](../companies/google.md)** | [Test a coefficient and explain t-distribution](https://trueinterview.io/questions/test-a-coefficient-and-explain-t-distribution) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/test-a-coefficient-and-explain-t-distribution) | — |
 | **[GEICO](../companies/geico.md)** | [Text Editor String Operations: Insert, Delete, Get Character](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | — |
+| **[eBay](../companies/ebay.md)** | [Ticket Reference Tally](https://trueinterview.io/questions/ticket-reference-tally) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ticket-reference-tally) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Tool Changer](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | — |
 | **[Meta](../companies/meta.md)** | [Top 3 Customers by Book Purchases in Specific Categories](https://trueinterview.io/questions/48ac9704-e9a2-4d9e-ae72-7e46d09b96ad) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/48ac9704-e9a2-4d9e-ae72-7e46d09b96ad) | — |
 | **[Boston Consulting Group](../companies/boston-consulting-group.md)** | [Transform and aggregate messy event data](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/transform-and-aggregate-messy-event-data) | — |

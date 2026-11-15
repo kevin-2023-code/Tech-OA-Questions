@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,888 questions** · 800 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
+**5,890 questions** · 802 from an OA · 1,135 reported in the last 90 days · 2,115 free to solve
 
-**By level:** 🎓 Intern & New grad (1,493) · 🌱 Mid (3,450) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (800) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · **15**</sub>
 
@@ -19,6 +19,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[ByteDance](../companies/bytedance.md)** | [Optimize threshold using confusion matrix and costs](https://trueinterview.io/questions/optimize-threshold-using-confusion-matrix-and-costs) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/optimize-threshold-using-confusion-matrix-and-costs) | — |
 | **[PayPal](../companies/paypal.md)** | [Optimize thresholds under fraud costs](https://trueinterview.io/questions/optimize-thresholds-under-fraud-costs) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/optimize-thresholds-under-fraud-costs) | — |
 | — | [Pacific Atlantic Water Flow](https://trueinterview.io/questions/pacific-atlantic-water-flow) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/pacific-atlantic-water-flow) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Pairing Tracks With Minute-Aligned Total Length](https://trueinterview.io/questions/song-pairs-divisible-by-60) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/song-pairs-divisible-by-60) | — |
@@ -213,6 +214,7 @@
 | **[Thumbtack](../companies/thumbtack.md)** | [Test regional response-rate differences rigorously](https://trueinterview.io/questions/test-regional-response-rate-differences-rigorously) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/test-regional-response-rate-differences-rigorously) | — |
 | **[Meta](../companies/meta.md)** | [Test two models' proportions for significance](https://trueinterview.io/questions/test-two-models-proportions-for-significance) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/test-two-models-proportions-for-significance) | — |
 | **[GEICO](../companies/geico.md)** | [Text Editor String Operations: Insert, Delete, Get Character](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | — |
+| **[eBay](../companies/ebay.md)** | [Ticket Reference Tally](https://trueinterview.io/questions/ticket-reference-tally) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ticket-reference-tally) | — |
 | **[LinkedIn](../companies/linkedin.md)** / [Meta](../companies/meta.md) | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Tool Changer](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | — |
 | **[Meta](../companies/meta.md)** | [Top 3 Customers by Book Purchases in Specific Categories](https://trueinterview.io/questions/48ac9704-e9a2-4d9e-ae72-7e46d09b96ad) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/48ac9704-e9a2-4d9e-ae72-7e46d09b96ad) | — |

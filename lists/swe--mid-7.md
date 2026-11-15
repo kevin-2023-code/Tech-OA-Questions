@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,525 questions** · 335 from an OA · 587 reported in the last 90 days · 712 free to solve
+**2,526 questions** · 336 from an OA · 587 reported in the last 90 days · 712 free to solve
 
-**Rounds:** 📝 OA (335) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (336) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
 
 **Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
@@ -126,6 +126,7 @@
 | **[Coinbase](../companies/coinbase.md)** / [Instacart](../companies/instacart.md) | [Task Management System III](https://trueinterview.io/questions/task-management-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/task-management-system) | — |
 | **[Shopify](../companies/shopify.md)** | [Terminal Robot Simulator with Multiple Robots](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | — |
 | **[GEICO](../companies/geico.md)** | [Text Editor String Operations: Insert, Delete, Get Character](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | — |
+| **[eBay](../companies/ebay.md)** | [Ticket Reference Tally](https://trueinterview.io/questions/ticket-reference-tally) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ticket-reference-tally) | — |
 | **[LinkedIn](../companies/linkedin.md)** / [Meta](../companies/meta.md) | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Tool Changer](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | — |
 | **[Microsoft](../companies/microsoft.md)** | [Top K Relevant Apps by Keyword Scores](https://trueinterview.io/questions/512b2078-e57b-4c18-b5d4-995b82722fe1) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/512b2078-e57b-4c18-b5d4-995b82722fe1) | — |

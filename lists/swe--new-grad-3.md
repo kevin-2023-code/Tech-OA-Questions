@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,108 questions** · 349 from an OA · 224 reported in the last 90 days · 310 free to solve
+**1,110 questions** · 351 from an OA · 224 reported in the last 90 days · 310 free to solve
 
-**Rounds:** 📝 OA (349) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
 
 **Companies:** [Amazon (119)](../companies/amazon.md) · [Meta (76)](../companies/meta.md) · [ByteDance (75)](../companies/bytedance.md) · [Google (75)](../companies/google.md) · [Uber (67)](../companies/uber.md) · [Microsoft (51)](../companies/microsoft.md) · [Capital One (45)](../companies/capital-one.md) · [Stripe (43)](../companies/stripe.md) · [Salesforce (34)](../companies/salesforce.md) · [Apple (33)](../companies/apple.md) · [Bloomberg (32)](../companies/bloomberg.md) · [Snowflake (29)](../companies/snowflake.md) · [Airbnb (27)](../companies/airbnb.md) · [C3.ai (27)](../companies/c3-ai.md) · [Square (27)](../companies/square.md)
 
@@ -23,6 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
+| **[Atlassian](../companies/atlassian.md)** | [F1 Last Lap Improvement](https://trueinterview.io/questions/f1-last-lap-improvement) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/f1-last-lap-improvement) | Oct 2, 2025 |
 | **[Atlassian](../companies/atlassian.md)** | [Find Anagram in String](https://trueinterview.io/questions/find-anagram-in-string) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-anagram-in-string) | Oct 2, 2025 |
 | **[WeRide](../companies/weride.md)** | [Implement matrix multiplication and fast exponentiation](https://trueinterview.io/questions/implement-matrix-multiplication-and-fast-exponentiation) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-matrix-multiplication-and-fast-exponentiation) | Oct 2, 2025 |
 | **[Atlassian](../companies/atlassian.md)** | [Subscription Billing Statement](https://trueinterview.io/questions/subscription-billing-statement) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/subscription-billing-statement) | Oct 2, 2025 |
@@ -317,6 +318,7 @@
 | **[ByteDance](../companies/bytedance.md)** | [Task Scheduling](https://trueinterview.io/questions/1ded6e81-6ed3-469d-b74c-a8f27c0668e9) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/1ded6e81-6ed3-469d-b74c-a8f27c0668e9) | — |
 | **[Shopify](../companies/shopify.md)** | [Terminal Robot Simulator with Multiple Robots](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | — |
 | **[GEICO](../companies/geico.md)** | [Text Editor String Operations: Insert, Delete, Get Character](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | — |
+| **[eBay](../companies/ebay.md)** | [Ticket Reference Tally](https://trueinterview.io/questions/ticket-reference-tally) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ticket-reference-tally) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Tool Changer](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Two-Basket Fruit Picking Along a Tree Row](https://trueinterview.io/questions/fruit-into-baskets) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/fruit-into-baskets) | — |
 | **[Square](../companies/square.md)** | [Two-Player Ball Throwing Game Simulation](https://trueinterview.io/questions/ball-throwing-turn-probability) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ball-throwing-turn-probability) | — |

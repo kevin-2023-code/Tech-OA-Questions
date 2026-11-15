@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,108 questions** · 349 from an OA · 224 reported in the last 90 days · 310 free to solve
+**1,110 questions** · 351 from an OA · 224 reported in the last 90 days · 310 free to solve
 
-**Rounds:** 📝 OA (349) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
 
 **Companies:** [Amazon (119)](../companies/amazon.md) · [Meta (76)](../companies/meta.md) · [ByteDance (75)](../companies/bytedance.md) · [Google (75)](../companies/google.md) · [Uber (67)](../companies/uber.md) · [Microsoft (51)](../companies/microsoft.md) · [Capital One (45)](../companies/capital-one.md) · [Stripe (43)](../companies/stripe.md) · [Salesforce (34)](../companies/salesforce.md) · [Apple (33)](../companies/apple.md) · [Bloomberg (32)](../companies/bloomberg.md) · [Snowflake (29)](../companies/snowflake.md) · [Airbnb (27)](../companies/airbnb.md) · [C3.ai (27)](../companies/c3-ai.md) · [Square (27)](../companies/square.md)
 
@@ -350,6 +350,7 @@
 | **[Google](../companies/google.md)** | [Maximum Coins Eaten](https://trueinterview.io/questions/6eca8cb0-2bbe-4bed-8e49-48257111c9b7) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/6eca8cb0-2bbe-4bed-8e49-48257111c9b7) | Dec 2025 |
 | **[Google](../companies/google.md)** | [Maximum Related Numbers](https://trueinterview.io/questions/19b56bf2-394c-4931-aabe-3c28383eb7a3) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/19b56bf2-394c-4931-aabe-3c28383eb7a3) | Dec 2025 |
 | **[Databricks](../companies/databricks.md)** | [Query QPS from KV Store Request Logs](https://trueinterview.io/questions/design-tic-tac-toe-and-qps-data-structures-query-qps-from-kv-store-request-logs) | Onsite | Intern | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toe-and-qps-data-structures-query-qps-from-kv-store-request-logs) | Dec 2025 |
+| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Snippet Vault](https://trueinterview.io/questions/snippet-vault) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/snippet-vault) | Dec 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Spreadsheet column label to number](https://trueinterview.io/questions/solve-four-classic-algorithm-problems-spreadsheet-column-label-to-number) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-classic-algorithm-problems-spreadsheet-column-label-to-number) | Nov 30, 2025 |
 | **[Upstart](../companies/upstart.md)** | [Implement decay simulation and trailing-zero counting](https://trueinterview.io/questions/implement-decay-simulation-and-trailing-zero-counting) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-decay-simulation-and-trailing-zero-counting) | Nov 29, 2025 |
 | **[Apple](../companies/apple.md)** | [Concurrent users from online intervals](https://trueinterview.io/questions/solve-interval-grid-fill-and-heap-tasks-concurrent-users-from-online-intervals) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-interval-grid-fill-and-heap-tasks-concurrent-users-from-online-intervals) | Nov 27, 2025 |
@@ -422,6 +423,5 @@
 | **[DRW](../companies/drw.md)** | [Robot Path Planning](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-robot-path-planning) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-robot-path-planning) | Oct 8, 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [C++ Object Pool Debugging](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | OA | New grad · Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | Oct 5, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Implement popup and redirect in JavaScript](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | Oct 3, 2025 |
-| **[Atlassian](../companies/atlassian.md)** | [F1 Last Lap Improvement](https://trueinterview.io/questions/f1-last-lap-improvement) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/f1-last-lap-improvement) | Oct 2, 2025 |
 
 <sub>Page [1](swe--new-grad.md) · **2** · [3](swe--new-grad-3.md)</sub>

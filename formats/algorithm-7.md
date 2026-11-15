@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,620 questions** · 583 from an OA · 484 reported in the last 90 days · 540 free to solve
+**2,621 questions** · 584 from an OA · 484 reported in the last 90 days · 540 free to solve
 
-**By level:** 🎓 Intern & New grad (1,012) · 🌱 Mid (1,871) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
+**By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
-**Rounds:** 📝 OA (583) · 📞 Phone (1,580) · 🏢 Onsite (652) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (584) · 📞 Phone (1,580) · 🏢 Onsite (652) · 🏠 Take-home (2)
 
 **Companies:** [Google (219)](../companies/google.md) · [Amazon (217)](../companies/amazon.md) · [Meta (181)](../companies/meta.md) · [ByteDance (179)](../companies/bytedance.md) · [Uber (160)](../companies/uber.md) · [Microsoft (136)](../companies/microsoft.md) · [Apple (101)](../companies/apple.md) · [Snowflake (98)](../companies/snowflake.md) · [Salesforce (69)](../companies/salesforce.md) · [Oracle (67)](../companies/oracle.md) · [Bloomberg (65)](../companies/bloomberg.md) · [Capital One (65)](../companies/capital-one.md) · [LinkedIn (63)](../companies/linkedin.md) · [OpenAI (60)](../companies/openai.md) · [Pinterest (57)](../companies/pinterest.md)
 
@@ -217,6 +217,7 @@
 | **[ByteDance](../companies/bytedance.md)** | [Task Scheduling](https://trueinterview.io/questions/1ded6e81-6ed3-469d-b74c-a8f27c0668e9) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/1ded6e81-6ed3-469d-b74c-a8f27c0668e9) | — |
 | **[Shopify](../companies/shopify.md)** | [Terminal Robot Simulator with Multiple Robots](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5aa25c82-81de-5056-8e63-c7125c1306be) | — |
 | **[GEICO](../companies/geico.md)** | [Text Editor String Operations: Insert, Delete, Get Character](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | — |
+| **[eBay](../companies/ebay.md)** | [Ticket Reference Tally](https://trueinterview.io/questions/ticket-reference-tally) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ticket-reference-tally) | — |
 | **[Salesforce](../companies/salesforce.md)** | [Tool Changer](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5) | — |
 | **[Microsoft](../companies/microsoft.md)** | [Top K Relevant Apps by Keyword Scores](https://trueinterview.io/questions/512b2078-e57b-4c18-b5d4-995b82722fe1) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/512b2078-e57b-4c18-b5d4-995b82722fe1) | — |
 | **[Amazon](../companies/amazon.md)** | [Top-to-Bottom Reachability and Minimum-Cost Paths in a Binary Grid](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/67906637-33b3-5586-bded-b7559d08e33b) | — |

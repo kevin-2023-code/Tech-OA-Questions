@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice eBay on TrueInterview](https://trueinterview.io/problems/company/ebay) · [How eBay interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/ebay/README.md)
 
-🛒 E-commerce & marketplaces · **46 questions** · 11 from an OA · last reported Oct 2026
+🛒 E-commerce & marketplaces · **48 questions** · 13 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (15) · 🌱 Mid (29) · 🎯 Senior (30) · 🚀 Staff+ (5)
+**By level:** 🎓 Intern & New grad (17) · 🌱 Mid (30) · 🎯 Senior (30) · 🚀 Staff+ (5)
 
-**By role:** 💻 Software Engineering (44) · 🤖 ML, AI & Research (2)
+**By role:** 💻 Software Engineering (46) · 🤖 ML, AI & Research (2)
 
-**Rounds:** 📝 OA (11) · 📞 Phone (20) · 🏢 Onsite (20)
+**Rounds:** 📝 OA (13) · 📞 Phone (20) · 🏢 Onsite (20)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/ebay-interview-process)
 
@@ -67,3 +67,5 @@
 | [Balloon Explosion](https://trueinterview.io/questions/bec1bae5-6bc3-4a83-8430-077c684da76c) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/bec1bae5-6bc3-4a83-8430-077c684da76c) | Dec 2025 |
 | [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase)<br><sub>also [Ramp](../companies/ramp.md)</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Dec 2025 |
 | [Count Difference in Uppercase and Lowercase Letters](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | Dec 2025 |
+| [Snippet Vault](https://trueinterview.io/questions/snippet-vault)<br><sub>also [Coinbase](../companies/coinbase.md) / [HubSpot](../companies/hubspot.md)</sub> | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/snippet-vault) | Dec 2025 |
+| [Ticket Reference Tally](https://trueinterview.io/questions/ticket-reference-tally) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ticket-reference-tally) | — |

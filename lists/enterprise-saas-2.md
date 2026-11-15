@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Enterprise & business software*.
 
-**718 questions** · 98 from an OA · 155 reported in the last 90 days · 231 free to solve
+**719 questions** · 99 from an OA · 155 reported in the last 90 days · 231 free to solve
 
-**By level:** 🎓 Intern & New grad (175) · 🌱 Mid (430) · 🎯 Senior (528) · 🚀 Staff+ (77)
+**By level:** 🎓 Intern & New grad (176) · 🌱 Mid (430) · 🎯 Senior (528) · 🚀 Staff+ (77)
 
-**By role:** 💻 Software Engineering (607) · 🤖 ML, AI & Research (45) · 📊 Data Science & Analytics (56) · 📈 Quantitative Finance (3) · 📱 Product Management (2)
+**By role:** 💻 Software Engineering (608) · 🤖 ML, AI & Research (45) · 📊 Data Science & Analytics (56) · 📈 Quantitative Finance (3) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (98) · 📞 Phone (349) · 🏢 Onsite (325) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (99) · 📞 Phone (349) · 🏢 Onsite (325) · 🏠 Take-home (1)
 
-**Companies:** [Microsoft (240)](../companies/microsoft.md) · [Oracle (115)](../companies/oracle.md) · [Salesforce (99)](../companies/salesforce.md) · [Atlassian (63)](../companies/atlassian.md) · [Rippling (58)](../companies/rippling.md) · [Intuit (38)](../companies/intuit.md) · [Figma (29)](../companies/figma.md) · [Tradedesk (22)](../companies/tradedesk.md) · [Dropbox (21)](../companies/dropbox.md) · [HubSpot (12)](../companies/hubspot.md) · [Palantir (12)](../companies/palantir.md) · [Airtable (11)](../companies/airtable.md) · [Amplitude (8)](../companies/amplitude.md) · [Bobyard (7)](../companies/bobyard.md) · [Gusto (6)](../companies/gusto.md) · [Rokt (5)](../companies/rokt.md) · [StackAdapt (5)](../companies/stackadapt.md)
+**Companies:** [Microsoft (240)](../companies/microsoft.md) · [Oracle (115)](../companies/oracle.md) · [Salesforce (99)](../companies/salesforce.md) · [Atlassian (63)](../companies/atlassian.md) · [Rippling (58)](../companies/rippling.md) · [Intuit (38)](../companies/intuit.md) · [Figma (29)](../companies/figma.md) · [Tradedesk (22)](../companies/tradedesk.md) · [Dropbox (21)](../companies/dropbox.md) · [HubSpot (13)](../companies/hubspot.md) · [Palantir (12)](../companies/palantir.md) · [Airtable (11)](../companies/airtable.md) · [Amplitude (8)](../companies/amplitude.md) · [Bobyard (7)](../companies/bobyard.md) · [Gusto (6)](../companies/gusto.md) · [Rokt (5)](../companies/rokt.md) · [StackAdapt (5)](../companies/stackadapt.md)
 
 <sub>Page [1](enterprise-saas.md) · **2**</sub>
 
@@ -163,6 +163,7 @@
 | **[Atlassian](../companies/atlassian.md)** | [LeetCode Problem 636](https://trueinterview.io/questions/e232949d-8555-44bc-9410-40b2b8c91190) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e232949d-8555-44bc-9410-40b2b8c91190) | Dec 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Longest Palindromic Subsequence](https://trueinterview.io/questions/476e68bd-f245-4818-88e5-fc21d78ebda5) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/476e68bd-f245-4818-88e5-fc21d78ebda5) | Dec 2025 |
 | **[Rippling](../companies/rippling.md)** | [Max Simultaneous Driver In Past 24 Hours](https://trueinterview.io/questions/92e84cab-d048-472b-bbcc-48a6170c506b) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/92e84cab-d048-472b-bbcc-48a6170c506b) | Dec 2025 |
+| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Snippet Vault](https://trueinterview.io/questions/snippet-vault) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/snippet-vault) | Dec 2025 |
 | **[Rippling](../companies/rippling.md)** | [What was the hardest part of your project?](https://trueinterview.io/questions/what-was-the-hardest-part-of-your-project) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/what-was-the-hardest-part-of-your-project) | Dec 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Solve four classic algorithm problems](https://trueinterview.io/questions/solve-four-classic-algorithm-problems) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-classic-algorithm-problems) | Nov 30, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Spreadsheet column label to number](https://trueinterview.io/questions/solve-four-classic-algorithm-problems-spreadsheet-column-label-to-number) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-four-classic-algorithm-problems-spreadsheet-column-label-to-number) | Nov 30, 2025 |

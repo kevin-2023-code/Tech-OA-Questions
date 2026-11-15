@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**659 questions** · 52 from an OA · 156 reported in the last 90 days · 85 free to solve
+**660 questions** · 53 from an OA · 156 reported in the last 90 days · 85 free to solve
 
-**By level:** 🎓 Intern & New grad (122) · 🌱 Mid (455) · 🎯 Senior (447) · 🚀 Staff+ (21)
+**By level:** 🎓 Intern & New grad (123) · 🌱 Mid (455) · 🎯 Senior (447) · 🚀 Staff+ (21)
 
-**Rounds:** 📝 OA (52) · 📞 Phone (235) · 🏢 Onsite (437) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (53) · 📞 Phone (235) · 🏢 Onsite (437) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (48)](../companies/amazon.md) · [Google (32)](../companies/google.md) · [Microsoft (32)](../companies/microsoft.md) · [OpenAI (32)](../companies/openai.md) · [Coinbase (31)](../companies/coinbase.md) · [Airbnb (27)](../companies/airbnb.md) · [Anthropic (26)](../companies/anthropic.md) · [LinkedIn (26)](../companies/linkedin.md) · [Netflix (24)](../companies/netflix.md) · [Uber (24)](../companies/uber.md) · [ByteDance (22)](../companies/bytedance.md) · [Apple (19)](../companies/apple.md) · [Oracle (19)](../companies/oracle.md) · [Bloomberg (16)](../companies/bloomberg.md) · [Citadel (16)](../companies/citadel.md)
+**Companies:** [Amazon (48)](../companies/amazon.md) · [Coinbase (32)](../companies/coinbase.md) · [Google (32)](../companies/google.md) · [Microsoft (32)](../companies/microsoft.md) · [OpenAI (32)](../companies/openai.md) · [Airbnb (27)](../companies/airbnb.md) · [Anthropic (26)](../companies/anthropic.md) · [LinkedIn (26)](../companies/linkedin.md) · [Netflix (24)](../companies/netflix.md) · [Uber (24)](../companies/uber.md) · [ByteDance (22)](../companies/bytedance.md) · [Apple (19)](../companies/apple.md) · [Oracle (19)](../companies/oracle.md) · [Bloomberg (16)](../companies/bloomberg.md) · [Citadel (16)](../companies/citadel.md)
 
 <sub>Page [1](object-oriented-programming.md) · **2**</sub>
 
@@ -137,6 +137,7 @@
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Message Parser](https://trueinterview.io/questions/e50a4680-a10a-486b-8a7a-5058a6225a0e) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e50a4680-a10a-486b-8a7a-5058a6225a0e) | Dec 2025 |
 | **[LinkedIn](../companies/linkedin.md)** | [O(1) Time Insert, Remove, and RemoveRandom Data Structure](https://trueinterview.io/questions/0c5ac2d7-446b-433d-8632-247de13bec98) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/0c5ac2d7-446b-433d-8632-247de13bec98) | Dec 2025 |
 | **[Databricks](../companies/databricks.md)** | [Query QPS from KV Store Request Logs](https://trueinterview.io/questions/design-tic-tac-toe-and-qps-data-structures-query-qps-from-kv-store-request-logs) | Onsite | Intern | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toe-and-qps-data-structures-query-qps-from-kv-store-request-logs) | Dec 2025 |
+| **[Coinbase](../companies/coinbase.md)** / [eBay](../companies/ebay.md) / [HubSpot](../companies/hubspot.md) | [Snippet Vault](https://trueinterview.io/questions/snippet-vault) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/snippet-vault) | Dec 2025 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Trade Processor with Subscribe / Unsubscribe](https://trueinterview.io/questions/trade-processor-subscribe-unsubscribe) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/trade-processor-subscribe-unsubscribe) | Nov 27, 2025 |
 | **[Optiver](../companies/optiver.md)** | [Implement a News Publishing System with Topic Subscriptions and Delivery Limits](https://trueinterview.io/questions/implement-a-news-publishing-system-with-topic-subscriptions-and-delivery-limits) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-news-publishing-system-with-topic-subscriptions-and-delivery-limits) | Nov 25, 2025 |
 | **[OpenAI](../companies/openai.md)** | [Implement a persistent sharded key-value store](https://trueinterview.io/questions/implement-a-persistent-sharded-key-value-store) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-persistent-sharded-key-value-store) | Nov 24, 2025 |

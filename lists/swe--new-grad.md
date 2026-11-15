@@ -8,9 +8,9 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,108 questions** · 349 from an OA · 224 reported in the last 90 days · 310 free to solve
+**1,110 questions** · 351 from an OA · 224 reported in the last 90 days · 310 free to solve
 
-**Rounds:** 📝 OA (349) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
 
 **Companies:** [Amazon (119)](../companies/amazon.md) · [Meta (76)](../companies/meta.md) · [ByteDance (75)](../companies/bytedance.md) · [Google (75)](../companies/google.md) · [Uber (67)](../companies/uber.md) · [Microsoft (51)](../companies/microsoft.md) · [Capital One (45)](../companies/capital-one.md) · [Stripe (43)](../companies/stripe.md) · [Salesforce (34)](../companies/salesforce.md) · [Apple (33)](../companies/apple.md) · [Bloomberg (32)](../companies/bloomberg.md) · [Snowflake (29)](../companies/snowflake.md) · [Airbnb (27)](../companies/airbnb.md) · [C3.ai (27)](../companies/c3-ai.md) · [Square (27)](../companies/square.md)
 
