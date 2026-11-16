@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Linear Interpolation](https://trueinterview.io/questions/qr-oa-linear-interpolator) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/qr-oa-linear-interpolator) | 🆕 Oct 2026 |
+| [Linear Interpolation](https://trueinterview.io/questions/qr-oa-linear-interpolator) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/qr-oa-linear-interpolator) | Oct 2026 |
 | [Top K Largest Elements](https://trueinterview.io/questions/top-k-largest-elements)<br><sub>also [Microsoft](../companies/microsoft.md) / [Amazon](../companies/amazon.md) / [Apple](../companies/apple.md) / +6</sub> | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/top-k-largest-elements) | Sep 2026 |
 | [Merge Two Interval Lists](https://trueinterview.io/questions/aaf19257-7725-4e52-8c40-d17ba3fd9390)<br><sub>also [Meta](../companies/meta.md) / [Amazon](../companies/amazon.md) / [Apple](../companies/apple.md) / +13</sub> | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/aaf19257-7725-4e52-8c40-d17ba3fd9390) | Aug 2026 |
 | [Prediction task](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-prediction-task) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-prediction-task) | Aug 2026 |

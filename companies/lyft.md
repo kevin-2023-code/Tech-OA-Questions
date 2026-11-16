@@ -21,8 +21,8 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design a 1-to-1 Chat System](https://trueinterview.io/questions/design-a-1-to-1-chat-system)<br><sub>also [Anthropic](../companies/anthropic.md)</sub> | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | 🆕 Oct 2026 |
-| [Rotten Oranges / Grid Infection BFS](https://trueinterview.io/questions/rotten-oranges-grid-bfs) | OA · Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/rotten-oranges-grid-bfs) | 🆕 Oct 2026 |
+| [Design a 1-to-1 Chat System](https://trueinterview.io/questions/design-a-1-to-1-chat-system)<br><sub>also [Anthropic](../companies/anthropic.md)</sub> | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-1-to-1-chat-system) | Oct 2026 |
+| [Rotten Oranges / Grid Infection BFS](https://trueinterview.io/questions/rotten-oranges-grid-bfs) | OA · Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/rotten-oranges-grid-bfs) | Oct 2026 |
 | [Design a Globally Versioned Key-Value Store](https://trueinterview.io/questions/design-a-globally-versioned-key-value-store) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-globally-versioned-key-value-store) | Sep 8, 2026 |
 | [Explain Project Ownership and Collaboration with Colleagues](https://trueinterview.io/questions/explain-project-ownership-and-collaboration-with-colleagues) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-project-ownership-and-collaboration-with-colleagues) | Sep 8, 2026 |
 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design)<br><sub>also [Robinhood](../companies/robinhood.md) / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +12</sub> | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |

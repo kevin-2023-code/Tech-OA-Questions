@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Hiring-Manager / Project Chat + AI Philosophy](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | 🆕 Oct 2026 |
+| [Hiring-Manager / Project Chat + AI Philosophy](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | Oct 2026 |
 | [Evaluate Role-Based Access with Deny Precedence](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/evaluate-role-based-access-with-deny-precedence) | Aug 20, 2026 |
 | [Sliding-Window Rate Limiter II](https://trueinterview.io/questions/sliding-window-rate-limiter)<br><sub>also [Roblox](../companies/roblox.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +10</sub> | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/sliding-window-rate-limiter) | Aug 2026 |
 | [CD Rental System (Java DSA / LLD)](https://trueinterview.io/questions/cd-rental-system) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/cd-rental-system) | Jun 24, 2026 |

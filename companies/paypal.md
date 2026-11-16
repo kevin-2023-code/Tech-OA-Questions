@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | 🆕 Oct 1, 2026 |
+| [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Oct 1, 2026 |
 | [Bank System](https://trueinterview.io/questions/bank-system)<br><sub>also [Coinbase](../companies/coinbase.md) / [Anthropic](../companies/anthropic.md)</sub> | OA | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/bank-system) | Sep 2026 |
 | [Lowest Common Ancestor of a Binary Tree](https://trueinterview.io/questions/lowest-common-ancestor-of-a-binary-tree)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +4</sub> | Phone | Intern · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/lowest-common-ancestor-of-a-binary-tree) | Sep 2026 |
 | [Answer career, manager, and team fit questions](https://trueinterview.io/questions/answer-career-manager-and-team-fit-questions) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-career-manager-and-team-fit-questions) | May 2026 |

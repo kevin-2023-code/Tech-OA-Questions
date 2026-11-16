@@ -21,8 +21,8 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Hiring Manager + Behavioral Rounds](https://trueinterview.io/questions/hm-and-bq-rounds) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hm-and-bq-rounds) | 🆕 Oct 2026 |
-| [Minimum Operations to Transform an Integer Using ±2^i Steps](https://trueinterview.io/questions/2ea154e2-6476-46e8-a8bf-cc076ba222ec)<br><sub>also [Microsoft](../companies/microsoft.md) / [Google](../companies/google.md) / [Uber](../companies/uber.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/2ea154e2-6476-46e8-a8bf-cc076ba222ec) | 🆕 Oct 2026 |
+| [Hiring Manager + Behavioral Rounds](https://trueinterview.io/questions/hm-and-bq-rounds) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hm-and-bq-rounds) | Oct 2026 |
+| [Minimum Operations to Transform an Integer Using ±2^i Steps](https://trueinterview.io/questions/2ea154e2-6476-46e8-a8bf-cc076ba222ec)<br><sub>also [Microsoft](../companies/microsoft.md) / [Google](../companies/google.md) / [Uber](../companies/uber.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/2ea154e2-6476-46e8-a8bf-cc076ba222ec) | Oct 2026 |
 | [Coffee Ordering System Design](https://trueinterview.io/questions/coffee-ordering-system) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/coffee-ordering-system) | Sep 2026 |
 | [Convert a Sorted Doubly Linked List to an In-Place Balanced BST](https://trueinterview.io/questions/f1aaa02f-904d-5b17-9a24-32f73f3f56a7) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f1aaa02f-904d-5b17-9a24-32f73f3f56a7) | Sep 2026 |
 | [Design an Idempotent Payment Processing Platform](https://trueinterview.io/questions/design-an-idempotent-payment-processing-platform) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-idempotent-payment-processing-platform) | Sep 2026 |

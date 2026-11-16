@@ -6,7 +6,7 @@
 
 > **Role:** Asked for a **Frontend Engineer** role.
 
-**106 questions** · 7 from an OA · 25 reported in the last 90 days · 31 free to solve
+**106 questions** · 7 from an OA · 24 reported in the last 90 days · 31 free to solve
 
 **By level:** 🎓 Intern & New grad (12) · 🌱 Mid (70) · 🎯 Senior (67) · 🚀 Staff+ (7)
 
@@ -21,10 +21,10 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Roblox](../companies/roblox.md)** | [Build an Auto-Rotating Traffic Light in Vanilla JavaScript](https://trueinterview.io/questions/3179045e-815a-52de-bb9d-530f993b62a7) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/3179045e-815a-52de-bb9d-530f993b62a7) | 🆕 Oct 2026 |
-| **[Amazon](../companies/amazon.md)** | [Debug a Movie DB Watchlist Full-Stack Project](https://trueinterview.io/questions/01d139bb-66c2-5317-b9ee-d6817b67e4a5) | Onsite | New grad · Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/01d139bb-66c2-5317-b9ee-d6817b67e4a5) | 🆕 Oct 2026 |
-| **[Roblox](../companies/roblox.md)** | [Notification System](https://trueinterview.io/questions/front-end-system-design-notification-system) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/front-end-system-design-notification-system) | 🆕 Oct 2026 |
-| **[Robinhood](../companies/robinhood.md)** / [Roblox](../companies/roblox.md) | [Photo Album System Design](https://trueinterview.io/questions/photo-album-frontend-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/photo-album-frontend-design) | 🆕 Oct 2026 |
+| **[Roblox](../companies/roblox.md)** | [Build an Auto-Rotating Traffic Light in Vanilla JavaScript](https://trueinterview.io/questions/3179045e-815a-52de-bb9d-530f993b62a7) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/3179045e-815a-52de-bb9d-530f993b62a7) | Oct 2026 |
+| **[Amazon](../companies/amazon.md)** | [Debug a Movie DB Watchlist Full-Stack Project](https://trueinterview.io/questions/01d139bb-66c2-5317-b9ee-d6817b67e4a5) | Onsite | New grad · Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/01d139bb-66c2-5317-b9ee-d6817b67e4a5) | Oct 2026 |
+| **[Roblox](../companies/roblox.md)** | [Notification System](https://trueinterview.io/questions/front-end-system-design-notification-system) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/front-end-system-design-notification-system) | Oct 2026 |
+| **[Robinhood](../companies/robinhood.md)** / [Roblox](../companies/roblox.md) | [Photo Album System Design](https://trueinterview.io/questions/photo-album-frontend-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/photo-album-frontend-design) | Oct 2026 |
 | **[Tradedesk](../companies/tradedesk.md)** | [Debug a Frontend Component That Shows Wrong API Results](https://trueinterview.io/questions/debug-a-frontend-component-that-shows-wrong-api-results) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/debug-a-frontend-component-that-shows-wrong-api-results) | Sep 15, 2026 |
 | **[Databricks](../companies/databricks.md)** | [Design a Typeahead Search System](https://trueinterview.io/questions/design-a-typeahead-search-system) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-typeahead-search-system) | Sep 15, 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Design an iOS Timer App with Consistent State and Asynchronous UI Updates](https://trueinterview.io/questions/design-an-ios-timer-app-with-consistent-state-and-asynchronous-ui-updates) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-ios-timer-app-with-consistent-state-and-asynchronous-ui-updates) | Sep 15, 2026 |

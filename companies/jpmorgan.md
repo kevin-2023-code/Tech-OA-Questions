@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +7</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
+| [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +7</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | Oct 2026 |
 | [Grouped Binary Substrings](https://trueinterview.io/questions/grouped-binary-substrings)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/grouped-binary-substrings) | Sep 2026 |
 | [Super Day Behavioral Round](https://trueinterview.io/questions/superday-behavioral-round) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/superday-behavioral-round) | Sep 2026 |
 | [Describe a proud project and conflict](https://trueinterview.io/questions/describe-a-proud-project-and-conflict) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-a-proud-project-and-conflict) | Aug 2026 |

@@ -23,7 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Meta](../companies/meta.md)** | [Explain background, team structure, and role fit](https://trueinterview.io/questions/explain-background-team-structure-and-role-fit) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-background-team-structure-and-role-fit) | 🆕 Oct 2026 |
+| **[Meta](../companies/meta.md)** | [Explain background, team structure, and role fit](https://trueinterview.io/questions/explain-background-team-structure-and-role-fit) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-background-team-structure-and-role-fit) | Oct 2026 |
 | **[Meta](../companies/meta.md)** | [Data Engineering Leadership — Impact and Mentorship](https://trueinterview.io/questions/de-leadership-impact-and-mentorship) | Phone | Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/de-leadership-impact-and-mentorship) | Sep 17, 2026 |
 | **[Wayfair](../companies/wayfair.md)** | [Evaluate Post-Purchase Recommendation Emails](https://trueinterview.io/questions/evaluate-post-purchase-recommendation-emails) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-post-purchase-recommendation-emails) | Sep 10, 2026 |
 | **[Wayfair](../companies/wayfair.md)** | [Rank Homepage Modules for an E-Commerce Product](https://trueinterview.io/questions/rank-homepage-modules-for-an-e-commerce-product) | Onsite | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/rank-homepage-modules-for-an-e-commerce-product) | Sep 10, 2026 |

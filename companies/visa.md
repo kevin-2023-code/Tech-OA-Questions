@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +7</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | 🆕 Oct 2026 |
+| [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +7</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | Oct 2026 |
 | [Jump Game](https://trueinterview.io/questions/25fc504b-0fcb-40f7-9453-780b842efd06)<br><sub>also [ByteDance](../companies/bytedance.md) / [Google](../companies/google.md) / [Microsoft](../companies/microsoft.md)</sub> | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/25fc504b-0fcb-40f7-9453-780b842efd06) | Sep 2026 |
 | [Zero-Sum Triplets Without Duplicates](https://trueinterview.io/questions/three-sum)<br><sub>also [C3.ai](../companies/c3-ai.md) / [Microsoft](../companies/microsoft.md) / [NVIDIA](../companies/nvidia.md)</sub> | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/three-sum) | Sep 2026 |
 | [Best Time to Buy and Sell Stock](https://trueinterview.io/questions/b22b8d56-b468-4bec-86db-22b981d32761)<br><sub>also [Oracle](../companies/oracle.md)</sub> | OA | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/b22b8d56-b468-4bec-86db-22b981d32761) | Aug 2026 |

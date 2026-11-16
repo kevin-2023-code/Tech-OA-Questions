@@ -6,7 +6,7 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,167 questions** · 255 from an OA · 407 reported in the last 90 days · 2,167 free to solve
+**2,167 questions** · 255 from an OA · 404 reported in the last 90 days · 2,167 free to solve
 
 **By level:** 🎓 Intern & New grad (489) · 🌱 Mid (1,174) · 🎯 Senior (1,626) · 🚀 Staff+ (672)
 

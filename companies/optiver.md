@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Trading Betting Game (EV / Market-Making)](https://trueinterview.io/questions/trading-betting-game) | Phone · Onsite | Intern · New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/trading-betting-game) | 🆕 Oct 2026 |
+| [Trading Betting Game (EV / Market-Making)](https://trueinterview.io/questions/trading-betting-game) | Phone · Onsite | Intern · New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/trading-betting-game) | Oct 2026 |
 | [Currency Exchange](https://trueinterview.io/questions/980e641d-e0c5-4fc5-a12c-13e0c669f971)<br><sub>also [Coinbase](../companies/coinbase.md) / [ByteDance](../companies/bytedance.md) / [Stripe](../companies/stripe.md) / +1</sub> | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/980e641d-e0c5-4fc5-a12c-13e0c669f971) | Aug 2026 |
 | [HR / Behavioral Phone Screen](https://trueinterview.io/questions/hr-behavioral-screen) | Phone | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hr-behavioral-screen) | Aug 2026 |
 | [Koko Eating Bananas](https://trueinterview.io/questions/koko-eating-bananas)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md)</sub> | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/koko-eating-bananas) | Aug 2026 |

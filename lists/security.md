@@ -23,7 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Okta](../companies/okta.md)** | [Hiring-Manager / Project Chat + AI Philosophy](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | 🆕 Oct 2026 |
+| **[Okta](../companies/okta.md)** | [Hiring-Manager / Project Chat + AI Philosophy](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hm-project-and-ai-philosophy) | Oct 2026 |
 | **[Vanta](../companies/vanta.md)** | [Measure Most-Viewed URLs and Subscription Conversion Rates](https://trueinterview.io/questions/measure-most-viewed-urls-and-subscription-conversion-rates) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/measure-most-viewed-urls-and-subscription-conversion-rates) | Sep 12, 2026 |
 | **[Verkada](../companies/verkada.md)** | [Design a Massive Live Two-Choice Voting System](https://trueinterview.io/questions/design-a-massive-live-two-choice-voting-system) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-massive-live-two-choice-voting-system) | Sep 4, 2026 |
 | **[Airbnb](../companies/airbnb.md)** / [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / +7 | [Design Hotel Booking System](https://trueinterview.io/questions/booking-system-design) | Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/booking-system-design) | Sep 2026 |
