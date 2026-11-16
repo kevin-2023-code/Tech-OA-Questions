@@ -12,7 +12,7 @@
 
 **Rounds:** 📝 OA (16) · 📞 Phone (45) · 🏢 Onsite (55) · 🏠 Take-home (2)
 
-**📖 Loop guides:** [SWE](https://trueinterview.io/study/anthropic-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/anthropic-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/anthropic-research-scientist-interview-process) · [AI engineer](https://trueinterview.io/study/anthropic-ai-engineer-interview-process) · [Infra](https://trueinterview.io/study/anthropic-infrastructure-engineer-interview-process)
+**📖 Loop guides:** [SWE](https://trueinterview.io/study/anthropic-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/anthropic-machine-learning-engineer-interview-process) · [AI engineer](https://trueinterview.io/study/anthropic-ai-engineer-interview-process) · [Infra](https://trueinterview.io/study/anthropic-infrastructure-engineer-interview-process)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
