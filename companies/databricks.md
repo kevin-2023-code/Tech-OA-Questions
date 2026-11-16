@@ -12,7 +12,7 @@
 
 **Rounds:** 📝 OA (5) · 📞 Phone (39) · 🏢 Onsite (57)
 
-**📖 Loop guides:** [Overview](https://trueinterview.io/study/databricks-interview-process) · [SWE](https://trueinterview.io/study/databricks-software-engineer-interview-process) · [Infra](https://trueinterview.io/study/databricks-infrastructure-engineer-interview-process)
+**📖 Loop guides:** [SWE](https://trueinterview.io/study/databricks-software-engineer-interview-process) · [Infra](https://trueinterview.io/study/databricks-infrastructure-engineer-interview-process)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
