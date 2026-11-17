@@ -12,8 +12,6 @@
 
 **Rounds:** 📝 OA (2) · 📞 Phone (20) · 🏢 Onsite (18)
 
-**📖 Loop guides:** [Overview](https://trueinterview.io/study/scale-ai-interview-process)
-
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
