@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,125 reported in the last 90 days · 2,167 free to solve
+**5,890 questions** · 802 from an OA · 1,123 reported in the last 90 days · 2,167 free to solve
 
 **By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
 
@@ -36,11 +36,11 @@
 | **[Microsoft](../companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | 🆕 Oct 3, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Number of Islands with Max-Area and Streaming-Rows Follow-Ups](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | 🆕 Oct 3, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | 🆕 Oct 3, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Checkout Price Engine](https://trueinterview.io/questions/checkout-price-engine-ood) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/checkout-price-engine-ood) | 🆕 Oct 2, 2026 |
-| **[Capital One](../companies/capital-one.md)** | [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-pattern-matching) | 🆕 Oct 2, 2026 |
-| **[Google](../companies/google.md)** | [ML System Design (Recsys / Chatbot / Image Classifier)](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | 🆕 Oct 2, 2026 |
-| **[Capital One](../companies/capital-one.md)** | [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/number-line-block-placement) | 🆕 Oct 2, 2026 |
-| **[Apple](../companies/apple.md)** | [Plant Infection Spread: Days Until Stable](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | 🆕 Oct 2, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Checkout Price Engine](https://trueinterview.io/questions/checkout-price-engine-ood) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/checkout-price-engine-ood) | Oct 2, 2026 |
+| **[Capital One](../companies/capital-one.md)** | [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-pattern-matching) | Oct 2, 2026 |
+| **[Google](../companies/google.md)** | [ML System Design (Recsys / Chatbot / Image Classifier)](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Oct 2, 2026 |
+| **[Capital One](../companies/capital-one.md)** | [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/number-line-block-placement) | Oct 2, 2026 |
+| **[Apple](../companies/apple.md)** | [Plant Infection Spread: Days Until Stable](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Oct 2, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Employee Attrition Prediction](https://trueinterview.io/questions/employee-attrition-prediction) | OA · Onsite | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/employee-attrition-prediction) | Oct 1, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-iv) | Oct 1, 2026 |
 | **[Amazon](../companies/amazon.md)** / [Scale AI](../companies/scale-ai.md) | [Lowest Common Manager in an Org Chart (Binary-Tree LCA Family)](https://trueinterview.io/questions/lowest-common-manager-org-chart) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-manager-org-chart) | Oct 1, 2026 |

@@ -21,7 +21,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Google](../companies/google.md)** | [ML System Design (Recsys / Chatbot / Image Classifier)](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | 🆕 Oct 2, 2026 |
+| **[Google](../companies/google.md)** | [ML System Design (Recsys / Chatbot / Image Classifier)](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Oct 2, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Applied Scientist / MLE Project Deep Dive](https://trueinterview.io/questions/applied-scientist-project-deep-dive) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/applied-scientist-project-deep-dive) | Oct 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Batch Image Processor](https://trueinterview.io/questions/batch-image-processor) | Phone · Onsite | New grad · Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/batch-image-processor) | Oct 2026 |
 | **[OpenAI](../companies/openai.md)** | [Debug a Transformer and Convert It to a Classifier](https://trueinterview.io/questions/transformer-debug) | Phone · Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/transformer-debug) | Oct 2026 |

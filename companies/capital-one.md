@@ -21,8 +21,8 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-pattern-matching) | 🆕 Oct 2, 2026 |
-| [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/number-line-block-placement) | 🆕 Oct 2, 2026 |
+| [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-pattern-matching) | Oct 2, 2026 |
+| [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/number-line-block-placement) | Oct 2, 2026 |
 | [Build Blocks and Check Interval Availability](https://trueinterview.io/questions/b529e40c-262f-538d-bc01-16fd7b1936b5) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b529e40c-262f-538d-bc01-16fd7b1936b5) | Oct 2026 |
 | [Build Driver-Level Feature Dataset](https://trueinterview.io/questions/b5547eb7-b2ec-535d-8ffd-9ab383cfd6cd) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b5547eb7-b2ec-535d-8ffd-9ab383cfd6cd) | Oct 2026 |
 | [Count Arithmetic Triplets After Each Query](https://trueinterview.io/questions/ff10e415-447b-5ca5-9793-e7714cddfbe6) | Phone | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/ff10e415-447b-5ca5-9793-e7714cddfbe6) | Oct 2026 |

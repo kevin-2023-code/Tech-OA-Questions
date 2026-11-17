@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Consumer internet & media*.
 
-**1,581 questions** · 128 from an OA · 323 reported in the last 90 days · 590 free to solve
+**1,581 questions** · 128 from an OA · 321 reported in the last 90 days · 590 free to solve
 
 **By level:** 🎓 Intern & New grad (334) · 🌱 Mid (904) · 🎯 Senior (1,148) · 🚀 Staff+ (389)
 
@@ -29,7 +29,7 @@
 | **[Google](../companies/google.md)** | [Connected Crop Arrangement on a Grid](https://trueinterview.io/questions/connected-crop-arrangement-grid) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/connected-crop-arrangement-grid) | 🆕 Oct 4, 2026 |
 | **[Google](../companies/google.md)** | [Course Scheduling and Dependency Variants](https://trueinterview.io/questions/course-schedule-dependency-variants) | Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/course-schedule-dependency-variants) | 🆕 Oct 4, 2026 |
 | **[Google](../companies/google.md)** | [Longest Non-Decreasing Subarray with One Replacement](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | 🆕 Oct 4, 2026 |
-| **[Google](../companies/google.md)** | [ML System Design (Recsys / Chatbot / Image Classifier)](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | 🆕 Oct 2, 2026 |
+| **[Google](../companies/google.md)** | [ML System Design (Recsys / Chatbot / Image Classifier)](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Oct 2, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [LRU Cache](https://trueinterview.io/questions/lru-cache) | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Oct 1, 2026 |
 | **[LinkedIn](../companies/linkedin.md)** | [AI-Powered Personalized Recruiter Message Generation](https://trueinterview.io/questions/sd-personalized-inmail-ai) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/sd-personalized-inmail-ai) | Oct 2026 |
 | **[Google](../companies/google.md)** | [Answer Google Behavioral Questions](https://trueinterview.io/questions/answer-google-behavioral-questions) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-google-behavioral-questions) | Oct 2026 |

@@ -23,7 +23,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Apple](../companies/apple.md)** | [Plant Infection Spread: Days Until Stable](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | 🆕 Oct 2, 2026 |
+| **[Apple](../companies/apple.md)** | [Plant Infection Spread: Days Until Stable](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Oct 2, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [LRU Cache](https://trueinterview.io/questions/lru-cache) | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Oct 1, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +8 | [Course Schedule](https://trueinterview.io/questions/course-schedule) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | Oct 2026 |
 | **[Apple](../companies/apple.md)** / [Bloomberg](../companies/bloomberg.md) / [Google](../companies/google.md) | [Decode String](https://trueinterview.io/questions/decode-string) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/decode-string) | Oct 2026 |

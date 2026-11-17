@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Plant Infection Spread: Days Until Stable](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | 🆕 Oct 2, 2026 |
+| [Plant Infection Spread: Days Until Stable](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Oct 2, 2026 |
 | [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / [ByteDance](../companies/bytedance.md) / +6</sub> | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Oct 1, 2026 |
 | [Course Schedule](https://trueinterview.io/questions/course-schedule)<br><sub>also [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / [Google](../companies/google.md) / +7</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/course-schedule) | Oct 2026 |
 | [Decode String](https://trueinterview.io/questions/decode-string)<br><sub>also [Bloomberg](../companies/bloomberg.md) / [Google](../companies/google.md)</sub> | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/decode-string) | Oct 2026 |

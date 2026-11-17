@@ -25,8 +25,8 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Capital One](../companies/capital-one.md)** | [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-pattern-matching) | 🆕 Oct 2, 2026 |
-| **[Capital One](../companies/capital-one.md)** | [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/number-line-block-placement) | 🆕 Oct 2, 2026 |
+| **[Capital One](../companies/capital-one.md)** | [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-pattern-matching) | Oct 2, 2026 |
+| **[Capital One](../companies/capital-one.md)** | [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/number-line-block-placement) | Oct 2, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [LRU Cache](https://trueinterview.io/questions/lru-cache) | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Oct 1, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Add Two Numbers (Forward Order Linked Lists)](https://trueinterview.io/questions/97753443-80e2-4be1-a500-502b91e021a0) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/97753443-80e2-4be1-a500-502b91e021a0) | Oct 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Build Blocks and Check Interval Availability](https://trueinterview.io/questions/b529e40c-262f-538d-bc01-16fd7b1936b5) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/b529e40c-262f-538d-bc01-16fd7b1936b5) | Oct 2026 |
