@@ -12,8 +12,6 @@
 
 **Rounds:** 📝 OA (1) · 📞 Phone (17) · 🏢 Onsite (18)
 
-**📖 Loop guides:** [Overview](https://trueinterview.io/study/figma-interview-process)
-
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg

@@ -12,8 +12,6 @@
 
 **Rounds:** 📝 OA (14) · 📞 Phone (16) · 🏢 Onsite (10)
 
-**📖 Loop guides:** [Overview](https://trueinterview.io/study/ramp-interview-process)
-
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
