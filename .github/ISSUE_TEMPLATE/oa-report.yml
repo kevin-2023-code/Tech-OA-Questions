@@ -42,7 +42,7 @@ body:
     id: level
     attributes:
       label: Level
-      description: The level the loop was for. This is the column every list here is cut by.
+      description: The level the loop was for.
       options:
         - Intern
         - New grad
@@ -102,7 +102,7 @@ body:
     id: date-seen
     attributes:
       label: Date seen
-      description: A day if you remember it, otherwise the month. This drives the 🔥 / 🆕 markers.
+      description: A day if you remember it, otherwise the month.
       placeholder: 2026-10-02
     validations:
       required: true

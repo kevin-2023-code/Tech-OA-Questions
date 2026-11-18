@@ -14,10 +14,11 @@ Two rules the rest of the pipeline relies on:
     :class:`CatalogError`, and the sync then writes nothing. An hourly job that
     rendered zero questions after a network blip would commit an empty repository
     over a good one at an hour nobody is watching.
-  * **A field the pages promise must be published.** Every list here is cut by
-    level and role, so a catalog that does not publish ``seniority`` / ``roles``
-    cannot answer the questions the pages ask. That is a failure too — never a
-    quiet re-render with the level columns blank.
+  * **A field the pages promise must be published.** This repository lists the
+    questions tagged with the OA round, with their level and role, so a catalog
+    that does not publish ``rounds`` / ``seniority`` / ``roles`` cannot answer
+    what the pages ask. That is a failure too, never a quiet re-render with
+    the folders emptied or the columns blank.
 """
 
 from __future__ import annotations
@@ -44,7 +45,7 @@ RETRIES = 3
 
 USER_AGENT = "trueinterview-oa-list-sync/1 (+https://github.com/kevin-2023-code/Tech-OA-Questions)"
 
-#: Fields every question must carry for the level/role cuts to mean anything.
+#: Fields every question must carry for the OA cut and its columns to mean anything.
 REQUIRED_QUESTION_FIELDS = ("slug", "title", "type", "companies", "url", "rounds", "roles", "roleTitles", "seniority")
 
 
@@ -102,9 +103,9 @@ def check_questions(questions: list[dict[str, Any]]) -> None:
     for field in REQUIRED_QUESTION_FIELDS:
         if not any(field in q for q in questions):
             raise CatalogError(
-                f"the API does not publish `{field}` on questions. Every list here is cut by "
-                "level and role, so rendering without it would blank them; deploy the API "
-                "change that publishes it (kevin-2023-code/trueinterview) and re-run."
+                f"the API does not publish `{field}` on questions. The pages here depend on it, "
+                "so rendering without it would empty or blank them; restore the field in the "
+                "API and re-run."
             )
     seen: set[str] = set()
     for q in questions:
@@ -118,17 +119,9 @@ def fetch_snapshot(base_url: str = DEFAULT_BASE_URL) -> dict[str, Any]:
     """Everything the renderers read, as one plain dict (what --snapshot-out writes)."""
     questions = _paged(base_url, "/api/v1/questions", "questions")
     check_questions(questions)
-    articles = _paged(base_url, "/api/v1/articles", "articles")
+    # One capped page of display names; a company it does not cover falls back
+    # to the rules in labels.py.
     companies = _get(base_url, f"/api/v1/companies?limit={PAGE_LIMIT}").get("companies")
     if not isinstance(companies, list):
         raise CatalogError("/api/v1/companies: no `companies` list")
-    experiences = _get(base_url, f"/api/v1/interview-experiences?limit={PAGE_LIMIT}")
-    if not isinstance(experiences.get("experiences"), list):
-        raise CatalogError("/api/v1/interview-experiences: no `experiences` list")
-    return {
-        "questions": questions,
-        "articles": articles,
-        "companies": companies,
-        "experiences": experiences["experiences"],
-        "experiencesTotal": experiences.get("total"),
-    }
+    return {"questions": questions, "companies": companies}

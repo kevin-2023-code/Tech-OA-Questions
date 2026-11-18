@@ -1,8 +1,8 @@
 name: Sync OA list
 
-# Hourly, because the product is freshness: 🔥 and 🆕 expire on a clock, so a run
-# that finds no new question still has work to do. Off the hour, and off the
-# minute the sister repositories sync on.
+# Hourly, so a new OA question lands here soon after it is published. Off the
+# hour, and off the minute the sister repositories sync on. The README carries a
+# dated snapshot line, so a day with no new question still commits once.
 on:
   schedule:
     - cron: "41 * * * *"
@@ -36,7 +36,7 @@ jobs:
 
       - name: Confirm the render is a pure function of the snapshot
         # A second render of the same read must change nothing; if it does, the
-        # hourly job would commit noise for ever.
+        # scheduled job would commit noise for ever.
         run: python3 scripts/sync.py --catalog-file "$RUNNER_TEMP/snapshot.json" --check
 
       - name: Commit

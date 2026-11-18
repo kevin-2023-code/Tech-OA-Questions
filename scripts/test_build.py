@@ -1,14 +1,18 @@
 #!/usr/bin/env python3
-"""The renderers, end to end, from a small fixture — no network, no clock."""
+"""The renderers, end to end, from a small fixture: no network, no clock."""
 
 from __future__ import annotations
 
 import copy
+import csv
+import io
 import json
 import sys
+import tempfile
 import unittest
 from datetime import date
 from pathlib import Path
+from unittest import mock
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
@@ -20,16 +24,16 @@ import sync  # noqa: E402
 TODAY = date(2026, 10, 11)
 
 
-def q(slug, companies, *, seniority=(), roles=("Software",), titles=("Software Engineer",), rounds=("onsite",),
-      reported=None, last=None, tier="insider", type_="algorithm", **extra):
+def q(slug, companies, *, seniority=(), roles=("Software",), titles=("Software Engineer",), rounds=("oa",),
+      reported=None, last=None, tier="insider", type_="algorithm", difficulty="medium", **extra):
     row = {
         "slug": slug,
         "number": 1,
         "title": slug.replace("-", " ").title(),
         "type": type_,
         "typeLabel": type_,
-        "difficulty": "medium",
-        "company": companies[0],
+        "difficulty": difficulty,
+        "company": companies[0] if companies else None,
         "companies": list(companies),
         "topics": [],
         "tags": [],
@@ -52,34 +56,24 @@ def q(slug, companies, *, seniority=(), roles=("Software",), titles=("Software E
 def snapshot():
     return {
         "questions": [
-            q("kv-cache", ["openai"], seniority=["senior"], roles=["Data & AI"], titles=["Research Scientist"], rounds=["phone-screen"], reported="2026-10-05"),
-            q("attention-grad", ["anthropic", "google"], seniority=["senior", "staff-plus"], roles=["Data & AI"], titles=["Machine Learning Engineer"], reported="2026-09-10"),
-            q("rl-eval", ["xai"], seniority=["staff-plus"], roles=["Data & AI"], titles=["AI Engineer"], reported="2026-08"),
-            q("order-book", ["citadel"], seniority=["senior"], roles=["Quantitative Finance"], titles=[], rounds=["oa"], reported="2026-10-01", tier="free"),
-            q("dice-game", ["sig"], seniority=["junior"], roles=["Quantitative Finance"], titles=[], rounds=["oa"], reported="2026-07-02"),
-            q("market-maker", ["jane-street"], seniority=[], roles=["Quantitative Finance"], titles=[], rounds=["onsite"], reported="2026-06-01"),
-            q("news-feed", ["meta"], seniority=["senior", "staff-plus"], type_="system-design", reported="2026-09-30", last="2026-10"),
-            q("lru-cache", ["amazon", "microsoft"], seniority=["new-grad", "junior"], rounds=["oa"], reported="2026-05-05", tier="free"),
+            # OA rows.
+            q("order-book", ["citadel"], seniority=["senior"], roles=["Quantitative Finance"], titles=[], reported="2026-10-01", difficulty="hard"),
+            q("dice-game", ["citadel"], seniority=["junior"], roles=["Quantitative Finance"], titles=[], reported="2026-07-02"),
+            q("lru-cache", ["amazon", "microsoft"], seniority=["new-grad", "junior"], reported="2026-05-05", last="2026-09"),
+            q("sql-funnel", ["amazon"], seniority=["senior"], roles=["Data & AI"], titles=["Data Scientist"], type_="sql", last="2026-08"),
+            q("tell-me-why", ["amazon"], type_="blog", difficulty=None, reported="2026-06-10"),
             q("rate-limiter", ["stripe"], seniority=["senior"], reported="2126-02-23"),  # a typo upstream
-            q("undated", ["netflix"], seniority=["senior"]),
-            q("two-sum", ["acme-widgets"], seniority=[], reported="2026-09-01", contentMd="SECRET STATEMENT", solution="SECRET SOLUTION"),
-            q("ml-ranking", ["openai"], seniority=["senior"], roles=["Data & AI"], titles=["Machine Learning Engineer"], reported="2026-04"),
-        ],
-        "articles": [
-            {"slug": "openai-interview-process", "title": "OpenAI Interview Process & Questions", "company": "openai", "url": "https://trueinterview.io/study/openai-interview-process"},
-            {"slug": "openai-research-scientist-interview-process", "title": "OpenAI Research Scientist Interview Process", "company": "openai", "url": "https://trueinterview.io/study/openai-research-scientist-interview-process"},
-            {"slug": "citadel-quantitative-finance-interview-process", "title": "Citadel Quantitative Finance Interview Process", "company": "citadel", "url": "https://trueinterview.io/study/citadel-quantitative-finance-interview-process"},
-            {"slug": "two-sum-explained", "title": "Two Sum, Explained", "company": None, "url": "https://trueinterview.io/study/two-sum-explained"},
+            q("undated", ["stripe"], seniority=["senior"]),
+            q("pipe|title [x]", ["acme-widgets"], reported="2026-09-01", contentMd="SECRET STATEMENT", solution="SECRET SOLUTION"),
+            q("mixed-rounds", ["openai"], rounds=["oa", "onsite"], reported="2026-10-05"),
+            q("no-company", [], reported="2026-04-01"),
+            # Not OA: belongs to the sibling repository.
+            q("news-feed", ["meta"], seniority=["senior"], rounds=["onsite"], type_="system-design", reported="2026-09-30"),
+            q("kv-cache", ["openai"], seniority=["senior"], rounds=["phone-screen"], reported="2026-10-06"),
+            q("take-home", ["netflix"], rounds=["take-home"], reported="2026-10-02"),
+            q("no-round", ["google"], rounds=[], reported="2026-10-03"),
         ],
         "companies": [{"name": "OpenAI", "slug": "openai", "questionCount": 2, "url": "https://trueinterview.io/problems/company/openai"}],
-        "experiences": [
-            {"id": f"o{i}", "company": "oracle", "role": "Software", "roleTitle": "Software Engineer", "seniority": "senior", "title": f"Oracle loop {i}", "url": f"https://trueinterview.io/interviews/o{i}", "postedAt": "2026-09-30T00:00:00Z"}
-            for i in range(5)
-        ] + [
-            {"id": "a1", "company": "anthropic", "role": "Data & AI", "roleTitle": "Research Scientist", "seniority": "senior", "title": "Anthropic RS loop", "url": "https://trueinterview.io/interviews/a1", "postedAt": "2026-09-20T00:00:00Z"},
-            {"id": "n1", "company": "acme-widgets", "role": "Software", "roleTitle": "Software Engineer", "seniority": "new-grad", "title": "New grad loop", "url": "https://trueinterview.io/interviews/n1", "postedAt": "2026-09-29T00:00:00Z"},
-        ],
-        "experiencesTotal": 7,
     }
 
 
@@ -87,93 +81,137 @@ def render(snap=None):
     return build.build(model.load(snap or snapshot()), TODAY)
 
 
-class FirstScreen(unittest.TestCase):
-    def test_says_who_it_is_for_before_anything_else(self):
-        head = render()["README.md"][:1600]
-        self.assertNotIn("Experienced Hires", head)
-        for phrase in ("intern to Staff+", "SWE", "ML & AI", "Data Science", "Quant", "PM", "New grad", "Senior"):
-            self.assertIn(phrase, head)
+def rows_of(text):
+    return list(csv.reader(io.StringIO(text)))
 
-    def test_matrix_counts_and_links(self):
+
+class OnlyOA(unittest.TestCase):
+    def test_a_company_with_no_oa_question_gets_no_folder(self):
         files = render()
-        readme = files["README.md"]
-        # ML/AI/research at Senior: kv-cache, attention-grad, ml-ranking.
-        self.assertIn("[**3**](lists/ml-research--senior.md)", readme)
-        # Quant roles, every level: order-book, dice-game, market-maker.
-        self.assertIn("[**3**](lists/quant-roles.md)", readme)
-        # Every role at Senior: kv-cache, attention-grad, order-book, news-feed, rate-limiter, undated, ml-ranking.
-        self.assertIn("[**7**](lists/senior.md)", readme)
-        # A cut under the minimum gets a dash and no page.
-        self.assertNotIn("lists/ml-research--new-grad.md", files)
-        self.assertIn("lists/swe.md", files)
+        folders = {path.split("/")[1] for path in files if path.startswith("companies/")}
+        self.assertEqual(folders, {"acme-widgets", "amazon", "citadel", "microsoft", "openai", "stripe"})
 
-    def test_industry_lists_cover_the_registry_not_three_groups(self):
+    def test_other_rounds_reach_no_file(self):
+        for path, text in render().items():
+            for title in ("News Feed", "Kv Cache", "Take Home", "No Round"):
+                self.assertNotIn(title, text, path)
+
+    def test_a_question_with_oa_among_its_rounds_is_listed(self):
+        self.assertIn("Mixed Rounds", render()["companies/openai/README.md"])
+
+    def test_a_question_at_two_companies_is_listed_under_each(self):
         files = render()
-        readme = files["README.md"]
-        self.assertIn("(lists/maang.md)", readme)
-        self.assertIn("(lists/ai-labs.md)", readme)
-        self.assertIn("(lists/quant.md)", readme)
-        # OpenAI (twice), Anthropic and xAI: an AI-lab list with four rows.
-        self.assertIn("lists/ai-labs.md", files)
-        self.assertNotIn("lists/ai.md", files)
+        self.assertIn("Lru Cache", files["companies/amazon/README.md"])
+        self.assertIn("Lru Cache", files["companies/microsoft/oa.csv"])
 
-    def test_maang_plus_counts_microsoft(self):
-        cat = model.load(snapshot())
-        lru = next(x for x in cat.questions if x.slug == "lru-cache")
-        self.assertIn("maang", lru.industries)
+    def test_every_folder_has_exactly_the_two_files(self):
+        names = sorted(path.split("/", 2)[2] for path in render() if path.startswith("companies/amazon/"))
+        self.assertEqual(names, ["README.md", "oa.csv"])
 
-    def test_latest_table_is_not_limited_to_three_groups(self):
-        latest = render()["README.md"].split("## 🔥")[1].split("\n## ")[0]
-        # Acme Widgets is in no industry at all, and still a recent question.
-        self.assertIn("Two Sum", latest)
+    def test_the_flat_and_cut_layouts_are_gone(self):
+        for path in render():
+            self.assertFalse(path.startswith(("lists/", "rounds/", "formats/", "question-bank/")), path)
+            if path.startswith("companies/"):
+                self.assertEqual(path.count("/"), 2, path)
 
 
-class Facets(unittest.TestCase):
-    def test_unclassified_is_in_no_level_list(self):
+class CompanyFiles(unittest.TestCase):
+    def test_csv_columns(self):
+        rows = rows_of(render()["companies/citadel/oa.csv"])
+        self.assertEqual(rows[0], ["Title", "Format", "Difficulty", "Level", "Role", "Last Reported", "Link"])
+        self.assertEqual(rows[1], ["Order Book", "Coding", "Hard", "Senior", "Quantitative Finance", "2026-10", "https://trueinterview.io/questions/order-book"])
+
+    def test_newest_first_in_table_and_csv(self):
         files = render()
-        for level in ("new-grad", "mid", "senior", "staff"):
-            self.assertNotIn("Market Maker", files.get(f"lists/{level}.md", ""))
-        self.assertIn("Market Maker", files["lists/quant-roles.md"])
+        titles = [row[0] for row in rows_of(files["companies/amazon/oa.csv"])[1:]]
+        self.assertEqual(titles, ["Lru Cache", "Sql Funnel", "Tell Me Why"])
+        page = files["companies/amazon/README.md"]
+        self.assertLess(page.index("Lru Cache"), page.index("Sql Funnel"))
+        self.assertLess(page.index("Sql Funnel"), page.index("Tell Me Why"))
 
-    def test_new_grad_list_takes_interns_and_new_grads(self):
-        cat = model.load(snapshot())
-        self.assertEqual([x.slug for x in build.cut(cat, level="new-grad")], ["lru-cache"])
+    def test_a_later_report_month_wins_over_the_first_report(self):
+        rows = rows_of(render()["companies/amazon/oa.csv"])
+        self.assertEqual(rows[1][5], "2026-09")
 
     def test_levels_render_in_ladder_order(self):
-        cat = model.load(snapshot())
-        attn = next(x for x in cat.questions if x.slug == "attention-grad")
-        self.assertEqual(build.level_cell(attn), "Senior · Staff+")
+        rows = rows_of(render()["companies/amazon/oa.csv"])
+        self.assertEqual(rows[1][3], "New grad; Mid")
 
-    def test_refuses_a_catalog_without_the_level_facet(self):
+    def test_role_is_the_title_or_else_the_group_never_invented(self):
+        files = render()
+        self.assertEqual(rows_of(files["companies/amazon/oa.csv"])[2][4], "Data Scientist")
+        self.assertEqual(rows_of(files["companies/citadel/oa.csv"])[1][4], "Quantitative Finance")
         snap = snapshot()
-        for row in snap["questions"]:
-            row.pop("seniority")
-        with self.assertRaises(api.CatalogError):
-            api.check_questions(snap["questions"])
+        snap["questions"] = [q("bare", ["acme"], roles=[], titles=[])]
+        self.assertEqual(rows_of(render(snap)["companies/acme/oa.csv"])[1][3:6], ["", "", ""])
+
+    def test_missing_values_stay_empty(self):
+        row = next(r for r in rows_of(render()["companies/amazon/oa.csv"]) if r[0] == "Tell Me Why")
+        self.assertEqual(row[1:4], ["Behavioral / concept", "", ""])
+        self.assertIn("| Behavioral / concept | - | - |", render()["companies/amazon/README.md"])
+
+    def test_future_and_undated_rows_sort_last_and_carry_no_date(self):
+        rows = rows_of(render()["companies/stripe/oa.csv"])[1:]
+        self.assertEqual([r[0] for r in rows], ["Rate Limiter", "Undated"])
+        self.assertEqual([r[5] for r in rows], ["", ""])
+
+    def test_table_cells_are_escaped(self):
+        page = render()["companies/acme-widgets/README.md"]
+        self.assertIn("[Pipe\\|Title \\[X\\]](https://trueinterview.io/questions/pipe|title [x])", page)
+
+    def test_page_names_the_company_and_the_count(self):
+        page = render()["companies/citadel/README.md"]
+        self.assertIn("# Citadel OA Questions", page)
+        self.assertIn("2 online assessment questions reported at Citadel", page)
+        self.assertIn("1 online assessment question reported at OpenAI", render()["companies/openai/README.md"])
 
 
-class Freshness(unittest.TestCase):
-    def test_markers(self):
-        cat = model.load(snapshot())
-        by = {x.slug: x for x in cat.questions}
-        self.assertEqual(model.marker(by["kv-cache"], TODAY), "🔥")
-        self.assertEqual(model.marker(by["attention-grad"], TODAY), "🆕")
-        self.assertEqual(model.marker(by["lru-cache"], TODAY), "")
+class Readme(unittest.TestCase):
+    def test_snapshot_line_is_dated_and_counts_oa_only(self):
+        self.assertIn("**Snapshot as of 2026-10-11: 10 OA questions from 6 companies.**", render()["README.md"])
 
-    def test_a_later_report_month_wins_over_the_first_sighting(self):
-        cat = model.load(snapshot())
-        feed = next(x for x in cat.questions if x.slug == "news-feed")
-        self.assertEqual(feed.seen, date(2026, 10, 1))
-        self.assertTrue(feed.seen_month_only)
-        self.assertEqual(model.seen_text(feed, TODAY), "🔥 Oct 2026")
+    def test_one_table_ranked_by_oa_count_linking_each_folder(self):
+        readme = render()["README.md"]
+        table = [line for line in readme.splitlines() if line.startswith("|")]
+        self.assertEqual(table[0], "| Company | OA questions | Newest OA |")
+        self.assertEqual(sum(line.startswith("| :--") for line in table), 1)
+        self.assertEqual(table[2], "| [Amazon](companies/amazon/README.md) | 3 | 2026-09 |")
+        self.assertEqual(table[3], "| [Citadel](companies/citadel/README.md) | 2 | 2026-10 |")
+        self.assertIn("| [Stripe](companies/stripe/README.md) | 2 | - |", table)
+        self.assertEqual(len(table), 2 + 6)
 
-    def test_future_and_undated_rows_sort_last_and_are_never_fresh(self):
-        cat = model.load(snapshot())
-        order = [x.slug for x in model.newest_first(cat.questions, TODAY)]
-        self.assertEqual(order[-2:], ["rate-limiter", "undated"])
-        typo = next(x for x in cat.questions if x.slug == "rate-limiter")
-        self.assertEqual(model.marker(typo, TODAY), "")
-        self.assertNotIn("Rate Limiter", render()["README.md"].split("## 🔥")[1].split("## ")[0])
+    def test_short_and_plain(self):
+        readme = render()["README.md"]
+        prose = [line for line in readme.splitlines() if not line.startswith("|")]
+        self.assertLessEqual(len(prose), 60)
+        for banned in ("🔥", "🆕", "hourly", "every hour", "![", ".svg", "lists/", "question-bank/"):
+            self.assertNotIn(banned, readme)
+        self.assertTrue(all(ord(ch) < 0x2000 for ch in readme), "no emoji")
+
+    def test_site_and_sibling_are_linked_once(self):
+        readme = render()["README.md"]
+        self.assertEqual(readme.count("trueinterview.io"), 1)
+        self.assertEqual(readme.count(build.SISTER), 1)
+
+
+class Data(unittest.TestCase):
+    def test_csv_is_the_company_columns_plus_company(self):
+        rows = rows_of(render()["data/questions.csv"])
+        self.assertEqual(rows[0], ["Company", *build.COLUMNS])
+        self.assertEqual(len(rows) - 1, 10)
+        self.assertIn(["Amazon; Microsoft", "Lru Cache", "Coding", "Medium", "New grad; Mid", "Software Engineer", "2026-09",
+                       "https://trueinterview.io/questions/lru-cache"], rows)
+
+    def test_a_question_with_no_company_is_in_the_data_and_in_no_folder(self):
+        files = render()
+        self.assertIn("No Company", files["data/questions.csv"])
+        self.assertEqual([p for p in files if p.startswith("companies/") and "No Company" in files[p]], [])
+
+    def test_jsonl_carries_the_same_fields(self):
+        lines = render()["data/questions.jsonl"].splitlines()
+        self.assertEqual(len(lines), 10)
+        for line in lines:
+            self.assertEqual(sorted(json.loads(line)), sorted(("company", *build.FIELDS)))
 
 
 class Safety(unittest.TestCase):
@@ -181,14 +219,89 @@ class Safety(unittest.TestCase):
         for path, text in render().items():
             self.assertNotIn("SECRET", text, path)
 
-    def test_export_carries_exactly_the_documented_fields(self):
-        line = render()["data/questions.jsonl"].splitlines()[0]
-        self.assertEqual(sorted(json.loads(line)), sorted(build.EXPORT_FIELDS))
+    def test_refuses_a_catalog_without_a_field_the_pages_need(self):
+        for field in ("rounds", "seniority", "roles"):
+            snap = snapshot()
+            for row in snap["questions"]:
+                row.pop(field)
+            with self.assertRaises(api.CatalogError):
+                api.check_questions(snap["questions"])
+
+    def test_refuses_an_empty_catalog(self):
+        with self.assertRaises(api.CatalogError):
+            api.check_questions([])
+
+    def test_the_sync_reads_only_the_public_metadata_endpoints(self):
+        seen = []
+
+        def fake_get(base_url, path):
+            seen.append(path.split("?")[0])
+            if "questions" in path:
+                return {"questions": snapshot()["questions"], "page": {"hasMore": False, "total": 14, "totalExact": True}}
+            return {"companies": []}
+
+        with mock.patch.object(api, "_get", fake_get):
+            api.fetch_snapshot("https://example.invalid")
+        self.assertEqual(seen, ["/api/v1/questions", "/api/v1/companies"])
+
+
+class Sync(unittest.TestCase):
+    """sync.main against a temporary tree: what it writes, prunes and refuses."""
+
+    def run_sync(self, root: Path, snap, *args):
+        source = root / "snapshot.json"
+        source.write_text(json.dumps(snap), encoding="utf-8")
+        with mock.patch.object(sync, "ROOT", root):
+            return sync.main(["--catalog-file", str(source), "--today", TODAY.isoformat(), "--quiet", *args])
+
+    def test_second_run_changes_nothing_and_orphans_are_pruned_in_scope(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "CONTRIBUTING.md").write_text("hand-written", encoding="utf-8")
+            (root / "scripts").mkdir()
+            (root / "scripts" / "keep.py").write_text("x", encoding="utf-8")
+            (root / "companies").mkdir()
+            (root / "companies" / "old-flat-page.md").write_text("stale", encoding="utf-8")
+            self.assertEqual(self.run_sync(root, snapshot()), 0)
+            self.assertFalse((root / "companies" / "old-flat-page.md").exists())
+            self.assertTrue((root / "companies" / "citadel" / "oa.csv").exists())
+            self.assertEqual((root / "CONTRIBUTING.md").read_text(encoding="utf-8"), "hand-written")
+            self.assertTrue((root / "scripts" / "keep.py").exists())
+            self.assertEqual(self.run_sync(root, snapshot(), "--check"), 0)
+            self.assertNotIn(b"\r\n", (root / "companies" / "citadel" / "oa.csv").read_bytes())
+
+            # Citadel loses its OA questions: its folder goes, nothing else does.
+            snap = snapshot()
+            snap["questions"] = [row for row in snap["questions"] if row["companies"] != ["citadel"]]
+            self.assertEqual(self.run_sync(root, snap, "--check"), 1)
+            self.assertEqual(self.run_sync(root, snap), 0)
+            self.assertFalse((root / "companies" / "citadel").exists())
+            self.assertTrue((root / "companies" / "amazon" / "README.md").exists())
+
+    def test_a_catalog_with_no_oa_row_writes_and_prunes_nothing(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.assertEqual(self.run_sync(root, snapshot()), 0)
+            snap = snapshot()
+            snap["questions"] = [row for row in snap["questions"] if "oa" not in row["rounds"]]
+            self.assertEqual(self.run_sync(root, snap), 3)
+            self.assertTrue((root / "companies" / "citadel" / "oa.csv").exists())
+
+    def test_an_unreadable_catalog_writes_nothing(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            self.assertEqual(self.run_sync(root, {"questions": []}), 2)
+            self.assertFalse((root / "README.md").exists())
 
 
 class Structure(unittest.TestCase):
     def test_every_relative_link_resolves(self):
         self.assertEqual(sync.broken_links(render()), [])
+
+    def test_a_broken_link_is_reported(self):
+        files = render()
+        files["README.md"] += "[x](companies/nowhere/README.md)\n"
+        self.assertEqual(sync.broken_links(files), ["README.md → companies/nowhere/README.md"])
 
     def test_static_files_exist(self):
         for path in sync.STATIC_FILES:
@@ -205,56 +318,10 @@ class Structure(unittest.TestCase):
 
     def test_budget_is_enforced(self):
         self.assertTrue(build.over_budget({"README.md": "x" * (build.README_MAX_BYTES + 1)}))
+        self.assertTrue(build.over_budget({"companies/a/README.md": "x" * (build.PAGE_MAX_BYTES + 1)}))
 
-    def test_pages_paginate(self):
-        snap = snapshot()
-        base = snap["questions"][0]
-        snap["questions"] = [dict(base, slug=f"q{i}", title=f"Q {i}", url=f"https://trueinterview.io/questions/q{i}") for i in range(build.PAGE_ROWS + 5)]
-        files = render(snap)
-        self.assertIn("question-bank/page-2.md", files)
-        self.assertIn("(page-2.md)", files["question-bank/README.md"])
-        self.assertEqual(sync.broken_links(files), [])
-
-    def test_company_pages_link_role_guides(self):
-        page = render()["companies/openai.md"]
-        self.assertIn("[Research scientist](https://trueinterview.io/study/openai-research-scientist-interview-process)", page)
-        self.assertIn("[Overview](https://trueinterview.io/study/openai-interview-process)", page)
-
-    def test_reports_cover_every_level_and_cap_per_company(self):
-        readme = render()["README.md"]
-        block = readme.split("## 🗣️")[1].split("## ")[0]
-        self.assertIn("Anthropic RS loop", block)
-        self.assertIn("New grad loop", block)
-        self.assertEqual(block.count("Oracle loop"), 2)
-
-    def test_oa_leaders_rank_by_oa_count(self):
-        readme = render()["README.md"]
-        block = readme.split("## 📝")[1].split("## ")[0]
-        self.assertIn("[Citadel](companies/citadel.md)", block)
-        self.assertNotIn("[OpenAI]", block)
-
-
-class Insights(unittest.TestCase):
-    def test_level_mix_counts_each_question_once_at_its_top_level(self):
-        block = "\n".join(build.insights_block(model.load(snapshot())))
-        # Staff+: attention-grad, rl-eval (coding) and news-feed (system design).
-        self.assertIn("| 🚀 Staff+ | 3 | 67% | 33% | 0% | 0% | 0% |", block)
-        # Lowest rung first, so a reader finds their row by reading down.
-        self.assertLess(block.index("🌱 Mid"), block.index("🚀 Staff+"))
-        # Senior: kv-cache, order-book, rate-limiter, undated, ml-ranking — not the Staff+ three.
-        self.assertIn("| 🎯 Senior | 5 | 100% |", block)
-
-    def test_oa_share_names_its_denominator(self):
-        block = "\n".join(build.insights_block(model.load(snapshot())))
-        # Quant firms: order-book and dice-game are OA, market-maker is not.
-        self.assertIn("| 📈 Quant trading & hedge funds | 3 | 67% |", block)
-
-
-class Guides(unittest.TestCase):
-    def test_role_is_read_from_the_title(self):
-        self.assertEqual(model.guide_role("OpenAI Research Scientist Interview Process"), "Research Scientist")
-        self.assertEqual(model.guide_role("Two Sigma Interview Process & Questions"), "overview")
-        self.assertIsNone(model.guide_role("Two Sum, Explained"))
+    def test_generated_scope_is_two_directories(self):
+        self.assertEqual(sync.GENERATED_DIRS, ("companies", "data"))
 
 
 if __name__ == "__main__":

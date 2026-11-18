@@ -9,7 +9,7 @@
 The whole repository is rendered in memory first. If any page is over its byte
 budget or any relative link points at a file that would not exist, NOTHING is
 written and the run fails: a scheduled job that quietly published a truncated
-or broken README at 3am is the failure this script exists to prevent.
+or broken README unattended is the failure this script exists to prevent.
 """
 
 from __future__ import annotations
@@ -17,6 +17,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import posixpath
 import re
 import sys
 from datetime import date, datetime, timezone
@@ -31,13 +32,13 @@ import model  # noqa: E402
 ROOT = Path(__file__).resolve().parent.parent
 
 #: Every directory the sync owns. A file in one of these that the render did not
-#: produce is an orphan (a company that lost its last question, a list that fell
-#: under the minimum) and is deleted. Nothing outside them is ever touched.
-GENERATED_DIRS = ("lists", "rounds", "formats", "companies", "question-bank", "data")
+#: produce is an orphan (a company that lost its last OA question) and is
+#: deleted. Nothing outside them is ever touched.
+GENERATED_DIRS = ("companies", "data")
 GENERATED_FILES = ("README.md",)
 
 #: Hand-written files a generated page may link to.
-STATIC_FILES = ("CONTRIBUTING.md", "LICENSE", "assets/practice.svg", "assets/free.svg")
+STATIC_FILES = ("CONTRIBUTING.md", "LICENSE")
 
 LINK = re.compile(r"\]\(([^)\s]+)\)|^\[[a-z]\]:\s*(\S+)", re.MULTILINE)
 
@@ -49,15 +50,42 @@ def broken_links(files: dict[str, str]) -> list[str]:
     for path, text in files.items():
         if not path.endswith(".md"):
             continue
-        base = os.path.dirname(path)
+        base = posixpath.dirname(path)
         for match in LINK.finditer(text):
             target = match.group(1) or match.group(2)
             if re.match(r"^[a-z]+:", target) or target.startswith("#"):
                 continue
-            resolved = os.path.normpath(os.path.join(base, target.split("#", 1)[0]))
+            resolved = posixpath.normpath(posixpath.join(base, target.split("#", 1)[0]))
             if resolved not in present:
                 problems.append(f"{path} → {target}")
     return problems
+
+
+def read_text(path: Path) -> str:
+    """The file's text with its line endings as stored, so a CRLF checkout is
+    seen as different from the LF render instead of silently matching it."""
+    with path.open(encoding="utf-8", newline="") as handle:
+        return handle.read()
+
+
+def write_text(path: Path, text: str) -> None:
+    """Write LF on every platform: the committed bytes must not depend on the
+    machine that ran the sync."""
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8", newline="\n") as handle:
+        handle.write(text)
+
+
+def prune_empty_dirs() -> None:
+    """Remove folders the sync emptied (a company that lost its last OA
+    question), inside the generated directories only."""
+    for directory in GENERATED_DIRS:
+        folder = ROOT / directory
+        if not folder.exists():
+            continue
+        for sub in sorted((p for p in folder.rglob("*") if p.is_dir()), reverse=True):
+            if not any(sub.iterdir()):
+                sub.rmdir()
 
 
 def plan(files: dict[str, str]) -> tuple[dict[str, str], list[Path]]:
@@ -65,7 +93,7 @@ def plan(files: dict[str, str]) -> tuple[dict[str, str], list[Path]]:
     writes = {}
     for path, text in files.items():
         target = ROOT / path
-        if not target.exists() or target.read_text(encoding="utf-8") != text:
+        if not target.exists() or read_text(target) != text:
             writes[path] = text
     deletes = []
     for directory in GENERATED_DIRS:
@@ -99,21 +127,27 @@ def main(argv: list[str] | None = None) -> int:
         return 2
 
     if args.snapshot_out:
-        Path(args.snapshot_out).write_text(json.dumps(snapshot, ensure_ascii=False, sort_keys=True), encoding="utf-8")
+        write_text(Path(args.snapshot_out), json.dumps(snapshot, ensure_ascii=False, sort_keys=True))
 
     today = date.fromisoformat(args.today) if args.today else datetime.now(timezone.utc).date()
     catalog = model.load(snapshot)
     files = build.build(catalog, today)
 
+    listed = [q for q in catalog.questions if q.is_oa]
     problems = build.over_budget(files) + [f"broken link: {p}" for p in broken_links(files)]
+    if not listed:
+        # A catalog that reads fine but tags nothing as OA would prune every
+        # company folder. That is a broken read, not an empty list.
+        problems.append("the catalog tags no question with the OA round")
     if problems:
         print("sync: refusing to write —", *problems[:40], sep="\n  ", file=sys.stderr)
         return 3
 
     writes, deletes = plan(files)
-    future = [q.slug for q in catalog.questions if model.is_future(q, today)]
+    future = [q.slug for q in listed if model.is_future(q, today)]
+    companies = {key for q in listed for key in q.company_keys}
     summary = (
-        f"{len(catalog.questions):,} questions · {len(writes)} file(s) changed · {len(deletes)} removed"
+        f"{len(listed):,} OA questions · {len(companies)} companies · {len(writes)} file(s) changed · {len(deletes)} removed"
         + (f" · future-dated upstream (shown undated): {', '.join(future[:5])}" if future else "")
     )
 
@@ -123,18 +157,17 @@ def main(argv: list[str] | None = None) -> int:
             for path in list(writes)[:20]:
                 print(f"  ~ {path}", file=sys.stderr)
             for file in deletes[:20]:
-                print(f"  - {file.relative_to(ROOT)}", file=sys.stderr)
+                print(f"  - {file.relative_to(ROOT).as_posix()}", file=sys.stderr)
             return 1
         if not args.quiet:
             print(f"sync --check: up to date — {summary}")
         return 0
 
     for path, text in writes.items():
-        target = ROOT / path
-        target.parent.mkdir(parents=True, exist_ok=True)
-        target.write_text(text, encoding="utf-8")
+        write_text(ROOT / path, text)
     for file in deletes:
         file.unlink()
+    prune_empty_dirs()
     if not args.quiet:
         print(summary)
     return 0

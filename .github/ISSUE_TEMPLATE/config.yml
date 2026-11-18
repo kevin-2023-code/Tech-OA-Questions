@@ -2,7 +2,7 @@ blank_issues_enabled: true
 contact_links:
   - name: Practise these questions
     url: https://trueinterview.io/problems
-    about: Every title in this list opens the real problem in a runnable workspace.
-  - name: What each list selects
-    url: https://github.com/kevin-2023-code/Tech-OA-Questions/blob/HEAD/lists/README.md
-    about: How every role, level and industry list is defined.
+    about: Every title in this list links to its question page.
+  - name: Interview-round questions
+    url: https://github.com/kevin-2023-code/Tech-Interview-Questions
+    about: Phone screen, onsite and take-home questions are in the sibling repository.
