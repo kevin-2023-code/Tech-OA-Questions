@@ -12,8 +12,6 @@
 
 **Rounds:** 📝 OA (3) · 📞 Phone (9) · 🏢 Onsite (3)
 
-**📖 Loop guides:** [Overview](https://trueinterview.io/study/visa-interview-process)
-
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
 [p]: ../assets/practice.svg
