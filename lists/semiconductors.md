@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Semiconductors & chips*.
 
-**64 questions** · 4 from an OA · 17 reported in the last 90 days · 32 free to solve
+**64 questions** · 4 from an OA · 15 reported in the last 90 days · 32 free to solve
 
 **By level:** 🎓 Intern & New grad (16) · 🌱 Mid (37) · 🎯 Senior (50) · 🚀 Staff+ (14)
 

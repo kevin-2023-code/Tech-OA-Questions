@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *E-commerce & marketplaces*.
 
-**1,231 questions** · 150 from an OA · 310 reported in the last 90 days · 468 free to solve
+**1,231 questions** · 150 from an OA · 305 reported in the last 90 days · 468 free to solve
 
 **By level:** 🎓 Intern & New grad (320) · 🌱 Mid (713) · 🎯 Senior (830) · 🚀 Staff+ (229)
 

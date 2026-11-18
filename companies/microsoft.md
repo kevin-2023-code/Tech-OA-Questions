@@ -21,7 +21,7 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | 🆕 Oct 3, 2026 |
+| [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | Oct 3, 2026 |
 | [Employee Attrition Prediction](https://trueinterview.io/questions/employee-attrition-prediction) | OA · Onsite | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/employee-attrition-prediction) | Oct 1, 2026 |
 | [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-iv) | Oct 1, 2026 |
 | [LRU Cache](https://trueinterview.io/questions/lru-cache)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +6</sub> | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Oct 1, 2026 |

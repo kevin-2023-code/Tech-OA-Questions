@@ -6,7 +6,7 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 483 from an OA · 704 reported in the last 90 days · 1,174 free to solve
+**3,451 questions** · 483 from an OA · 700 reported in the last 90 days · 1,174 free to solve
 
 **By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
@@ -29,7 +29,7 @@
 | **[Google](../companies/google.md)** | [Course Scheduling and Dependency Variants](https://trueinterview.io/questions/course-schedule-dependency-variants) | Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/course-schedule-dependency-variants) | 🆕 Oct 4, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design a Cloud IDE](https://trueinterview.io/questions/design-a-cloud-ide) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-cloud-ide) | 🆕 Oct 4, 2026 |
 | **[Google](../companies/google.md)** | [Longest Non-Decreasing Subarray with One Replacement](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | 🆕 Oct 4, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | 🆕 Oct 3, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | Oct 3, 2026 |
 | **[Google](../companies/google.md)** | [ML System Design (Recsys / Chatbot / Image Classifier)](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Oct 2, 2026 |
 | **[Apple](../companies/apple.md)** | [Plant Infection Spread: Days Until Stable](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Oct 2, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-iv) | Oct 1, 2026 |

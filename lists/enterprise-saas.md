@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *Enterprise & business software*.
 
-**719 questions** · 99 from an OA · 154 reported in the last 90 days · 234 free to solve
+**719 questions** · 99 from an OA · 153 reported in the last 90 days · 234 free to solve
 
 **By level:** 🎓 Intern & New grad (176) · 🌱 Mid (430) · 🎯 Senior (528) · 🚀 Staff+ (77)
 
@@ -25,7 +25,7 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Microsoft](../companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | 🆕 Oct 3, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | Oct 3, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Employee Attrition Prediction](https://trueinterview.io/questions/employee-attrition-prediction) | OA · Onsite | Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/employee-attrition-prediction) | Oct 1, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-iv) | Oct 1, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [LRU Cache](https://trueinterview.io/questions/lru-cache) | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Oct 1, 2026 |

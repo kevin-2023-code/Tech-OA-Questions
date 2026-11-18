@@ -6,7 +6,7 @@
 
 > **Industry:** Employers the shared company registry files under *E-commerce & marketplaces*.
 
-**1,231 questions** · 150 from an OA · 310 reported in the last 90 days · 468 free to solve
+**1,231 questions** · 150 from an OA · 305 reported in the last 90 days · 468 free to solve
 
 **By level:** 🎓 Intern & New grad (320) · 🌱 Mid (713) · 🎯 Senior (830) · 🚀 Staff+ (229)
 
@@ -27,8 +27,8 @@
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
 | **[Airbnb](../companies/airbnb.md)** | [Progressive Banking System](https://trueinterview.io/questions/oa-banking-system-2) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/oa-banking-system-2) | 🆕 Oct 14, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Parcel Attribute Store](https://trueinterview.io/questions/oa-parcel-attribute-store) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-parcel-attribute-store) | 🆕 Oct 9, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Number of Islands with Max-Area and Streaming-Rows Follow-Ups](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | 🆕 Oct 3, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | 🆕 Oct 3, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Number of Islands with Max-Area and Streaming-Rows Follow-Ups](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Oct 3, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | Oct 3, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Checkout Price Engine](https://trueinterview.io/questions/checkout-price-engine-ood) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/checkout-price-engine-ood) | Oct 2, 2026 |
 | **[Amazon](../companies/amazon.md)** / [Scale AI](../companies/scale-ai.md) | [Lowest Common Manager in an Org Chart (Binary-Tree LCA Family)](https://trueinterview.io/questions/lowest-common-manager-org-chart) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/lowest-common-manager-org-chart) | Oct 1, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [LRU Cache](https://trueinterview.io/questions/lru-cache) | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Oct 1, 2026 |

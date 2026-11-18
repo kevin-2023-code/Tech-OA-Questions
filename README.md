@@ -10,7 +10,7 @@
 
 Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Microsoft** and 127 more companies — **every row tagged with the round, the level and the role it was asked for.** Synced hourly.
 
-**5,890 questions** · **802 from an OA** · **133 companies** · 1,495 intern & new grad · 1,123 reported in the last 90 days · 2,167 free
+**5,890 questions** · **802 from an OA** · **133 companies** · 1,495 intern & new grad · 1,115 reported in the last 90 days · 2,167 free
 
 [**▶ Practice on TrueInterview**](https://trueinterview.io/problems) &nbsp;·&nbsp; [**📝 Submit an OA**](https://github.com/kevin-2023-code/Tech-OA-Questions/issues/new?template=oa-report.yml) &nbsp;·&nbsp; [**🗣️ Interview reports**](https://trueinterview.io/interviews) &nbsp;·&nbsp; [**📦 The data (CSV)**](data/questions.csv)
 
@@ -46,11 +46,11 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 
 | Company | Industry | OA questions | Mostly | Levels | Newest OA |
 | :-- | :-- | --: | :-- | :-- | :-- |
-| **[Amazon](companies/amazon.md)** | 🛒 E-commerce & marketplaces | 53 | Coding · SQL | Intern & New grad · Mid · Senior · Staff+ | 🆕 Oct 3, 2026 |
+| **[Amazon](companies/amazon.md)** | 🛒 E-commerce & marketplaces | 53 | Coding · SQL | Intern & New grad · Mid · Senior · Staff+ | Oct 3, 2026 |
 | **[Capital One](companies/capital-one.md)** | 🏦 Banks, insurers & asset managers | 53 | Coding · Behavioral / concept | Intern & New grad · Mid · Senior · Staff+ | Oct 2, 2026 |
 | **[ByteDance](companies/bytedance.md)** | 📱 Consumer internet & media | 36 | Coding · SQL | Intern & New grad · Mid · Senior | Oct 2026 |
 | **[Meta](companies/meta.md)** | 📱 Consumer internet & media | 34 | Coding · SQL | Intern & New grad · Mid · Senior · Staff+ | Sep 2026 |
-| **[Microsoft](companies/microsoft.md)** | 🏢 Enterprise & business software | 32 | Coding · System design | Intern & New grad · Mid · Senior · Staff+ | 🆕 Oct 3, 2026 |
+| **[Microsoft](companies/microsoft.md)** | 🏢 Enterprise & business software | 32 | Coding · System design | Intern & New grad · Mid · Senior · Staff+ | Oct 3, 2026 |
 | **[Uber](companies/uber.md)** | 🛒 E-commerce & marketplaces | 32 | Coding · Behavioral / concept | Intern & New grad · Mid · Senior · Staff+ | Oct 2026 |
 | **[Google](companies/google.md)** | 📱 Consumer internet & media | 31 | Coding · Behavioral / concept | Intern & New grad · Mid · Senior | Oct 2026 |
 | **[Stripe](companies/stripe.md)** | 💳 Fintech, payments & crypto | 29 | Coding · SQL | Intern & New grad · Mid · Senior · Staff+ | 🆕 Oct 4, 2026 |
@@ -82,9 +82,9 @@ Questions candidates reported at **Meta, Amazon, Google, ByteDance, Uber, Micros
 | **[Google](companies/google.md)** | [Longest Non-Decreasing Subarray with One Replacement](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | 🆕 Oct 4, 2026 |
 | **[Stripe](companies/stripe.md)** | [Payment State Machine](https://trueinterview.io/questions/payment-state-machine-oa) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/payment-state-machine-oa) | 🆕 Oct 4, 2026 |
 | **[C3.ai](companies/c3-ai.md)** | [Star Sum: Best k-Star Sum in a Graph](https://trueinterview.io/questions/oa-star-sum-best-k-star) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/oa-star-sum-best-k-star) | 🆕 Oct 4, 2026 |
-| **[Microsoft](companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | 🆕 Oct 3, 2026 |
-| **[Amazon](companies/amazon.md)** | [Number of Islands with Max-Area and Streaming-Rows Follow-Ups](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | 🆕 Oct 3, 2026 |
-| **[Amazon](companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | 🆕 Oct 3, 2026 |
+| **[Microsoft](companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | Oct 3, 2026 |
+| **[Amazon](companies/amazon.md)** | [Number of Islands with Max-Area and Streaming-Rows Follow-Ups](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Oct 3, 2026 |
+| **[Amazon](companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | Oct 3, 2026 |
 | **[Amazon](companies/amazon.md)** | [Checkout Price Engine](https://trueinterview.io/questions/checkout-price-engine-ood) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/checkout-price-engine-ood) | Oct 2, 2026 |
 | **[Capital One](companies/capital-one.md)** | [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-pattern-matching) | Oct 2, 2026 |
 | **[Google](companies/google.md)** | [ML System Design (Recsys / Chatbot / Image Classifier)](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-system-design-recsys-chatbot-classifier) | Oct 2, 2026 |

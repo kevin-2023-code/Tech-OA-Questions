@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 477 reported in the last 90 days · 582 free to solve
+**2,621 questions** · 584 from an OA · 475 reported in the last 90 days · 582 free to solve
 
 **By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
@@ -25,9 +25,9 @@
 | **[Google](../companies/google.md)** | [Course Scheduling and Dependency Variants](https://trueinterview.io/questions/course-schedule-dependency-variants) | Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/course-schedule-dependency-variants) | 🆕 Oct 4, 2026 |
 | **[Google](../companies/google.md)** | [Longest Non-Decreasing Subarray with One Replacement](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | 🆕 Oct 4, 2026 |
 | **[C3.ai](../companies/c3-ai.md)** | [Star Sum: Best k-Star Sum in a Graph](https://trueinterview.io/questions/oa-star-sum-best-k-star) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/oa-star-sum-best-k-star) | 🆕 Oct 4, 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | 🆕 Oct 3, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Number of Islands with Max-Area and Streaming-Rows Follow-Ups](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | 🆕 Oct 3, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | 🆕 Oct 3, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | Oct 3, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Number of Islands with Max-Area and Streaming-Rows Follow-Ups](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Oct 3, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | Oct 3, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-pattern-matching) | Oct 2, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/number-line-block-placement) | Oct 2, 2026 |
 | **[Apple](../companies/apple.md)** | [Plant Infection Spread: Days Until Stable](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/plant-infection-spread-days-to-stabilize) | Oct 2, 2026 |

@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**2,493 questions** · 165 from an OA · 582 reported in the last 90 days · 750 free to solve
+**2,493 questions** · 165 from an OA · 576 reported in the last 90 days · 750 free to solve
 
 **Rounds:** 📝 OA (165) · 📞 Phone (1,298) · 🏢 Onsite (1,260) · 🏠 Take-home (6)
 
@@ -28,7 +28,7 @@
 | **[Disney](../companies/disney.md)** | [Data Pipeline Design (Data Engineer)](https://trueinterview.io/questions/data-pipeline-design-data-engineer) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/data-pipeline-design-data-engineer) | 🆕 Oct 8, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Ticket Booking System Under Flash-Sale Traffic](https://trueinterview.io/questions/ticket-booking-flash-sale-system) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ticket-booking-flash-sale-system) | 🆕 Oct 5, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design a Cloud IDE](https://trueinterview.io/questions/design-a-cloud-ide) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-cloud-ide) | 🆕 Oct 4, 2026 |
-| **[Amazon](../companies/amazon.md)** | [Number of Islands with Max-Area and Streaming-Rows Follow-Ups](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | 🆕 Oct 3, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Number of Islands with Max-Area and Streaming-Rows Follow-Ups](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/number-of-islands-max-area-streaming) | Oct 3, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Checkout Price Engine](https://trueinterview.io/questions/checkout-price-engine-ood) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/checkout-price-engine-ood) | Oct 2, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [LRU Cache](https://trueinterview.io/questions/lru-cache) | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Oct 1, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Reconstruct a Sentence from a Dictionary (Word Break Variant)](https://trueinterview.io/questions/word-break-sentence-reconstruction) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/word-break-sentence-reconstruction) | Oct 1, 2026 |

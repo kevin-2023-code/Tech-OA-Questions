@@ -8,7 +8,7 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,110 questions** · 351 from an OA · 223 reported in the last 90 days · 324 free to solve
+**1,110 questions** · 351 from an OA · 221 reported in the last 90 days · 324 free to solve
 
 **Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
 
@@ -30,7 +30,7 @@
 | **[Google](../companies/google.md)** | [Longest Non-Decreasing Subarray with One Replacement](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | Phone · Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-non-decreasing-subarray-one-replacement) | 🆕 Oct 4, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Payment State Machine](https://trueinterview.io/questions/payment-state-machine-oa) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/payment-state-machine-oa) | 🆕 Oct 4, 2026 |
 | **[C3.ai](../companies/c3-ai.md)** | [Star Sum: Best k-Star Sum in a Graph](https://trueinterview.io/questions/oa-star-sum-best-k-star) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/oa-star-sum-best-k-star) | 🆕 Oct 4, 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | 🆕 Oct 3, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | Oct 3, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-pattern-matching) | Oct 2, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/number-line-block-placement) | Oct 2, 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +7 | [LRU Cache](https://trueinterview.io/questions/lru-cache) | Phone | Intern · Mid · Senior | AI coding | [![Free][f]](https://trueinterview.io/questions/lru-cache) | Oct 1, 2026 |
