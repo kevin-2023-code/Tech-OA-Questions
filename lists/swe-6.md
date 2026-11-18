@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,928 questions** · 586 from an OA · 903 reported in the last 90 days · 1,122 free to solve
+**3,913 questions** · 583 from an OA · 898 reported in the last 90 days · 1,122 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,105) · 🌱 Mid (2,514) · 🎯 Senior (2,480) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (583) · 📞 Phone (2,011) · 🏢 Onsite (1,621) · 🏠 Take-home (8)
 
-**Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
+**Companies:** [Amazon (334)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (260)](../companies/meta.md) · [ByteDance (238)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (191)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [LinkedIn (117)](../companies/linkedin.md) · [OpenAI (117)](../companies/openai.md) · [Oracle (103)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · [3](swe-3.md) · [4](swe-4.md) · [5](swe-5.md) · **6** · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>
 
@@ -23,12 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Microsoft](../companies/microsoft.md)** | [Sliding-Window Stream Session Bucketing](https://trueinterview.io/questions/sliding-window-stream-bucketing) | Phone · Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/sliding-window-stream-bucketing) | Apr 16, 2026 |
-| **[NVIDIA](../companies/nvidia.md)** | [2-D Matrix Transpose with Memory-Layout Discussion](https://trueinterview.io/questions/matrix-transpose-memory-layout) | Phone · Onsite | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transpose-memory-layout) | Apr 15, 2026 |
-| **[NVIDIA](../companies/nvidia.md)** | [Disk Space Manager / KV Store with setAll](https://trueinterview.io/questions/storage-manager-and-kv-setall) | Phone | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/storage-manager-and-kv-setall) | Apr 15, 2026 |
-| **[Stripe](../companies/stripe.md)** | [Factory Cost Optimizer](https://trueinterview.io/questions/factory-cost-optimizer) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/factory-cost-optimizer) | Apr 15, 2026 |
-| **[Netflix](../companies/netflix.md)** | [Implement ordering and undo executor](https://trueinterview.io/questions/implement-ordering-and-undo-executor) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-ordering-and-undo-executor) | Apr 15, 2026 |
-| **[Karat](../companies/karat.md)** | [Obstacle Course Run Collection: Personal Best, Best of Bests & Simulation](https://trueinterview.io/questions/obstacle-course-run-collection) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/obstacle-course-run-collection) | Apr 15, 2026 |
 | **[Glean](../companies/glean.md)** / [ByteDance](../companies/bytedance.md) | [Search Words in a Character Grid](https://trueinterview.io/questions/search-words-in-a-character-grid) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/search-words-in-a-character-grid) | Apr 15, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve Subarray Sum and Local Minimum](https://trueinterview.io/questions/solve-subarray-sum-and-local-minimum) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-subarray-sum-and-local-minimum) | Apr 15, 2026 |
 | **[PayPal](../companies/paypal.md)** | [Design a Cross-Border Money Transfer Service](https://trueinterview.io/questions/design-a-cross-border-money-transfer-service) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-cross-border-money-transfer-service) | Apr 14, 2026 |
@@ -423,5 +417,11 @@
 | **[Asana](../companies/asana.md)** | [Discuss projects, mentorship, and conflict resolution](https://trueinterview.io/questions/discuss-projects-mentorship-and-conflict-resolution) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/discuss-projects-mentorship-and-conflict-resolution) | Mar 2026 |
 | **[Netflix](../companies/netflix.md)** | [Double-Checked Locking / Locking Correctness in Multithreaded Code](https://trueinterview.io/questions/6bcb25e8-ba72-4809-9b07-09b387195248) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/6bcb25e8-ba72-4809-9b07-09b387195248) | Mar 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Equal Frequency After One Deletion](https://trueinterview.io/questions/equal-character-frequency) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/equal-character-frequency) | Mar 2026 |
+| **[SoFi](../companies/sofi.md)** | [Explain benefits of a lockfile](https://trueinterview.io/questions/explain-benefits-of-a-lockfile) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-benefits-of-a-lockfile) | Mar 2026 |
+| **[SoFi](../companies/sofi.md)** | [Explain GC, singleton, and OOP principles](https://trueinterview.io/questions/explain-gc-singleton-and-oop-principles) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-gc-singleton-and-oop-principles) | Mar 2026 |
+| **[Dropbox](../companies/dropbox.md)** | [File Crawler](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/868c0ea1-62d7-4555-aeb2-7d9033aebbe5) | Mar 2026 |
+| **[Moveworks](../companies/moveworks.md)** | [Filter Strings by Rarest Max-Character Proportion and Unique Common-Chars, Then Concatenate](https://trueinterview.io/questions/4e4c3265-31d9-4e3a-8181-6df223a8dda1) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4e4c3265-31d9-4e3a-8181-6df223a8dda1) | Mar 2026 |
+| **[Airbnb](../companies/airbnb.md)** | [Find best downhill ski run from a start](https://trueinterview.io/questions/find-best-downhill-ski-run-from-a-start) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-best-downhill-ski-run-from-a-start) | Mar 2026 |
+| **[Pinterest](../companies/pinterest.md)** | [Find Restaurant Intervals](https://trueinterview.io/questions/find-restaurant-intervals) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-restaurant-intervals) | Mar 2026 |
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · [3](swe-3.md) · [4](swe-4.md) · [5](swe-5.md) · **6** · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>

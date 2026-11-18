@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Backend Engineer** role.
 
-**683 questions** · 49 from an OA · 150 reported in the last 90 days · 106 free to solve
+**679 questions** · 48 from an OA · 149 reported in the last 90 days · 106 free to solve
 
-**By level:** 🎓 Intern & New grad (80) · 🌱 Mid (306) · 🎯 Senior (527) · 🚀 Staff+ (155)
+**By level:** 🎓 Intern & New grad (79) · 🌱 Mid (302) · 🎯 Senior (525) · 🚀 Staff+ (155)
 
-**Rounds:** 📝 OA (49) · 📞 Phone (246) · 🏢 Onsite (439) · 🏠 Take-home (4)
+**Rounds:** 📝 OA (48) · 📞 Phone (244) · 🏢 Onsite (438) · 🏠 Take-home (4)
 
-**Companies:** [Stripe (43)](../companies/stripe.md) · [Amazon (42)](../companies/amazon.md) · [Meta (40)](../companies/meta.md) · [ByteDance (30)](../companies/bytedance.md) · [Microsoft (29)](../companies/microsoft.md) · [DoorDash (28)](../companies/doordash.md) · [OpenAI (27)](../companies/openai.md) · [Karat (25)](../companies/karat.md) · [Uber (25)](../companies/uber.md) · [Snowflake (23)](../companies/snowflake.md) · [Google (22)](../companies/google.md) · [Coinbase (21)](../companies/coinbase.md) · [LinkedIn (21)](../companies/linkedin.md) · [Anthropic (20)](../companies/anthropic.md) · [Atlassian (20)](../companies/atlassian.md)
+**Companies:** [Stripe (43)](../companies/stripe.md) · [Amazon (42)](../companies/amazon.md) · [Meta (40)](../companies/meta.md) · [ByteDance (30)](../companies/bytedance.md) · [Microsoft (29)](../companies/microsoft.md) · [DoorDash (28)](../companies/doordash.md) · [OpenAI (27)](../companies/openai.md) · [Karat (25)](../companies/karat.md) · [Uber (25)](../companies/uber.md) · [Snowflake (23)](../companies/snowflake.md) · [Google (22)](../companies/google.md) · [LinkedIn (21)](../companies/linkedin.md) · [Anthropic (20)](../companies/anthropic.md) · [Atlassian (20)](../companies/atlassian.md) · [Coinbase (20)](../companies/coinbase.md)
 
 <sub>Page [1](backend.md) · **2**</sub>
 
@@ -23,7 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[xAI](../companies/xai.md)** | [Design Token Limiter](https://trueinterview.io/questions/cc6f7ab2-4bdd-4914-85c9-f4912c2ffd73) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cc6f7ab2-4bdd-4914-85c9-f4912c2ffd73) | Apr 2026 |
 | **[Dropbox](../companies/dropbox.md)** | [Double Circuit Breaker for server calls (lambda returns success/failure)](https://trueinterview.io/questions/09d9b5c2-55aa-42e6-aa90-59a942fb10f8) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/09d9b5c2-55aa-42e6-aa90-59a942fb10f8) | Apr 2026 |
 | **[Rippling](../companies/rippling.md)** | [Driver Payroll: sum salaries of driving records up to a timestamp](https://trueinterview.io/questions/fc5a915a-d060-407d-a337-cbd179a6230d) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/fc5a915a-d060-407d-a337-cbd179a6230d) | Apr 2026 |
 | **[Dropbox](../companies/dropbox.md)** | [Event Logger with batching, fsync, and group commit follow-ups](https://trueinterview.io/questions/481f5542-4481-47c3-948d-fa2e58f4b6d9) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/481f5542-4481-47c3-948d-fa2e58f4b6d9) | Apr 2026 |
@@ -118,12 +117,10 @@
 | **[Instacart](../companies/instacart.md)** | [Worker Attendance & Payroll](https://trueinterview.io/questions/oa-worker-attendance-payroll) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-worker-attendance-payroll) | Jan 26, 2026 |
 | **[Dropbox](../companies/dropbox.md)** | [Design a recursive distributed file crawler](https://trueinterview.io/questions/design-a-recursive-distributed-file-crawler) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-recursive-distributed-file-crawler) | Jan 25, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Explain reliability and runtime fundamentals](https://trueinterview.io/questions/explain-reliability-and-runtime-fundamentals) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-reliability-and-runtime-fundamentals) | Jan 25, 2026 |
-| **[Airtable](../companies/airtable.md)** | [Implement a Connection Pool](https://trueinterview.io/questions/implement-a-connection-pool) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-connection-pool) | Jan 25, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Account Balance & Cross-Region Event Platform](https://trueinterview.io/questions/account-balance-cross-region-events) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/account-balance-cross-region-events) | Jan 24, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Design an Ads Audience Targeting System](https://trueinterview.io/questions/design-an-ads-audience-targeting-system) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-ads-audience-targeting-system) | Jan 24, 2026 |
 | **[Verkada](../companies/verkada.md)** | [Implement LRU and LFU caches](https://trueinterview.io/questions/implement-lru-and-lfu-caches) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-lru-and-lfu-caches) | Jan 23, 2026 |
 | **[Databricks](../companies/databricks.md)** | [Design a single-node persistent in-memory cache](https://trueinterview.io/questions/design-a-single-node-persistent-in-memory-cache) | Phone | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-single-node-persistent-in-memory-cache) | Jan 22, 2026 |
-| **[Coinbase](../companies/coinbase.md)** | [Implement cursor-based query pagination](https://trueinterview.io/questions/implement-cursor-based-query-pagination) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-cursor-based-query-pagination) | Jan 22, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Design a Billing System for 300M Subscribers](https://trueinterview.io/questions/design-a-billing-system-for-300m-subscribers) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-billing-system-for-300m-subscribers) | Jan 19, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [How should you handle misaligned interviews?](https://trueinterview.io/questions/how-should-you-handle-misaligned-interviews) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-should-you-handle-misaligned-interviews) | Jan 19, 2026 |
 | **[Salesforce](../companies/salesforce.md)** | [Design a Concurrent Car Reservation Service](https://trueinterview.io/questions/design-a-concurrent-car-reservation-service) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-concurrent-car-reservation-service) | Jan 18, 2026 |
@@ -232,7 +229,6 @@
 | **[Amazon](../companies/amazon.md)** | [Add Non-Overlapping Intervals and Query Point Coverage](https://trueinterview.io/questions/cd18c960-2e58-5dfb-8bb7-7557de4179d7) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/cd18c960-2e58-5dfb-8bb7-7557de4179d7) | — |
 | **[Karat](../companies/karat.md)** | [Balancing Music Files Across Servers with Consistent Hashing](https://trueinterview.io/questions/consistent-hashing-music-file-balance) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/consistent-hashing-music-file-balance) | — |
 | **[Instacart](../companies/instacart.md)** | [Banking System - Schedule and Cancel Payment](https://trueinterview.io/questions/01a9b588-6991-4435-bc8f-d96a2ed119bb) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/01a9b588-6991-4435-bc8f-d96a2ed119bb) | — |
-| **[PayPal](../companies/paypal.md)** | [Banking System Operations](https://trueinterview.io/questions/aab753cb-ef8c-4f67-a2b4-d6c811f9c12e) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/aab753cb-ef8c-4f67-a2b4-d6c811f9c12e) | — |
 | **[Amazon](../companies/amazon.md)** | [Build a BFS Web Crawler with Robust Retry and URL Normalization](https://trueinterview.io/questions/f34ba82c-7551-45b0-89de-a459613355eb) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f34ba82c-7551-45b0-89de-a459613355eb) | — |
 | **[Karat](../companies/karat.md)** | [Bundled vs Server-Fetched Hints in a Mobile Puzzle Game](https://trueinterview.io/questions/game-hints-preload-vs-server) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/game-hints-preload-vs-server) | — |
 | **[Karat](../companies/karat.md)** | [Choosing Consistency Models for Banking, Catalog and Analytics](https://trueinterview.io/questions/strong-vs-eventual-consistency-scenarios) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/strong-vs-eventual-consistency-scenarios) | — |

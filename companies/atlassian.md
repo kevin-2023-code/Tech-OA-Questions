@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Atlassian on TrueInterview](https://trueinterview.io/problems/company/atlassian) · [How Atlassian interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/atlassian/README.md)
 
-🏢 Enterprise & business software · **63 questions** · 4 from an OA · last reported Oct 2026
+🏢 Enterprise & business software · **62 questions** · 4 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (11) · 🌱 Mid (41) · 🎯 Senior (57) · 🚀 Staff+ (7)
+**By level:** 🎓 Intern & New grad (11) · 🌱 Mid (40) · 🎯 Senior (56) · 🚀 Staff+ (7)
 
-**By role:** 💻 Software Engineering (56) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (3) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (55) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (3) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (4) · 📞 Phone (28) · 🏢 Onsite (38)
+**Rounds:** 📝 OA (4) · 📞 Phone (28) · 🏢 Onsite (37)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/atlassian-interview-process) · [SWE](https://trueinterview.io/study/atlassian-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/atlassian-machine-learning-engineer-interview-process)
 
@@ -83,4 +83,3 @@
 | [Label game performance by margin](https://trueinterview.io/questions/label-game-performance-by-margin) | Phone | New grad · Mid | AI coding | [![Practice][p]](https://trueinterview.io/questions/label-game-performance-by-margin) | — |
 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | — |
 | [Rank each team’s top 3 scores in 2024](https://trueinterview.io/questions/rank-each-teams-top-3-scores-in-2024) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/rank-each-teams-top-3-scores-in-2024) | — |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [LinkedIn](../companies/linkedin.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |

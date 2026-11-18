@@ -6,15 +6,15 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,693 questions** · 169 from an OA · 395 reported in the last 90 days · 610 free to solve
+**1,689 questions** · 168 from an OA · 395 reported in the last 90 days · 609 free to solve
 
-**By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
+**By level:** 🎓 Intern & New grad (397) · 🌱 Mid (992) · 🎯 Senior (1,152) · 🚀 Staff+ (355)
 
-**By role:** 💻 Software Engineering (1,123) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
+**By role:** 💻 Software Engineering (1,119) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
 
-**Rounds:** 📝 OA (169) · 📞 Phone (870) · 🏢 Onsite (776) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (168) · 📞 Phone (870) · 🏢 Onsite (773) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Amazon (466)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (240)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
+**Companies:** [Meta (488)](../companies/meta.md) · [Amazon (463)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (239)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
 
 <sub>Page [1](maang.md) · [2](maang-2.md) · **3** · [4](maang-4.md) · [5](maang-5.md)</sub>
 
@@ -25,7 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Amazon](../companies/amazon.md)** / [Pinterest](../companies/pinterest.md) | [Search / Ranking / Experimentation](https://trueinterview.io/questions/as-ml-system-design-search-ranking) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/as-ml-system-design-search-ranking) | Apr 29, 2026 |
 | **[Meta](../companies/meta.md)** | [Solve Array Merge and Parentheses Cleanup](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Apr 29, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Bucket Batching DP (Applied Scientist Phone Screen)](https://trueinterview.io/questions/bucket-batching-dp-applied-scientist) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/bucket-batching-dp-applied-scientist) | Apr 28, 2026 |
 | **[Google](../companies/google.md)** | [Find the Longest Consecutive Path in a Binary Tree](https://trueinterview.io/questions/find-the-longest-consecutive-path-in-a-binary-tree) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-longest-consecutive-path-in-a-binary-tree) | Apr 28, 2026 |
@@ -425,5 +424,6 @@
 | **[Microsoft](../companies/microsoft.md)** | [Debug distributed-system performance problems](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | OA | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | Dec 17, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Describe a recent innovation you delivered](https://trueinterview.io/questions/describe-a-recent-innovation-you-delivered) | OA | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-a-recent-innovation-you-delivered) | Dec 17, 2025 |
 | **[Microsoft](../companies/microsoft.md)** | [Explain hash map internals and edge cases](https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases) | OA | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases) | Dec 17, 2025 |
+| **[Apple](../companies/apple.md)** | [Solve stock and banana problems](https://trueinterview.io/questions/solve-stock-and-banana-problems) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-stock-and-banana-problems) | Dec 17, 2025 |
 
 <sub>Page [1](maang.md) · [2](maang-2.md) · **3** · [4](maang-4.md) · [5](maang-5.md)</sub>

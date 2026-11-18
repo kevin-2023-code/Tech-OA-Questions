@@ -8,11 +8,11 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 336 from an OA · 579 reported in the last 90 days · 754 free to solve
+**2,514 questions** · 333 from an OA · 575 reported in the last 90 days · 753 free to solve
 
-**Rounds:** 📝 OA (336) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (333) · 📞 Phone (1,461) · 🏢 Onsite (961) · 🏠 Take-home (5)
 
-**Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
+**Companies:** [Amazon (232)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (183)](../companies/meta.md) · [ByteDance (172)](../companies/bytedance.md) · [Microsoft (130)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [Bloomberg (70)](../companies/bloomberg.md) · [LinkedIn (70)](../companies/linkedin.md) · [OpenAI (65)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (58)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
 <sub>Page [1](swe--mid.md) · [2](swe--mid-2.md) · **3** · [4](swe--mid-4.md) · [5](swe--mid-5.md) · [6](swe--mid-6.md) · [7](swe--mid-7.md)</sub>
 
@@ -23,10 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Goldman Sachs](../companies/goldman-sachs.md)** | [Highest Average Score Per Person](https://trueinterview.io/questions/max-average-score-per-person) | OA · Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/max-average-score-per-person) | Jul 6, 2026 |
-| **[Google](../companies/google.md)** | [L6 System Design (Staff Loop)](https://trueinterview.io/questions/l6-system-design-staff-loop) | Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/l6-system-design-staff-loop) | Jul 6, 2026 |
-| **[SoFi](../companies/sofi.md)** | [Reachable Nodes in a Directed Graph](https://trueinterview.io/questions/reachable-nodes-in-directed-graph) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/reachable-nodes-in-directed-graph) | Jul 4, 2026 |
-| **[NVIDIA](../companies/nvidia.md)** | [Hardware-Adjacent Project Deep Dive](https://trueinterview.io/questions/hardware-adjacent-project-deep-dive) | Phone · Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/hardware-adjacent-project-deep-dive) | Jul 3, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Basic Calculator with Postfix Notation](https://trueinterview.io/questions/postfix-basic-calculator) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/postfix-basic-calculator) | Jul 2, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Closest Version Date](https://trueinterview.io/questions/closest-version-date) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/closest-version-date) | Jul 2, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Core Dump System Design](https://trueinterview.io/questions/core-dump-system-design) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/core-dump-system-design) | Jul 2, 2026 |
@@ -296,7 +292,6 @@
 | **[Pinterest](../companies/pinterest.md)** | [Implement round() From String + Round-to-Precision](https://trueinterview.io/questions/round-and-precision-string) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/round-and-precision-string) | May 27, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Max Adjacent Stock Price Change](https://trueinterview.io/questions/karat-stock-price-change) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/karat-stock-price-change) | May 27, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Task Scheduler with Timed Execution and Dynamic Insertion](https://trueinterview.io/questions/task-scheduler-timed-execution) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/task-scheduler-timed-execution) | May 27, 2026 |
-| **[Meta](../companies/meta.md)** / [Airbnb](../companies/airbnb.md) | [Banking System (Progressive OOD)](https://trueinterview.io/questions/codesignal-oa-banking-system) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/codesignal-oa-banking-system) | May 26, 2026 |
 | **[Perplexity](../companies/perplexity.md)** | [ToDo List with Task Dependencies](https://trueinterview.io/questions/todo-list-with-task-dependencies-ood) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/todo-list-with-task-dependencies-ood) | May 26, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Design Article System](https://trueinterview.io/questions/web-api-for-article-voting-system) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/web-api-for-article-voting-system) | May 25, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Property Booking System](https://trueinterview.io/questions/property-combination-min-capacity) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/property-combination-min-capacity) | May 25, 2026 |
@@ -423,5 +418,10 @@
 | **[Meta](../companies/meta.md)** | [Solve Array Merge and Parentheses Cleanup](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup) | Apr 29, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Account Registration Deduplication](https://trueinterview.io/questions/account-merge-dedup-users) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/account-merge-dedup-users) | Apr 28, 2026 |
 | **[Shopify](../companies/shopify.md)** | [Compute Jaccard Similarity for Lists](https://trueinterview.io/questions/compute-jaccard-similarity-for-lists) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/compute-jaccard-similarity-for-lists) | Apr 28, 2026 |
+| **[Robinhood](../companies/robinhood.md)** | [Employee Referral Program](https://trueinterview.io/questions/referral-program-leaderboard) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/referral-program-leaderboard) | Apr 28, 2026 |
+| **[Amazon](../companies/amazon.md)** | [Find Valid IP Addresses in Files](https://trueinterview.io/questions/find-valid-ip-addresses-in-files) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-valid-ip-addresses-in-files) | Apr 28, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Implement Sorted Search and Array Updates](https://trueinterview.io/questions/implement-sorted-search-and-array-updates) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-sorted-search-and-array-updates) | Apr 28, 2026 |
+| **[Coinbase](../companies/coinbase.md)** / [Anthropic](../companies/anthropic.md) / [Applied Intuition](../companies/applied-intuition.md) | [In-Memory Database](https://trueinterview.io/questions/in-memory-database) | OA | New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-database) | Apr 28, 2026 |
+| **[Google](../companies/google.md)** | [Fence Painting Minimum Operations (Gemini Team)](https://trueinterview.io/questions/fence-painting-min-ops) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/fence-painting-min-ops) | Apr 27, 2026 |
 
 <sub>Page [1](swe--mid.md) · [2](swe--mid-2.md) · **3** · [4](swe--mid-4.md) · [5](swe--mid-5.md) · [6](swe--mid-6.md) · [7](swe--mid-7.md)</sub>

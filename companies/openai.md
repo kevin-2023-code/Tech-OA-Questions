@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice OpenAI on TrueInterview](https://trueinterview.io/problems/company/openai) · [How OpenAI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/openai/README.md)
 
-🧠 AI labs & AI infrastructure · **175 questions** · 9 from an OA · last reported Oct 2026
+🧠 AI labs & AI infrastructure · **172 questions** · 9 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (12) · 🌱 Mid (89) · 🎯 Senior (158) · 🚀 Staff+ (30)
+**By level:** 🎓 Intern & New grad (12) · 🌱 Mid (87) · 🎯 Senior (156) · 🚀 Staff+ (30)
 
-**By role:** 💻 Software Engineering (119) · 🤖 ML, AI & Research (47) · 📊 Data Science & Analytics (6) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (117) · 🤖 ML, AI & Research (46) · 📊 Data Science & Analytics (6) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (9) · 📞 Phone (92) · 🏢 Onsite (93)
+**Rounds:** 📝 OA (9) · 📞 Phone (89) · 🏢 Onsite (93)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/openai-interview-process) · [SWE](https://trueinterview.io/study/openai-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/openai-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/openai-research-scientist-interview-process) · [AI engineer](https://trueinterview.io/study/openai-ai-engineer-interview-process) · [Infra](https://trueinterview.io/study/openai-infrastructure-engineer-interview-process) · [Frontend](https://trueinterview.io/study/openai-frontend-engineer-interview-process)
 
@@ -84,7 +84,6 @@
 | [Toy Language Type System](https://trueinterview.io/questions/toy-language-type-system) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/toy-language-type-system) | Sep 2026 |
 | [Vectorized 1-NN and Neural Network Forward Pass](https://trueinterview.io/questions/vectorized-1-nn-and-neural-network-forward-pass) | Phone · Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/vectorized-1-nn-and-neural-network-forward-pass) | Sep 2026 |
 | [Model Infection, Immunity, Delayed Death, and Burn Interventions on a Grid](https://trueinterview.io/questions/model-infection-immunity-delayed-death-and-burn-interventions-on-a-grid) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/model-infection-immunity-delayed-death-and-burn-interventions-on-a-grid) | Aug 27, 2026 |
-| [Design Alternating Card Dealing and Hand Comparison](https://trueinterview.io/questions/design-alternating-card-dealing-and-hand-comparison) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-alternating-card-dealing-and-hand-comparison) | Aug 23, 2026 |
 | [Image Sharing with Content Deduplication](https://trueinterview.io/questions/image-sharing-content-deduplication) | Phone · Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/image-sharing-content-deduplication) | Aug 22, 2026 |
 | [Design a User-Respecting Smart-Grid Controller](https://trueinterview.io/questions/design-a-user-respecting-smart-grid-controller) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-user-respecting-smart-grid-controller) | Aug 21, 2026 |
 | [Design Command Dispatch and Telemetry Reconciliation for Unreliable Devices](https://trueinterview.io/questions/design-command-dispatch-and-telemetry-reconciliation-for-unreliable-devices) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-command-dispatch-and-telemetry-reconciliation-for-unreliable-devices) | Aug 17, 2026 |
@@ -173,7 +172,6 @@
 | [General Coding Interview](https://trueinterview.io/questions/ced5e63d-df6c-4a76-8166-add49305f598) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ced5e63d-df6c-4a76-8166-add49305f598) | Feb 2026 |
 | [GPU Credits II (Modified): Balance Query Returns None When Subtract Fails](https://trueinterview.io/questions/27d03a78-b011-4752-b7f4-b9aa6f92ad54) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/27d03a78-b011-4752-b7f4-b9aa6f92ad54) | Feb 2026 |
 | [ML Coding with NP and NN Layers](https://trueinterview.io/questions/59c77c9a-49d0-4955-be64-91473bb8ab7f) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/59c77c9a-49d0-4955-be64-91473bb8ab7f) | Feb 2026 |
-| [Implement a memory allocator with malloc/free](https://trueinterview.io/questions/implement-a-memory-allocator-with-malloc-free) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-memory-allocator-with-malloc-free) | Jan 9, 2026 |
 | [Explain KV cache in Transformer inference](https://trueinterview.io/questions/explain-kv-cache-in-transformer-inference) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-kv-cache-in-transformer-inference) | Jan 6, 2026 |
 | [Design a chatbot fallback for unknown questions](https://trueinterview.io/questions/design-a-chatbot-fallback-for-unknown-questions) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-chatbot-fallback-for-unknown-questions) | Dec 15, 2025 |
 | [Design a harmful video content moderation system](https://trueinterview.io/questions/design-a-harmful-video-content-moderation-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-harmful-video-content-moderation-system) | Dec 15, 2025 |
@@ -184,7 +182,6 @@
 | [Design an image/video near-duplicate detection system](https://trueinterview.io/questions/design-an-image-video-near-duplicate-detection-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-image-video-near-duplicate-detection-system) | Dec 15, 2025 |
 | [Implement map serialization and deserialization](https://trueinterview.io/questions/implement-map-serialization-and-deserialization) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-map-serialization-and-deserialization) | Dec 1, 2025 |
 | [Implement a persistent sharded key-value store](https://trueinterview.io/questions/implement-a-persistent-sharded-key-value-store) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-persistent-sharded-key-value-store) | Nov 24, 2025 |
-| [Design a Resumable Iterator with Checkpoint and Restore](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Oct 18, 2025 |
 | [Compute signup rate and retention from raw logs](https://trueinterview.io/questions/compute-signup-rate-and-retention-from-raw-logs) | Phone | Mid · Senior | SQL | [![Free][f]](https://trueinterview.io/questions/compute-signup-rate-and-retention-from-raw-logs) | Oct 4, 2025 |
 | [Dataset Exploration: Detect Label Noise and Choose Metrics](https://trueinterview.io/questions/efbf2b5a-6863-4c73-947f-003612c370f3) | Phone | — | Coding | [![Practice][p]](https://trueinterview.io/questions/efbf2b5a-6863-4c73-947f-003612c370f3) | — |
 | [Debug a Transformer with Padding-Mask Invariance](https://trueinterview.io/questions/2255b47c-b6fa-4797-a06c-ffb8391f30c2) | Onsite | Mid · Senior · Staff+ | AI coding | [![Practice][p]](https://trueinterview.io/questions/2255b47c-b6fa-4797-a06c-ffb8391f30c2) | — |

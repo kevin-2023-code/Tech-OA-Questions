@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,115 reported in the last 90 days · 2,167 free to solve
+**5,873 questions** · 799 from an OA · 1,110 reported in the last 90 days · 2,165 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,490) · 🌱 Mid (3,438) · 🎯 Senior (4,045) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (799) · 📞 Phone (3,108) · 🏢 Onsite (2,330) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · **9** · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,12 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Snowflake](../companies/snowflake.md)** | [String-Command Calculator](https://trueinterview.io/questions/calculator-string-commands) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/calculator-string-commands) | Feb 26, 2026 |
-| **[Pinterest](../companies/pinterest.md)** | [Weighted Sampling from Score Distribution](https://trueinterview.io/questions/weighted-sampling-from-scores) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/weighted-sampling-from-scores) | Feb 26, 2026 |
-| **[Google](../companies/google.md)** | [Apply Range Overwrite Queries](https://trueinterview.io/questions/apply-range-overwrite-queries) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/apply-range-overwrite-queries) | Feb 25, 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [Choose Classification Metrics Under Asymmetric Costs](https://trueinterview.io/questions/choose-classification-metrics-under-asymmetric-costs) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-classification-metrics-under-asymmetric-costs) | Feb 25, 2026 |
-| **[Point72](../companies/point72.md)** | [Compute Gaussian Probability and Regression Coefficients](https://trueinterview.io/questions/compute-gaussian-probability-and-regression-coefficients) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-gaussian-probability-and-regression-coefficients) | Feb 25, 2026 |
-| **[Apple](../companies/apple.md)** | [Debug a Buggy UNet in PyTorch](https://trueinterview.io/questions/debug-a-buggy-unet-in-pytorch) | Phone | Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/debug-a-buggy-unet-in-pytorch) | Feb 25, 2026 |
 | **[Meta](../companies/meta.md)** | [Design a post privacy/visibility system](https://trueinterview.io/questions/design-a-post-privacy-visibility-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-post-privacy-visibility-system) | Feb 25, 2026 |
 | **[Meta](../companies/meta.md)** | [Design a YouTube/Netflix video platform](https://trueinterview.io/questions/design-a-youtube-netflix-video-platform) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-youtube-netflix-video-platform) | Feb 25, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design Testing Without A/B Experiments](https://trueinterview.io/questions/design-testing-without-a-b-experiments) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-testing-without-a-b-experiments) | Feb 25, 2026 |
@@ -404,7 +398,6 @@
 | **[Dropbox](../companies/dropbox.md)** | [Design a recursive distributed file crawler](https://trueinterview.io/questions/design-a-recursive-distributed-file-crawler) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-recursive-distributed-file-crawler) | Jan 25, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Explain reliability and runtime fundamentals](https://trueinterview.io/questions/explain-reliability-and-runtime-fundamentals) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-reliability-and-runtime-fundamentals) | Jan 25, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Find the Best and Worst Completion of a Partial Numeric Hand](https://trueinterview.io/questions/find-the-best-and-worst-completion-of-a-partial-numeric-hand) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-the-best-and-worst-completion-of-a-partial-numeric-hand) | Jan 25, 2026 |
-| **[Airtable](../companies/airtable.md)** | [Implement a Connection Pool](https://trueinterview.io/questions/implement-a-connection-pool) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-connection-pool) | Jan 25, 2026 |
 | **[Citadel](../companies/citadel.md)** | [LRU + LFU + Custom Eviction Function](https://trueinterview.io/questions/lru-lfu-custom-evict) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/lru-lfu-custom-evict) | Jan 25, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Timer Function](https://trueinterview.io/questions/timer-function) | Phone · Onsite | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/timer-function) | Jan 25, 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Account Balance & Cross-Region Event Platform](https://trueinterview.io/questions/account-balance-cross-region-events) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/account-balance-cross-region-events) | Jan 24, 2026 |
@@ -419,5 +412,12 @@
 | **[Reddit](../companies/reddit.md)** | [Merge JSON Event Logs](https://trueinterview.io/questions/merge-json-event-logs) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/merge-json-event-logs) | Jan 23, 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Moving Average Signal System](https://trueinterview.io/questions/moving-average-signal-system) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/moving-average-signal-system) | Jan 23, 2026 |
 | **[Reddit](../companies/reddit.md)** | [Related Communities Finder](https://trueinterview.io/questions/related-communities-finder) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/related-communities-finder) | Jan 23, 2026 |
+| **[Akuna Capital](../companies/akuna-capital.md)** | [Sliding-Window Order Message Rate Limiter](https://trueinterview.io/questions/sliding-window-order-message-rate-limiter) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/sliding-window-order-message-rate-limiter) | Jan 23, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Solve these string, subset, and date problems](https://trueinterview.io/questions/solve-these-string-subset-and-date-problems) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-these-string-subset-and-date-problems) | Jan 23, 2026 |
+| **[Salesforce](../companies/salesforce.md)** | [Answer ownership, conflict, and failure recovery questions](https://trueinterview.io/questions/answer-ownership-conflict-and-failure-recovery-questions) | Phone | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-ownership-conflict-and-failure-recovery-questions) | Jan 22, 2026 |
+| **[Citadel](../companies/citadel.md)** | [BST from Scratch (insert / search / delete) + Balancing Discussion](https://trueinterview.io/questions/bst-from-scratch) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/bst-from-scratch) | Jan 22, 2026 |
+| **[Salesforce](../companies/salesforce.md)** | [Describe a memorable bug and persuasion story](https://trueinterview.io/questions/describe-a-memorable-bug-and-persuasion-story) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-a-memorable-bug-and-persuasion-story) | Jan 22, 2026 |
+| **[Databricks](../companies/databricks.md)** | [Design a single-node persistent in-memory cache](https://trueinterview.io/questions/design-a-single-node-persistent-in-memory-cache) | Phone | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-single-node-persistent-in-memory-cache) | Jan 22, 2026 |
+| **[LinkedIn](../companies/linkedin.md)** | [Design Cache with Eviction](https://trueinterview.io/questions/design-cache-with-eviction) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-cache-with-eviction) | Jan 22, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · **9** · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

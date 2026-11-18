@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Machine Learning Engineer**, **AI Engineer** or **Research Scientist** role.
 
-**481 questions** · 21 from an OA · 102 reported in the last 90 days · 185 free to solve
+**480 questions** · 21 from an OA · 102 reported in the last 90 days · 184 free to solve
 
-**By level:** 🎓 Intern & New grad (69) · 🌱 Mid (185) · 🎯 Senior (385) · 🚀 Staff+ (138)
+**By level:** 🎓 Intern & New grad (69) · 🌱 Mid (184) · 🎯 Senior (385) · 🚀 Staff+ (138)
 
-**Rounds:** 📝 OA (21) · 📞 Phone (244) · 🏢 Onsite (262) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (21) · 📞 Phone (243) · 🏢 Onsite (262) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (52)](../companies/amazon.md) · [OpenAI (47)](../companies/openai.md) · [Apple (28)](../companies/apple.md) · [ByteDance (28)](../companies/bytedance.md) · [Meta (28)](../companies/meta.md) · [Microsoft (26)](../companies/microsoft.md) · [Anthropic (19)](../companies/anthropic.md) · [Google (18)](../companies/google.md) · [Pinterest (18)](../companies/pinterest.md) · [Capital One (15)](../companies/capital-one.md) · [Uber (14)](../companies/uber.md) · [Reddit (13)](../companies/reddit.md) · [Waymo (13)](../companies/waymo.md) · [LinkedIn (12)](../companies/linkedin.md) · [Netflix (12)](../companies/netflix.md)
+**Companies:** [Amazon (52)](../companies/amazon.md) · [OpenAI (46)](../companies/openai.md) · [Apple (28)](../companies/apple.md) · [ByteDance (28)](../companies/bytedance.md) · [Meta (28)](../companies/meta.md) · [Microsoft (26)](../companies/microsoft.md) · [Anthropic (19)](../companies/anthropic.md) · [Google (18)](../companies/google.md) · [Pinterest (18)](../companies/pinterest.md) · [Capital One (15)](../companies/capital-one.md) · [Uber (14)](../companies/uber.md) · [Reddit (13)](../companies/reddit.md) · [Waymo (13)](../companies/waymo.md) · [LinkedIn (12)](../companies/linkedin.md) · [Netflix (12)](../companies/netflix.md)
 
 <sub>Page **1** · [2](ml-research-2.md)</sub>
 

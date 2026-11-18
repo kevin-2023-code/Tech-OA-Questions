@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *E-commerce & marketplaces*.
 
-**1,231 questions** · 150 from an OA · 305 reported in the last 90 days · 468 free to solve
+**1,224 questions** · 147 from an OA · 303 reported in the last 90 days · 467 free to solve
 
-**By level:** 🎓 Intern & New grad (320) · 🌱 Mid (713) · 🎯 Senior (830) · 🚀 Staff+ (229)
+**By level:** 🎓 Intern & New grad (316) · 🌱 Mid (707) · 🎯 Senior (823) · 🚀 Staff+ (229)
 
-**By role:** 💻 Software Engineering (877) · 🤖 ML, AI & Research (98) · 📊 Data Science & Analytics (228) · 📈 Quantitative Finance (4) · 📱 Product Management (11)
+**By role:** 💻 Software Engineering (871) · 🤖 ML, AI & Research (98) · 📊 Data Science & Analytics (228) · 📈 Quantitative Finance (4) · 📱 Product Management (11)
 
-**Rounds:** 📝 OA (150) · 📞 Phone (623) · 🏢 Onsite (543) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (147) · 📞 Phone (623) · 🏢 Onsite (539) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (466)](../companies/amazon.md) · [Uber (263)](../companies/uber.md) · [DoorDash (151)](../companies/doordash.md) · [Airbnb (112)](../companies/airbnb.md) · [Instacart (65)](../companies/instacart.md) · [Lyft (49)](../companies/lyft.md) · [eBay (48)](../companies/ebay.md) · [Expedia (41)](../companies/expedia.md) · [Shopify (41)](../companies/shopify.md) · [Walmart Labs (35)](../companies/walmart-labs.md) · [Pinduoduo (27)](../companies/pinduoduo.md) · [Whatnot (19)](../companies/whatnot.md) · [Faire (5)](../companies/faire.md) · [StubHub (3)](../companies/stubhub.md)
+**Companies:** [Amazon (463)](../companies/amazon.md) · [Uber (262)](../companies/uber.md) · [DoorDash (151)](../companies/doordash.md) · [Airbnb (109)](../companies/airbnb.md) · [Instacart (65)](../companies/instacart.md) · [eBay (48)](../companies/ebay.md) · [Lyft (48)](../companies/lyft.md) · [Expedia (41)](../companies/expedia.md) · [Shopify (41)](../companies/shopify.md) · [Walmart Labs (35)](../companies/walmart-labs.md) · [Pinduoduo (27)](../companies/pinduoduo.md) · [Whatnot (19)](../companies/whatnot.md) · [Faire (5)](../companies/faire.md) · [StubHub (3)](../companies/stubhub.md)
 
 <sub>Page **1** · [2](ecommerce-marketplace-2.md) · [3](ecommerce-marketplace-3.md) · [4](ecommerce-marketplace-4.md)</sub>
 
@@ -303,7 +303,6 @@
 | **[Meta](../companies/meta.md)** / [Amazon](../companies/amazon.md) | [Weighted Sum of Nested Integer Array by Depth](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/3a9bae3a-c122-418b-92a8-366126b7e898) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Word Search (LC 79)](https://trueinterview.io/questions/word-search-lc-79) | Phone | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/word-search-lc-79) | Sep 2026 |
 | **[Amazon](../companies/amazon.md)** | [Word Search with Multi-Word Follow-up](https://trueinterview.io/questions/885fe007-aa27-5ae8-a5a4-adfb66816483) | Phone | Intern · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/885fe007-aa27-5ae8-a5a4-adfb66816483) | Sep 2026 |
-| **[Airbnb](../companies/airbnb.md)** | [Design an In-Memory Object Manager with TTL](https://trueinterview.io/questions/design-an-in-memory-object-manager-with-ttl) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-object-manager-with-ttl) | Aug 30, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Taking Ownership of a Technically Risky Project](https://trueinterview.io/questions/taking-ownership-of-a-technically-risky-project) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/taking-ownership-of-a-technically-risky-project) | Aug 30, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Define a File Store with User Quotas and Compression](https://trueinterview.io/questions/define-a-file-store-with-user-quotas-and-compression) | OA | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/define-a-file-store-with-user-quotas-and-compression) | Aug 29, 2026 |
 | **[Uber](../companies/uber.md)** | [Find Robots Position](https://trueinterview.io/questions/phone-screen-robot-position-by-blocker-distance) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/phone-screen-robot-position-by-blocker-distance) | Aug 29, 2026 |
@@ -312,7 +311,6 @@
 | **[Amazon](../companies/amazon.md)** / [Meta](../companies/meta.md) | [Sort Elements by Frequency](https://trueinterview.io/questions/3486512d-d05e-42de-b149-76d9f0e11814) | Phone · Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/3486512d-d05e-42de-b149-76d9f0e11814) | Aug 27, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Spreadsheet Cell Relationships](https://trueinterview.io/questions/spreadsheet-cell-relationships) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/spreadsheet-cell-relationships) | Aug 27, 2026 |
 | **[eBay](../companies/ebay.md)** | [Describe Your Most Technically Difficult Project](https://trueinterview.io/questions/describe-your-most-technically-difficult-project) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-your-most-technically-difficult-project) | Aug 26, 2026 |
-| **[Airbnb](../companies/airbnb.md)** | [Design a Multi-Level In-Memory Cloud Storage Service](https://trueinterview.io/questions/design-a-multi-level-in-memory-cloud-storage-service) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-multi-level-in-memory-cloud-storage-service) | Aug 25, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Package Weight Rearrangement](https://trueinterview.io/questions/adjacent-package-weight-rearrangement) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/adjacent-package-weight-rearrangement) | Aug 24, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Design a Debounced Product Search Box](https://trueinterview.io/questions/design-a-debounced-product-search-box) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-debounced-product-search-box) | Aug 22, 2026 |
 | **[Uber](../companies/uber.md)** | [Design a Highly Available URL Shortener](https://trueinterview.io/questions/design-a-highly-available-url-shortener) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-highly-available-url-shortener) | Aug 22, 2026 |
@@ -425,5 +423,7 @@
 | **[Google](../companies/google.md)** / [Uber](../companies/uber.md) | [Text Justification](https://trueinterview.io/questions/9213c4e8-b5fd-4c9b-924d-7108600f1f73) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/9213c4e8-b5fd-4c9b-924d-7108600f1f73) | Aug 2026 |
 | **[Oracle](../companies/oracle.md)** / [Amazon](../companies/amazon.md) | [Top K Frequent Elements with Descending Value Tie-Break](https://trueinterview.io/questions/fafdcfea-e85a-522c-a5d1-256c48782c32) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fafdcfea-e85a-522c-a5d1-256c48782c32) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** | [Top K Slowest Requests from Logs](https://trueinterview.io/questions/9a6cfc3c-e9ec-5766-b7d6-c9ab05882217) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/9a6cfc3c-e9ec-5766-b7d6-c9ab05882217) | Aug 2026 |
+| **[Amazon](../companies/amazon.md)** | [Trade Short-Term Benefit for Long-Term Success](https://trueinterview.io/questions/trade-short-term-benefit-for-long-term-success) | Phone | New grad · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/trade-short-term-benefit-for-long-term-success) | Aug 2026 |
+| **[Airbnb](../companies/airbnb.md)** | [URL Parser with Percent Unquote](https://trueinterview.io/questions/b8f2f270-a472-5c0c-927b-883b8fa80722) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b8f2f270-a472-5c0c-927b-883b8fa80722) | Aug 2026 |
 
 <sub>Page **1** · [2](ecommerce-marketplace-2.md) · [3](ecommerce-marketplace-3.md) · [4](ecommerce-marketplace-4.md)</sub>

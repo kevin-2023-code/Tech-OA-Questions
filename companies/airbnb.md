@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Airbnb on TrueInterview](https://trueinterview.io/problems/company/airbnb) · [How Airbnb interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/airbnb/README.md)
 
-🛒 E-commerce & marketplaces · **112 questions** · 15 from an OA · last reported Oct 2026
+🛒 E-commerce & marketplaces · **109 questions** · 12 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (28) · 🌱 Mid (64) · 🎯 Senior (72) · 🚀 Staff+ (16)
+**By level:** 🎓 Intern & New grad (25) · 🌱 Mid (61) · 🎯 Senior (69) · 🚀 Staff+ (16)
 
-**By role:** 💻 Software Engineering (84) · 🤖 ML, AI & Research (8) · 📊 Data Science & Analytics (18) · 📱 Product Management (2)
+**By role:** 💻 Software Engineering (81) · 🤖 ML, AI & Research (8) · 📊 Data Science & Analytics (18) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (15) · 📞 Phone (49) · 🏢 Onsite (58)
+**Rounds:** 📝 OA (12) · 📞 Phone (49) · 🏢 Onsite (58)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/airbnb-interview-process) · [SWE](https://trueinterview.io/study/airbnb-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/airbnb-machine-learning-engineer-interview-process)
 
@@ -53,10 +53,8 @@
 | [Maximum Profit in Job Scheduling](https://trueinterview.io/questions/maximum-profit-in-job-scheduling)<br><sub>also [Snowflake](../companies/snowflake.md) / [Google](../companies/google.md) / [Pinterest](../companies/pinterest.md)</sub> | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/maximum-profit-in-job-scheduling) | Sep 2026 |
 | [Median Home Price by City](https://trueinterview.io/questions/0c07a7e2-8538-52ad-a790-8c1ca6621996) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/0c07a7e2-8538-52ad-a790-8c1ca6621996) | Sep 2026 |
 | [Task Management System with Expiring Assignments and Overdue Tracking](https://trueinterview.io/questions/5f52371c-798e-5b63-9766-25ef1e9094a5)<br><sub>also [Coinbase](../companies/coinbase.md) / [Instacart](../companies/instacart.md)</sub> | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/5f52371c-798e-5b63-9766-25ef1e9094a5) | Sep 2026 |
-| [Design an In-Memory Object Manager with TTL](https://trueinterview.io/questions/design-an-in-memory-object-manager-with-ttl) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-in-memory-object-manager-with-ttl) | Aug 30, 2026 |
 | [Define a File Store with User Quotas and Compression](https://trueinterview.io/questions/define-a-file-store-with-user-quotas-and-compression) | OA | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/define-a-file-store-with-user-quotas-and-compression) | Aug 29, 2026 |
 | [In-Memory Object Manager](https://trueinterview.io/questions/oa-object-manager-prefix-ttl) | OA | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-object-manager-prefix-ttl) | Aug 28, 2026 |
-| [Design a Multi-Level In-Memory Cloud Storage Service](https://trueinterview.io/questions/design-a-multi-level-in-memory-cloud-storage-service) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-multi-level-in-memory-cloud-storage-service) | Aug 25, 2026 |
 | [Working Hours Register](https://trueinterview.io/questions/oa-working-hours-register) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-working-hours-register) | Aug 17, 2026 |
 | [Add Bold Tag in String](https://trueinterview.io/questions/e789ba6a-1b50-51dd-ba78-d8f46de2895f) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/e789ba6a-1b50-51dd-ba78-d8f46de2895f) | Aug 2026 |
 | [Banking System - Basic Account Operations](https://trueinterview.io/questions/76426ad8-4d47-53ba-b232-1d99030c03c9) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/76426ad8-4d47-53ba-b232-1d99030c03c9) | Aug 2026 |
@@ -88,7 +86,6 @@
 | [Boxes, Keys & Candies](https://trueinterview.io/questions/boxes-keys-candies-ood) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/boxes-keys-candies-ood) | Jun 2, 2026 |
 | [Maximum Ski Score](https://trueinterview.io/questions/ski-path-max-score-dag) | Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/ski-path-max-score-dag) | Jun 2026 |
 | [Minimum Purchases to Fill an Exact Target Amount](https://trueinterview.io/questions/428b5932-30d7-5c7d-8b9a-f097f61a9888) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/428b5932-30d7-5c7d-8b9a-f097f61a9888) | Jun 2026 |
-| [Banking System (Progressive OOD)](https://trueinterview.io/questions/codesignal-oa-banking-system)<br><sub>also [Meta](../companies/meta.md)</sub> | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/codesignal-oa-banking-system) | May 26, 2026 |
 | [Property Booking System](https://trueinterview.io/questions/property-combination-min-capacity) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/property-combination-min-capacity) | May 25, 2026 |
 | [Design Connect Four](https://trueinterview.io/questions/board-game-ood)<br><sub>also [Snowflake](../companies/snowflake.md) / [Square](../companies/square.md)</sub> | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/board-game-ood) | May 24, 2026 |
 | [Average Vacant Days](https://trueinterview.io/questions/average-vacant-days) | Onsite | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/average-vacant-days) | May 23, 2026 |

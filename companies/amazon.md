@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Amazon on TrueInterview](https://trueinterview.io/problems/company/amazon) · [How Amazon interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/amazon/README.md)
 
-🛒 E-commerce & marketplaces · **466 questions** · 53 from an OA · last reported Oct 2026
+🛒 E-commerce & marketplaces · **463 questions** · 53 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (148) · 🌱 Mid (297) · 🎯 Senior (287) · 🚀 Staff+ (70)
+**By level:** 🎓 Intern & New grad (147) · 🌱 Mid (294) · 🎯 Senior (284) · 🚀 Staff+ (70)
 
-**By role:** 💻 Software Engineering (337) · 🤖 ML, AI & Research (52) · 📊 Data Science & Analytics (67) · 📈 Quantitative Finance (3) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (334) · 🤖 ML, AI & Research (52) · 📊 Data Science & Analytics (67) · 📈 Quantitative Finance (3) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (53) · 📞 Phone (239) · 🏢 Onsite (207)
+**Rounds:** 📝 OA (53) · 📞 Phone (239) · 🏢 Onsite (204)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/amazon-interview-process) · [SWE](https://trueinterview.io/study/amazon-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/amazon-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/amazon-research-scientist-interview-process) · [Frontend](https://trueinterview.io/study/amazon-frontend-engineer-interview-process)
 

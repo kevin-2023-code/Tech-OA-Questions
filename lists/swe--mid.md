@@ -8,11 +8,11 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 336 from an OA · 579 reported in the last 90 days · 754 free to solve
+**2,514 questions** · 333 from an OA · 575 reported in the last 90 days · 753 free to solve
 
-**Rounds:** 📝 OA (336) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (333) · 📞 Phone (1,461) · 🏢 Onsite (961) · 🏠 Take-home (5)
 
-**Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
+**Companies:** [Amazon (232)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (183)](../companies/meta.md) · [ByteDance (172)](../companies/bytedance.md) · [Microsoft (130)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [Bloomberg (70)](../companies/bloomberg.md) · [LinkedIn (70)](../companies/linkedin.md) · [OpenAI (65)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (58)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
 <sub>Page **1** · [2](swe--mid-2.md) · [3](swe--mid-3.md) · [4](swe--mid-4.md) · [5](swe--mid-5.md) · [6](swe--mid-6.md) · [7](swe--mid-7.md)</sub>
 
@@ -266,7 +266,6 @@
 | **[Amazon](../companies/amazon.md)** | [Timestamped Key-Value Store](https://trueinterview.io/questions/timestamped-key-value-store) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/timestamped-key-value-store) | Sep 5, 2026 |
 | **[ZipHQ](../companies/ziphq.md)** | [Track Repeated Approval Alerts and Safely Update Alert Levels](https://trueinterview.io/questions/track-repeated-approval-alerts-and-safely-update-alert-levels) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/track-repeated-approval-alerts-and-safely-update-alert-levels) | Sep 5, 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Define and Calculate Employee Referral Counts](https://trueinterview.io/questions/define-and-calculate-employee-referral-counts) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/define-and-calculate-employee-referral-counts) | Sep 4, 2026 |
-| **[Reddit](../companies/reddit.md)** | [Design Add, Overwrite, Undo, and Redo for Billing State](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Sep 4, 2026 |
 | **[Meta](../companies/meta.md)** | [Design and Evaluate a Solver for a 36-Card Sum-Fifteen Game](https://trueinterview.io/questions/design-and-evaluate-a-solver-for-a-36-card-sum-fifteen-game) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-evaluate-a-solver-for-a-36-card-sum-fifteen-game) | Sep 4, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Handle API Errors with Python Requests](https://trueinterview.io/questions/handle-api-errors-with-python-requests) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/handle-api-errors-with-python-requests) | Sep 4, 2026 |
 | **[ByteDance](../companies/bytedance.md)** / [OKX](../companies/okx.md) / [OpenAI](../companies/openai.md) | [Restore IP Addresses](https://trueinterview.io/questions/restore-ip-addresses) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/restore-ip-addresses) | Sep 4, 2026 |
@@ -423,5 +422,6 @@
 | **[Disney](../companies/disney.md)** | [Implement a Set from Scratch (Java)](https://trueinterview.io/questions/implement-set-without-hashing) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-set-without-hashing) | Sep 2026 |
 | **[OpenAI](../companies/openai.md)** | [Implement follow graph with snapshots and recommendations](https://trueinterview.io/questions/implement-follow-graph-with-snapshots-and-recommendations) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-follow-graph-with-snapshots-and-recommendations) | Sep 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Implement Round-Robin and Consistent-Hashing Load Balancers](https://trueinterview.io/questions/254f4bc1-6970-5ca1-ad6a-dcfe8391174c) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/254f4bc1-6970-5ca1-ad6a-dcfe8391174c) | Sep 2026 |
+| **[Apple](../companies/apple.md)** | [Improve QA Benchmarks, Regression Tests, and HPC Resource Use](https://trueinterview.io/questions/improve-qa-benchmarks-regression-tests-and-hpc-resource-use) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/improve-qa-benchmarks-regression-tests-and-hpc-resource-use) | Sep 2026 |
 
 <sub>Page **1** · [2](swe--mid-2.md) · [3](swe--mid-3.md) · [4](swe--mid-4.md) · [5](swe--mid-5.md) · [6](swe--mid-6.md) · [7](swe--mid-7.md)</sub>

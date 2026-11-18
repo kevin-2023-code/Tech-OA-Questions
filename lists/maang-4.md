@@ -6,15 +6,15 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,693 questions** · 169 from an OA · 395 reported in the last 90 days · 610 free to solve
+**1,689 questions** · 168 from an OA · 395 reported in the last 90 days · 609 free to solve
 
-**By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
+**By level:** 🎓 Intern & New grad (397) · 🌱 Mid (992) · 🎯 Senior (1,152) · 🚀 Staff+ (355)
 
-**By role:** 💻 Software Engineering (1,123) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
+**By role:** 💻 Software Engineering (1,119) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
 
-**Rounds:** 📝 OA (169) · 📞 Phone (870) · 🏢 Onsite (776) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (168) · 📞 Phone (870) · 🏢 Onsite (773) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Amazon (466)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (240)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
+**Companies:** [Meta (488)](../companies/meta.md) · [Amazon (463)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (239)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
 
 <sub>Page [1](maang.md) · [2](maang-2.md) · [3](maang-3.md) · **4** · [5](maang-5.md)</sub>
 
@@ -25,7 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Apple](../companies/apple.md)** | [Solve stock and banana problems](https://trueinterview.io/questions/solve-stock-and-banana-problems) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-stock-and-banana-problems) | Dec 17, 2025 |
 | **[Meta](../companies/meta.md)** | [Answer four string/array/battery coding questions](https://trueinterview.io/questions/answer-four-string-array-battery-coding-questions) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/answer-four-string-array-battery-coding-questions) | Dec 16, 2025 |
 | **[Netflix](../companies/netflix.md)** | [Design a crash-resilient file system](https://trueinterview.io/questions/design-a-crash-resilient-file-system) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-crash-resilient-file-system) | Dec 16, 2025 |
 | **[Meta](../companies/meta.md)** | [Answer impact, conflict, and difficult coworker questions](https://trueinterview.io/questions/answer-impact-conflict-and-difficult-coworker-questions) | Onsite | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-impact-conflict-and-difficult-coworker-questions) | Dec 15, 2025 |
@@ -322,7 +321,6 @@
 | **[Amazon](../companies/amazon.md)** | [Design SQL/Pandas aggregations on retail schema](https://trueinterview.io/questions/design-sql-pandas-aggregations-on-retail-schema) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/design-sql-pandas-aggregations-on-retail-schema) | — |
 | **[Amazon](../companies/amazon.md)** | [Design student–course data models and SQL](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | Onsite | Senior · Staff+ | SQL | [![Practice][p]](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | — |
 | **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
-| **[Amazon](../companies/amazon.md)** | [Design Unix File Search](https://trueinterview.io/questions/design-unix-file-search) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-file-search) | — |
 | **[Meta](../companies/meta.md)** | [Detect and address Simpson’s paradox](https://trueinterview.io/questions/detect-and-address-simpsons-paradox) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/detect-and-address-simpsons-paradox) | — |
 | **[Meta](../companies/meta.md)** | [Detect leakage and evaluate a prediction model](https://trueinterview.io/questions/detect-leakage-and-evaluate-a-prediction-model) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/detect-leakage-and-evaluate-a-prediction-model) | — |
 | **[Apple](../companies/apple.md)** | [Detect sessions and gaps using SQL LEAD](https://trueinterview.io/questions/detect-sessions-and-gaps-using-sql-lead) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/detect-sessions-and-gaps-using-sql-lead) | — |
@@ -405,7 +403,6 @@
 | **[Rippling](../companies/rippling.md)** / [ByteDance](../companies/bytedance.md) / [Meta](../companies/meta.md) | [Longest Consecutive Sequence (variation)](https://trueinterview.io/questions/5828fb45-7c92-4a82-89c8-6cb11f8b12e2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5828fb45-7c92-4a82-89c8-6cb11f8b12e2) | — |
 | **[Meta](../companies/meta.md)** | [Longest Increasing Sequence in BST](https://trueinterview.io/questions/366ab104-e87e-4aa3-ac9b-5763f0517723) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/366ab104-e87e-4aa3-ac9b-5763f0517723) | — |
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) | [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | — |
-| **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
 | **[Amazon](../companies/amazon.md)** | [Machine Learning Coding: Reproduce a New Paper Experiment](https://trueinterview.io/questions/36bbfdc3-e117-4a78-bcb0-1e89dae78b5d) | Onsite | Senior · Staff+ | AI coding | [![Practice][p]](https://trueinterview.io/questions/36bbfdc3-e117-4a78-bcb0-1e89dae78b5d) | — |
 | **[Meta](../companies/meta.md)** | [Manage promotions and project portfolio tradeoffs](https://trueinterview.io/questions/manage-promotions-and-project-portfolio-tradeoffs) | Onsite | Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/manage-promotions-and-project-portfolio-tradeoffs) | — |
 | **[Google](../companies/google.md)** | [Max Subarray Filled With Zeros](https://trueinterview.io/questions/b86bae80-9169-4a97-ad99-54516018ff73) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b86bae80-9169-4a97-ad99-54516018ff73) | — |
@@ -425,5 +422,8 @@
 | **[Meta](../companies/meta.md)** | [Model comment count distribution and validate assumptions](https://trueinterview.io/questions/model-comment-count-distribution-and-validate-assumptions) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/model-comment-count-distribution-and-validate-assumptions) | — |
 | **[Meta](../companies/meta.md)** | [Model session times and comments with exponential/Poisson](https://trueinterview.io/questions/model-session-times-and-comments-with-exponential-poisson) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/model-session-times-and-comments-with-exponential-poisson) | — |
 | **[Meta](../companies/meta.md)** | [Model user-level ad impression allocation](https://trueinterview.io/questions/model-user-level-ad-impression-allocation) | Onsite | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/model-user-level-ad-impression-allocation) | — |
+| **[Google](../companies/google.md)** | [Narrow a confidence interval for a mean](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | — |
+| **[Netflix](../companies/netflix.md)** | [Navigate conflicting signals and ambiguous expectations](https://trueinterview.io/questions/navigate-conflicting-signals-and-ambiguous-expectations) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/navigate-conflicting-signals-and-ambiguous-expectations) | — |
+| **[Meta](../companies/meta.md)** | [Navigate reschedules, offers, and team-match uncertainty](https://trueinterview.io/questions/navigate-reschedules-offers-and-team-match-uncertainty) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/navigate-reschedules-offers-and-team-match-uncertainty) | — |
 
 <sub>Page [1](maang.md) · [2](maang-2.md) · [3](maang-3.md) · **4** · [5](maang-5.md)</sub>

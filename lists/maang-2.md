@@ -6,15 +6,15 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,693 questions** · 169 from an OA · 395 reported in the last 90 days · 610 free to solve
+**1,689 questions** · 168 from an OA · 395 reported in the last 90 days · 609 free to solve
 
-**By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
+**By level:** 🎓 Intern & New grad (397) · 🌱 Mid (992) · 🎯 Senior (1,152) · 🚀 Staff+ (355)
 
-**By role:** 💻 Software Engineering (1,123) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
+**By role:** 💻 Software Engineering (1,119) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
 
-**Rounds:** 📝 OA (169) · 📞 Phone (870) · 🏢 Onsite (776) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (168) · 📞 Phone (870) · 🏢 Onsite (773) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Amazon (466)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (240)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
+**Companies:** [Meta (488)](../companies/meta.md) · [Amazon (463)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (239)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
 
 <sub>Page [1](maang.md) · **2** · [3](maang-3.md) · [4](maang-4.md) · [5](maang-5.md)</sub>
 
@@ -334,7 +334,6 @@
 | **[Anthropic](../companies/anthropic.md)** / [Google](../companies/google.md) | [String Tokenization](https://trueinterview.io/questions/coding-q6-tokenizer) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/coding-q6-tokenizer) | May 28, 2026 |
 | **[Apple](../companies/apple.md)** | [Happy Number II](https://trueinterview.io/questions/happy-number-2) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/happy-number-2) | May 27, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Message Latency from Send/Receive CSV Logs](https://trueinterview.io/questions/200a942c-d5f7-43e5-badc-68f1a185a4bc) | Onsite | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/200a942c-d5f7-43e5-badc-68f1a185a4bc) | May 27, 2026 |
-| **[Meta](../companies/meta.md)** / [Airbnb](../companies/airbnb.md) | [Banking System (Progressive OOD)](https://trueinterview.io/questions/codesignal-oa-banking-system) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/codesignal-oa-banking-system) | May 26, 2026 |
 | **[Meta](../companies/meta.md)** | [Advertising Time-of-Day Analysis](https://trueinterview.io/questions/advertising-time-of-day-analysis) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/advertising-time-of-day-analysis) | May 23, 2026 |
 | **[Meta](../companies/meta.md)** | [Average Reactions per Post](https://trueinterview.io/questions/average-reactions-per-post) | Phone | New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/average-reactions-per-post) | May 23, 2026 |
 | **[Meta](../companies/meta.md)** | [Recent Unrelated Posts](https://trueinterview.io/questions/recent-unrelated-posts) | Phone | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/recent-unrelated-posts) | May 23, 2026 |
@@ -425,5 +424,6 @@
 | **[Netflix](../companies/netflix.md)** | [Tagged Command Undo](https://trueinterview.io/questions/tagged-command-undo) | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/tagged-command-undo) | Apr 30, 2026 |
 | **[Meta](../companies/meta.md)** | [Remove Invalid Parentheses Minimally](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup-remove-invalid-parentheses-minimally) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-merge-and-parentheses-cleanup-remove-invalid-parentheses-minimally) | Apr 29, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Science Application (Ambiguous Problem)](https://trueinterview.io/questions/science-application-ambiguous-problem) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/science-application-ambiguous-problem) | Apr 29, 2026 |
+| **[Amazon](../companies/amazon.md)** / [Pinterest](../companies/pinterest.md) | [Search / Ranking / Experimentation](https://trueinterview.io/questions/as-ml-system-design-search-ranking) | Onsite | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/as-ml-system-design-search-ranking) | Apr 29, 2026 |
 
 <sub>Page [1](maang.md) · **2** · [3](maang-3.md) · [4](maang-4.md) · [5](maang-5.md)</sub>

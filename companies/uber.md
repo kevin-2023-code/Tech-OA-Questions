@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Uber on TrueInterview](https://trueinterview.io/problems/company/uber) · [How Uber interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/uber/README.md)
 
-🛒 E-commerce & marketplaces · **263 questions** · 32 from an OA · last reported Oct 2026
+🛒 E-commerce & marketplaces · **262 questions** · 32 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (74) · 🌱 Mid (142) · 🎯 Senior (190) · 🚀 Staff+ (46)
+**By level:** 🎓 Intern & New grad (74) · 🌱 Mid (142) · 🎯 Senior (189) · 🚀 Staff+ (46)
 
 **By role:** 💻 Software Engineering (199) · 🤖 ML, AI & Research (14) · 📊 Data Science & Analytics (44) · 📈 Quantitative Finance (1) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (32) · 📞 Phone (148) · 🏢 Onsite (106)
+**Rounds:** 📝 OA (32) · 📞 Phone (148) · 🏢 Onsite (105)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/uber-interview-process) · [SWE](https://trueinterview.io/study/uber-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/uber-machine-learning-engineer-interview-process)
 
@@ -265,7 +265,6 @@
 | [Design airport dispatch with ETA uncertainty](https://trueinterview.io/questions/design-airport-dispatch-with-eta-uncertainty) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-airport-dispatch-with-eta-uncertainty) | — |
 | [Design an A/B test for promo-targeting models](https://trueinterview.io/questions/design-an-a-b-test-for-promo-targeting-models) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-a-b-test-for-promo-targeting-models) | — |
 | [Design an A/B test; choose Z vs T](https://trueinterview.io/questions/design-an-a-b-test-choose-z-vs-t) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-a-b-test-choose-z-vs-t) | — |
-| [Design an In-Memory File System with Recursive Wildcards](https://trueinterview.io/questions/6cbb765a-0358-5c10-aced-bc590e6d67cd) | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/6cbb765a-0358-5c10-aced-bc590e6d67cd) | — |
 | [Design and power an incentive experiment](https://trueinterview.io/questions/design-and-power-an-incentive-experiment) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-and-power-an-incentive-experiment) | — |
 | [Design Yelp](https://trueinterview.io/questions/design-yelp-2)<br><sub>also [Yelp](../companies/yelp.md)</sub> | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-yelp-2) | — |
 | [Diagnose and reduce first-action drop-offs](https://trueinterview.io/questions/diagnose-and-reduce-first-action-drop-offs) | Onsite | Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-reduce-first-action-drop-offs) | — |

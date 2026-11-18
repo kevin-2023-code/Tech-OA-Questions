@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice IBM on TrueInterview](https://trueinterview.io/problems/company/ibm) · [How IBM interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/ibm/README.md)
 
-🧾 IT services & consulting · **45 questions** · 24 from an OA · last reported Oct 2026
+🧾 IT services & consulting · **44 questions** · 24 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (28) · 🌱 Mid (26) · 🎯 Senior (11) · 🚀 Staff+ (2)
+**By level:** 🎓 Intern & New grad (27) · 🌱 Mid (26) · 🎯 Senior (10) · 🚀 Staff+ (2)
 
-**By role:** 💻 Software Engineering (36) · 🤖 ML, AI & Research (2) · 📊 Data Science & Analytics (6) · 📈 Quantitative Finance (1)
+**By role:** 💻 Software Engineering (35) · 🤖 ML, AI & Research (2) · 📊 Data Science & Analytics (6) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (24) · 📞 Phone (18) · 🏢 Onsite (3)
+**Rounds:** 📝 OA (24) · 📞 Phone (18) · 🏢 Onsite (2)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/ibm-interview-process)
 
@@ -62,7 +62,6 @@
 | [Max Distinct Counts After Splitting Array](https://trueinterview.io/questions/distinct-count-split) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/distinct-count-split) | Jul 9, 2025 |
 | [Minimum Removal Rounds by Smallest Response Time](https://trueinterview.io/questions/minimum-removal-rounds-by-smallest-response-time) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-removal-rounds-by-smallest-response-time) | Jul 9, 2025 |
 | [Minimum Hits Needed](https://trueinterview.io/questions/96a1a76b-aad1-425d-88a1-e28fff36624b) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/96a1a76b-aad1-425d-88a1-e28fff36624b) | May 2025 |
-| [Design Authentication Manager](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a)<br><sub>also [Oracle](../companies/oracle.md)</sub> | Onsite | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a) | — |
 | [Get Maximum Efficiency](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58)<br><sub>also [Expedia](../companies/expedia.md)</sub> | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | — |
 | [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de)<br><sub>also [Meta](../companies/meta.md) / [Oracle](../companies/oracle.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | — |
 | [Stock Maximum Profit](https://trueinterview.io/questions/9b10ab48-d72a-4df0-be8f-10a997cfdd02) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/9b10ab48-d72a-4df0-be8f-10a997cfdd02) | — |

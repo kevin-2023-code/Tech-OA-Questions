@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,928 questions** · 586 from an OA · 903 reported in the last 90 days · 1,122 free to solve
+**3,913 questions** · 583 from an OA · 898 reported in the last 90 days · 1,122 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,105) · 🌱 Mid (2,514) · 🎯 Senior (2,480) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (583) · 📞 Phone (2,011) · 🏢 Onsite (1,621) · 🏠 Take-home (8)
 
-**Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
+**Companies:** [Amazon (334)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (260)](../companies/meta.md) · [ByteDance (238)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (191)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [LinkedIn (117)](../companies/linkedin.md) · [OpenAI (117)](../companies/openai.md) · [Oracle (103)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
 <sub>Page [1](swe.md) · **2** · [3](swe-3.md) · [4](swe-4.md) · [5](swe-5.md) · [6](swe-6.md) · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>
 
@@ -23,8 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Atlassian](../companies/atlassian.md)** | [Design a Music Player with Queue, Loop, and Shuffle](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-music-player-with-queue-loop-and-shuffle) | Sep 3, 2026 |
-| **[Atlassian](../companies/atlassian.md)** | [Design a Social-Media Comments and Notifications System](https://trueinterview.io/questions/design-a-social-media-comments-and-notifications-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-social-media-comments-and-notifications-system) | Sep 3, 2026 |
 | **[Google](../companies/google.md)** | [Evolve Duplicate Detection for Sliding Windows and Read-Heavy Queries](https://trueinterview.io/questions/evolve-duplicate-detection-for-sliding-windows-and-read-heavy-queries) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/evolve-duplicate-detection-for-sliding-windows-and-read-heavy-queries) | Sep 3, 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [Explain a Project Architecture Through a Technical Deep Dive](https://trueinterview.io/questions/explain-a-project-architecture-through-a-technical-deep-dive) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-a-project-architecture-through-a-technical-deep-dive) | Sep 3, 2026 |
 | **[Meta](../companies/meta.md)** | [Explain Project Impact, Mentorship, and Fair Credit Allocation](https://trueinterview.io/questions/explain-project-impact-mentorship-and-fair-credit-allocation) | Phone | Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-project-impact-mentorship-and-fair-credit-allocation) | Sep 3, 2026 |
@@ -423,5 +421,7 @@
 | **[C3.ai](../companies/c3-ai.md)** / [Meta](../companies/meta.md) | [Versioned Key-Value Store With Point-in-Time Reads](https://trueinterview.io/questions/time-based-key-value-store-3) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/time-based-key-value-store-3) | Sep 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Violation Log Analyzer](https://trueinterview.io/questions/violation-log-analyzer) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/violation-log-analyzer) | Sep 2026 |
 | **[Capital One](../companies/capital-one.md)** | [Wait Time for the Next Bus](https://trueinterview.io/questions/42f3cdf3-4a06-58ee-a380-18e59733cf65) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/42f3cdf3-4a06-58ee-a380-18e59733cf65) | Sep 2026 |
+| **[Anthropic](../companies/anthropic.md)** | [Web Crawler](https://trueinterview.io/questions/web-crawler) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/web-crawler) | Sep 2026 |
+| **[Netflix](../companies/netflix.md)** | [Weighted Cache](https://trueinterview.io/questions/weighted-cache) | Phone · Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/weighted-cache) | Sep 2026 |
 
 <sub>Page [1](swe.md) · **2** · [3](swe-3.md) · [4](swe-4.md) · [5](swe-5.md) · [6](swe-6.md) · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>

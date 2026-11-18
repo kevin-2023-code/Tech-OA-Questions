@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,115 reported in the last 90 days · 2,167 free to solve
+**5,873 questions** · 799 from an OA · 1,110 reported in the last 90 days · 2,165 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,490) · 🌱 Mid (3,438) · 🎯 Senior (4,045) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (799) · 📞 Phone (3,108) · 🏢 Onsite (2,330) · 🏠 Take-home (12)
 
 <sub>Page **1** · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -400,7 +400,6 @@
 | **[Instacart](../companies/instacart.md)** | [Design a Grocery-Ordering Backend with Reliable Inventory Reservations](https://trueinterview.io/questions/design-a-grocery-ordering-backend-with-reliable-inventory-reservations) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-grocery-ordering-backend-with-reliable-inventory-reservations) | Sep 11, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Design a String-Rule Validator for Transaction Records](https://trueinterview.io/questions/design-a-string-rule-validator-for-transaction-records) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-string-rule-validator-for-transaction-records) | Sep 11, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Evaluate a Two Percent CTR Lift in Music Recommendations](https://trueinterview.io/questions/evaluate-a-two-percent-ctr-lift-in-music-recommendations) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-a-two-percent-ctr-lift-in-music-recommendations) | Sep 11, 2026 |
-| **[Rippling](../companies/rippling.md)** | [Extend an Expense Rules Engine with Nested Boolean Conditions](https://trueinterview.io/questions/extend-an-expense-rules-engine-with-nested-boolean-conditions) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/extend-an-expense-rules-engine-with-nested-boolean-conditions) | Sep 11, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Financial Account Ledger](https://trueinterview.io/questions/financial-account-ledger-oa) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/financial-account-ledger-oa) | Sep 11, 2026 |
 | **[Apple](../companies/apple.md)** | [Forecast Storage Demand Across 100 Data Centers](https://trueinterview.io/questions/forecast-storage-demand-across-100-data-centers) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/forecast-storage-demand-across-100-data-centers) | Sep 11, 2026 |
 | **[Stripe](../companies/stripe.md)** | [Hierarchical CSV Task / Subtask Formatter](https://trueinterview.io/questions/hierarchical-csv-task-formatter) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/hierarchical-csv-task-formatter) | Sep 11, 2026 |
@@ -419,5 +418,6 @@
 | **[Airwallex](../companies/airwallex.md)** | [Design a Real-Time Robot Chase Game on a Weighted Terrain Grid](https://trueinterview.io/questions/design-a-real-time-robot-chase-game-on-a-weighted-terrain-grid) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-real-time-robot-chase-game-on-a-weighted-terrain-grid) | Sep 10, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a Voice and Chat AI Receptionist Platform](https://trueinterview.io/questions/design-a-voice-and-chat-ai-receptionist-platform) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-voice-and-chat-ai-receptionist-platform) | Sep 10, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design Cluster Message Aggregation](https://trueinterview.io/questions/96f72212-b262-4014-b7fc-6ae2411f9008) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/96f72212-b262-4014-b7fc-6ae2411f9008) | Sep 10, 2026 |
+| **[Rippling](../companies/rippling.md)** | [Design News Pull Scheduling, Article Storage, and Topic Reads](https://trueinterview.io/questions/design-news-pull-scheduling-article-storage-and-topic-reads) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-news-pull-scheduling-article-storage-and-topic-reads) | Sep 10, 2026 |
 
 <sub>Page **1** · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

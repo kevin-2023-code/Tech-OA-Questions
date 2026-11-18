@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Gaming & interactive*.
 
-**105 questions** · 12 from an OA · 22 reported in the last 90 days · 37 free to solve
+**104 questions** · 12 from an OA · 22 reported in the last 90 days · 37 free to solve
 
-**By level:** 🎓 Intern & New grad (31) · 🌱 Mid (64) · 🎯 Senior (79) · 🚀 Staff+ (23)
+**By level:** 🎓 Intern & New grad (31) · 🌱 Mid (63) · 🎯 Senior (78) · 🚀 Staff+ (23)
 
-**By role:** 💻 Software Engineering (73) · 🤖 ML, AI & Research (7) · 📊 Data Science & Analytics (25)
+**By role:** 💻 Software Engineering (72) · 🤖 ML, AI & Research (7) · 📊 Data Science & Analytics (25)
 
-**Rounds:** 📝 OA (12) · 📞 Phone (63) · 🏢 Onsite (43)
+**Rounds:** 📝 OA (12) · 📞 Phone (63) · 🏢 Onsite (42)
 
-**Companies:** [Roblox (105)](../companies/roblox.md)
+**Companies:** [Roblox (104)](../companies/roblox.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -124,7 +124,6 @@
 | **[Roblox](../companies/roblox.md)** | [Implement streaming CTR with deduplication](https://trueinterview.io/questions/implement-streaming-ctr-with-deduplication) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-streaming-ctr-with-deduplication) | — |
 | **[Roblox](../companies/roblox.md)** | [Match requests and accepts into friendships in SQL](https://trueinterview.io/questions/match-requests-and-accepts-into-friendships-in-sql) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/match-requests-and-accepts-into-friendships-in-sql) | — |
 | **[Roblox](../companies/roblox.md)** | [Optimize the Space of Code in Coding Screen](https://trueinterview.io/questions/92dadf5d-6db1-424c-b110-2cd7b367704d) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/92dadf5d-6db1-424c-b110-2cd7b367704d) | — |
-| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[Roblox](../companies/roblox.md)** / [Microsoft](../companies/microsoft.md) / [Tesla](../companies/tesla.md) | [Subarray with Most Target Element](https://trueinterview.io/questions/subarray-with-most-target-element-2) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/subarray-with-most-target-element-2) | — |
 | **[Roblox](../companies/roblox.md)** | [Write SQL for ads metrics and variability](https://trueinterview.io/questions/write-sql-for-ads-metrics-and-variability) | Phone | Senior · Staff+ | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-ads-metrics-and-variability) | — |
 | **[Roblox](../companies/roblox.md)** | [Write SQL to flag suspect payments and chargebacks](https://trueinterview.io/questions/write-sql-to-flag-suspect-payments-and-chargebacks) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-to-flag-suspect-payments-and-chargebacks) | — |

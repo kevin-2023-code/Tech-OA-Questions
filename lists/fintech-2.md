@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Fintech, payments & crypto*.
 
-**507 questions** · 87 from an OA · 79 reported in the last 90 days · 162 free to solve
+**504 questions** · 87 from an OA · 79 reported in the last 90 days · 162 free to solve
 
-**By level:** 🎓 Intern & New grad (170) · 🌱 Mid (337) · 🎯 Senior (345) · 🚀 Staff+ (90)
+**By level:** 🎓 Intern & New grad (170) · 🌱 Mid (334) · 🎯 Senior (344) · 🚀 Staff+ (90)
 
-**By role:** 💻 Software Engineering (404) · 🤖 ML, AI & Research (11) · 📊 Data Science & Analytics (81) · 📈 Quantitative Finance (4) · 📱 Product Management (2)
+**By role:** 💻 Software Engineering (401) · 🤖 ML, AI & Research (11) · 📊 Data Science & Analytics (81) · 📈 Quantitative Finance (4) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (87) · 📞 Phone (233) · 🏢 Onsite (221)
+**Rounds:** 📝 OA (87) · 📞 Phone (232) · 🏢 Onsite (219)
 
-**Companies:** [Stripe (119)](../companies/stripe.md) · [Coinbase (87)](../companies/coinbase.md) · [Square (56)](../companies/square.md) · [Robinhood (53)](../companies/robinhood.md) · [Upstart (49)](../companies/upstart.md) · [PayPal (37)](../companies/paypal.md) · [SoFi (37)](../companies/sofi.md) · [Ramp (36)](../companies/ramp.md) · [Affirm (18)](../companies/affirm.md) · [Airwallex (13)](../companies/airwallex.md) · [Circle (6)](../companies/circle.md) · [Block (5)](../companies/block.md) · [OKX (5)](../companies/okx.md) · [Brex (4)](../companies/brex.md)
+**Companies:** [Stripe (119)](../companies/stripe.md) · [Coinbase (85)](../companies/coinbase.md) · [Square (56)](../companies/square.md) · [Robinhood (53)](../companies/robinhood.md) · [Upstart (49)](../companies/upstart.md) · [SoFi (37)](../companies/sofi.md) · [PayPal (36)](../companies/paypal.md) · [Ramp (36)](../companies/ramp.md) · [Affirm (18)](../companies/affirm.md) · [Airwallex (13)](../companies/airwallex.md) · [Circle (6)](../companies/circle.md) · [Block (5)](../companies/block.md) · [OKX (5)](../companies/okx.md) · [Brex (4)](../companies/brex.md)
 
 <sub>Page [1](fintech.md) · **2**</sub>
 
@@ -25,9 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Coinbase](../companies/coinbase.md)** | [Compute adoption, latency, and cross-region transactions](https://trueinterview.io/questions/compute-adoption-latency-and-cross-region-transactions) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/compute-adoption-latency-and-cross-region-transactions) | — |
-| **[Stripe](../companies/stripe.md)** | [Compute power and interpret uplift metrics](https://trueinterview.io/questions/compute-power-and-interpret-uplift-metrics) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-power-and-interpret-uplift-metrics) | — |
-| **[Stripe](../companies/stripe.md)** | [Compute Total Cost from Two Tables (SQL Aggregation + Join) with Tiered Fees Follow-up](https://trueinterview.io/questions/bdcdde80-7010-4c5f-b26c-7fc83901d0f9) | OA | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/bdcdde80-7010-4c5f-b26c-7fc83901d0f9) | — |
 | **[Coinbase](../companies/coinbase.md)** | [Compute wallet-link probabilities, expectation, and conditionals](https://trueinterview.io/questions/compute-wallet-link-probabilities-and-conditionals) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-wallet-link-probabilities-and-conditionals) | — |
 | **[Upstart](../companies/upstart.md)** | [Correct length-biased sampling from family-size survey](https://trueinterview.io/questions/correct-length-biased-sampling-from-family-size-survey) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/correct-length-biased-sampling-from-family-size-survey) | — |
 | **[Affirm](../companies/affirm.md)** | [Count Reversing Triples](https://trueinterview.io/questions/count-reversing-triples) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-reversing-triples) | — |

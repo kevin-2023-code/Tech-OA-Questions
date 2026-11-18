@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,115 reported in the last 90 days · 2,167 free to solve
+**5,873 questions** · 799 from an OA · 1,110 reported in the last 90 days · 2,165 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,490) · 🌱 Mid (3,438) · 🎯 Senior (4,045) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (799) · 📞 Phone (3,108) · 🏢 Onsite (2,330) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · **6** · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,11 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Lyft](../companies/lyft.md)** / [Uber](../companies/uber.md) | [Design Facebook Messenger](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Jun 2026 |
-| **[Reddit](../companies/reddit.md)** | [Design Reddit Comments Ranking System](https://trueinterview.io/questions/design-reddit-s-post-comment-ranking-system) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-reddit-s-post-comment-ranking-system) | Jun 2026 |
-| **[Robinhood](../companies/robinhood.md)** / [Coinbase](../companies/coinbase.md) / [Databricks](../companies/databricks.md) / +1 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Jun 2026 |
-| **[Snowflake](../companies/snowflake.md)** | [Distance from Each 1 to the Nearest 2 in an Array](https://trueinterview.io/questions/473fe3ed-b49d-5d11-b6c6-ce03b84b55b4) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/473fe3ed-b49d-5d11-b6c6-ce03b84b55b4) | Jun 2026 |
-| **[Anthropic](../companies/anthropic.md)** | [Efficiency of Distributed Systems](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/5c90398f-3a09-4523-ad38-146d6669d337) | Jun 2026 |
 | **[C3.ai](../companies/c3-ai.md)** | [Enumerate All Balanced Bracket Strings for N Pairs](https://trueinterview.io/questions/generate-parentheses) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/generate-parentheses) | Jun 2026 |
 | **[Apple](../companies/apple.md)** | [Evaluate a model and choose metrics](https://trueinterview.io/questions/evaluate-a-model-and-choose-metrics) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-a-model-and-choose-metrics) | Jun 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** / [Two Sigma](../companies/two-sigma.md) | [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/exchange-order-matching-engine) | Jun 2026 |
@@ -139,7 +134,6 @@
 | **[Instacart](../companies/instacart.md)** | [Max Adjacent Stock Price Change](https://trueinterview.io/questions/karat-stock-price-change) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/karat-stock-price-change) | May 27, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Message Latency from Send/Receive CSV Logs](https://trueinterview.io/questions/200a942c-d5f7-43e5-badc-68f1a185a4bc) | Onsite | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/200a942c-d5f7-43e5-badc-68f1a185a4bc) | May 27, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Task Scheduler with Timed Execution and Dynamic Insertion](https://trueinterview.io/questions/task-scheduler-timed-execution) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/task-scheduler-timed-execution) | May 27, 2026 |
-| **[Meta](../companies/meta.md)** / [Airbnb](../companies/airbnb.md) | [Banking System (Progressive OOD)](https://trueinterview.io/questions/codesignal-oa-banking-system) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/codesignal-oa-banking-system) | May 26, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Mining Novel Data from Large Unlabeled Corpus](https://trueinterview.io/questions/mining-novel-data-unlabeled-corpus) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/mining-novel-data-unlabeled-corpus) | May 26, 2026 |
 | **[Perplexity](../companies/perplexity.md)** | [ToDo List with Task Dependencies](https://trueinterview.io/questions/todo-list-with-task-dependencies-ood) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/todo-list-with-task-dependencies-ood) | May 26, 2026 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Cloud Resource Utilization Dashboard](https://trueinterview.io/questions/sql-cloud-resource-utilization-dashboard) | OA | Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/sql-cloud-resource-utilization-dashboard) | May 25, 2026 |
@@ -419,5 +413,11 @@
 | **[Amazon](../companies/amazon.md)** | [Student Printing Queue: Enumerate All Valid Printing Orders (Queue to Ring Variant)](https://trueinterview.io/questions/2f74ec78-ce03-4ec9-985d-86839640c844) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/2f74ec78-ce03-4ec9-985d-86839640c844) | May 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Task Management System](https://trueinterview.io/questions/task-management-system-online-assessment) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/task-management-system-online-assessment) | May 2026 |
 | **[Circle](../companies/circle.md)** | [Task Management System: Add and List Current Tasks](https://trueinterview.io/questions/f59f7803-1b1c-45b7-94bf-8af1205b5abc) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f59f7803-1b1c-45b7-94bf-8af1205b5abc) | May 2026 |
+| **[Circle](../companies/circle.md)** | [Task Query by Time and Name Filter with Sorting](https://trueinterview.io/questions/091d8486-b41a-4846-8a15-c30d696e1a7f) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/091d8486-b41a-4846-8a15-c30d696e1a7f) | May 2026 |
+| **[OpenAI](../companies/openai.md)** | [Toy Language Interpreter](https://trueinterview.io/questions/d7b129eb-5166-4c1e-97bc-02132d748c47) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/d7b129eb-5166-4c1e-97bc-02132d748c47) | May 2026 |
+| **[Rippling](../companies/rippling.md)** | [Track article votes and last three flips](https://trueinterview.io/questions/track-article-votes-and-last-three-flips) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/track-article-votes-and-last-three-flips) | May 2026 |
+| **[WeRide](../companies/weride.md)** | [Trie Implementation / Trie-based String Operations](https://trueinterview.io/questions/7711b2f0-4e66-4c48-91d7-33a7794c209c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7711b2f0-4e66-4c48-91d7-33a7794c209c) | May 2026 |
+| **[Uber](../companies/uber.md)** | [Uber Eats Search](https://trueinterview.io/questions/uber-eats-search) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/uber-eats-search) | May 2026 |
+| **[eBay](../companies/ebay.md)** | [Unique Word Abbreviation](https://trueinterview.io/questions/55c4e4d1-3f81-4af8-ae7a-53d0a4c2699e) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/55c4e4d1-3f81-4af8-ae7a-53d0a4c2699e) | May 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · **6** · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

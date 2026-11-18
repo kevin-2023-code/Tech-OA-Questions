@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *IT services & consulting*.
 
-**45 questions** · 24 from an OA · 13 reported in the last 90 days · 21 free to solve
+**44 questions** · 24 from an OA · 13 reported in the last 90 days · 21 free to solve
 
-**By level:** 🎓 Intern & New grad (28) · 🌱 Mid (26) · 🎯 Senior (11) · 🚀 Staff+ (2)
+**By level:** 🎓 Intern & New grad (27) · 🌱 Mid (26) · 🎯 Senior (10) · 🚀 Staff+ (2)
 
-**By role:** 💻 Software Engineering (36) · 🤖 ML, AI & Research (2) · 📊 Data Science & Analytics (6) · 📈 Quantitative Finance (1)
+**By role:** 💻 Software Engineering (35) · 🤖 ML, AI & Research (2) · 📊 Data Science & Analytics (6) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (24) · 📞 Phone (18) · 🏢 Onsite (3)
+**Rounds:** 📝 OA (24) · 📞 Phone (18) · 🏢 Onsite (2)
 
-**Companies:** [IBM (45)](../companies/ibm.md)
+**Companies:** [IBM (44)](../companies/ibm.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -64,7 +64,6 @@
 | **[IBM](../companies/ibm.md)** | [Max Distinct Counts After Splitting Array](https://trueinterview.io/questions/distinct-count-split) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/distinct-count-split) | Jul 9, 2025 |
 | **[IBM](../companies/ibm.md)** | [Minimum Removal Rounds by Smallest Response Time](https://trueinterview.io/questions/minimum-removal-rounds-by-smallest-response-time) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/minimum-removal-rounds-by-smallest-response-time) | Jul 9, 2025 |
 | **[IBM](../companies/ibm.md)** | [Minimum Hits Needed](https://trueinterview.io/questions/96a1a76b-aad1-425d-88a1-e28fff36624b) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/96a1a76b-aad1-425d-88a1-e28fff36624b) | May 2025 |
-| **[IBM](../companies/ibm.md)** / [Oracle](../companies/oracle.md) | [Design Authentication Manager](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a) | Onsite | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a) | — |
 | **[Expedia](../companies/expedia.md)** / [IBM](../companies/ibm.md) | [Get Maximum Efficiency](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b2ff328c-50ce-40b3-b37a-3301dc7c3f58) | — |
 | **[Meta](../companies/meta.md)** / [IBM](../companies/ibm.md) / [Oracle](../companies/oracle.md) | [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | — |
 | **[IBM](../companies/ibm.md)** | [Stock Maximum Profit](https://trueinterview.io/questions/9b10ab48-d72a-4df0-be8f-10a997cfdd02) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/9b10ab48-d72a-4df0-be8f-10a997cfdd02) | — |

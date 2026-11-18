@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Goldman Sachs on TrueInterview](https://trueinterview.io/problems/company/goldman-sachs) · [How Goldman Sachs interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/goldman-sachs/README.md)
 
-🏦 Banks, insurers & asset managers · **68 questions** · 28 from an OA · last reported Oct 2026
+🏦 Banks, insurers & asset managers · **67 questions** · 28 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (34) · 🌱 Mid (40) · 🎯 Senior (31) · 🚀 Staff+ (2)
+**By level:** 🎓 Intern & New grad (33) · 🌱 Mid (39) · 🎯 Senior (30) · 🚀 Staff+ (2)
 
-**By role:** 💻 Software Engineering (55) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (3) · 📈 Quantitative Finance (6)
+**By role:** 💻 Software Engineering (54) · 🤖 ML, AI & Research (3) · 📊 Data Science & Analytics (3) · 📈 Quantitative Finance (6)
 
-**Rounds:** 📝 OA (28) · 📞 Phone (30) · 🏢 Onsite (15)
+**Rounds:** 📝 OA (28) · 📞 Phone (30) · 🏢 Onsite (14)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/goldmansachs-interview-process)
 
@@ -88,4 +88,3 @@
 | [Plus-Multiply Even / Odd Parity](https://trueinterview.io/questions/plus-multiply-even-odd-parity) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/plus-multiply-even-odd-parity) | Oct 26, 2024 |
 | [Valid Triangle + Point Inclusion](https://trueinterview.io/questions/valid-triangle-point-inclusion) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/valid-triangle-point-inclusion) | Oct 26, 2024 |
 | [Cutting Metal Surplus](https://trueinterview.io/questions/4289b575-f765-46f3-b2e0-20b17e388ab0) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/4289b575-f765-46f3-b2e0-20b17e388ab0) | — |
-| [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51)<br><sub>also [Verkada](../companies/verkada.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2</sub> | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |

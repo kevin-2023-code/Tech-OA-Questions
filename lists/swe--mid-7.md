@@ -8,11 +8,11 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**2,526 questions** · 336 from an OA · 579 reported in the last 90 days · 754 free to solve
+**2,514 questions** · 333 from an OA · 575 reported in the last 90 days · 753 free to solve
 
-**Rounds:** 📝 OA (336) · 📞 Phone (1,465) · 🏢 Onsite (966) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (333) · 📞 Phone (1,461) · 🏢 Onsite (961) · 🏠 Take-home (5)
 
-**Companies:** [Amazon (235)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (184)](../companies/meta.md) · [ByteDance (173)](../companies/bytedance.md) · [Microsoft (131)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [LinkedIn (71)](../companies/linkedin.md) · [Bloomberg (70)](../companies/bloomberg.md) · [OpenAI (66)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (59)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
+**Companies:** [Amazon (232)](../companies/amazon.md) · [Google (226)](../companies/google.md) · [Meta (183)](../companies/meta.md) · [ByteDance (172)](../companies/bytedance.md) · [Microsoft (130)](../companies/microsoft.md) · [Uber (122)](../companies/uber.md) · [Snowflake (105)](../companies/snowflake.md) · [Apple (93)](../companies/apple.md) · [Bloomberg (70)](../companies/bloomberg.md) · [LinkedIn (70)](../companies/linkedin.md) · [OpenAI (65)](../companies/openai.md) · [Stripe (65)](../companies/stripe.md) · [Oracle (58)](../companies/oracle.md) · [DoorDash (56)](../companies/doordash.md) · [Anthropic (55)](../companies/anthropic.md)
 
 <sub>Page [1](swe--mid.md) · [2](swe--mid-2.md) · [3](swe--mid-3.md) · [4](swe--mid-4.md) · [5](swe--mid-5.md) · [6](swe--mid-6.md) · **7**</sub>
 
@@ -23,17 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Confluent](../companies/confluent.md)** | [Monsters Battle](https://trueinterview.io/questions/monsters-battle) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/monsters-battle) | — |
-| **[Salesforce](../companies/salesforce.md)** | [Most Visited Marker in Sprint Training](https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f) | — |
-| **[Square](../companies/square.md)** | [MotoGP Season Points and Championship Clinch Check](https://trueinterview.io/questions/motogp-season-points-ranking) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/motogp-season-points-ranking) | — |
-| **[Karat](../companies/karat.md)** | [Multi-Part Cipher Encryption and Decryption Challenge](https://trueinterview.io/questions/matrix-transposition-cipher) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/matrix-transposition-cipher) | — |
-| **[Lyft](../companies/lyft.md)** | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/multistream-reader) | — |
-| **[Square](../companies/square.md)** | [Mutual Like Counts and Best-Friend Recommendation](https://trueinterview.io/questions/likes-count-friend-recommendation) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/likes-count-friend-recommendation) | — |
-| **[Yelp](../companies/yelp.md)** / [xAI](../companies/xai.md) | [N-gram Split](https://trueinterview.io/questions/n-gram-split-2) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/n-gram-split-2) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Nearest Gate Distances in a Grid of Rooms](https://trueinterview.io/questions/walls-and-gates) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/walls-and-gates) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Nearest K Points to the Origin](https://trueinterview.io/questions/k-closest-points-to-origin) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/k-closest-points-to-origin) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Nodes Visible When Viewing a Binary Tree From One Side](https://trueinterview.io/questions/binary-tree-right-side-view-2) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/binary-tree-right-side-view-2) | — |
-| — | [Number of 1 Bits](https://trueinterview.io/questions/number-of-1-bits) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/number-of-1-bits) | — |
 | **[Capital One](../companies/capital-one.md)** | [Optimize invites under capacity constraints](https://trueinterview.io/questions/optimize-invites-under-capacity-constraints) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/optimize-invites-under-capacity-constraints) | — |
 | **[Roblox](../companies/roblox.md)** | [Optimize the Space of Code in Coding Screen](https://trueinterview.io/questions/92dadf5d-6db1-424c-b110-2cd7b367704d) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/92dadf5d-6db1-424c-b110-2cd7b367704d) | — |
 | — | [Pacific Atlantic Water Flow](https://trueinterview.io/questions/pacific-atlantic-water-flow) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/pacific-atlantic-water-flow) | — |
@@ -89,7 +78,6 @@
 | **[Square](../companies/square.md)** | [Single-Player Battleship Game Implementation](https://trueinterview.io/questions/battleship-game-implementation) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/battleship-game-implementation) | — |
 | **[Square](../companies/square.md)** | [Single-Runway Flight Scheduler With Rescheduling](https://trueinterview.io/questions/airline-departure-scheduling) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/airline-departure-scheduling) | — |
 | **[Karat](../companies/karat.md)** | [Sizing a Year of Search Engine Query Log Storage](https://trueinterview.io/questions/search-query-log-storage-estimate) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/search-query-log-storage-estimate) | — |
-| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[Intuit](../companies/intuit.md)** | [Smart Gardener (Intuit India)](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | — |
 | **[Karat](../companies/karat.md)** | [Snake Board Lanes, Exits, and Nests](https://trueinterview.io/questions/snake-board-exits) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/snake-board-exits) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Solve and optimize 3Sum and variants at scale](https://trueinterview.io/questions/solve-and-optimize-3sum-and-variants-at-scale) | Onsite | Mid · Senior · Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-and-optimize-3sum-and-variants-at-scale) | — |

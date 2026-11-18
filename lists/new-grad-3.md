@@ -6,13 +6,13 @@
 
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,495 questions** · 495 from an OA · 275 reported in the last 90 days · 489 free to solve
+**1,490 questions** · 492 from an OA · 273 reported in the last 90 days · 488 free to solve
 
-**By role:** 💻 Software Engineering (1,110) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
+**By role:** 💻 Software Engineering (1,105) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
 
-**Rounds:** 📝 OA (495) · 📞 Phone (725) · 🏢 Onsite (384) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (492) · 📞 Phone (725) · 🏢 Onsite (382) · 🏠 Take-home (5)
 
-**Companies:** [Amazon (148)](../companies/amazon.md) · [Meta (102)](../companies/meta.md) · [ByteDance (97)](../companies/bytedance.md) · [Google (91)](../companies/google.md) · [Uber (74)](../companies/uber.md) · [Capital One (69)](../companies/capital-one.md) · [Microsoft (61)](../companies/microsoft.md) · [Stripe (48)](../companies/stripe.md) · [Apple (40)](../companies/apple.md) · [Salesforce (35)](../companies/salesforce.md) · [Bloomberg (34)](../companies/bloomberg.md) · [Goldman Sachs (34)](../companies/goldman-sachs.md) · [Citadel (32)](../companies/citadel.md) · [Roblox (31)](../companies/roblox.md) · [Snowflake (30)](../companies/snowflake.md)
+**Companies:** [Amazon (147)](../companies/amazon.md) · [Meta (101)](../companies/meta.md) · [ByteDance (96)](../companies/bytedance.md) · [Google (91)](../companies/google.md) · [Uber (74)](../companies/uber.md) · [Capital One (69)](../companies/capital-one.md) · [Microsoft (61)](../companies/microsoft.md) · [Stripe (48)](../companies/stripe.md) · [Apple (40)](../companies/apple.md) · [Salesforce (35)](../companies/salesforce.md) · [Bloomberg (34)](../companies/bloomberg.md) · [Goldman Sachs (33)](../companies/goldman-sachs.md) · [Citadel (32)](../companies/citadel.md) · [Roblox (31)](../companies/roblox.md) · [Snowflake (30)](../companies/snowflake.md)
 
 <sub>Page [1](new-grad.md) · [2](new-grad-2.md) · **3** · [4](new-grad-4.md)</sub>
 
@@ -23,9 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Bloomberg](../companies/bloomberg.md)** | [Top-K Frequent Tickers (Stock Leaderboard)](https://trueinterview.io/questions/top-k-frequent-stock-tickers) | Phone · Onsite | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/top-k-frequent-stock-tickers) | Feb 2026 |
-| **[Rubrik](../companies/rubrik.md)** | [Validate BFS Order on a Tree Built from Two Parent Vectors](https://trueinterview.io/questions/f23be60c-a2d3-405e-8606-bfd7b48410ba) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/f23be60c-a2d3-405e-8606-bfd7b48410ba) | Feb 2026 |
-| **[Google](../companies/google.md)** | [Validate Tree Given Parent Array](https://trueinterview.io/questions/783f51be-4588-4e1e-ad45-e296bf8082d7) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/783f51be-4588-4e1e-ad45-e296bf8082d7) | Feb 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [When prioritize precision vs recall](https://trueinterview.io/questions/when-prioritize-precision-vs-recall) | Phone | New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/when-prioritize-precision-vs-recall) | Feb 2026 |
 | **[Amazon](../companies/amazon.md)** | [Prefix Frequency Partition](https://trueinterview.io/questions/equal-block-prefix-via-prefix-hash) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/equal-block-prefix-via-prefix-hash) | Jan 31, 2026 |
 | **[Amazon](../companies/amazon.md)** | [VM Inventory Rental — Heap Simulation](https://trueinterview.io/questions/vm-inventory-rental-heap) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/vm-inventory-rental-heap) | Jan 31, 2026 |
@@ -423,5 +420,8 @@
 | **[CVS Health](../companies/cvs-health.md)** | [Calculate CI and Test Correlation Under Normality](https://trueinterview.io/questions/calculate-ci-and-test-correlation-under-normality) | OA | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/calculate-ci-and-test-correlation-under-normality) | — |
 | **[Capital One](../companies/capital-one.md)** | [Calculate profit and break-even across pricing models](https://trueinterview.io/questions/calculate-profit-and-break-even-across-pricing-models) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/calculate-profit-and-break-even-across-pricing-models) | — |
 | **[Expedia](../companies/expedia.md)** | [Calculate Triangle Area from Three Coordinate Points](https://trueinterview.io/questions/f13e1f46-76a9-4caa-b697-ffdd9abcd68e) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f13e1f46-76a9-4caa-b697-ffdd9abcd68e) | — |
+| **[Karat](../companies/karat.md)** | [Can the Singer Hit Every Note? Vocal Range Check](https://trueinterview.io/questions/singer-vocal-range-songs) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/singer-vocal-range-songs) | — |
+| **[Karat](../companies/karat.md)** | [Castle Rooms Pointing at Treasure Rooms](https://trueinterview.io/questions/castle-treasure-room-instructions) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/castle-treasure-room-instructions) | — |
+| **[Disney](../companies/disney.md)** | [Check Reachability Between Two Graph Nodes](https://trueinterview.io/questions/graph-path-exists-bfs) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/graph-path-exists-bfs) | — |
 
 <sub>Page [1](new-grad.md) · [2](new-grad-2.md) · **3** · [4](new-grad-4.md)</sub>

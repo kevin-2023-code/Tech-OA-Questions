@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice xAI on TrueInterview](https://trueinterview.io/problems/company/xai) · [How xAI interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/xai/README.md)
 
-🧠 AI labs & AI infrastructure · **43 questions** · 3 from an OA · last reported Oct 2026
+🧠 AI labs & AI infrastructure · **42 questions** · 3 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (6) · 🌱 Mid (28) · 🎯 Senior (33) · 🚀 Staff+ (5)
+**By level:** 🎓 Intern & New grad (6) · 🌱 Mid (27) · 🎯 Senior (32) · 🚀 Staff+ (5)
 
-**By role:** 💻 Software Engineering (35) · 🤖 ML, AI & Research (6) · 📊 Data Science & Analytics (2)
+**By role:** 💻 Software Engineering (34) · 🤖 ML, AI & Research (6) · 📊 Data Science & Analytics (2)
 
-**Rounds:** 📝 OA (3) · 📞 Phone (21) · 🏢 Onsite (25) · 🏠 Take-home (3)
+**Rounds:** 📝 OA (3) · 📞 Phone (21) · 🏢 Onsite (24) · 🏠 Take-home (3)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/xai-interview-process) · [SWE](https://trueinterview.io/study/xai-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/xai-machine-learning-engineer-interview-process) · [Infra](https://trueinterview.io/study/xai-infrastructure-engineer-interview-process)
 
@@ -63,4 +63,3 @@
 | [Durable KV Cache](https://trueinterview.io/questions/durable-kv-cache) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/durable-kv-cache) | — |
 | [N-gram Split](https://trueinterview.io/questions/n-gram-split-2)<br><sub>also [Yelp](../companies/yelp.md)</sub> | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/n-gram-split-2) | — |
 | [Radix Cache](https://trueinterview.io/questions/radix-cache) | Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/radix-cache) | — |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |

@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,115 questions** · 10 from an OA · 584 reported in the last 90 days · 1,239 free to solve
+**3,108 questions** · 10 from an OA · 581 reported in the last 90 days · 1,239 free to solve
 
-**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,022) · 🎯 Senior (2,214) · 🚀 Staff+ (573)
+**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,017) · 🎯 Senior (2,209) · 🚀 Staff+ (573)
 
-**By role:** 💻 Software Engineering (2,017) · 🤖 ML, AI & Research (244) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
+**By role:** 💻 Software Engineering (2,011) · 🤖 ML, AI & Research (243) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
 
-**Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (92)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
+**Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · **4** · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>
 
@@ -21,9 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[OpenAI](../companies/openai.md)** | [Design a Slack-Like Messaging System](https://trueinterview.io/questions/design-a-slack-like-messaging-system-3) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-slack-like-messaging-system-3) | May 2026 |
-| **[eBay](../companies/ebay.md)** | [Design an Ad Assignment API](https://trueinterview.io/questions/design-an-ad-assignment-api) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-ad-assignment-api) | May 2026 |
-| **[Amazon](../companies/amazon.md)** | [Design an index to find sentences by word; support deletion and updates](https://trueinterview.io/questions/f7fffbca-6c71-40fc-b20a-76ec9e879320) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f7fffbca-6c71-40fc-b20a-76ec9e879320) | May 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Design an RPC Abstraction Layer for REST APIs](https://trueinterview.io/questions/design-an-rpc-abstraction-layer-for-rest-apis) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-rpc-abstraction-layer-for-rest-apis) | May 2026 |
 | **[Uber](../companies/uber.md)** | [Design cart management lifecycle service](https://trueinterview.io/questions/design-cart-management-lifecycle-service) | Phone | Senior · Manager | System design | [![Practice][p]](https://trueinterview.io/questions/design-cart-management-lifecycle-service) | May 2026 |
 | **[Apple](../companies/apple.md)** | [Design Disk-Based Inventory Serving](https://trueinterview.io/questions/design-disk-based-inventory-serving) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-disk-based-inventory-serving) | May 2026 |
@@ -421,5 +418,8 @@
 | **[Pinduoduo](../companies/pinduoduo.md)** | [Logistics Variant](https://trueinterview.io/questions/86561494-7d80-47e0-a298-bb7b9e51ad7b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/86561494-7d80-47e0-a298-bb7b9e51ad7b) | Mar 2026 |
 | **[Meta](../companies/meta.md)** | [Longest Vacation With PTO (flip W to H)](https://trueinterview.io/questions/60a769ab-5a47-4fe2-ac54-071077547f77) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/60a769ab-5a47-4fe2-ac54-071077547f77) | Mar 2026 |
 | **[Optiver](../companies/optiver.md)** | [Market-Making Interval Estimation Game](https://trueinterview.io/questions/market-making-interval-game) | Phone | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/market-making-interval-game) | Mar 2026 |
+| **[Rippling](../companies/rippling.md)** | [Maximize Amount After Two Days of Conversions](https://trueinterview.io/questions/maximize-amount-after-two-days-of-conversions) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/maximize-amount-after-two-days-of-conversions) | Mar 2026 |
+| **[Amazon](../companies/amazon.md)** | [Median Rating of Most Recent N Comments](https://trueinterview.io/questions/076fe196-70a4-4387-a808-a26eabd45cdd) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/076fe196-70a4-4387-a808-a26eabd45cdd) | Mar 2026 |
+| **[Verkada](../companies/verkada.md)** | [Merge Alert Intervals Across Multiple Cameras](https://trueinterview.io/questions/a4f0ae26-f3ea-4975-9c68-99712a354b65) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a4f0ae26-f3ea-4975-9c68-99712a354b65) | Mar 2026 |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · **4** · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

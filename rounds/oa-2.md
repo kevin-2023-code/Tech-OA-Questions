@@ -4,15 +4,15 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**802 questions** · 802 from an OA · 124 reported in the last 90 days · 255 free to solve
+**799 questions** · 799 from an OA · 122 reported in the last 90 days · 255 free to solve
 
-**By level:** 🎓 Intern & New grad (495) · 🌱 Mid (483) · 🎯 Senior (252) · 🚀 Staff+ (20)
+**By level:** 🎓 Intern & New grad (492) · 🌱 Mid (480) · 🎯 Senior (249) · 🚀 Staff+ (20)
 
-**By role:** 💻 Software Engineering (586) · 🤖 ML, AI & Research (21) · 📊 Data Science & Analytics (97) · 📈 Quantitative Finance (87)
+**By role:** 💻 Software Engineering (583) · 🤖 ML, AI & Research (21) · 📊 Data Science & Analytics (97) · 📈 Quantitative Finance (87)
 
-**Companies:** [Amazon (53)](../companies/amazon.md) · [Capital One (53)](../companies/capital-one.md) · [ByteDance (36)](../companies/bytedance.md) · [Meta (34)](../companies/meta.md) · [Microsoft (32)](../companies/microsoft.md) · [Uber (32)](../companies/uber.md) · [Google (31)](../companies/google.md) · [Stripe (29)](../companies/stripe.md) · [Goldman Sachs (28)](../companies/goldman-sachs.md) · [Salesforce (25)](../companies/salesforce.md) · [IBM (24)](../companies/ibm.md) · [Akuna Capital (22)](../companies/akuna-capital.md) · [Coinbase (19)](../companies/coinbase.md) · [Optiver (19)](../companies/optiver.md) · [Cisco (18)](../companies/cisco.md) · [Two Sigma (17)](../companies/two-sigma.md) · [Anthropic (16)](../companies/anthropic.md) · [Upstart (16)](../companies/upstart.md) · [Airbnb (15)](../companies/airbnb.md) · [Bitkernel (15)](../companies/bitkernel.md)
+**Companies:** [Amazon (53)](../companies/amazon.md) · [Capital One (53)](../companies/capital-one.md) · [ByteDance (36)](../companies/bytedance.md) · [Meta (33)](../companies/meta.md) · [Microsoft (32)](../companies/microsoft.md) · [Uber (32)](../companies/uber.md) · [Google (31)](../companies/google.md) · [Stripe (29)](../companies/stripe.md) · [Goldman Sachs (28)](../companies/goldman-sachs.md) · [Salesforce (25)](../companies/salesforce.md) · [IBM (24)](../companies/ibm.md) · [Akuna Capital (22)](../companies/akuna-capital.md) · [Coinbase (19)](../companies/coinbase.md) · [Optiver (19)](../companies/optiver.md) · [Cisco (18)](../companies/cisco.md) · [Two Sigma (17)](../companies/two-sigma.md) · [Anthropic (16)](../companies/anthropic.md) · [Upstart (16)](../companies/upstart.md) · [Bitkernel (15)](../companies/bitkernel.md) · [Citadel (15)](../companies/citadel.md)
 
-<sub>Page [1](oa.md) · **2** · [3](oa-3.md)</sub>
+<sub>Page [1](oa.md) · **2**</sub>
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -21,9 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Citadel](../companies/citadel.md)** | [Largest Team Built Around a Core Employee](https://trueinterview.io/questions/interval-overlap-max-team) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/interval-overlap-max-team) | Mar 2026 |
-| **[Reddit](../companies/reddit.md)** | [Logger Rate Limiter](https://trueinterview.io/questions/logger-rate-limiter) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/logger-rate-limiter) | Mar 2026 |
-| **[DoorDash](../companies/doordash.md)** | [Max Sum Sliding Window and Return Start Days (1-based)](https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39) | Mar 2026 |
 | **[Optiver](../companies/optiver.md)** | [Number Logic — Sequence / Find the Pattern](https://trueinterview.io/questions/number-logic-sequence) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/number-logic-sequence) | Mar 2026 |
 | **[Arista](../companies/arista.md)** / [Boston Consulting Group](../companies/boston-consulting-group.md) | [Palindrome String Check (Handle Empty and Null)](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352) | Mar 2026 |
 | **[Arista](../companies/arista.md)** | [Remove all occurrences of a target value from a linked list](https://trueinterview.io/questions/c1b98ae1-5c9a-4dfc-b252-7d04bd84a544) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/c1b98ae1-5c9a-4dfc-b252-7d04bd84a544) | Mar 2026 |
@@ -421,5 +418,7 @@
 | **[Netflix](../companies/netflix.md)** | [User Last Order Date and Order Count SQL Query](https://trueinterview.io/questions/271dd842-2fcc-4d29-834a-4db7987216dd) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/271dd842-2fcc-4d29-834a-4db7987216dd) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Vowel Substring](https://trueinterview.io/questions/1d80c735-5231-4343-a34b-0dade4106bdb) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/1d80c735-5231-4343-a34b-0dade4106bdb) | — |
 | **[Amazon](../companies/amazon.md)** | [Window Function to Rank Within Group](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | — |
+| **[Point72](../companies/point72.md)** | [Write SQL for recent customer activity](https://trueinterview.io/questions/write-sql-for-recent-customer-activity) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-recent-customer-activity) | — |
+| **[Stripe](../companies/stripe.md)** | [Write SQL to detect recurring non-subscription users](https://trueinterview.io/questions/write-sql-to-detect-recurring-non-subscription-users) | OA | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-to-detect-recurring-non-subscription-users) | — |
 
-<sub>Page [1](oa.md) · **2** · [3](oa-3.md)</sub>
+<sub>Page [1](oa.md) · **2**</sub>

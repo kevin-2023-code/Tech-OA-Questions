@@ -6,13 +6,13 @@
 
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,495 questions** · 495 from an OA · 275 reported in the last 90 days · 489 free to solve
+**1,490 questions** · 492 from an OA · 273 reported in the last 90 days · 488 free to solve
 
-**By role:** 💻 Software Engineering (1,110) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
+**By role:** 💻 Software Engineering (1,105) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
 
-**Rounds:** 📝 OA (495) · 📞 Phone (725) · 🏢 Onsite (384) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (492) · 📞 Phone (725) · 🏢 Onsite (382) · 🏠 Take-home (5)
 
-**Companies:** [Amazon (148)](../companies/amazon.md) · [Meta (102)](../companies/meta.md) · [ByteDance (97)](../companies/bytedance.md) · [Google (91)](../companies/google.md) · [Uber (74)](../companies/uber.md) · [Capital One (69)](../companies/capital-one.md) · [Microsoft (61)](../companies/microsoft.md) · [Stripe (48)](../companies/stripe.md) · [Apple (40)](../companies/apple.md) · [Salesforce (35)](../companies/salesforce.md) · [Bloomberg (34)](../companies/bloomberg.md) · [Goldman Sachs (34)](../companies/goldman-sachs.md) · [Citadel (32)](../companies/citadel.md) · [Roblox (31)](../companies/roblox.md) · [Snowflake (30)](../companies/snowflake.md)
+**Companies:** [Amazon (147)](../companies/amazon.md) · [Meta (101)](../companies/meta.md) · [ByteDance (96)](../companies/bytedance.md) · [Google (91)](../companies/google.md) · [Uber (74)](../companies/uber.md) · [Capital One (69)](../companies/capital-one.md) · [Microsoft (61)](../companies/microsoft.md) · [Stripe (48)](../companies/stripe.md) · [Apple (40)](../companies/apple.md) · [Salesforce (35)](../companies/salesforce.md) · [Bloomberg (34)](../companies/bloomberg.md) · [Goldman Sachs (33)](../companies/goldman-sachs.md) · [Citadel (32)](../companies/citadel.md) · [Roblox (31)](../companies/roblox.md) · [Snowflake (30)](../companies/snowflake.md)
 
 <sub>Page [1](new-grad.md) · **2** · [3](new-grad-3.md) · [4](new-grad-4.md)</sub>
 
@@ -23,8 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Meta](../companies/meta.md)** | [Get Minimum Round Trip Cost](https://trueinterview.io/questions/fcc5bf9c-4c30-4e73-9e37-d5c8d3d76218) | OA | New grad · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fcc5bf9c-4c30-4e73-9e37-d5c8d3d76218) | Jul 2026 |
-| **[Amazon](../companies/amazon.md)** | [House Robber II](https://trueinterview.io/questions/house-robber-ii) | Phone | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/house-robber-ii) | Jul 2026 |
 | **[Amazon](../companies/amazon.md)** / [Goldman Sachs](../companies/goldman-sachs.md) | [Implement Linear Regression with Backpropagation](https://trueinterview.io/questions/e0cc580d-54fa-411a-a923-65403162050a) | Phone | Intern · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e0cc580d-54fa-411a-a923-65403162050a) | Jul 2026 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** / [LinkedIn](../companies/linkedin.md) / [Oracle](../companies/oracle.md) | [Implement Queue using Two Stacks](https://trueinterview.io/questions/fcc37027-f6b7-49ec-85c1-100853576313) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/fcc37027-f6b7-49ec-85c1-100853576313) | Jul 2026 |
 | **[Waymo](../companies/waymo.md)** | [Implement Safe Average Function](https://trueinterview.io/questions/implement-safe-average-function) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-safe-average-function) | Jul 2026 |
@@ -117,7 +115,6 @@
 | **[Expedia](../companies/expedia.md)** | [Range Negate Data Updates](https://trueinterview.io/questions/range-negate-data-updates) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/range-negate-data-updates) | May 30, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Camel Cards (Simplified Poker)](https://trueinterview.io/questions/camel-cards-simplified-poker) | Phone · Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/camel-cards-simplified-poker) | May 29, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Message Latency from Send/Receive CSV Logs](https://trueinterview.io/questions/200a942c-d5f7-43e5-badc-68f1a185a4bc) | Onsite | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/200a942c-d5f7-43e5-badc-68f1a185a4bc) | May 27, 2026 |
-| **[Meta](../companies/meta.md)** / [Airbnb](../companies/airbnb.md) | [Banking System (Progressive OOD)](https://trueinterview.io/questions/codesignal-oa-banking-system) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/codesignal-oa-banking-system) | May 26, 2026 |
 | **[Squarepoint](../companies/squarepoint.md)** | [Auction Lots with Highest Bids](https://trueinterview.io/questions/auction-lots-with-highest-bids) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/auction-lots-with-highest-bids) | May 23, 2026 |
 | **[Meta](../companies/meta.md)** | [Average Reactions per Post](https://trueinterview.io/questions/average-reactions-per-post) | Phone | New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/average-reactions-per-post) | May 23, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Average Vacant Days](https://trueinterview.io/questions/average-vacant-days) | Onsite | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/average-vacant-days) | May 23, 2026 |
@@ -423,5 +420,8 @@
 | **[Airbnb](../companies/airbnb.md)** | [Payment Refund Allocation](https://trueinterview.io/questions/payment-refund-allocation) | Phone · Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/payment-refund-allocation) | Feb 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Replace Text for Review](https://trueinterview.io/questions/80731212-708a-43a5-a87a-ad06f2e56b6b) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/80731212-708a-43a5-a87a-ad06f2e56b6b) | Feb 2026 |
 | **[IBM](../companies/ibm.md)** | [Reverse Last Two Characters with a Space](https://trueinterview.io/questions/aed17c65-c5b3-4e56-a00d-9edbfd9f0f59) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/aed17c65-c5b3-4e56-a00d-9edbfd9f0f59) | Feb 2026 |
+| **[Bloomberg](../companies/bloomberg.md)** | [Top-K Frequent Tickers (Stock Leaderboard)](https://trueinterview.io/questions/top-k-frequent-stock-tickers) | Phone · Onsite | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/top-k-frequent-stock-tickers) | Feb 2026 |
+| **[Rubrik](../companies/rubrik.md)** | [Validate BFS Order on a Tree Built from Two Parent Vectors](https://trueinterview.io/questions/f23be60c-a2d3-405e-8606-bfd7b48410ba) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/f23be60c-a2d3-405e-8606-bfd7b48410ba) | Feb 2026 |
+| **[Google](../companies/google.md)** | [Validate Tree Given Parent Array](https://trueinterview.io/questions/783f51be-4588-4e1e-ad45-e296bf8082d7) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/783f51be-4588-4e1e-ad45-e296bf8082d7) | Feb 2026 |
 
 <sub>Page [1](new-grad.md) · **2** · [3](new-grad-3.md) · [4](new-grad-4.md)</sub>

@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,115 reported in the last 90 days · 2,167 free to solve
+**5,873 questions** · 799 from an OA · 1,110 reported in the last 90 days · 2,165 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,490) · 🌱 Mid (3,438) · 🎯 Senior (4,045) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (799) · 📞 Phone (3,108) · 🏢 Onsite (2,330) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · **8** · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,12 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[OpenAI](../companies/openai.md)** / [Airbnb](../companies/airbnb.md) | [In-Memory Database with SQL Operations](https://trueinterview.io/questions/in-memory-database-with-sql-operations) | Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/in-memory-database-with-sql-operations) | Apr 2026 |
-| **[Coinbase](../companies/coinbase.md)** | [In-Memory DB with per-key user lock: setByUser/deleteByUser/lock/unlock](https://trueinterview.io/questions/64e826a3-6585-4f8a-a6a0-6b3fcb775999) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/64e826a3-6585-4f8a-a6a0-6b3fcb775999) | Apr 2026 |
-| **[LinkedIn](../companies/linkedin.md)** | [Insert/Delete/GetRandom in O(1) with TTL per item (follow-up)](https://trueinterview.io/questions/26f6e8b3-62a6-4359-8ae4-3943de03e7e6) | Onsite | Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/26f6e8b3-62a6-4359-8ae4-3943de03e7e6) | Apr 2026 |
-| **[Two Sigma](../companies/two-sigma.md)** / [Point72](../companies/point72.md) | [IPO Share Allocation](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | Apr 2026 |
-| **[Two Sigma](../companies/two-sigma.md)** / [Waymo](../companies/waymo.md) | [Jump Game Series](https://trueinterview.io/questions/e6c27750-a318-4f3c-a767-bd7b64e702a8) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e6c27750-a318-4f3c-a767-bd7b64e702a8) | Apr 2026 |
-| **[Databricks](../companies/databricks.md)** | [Lazy Array (Delayed Evaluation Array)](https://trueinterview.io/questions/240da66e-fee4-4897-a81e-75c7dad94bff) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/240da66e-fee4-4897-a81e-75c7dad94bff) | Apr 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Load Factor Calculation](https://trueinterview.io/questions/service-dependency-load-factor) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/service-dependency-load-factor) | Apr 2026 |
 | **[Amazon](../companies/amazon.md)** | [Longest Subarray with Target Sum](https://trueinterview.io/questions/d531db52-2fa4-461d-b372-0f1f8e05a22b) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/d531db52-2fa4-461d-b372-0f1f8e05a22b) | Apr 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Low Level Logger Design](https://trueinterview.io/questions/2ac0a0ec-b27f-45f3-85bd-1f1476d9ed47) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/2ac0a0ec-b27f-45f3-85bd-1f1476d9ed47) | Apr 2026 |
@@ -419,5 +413,11 @@
 | **[Two Sigma](../companies/two-sigma.md)** | [Implement merge sort and largest 1-rectangle](https://trueinterview.io/questions/implement-merge-sort-and-largest-1-rectangle) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-merge-sort-and-largest-1-rectangle) | Feb 26, 2026 |
 | **[xAI](../companies/xai.md)** | [Nested Structure Flatten and Unflatten](https://trueinterview.io/questions/nested-structure-flatten-and-unflatten) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/nested-structure-flatten-and-unflatten) | Feb 26, 2026 |
 | **[Atlassian](../companies/atlassian.md)** | [RAG Search Augmentation and Internal Chatbot](https://trueinterview.io/questions/rag-search-augmentation-internal-chatbot) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/rag-search-augmentation-internal-chatbot) | Feb 26, 2026 |
+| **[Snowflake](../companies/snowflake.md)** | [String-Command Calculator](https://trueinterview.io/questions/calculator-string-commands) | Phone · Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/calculator-string-commands) | Feb 26, 2026 |
+| **[Pinterest](../companies/pinterest.md)** | [Weighted Sampling from Score Distribution](https://trueinterview.io/questions/weighted-sampling-from-scores) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/weighted-sampling-from-scores) | Feb 26, 2026 |
+| **[Google](../companies/google.md)** | [Apply Range Overwrite Queries](https://trueinterview.io/questions/apply-range-overwrite-queries) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/apply-range-overwrite-queries) | Feb 25, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Choose Classification Metrics Under Asymmetric Costs](https://trueinterview.io/questions/choose-classification-metrics-under-asymmetric-costs) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-classification-metrics-under-asymmetric-costs) | Feb 25, 2026 |
+| **[Point72](../companies/point72.md)** | [Compute Gaussian Probability and Regression Coefficients](https://trueinterview.io/questions/compute-gaussian-probability-and-regression-coefficients) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-gaussian-probability-and-regression-coefficients) | Feb 25, 2026 |
+| **[Apple](../companies/apple.md)** | [Debug a Buggy UNet in PyTorch](https://trueinterview.io/questions/debug-a-buggy-unet-in-pytorch) | Phone | Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/debug-a-buggy-unet-in-pytorch) | Feb 25, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · **8** · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

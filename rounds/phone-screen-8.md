@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,115 questions** · 10 from an OA · 584 reported in the last 90 days · 1,239 free to solve
+**3,108 questions** · 10 from an OA · 581 reported in the last 90 days · 1,239 free to solve
 
-**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,022) · 🎯 Senior (2,214) · 🚀 Staff+ (573)
+**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,017) · 🎯 Senior (2,209) · 🚀 Staff+ (573)
 
-**By role:** 💻 Software Engineering (2,017) · 🤖 ML, AI & Research (244) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
+**By role:** 💻 Software Engineering (2,011) · 🤖 ML, AI & Research (243) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
 
-**Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (92)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
+**Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · **8**</sub>
 
@@ -21,13 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Karat](../companies/karat.md)** | [Follow Counts and Similar-Taste Movie Suggestions](https://trueinterview.io/questions/follow-graph-movie-recommendations) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/follow-graph-movie-recommendations) | — |
-| **[Karat](../companies/karat.md)** | [Forecasting Next Year's Costs for a Short-Video Expiry Platform](https://trueinterview.io/questions/expiring-video-service-cost-forecast) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/expiring-video-service-cost-forecast) | — |
-| **[Uber](../companies/uber.md)** | [Formulate hypotheses and compute AB test significance](https://trueinterview.io/questions/formulate-hypotheses-and-compute-ab-test-significance) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/formulate-hypotheses-and-compute-ab-test-significance) | — |
-| **[Upstart](../companies/upstart.md)** | [Formulate hypotheses and metrics for video-pin ramp](https://trueinterview.io/questions/formulate-hypotheses-and-metrics-for-video-pin-ramp) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/formulate-hypotheses-and-metrics-for-video-pin-ramp) | — |
-| **[Square](../companies/square.md)** | [Frequency-Based Binary Encoding Pipeline](https://trueinterview.io/questions/letter-frequency-huffman-tree) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/letter-frequency-huffman-tree) | — |
-| **[Karat](../companies/karat.md)** | [Friend Count at Scale for a Bidirectional Relationship Table](https://trueinterview.io/questions/bidirectional-friend-count-sql) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/bidirectional-friend-count-sql) | — |
-| **[Rubrik](../companies/rubrik.md)** | [Friendship String](https://trueinterview.io/questions/99375dc6-cb8e-404c-abc8-3d56c84f329c) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/99375dc6-cb8e-404c-abc8-3d56c84f329c) | — |
 | **[Arista](../companies/arista.md)** | [Generate Matrix B](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/fada5fd9-6cc1-42dd-a284-ef4edc5b8fdd) | — |
 | **[Amazon](../companies/amazon.md)** | [Generate primes up to n efficiently](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-primes-up-to-n-efficiently) | — |
 | **[Karat](../companies/karat.md)** | [Geo-Localized Multilingual News Push Platform](https://trueinterview.io/questions/multi-country-localized-news-push) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/multi-country-localized-news-push) | — |

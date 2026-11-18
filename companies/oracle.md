@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Oracle on TrueInterview](https://trueinterview.io/problems/company/oracle) · [How Oracle interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/oracle/README.md)
 
-🏢 Enterprise & business software · **115 questions** · 10 from an OA · last reported Oct 2026
+🏢 Enterprise & business software · **113 questions** · 10 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (20) · 🌱 Mid (66) · 🎯 Senior (82) · 🚀 Staff+ (1)
+**By level:** 🎓 Intern & New grad (19) · 🌱 Mid (65) · 🎯 Senior (80) · 🚀 Staff+ (1)
 
-**By role:** 💻 Software Engineering (105) · 🤖 ML, AI & Research (5) · 📊 Data Science & Analytics (3) · 📈 Quantitative Finance (1)
+**By role:** 💻 Software Engineering (103) · 🤖 ML, AI & Research (5) · 📊 Data Science & Analytics (3) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (10) · 📞 Phone (59) · 🏢 Onsite (53)
+**Rounds:** 📝 OA (10) · 📞 Phone (59) · 🏢 Onsite (51)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/oracle-interview-process)
 
@@ -131,8 +131,6 @@
 | [Simplify Expression](https://trueinterview.io/questions/simplify-parentheses-expression)<br><sub>also [Google](../companies/google.md) / [Meta](../companies/meta.md)</sub> | Onsite | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/simplify-parentheses-expression) | Jun 10, 2025 |
 | [Maximum Completable Tasks with Prerequisites (Topological)](https://trueinterview.io/questions/course-prerequisites-task-count) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/course-prerequisites-task-count) | Apr 2, 2025 |
 | [Body-Temperature Measurement Classes](https://trueinterview.io/questions/ood-patient-temperature-classes) | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/ood-patient-temperature-classes) | Jan 15, 2025 |
-| [Design Authentication Manager](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a)<br><sub>also [IBM](../companies/ibm.md)</sub> | Onsite | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a) | — |
 | [Dropped Requests Rate Limiter II](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/3cf3a0aa-2d80-5652-bb0d-975c8f3fd6ec) | — |
 | [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de)<br><sub>also [Meta](../companies/meta.md) / [IBM](../companies/ibm.md)</sub> | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | — |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | [Sum of Root To Leaf Binary Numbers](https://trueinterview.io/questions/dc973cce-cdef-5be4-b8d4-83e37296c291) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/dc973cce-cdef-5be4-b8d4-83e37296c291) | — |

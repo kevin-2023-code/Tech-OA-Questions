@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Machine Learning Engineer**, **AI Engineer** or **Research Scientist** role.
 
-**481 questions** · 21 from an OA · 102 reported in the last 90 days · 185 free to solve
+**480 questions** · 21 from an OA · 102 reported in the last 90 days · 184 free to solve
 
-**By level:** 🎓 Intern & New grad (69) · 🌱 Mid (185) · 🎯 Senior (385) · 🚀 Staff+ (138)
+**By level:** 🎓 Intern & New grad (69) · 🌱 Mid (184) · 🎯 Senior (385) · 🚀 Staff+ (138)
 
-**Rounds:** 📝 OA (21) · 📞 Phone (244) · 🏢 Onsite (262) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (21) · 📞 Phone (243) · 🏢 Onsite (262) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (52)](../companies/amazon.md) · [OpenAI (47)](../companies/openai.md) · [Apple (28)](../companies/apple.md) · [ByteDance (28)](../companies/bytedance.md) · [Meta (28)](../companies/meta.md) · [Microsoft (26)](../companies/microsoft.md) · [Anthropic (19)](../companies/anthropic.md) · [Google (18)](../companies/google.md) · [Pinterest (18)](../companies/pinterest.md) · [Capital One (15)](../companies/capital-one.md) · [Uber (14)](../companies/uber.md) · [Reddit (13)](../companies/reddit.md) · [Waymo (13)](../companies/waymo.md) · [LinkedIn (12)](../companies/linkedin.md) · [Netflix (12)](../companies/netflix.md)
+**Companies:** [Amazon (52)](../companies/amazon.md) · [OpenAI (46)](../companies/openai.md) · [Apple (28)](../companies/apple.md) · [ByteDance (28)](../companies/bytedance.md) · [Meta (28)](../companies/meta.md) · [Microsoft (26)](../companies/microsoft.md) · [Anthropic (19)](../companies/anthropic.md) · [Google (18)](../companies/google.md) · [Pinterest (18)](../companies/pinterest.md) · [Capital One (15)](../companies/capital-one.md) · [Uber (14)](../companies/uber.md) · [Reddit (13)](../companies/reddit.md) · [Waymo (13)](../companies/waymo.md) · [LinkedIn (12)](../companies/linkedin.md) · [Netflix (12)](../companies/netflix.md)
 
 <sub>Page [1](ml-research.md) · **2**</sub>
 
@@ -43,7 +43,6 @@
 | **[Netflix](../companies/netflix.md)** / [Apple](../companies/apple.md) / [Snowflake](../companies/snowflake.md) | [ML Job Scheduler](https://trueinterview.io/questions/ml-job-scheduler) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ml-job-scheduler) | Nov 2025 |
 | **[Amazon](../companies/amazon.md)** | [Explain core components of reinforcement learning](https://trueinterview.io/questions/explain-core-components-of-reinforcement-learning) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-core-components-of-reinforcement-learning) | Oct 26, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Choose best prompt for AI code debugging](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | Oct 24, 2025 |
-| **[OpenAI](../companies/openai.md)** | [Design a Resumable Iterator with Checkpoint and Restore](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Oct 18, 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Oct 10, 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Evaluate TPR/FPR, sigmoid, and activations](https://trueinterview.io/questions/evaluate-tpr-fpr-sigmoid-and-activations) | OA | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-tpr-fpr-sigmoid-and-activations) | Oct 10, 2025 |
 | **[Perplexity](../companies/perplexity.md)** | [Embedding Model Server](https://trueinterview.io/questions/embedding-model-server) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/embedding-model-server) | Oct 9, 2025 |

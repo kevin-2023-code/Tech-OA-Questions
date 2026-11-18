@@ -58,36 +58,36 @@ An employer the registry has not classified is on no industry list, never guesse
 
 | List | Questions |
 | :-- | --: |
-| [Intern & New Grad OA & Interview Questions (2026)](new-grad.md) | 1,495 |
-| [Mid-Level OA & Interview Questions (2026)](mid.md) | 3,451 |
-| [Senior OA & Interview Questions (2026)](senior.md) | 4,059 |
+| [Intern & New Grad OA & Interview Questions (2026)](new-grad.md) | 1,490 |
+| [Mid-Level OA & Interview Questions (2026)](mid.md) | 3,438 |
+| [Senior OA & Interview Questions (2026)](senior.md) | 4,045 |
 | [Staff+ OA & Interview Questions (2026)](staff.md) | 1,097 |
 
 ## By role
 
 | List | Questions |
 | :-- | --: |
-| [Software Engineer OA & Interview Questions (2026)](swe.md) | 3,928 |
-| [ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research.md) | 481 |
+| [Software Engineer OA & Interview Questions (2026)](swe.md) | 3,913 |
+| [ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research.md) | 480 |
 | [Data Scientist OA & Interview Questions (2026)](data.md) | 1,075 |
 | [Quant Researcher, Developer & Trader OA & Interview Questions (2026)](quant-roles.md) | 285 |
 | [Product Manager OA & Interview Questions (2026)](pm.md) | 45 |
 | [Hardware Engineer OA & Interview Questions (2026)](hardware.md) | 12 |
-| [Backend Engineer OA & Interview Questions (2026)](backend.md) | 683 |
+| [Backend Engineer OA & Interview Questions (2026)](backend.md) | 679 |
 | [Frontend Engineer OA & Interview Questions (2026)](frontend.md) | 106 |
-| [Platform & Infrastructure Engineer OA & Interview Questions (2026)](platform.md) | 164 |
+| [Platform & Infrastructure Engineer OA & Interview Questions (2026)](platform.md) | 163 |
 | [Engineering Manager OA & Interview Questions (2026)](manager.md) | 150 |
 
 ## By role and level
 
 | List | Questions |
 | :-- | --: |
-| [Intern & New Grad Software Engineer OA & Interview Questions (2026)](swe--new-grad.md) | 1,110 |
-| [Mid-Level Software Engineer OA & Interview Questions (2026)](swe--mid.md) | 2,526 |
-| [Senior Software Engineer OA & Interview Questions (2026)](swe--senior.md) | 2,493 |
+| [Intern & New Grad Software Engineer OA & Interview Questions (2026)](swe--new-grad.md) | 1,105 |
+| [Mid-Level Software Engineer OA & Interview Questions (2026)](swe--mid.md) | 2,514 |
+| [Senior Software Engineer OA & Interview Questions (2026)](swe--senior.md) | 2,480 |
 | [Staff+ Software Engineer OA & Interview Questions (2026)](swe--staff.md) | 358 |
 | [Intern & New Grad ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--new-grad.md) | 69 |
-| [Mid-Level ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--mid.md) | 185 |
+| [Mid-Level ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--mid.md) | 184 |
 | [Senior ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--senior.md) | 385 |
 | [Staff+ ML Engineer, AI Engineer & Research Scientist OA & Interview Questions (2026)](ml-research--staff.md) | 138 |
 | [Intern & New Grad Data Scientist OA & Interview Questions (2026)](data--new-grad.md) | 178 |
@@ -109,26 +109,26 @@ An employer the registry has not classified is on no industry list, never guesse
 
 | List | Questions |
 | :-- | --: |
-| [MAANG+ OA & Interview Questions (2026)](maang.md) | 1,693 |
-| [AI labs & AI infrastructure OA & Interview Questions (2026)](ai-labs.md) | 503 |
-| [Consumer internet & media OA & Interview Questions (2026)](consumer-internet.md) | 1,581 |
-| [E-commerce & marketplaces OA & Interview Questions (2026)](ecommerce-marketplace.md) | 1,231 |
+| [MAANG+ OA & Interview Questions (2026)](maang.md) | 1,689 |
+| [AI labs & AI infrastructure OA & Interview Questions (2026)](ai-labs.md) | 499 |
+| [Consumer internet & media OA & Interview Questions (2026)](consumer-internet.md) | 1,577 |
+| [E-commerce & marketplaces OA & Interview Questions (2026)](ecommerce-marketplace.md) | 1,224 |
 | [Developer tools, cloud & data infrastructure OA & Interview Questions (2026)](dev-infra.md) | 299 |
-| [Enterprise & business software OA & Interview Questions (2026)](enterprise-saas.md) | 719 |
-| [Cybersecurity OA & Interview Questions (2026)](security.md) | 79 |
-| [Fintech, payments & crypto OA & Interview Questions (2026)](fintech.md) | 507 |
+| [Enterprise & business software OA & Interview Questions (2026)](enterprise-saas.md) | 714 |
+| [Cybersecurity OA & Interview Questions (2026)](security.md) | 78 |
+| [Fintech, payments & crypto OA & Interview Questions (2026)](fintech.md) | 504 |
 | [Quant trading & hedge funds OA & Interview Questions (2026)](quant.md) | 383 |
-| [Banks, insurers & asset managers OA & Interview Questions (2026)](banking-finance.md) | 427 |
-| [Semiconductors & chips OA & Interview Questions (2026)](semiconductors.md) | 64 |
+| [Banks, insurers & asset managers OA & Interview Questions (2026)](banking-finance.md) | 426 |
+| [Semiconductors & chips OA & Interview Questions (2026)](semiconductors.md) | 63 |
 | [Hardware, devices & networking OA & Interview Questions (2026)](hardware-devices.md) | 225 |
-| [Autonomy, automotive & mobility OA & Interview Questions (2026)](autonomy-mobility.md) | 200 |
-| [Gaming & interactive OA & Interview Questions (2026)](gaming.md) | 105 |
+| [Autonomy, automotive & mobility OA & Interview Questions (2026)](autonomy-mobility.md) | 199 |
+| [Gaming & interactive OA & Interview Questions (2026)](gaming.md) | 104 |
 | [Health, biotech & medical devices OA & Interview Questions (2026)](health-bio.md) | 3 |
-| [IT services & consulting OA & Interview Questions (2026)](it-consulting.md) | 45 |
+| [IT services & consulting OA & Interview Questions (2026)](it-consulting.md) | 44 |
 
 ## Everything else
 
 | List | Questions |
 | :-- | --: |
-| [Free to solve](free.md) | 2,167 |
-| [Every question, newest first](../question-bank/README.md) | 5,890 |
+| [Free to solve](free.md) | 2,165 |
+| [Every question, newest first](../question-bank/README.md) | 5,873 |

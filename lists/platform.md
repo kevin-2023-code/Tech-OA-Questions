@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Platform Engineer** role.
 
-**164 questions** · 3 from an OA · 53 reported in the last 90 days · 57 free to solve
+**163 questions** · 3 from an OA · 53 reported in the last 90 days · 57 free to solve
 
-**By level:** 🎓 Intern & New grad (13) · 🌱 Mid (68) · 🎯 Senior (139) · 🚀 Staff+ (37)
+**By level:** 🎓 Intern & New grad (13) · 🌱 Mid (68) · 🎯 Senior (138) · 🚀 Staff+ (37)
 
-**Rounds:** 📝 OA (3) · 📞 Phone (89) · 🏢 Onsite (89) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (3) · 📞 Phone (88) · 🏢 Onsite (89) · 🏠 Take-home (1)
 
-**Companies:** [OpenAI (16)](../companies/openai.md) · [NVIDIA (12)](../companies/nvidia.md) · [Databricks (11)](../companies/databricks.md) · [ByteDance (10)](../companies/bytedance.md) · [Google (10)](../companies/google.md) · [Anthropic (9)](../companies/anthropic.md) · [LinkedIn (9)](../companies/linkedin.md) · [Microsoft (9)](../companies/microsoft.md) · [Amazon (8)](../companies/amazon.md) · [Apple (7)](../companies/apple.md) · [Netflix (7)](../companies/netflix.md) · [DoorDash (6)](../companies/doordash.md) · [Karat (6)](../companies/karat.md) · [Meta (6)](../companies/meta.md) · [Oracle (6)](../companies/oracle.md)
+**Companies:** [OpenAI (15)](../companies/openai.md) · [NVIDIA (12)](../companies/nvidia.md) · [Databricks (11)](../companies/databricks.md) · [ByteDance (10)](../companies/bytedance.md) · [Google (10)](../companies/google.md) · [Anthropic (9)](../companies/anthropic.md) · [LinkedIn (9)](../companies/linkedin.md) · [Microsoft (9)](../companies/microsoft.md) · [Amazon (8)](../companies/amazon.md) · [Apple (7)](../companies/apple.md) · [Netflix (7)](../companies/netflix.md) · [DoorDash (6)](../companies/doordash.md) · [Karat (6)](../companies/karat.md) · [Meta (6)](../companies/meta.md) · [Oracle (6)](../companies/oracle.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -150,7 +150,6 @@
 | **[Tesla](../companies/tesla.md)** | [Parallel Runner with Exclusive Targets A and B](https://trueinterview.io/questions/parallel-target-runner) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/parallel-target-runner) | Jan 15, 2026 |
 | **[Databricks](../companies/databricks.md)** | [SQL Query Plan Optimizer](https://trueinterview.io/questions/sql-query-plan-optimizer) | Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/sql-query-plan-optimizer) | Jan 10, 2026 |
 | **[Netflix](../companies/netflix.md)** | [Design a WAL Log Enrichment Pipeline](https://trueinterview.io/questions/design-a-wal-log-enrichment-pipeline) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-wal-log-enrichment-pipeline) | Jan 9, 2026 |
-| **[OpenAI](../companies/openai.md)** | [Implement a memory allocator with malloc/free](https://trueinterview.io/questions/implement-a-memory-allocator-with-malloc-free) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-memory-allocator-with-malloc-free) | Jan 9, 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Protect SLA and Choose Storage](https://trueinterview.io/questions/protect-sla-and-choose-storage) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/protect-sla-and-choose-storage) | Jan 9, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Explain container image flow in CI/CD](https://trueinterview.io/questions/explain-container-image-flow-in-ci-cd) | Phone | Mid · Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-container-image-flow-in-ci-cd) | Jan 6, 2026 |
 | **[NVIDIA](../companies/nvidia.md)** | [Explain virtual machines and concurrency basics](https://trueinterview.io/questions/explain-virtual-machines-and-concurrency-basics) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-virtual-machines-and-concurrency-basics) | Jan 6, 2026 |

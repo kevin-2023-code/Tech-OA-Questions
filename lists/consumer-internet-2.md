@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Consumer internet & media*.
 
-**1,581 questions** · 128 from an OA · 321 reported in the last 90 days · 590 free to solve
+**1,577 questions** · 127 from an OA · 320 reported in the last 90 days · 589 free to solve
 
-**By level:** 🎓 Intern & New grad (334) · 🌱 Mid (904) · 🎯 Senior (1,148) · 🚀 Staff+ (389)
+**By level:** 🎓 Intern & New grad (332) · 🌱 Mid (900) · 🎯 Senior (1,144) · 🚀 Staff+ (389)
 
-**By role:** 💻 Software Engineering (1,013) · 🤖 ML, AI & Research (135) · 📊 Data Science & Analytics (388) · 📈 Quantitative Finance (9) · 📱 Product Management (15)
+**By role:** 💻 Software Engineering (1,009) · 🤖 ML, AI & Research (135) · 📊 Data Science & Analytics (388) · 📈 Quantitative Finance (9) · 📱 Product Management (15)
 
-**Rounds:** 📝 OA (128) · 📞 Phone (882) · 🏢 Onsite (702) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (127) · 📞 Phone (881) · 🏢 Onsite (700) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Google (382)](../companies/google.md) · [ByteDance (344)](../companies/bytedance.md) · [LinkedIn (145)](../companies/linkedin.md) · [Pinterest (128)](../companies/pinterest.md) · [Netflix (107)](../companies/netflix.md) · [Snapchat (87)](../companies/snapchat.md) · [Reddit (47)](../companies/reddit.md) · [Yelp (22)](../companies/yelp.md) · [Discord (11)](../companies/discord.md)
+**Companies:** [Meta (488)](../companies/meta.md) · [Google (382)](../companies/google.md) · [ByteDance (343)](../companies/bytedance.md) · [LinkedIn (144)](../companies/linkedin.md) · [Pinterest (128)](../companies/pinterest.md) · [Netflix (107)](../companies/netflix.md) · [Snapchat (87)](../companies/snapchat.md) · [Reddit (45)](../companies/reddit.md) · [Yelp (22)](../companies/yelp.md) · [Discord (11)](../companies/discord.md)
 
 <sub>Page [1](consumer-internet.md) · **2** · [3](consumer-internet-3.md) · [4](consumer-internet-4.md)</sub>
 
@@ -25,7 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Pinterest](../companies/pinterest.md)** | [Generate Attribute Combinations](https://trueinterview.io/questions/generate-attribute-combinations) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-attribute-combinations) | Aug 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Grant / Revoke / Check Access on Hierarchy](https://trueinterview.io/questions/grant-revoke-access-tree) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/grant-revoke-access-tree) | Aug 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Handle Communication Difficulty and Ambiguity on a Project](https://trueinterview.io/questions/handle-communication-difficulty-and-ambiguity-on-a-project) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-communication-difficulty-and-ambiguity-on-a-project) | Aug 2026 |
 | **[Google](../companies/google.md)** | [Highway Checkpoint](https://trueinterview.io/questions/highway-checkpoint) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/highway-checkpoint) | Aug 2026 |
@@ -215,7 +214,6 @@
 | **[Google](../companies/google.md)** | [Measure Bird Species Segregation](https://trueinterview.io/questions/measure-bird-species-segregation) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/measure-bird-species-segregation) | May 28, 2026 |
 | **[Anthropic](../companies/anthropic.md)** / [Google](../companies/google.md) | [String Tokenization](https://trueinterview.io/questions/coding-q6-tokenizer) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/coding-q6-tokenizer) | May 28, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Implement round() From String + Round-to-Precision](https://trueinterview.io/questions/round-and-precision-string) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/round-and-precision-string) | May 27, 2026 |
-| **[Meta](../companies/meta.md)** / [Airbnb](../companies/airbnb.md) | [Banking System (Progressive OOD)](https://trueinterview.io/questions/codesignal-oa-banking-system) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/codesignal-oa-banking-system) | May 26, 2026 |
 | **[Meta](../companies/meta.md)** | [Advertising Time-of-Day Analysis](https://trueinterview.io/questions/advertising-time-of-day-analysis) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/advertising-time-of-day-analysis) | May 23, 2026 |
 | **[Meta](../companies/meta.md)** | [Average Reactions per Post](https://trueinterview.io/questions/average-reactions-per-post) | Phone | New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/average-reactions-per-post) | May 23, 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [CTR By Pin-Format and Date](https://trueinterview.io/questions/ctr-by-pin-format-and-date) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/ctr-by-pin-format-and-date) | May 23, 2026 |
@@ -425,5 +423,7 @@
 | **[ByteDance](../companies/bytedance.md)** | [Drone Relay to Target](https://trueinterview.io/questions/codesignal-swe-oa-spring-2026-drone-relay-to-target) | OA | Intern · New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/codesignal-swe-oa-spring-2026-drone-relay-to-target) | Mar 17, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Two-Direction Justified Newspaper Layout](https://trueinterview.io/questions/codesignal-swe-oa-spring-2026-two-direction-justified-newspaper-layout) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/codesignal-swe-oa-spring-2026-two-direction-justified-newspaper-layout) | Mar 17, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Analyze Product Launch and Creator Engagement](https://trueinterview.io/questions/analyze-product-launch-and-creator-engagement) | Phone | Intern · New grad | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/analyze-product-launch-and-creator-engagement) | Mar 14, 2026 |
+| **[ByteDance](../companies/bytedance.md)** | [Count Same-Day Registered Posters](https://trueinterview.io/questions/count-same-day-registered-posters) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/count-same-day-registered-posters) | Mar 14, 2026 |
+| **[Snapchat](../companies/snapchat.md)** | [Word Ladder Reachability](https://trueinterview.io/questions/word-ladder-reachability) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/word-ladder-reachability) | Mar 12, 2026 |
 
 <sub>Page [1](consumer-internet.md) · **2** · [3](consumer-internet-3.md) · [4](consumer-internet-4.md)</sub>

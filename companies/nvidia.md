@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice NVIDIA on TrueInterview](https://trueinterview.io/problems/company/nvidia) · [How NVIDIA interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/nvidia/README.md)
 
-🔬 Semiconductors & chips · **54 questions** · 4 from an OA · last reported Sep 2026
+🔬 Semiconductors & chips · **53 questions** · 4 from an OA · last reported Sep 2026
 
-**By level:** 🎓 Intern & New grad (13) · 🌱 Mid (32) · 🎯 Senior (41) · 🚀 Staff+ (8)
+**By level:** 🎓 Intern & New grad (13) · 🌱 Mid (31) · 🎯 Senior (40) · 🚀 Staff+ (8)
 
-**By role:** 💻 Software Engineering (39) · 🤖 ML, AI & Research (7) · 📊 Data Science & Analytics (8)
+**By role:** 💻 Software Engineering (38) · 🤖 ML, AI & Research (7) · 📊 Data Science & Analytics (8)
 
-**Rounds:** 📝 OA (4) · 📞 Phone (37) · 🏢 Onsite (22)
+**Rounds:** 📝 OA (4) · 📞 Phone (37) · 🏢 Onsite (21)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/nvidia-interview-process) · [ML engineer](https://trueinterview.io/study/nvidia-machine-learning-engineer-interview-process) · [Infra](https://trueinterview.io/study/nvidia-infrastructure-engineer-interview-process)
 
@@ -73,5 +73,4 @@
 | [Reflect on interview takeaways and adaptation](https://trueinterview.io/questions/reflect-on-interview-takeaways-and-adaptation) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/reflect-on-interview-takeaways-and-adaptation) | — |
 | [Resolve conflict and learn from failure](https://trueinterview.io/questions/resolve-conflict-and-learn-from-failure) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resolve-conflict-and-learn-from-failure) | — |
 | [Sell GPUs to a retail CEO](https://trueinterview.io/questions/sell-gpus-to-a-retail-ceo) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/sell-gpus-to-a-retail-ceo) | — |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | [SQL Aggregation Across Country/State/City/Zip Tables](https://trueinterview.io/questions/53506fd0-9b04-40be-a6f6-eb349d9f220a) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/53506fd0-9b04-40be-a6f6-eb349d9f220a) | — |

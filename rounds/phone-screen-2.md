@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,115 questions** · 10 from an OA · 584 reported in the last 90 days · 1,239 free to solve
+**3,108 questions** · 10 from an OA · 581 reported in the last 90 days · 1,239 free to solve
 
-**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,022) · 🎯 Senior (2,214) · 🚀 Staff+ (573)
+**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,017) · 🎯 Senior (2,209) · 🚀 Staff+ (573)
 
-**By role:** 💻 Software Engineering (2,017) · 🤖 ML, AI & Research (244) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
+**By role:** 💻 Software Engineering (2,011) · 🤖 ML, AI & Research (243) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
 
-**Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (92)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
+**Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
 
 <sub>Page [1](phone-screen.md) · **2** · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>
 
@@ -21,8 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[LinkedIn](../companies/linkedin.md)** | [Largest Number (LC 179)](https://trueinterview.io/questions/coding-largest-number) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/coding-largest-number) | Sep 2026 |
-| **[Roblox](../companies/roblox.md)** | [Lasers and Robot](https://trueinterview.io/questions/cc7ea860-4eb6-5776-9026-f8bb5368ca1b) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cc7ea860-4eb6-5776-9026-f8bb5368ca1b) | Sep 2026 |
 | **[Apple](../companies/apple.md)** / [Google](../companies/google.md) / [LinkedIn](../companies/linkedin.md) / +3 | [LFU Cache](https://trueinterview.io/questions/lfu-cache) | Phone | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/lfu-cache) | Sep 2026 |
 | **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +8 | [Longest Substring Without Repeating Characters II](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-substring-without-repeating-characters) | Sep 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Lowest Common Ancestor in an N-ary Tree](https://trueinterview.io/questions/2805d985-5044-5751-9d1e-93c24171a61f) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/2805d985-5044-5751-9d1e-93c24171a61f) | Sep 2026 |
@@ -182,7 +180,6 @@
 | **[Anthropic](../companies/anthropic.md)** | [Implement a Duplicate-File Reporter](https://trueinterview.io/questions/implement-a-duplicate-file-reporter) | Phone | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-duplicate-file-reporter) | Aug 24, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Package Weight Rearrangement](https://trueinterview.io/questions/adjacent-package-weight-rearrangement) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/adjacent-package-weight-rearrangement) | Aug 24, 2026 |
 | **[Jane Street](../companies/jane-street.md)** | [Process One Million Quote Updates per Second](https://trueinterview.io/questions/process-one-million-quote-updates-per-second) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/process-one-million-quote-updates-per-second) | Aug 24, 2026 |
-| **[OpenAI](../companies/openai.md)** | [Design Alternating Card Dealing and Hand Comparison](https://trueinterview.io/questions/design-alternating-card-dealing-and-hand-comparison) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-alternating-card-dealing-and-hand-comparison) | Aug 23, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Enumerate All Simple Directed Cycles](https://trueinterview.io/questions/enumerate-all-simple-directed-cycles) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/enumerate-all-simple-directed-cycles) | Aug 23, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Enumerate All Simple Directed Paths](https://trueinterview.io/questions/enumerate-all-simple-directed-paths) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/enumerate-all-simple-directed-paths) | Aug 23, 2026 |
 | **[Reddit](../companies/reddit.md)** | [Explain and Reduce Position Bias in Ranking](https://trueinterview.io/questions/explain-and-reduce-position-bias-in-ranking) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-and-reduce-position-bias-in-ranking) | Aug 23, 2026 |
@@ -421,5 +418,8 @@
 | **[Citadel](../companies/citadel.md)** | [Town Temperature Regression Analysis](https://trueinterview.io/questions/40633852-5eda-59ea-9c7a-4e233abff5ec) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/40633852-5eda-59ea-9c7a-4e233abff5ec) | Aug 2026 |
 | **[Amazon](../companies/amazon.md)** | [Trade Short-Term Benefit for Long-Term Success](https://trueinterview.io/questions/trade-short-term-benefit-for-long-term-success) | Phone | New grad · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/trade-short-term-benefit-for-long-term-success) | Aug 2026 |
 | **[MongoDB](../companies/mongodb.md)** | [Union Iterator for Two Sorted Iterators (Dedup, Streaming, O(1) Extra Space)](https://trueinterview.io/questions/89497b58-2eb1-4f78-9306-fbb8927e39f7) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/89497b58-2eb1-4f78-9306-fbb8927e39f7) | Aug 2026 |
+| **[Airbnb](../companies/airbnb.md)** | [URL Parser with Percent Unquote](https://trueinterview.io/questions/b8f2f270-a472-5c0c-927b-883b8fa80722) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b8f2f270-a472-5c0c-927b-883b8fa80722) | Aug 2026 |
+| **[Airbnb](../companies/airbnb.md)** | [URL Query Parameter Parsing](https://trueinterview.io/questions/url-query-string-parser) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/url-query-string-parser) | Aug 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [URL Shortener / Tiny URL System Design](https://trueinterview.io/questions/url-shortener-system-design) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/url-shortener-system-design) | Aug 2026 |
 
 <sub>Page [1](phone-screen.md) · **2** · [3](phone-screen-3.md) · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

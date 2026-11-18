@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,115 reported in the last 90 days · 2,167 free to solve
+**5,873 questions** · 799 from an OA · 1,110 reported in the last 90 days · 2,165 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,490) · 🌱 Mid (3,438) · 🎯 Senior (4,045) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (799) · 📞 Phone (3,108) · 🏢 Onsite (2,330) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · **4** · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>
 
@@ -19,11 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Snowflake](../companies/snowflake.md)** | [Webinar Popularity](https://trueinterview.io/questions/webinar-popularity) | Onsite | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/webinar-popularity) | Aug 13, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Who Made Quota?](https://trueinterview.io/questions/who-made-quota) | Onsite | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/who-made-quota) | Aug 13, 2026 |
-| **[Figma](../companies/figma.md)** | [Async Job Scheduler](https://trueinterview.io/questions/async-job-scheduler-design) | Phone · Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/async-job-scheduler-design) | Aug 12, 2026 |
-| **[Figma](../companies/figma.md)** | [Design a Real-Time Canvas Comment System](https://trueinterview.io/questions/realtime-comments-design) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/realtime-comments-design) | Aug 12, 2026 |
-| **[Affirm](../companies/affirm.md)** | [Find Redeemable Offers](https://trueinterview.io/questions/find-redeemable-offers) | Phone · Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-redeemable-offers) | Aug 12, 2026 |
 | **[Figma](../companies/figma.md)** | [Select Table and Set Color](https://trueinterview.io/questions/figjam-table-selection-set-color) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/figjam-table-selection-set-color) | Aug 12, 2026 |
 | **[Figma](../companies/figma.md)** | [Sort Documents on a 2D Plane](https://trueinterview.io/questions/sort-documents-left-to-right) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/sort-documents-left-to-right) | Aug 12, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Data-Center Camera Access Incident Response](https://trueinterview.io/questions/data-center-camera-access-incident-response) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/data-center-camera-access-incident-response) | Aug 11, 2026 |
@@ -419,5 +414,10 @@
 | **[Harvey](../companies/harvey.md)** | [Design Vault (Google Drive-Style File Storage)](https://trueinterview.io/questions/design-vault-google-drive-style-file-storage) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-vault-google-drive-style-file-storage) | Jul 7, 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** | [Holiday Service Latency Optimization](https://trueinterview.io/questions/holiday-service-latency-optimization) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/holiday-service-latency-optimization) | Jul 7, 2026 |
 | **[Walmart Labs](../companies/walmart-labs.md)** | [Merge Strings Alternately](https://trueinterview.io/questions/merge-strings-alternately) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/merge-strings-alternately) | Jul 7, 2026 |
+| **[Walmart Labs](../companies/walmart-labs.md)** | [Minimum Talent-Complete Team from Every Start](https://trueinterview.io/questions/minimum-talent-complete-team-from-each-start) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-talent-complete-team-from-each-start) | Jul 7, 2026 |
+| **[Bloomberg](../companies/bloomberg.md)** | [VWAP Analytic Provider](https://trueinterview.io/questions/vwap-analytic-provider) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/vwap-analytic-provider) | Jul 7, 2026 |
+| **[Figma](../companies/figma.md)** | [Design Document Layer System](https://trueinterview.io/questions/document-layer-apply-undo) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/document-layer-apply-undo) | Jul 6, 2026 |
+| **[Goldman Sachs](../companies/goldman-sachs.md)** | [Highest Average Score Per Person](https://trueinterview.io/questions/max-average-score-per-person) | OA · Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/max-average-score-per-person) | Jul 6, 2026 |
+| **[Google](../companies/google.md)** | [L6 System Design (Staff Loop)](https://trueinterview.io/questions/l6-system-design-staff-loop) | Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/l6-system-design-staff-loop) | Jul 6, 2026 |
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · **4** · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · [15](page-15.md)</sub>

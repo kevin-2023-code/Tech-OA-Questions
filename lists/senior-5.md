@@ -6,13 +6,13 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,059 questions** · 252 from an OA · 726 reported in the last 90 days · 1,626 free to solve
+**4,045 questions** · 249 from an OA · 721 reported in the last 90 days · 1,625 free to solve
 
-**By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
+**By role:** 💻 Software Engineering (2,480) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
-**Rounds:** 📝 OA (252) · 📞 Phone (2,214) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
+**Rounds:** 📝 OA (249) · 📞 Phone (2,209) · 🏢 Onsite (1,866) · 🏠 Take-home (9)
 
-**Companies:** [Meta (398)](../companies/meta.md) · [Amazon (287)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (230)](../companies/bytedance.md) · [Uber (190)](../companies/uber.md) · [Microsoft (166)](../companies/microsoft.md) · [OpenAI (158)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (118)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Oracle (82)](../companies/oracle.md) · [Anthropic (81)](../companies/anthropic.md)
+**Companies:** [Meta (397)](../companies/meta.md) · [Amazon (284)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (229)](../companies/bytedance.md) · [Uber (189)](../companies/uber.md) · [Microsoft (165)](../companies/microsoft.md) · [OpenAI (156)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (117)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Anthropic (81)](../companies/anthropic.md) · [Oracle (80)](../companies/oracle.md)
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · [3](senior-3.md) · [4](senior-4.md) · **5** · [6](senior-6.md) · [7](senior-7.md) · [8](senior-8.md) · [9](senior-9.md) · [10](senior-10.md) · [11](senior-11.md)</sub>
 
@@ -23,12 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Microsoft](../companies/microsoft.md)** | [Sort Three Categories In Place](https://trueinterview.io/questions/sort-three-categories-in-place) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/sort-three-categories-in-place) | Apr 18, 2026 |
-| **[LinkedIn](../companies/linkedin.md)** | [Distributed Job Scheduler / Calendar Service](https://trueinterview.io/questions/sd-job-scheduler) | Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/sd-job-scheduler) | Apr 17, 2026 |
-| **[Uber](../companies/uber.md)** | [Find First Local Minimum](https://trueinterview.io/questions/find-first-local-minimum) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-first-local-minimum) | Apr 17, 2026 |
-| **[Databricks](../companies/databricks.md)** | [Gradient Descent for Simple Linear Regression](https://trueinterview.io/questions/274c024f-d789-4f9c-99cd-ad66381cfc31) | Onsite | Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/274c024f-d789-4f9c-99cd-ad66381cfc31) | Apr 17, 2026 |
-| **[Instacart](../companies/instacart.md)** | [Implement an In-Memory File Storage System](https://trueinterview.io/questions/implement-an-in-memory-file-storage-system) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-an-in-memory-file-storage-system) | Apr 17, 2026 |
-| **[Netflix](../companies/netflix.md)** | [Implement TTL Cache and Tree Balance Reporting](https://trueinterview.io/questions/implement-ttl-cache-and-tree-balance-reporting) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-ttl-cache-and-tree-balance-reporting) | Apr 17, 2026 |
 | **[Meta](../companies/meta.md)** | [In-place unique prefix](https://trueinterview.io/questions/solve-array-matrix-and-recommendation-problems-in-place-unique-prefix) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-array-matrix-and-recommendation-problems-in-place-unique-prefix) | Apr 17, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [ML Configuration System](https://trueinterview.io/questions/ml-configuration-system) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/ml-configuration-system) | Apr 17, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Retain Top K Elements](https://trueinterview.io/questions/retain-top-k-elements) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/retain-top-k-elements) | Apr 17, 2026 |
@@ -423,5 +417,11 @@
 | **[Harvey](../companies/harvey.md)** | [Resolve conflict across teams](https://trueinterview.io/questions/resolve-conflict-across-teams) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resolve-conflict-across-teams) | Mar 2026 |
 | **[Expedia](../companies/expedia.md)** | [Restore String with Target Digit Sum](https://trueinterview.io/questions/6f5c41ce-ccde-4325-8fb5-cfeae1a8a82f) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/6f5c41ce-ccde-4325-8fb5-cfeae1a8a82f) | Mar 2026 |
 | **[Google](../companies/google.md)** | [Rotate Any m×n 2D Matrix](https://trueinterview.io/questions/rotate-matrix-rectangle) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/rotate-matrix-rectangle) | Mar 2026 |
+| **[Databricks](../companies/databricks.md)** | [Run-Length Encoding (RLE)](https://trueinterview.io/questions/implement-rle-and-bit-packing-compression-run-length-encoding-rle) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-rle-and-bit-packing-compression-run-length-encoding-rle) | Mar 2026 |
+| **[Expedia](../companies/expedia.md)** | [Scattered Palindrome Substring Count (Swappable to Palindrome)](https://trueinterview.io/questions/8e6b85b8-933e-4aee-a502-746ffb820b1d) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/8e6b85b8-933e-4aee-a502-746ffb820b1d) | Mar 2026 |
+| **[Meta](../companies/meta.md)** | [Second Largest Permutation From Given Multiset](https://trueinterview.io/questions/b013b902-f3a6-444e-a0a9-866fa7ac2f06) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/b013b902-f3a6-444e-a0a9-866fa7ac2f06) | Mar 2026 |
+| **[SoFi](../companies/sofi.md)** | [Second Most Frequent Tag from Flattened Triples](https://trueinterview.io/questions/e89bef94-d185-481f-94fe-b1ad86364481) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e89bef94-d185-481f-94fe-b1ad86364481) | Mar 2026 |
+| **[Reddit](../companies/reddit.md)** | [Shortest Palindrome](https://trueinterview.io/questions/9fb1f6ac-609e-46c6-bff0-b3a5ec450705) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/9fb1f6ac-609e-46c6-bff0-b3a5ec450705) | Mar 2026 |
+| **[Google](../companies/google.md)** | [Sum of Good Subarrays (Adjacent Diff ±1)](https://trueinterview.io/questions/good-subarrays-diff-one) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/good-subarrays-diff-one) | Mar 2026 |
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · [3](senior-3.md) · [4](senior-4.md) · **5** · [6](senior-6.md) · [7](senior-7.md) · [8](senior-8.md) · [9](senior-9.md) · [10](senior-10.md) · [11](senior-11.md)</sub>

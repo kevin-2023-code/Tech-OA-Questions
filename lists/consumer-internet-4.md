@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Consumer internet & media*.
 
-**1,581 questions** · 128 from an OA · 321 reported in the last 90 days · 590 free to solve
+**1,577 questions** · 127 from an OA · 320 reported in the last 90 days · 589 free to solve
 
-**By level:** 🎓 Intern & New grad (334) · 🌱 Mid (904) · 🎯 Senior (1,148) · 🚀 Staff+ (389)
+**By level:** 🎓 Intern & New grad (332) · 🌱 Mid (900) · 🎯 Senior (1,144) · 🚀 Staff+ (389)
 
-**By role:** 💻 Software Engineering (1,013) · 🤖 ML, AI & Research (135) · 📊 Data Science & Analytics (388) · 📈 Quantitative Finance (9) · 📱 Product Management (15)
+**By role:** 💻 Software Engineering (1,009) · 🤖 ML, AI & Research (135) · 📊 Data Science & Analytics (388) · 📈 Quantitative Finance (9) · 📱 Product Management (15)
 
-**Rounds:** 📝 OA (128) · 📞 Phone (882) · 🏢 Onsite (702) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (127) · 📞 Phone (881) · 🏢 Onsite (700) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Google (382)](../companies/google.md) · [ByteDance (344)](../companies/bytedance.md) · [LinkedIn (145)](../companies/linkedin.md) · [Pinterest (128)](../companies/pinterest.md) · [Netflix (107)](../companies/netflix.md) · [Snapchat (87)](../companies/snapchat.md) · [Reddit (47)](../companies/reddit.md) · [Yelp (22)](../companies/yelp.md) · [Discord (11)](../companies/discord.md)
+**Companies:** [Meta (488)](../companies/meta.md) · [Google (382)](../companies/google.md) · [ByteDance (343)](../companies/bytedance.md) · [LinkedIn (144)](../companies/linkedin.md) · [Pinterest (128)](../companies/pinterest.md) · [Netflix (107)](../companies/netflix.md) · [Snapchat (87)](../companies/snapchat.md) · [Reddit (45)](../companies/reddit.md) · [Yelp (22)](../companies/yelp.md) · [Discord (11)](../companies/discord.md)
 
 <sub>Page [1](consumer-internet.md) · [2](consumer-internet-2.md) · [3](consumer-internet-3.md) · **4**</sub>
 
@@ -25,8 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[ByteDance](../companies/bytedance.md)** | [(Hard)](https://trueinterview.io/questions/write-sql-for-tiktok-live-creator-metrics-hard) | Phone | Mid · Senior | SQL | [![Free][f]](https://trueinterview.io/questions/write-sql-for-tiktok-live-creator-metrics-hard) | Oct 9, 2025 |
-| **[Google](../companies/google.md)** | [Solve three coding interview problems](https://trueinterview.io/questions/solve-three-coding-interview-problems) | Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-coding-interview-problems) | Oct 9, 2025 |
 | **[ByteDance](../companies/bytedance.md)** | [Write SQL for TikTok Live creator metrics](https://trueinterview.io/questions/write-sql-for-tiktok-live-creator-metrics) | Phone | Mid · Senior | SQL | [![Free][f]](https://trueinterview.io/questions/write-sql-for-tiktok-live-creator-metrics) | Oct 9, 2025 |
 | **[Meta](../companies/meta.md)** | [Compute interval mode, BST range sum, exclusive time](https://trueinterview.io/questions/compute-interval-mode-bst-range-sum-exclusive-time) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/compute-interval-mode-bst-range-sum-exclusive-time) | Oct 2, 2025 |
 | **[Confluent](../companies/confluent.md)** / [Pinterest](../companies/pinterest.md) | [Design Delayed Tasks Scheduler](https://trueinterview.io/questions/design-delayed-tasks-scheduler) | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-delayed-tasks-scheduler) | Oct 2025 |
@@ -304,7 +302,6 @@
 | **[Rippling](../companies/rippling.md)** / [ByteDance](../companies/bytedance.md) / [Meta](../companies/meta.md) | [Longest Consecutive Sequence (variation)](https://trueinterview.io/questions/5828fb45-7c92-4a82-89c8-6cb11f8b12e2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5828fb45-7c92-4a82-89c8-6cb11f8b12e2) | — |
 | **[Meta](../companies/meta.md)** | [Longest Increasing Sequence in BST](https://trueinterview.io/questions/366ab104-e87e-4aa3-ac9b-5763f0517723) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/366ab104-e87e-4aa3-ac9b-5763f0517723) | — |
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) | [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | — |
-| **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
 | **[ByteDance](../companies/bytedance.md)** | [LRU Cache with TTL](https://trueinterview.io/questions/5177f4aa-d20c-4ded-b262-94815c6e6a0c) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/5177f4aa-d20c-4ded-b262-94815c6e6a0c) | — |
 | **[Meta](../companies/meta.md)** | [Manage promotions and project portfolio tradeoffs](https://trueinterview.io/questions/manage-promotions-and-project-portfolio-tradeoffs) | Onsite | Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/manage-promotions-and-project-portfolio-tradeoffs) | — |
 | **[LinkedIn](../companies/linkedin.md)** | [Max Consecutive Ones II with Streaming Data Follow-up](https://trueinterview.io/questions/01ba2c98-5ac4-5af8-a69d-7afad6d31da4) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/01ba2c98-5ac4-5af8-a69d-7afad6d31da4) | — |
@@ -359,7 +356,6 @@
 | **[Meta](../companies/meta.md)** | [Shortest Path in Matrix](https://trueinterview.io/questions/4ccc27e6-1070-4dad-b35d-fcc56e2ed8c8) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/4ccc27e6-1070-4dad-b35d-fcc56e2ed8c8) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Show ownership in ambiguous creator-growth work](https://trueinterview.io/questions/show-ownership-in-ambiguous-creator-growth-work) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/show-ownership-in-ambiguous-creator-growth-work) | — |
 | **[Meta](../companies/meta.md)** | [Size opportunity and prioritize experiments](https://trueinterview.io/questions/size-opportunity-and-prioritize-experiments) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/size-opportunity-and-prioritize-experiments) | — |
-| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[ByteDance](../companies/bytedance.md)** / [Pinduoduo](../companies/pinduoduo.md) | [Spiral Matrix Fill](https://trueinterview.io/questions/3b33f241-83ae-4754-af33-8eac2267c5b2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/3b33f241-83ae-4754-af33-8eac2267c5b2) | — |
 | **[Meta](../companies/meta.md)** | [SQL Query for Connected Ad Tables](https://trueinterview.io/questions/a1591988-c338-4582-87e6-3c61cd131eba) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/a1591988-c338-4582-87e6-3c61cd131eba) | — |
 | **[Meta](../companies/meta.md)** | [SQL Query for Data Processing](https://trueinterview.io/questions/604a5e3c-2bb5-495c-bc43-c97818be0c9a) | OA | Intern · New grad | SQL | [![Practice][p]](https://trueinterview.io/questions/604a5e3c-2bb5-495c-bc43-c97818be0c9a) | — |

@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Semiconductors & chips*.
 
-**64 questions** · 4 from an OA · 15 reported in the last 90 days · 32 free to solve
+**63 questions** · 4 from an OA · 15 reported in the last 90 days · 32 free to solve
 
-**By level:** 🎓 Intern & New grad (16) · 🌱 Mid (37) · 🎯 Senior (50) · 🚀 Staff+ (14)
+**By level:** 🎓 Intern & New grad (16) · 🌱 Mid (36) · 🎯 Senior (49) · 🚀 Staff+ (14)
 
-**By role:** 💻 Software Engineering (47) · 🤖 ML, AI & Research (8) · 📊 Data Science & Analytics (8) · 🔧 Hardware Engineering (1)
+**By role:** 💻 Software Engineering (46) · 🤖 ML, AI & Research (8) · 📊 Data Science & Analytics (8) · 🔧 Hardware Engineering (1)
 
-**Rounds:** 📝 OA (4) · 📞 Phone (37) · 🏢 Onsite (32)
+**Rounds:** 📝 OA (4) · 📞 Phone (37) · 🏢 Onsite (31)
 
-**Companies:** [NVIDIA (54)](../companies/nvidia.md) · [AMD (10)](../companies/amd.md)
+**Companies:** [NVIDIA (53)](../companies/nvidia.md) · [AMD (10)](../companies/amd.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -85,5 +85,4 @@
 | **[NVIDIA](../companies/nvidia.md)** | [Reflect on interview takeaways and adaptation](https://trueinterview.io/questions/reflect-on-interview-takeaways-and-adaptation) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/reflect-on-interview-takeaways-and-adaptation) | — |
 | **[NVIDIA](../companies/nvidia.md)** | [Resolve conflict and learn from failure](https://trueinterview.io/questions/resolve-conflict-and-learn-from-failure) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/resolve-conflict-and-learn-from-failure) | — |
 | **[NVIDIA](../companies/nvidia.md)** | [Sell GPUs to a retail CEO](https://trueinterview.io/questions/sell-gpus-to-a-retail-ceo) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/sell-gpus-to-a-retail-ceo) | — |
-| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[NVIDIA](../companies/nvidia.md)** | [SQL Aggregation Across Country/State/City/Zip Tables](https://trueinterview.io/questions/53506fd0-9b04-40be-a6f6-eb349d9f220a) | OA | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/53506fd0-9b04-40be-a6f6-eb349d9f220a) | — |

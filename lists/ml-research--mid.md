@@ -8,11 +8,11 @@
 >
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**185 questions** · 9 from an OA · 47 reported in the last 90 days · 87 free to solve
+**184 questions** · 9 from an OA · 47 reported in the last 90 days · 86 free to solve
 
-**Rounds:** 📝 OA (9) · 📞 Phone (116) · 🏢 Onsite (89)
+**Rounds:** 📝 OA (9) · 📞 Phone (115) · 🏢 Onsite (89)
 
-**Companies:** [Amazon (22)](../companies/amazon.md) · [OpenAI (19)](../companies/openai.md) · [ByteDance (15)](../companies/bytedance.md) · [Anthropic (12)](../companies/anthropic.md) · [Apple (10)](../companies/apple.md) · [Pinterest (10)](../companies/pinterest.md) · [Meta (8)](../companies/meta.md) · [Microsoft (8)](../companies/microsoft.md) · [Google (7)](../companies/google.md) · [Reddit (7)](../companies/reddit.md) · [Uber (7)](../companies/uber.md) · [Snapchat (6)](../companies/snapchat.md) · [DoorDash (5)](../companies/doordash.md) · [Scale AI (5)](../companies/scale-ai.md) · [Capital One (4)](../companies/capital-one.md)
+**Companies:** [Amazon (22)](../companies/amazon.md) · [OpenAI (18)](../companies/openai.md) · [ByteDance (15)](../companies/bytedance.md) · [Anthropic (12)](../companies/anthropic.md) · [Apple (10)](../companies/apple.md) · [Pinterest (10)](../companies/pinterest.md) · [Meta (8)](../companies/meta.md) · [Microsoft (8)](../companies/microsoft.md) · [Google (7)](../companies/google.md) · [Reddit (7)](../companies/reddit.md) · [Uber (7)](../companies/uber.md) · [Snapchat (6)](../companies/snapchat.md) · [DoorDash (5)](../companies/doordash.md) · [Scale AI (5)](../companies/scale-ai.md) · [Capital One (4)](../companies/capital-one.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -187,7 +187,6 @@
 | **[Amazon](../companies/amazon.md)** | [Explain surprisal and its units](https://trueinterview.io/questions/explain-surprisal-and-its-units) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-surprisal-and-its-units) | Nov 20, 2025 |
 | **[Apple](../companies/apple.md)** | [Explain Vision Encoders and LLM Bottlenecks](https://trueinterview.io/questions/explain-vision-encoders-and-llm-bottlenecks) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-vision-encoders-and-llm-bottlenecks) | Nov 11, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Choose best prompt for AI code debugging](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | Oct 24, 2025 |
-| **[OpenAI](../companies/openai.md)** | [Design a Resumable Iterator with Checkpoint and Restore](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Oct 18, 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** | [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Oct 10, 2025 |
 | **[Pinterest](../companies/pinterest.md)** | [Explain your ML project end-to-end](https://trueinterview.io/questions/explain-your-ml-project-end-to-end) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-your-ml-project-end-to-end) | Oct 2025 |
 | **[IBM](../companies/ibm.md)** | [1-D Valid Convolution with Multithreading Follow-up](https://trueinterview.io/questions/one-dimensional-valid-convolution) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/one-dimensional-valid-convolution) | Aug 13, 2025 |

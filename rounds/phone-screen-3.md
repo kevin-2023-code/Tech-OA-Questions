@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**3,115 questions** · 10 from an OA · 584 reported in the last 90 days · 1,239 free to solve
+**3,108 questions** · 10 from an OA · 581 reported in the last 90 days · 1,239 free to solve
 
-**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,022) · 🎯 Senior (2,214) · 🚀 Staff+ (573)
+**By level:** 🎓 Intern & New grad (725) · 🌱 Mid (2,017) · 🎯 Senior (2,209) · 🚀 Staff+ (573)
 
-**By role:** 💻 Software Engineering (2,017) · 🤖 ML, AI & Research (244) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
+**By role:** 💻 Software Engineering (2,011) · 🤖 ML, AI & Research (243) · 📊 Data Science & Analytics (656) · 📈 Quantitative Finance (146) · 📱 Product Management (21) · 🔧 Hardware Engineering (10)
 
-**Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (92)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
+**Companies:** [ByteDance (250)](../companies/bytedance.md) · [Meta (250)](../companies/meta.md) · [Amazon (239)](../companies/amazon.md) · [Google (215)](../companies/google.md) · [Uber (148)](../companies/uber.md) · [Apple (136)](../companies/apple.md) · [Microsoft (107)](../companies/microsoft.md) · [Snowflake (102)](../companies/snowflake.md) · [Capital One (99)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [LinkedIn (76)](../companies/linkedin.md) · [DoorDash (68)](../companies/doordash.md) · [Pinterest (68)](../companies/pinterest.md) · [Citadel (66)](../companies/citadel.md) · [Bloomberg (63)](../companies/bloomberg.md) · [Roblox (63)](../companies/roblox.md) · [Karat (61)](../companies/karat.md) · [Oracle (59)](../companies/oracle.md) · [Snapchat (50)](../companies/snapchat.md) · [Stripe (50)](../companies/stripe.md)
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · **3** · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>
 
@@ -21,9 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Airbnb](../companies/airbnb.md)** | [URL Parser with Percent Unquote](https://trueinterview.io/questions/b8f2f270-a472-5c0c-927b-883b8fa80722) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b8f2f270-a472-5c0c-927b-883b8fa80722) | Aug 2026 |
-| **[Airbnb](../companies/airbnb.md)** | [URL Query Parameter Parsing](https://trueinterview.io/questions/url-query-string-parser) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/url-query-string-parser) | Aug 2026 |
-| **[Microsoft](../companies/microsoft.md)** | [URL Shortener / Tiny URL System Design](https://trueinterview.io/questions/url-shortener-system-design) | Phone · Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/url-shortener-system-design) | Aug 2026 |
 | **[Meta](../companies/meta.md)** / [eBay](../companies/ebay.md) | [Valid Number](https://trueinterview.io/questions/lc-valid-number) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/lc-valid-number) | Aug 2026 |
 | **[Meta](../companies/meta.md)** / [Microsoft](../companies/microsoft.md) | [Valid Palindrome II](https://trueinterview.io/questions/valid-palindrome-ii) | Phone · Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/valid-palindrome-ii) | Aug 2026 |
 | **[Apple](../companies/apple.md)** | [Validate and Aggregate HTTP Access Logs](https://trueinterview.io/questions/a0c61319-db55-58db-871b-be9dff51aee8) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/a0c61319-db55-58db-871b-be9dff51aee8) | Aug 2026 |
@@ -421,5 +418,8 @@
 | **[Amazon](../companies/amazon.md)** | [Describe handling deadlines, pride, and conflict](https://trueinterview.io/questions/describe-handling-deadlines-pride-and-conflict) | Phone | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-handling-deadlines-pride-and-conflict) | May 2026 |
 | **[Google](../companies/google.md)** | [Describe Helping an Underperforming Peer](https://trueinterview.io/questions/describe-helping-an-underperforming-peer) | Phone | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-helping-an-underperforming-peer) | May 2026 |
 | **[Point72](../companies/point72.md)** | [Design a News-Filtering Prompt](https://trueinterview.io/questions/design-a-news-filtering-prompt) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/design-a-news-filtering-prompt) | May 2026 |
+| **[OpenAI](../companies/openai.md)** | [Design a Slack-Like Messaging System](https://trueinterview.io/questions/design-a-slack-like-messaging-system-3) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-slack-like-messaging-system-3) | May 2026 |
+| **[eBay](../companies/ebay.md)** | [Design an Ad Assignment API](https://trueinterview.io/questions/design-an-ad-assignment-api) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-ad-assignment-api) | May 2026 |
+| **[Amazon](../companies/amazon.md)** | [Design an index to find sentences by word; support deletion and updates](https://trueinterview.io/questions/f7fffbca-6c71-40fc-b20a-76ec9e879320) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f7fffbca-6c71-40fc-b20a-76ec9e879320) | May 2026 |
 
 <sub>Page [1](phone-screen.md) · [2](phone-screen-2.md) · **3** · [4](phone-screen-4.md) · [5](phone-screen-5.md) · [6](phone-screen-6.md) · [7](phone-screen-7.md) · [8](phone-screen-8.md)</sub>

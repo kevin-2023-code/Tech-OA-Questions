@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Enterprise & business software*.
 
-**719 questions** · 99 from an OA · 153 reported in the last 90 days · 234 free to solve
+**714 questions** · 99 from an OA · 152 reported in the last 90 days · 234 free to solve
 
-**By level:** 🎓 Intern & New grad (176) · 🌱 Mid (430) · 🎯 Senior (528) · 🚀 Staff+ (77)
+**By level:** 🎓 Intern & New grad (174) · 🌱 Mid (427) · 🎯 Senior (523) · 🚀 Staff+ (77)
 
-**By role:** 💻 Software Engineering (608) · 🤖 ML, AI & Research (45) · 📊 Data Science & Analytics (56) · 📈 Quantitative Finance (3) · 📱 Product Management (2)
+**By role:** 💻 Software Engineering (603) · 🤖 ML, AI & Research (45) · 📊 Data Science & Analytics (56) · 📈 Quantitative Finance (3) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (99) · 📞 Phone (349) · 🏢 Onsite (325) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (99) · 📞 Phone (347) · 🏢 Onsite (322) · 🏠 Take-home (1)
 
-**Companies:** [Microsoft (240)](../companies/microsoft.md) · [Oracle (115)](../companies/oracle.md) · [Salesforce (99)](../companies/salesforce.md) · [Atlassian (63)](../companies/atlassian.md) · [Rippling (58)](../companies/rippling.md) · [Intuit (38)](../companies/intuit.md) · [Figma (29)](../companies/figma.md) · [Tradedesk (22)](../companies/tradedesk.md) · [Dropbox (21)](../companies/dropbox.md) · [HubSpot (13)](../companies/hubspot.md) · [Palantir (12)](../companies/palantir.md) · [Airtable (11)](../companies/airtable.md) · [Amplitude (8)](../companies/amplitude.md) · [Bobyard (7)](../companies/bobyard.md) · [Gusto (6)](../companies/gusto.md) · [Rokt (5)](../companies/rokt.md) · [StackAdapt (5)](../companies/stackadapt.md)
+**Companies:** [Microsoft (239)](../companies/microsoft.md) · [Oracle (113)](../companies/oracle.md) · [Salesforce (99)](../companies/salesforce.md) · [Atlassian (62)](../companies/atlassian.md) · [Rippling (56)](../companies/rippling.md) · [Intuit (38)](../companies/intuit.md) · [Figma (29)](../companies/figma.md) · [Tradedesk (22)](../companies/tradedesk.md) · [Dropbox (21)](../companies/dropbox.md) · [HubSpot (13)](../companies/hubspot.md) · [Palantir (12)](../companies/palantir.md) · [Airtable (10)](../companies/airtable.md) · [Amplitude (8)](../companies/amplitude.md) · [Bobyard (7)](../companies/bobyard.md) · [Gusto (6)](../companies/gusto.md) · [StackAdapt (5)](../companies/stackadapt.md) · [Rokt (4)](../companies/rokt.md)
 
 <sub>Page **1** · [2](enterprise-saas-2.md)</sub>
 
@@ -78,7 +78,6 @@
 | **[Rippling](../companies/rippling.md)** | [Explain Your Current and Previous Engineering Roles](https://trueinterview.io/questions/explain-your-current-and-previous-engineering-roles) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-your-current-and-previous-engineering-roles) | Sep 13, 2026 |
 | **[Rippling](../companies/rippling.md)** | [Explain Your Reason for Changing Roles and Your Interest in the Team](https://trueinterview.io/questions/explain-your-reason-for-changing-roles-and-your-interest-in-the-team) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-your-reason-for-changing-roles-and-your-interest-in-the-team) | Sep 13, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Count Islands and Return the Largest Island Size](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/count-islands-and-return-the-largest-island-size) | Sep 11, 2026 |
-| **[Rippling](../companies/rippling.md)** | [Extend an Expense Rules Engine with Nested Boolean Conditions](https://trueinterview.io/questions/extend-an-expense-rules-engine-with-nested-boolean-conditions) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/extend-an-expense-rules-engine-with-nested-boolean-conditions) | Sep 11, 2026 |
 | **[Oracle](../companies/oracle.md)** | [Troubleshoot a Frontend Failure in a Client-Server Application](https://trueinterview.io/questions/troubleshoot-a-frontend-failure-in-a-client-server-application) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/troubleshoot-a-frontend-failure-in-a-client-server-application) | Sep 11, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Adapt When Project Requirements Change Midway](https://trueinterview.io/questions/adapt-when-project-requirements-change-midway) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/adapt-when-project-requirements-change-midway) | Sep 10, 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a Global One-to-One Voice Calling System](https://trueinterview.io/questions/design-a-global-one-to-one-voice-calling-system) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-global-one-to-one-voice-calling-system) | Sep 10, 2026 |
@@ -425,5 +424,6 @@
 | **[Uber](../companies/uber.md)** / [Microsoft](../companies/microsoft.md) | [Check Prefix Permutation](https://trueinterview.io/questions/oa-permutation-prefix-balanced) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/oa-permutation-prefix-balanced) | Mar 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [CUDA Vibe Coding: Implement or Optimize a CUDA Kernel](https://trueinterview.io/questions/8eb54136-fc2f-4f32-b89d-b97c5fbf9e38) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/8eb54136-fc2f-4f32-b89d-b97c5fbf9e38) | Mar 2026 |
 | **[Rippling](../companies/rippling.md)** | [Delivery Problem](https://trueinterview.io/questions/9723bf30-4088-44d6-819e-b5dbee4d6c4b) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/9723bf30-4088-44d6-819e-b5dbee4d6c4b) | Mar 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Describe motivation, ownership, and conflict](https://trueinterview.io/questions/describe-motivation-ownership-and-conflict) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-motivation-ownership-and-conflict) | Mar 2026 |
 
 <sub>Page **1** · [2](enterprise-saas-2.md)</sub>

@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice ByteDance on TrueInterview](https://trueinterview.io/problems/company/bytedance) · [How ByteDance interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/bytedance/README.md)
 
-📱 Consumer internet & media · **344 questions** · 36 from an OA · last reported Oct 2026
+📱 Consumer internet & media · **343 questions** · 36 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (97) · 🌱 Mid (227) · 🎯 Senior (230) · 🚀 Staff+ (65)
+**By level:** 🎓 Intern & New grad (96) · 🌱 Mid (226) · 🎯 Senior (229) · 🚀 Staff+ (65)
 
-**By role:** 💻 Software Engineering (239) · 🤖 ML, AI & Research (28) · 📊 Data Science & Analytics (64) · 📈 Quantitative Finance (4) · 📱 Product Management (2)
+**By role:** 💻 Software Engineering (238) · 🤖 ML, AI & Research (28) · 📊 Data Science & Analytics (64) · 📈 Quantitative Finance (4) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (36) · 📞 Phone (250) · 🏢 Onsite (94)
+**Rounds:** 📝 OA (36) · 📞 Phone (250) · 🏢 Onsite (93)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/bytedance-interview-process) · [SWE](https://trueinterview.io/study/bytedance-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/bytedance-machine-learning-engineer-interview-process) · [Infra](https://trueinterview.io/study/bytedance-infrastructure-engineer-interview-process) · [Frontend](https://trueinterview.io/study/bytedance-frontend-engineer-interview-process)
 
@@ -346,7 +346,6 @@
 | [Investigate visit–report correlation causality](https://trueinterview.io/questions/investigate-visitreport-correlation-causality) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/investigate-visitreport-correlation-causality) | — |
 | [Longest Consecutive Sequence (variation)](https://trueinterview.io/questions/5828fb45-7c92-4a82-89c8-6cb11f8b12e2)<br><sub>also [Rippling](../companies/rippling.md) / [Meta](../companies/meta.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5828fb45-7c92-4a82-89c8-6cb11f8b12e2) | — |
 | [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0)<br><sub>also [Verkada](../companies/verkada.md) / [Amazon](../companies/amazon.md)</sub> | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | — |
-| [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51)<br><sub>also [Verkada](../companies/verkada.md) / [Amazon](../companies/amazon.md) / [Goldman Sachs](../companies/goldman-sachs.md) / +2</sub> | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
 | [LRU Cache with TTL](https://trueinterview.io/questions/5177f4aa-d20c-4ded-b262-94815c6e6a0c) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/5177f4aa-d20c-4ded-b262-94815c6e6a0c) | — |
 | [Maximize products bought under budget](https://trueinterview.io/questions/maximize-products-bought-under-budget) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-products-bought-under-budget) | — |
 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9)<br><sub>also [Apple](../companies/apple.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +3</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | — |

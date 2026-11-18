@@ -6,13 +6,13 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,059 questions** · 252 from an OA · 726 reported in the last 90 days · 1,626 free to solve
+**4,045 questions** · 249 from an OA · 721 reported in the last 90 days · 1,625 free to solve
 
-**By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
+**By role:** 💻 Software Engineering (2,480) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
-**Rounds:** 📝 OA (252) · 📞 Phone (2,214) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
+**Rounds:** 📝 OA (249) · 📞 Phone (2,209) · 🏢 Onsite (1,866) · 🏠 Take-home (9)
 
-**Companies:** [Meta (398)](../companies/meta.md) · [Amazon (287)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (230)](../companies/bytedance.md) · [Uber (190)](../companies/uber.md) · [Microsoft (166)](../companies/microsoft.md) · [OpenAI (158)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (118)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Oracle (82)](../companies/oracle.md) · [Anthropic (81)](../companies/anthropic.md)
+**Companies:** [Meta (397)](../companies/meta.md) · [Amazon (284)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (229)](../companies/bytedance.md) · [Uber (189)](../companies/uber.md) · [Microsoft (165)](../companies/microsoft.md) · [OpenAI (156)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (117)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Anthropic (81)](../companies/anthropic.md) · [Oracle (80)](../companies/oracle.md)
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · [3](senior-3.md) · [4](senior-4.md) · [5](senior-5.md) · [6](senior-6.md) · [7](senior-7.md) · [8](senior-8.md) · [9](senior-9.md) · [10](senior-10.md) · **11**</sub>
 
@@ -23,20 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Amazon](../companies/amazon.md)** | [Window Function to Rank Within Group](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/7b6eaf32-be9a-48d3-9c05-20c0ae41c795) | — |
-| **[Confluent](../companies/confluent.md)** | [Windowed Key-Value Store](https://trueinterview.io/questions/windowed-key-value-store) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/windowed-key-value-store) | — |
-| **[Hudson River Trading](../companies/hudson-river-trading.md)** / [Google](../companies/google.md) | [Winner in a Dot Grid Game](https://trueinterview.io/questions/winner-in-a-dot-grid-game-2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/winner-in-a-dot-grid-game-2) | — |
-| **[Rubrik](../companies/rubrik.md)** | [Word Compression](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/2931217b-ce76-45b1-bc55-c2cff7736271) | — |
-| **[Square](../companies/square.md)** | [Word Rewriter That Keeps Punctuation in Place](https://trueinterview.io/questions/pig-latin-word-transform) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/pig-latin-word-transform) | — |
-| **[PayPal](../companies/paypal.md)** | [Word Search in 2D Grid with Diagonal Moves](https://trueinterview.io/questions/2368bd69-e229-442c-ba36-d37839e9d530) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/2368bd69-e229-442c-ba36-d37839e9d530) | — |
-| **[Karat](../companies/karat.md)** | [Word Wrap and Full Justification for a Text Editor](https://trueinterview.io/questions/word-wrap-text-justification) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/word-wrap-text-justification) | — |
-| **[Meta](../companies/meta.md)** | [Write advanced SQL for sales support analytics](https://trueinterview.io/questions/write-advanced-sql-for-sales-support-analytics) | Phone | Senior · Staff+ | SQL | [![Practice][p]](https://trueinterview.io/questions/write-advanced-sql-for-sales-support-analytics) | — |
-| **[DoorDash](../companies/doordash.md)** | [Write complex SQL on DoorDash data](https://trueinterview.io/questions/write-complex-sql-on-doordash-data) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-complex-sql-on-doordash-data) | — |
-| **[Meta](../companies/meta.md)** | [Write dating profile report with final reviews](https://trueinterview.io/questions/write-dating-profile-report-with-final-reviews) | Onsite | Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-dating-profile-report-with-final-reviews) | — |
-| **[Pinterest](../companies/pinterest.md)** | [Write SQL and pandas for shopping events](https://trueinterview.io/questions/write-sql-and-pandas-for-shopping-events) | Phone | Senior · Staff+ | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-and-pandas-for-shopping-events) | — |
-| **[Uber](../companies/uber.md)** | [Write SQL and Pandas for Uber Trips](https://trueinterview.io/questions/write-sql-and-pandas-for-uber-trips) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-and-pandas-for-uber-trips) | — |
-| **[Coinbase](../companies/coinbase.md)** | [Write SQL and Python for funnels/retention](https://trueinterview.io/questions/write-sql-and-python-for-funnels-retention) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-and-python-for-funnels-retention) | — |
-| **[Robinhood](../companies/robinhood.md)** | [Write SQL and Python for transaction analytics](https://trueinterview.io/questions/write-sql-and-python-for-transaction-analytics) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-and-python-for-transaction-analytics) | — |
 | **[Meta](../companies/meta.md)** | [Write SQL filtering, grouping, CASE, UNION tasks](https://trueinterview.io/questions/write-sql-filtering-grouping-case-union-tasks) | Phone | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-filtering-grouping-case-union-tasks) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Write SQL for 7-day geo-localized revenue dashboard](https://trueinterview.io/questions/write-sql-for-7-day-geo-localized-revenue-dashboard) | Phone | Senior · Staff+ | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-7-day-geo-localized-revenue-dashboard) | — |
 | **[Meta](../companies/meta.md)** | [Write SQL for 7-day WhatsApp call metrics](https://trueinterview.io/questions/write-sql-for-7-day-whatsapp-call-metrics) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/write-sql-for-7-day-whatsapp-call-metrics) | — |

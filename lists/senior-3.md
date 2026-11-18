@@ -6,13 +6,13 @@
 
 > **Level:** Reported at a **Senior** loop (≈ L5 / E5 / SDE III).
 
-**4,059 questions** · 252 from an OA · 726 reported in the last 90 days · 1,626 free to solve
+**4,045 questions** · 249 from an OA · 721 reported in the last 90 days · 1,625 free to solve
 
-**By role:** 💻 Software Engineering (2,493) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
+**By role:** 💻 Software Engineering (2,480) · 🤖 ML, AI & Research (385) · 📊 Data Science & Analytics (957) · 📈 Quantitative Finance (128) · 📱 Product Management (41) · 🔧 Hardware Engineering (9)
 
-**Rounds:** 📝 OA (252) · 📞 Phone (2,214) · 🏢 Onsite (1,872) · 🏠 Take-home (9)
+**Rounds:** 📝 OA (249) · 📞 Phone (2,209) · 🏢 Onsite (1,866) · 🏠 Take-home (9)
 
-**Companies:** [Meta (398)](../companies/meta.md) · [Amazon (287)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (230)](../companies/bytedance.md) · [Uber (190)](../companies/uber.md) · [Microsoft (166)](../companies/microsoft.md) · [OpenAI (158)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (118)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Oracle (82)](../companies/oracle.md) · [Anthropic (81)](../companies/anthropic.md)
+**Companies:** [Meta (397)](../companies/meta.md) · [Amazon (284)](../companies/amazon.md) · [Google (231)](../companies/google.md) · [ByteDance (229)](../companies/bytedance.md) · [Uber (189)](../companies/uber.md) · [Microsoft (165)](../companies/microsoft.md) · [OpenAI (156)](../companies/openai.md) · [Capital One (145)](../companies/capital-one.md) · [Apple (123)](../companies/apple.md) · [DoorDash (121)](../companies/doordash.md) · [LinkedIn (117)](../companies/linkedin.md) · [Pinterest (95)](../companies/pinterest.md) · [Netflix (87)](../companies/netflix.md) · [Anthropic (81)](../companies/anthropic.md) · [Oracle (80)](../companies/oracle.md)
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · **3** · [4](senior-4.md) · [5](senior-5.md) · [6](senior-6.md) · [7](senior-7.md) · [8](senior-8.md) · [9](senior-9.md) · [10](senior-10.md) · [11](senior-11.md)</sub>
 
@@ -23,11 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Waymo](../companies/waymo.md)** | [SWE Resume Deep Dive: Technologies and Outcome Metrics](https://trueinterview.io/questions/swe-resume-deep-dive-technologies-metrics) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/swe-resume-deep-dive-technologies-metrics) | Aug 11, 2026 |
-| **[Uber](../companies/uber.md)** / [Pinduoduo](../companies/pinduoduo.md) | [Minesweeper (LC 529)](https://trueinterview.io/questions/onsite-coding-minesweeper-lc-529) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/onsite-coding-minesweeper-lc-529) | Aug 10, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Run-Length String Compression](https://trueinterview.io/questions/run-length-string-compression) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/run-length-string-compression) | Aug 10, 2026 |
-| **[Oracle](../companies/oracle.md)** | [Two-Value Exchange Warm-Up](https://trueinterview.io/questions/swap-two-values-without-temp) | Onsite | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/swap-two-values-without-temp) | Aug 10, 2026 |
-| **[Harvey](../companies/harvey.md)** | [Citation Highlighting](https://trueinterview.io/questions/citation-highlighting) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/citation-highlighting) | Aug 9, 2026 |
 | **[Airwallex](../companies/airwallex.md)** | [Design a High-Demand Ticketing System](https://trueinterview.io/questions/design-a-high-demand-ticketing-system) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-high-demand-ticketing-system) | Aug 9, 2026 |
 | **[Apple](../companies/apple.md)** | [Large-Scale Media Transfer to ML Compute](https://trueinterview.io/questions/large-scale-media-transfer-to-ml-compute) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/large-scale-media-transfer-to-ml-compute) | Aug 8, 2026 |
 | **[Affirm](../companies/affirm.md)** | [Aggregate Recent Transactions](https://trueinterview.io/questions/aggregate-recent-transactions) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/aggregate-recent-transactions) | Aug 7, 2026 |
@@ -423,5 +418,10 @@
 | **[Rippling](../companies/rippling.md)** | [Expense System](https://trueinterview.io/questions/expense-rules-engine) | Phone · Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/expense-rules-engine) | Jun 18, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Project Duration & Budget per Employee](https://trueinterview.io/questions/sql-project-duration-budget-per-employee) | Phone | Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/sql-project-duration-budget-per-employee) | Jun 18, 2026 |
 | **[Uber](../companies/uber.md)** | [App User Behavior Data Platform](https://trueinterview.io/questions/onsite-sd-app-user-behavior-data-platform) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/onsite-sd-app-user-behavior-data-platform) | Jun 17, 2026 |
+| **[Airbnb](../companies/airbnb.md)** | [Design Customer Support Ticketing System](https://trueinterview.io/questions/ticket-routing-system-design) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ticket-routing-system-design) | Jun 17, 2026 |
+| **[Applied Intuition](../companies/applied-intuition.md)** | [Design Parsing Boundaries for Interdependent Message Types](https://trueinterview.io/questions/design-parsing-boundaries-for-interdependent-message-types) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-parsing-boundaries-for-interdependent-message-types) | Jun 17, 2026 |
+| **[Bloomberg](../companies/bloomberg.md)** | [Behavioral Question Pool](https://trueinterview.io/questions/behavioral-question-pool) | Phone · Onsite | Intern · New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/behavioral-question-pool) | Jun 16, 2026 |
+| **[Bloomberg](../companies/bloomberg.md)** | [Design Underground System](https://trueinterview.io/questions/design-underground-system) | Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-underground-system) | Jun 16, 2026 |
+| **[Uber](../companies/uber.md)** | [Rate Limiter (Coding + Trade-offs)](https://trueinterview.io/questions/phone-screen-rate-limiter) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/phone-screen-rate-limiter) | Jun 16, 2026 |
 
 <sub>Page [1](senior.md) · [2](senior-2.md) · **3** · [4](senior-4.md) · [5](senior-5.md) · [6](senior-6.md) · [7](senior-7.md) · [8](senior-8.md) · [9](senior-9.md) · [10](senior-10.md) · [11](senior-11.md)</sub>

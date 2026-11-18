@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Verkada on TrueInterview](https://trueinterview.io/problems/company/verkada) · [How Verkada interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/verkada/README.md)
 
-🔒 Cybersecurity · **32 questions** · 1 from an OA · last reported Sep 2026
+🔒 Cybersecurity · **31 questions** · 1 from an OA · last reported Sep 2026
 
-**By level:** 🎓 Intern & New grad (5) · 🌱 Mid (26) · 🎯 Senior (12) · 🚀 Staff+ (4)
+**By level:** 🎓 Intern & New grad (4) · 🌱 Mid (25) · 🎯 Senior (11) · 🚀 Staff+ (4)
 
-**By role:** 💻 Software Engineering (31) · 📈 Quantitative Finance (1)
+**By role:** 💻 Software Engineering (30) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (1) · 📞 Phone (20) · 🏢 Onsite (14)
+**Rounds:** 📝 OA (1) · 📞 Phone (20) · 🏢 Onsite (13)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -50,4 +50,3 @@
 | [Tree Diameter](https://trueinterview.io/questions/1553f8b2-f647-5b6c-82c7-e48852add677)<br><sub>also [Citadel](../companies/citadel.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1553f8b2-f647-5b6c-82c7-e48852add677) | Nov 2025 |
 | [Implement APIs in a Flask Application](https://trueinterview.io/questions/b1ddfa0e-5157-4aac-9de4-6777f33c983a) | Onsite | Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/b1ddfa0e-5157-4aac-9de4-6777f33c983a) | Mar 2025 |
 | [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md)</sub> | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | — |
-| [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51)<br><sub>also [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / [Goldman Sachs](../companies/goldman-sachs.md) / +2</sub> | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |

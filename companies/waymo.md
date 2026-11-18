@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Waymo on TrueInterview](https://trueinterview.io/problems/company/waymo) · [How Waymo interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/waymo/README.md)
 
-🚗 Autonomy, automotive & mobility · **87 questions** · 12 from an OA · last reported Oct 2026
+🚗 Autonomy, automotive & mobility · **86 questions** · 12 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (11) · 🌱 Mid (41) · 🎯 Senior (61) · 🚀 Staff+ (5)
+**By level:** 🎓 Intern & New grad (11) · 🌱 Mid (40) · 🎯 Senior (60) · 🚀 Staff+ (5)
 
-**By role:** 💻 Software Engineering (61) · 🤖 ML, AI & Research (13) · 📊 Data Science & Analytics (11) · 📈 Quantitative Finance (1)
+**By role:** 💻 Software Engineering (60) · 🤖 ML, AI & Research (13) · 📊 Data Science & Analytics (11) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (12) · 📞 Phone (44) · 🏢 Onsite (35)
+**Rounds:** 📝 OA (12) · 📞 Phone (44) · 🏢 Onsite (34)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/waymo-interview-process)
 
@@ -107,4 +107,3 @@
 | [Parking Lot + Robotaxi Dispatch](https://trueinterview.io/questions/sd-parking-and-dispatch) | Onsite | Senior | System design | [![Free][f]](https://trueinterview.io/questions/sd-parking-and-dispatch) | Sep 29, 2025 |
 | [Sparse Matrix Left- and Right-Multiply Vector](https://trueinterview.io/questions/sparse-matrix-vector-multiply) | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/sparse-matrix-vector-multiply) | Sep 29, 2025 |
 | [How compare Waymo turning trajectories statistically](https://trueinterview.io/questions/how-compare-waymo-turning-trajectories-statistically) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-compare-waymo-turning-trajectories-statistically) | — |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |

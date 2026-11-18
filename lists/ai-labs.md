@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *AI labs & AI infrastructure*.
 
-**503 questions** · 39 from an OA · 150 reported in the last 90 days · 170 free to solve
+**499 questions** · 39 from an OA · 149 reported in the last 90 days · 169 free to solve
 
-**By level:** 🎓 Intern & New grad (95) · 🌱 Mid (307) · 🎯 Senior (427) · 🚀 Staff+ (85)
+**By level:** 🎓 Intern & New grad (95) · 🌱 Mid (304) · 🎯 Senior (424) · 🚀 Staff+ (85)
 
-**By role:** 💻 Software Engineering (377) · 🤖 ML, AI & Research (103) · 📊 Data Science & Analytics (14) · 📈 Quantitative Finance (2) · 📱 Product Management (3)
+**By role:** 💻 Software Engineering (374) · 🤖 ML, AI & Research (102) · 📊 Data Science & Analytics (14) · 📈 Quantitative Finance (2) · 📱 Product Management (3)
 
-**Rounds:** 📝 OA (39) · 📞 Phone (263) · 🏢 Onsite (251) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (39) · 📞 Phone (260) · 🏢 Onsite (250) · 🏠 Take-home (5)
 
-**Companies:** [OpenAI (175)](../companies/openai.md) · [Anthropic (99)](../companies/anthropic.md) · [C3.ai (55)](../companies/c3-ai.md) · [xAI (43)](../companies/xai.md) · [Scale AI (35)](../companies/scale-ai.md) · [Perplexity (25)](../companies/perplexity.md) · [Harvey (23)](../companies/harvey.md) · [Mercor (14)](../companies/mercor.md) · [Microsoft AI (13)](../companies/microsoft-ai.md) · [Mistral AI (9)](../companies/mistral-ai.md) · [Cursor (7)](../companies/cursor.md) · [Luma AI (6)](../companies/luma-ai.md) · [Moveworks (6)](../companies/moveworks.md) · [Together AI (6)](../companies/together-ai.md) · [Cohere (3)](../companies/cohere.md)
+**Companies:** [OpenAI (172)](../companies/openai.md) · [Anthropic (99)](../companies/anthropic.md) · [C3.ai (55)](../companies/c3-ai.md) · [xAI (42)](../companies/xai.md) · [Scale AI (35)](../companies/scale-ai.md) · [Perplexity (25)](../companies/perplexity.md) · [Harvey (23)](../companies/harvey.md) · [Mercor (14)](../companies/mercor.md) · [Microsoft AI (13)](../companies/microsoft-ai.md) · [Mistral AI (9)](../companies/mistral-ai.md) · [Cursor (7)](../companies/cursor.md) · [Luma AI (6)](../companies/luma-ai.md) · [Moveworks (6)](../companies/moveworks.md) · [Together AI (6)](../companies/together-ai.md) · [Cohere (3)](../companies/cohere.md)
 
 <sub>Page **1** · [2](ai-labs-2.md)</sub>
 
@@ -164,7 +164,6 @@
 | **[Anthropic](../companies/anthropic.md)** | [Review and Scale an Inference Service Design](https://trueinterview.io/questions/review-and-scale-an-inference-service-design) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/review-and-scale-an-inference-service-design) | Aug 27, 2026 |
 | **[Scale AI](../companies/scale-ai.md)** | [Design and Simulate a Four-Player Card Game](https://trueinterview.io/questions/design-and-simulate-a-four-player-card-game) | Phone | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-simulate-a-four-player-card-game) | Aug 26, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Implement a Duplicate-File Reporter](https://trueinterview.io/questions/implement-a-duplicate-file-reporter) | Phone | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-duplicate-file-reporter) | Aug 24, 2026 |
-| **[OpenAI](../companies/openai.md)** | [Design Alternating Card Dealing and Hand Comparison](https://trueinterview.io/questions/design-alternating-card-dealing-and-hand-comparison) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-alternating-card-dealing-and-hand-comparison) | Aug 23, 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Explain Your Motivation and Practical Approach to AI Safety](https://trueinterview.io/questions/explain-your-motivation-and-practical-approach-to-ai-safety) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-your-motivation-and-practical-approach-to-ai-safety) | Aug 22, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Image Sharing with Content Deduplication](https://trueinterview.io/questions/image-sharing-content-deduplication) | Phone · Onsite | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/image-sharing-content-deduplication) | Aug 22, 2026 |
 | **[C3.ai](../companies/c3-ai.md)** | [Compare Transformers and RNNs and Derive Attention Complexity](https://trueinterview.io/questions/compare-transformers-and-rnns-and-derive-attention-complexity) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-transformers-and-rnns-and-derive-attention-complexity) | Aug 21, 2026 |
@@ -415,7 +414,6 @@
 | **[xAI](../companies/xai.md)** | [Maximum Number of Distinct Elements After Operations](https://trueinterview.io/questions/maximum-number-of-distinct-elements-after-operations) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/maximum-number-of-distinct-elements-after-operations) | Jan 15, 2026 |
 | **[xAI](../companies/xai.md)** | [Multithreaded Array Sort](https://trueinterview.io/questions/parallel-integer-sort) | Phone · Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/parallel-integer-sort) | Jan 15, 2026 |
 | **[xAI](../companies/xai.md)** | [K-th Element on a Streaming Time Window](https://trueinterview.io/questions/kth-element-streaming-window) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/kth-element-streaming-window) | Jan 14, 2026 |
-| **[OpenAI](../companies/openai.md)** | [Implement a memory allocator with malloc/free](https://trueinterview.io/questions/implement-a-memory-allocator-with-malloc-free) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-memory-allocator-with-malloc-free) | Jan 9, 2026 |
 | **[Perplexity](../companies/perplexity.md)** | [Byte Tokenizer](https://trueinterview.io/questions/8edaef48-6a51-41bc-aa63-1a491ca4bcf3) | OA | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/8edaef48-6a51-41bc-aa63-1a491ca4bcf3) | Jan 6, 2026 |
 | **[OpenAI](../companies/openai.md)** | [Explain KV cache in Transformer inference](https://trueinterview.io/questions/explain-kv-cache-in-transformer-inference) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-kv-cache-in-transformer-inference) | Jan 6, 2026 |
 | **[xAI](../companies/xai.md)** | [Handwrite parallelized sort](https://trueinterview.io/questions/a370ccf4-60ff-4255-9311-2434fb8a56ac) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/a370ccf4-60ff-4255-9311-2434fb8a56ac) | Jan 2026 |
@@ -425,5 +423,7 @@
 | **[Anthropic](../companies/anthropic.md)** | [Python Class and Data Structures](https://trueinterview.io/questions/1c35c2c1-9209-49c2-8ad6-aca71db1ffdb) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/1c35c2c1-9209-49c2-8ad6-aca71db1ffdb) | Jan 2026 |
 | **[OpenAI](../companies/openai.md)** | [Design a chatbot fallback for unknown questions](https://trueinterview.io/questions/design-a-chatbot-fallback-for-unknown-questions) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-chatbot-fallback-for-unknown-questions) | Dec 15, 2025 |
 | **[OpenAI](../companies/openai.md)** | [Design a harmful video content moderation system](https://trueinterview.io/questions/design-a-harmful-video-content-moderation-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-harmful-video-content-moderation-system) | Dec 15, 2025 |
+| **[OpenAI](../companies/openai.md)** | [Design a recommendation system end-to-end](https://trueinterview.io/questions/design-a-recommendation-system-end-to-end) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-recommendation-system-end-to-end) | Dec 15, 2025 |
+| **[OpenAI](../companies/openai.md)** | [Design a regional surge pricing strategy](https://trueinterview.io/questions/design-a-regional-surge-pricing-strategy) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-regional-surge-pricing-strategy) | Dec 15, 2025 |
 
 <sub>Page **1** · [2](ai-labs-2.md)</sub>

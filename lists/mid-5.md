@@ -6,13 +6,13 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 483 from an OA · 700 reported in the last 90 days · 1,174 free to solve
+**3,438 questions** · 480 from an OA · 696 reported in the last 90 days · 1,172 free to solve
 
-**By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
+**By role:** 💻 Software Engineering (2,514) · 🤖 ML, AI & Research (184) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
-**Rounds:** 📝 OA (483) · 📞 Phone (2,022) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (480) · 📞 Phone (2,017) · 🏢 Onsite (1,224) · 🏠 Take-home (6)
 
-**Companies:** [Amazon (297)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (257)](../companies/meta.md) · [ByteDance (227)](../companies/bytedance.md) · [Microsoft (152)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (82)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
+**Companies:** [Amazon (294)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (256)](../companies/meta.md) · [ByteDance (226)](../companies/bytedance.md) · [Microsoft (151)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (87)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (81)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
 
 <sub>Page [1](mid.md) · [2](mid-2.md) · [3](mid-3.md) · [4](mid-4.md) · **5** · [6](mid-6.md) · [7](mid-7.md) · [8](mid-8.md) · [9](mid-9.md)</sub>
 
@@ -23,11 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Squarepoint](../companies/squarepoint.md)** | [Chunk a List of Lists](https://trueinterview.io/questions/chunk-a-list-of-lists) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/chunk-a-list-of-lists) | Apr 11, 2026 |
-| **[LinkedIn](../companies/linkedin.md)** | [Count Trips From Vehicle Logs](https://trueinterview.io/questions/count-trips-from-vehicle-logs) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/count-trips-from-vehicle-logs) | Apr 11, 2026 |
-| **[Squarepoint](../companies/squarepoint.md)** | [Minimum Idleness After K Flips](https://trueinterview.io/questions/minimum-idleness-after-k-flips) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-idleness-after-k-flips) | Apr 11, 2026 |
-| **[Google](../companies/google.md)** | [Solve Two Array Optimization Problems](https://trueinterview.io/questions/solve-two-array-optimization-problems-2) | Onsite | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-array-optimization-problems-2) | Apr 11, 2026 |
-| **[Salesforce](../companies/salesforce.md)** | [Validate a Generalized Word Abbreviation](https://trueinterview.io/questions/validate-a-generalized-word-abbreviation) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-a-generalized-word-abbreviation) | Apr 11, 2026 |
 | **[Faire](../companies/faire.md)** | [Design an API for Pascal Triangle](https://trueinterview.io/questions/design-an-api-for-pascal-triangle) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-an-api-for-pascal-triangle) | Apr 10, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Extract disallowed URLs for bot user agents](https://trueinterview.io/questions/solve-five-oa-coding-tasks-extract-disallowed-urls-for-bot-user-agents) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-five-oa-coding-tasks-extract-disallowed-urls-for-bot-user-agents) | Apr 10, 2026 |
 | **[Upstart](../companies/upstart.md)** | [Find incorrect digit positions in a sum](https://trueinterview.io/questions/solve-five-oa-coding-tasks-find-incorrect-digit-positions-in-a-sum) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-five-oa-coding-tasks-find-incorrect-digit-positions-in-a-sum) | Apr 10, 2026 |
@@ -423,5 +418,10 @@
 | **[Together AI](../companies/together-ai.md)** | [Detect cycles and break them in pod dependencies](https://trueinterview.io/questions/detect-cycles-and-break-them-in-pod-dependencies) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/detect-cycles-and-break-them-in-pod-dependencies) | Feb 12, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Explain motivation for QA and career goals](https://trueinterview.io/questions/explain-motivation-for-qa-and-career-goals) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-motivation-for-qa-and-career-goals) | Feb 12, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Explain overfitting, dropout, normalization, RL post-training](https://trueinterview.io/questions/explain-overfitting-dropout-normalization-rl-post-training) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-overfitting-dropout-normalization-rl-post-training) | Feb 12, 2026 |
+| **[Applied Intuition](../companies/applied-intuition.md)** | [Find intersection of two line segments](https://trueinterview.io/questions/find-intersection-of-two-line-segments) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-intersection-of-two-line-segments) | Feb 12, 2026 |
+| **[Millennium](../companies/millennium.md)** | [How do you explain work to non-technical partners?](https://trueinterview.io/questions/how-do-you-explain-work-to-non-technical-partners) | Phone | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-do-you-explain-work-to-non-technical-partners) | Feb 12, 2026 |
+| **[Google](../companies/google.md)** | [How do you handle conflict and ambiguity?](https://trueinterview.io/questions/how-do-you-handle-conflict-and-ambiguity) | Onsite | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/how-do-you-handle-conflict-and-ambiguity) | Feb 12, 2026 |
+| **[Lead Bank](../companies/lead-bank.md)** | [Implement a versioned hash map with snapshot](https://trueinterview.io/questions/implement-a-versioned-hash-map-with-snapshot) | Phone | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-versioned-hash-map-with-snapshot) | Feb 12, 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Implement interval room counter and token manager](https://trueinterview.io/questions/implement-interval-room-counter-and-token-manager) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-interval-room-counter-and-token-manager) | Feb 12, 2026 |
 
 <sub>Page [1](mid.md) · [2](mid-2.md) · [3](mid-3.md) · [4](mid-4.md) · **5** · [6](mid-6.md) · [7](mid-7.md) · [8](mid-8.md) · [9](mid-9.md)</sub>

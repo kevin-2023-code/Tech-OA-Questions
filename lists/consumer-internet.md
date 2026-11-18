@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Consumer internet & media*.
 
-**1,581 questions** · 128 from an OA · 321 reported in the last 90 days · 590 free to solve
+**1,577 questions** · 127 from an OA · 320 reported in the last 90 days · 589 free to solve
 
-**By level:** 🎓 Intern & New grad (334) · 🌱 Mid (904) · 🎯 Senior (1,148) · 🚀 Staff+ (389)
+**By level:** 🎓 Intern & New grad (332) · 🌱 Mid (900) · 🎯 Senior (1,144) · 🚀 Staff+ (389)
 
-**By role:** 💻 Software Engineering (1,013) · 🤖 ML, AI & Research (135) · 📊 Data Science & Analytics (388) · 📈 Quantitative Finance (9) · 📱 Product Management (15)
+**By role:** 💻 Software Engineering (1,009) · 🤖 ML, AI & Research (135) · 📊 Data Science & Analytics (388) · 📈 Quantitative Finance (9) · 📱 Product Management (15)
 
-**Rounds:** 📝 OA (128) · 📞 Phone (882) · 🏢 Onsite (702) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (127) · 📞 Phone (881) · 🏢 Onsite (700) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Google (382)](../companies/google.md) · [ByteDance (344)](../companies/bytedance.md) · [LinkedIn (145)](../companies/linkedin.md) · [Pinterest (128)](../companies/pinterest.md) · [Netflix (107)](../companies/netflix.md) · [Snapchat (87)](../companies/snapchat.md) · [Reddit (47)](../companies/reddit.md) · [Yelp (22)](../companies/yelp.md) · [Discord (11)](../companies/discord.md)
+**Companies:** [Meta (488)](../companies/meta.md) · [Google (382)](../companies/google.md) · [ByteDance (343)](../companies/bytedance.md) · [LinkedIn (144)](../companies/linkedin.md) · [Pinterest (128)](../companies/pinterest.md) · [Netflix (107)](../companies/netflix.md) · [Snapchat (87)](../companies/snapchat.md) · [Reddit (45)](../companies/reddit.md) · [Yelp (22)](../companies/yelp.md) · [Discord (11)](../companies/discord.md)
 
 <sub>Page **1** · [2](consumer-internet-2.md) · [3](consumer-internet-3.md) · [4](consumer-internet-4.md)</sub>
 
@@ -147,7 +147,6 @@
 | **[ByteDance](../companies/bytedance.md)** | [Investigate an iOS Memory Failure](https://trueinterview.io/questions/investigate-an-ios-memory-failure) | Phone | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/investigate-an-ios-memory-failure) | Sep 5, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [SRE Background: Development vs. Stability Focus and Your Most Memorable Project](https://trueinterview.io/questions/sre-background-development-vs-stability-focus-and-your-most-memorable-project) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/sre-background-development-vs-stability-focus-and-your-most-memorable-project) | Sep 5, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Trace Source Code to an Executable](https://trueinterview.io/questions/trace-source-code-to-an-executable) | Phone | Intern | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/trace-source-code-to-an-executable) | Sep 5, 2026 |
-| **[Reddit](../companies/reddit.md)** | [Design Add, Overwrite, Undo, and Redo for Billing State](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Sep 4, 2026 |
 | **[Meta](../companies/meta.md)** | [Design and Evaluate a Solver for a 36-Card Sum-Fifteen Game](https://trueinterview.io/questions/design-and-evaluate-a-solver-for-a-36-card-sum-fifteen-game) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-evaluate-a-solver-for-a-36-card-sum-fifteen-game) | Sep 4, 2026 |
 | **[Meta](../companies/meta.md)** | [Design Friend Recommendations for a Large Friendship Graph](https://trueinterview.io/questions/design-friend-recommendations-for-a-large-friendship-graph) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-friend-recommendations-for-a-large-friendship-graph) | Sep 4, 2026 |
 | **[Meta](../companies/meta.md)** | [Find Nearby High Scores in a Large Game Leaderboard](https://trueinterview.io/questions/find-nearby-high-scores-in-a-large-game-leaderboard) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/find-nearby-high-scores-in-a-large-game-leaderboard) | Sep 4, 2026 |
@@ -425,5 +424,6 @@
 | **[Meta](../companies/meta.md)** | [Find a Local Minimum (Valley) in an Array](https://trueinterview.io/questions/837563a0-09af-4bc7-b2d8-0b69a2aee8e2) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/837563a0-09af-4bc7-b2d8-0b69a2aee8e2) | Aug 2026 |
 | **[Google](../companies/google.md)** / [Microsoft](../companies/microsoft.md) / [Verkada](../companies/verkada.md) | [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-common-free-days-2) | Aug 2026 |
 | **[Airbnb](../companies/airbnb.md)** / [Google](../companies/google.md) / [Meta](../companies/meta.md) | [Find Median In Large Array](https://trueinterview.io/questions/find-median-in-large-array-2) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/find-median-in-large-array-2) | Aug 2026 |
+| **[Pinterest](../companies/pinterest.md)** | [Generate Attribute Combinations](https://trueinterview.io/questions/generate-attribute-combinations) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/generate-attribute-combinations) | Aug 2026 |
 
 <sub>Page **1** · [2](consumer-internet-2.md) · [3](consumer-internet-3.md) · [4](consumer-internet-4.md)</sub>

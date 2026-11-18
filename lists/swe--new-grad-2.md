@@ -8,11 +8,11 @@
 >
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,110 questions** · 351 from an OA · 221 reported in the last 90 days · 324 free to solve
+**1,105 questions** · 348 from an OA · 219 reported in the last 90 days · 323 free to solve
 
-**Rounds:** 📝 OA (351) · 📞 Phone (548) · 🏢 Onsite (305) · 🏠 Take-home (2)
+**Rounds:** 📝 OA (348) · 📞 Phone (548) · 🏢 Onsite (303) · 🏠 Take-home (2)
 
-**Companies:** [Amazon (119)](../companies/amazon.md) · [Meta (76)](../companies/meta.md) · [ByteDance (75)](../companies/bytedance.md) · [Google (75)](../companies/google.md) · [Uber (67)](../companies/uber.md) · [Microsoft (51)](../companies/microsoft.md) · [Capital One (45)](../companies/capital-one.md) · [Stripe (43)](../companies/stripe.md) · [Salesforce (34)](../companies/salesforce.md) · [Apple (33)](../companies/apple.md) · [Bloomberg (32)](../companies/bloomberg.md) · [Snowflake (29)](../companies/snowflake.md) · [Airbnb (27)](../companies/airbnb.md) · [C3.ai (27)](../companies/c3-ai.md) · [Square (27)](../companies/square.md)
+**Companies:** [Amazon (118)](../companies/amazon.md) · [Google (75)](../companies/google.md) · [Meta (75)](../companies/meta.md) · [ByteDance (74)](../companies/bytedance.md) · [Uber (67)](../companies/uber.md) · [Microsoft (51)](../companies/microsoft.md) · [Capital One (45)](../companies/capital-one.md) · [Stripe (43)](../companies/stripe.md) · [Salesforce (34)](../companies/salesforce.md) · [Apple (33)](../companies/apple.md) · [Bloomberg (32)](../companies/bloomberg.md) · [Snowflake (29)](../companies/snowflake.md) · [C3.ai (27)](../companies/c3-ai.md) · [Square (27)](../companies/square.md) · [Roblox (25)](../companies/roblox.md)
 
 <sub>Page [1](swe--new-grad.md) · **2** · [3](swe--new-grad-3.md)</sub>
 
@@ -23,9 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Netflix](../companies/netflix.md)** / [Coinbase](../companies/coinbase.md) / [Pinterest](../companies/pinterest.md) | [Longest Run of Identical Characters](https://trueinterview.io/questions/ee3f373d-6a1f-5751-b6f7-d7f4577b6670) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ee3f373d-6a1f-5751-b6f7-d7f4577b6670) | May 2026 |
-| **[Datadog](../companies/datadog.md)** / [ByteDance](../companies/bytedance.md) / [Verkada](../companies/verkada.md) | [Minimum Coin Combination Counts](https://trueinterview.io/questions/minimum-coin-combination-counts) | Onsite | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/minimum-coin-combination-counts) | May 2026 |
-| **[Oscar Health](../companies/oscar-health.md)** | [Morse Code Conversion](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | Phone | New grad · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/f2fd49a4-36ff-4528-aade-cf3f781b1d59) | May 2026 |
 | **[Amazon](../companies/amazon.md)** | [Student Printing Queue: Enumerate All Valid Printing Orders (Queue to Ring Variant)](https://trueinterview.io/questions/2f74ec78-ce03-4ec9-985d-86839640c844) | Phone | New grad | Coding | [![Practice][p]](https://trueinterview.io/questions/2f74ec78-ce03-4ec9-985d-86839640c844) | May 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Task Management System](https://trueinterview.io/questions/task-management-system-online-assessment) | OA | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/task-management-system-online-assessment) | May 2026 |
 | **[Circle](../companies/circle.md)** | [Task Management System: Add and List Current Tasks](https://trueinterview.io/questions/f59f7803-1b1c-45b7-94bf-8af1205b5abc) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f59f7803-1b1c-45b7-94bf-8af1205b5abc) | May 2026 |
@@ -423,5 +420,8 @@
 | **[DRW](../companies/drw.md)** | [Robot Path Planning](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-robot-path-planning) | OA | Intern · New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-robot-path-planning) | Oct 8, 2025 |
 | **[Akuna Capital](../companies/akuna-capital.md)** | [C++ Object Pool Debugging](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | OA | New grad · Mid | AI coding | [![Free][f]](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | Oct 5, 2025 |
 | **[Bitkernel](../companies/bitkernel.md)** | [Implement popup and redirect in JavaScript](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | OA | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | Oct 3, 2025 |
+| **[Atlassian](../companies/atlassian.md)** | [F1 Last Lap Improvement](https://trueinterview.io/questions/f1-last-lap-improvement) | Onsite | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/f1-last-lap-improvement) | Oct 2, 2025 |
+| **[Atlassian](../companies/atlassian.md)** | [Find Anagram in String](https://trueinterview.io/questions/find-anagram-in-string) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-anagram-in-string) | Oct 2, 2025 |
+| **[WeRide](../companies/weride.md)** | [Implement matrix multiplication and fast exponentiation](https://trueinterview.io/questions/implement-matrix-multiplication-and-fast-exponentiation) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/implement-matrix-multiplication-and-fast-exponentiation) | Oct 2, 2025 |
 
 <sub>Page [1](swe--new-grad.md) · **2** · [3](swe--new-grad-3.md)</sub>

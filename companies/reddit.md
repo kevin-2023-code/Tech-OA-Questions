@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Reddit on TrueInterview](https://trueinterview.io/problems/company/reddit) · [How Reddit interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/reddit/README.md)
 
-📱 Consumer internet & media · **47 questions** · 1 from an OA · last reported Oct 2026
+📱 Consumer internet & media · **45 questions** · 1 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (5) · 🌱 Mid (29) · 🎯 Senior (41) · 🚀 Staff+ (12)
+**By level:** 🎓 Intern & New grad (5) · 🌱 Mid (27) · 🎯 Senior (39) · 🚀 Staff+ (12)
 
-**By role:** 💻 Software Engineering (27) · 🤖 ML, AI & Research (13) · 📊 Data Science & Analytics (5) · 📱 Product Management (2)
+**By role:** 💻 Software Engineering (25) · 🤖 ML, AI & Research (13) · 📊 Data Science & Analytics (5) · 📱 Product Management (2)
 
-**Rounds:** 📝 OA (1) · 📞 Phone (23) · 🏢 Onsite (31)
+**Rounds:** 📝 OA (1) · 📞 Phone (22) · 🏢 Onsite (30)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/reddit-interview-process) · [SWE](https://trueinterview.io/study/reddit-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/reddit-machine-learning-engineer-interview-process)
 
@@ -23,7 +23,6 @@
 | :-- | :-- | :-- | :-- | :-: | :-- |
 | [Design Feature Flag](https://trueinterview.io/questions/design-feature-flag-2)<br><sub>also [Stripe](../companies/stripe.md)</sub> | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-feature-flag-2) | Oct 2026 |
 | [Word Search II](https://trueinterview.io/questions/word-search-ii)<br><sub>also [Uber](../companies/uber.md) / [Amazon](../companies/amazon.md) / [Bloomberg](../companies/bloomberg.md) / +3</sub> | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/word-search-ii) | Oct 2026 |
-| [Design Add, Overwrite, Undo, and Redo for Billing State](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Sep 4, 2026 |
 | [Cross-Functional & PM Behavioral](https://trueinterview.io/questions/cross-functional-pm-bq) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/cross-functional-pm-bq) | Sep 2026 |
 | [Design Job Scheduler](https://trueinterview.io/questions/job-scheduler-design)<br><sub>also [Robinhood](../companies/robinhood.md) / [Airbnb](../companies/airbnb.md) / [Atlassian](../companies/atlassian.md) / +12</sub> | Phone · Onsite | Mid · Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/job-scheduler-design) | Sep 2026 |
 | [Design Notification System](https://trueinterview.io/questions/design-a-notification-system-for-reddit)<br><sub>also [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / [DoorDash](../companies/doordash.md) / +9</sub> | Onsite | Mid · Senior · Staff+ · Manager | System design | [![Free][f]](https://trueinterview.io/questions/design-a-notification-system-for-reddit) | Sep 2026 |
@@ -67,4 +66,3 @@
 | [Design a causal evaluation without A/B testing](https://trueinterview.io/questions/design-a-causal-evaluation-without-a-b-testing) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-a-causal-evaluation-without-a-b-testing) | — |
 | [Design A Video Recommendation System](https://trueinterview.io/questions/design-a-video-recommendation-system-2)<br><sub>also [LinkedIn](../companies/linkedin.md) / [Instacart](../companies/instacart.md) / [Pinterest](../companies/pinterest.md)</sub> | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-video-recommendation-system-2) | — |
 | [Justify synthetic control and handle inference](https://trueinterview.io/questions/justify-synthetic-control-and-handle-inference) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/justify-synthetic-control-and-handle-inference) | — |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |

@@ -6,11 +6,11 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,167 questions** · 255 from an OA · 402 reported in the last 90 days · 2,167 free to solve
+**2,165 questions** · 255 from an OA · 402 reported in the last 90 days · 2,165 free to solve
 
-**By level:** 🎓 Intern & New grad (489) · 🌱 Mid (1,174) · 🎯 Senior (1,626) · 🚀 Staff+ (672)
+**By level:** 🎓 Intern & New grad (488) · 🌱 Mid (1,172) · 🎯 Senior (1,625) · 🚀 Staff+ (672)
 
-**Companies:** [Meta (209)](../companies/meta.md) · [Amazon (178)](../companies/amazon.md) · [ByteDance (151)](../companies/bytedance.md) · [Google (135)](../companies/google.md) · [Uber (116)](../companies/uber.md) · [Capital One (113)](../companies/capital-one.md) · [Microsoft (83)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (53)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (43)](../companies/linkedin.md) · [Anthropic (38)](../companies/anthropic.md) · [Snapchat (38)](../companies/snapchat.md) · [Bloomberg (37)](../companies/bloomberg.md)
+**Companies:** [Meta (209)](../companies/meta.md) · [Amazon (177)](../companies/amazon.md) · [ByteDance (150)](../companies/bytedance.md) · [Google (135)](../companies/google.md) · [Uber (115)](../companies/uber.md) · [Capital One (113)](../companies/capital-one.md) · [Microsoft (83)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (53)](../companies/doordash.md) · [Goldman Sachs (43)](../companies/goldman-sachs.md) · [LinkedIn (43)](../companies/linkedin.md) · [Anthropic (38)](../companies/anthropic.md) · [Snapchat (38)](../companies/snapchat.md) · [Bloomberg (37)](../companies/bloomberg.md)
 
 <sub>Page [1](free.md) · [2](free-2.md) · **3** · [4](free-4.md) · [5](free-5.md) · [6](free-6.md)</sub>
 

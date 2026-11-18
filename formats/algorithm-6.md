@@ -4,7 +4,7 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**2,621 questions** · 584 from an OA · 475 reported in the last 90 days · 582 free to solve
+**2,621 questions** · 584 from an OA · 475 reported in the last 90 days · 583 free to solve
 
 **By level:** 🎓 Intern & New grad (1,013) · 🌱 Mid (1,872) · 🎯 Senior (1,383) · 🚀 Staff+ (51)
 
@@ -83,7 +83,7 @@
 | **[Akuna Capital](../companies/akuna-capital.md)** | [Min Mod and Max](https://trueinterview.io/questions/300141c0-9e82-4bc4-8055-d73e3ca2fae2) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/300141c0-9e82-4bc4-8055-d73e3ca2fae2) | Nov 2025 |
 | **[WeRide](../companies/weride.md)** | [Minimize Cost to Make Blocks Unique](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Nov 2025 |
 | **[Confluent](../companies/confluent.md)** | [Minimum Value to Get Positive Step by Step Sum](https://trueinterview.io/questions/3e9983d2-b98e-4f1e-b80a-0d32d1317fbd) | OA | New grad | Coding | [![Free][f]](https://trueinterview.io/questions/3e9983d2-b98e-4f1e-b80a-0d32d1317fbd) | Nov 2025 |
-| **[Rokt](../companies/rokt.md)** / [Instacart](../companies/instacart.md) / [WeRide](../companies/weride.md) | [Modified Basic Calculator](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Nov 2025 |
+| **[Rokt](../companies/rokt.md)** / [Instacart](../companies/instacart.md) / [WeRide](../companies/weride.md) | [Modified Basic Calculator](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Nov 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** / [WeRide](../companies/weride.md) | [Preprocess Dates](https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099) | Nov 2025 |
 | **[Google](../companies/google.md)** | [Safe Travel Ranges](https://trueinterview.io/questions/edf263d8-b3ed-4f7e-a78c-1686163531db) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/edf263d8-b3ed-4f7e-a78c-1686163531db) | Nov 2025 |
 | **[WeRide](../companies/weride.md)** | [Shortest Path to Collect All Coins](https://trueinterview.io/questions/ebc36290-8e59-49ee-aba8-88d6ce49f1cb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ebc36290-8e59-49ee-aba8-88d6ce49f1cb) | Nov 2025 |

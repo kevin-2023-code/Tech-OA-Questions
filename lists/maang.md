@@ -6,15 +6,15 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,693 questions** · 169 from an OA · 395 reported in the last 90 days · 610 free to solve
+**1,689 questions** · 168 from an OA · 395 reported in the last 90 days · 609 free to solve
 
-**By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
+**By level:** 🎓 Intern & New grad (397) · 🌱 Mid (992) · 🎯 Senior (1,152) · 🚀 Staff+ (355)
 
-**By role:** 💻 Software Engineering (1,123) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
+**By role:** 💻 Software Engineering (1,119) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
 
-**Rounds:** 📝 OA (169) · 📞 Phone (870) · 🏢 Onsite (776) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (168) · 📞 Phone (870) · 🏢 Onsite (773) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Amazon (466)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (240)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
+**Companies:** [Meta (488)](../companies/meta.md) · [Amazon (463)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (239)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
 
 <sub>Page **1** · [2](maang-2.md) · [3](maang-3.md) · [4](maang-4.md) · [5](maang-5.md)</sub>
 

@@ -6,13 +6,13 @@
 
 > **Level:** Reported at an **Intern** or **New grad** loop.
 
-**1,495 questions** · 495 from an OA · 275 reported in the last 90 days · 489 free to solve
+**1,490 questions** · 492 from an OA · 273 reported in the last 90 days · 488 free to solve
 
-**By role:** 💻 Software Engineering (1,110) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
+**By role:** 💻 Software Engineering (1,105) · 🤖 ML, AI & Research (69) · 📊 Data Science & Analytics (178) · 📈 Quantitative Finance (119) · 📱 Product Management (2) · 🔧 Hardware Engineering (1)
 
-**Rounds:** 📝 OA (495) · 📞 Phone (725) · 🏢 Onsite (384) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (492) · 📞 Phone (725) · 🏢 Onsite (382) · 🏠 Take-home (5)
 
-**Companies:** [Amazon (148)](../companies/amazon.md) · [Meta (102)](../companies/meta.md) · [ByteDance (97)](../companies/bytedance.md) · [Google (91)](../companies/google.md) · [Uber (74)](../companies/uber.md) · [Capital One (69)](../companies/capital-one.md) · [Microsoft (61)](../companies/microsoft.md) · [Stripe (48)](../companies/stripe.md) · [Apple (40)](../companies/apple.md) · [Salesforce (35)](../companies/salesforce.md) · [Bloomberg (34)](../companies/bloomberg.md) · [Goldman Sachs (34)](../companies/goldman-sachs.md) · [Citadel (32)](../companies/citadel.md) · [Roblox (31)](../companies/roblox.md) · [Snowflake (30)](../companies/snowflake.md)
+**Companies:** [Amazon (147)](../companies/amazon.md) · [Meta (101)](../companies/meta.md) · [ByteDance (96)](../companies/bytedance.md) · [Google (91)](../companies/google.md) · [Uber (74)](../companies/uber.md) · [Capital One (69)](../companies/capital-one.md) · [Microsoft (61)](../companies/microsoft.md) · [Stripe (48)](../companies/stripe.md) · [Apple (40)](../companies/apple.md) · [Salesforce (35)](../companies/salesforce.md) · [Bloomberg (34)](../companies/bloomberg.md) · [Goldman Sachs (33)](../companies/goldman-sachs.md) · [Citadel (32)](../companies/citadel.md) · [Roblox (31)](../companies/roblox.md) · [Snowflake (30)](../companies/snowflake.md)
 
 <sub>Page [1](new-grad.md) · [2](new-grad-2.md) · [3](new-grad-3.md) · **4**</sub>
 
@@ -23,9 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Karat](../companies/karat.md)** | [Can the Singer Hit Every Note? Vocal Range Check](https://trueinterview.io/questions/singer-vocal-range-songs) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/singer-vocal-range-songs) | — |
-| **[Karat](../companies/karat.md)** | [Castle Rooms Pointing at Treasure Rooms](https://trueinterview.io/questions/castle-treasure-room-instructions) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/castle-treasure-room-instructions) | — |
-| **[Disney](../companies/disney.md)** | [Check Reachability Between Two Graph Nodes](https://trueinterview.io/questions/graph-path-exists-bfs) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/graph-path-exists-bfs) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Check Whether a Binary Tree Obeys Search-Tree Ordering](https://trueinterview.io/questions/validate-bst) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/validate-bst) | — |
 | **[Roblox](../companies/roblox.md)** | [Choose Best/Worst Actions Under Time Pressure](https://trueinterview.io/questions/choose-best-worst-actions-under-oa-pressure) | OA | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-best-worst-actions-under-oa-pressure) | — |
 | **[Karat](../companies/karat.md)** | [Choose-Your-Path Book: Reaching Endings Under a Fixed Choice Rule](https://trueinterview.io/questions/choose-your-story-book-endings) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/choose-your-story-book-endings) | — |
@@ -85,7 +82,6 @@
 | **[Meta](../companies/meta.md)** | [Derive no-click probability and sketch implications](https://trueinterview.io/questions/derive-no-click-probability-and-sketch-implications) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/derive-no-click-probability-and-sketch-implications) | — |
 | **[Shopify](../companies/shopify.md)** | [Design a 2D Robot with Turning and Movement + CLI](https://trueinterview.io/questions/a917e16a-22aa-4528-9a7f-f579c8782e91) | Onsite | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/a917e16a-22aa-4528-9a7f-f579c8782e91) | — |
 | **[Shopify](../companies/shopify.md)** | [Design an Extensible Text Editor with Multiple Renderers](https://trueinterview.io/questions/96a826d5-6b64-5148-835c-9aa999e35b15) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/96a826d5-6b64-5148-835c-9aa999e35b15) | — |
-| **[IBM](../companies/ibm.md)** / [Oracle](../companies/oracle.md) | [Design Authentication Manager](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a) | Onsite | New grad · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/fffd1adb-8564-54b2-a493-eb65a9b78c1a) | — |
 | **[Coinbase](../companies/coinbase.md)** / [Anthropic](../companies/anthropic.md) / [HubSpot](../companies/hubspot.md) / +2 | [Design In-memory Database with Backup](https://trueinterview.io/questions/design-in-memory-database-with-backup-2) | OA · Onsite | Intern · New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-in-memory-database-with-backup-2) | — |
 | **[Amazon](../companies/amazon.md)** | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
 | **[Scale AI](../companies/scale-ai.md)** | [Designing GPT-2 Prompts Using Given Keywords](https://trueinterview.io/questions/147c9781-846f-407b-a3e9-cb2f61ae898d) | Onsite | Intern · New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/147c9781-846f-407b-a3e9-cb2f61ae898d) | — |
@@ -170,7 +166,6 @@
 | **[Microsoft](../companies/microsoft.md)** / [Expedia](../companies/expedia.md) | [Longest Common Subsequence-Substring](https://trueinterview.io/questions/longest-common-subsequence-substring-2) | OA · Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/longest-common-subsequence-substring-2) | — |
 | **[Rippling](../companies/rippling.md)** / [ByteDance](../companies/bytedance.md) / [Meta](../companies/meta.md) | [Longest Consecutive Sequence (variation)](https://trueinterview.io/questions/5828fb45-7c92-4a82-89c8-6cb11f8b12e2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5828fb45-7c92-4a82-89c8-6cb11f8b12e2) | — |
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) | [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | — |
-| **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
 | **[Karat](../companies/karat.md)** | [Mahjong Hand Validator With Pairs, Triples and Runs](https://trueinterview.io/questions/mahjong-tile-grouping) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/mahjong-tile-grouping) | — |
 | **[Capital One](../companies/capital-one.md)** | [Match Netflix profit; derive required subscribers](https://trueinterview.io/questions/match-netflix-profit-derive-required-subscribers) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/match-netflix-profit-derive-required-subscribers) | — |
 | **[Capital One](../companies/capital-one.md)** | [Match Year-2 profit to Year-1](https://trueinterview.io/questions/match-year-2-profit-to-year-1) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/match-year-2-profit-to-year-1) | — |

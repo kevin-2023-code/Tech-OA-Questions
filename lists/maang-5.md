@@ -6,15 +6,15 @@
 
 > **Industry:** Meta, Apple, Amazon, Netflix and Google — plus Microsoft, which is why it says MAANG**+**.
 
-**1,693 questions** · 169 from an OA · 395 reported in the last 90 days · 610 free to solve
+**1,689 questions** · 168 from an OA · 395 reported in the last 90 days · 609 free to solve
 
-**By level:** 🎓 Intern & New grad (399) · 🌱 Mid (996) · 🎯 Senior (1,156) · 🚀 Staff+ (355)
+**By level:** 🎓 Intern & New grad (397) · 🌱 Mid (992) · 🎯 Senior (1,152) · 🚀 Staff+ (355)
 
-**By role:** 💻 Software Engineering (1,123) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
+**By role:** 💻 Software Engineering (1,119) · 🤖 ML, AI & Research (161) · 📊 Data Science & Analytics (357) · 📈 Quantitative Finance (9) · 📱 Product Management (12) · 🔧 Hardware Engineering (8)
 
-**Rounds:** 📝 OA (169) · 📞 Phone (870) · 🏢 Onsite (776) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (168) · 📞 Phone (870) · 🏢 Onsite (773) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Amazon (466)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (240)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
+**Companies:** [Meta (488)](../companies/meta.md) · [Amazon (463)](../companies/amazon.md) · [Google (382)](../companies/google.md) · [Microsoft (239)](../companies/microsoft.md) · [Apple (182)](../companies/apple.md) · [Netflix (107)](../companies/netflix.md)
 
 <sub>Page [1](maang.md) · [2](maang-2.md) · [3](maang-3.md) · [4](maang-4.md) · **5**</sub>
 
@@ -25,9 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Google](../companies/google.md)** | [Narrow a confidence interval for a mean](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/narrow-a-confidence-interval-for-a-mean) | — |
-| **[Netflix](../companies/netflix.md)** | [Navigate conflicting signals and ambiguous expectations](https://trueinterview.io/questions/navigate-conflicting-signals-and-ambiguous-expectations) | Onsite | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/navigate-conflicting-signals-and-ambiguous-expectations) | — |
-| **[Meta](../companies/meta.md)** | [Navigate reschedules, offers, and team-match uncertainty](https://trueinterview.io/questions/navigate-reschedules-offers-and-team-match-uncertainty) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/navigate-reschedules-offers-and-team-match-uncertainty) | — |
 | **[Meta](../companies/meta.md)** | [Optimize IG Shopping ranking with multiple objectives](https://trueinterview.io/questions/optimize-ig-shopping-ranking-with-multiple-objectives) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/optimize-ig-shopping-ranking-with-multiple-objectives) | — |
 | **[Meta](../companies/meta.md)** | [Persuade engineers to launch pinned-unread chats](https://trueinterview.io/questions/persuade-engineers-to-launch-pinned-unread-chats) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/persuade-engineers-to-launch-pinned-unread-chats) | — |
 | **[Amazon](../companies/amazon.md)** | [Pizza Slices Calculator Program](https://trueinterview.io/questions/43b6b9d3-5c99-4c4e-bfbd-0005865fd5e3) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/43b6b9d3-5c99-4c4e-bfbd-0005865fd5e3) | — |
@@ -70,7 +67,6 @@
 | **[Meta](../companies/meta.md)** | [Share different perspective from leadership feedback](https://trueinterview.io/questions/share-different-perspective-from-leadership-feedback) | Onsite | Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/share-different-perspective-from-leadership-feedback) | — |
 | **[Meta](../companies/meta.md)** | [Shortest Path in Matrix](https://trueinterview.io/questions/4ccc27e6-1070-4dad-b35d-fcc56e2ed8c8) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/4ccc27e6-1070-4dad-b35d-fcc56e2ed8c8) | — |
 | **[Meta](../companies/meta.md)** | [Size opportunity and prioritize experiments](https://trueinterview.io/questions/size-opportunity-and-prioritize-experiments) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/size-opportunity-and-prioritize-experiments) | — |
-| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[Amazon](../companies/amazon.md)** | [Solve two string DP/hash problems](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | — |
 | **[Amazon](../companies/amazon.md)** | [Solve two-sum variants at scale](https://trueinterview.io/questions/solve-two-sum-variants-at-scale) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-sum-variants-at-scale) | — |
 | **[Amazon](../companies/amazon.md)** | [SQL Interview Questions (Window Functions and CTE)](https://trueinterview.io/questions/66986c12-8cc7-460c-8d29-f7dcec6170d1) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/66986c12-8cc7-460c-8d29-f7dcec6170d1) | — |

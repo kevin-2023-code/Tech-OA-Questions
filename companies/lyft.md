@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Lyft on TrueInterview](https://trueinterview.io/problems/company/lyft) · [How Lyft interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/lyft/README.md)
 
-🛒 E-commerce & marketplaces · **49 questions** · 1 from an OA · last reported Oct 2026
+🛒 E-commerce & marketplaces · **48 questions** · 1 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (7) · 🌱 Mid (38) · 🎯 Senior (35) · 🚀 Staff+ (9)
+**By level:** 🎓 Intern & New grad (6) · 🌱 Mid (37) · 🎯 Senior (34) · 🚀 Staff+ (9)
 
-**By role:** 💻 Software Engineering (37) · 🤖 ML, AI & Research (4) · 📊 Data Science & Analytics (7)
+**By role:** 💻 Software Engineering (36) · 🤖 ML, AI & Research (4) · 📊 Data Science & Analytics (7)
 
-**Rounds:** 📝 OA (1) · 📞 Phone (24) · 🏢 Onsite (34)
+**Rounds:** 📝 OA (1) · 📞 Phone (24) · 🏢 Onsite (33)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/lyft-interview-process)
 
@@ -67,6 +67,5 @@
 | [Compute Poisson supply–demand match probability](https://trueinterview.io/questions/compute-poisson-supplydemand-match-probability) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compute-poisson-supplydemand-match-probability) | — |
 | [Demonstrate leadership under ambiguity](https://trueinterview.io/questions/demonstrate-leadership-under-ambiguity-2) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/demonstrate-leadership-under-ambiguity-2) | — |
 | [Design experiments for marketplace balance](https://trueinterview.io/questions/design-experiments-for-marketplace-balance) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-experiments-for-marketplace-balance) | — |
-| [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51)<br><sub>also [Verkada](../companies/verkada.md) / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +2</sub> | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
 | [MultiStream Reader](https://trueinterview.io/questions/multistream-reader) | Phone · Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/multistream-reader) | — |
 | [Web Crawler with Communication Constraint](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | Onsite | Senior · Staff+ | System design | [![Free][f]](https://trueinterview.io/questions/e29b9e99-7444-4764-b397-88d7aab21f3a) | — |

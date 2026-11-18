@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *AI labs & AI infrastructure*.
 
-**503 questions** · 39 from an OA · 150 reported in the last 90 days · 170 free to solve
+**499 questions** · 39 from an OA · 149 reported in the last 90 days · 169 free to solve
 
-**By level:** 🎓 Intern & New grad (95) · 🌱 Mid (307) · 🎯 Senior (427) · 🚀 Staff+ (85)
+**By level:** 🎓 Intern & New grad (95) · 🌱 Mid (304) · 🎯 Senior (424) · 🚀 Staff+ (85)
 
-**By role:** 💻 Software Engineering (377) · 🤖 ML, AI & Research (103) · 📊 Data Science & Analytics (14) · 📈 Quantitative Finance (2) · 📱 Product Management (3)
+**By role:** 💻 Software Engineering (374) · 🤖 ML, AI & Research (102) · 📊 Data Science & Analytics (14) · 📈 Quantitative Finance (2) · 📱 Product Management (3)
 
-**Rounds:** 📝 OA (39) · 📞 Phone (263) · 🏢 Onsite (251) · 🏠 Take-home (5)
+**Rounds:** 📝 OA (39) · 📞 Phone (260) · 🏢 Onsite (250) · 🏠 Take-home (5)
 
-**Companies:** [OpenAI (175)](../companies/openai.md) · [Anthropic (99)](../companies/anthropic.md) · [C3.ai (55)](../companies/c3-ai.md) · [xAI (43)](../companies/xai.md) · [Scale AI (35)](../companies/scale-ai.md) · [Perplexity (25)](../companies/perplexity.md) · [Harvey (23)](../companies/harvey.md) · [Mercor (14)](../companies/mercor.md) · [Microsoft AI (13)](../companies/microsoft-ai.md) · [Mistral AI (9)](../companies/mistral-ai.md) · [Cursor (7)](../companies/cursor.md) · [Luma AI (6)](../companies/luma-ai.md) · [Moveworks (6)](../companies/moveworks.md) · [Together AI (6)](../companies/together-ai.md) · [Cohere (3)](../companies/cohere.md)
+**Companies:** [OpenAI (172)](../companies/openai.md) · [Anthropic (99)](../companies/anthropic.md) · [C3.ai (55)](../companies/c3-ai.md) · [xAI (42)](../companies/xai.md) · [Scale AI (35)](../companies/scale-ai.md) · [Perplexity (25)](../companies/perplexity.md) · [Harvey (23)](../companies/harvey.md) · [Mercor (14)](../companies/mercor.md) · [Microsoft AI (13)](../companies/microsoft-ai.md) · [Mistral AI (9)](../companies/mistral-ai.md) · [Cursor (7)](../companies/cursor.md) · [Luma AI (6)](../companies/luma-ai.md) · [Moveworks (6)](../companies/moveworks.md) · [Together AI (6)](../companies/together-ai.md) · [Cohere (3)](../companies/cohere.md)
 
 <sub>Page [1](ai-labs.md) · **2**</sub>
 
@@ -25,8 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[OpenAI](../companies/openai.md)** | [Design a recommendation system end-to-end](https://trueinterview.io/questions/design-a-recommendation-system-end-to-end) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-recommendation-system-end-to-end) | Dec 15, 2025 |
-| **[OpenAI](../companies/openai.md)** | [Design a regional surge pricing strategy](https://trueinterview.io/questions/design-a-regional-surge-pricing-strategy) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-regional-surge-pricing-strategy) | Dec 15, 2025 |
 | **[OpenAI](../companies/openai.md)** | [Design a search query autocomplete system](https://trueinterview.io/questions/design-a-search-query-autocomplete-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-search-query-autocomplete-system) | Dec 15, 2025 |
 | **[OpenAI](../companies/openai.md)** | [Design an AWS fine-tuning platform for LLMs](https://trueinterview.io/questions/design-an-aws-fine-tuning-platform-for-llms) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-aws-fine-tuning-platform-for-llms) | Dec 15, 2025 |
 | **[OpenAI](../companies/openai.md)** | [Design an image/video near-duplicate detection system](https://trueinterview.io/questions/design-an-image-video-near-duplicate-detection-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-image-video-near-duplicate-detection-system) | Dec 15, 2025 |
@@ -44,7 +42,6 @@
 | **[Anthropic](../companies/anthropic.md)** | [Implement staircase printing and distributed mode/median](https://trueinterview.io/questions/implement-staircase-printing-and-distributed-mode-median) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-staircase-printing-and-distributed-mode-median) | Nov 19, 2025 |
 | **[C3.ai](../companies/c3-ai.md)** | [Design a restaurant reservation system](https://trueinterview.io/questions/design-a-restaurant-reservation-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-restaurant-reservation-system) | Nov 7, 2025 |
 | **[Anthropic](../companies/anthropic.md)** | [Implement a Function 'get_when' in an In-Memory Database](https://trueinterview.io/questions/b6750541-51ba-4dfa-93b2-568a0c81515b) | Onsite | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b6750541-51ba-4dfa-93b2-568a0c81515b) | Nov 2025 |
-| **[OpenAI](../companies/openai.md)** | [Design a Resumable Iterator with Checkpoint and Restore](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Phone | Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/design-a-resumable-iterator-with-checkpoint-and-restore) | Oct 18, 2025 |
 | **[Anthropic](../companies/anthropic.md)** | [Find duplicate files and apply image operations](https://trueinterview.io/questions/find-duplicate-files-and-apply-image-operations) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/find-duplicate-files-and-apply-image-operations) | Oct 15, 2025 |
 | **[Perplexity](../companies/perplexity.md)** | [Stream Processing with Stop Words](https://trueinterview.io/questions/stream-processing-with-stop-words) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/stream-processing-with-stop-words) | Oct 12, 2025 |
 | **[Perplexity](../companies/perplexity.md)** | [Embedding Model Server](https://trueinterview.io/questions/embedding-model-server) | Phone | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/embedding-model-server) | Oct 9, 2025 |
@@ -119,7 +116,6 @@
 | **[xAI](../companies/xai.md)** | [Radix Cache](https://trueinterview.io/questions/radix-cache) | Onsite | Senior · Staff+ | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/radix-cache) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Reachability on a Height Grid With a Climb Limit](https://trueinterview.io/questions/grid-jump-reachability) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/grid-jump-reachability) | — |
 | **[OpenAI](../companies/openai.md)** | [Reproduce Double Descent in Linear Regression](https://trueinterview.io/questions/a5c37bda-f1a1-528d-b6aa-0968b57e250a) | Onsite | New grad · Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/a5c37bda-f1a1-528d-b6aa-0968b57e250a) | — |
-| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Spot the Repeated Value in a Constrained Array](https://trueinterview.io/questions/find-duplicate-number) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-duplicate-number) | — |
 | **[OpenAI](../companies/openai.md)** | [Spreadsheet Implementation with Cycle Detection and Caching](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/b0fb2e35-02e8-45a9-bcfe-f1ad3e4778fd) | — |
 | **[Perplexity](../companies/perplexity.md)** | [Stream Deduplication with Near-Duplicate Detection](https://trueinterview.io/questions/stream-deduplication-with-near-duplicate-detection) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/stream-deduplication-with-near-duplicate-detection) | — |

@@ -6,11 +6,11 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,167 questions** · 255 from an OA · 402 reported in the last 90 days · 2,167 free to solve
+**2,165 questions** · 255 from an OA · 402 reported in the last 90 days · 2,165 free to solve
 
-**By level:** 🎓 Intern & New grad (489) · 🌱 Mid (1,174) · 🎯 Senior (1,626) · 🚀 Staff+ (672)
+**By level:** 🎓 Intern & New grad (488) · 🌱 Mid (1,172) · 🎯 Senior (1,625) · 🚀 Staff+ (672)
 
-**Companies:** [Meta (209)](../companies/meta.md) · [Amazon (178)](../companies/amazon.md) · [ByteDance (151)](../companies/bytedance.md) · [Google (135)](../companies/google.md) · [Uber (116)](../companies/uber.md) · [Capital One (113)](../companies/capital-one.md) · [Microsoft (83)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (53)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (43)](../companies/linkedin.md) · [Anthropic (38)](../companies/anthropic.md) · [Snapchat (38)](../companies/snapchat.md) · [Bloomberg (37)](../companies/bloomberg.md)
+**Companies:** [Meta (209)](../companies/meta.md) · [Amazon (177)](../companies/amazon.md) · [ByteDance (150)](../companies/bytedance.md) · [Google (135)](../companies/google.md) · [Uber (115)](../companies/uber.md) · [Capital One (113)](../companies/capital-one.md) · [Microsoft (83)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (53)](../companies/doordash.md) · [Goldman Sachs (43)](../companies/goldman-sachs.md) · [LinkedIn (43)](../companies/linkedin.md) · [Anthropic (38)](../companies/anthropic.md) · [Snapchat (38)](../companies/snapchat.md) · [Bloomberg (37)](../companies/bloomberg.md)
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · [4](free-4.md) · [5](free-5.md) · **6**</sub>
 
@@ -21,7 +21,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[DoorDash](../companies/doordash.md)** | [Handle conflict and time-pressured decision](https://trueinterview.io/questions/handle-conflict-and-time-pressured-decision) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-conflict-and-time-pressured-decision) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Handle disengaged interviewer or biased manager](https://trueinterview.io/questions/handle-disengaged-interviewer-or-biased-manager) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-disengaged-interviewer-or-biased-manager) | — |
 | **[Meta](../companies/meta.md)** | [Handle diverse styles and give constructive feedback](https://trueinterview.io/questions/handle-diverse-styles-and-give-constructive-feedback) | Onsite | Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-diverse-styles-and-give-constructive-feedback) | — |
 | **[Capital One](../companies/capital-one.md)** | [Handle extended team-matching uncertainty](https://trueinterview.io/questions/handle-extended-team-matching-uncertainty) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-extended-team-matching-uncertainty) | — |
@@ -70,7 +69,6 @@
 | **[Voleon](../companies/voleon.md)** | [Load and visualize large CSV robustly](https://trueinterview.io/questions/load-and-visualize-large-csv-robustly) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/load-and-visualize-large-csv-robustly) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Longest Equal-Step Subsequence in an Integer Array](https://trueinterview.io/questions/longest-arithmetic-subsequence) | Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/longest-arithmetic-subsequence) | — |
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) | [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | — |
-| **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
 | **[Capital One](../companies/capital-one.md)** | [Maintain profit margin with new product line](https://trueinterview.io/questions/maintain-profit-margin-with-new-product-line) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/maintain-profit-margin-with-new-product-line) | — |
 | **[Meta](../companies/meta.md)** | [Manage promotions and project portfolio tradeoffs](https://trueinterview.io/questions/manage-promotions-and-project-portfolio-tradeoffs) | Onsite | Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/manage-promotions-and-project-portfolio-tradeoffs) | — |
 | **[Capital One](../companies/capital-one.md)** | [Map stakeholders and influence routes](https://trueinterview.io/questions/map-stakeholders-and-influence-routes) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/map-stakeholders-and-influence-routes) | — |

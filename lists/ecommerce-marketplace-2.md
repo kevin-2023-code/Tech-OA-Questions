@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *E-commerce & marketplaces*.
 
-**1,231 questions** · 150 from an OA · 305 reported in the last 90 days · 468 free to solve
+**1,224 questions** · 147 from an OA · 303 reported in the last 90 days · 467 free to solve
 
-**By level:** 🎓 Intern & New grad (320) · 🌱 Mid (713) · 🎯 Senior (830) · 🚀 Staff+ (229)
+**By level:** 🎓 Intern & New grad (316) · 🌱 Mid (707) · 🎯 Senior (823) · 🚀 Staff+ (229)
 
-**By role:** 💻 Software Engineering (877) · 🤖 ML, AI & Research (98) · 📊 Data Science & Analytics (228) · 📈 Quantitative Finance (4) · 📱 Product Management (11)
+**By role:** 💻 Software Engineering (871) · 🤖 ML, AI & Research (98) · 📊 Data Science & Analytics (228) · 📈 Quantitative Finance (4) · 📱 Product Management (11)
 
-**Rounds:** 📝 OA (150) · 📞 Phone (623) · 🏢 Onsite (543) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (147) · 📞 Phone (623) · 🏢 Onsite (539) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (466)](../companies/amazon.md) · [Uber (263)](../companies/uber.md) · [DoorDash (151)](../companies/doordash.md) · [Airbnb (112)](../companies/airbnb.md) · [Instacart (65)](../companies/instacart.md) · [Lyft (49)](../companies/lyft.md) · [eBay (48)](../companies/ebay.md) · [Expedia (41)](../companies/expedia.md) · [Shopify (41)](../companies/shopify.md) · [Walmart Labs (35)](../companies/walmart-labs.md) · [Pinduoduo (27)](../companies/pinduoduo.md) · [Whatnot (19)](../companies/whatnot.md) · [Faire (5)](../companies/faire.md) · [StubHub (3)](../companies/stubhub.md)
+**Companies:** [Amazon (463)](../companies/amazon.md) · [Uber (262)](../companies/uber.md) · [DoorDash (151)](../companies/doordash.md) · [Airbnb (109)](../companies/airbnb.md) · [Instacart (65)](../companies/instacart.md) · [eBay (48)](../companies/ebay.md) · [Lyft (48)](../companies/lyft.md) · [Expedia (41)](../companies/expedia.md) · [Shopify (41)](../companies/shopify.md) · [Walmart Labs (35)](../companies/walmart-labs.md) · [Pinduoduo (27)](../companies/pinduoduo.md) · [Whatnot (19)](../companies/whatnot.md) · [Faire (5)](../companies/faire.md) · [StubHub (3)](../companies/stubhub.md)
 
 <sub>Page [1](ecommerce-marketplace.md) · **2** · [3](ecommerce-marketplace-3.md) · [4](ecommerce-marketplace-4.md)</sub>
 
@@ -25,8 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Amazon](../companies/amazon.md)** | [Trade Short-Term Benefit for Long-Term Success](https://trueinterview.io/questions/trade-short-term-benefit-for-long-term-success) | Phone | New grad · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/trade-short-term-benefit-for-long-term-success) | Aug 2026 |
-| **[Airbnb](../companies/airbnb.md)** | [URL Parser with Percent Unquote](https://trueinterview.io/questions/b8f2f270-a472-5c0c-927b-883b8fa80722) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/b8f2f270-a472-5c0c-927b-883b8fa80722) | Aug 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [URL Query Parameter Parsing](https://trueinterview.io/questions/url-query-string-parser) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/url-query-string-parser) | Aug 2026 |
 | **[Meta](../companies/meta.md)** / [eBay](../companies/ebay.md) | [Valid Number](https://trueinterview.io/questions/lc-valid-number) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/lc-valid-number) | Aug 2026 |
 | **[Bloomberg](../companies/bloomberg.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [Validate Binary Search Tree](https://trueinterview.io/questions/validate-binary-search-tree) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/validate-binary-search-tree) | Aug 2026 |
@@ -202,7 +200,6 @@
 | **[Uber](../companies/uber.md)** | [Maximum Number of Points from Grid Queries](https://trueinterview.io/questions/maximum-number-of-points-from-grid-queries) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/maximum-number-of-points-from-grid-queries) | May 29, 2026 |
 | **[Instacart](../companies/instacart.md)** | [Max Adjacent Stock Price Change](https://trueinterview.io/questions/karat-stock-price-change) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/karat-stock-price-change) | May 27, 2026 |
 | **[Amazon](../companies/amazon.md)** | [Message Latency from Send/Receive CSV Logs](https://trueinterview.io/questions/200a942c-d5f7-43e5-badc-68f1a185a4bc) | Onsite | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/200a942c-d5f7-43e5-badc-68f1a185a4bc) | May 27, 2026 |
-| **[Meta](../companies/meta.md)** / [Airbnb](../companies/airbnb.md) | [Banking System (Progressive OOD)](https://trueinterview.io/questions/codesignal-oa-banking-system) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/codesignal-oa-banking-system) | May 26, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Property Booking System](https://trueinterview.io/questions/property-combination-min-capacity) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/property-combination-min-capacity) | May 25, 2026 |
 | **[Airbnb](../companies/airbnb.md)** / [Snowflake](../companies/snowflake.md) / [Square](../companies/square.md) | [Design Connect Four](https://trueinterview.io/questions/board-game-ood) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/board-game-ood) | May 24, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Average Vacant Days](https://trueinterview.io/questions/average-vacant-days) | Onsite | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/average-vacant-days) | May 23, 2026 |
@@ -425,5 +422,8 @@
 | **[DoorDash](../companies/doordash.md)** | [Describe a conflict and how you resolved it](https://trueinterview.io/questions/describe-a-conflict-and-how-you-resolved-it) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-a-conflict-and-how-you-resolved-it) | Mar 2026 |
 | **[DoorDash](../companies/doordash.md)** | [Describe handling conflict and a proud project](https://trueinterview.io/questions/describe-handling-conflict-and-a-proud-project) | OA | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-handling-conflict-and-a-proud-project) | Mar 2026 |
 | **[Expedia](../companies/expedia.md)** | [Describe when you distrusted a colleague](https://trueinterview.io/questions/describe-when-you-distrusted-a-colleague) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-when-you-distrusted-a-colleague) | Mar 2026 |
+| **[xAI](../companies/xai.md)** / [Amazon](../companies/amazon.md) / [OpenAI](../companies/openai.md) | [Design a RAG System](https://trueinterview.io/questions/design-a-rag-system) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-rag-system) | Mar 2026 |
+| **[DoorDash](../companies/doordash.md)** | [Design a scalable recommendation serving system](https://trueinterview.io/questions/design-a-scalable-recommendation-serving-system) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-scalable-recommendation-serving-system) | Mar 2026 |
+| **[DoorDash](../companies/doordash.md)** | [Design an API for pay computation with retries](https://trueinterview.io/questions/design-an-api-for-pay-computation-with-retries) | OA | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-api-for-pay-computation-with-retries) | Mar 2026 |
 
 <sub>Page [1](ecommerce-marketplace.md) · **2** · [3](ecommerce-marketplace-3.md) · [4](ecommerce-marketplace-4.md)</sub>

@@ -6,13 +6,13 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 483 from an OA · 700 reported in the last 90 days · 1,174 free to solve
+**3,438 questions** · 480 from an OA · 696 reported in the last 90 days · 1,172 free to solve
 
-**By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
+**By role:** 💻 Software Engineering (2,514) · 🤖 ML, AI & Research (184) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
-**Rounds:** 📝 OA (483) · 📞 Phone (2,022) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (480) · 📞 Phone (2,017) · 🏢 Onsite (1,224) · 🏠 Take-home (6)
 
-**Companies:** [Amazon (297)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (257)](../companies/meta.md) · [ByteDance (227)](../companies/bytedance.md) · [Microsoft (152)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (82)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
+**Companies:** [Amazon (294)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (256)](../companies/meta.md) · [ByteDance (226)](../companies/bytedance.md) · [Microsoft (151)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (87)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (81)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
 
 <sub>Page [1](mid.md) · [2](mid-2.md) · [3](mid-3.md) · [4](mid-4.md) · [5](mid-5.md) · [6](mid-6.md) · [7](mid-7.md) · [8](mid-8.md) · **9**</sub>
 
@@ -23,18 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Point72](../companies/point72.md)** | [Maximize outfits with distinct colors](https://trueinterview.io/questions/maximize-outfits-with-distinct-colors) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-outfits-with-distinct-colors) | — |
-| **[ByteDance](../companies/bytedance.md)** | [Maximize products bought under budget](https://trueinterview.io/questions/maximize-products-bought-under-budget) | OA | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/maximize-products-bought-under-budget) | — |
-| **[Snowflake](../companies/snowflake.md)** | [Maximum Order Volume](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/62a38f9e-6342-4ba4-9341-db4070d39cc5) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Maximum Score Taking Cards From Either End](https://trueinterview.io/questions/max-points-from-cards) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/max-points-from-cards) | — |
-| **[Apple](../companies/apple.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +4 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | — |
-| **[Citadel](../companies/citadel.md)** | [Medium Level Algorithm Question](https://trueinterview.io/questions/2b3416a8-5a91-4284-b9fa-e0cb6ee1768c) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/2b3416a8-5a91-4284-b9fa-e0cb6ee1768c) | — |
-| **[Google](../companies/google.md)** / [LinkedIn](../companies/linkedin.md) | [Meeting Rooms II](https://trueinterview.io/questions/ddc8534d-46e9-4b02-abec-60d33c956280) | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/ddc8534d-46e9-4b02-abec-60d33c956280) | — |
-| **[WeRide](../companies/weride.md)** | [Meetup Schedule](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | — |
-| **[Amazon](../companies/amazon.md)** | [Memory Size Calculation for DDN Model Structure](https://trueinterview.io/questions/38d0f1cd-7a43-453d-a61a-07bfe73aeffd) | Onsite | New grad · Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/38d0f1cd-7a43-453d-a61a-07bfe73aeffd) | — |
-| **[Capital One](../companies/capital-one.md)** | [Merge ad CSVs and compute CTR](https://trueinterview.io/questions/merge-ad-csvs-and-compute-ctr) | OA | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/merge-ad-csvs-and-compute-ctr) | — |
-| **[Google](../companies/google.md)** | [Merge Intervals with Names](https://trueinterview.io/questions/f65573da-74b9-4f0e-b1b7-b107519953e2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/f65573da-74b9-4f0e-b1b7-b107519953e2) | — |
-| **[LinkedIn](../companies/linkedin.md)** / [Microsoft](../companies/microsoft.md) | [Merge N-ary Tree](https://trueinterview.io/questions/26526039-c716-45e9-9bc1-c041c03ce168) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/26526039-c716-45e9-9bc1-c041c03ce168) | — |
 | **[Capital One](../companies/capital-one.md)** | [Merge seven tables into one clean DataFrame](https://trueinterview.io/questions/merge-seven-tables-into-one-clean-dataframe) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/merge-seven-tables-into-one-clean-dataframe) | — |
 | **[Square](../companies/square.md)** | [Merge Staff Shifts Into Who-Is-On-Duty Time Slots](https://trueinterview.io/questions/shift-overlap-time-segments) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/shift-overlap-time-segments) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Mike and Gems](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | — |
@@ -153,7 +141,6 @@
 | **[Square](../companies/square.md)** | [Single-Runway Flight Scheduler With Rescheduling](https://trueinterview.io/questions/airline-departure-scheduling) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/airline-departure-scheduling) | — |
 | **[Karat](../companies/karat.md)** | [Sizing a Year of Search Engine Query Log Storage](https://trueinterview.io/questions/search-query-log-storage-estimate) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/search-query-log-storage-estimate) | — |
 | **[Capital One](../companies/capital-one.md)** | [Sketch function from derivatives and limits](https://trueinterview.io/questions/sketch-function-from-derivatives-and-limits) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/sketch-function-from-derivatives-and-limits) | — |
-| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[Intuit](../companies/intuit.md)** | [Smart Gardener (Intuit India)](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | — |
 | **[Karat](../companies/karat.md)** | [Snake Board Lanes, Exits, and Nests](https://trueinterview.io/questions/snake-board-exits) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/snake-board-exits) | — |
 | **[Snowflake](../companies/snowflake.md)** | [Solve and optimize 3Sum and variants at scale](https://trueinterview.io/questions/solve-and-optimize-3sum-and-variants-at-scale) | Onsite | Mid · Senior · Staff+ | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-and-optimize-3sum-and-variants-at-scale) | — |

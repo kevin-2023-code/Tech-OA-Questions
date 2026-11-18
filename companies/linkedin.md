@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice LinkedIn on TrueInterview](https://trueinterview.io/problems/company/linkedin) · [How LinkedIn interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/linkedin/README.md)
 
-📱 Consumer internet & media · **145 questions** · 6 from an OA · last reported Oct 2026
+📱 Consumer internet & media · **144 questions** · 6 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (23) · 🌱 Mid (82) · 🎯 Senior (118) · 🚀 Staff+ (36)
+**By level:** 🎓 Intern & New grad (23) · 🌱 Mid (81) · 🎯 Senior (117) · 🚀 Staff+ (36)
 
-**By role:** 💻 Software Engineering (118) · 🤖 ML, AI & Research (12) · 📊 Data Science & Analytics (12) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (117) · 🤖 ML, AI & Research (12) · 📊 Data Science & Analytics (12) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (6) · 📞 Phone (76) · 🏢 Onsite (76)
+**Rounds:** 📝 OA (6) · 📞 Phone (76) · 🏢 Onsite (75)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/linkedin-interview-process) · [SWE](https://trueinterview.io/study/linkedin-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/linkedin-machine-learning-engineer-interview-process) · [Infra](https://trueinterview.io/study/linkedin-infrastructure-engineer-interview-process)
 
@@ -164,5 +164,4 @@
 | [Meeting Rooms II](https://trueinterview.io/questions/ddc8534d-46e9-4b02-abec-60d33c956280)<br><sub>also [Google](../companies/google.md)</sub> | Phone | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/ddc8534d-46e9-4b02-abec-60d33c956280) | — |
 | [Merge N-ary Tree](https://trueinterview.io/questions/26526039-c716-45e9-9bc1-c041c03ce168)<br><sub>also [Microsoft](../companies/microsoft.md)</sub> | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/26526039-c716-45e9-9bc1-c041c03ce168) | — |
 | [Real-Time Scalable Spam Email Detection System Design](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/6b5e2814-d680-40a4-8a95-e002c830c543) | — |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | [Token Bucket Rate Limiter](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34)<br><sub>also [Meta](../companies/meta.md)</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/e7062e3a-a5ed-4e78-9bb3-93a71d1e4c34) | — |

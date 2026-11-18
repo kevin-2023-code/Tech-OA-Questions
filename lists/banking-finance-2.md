@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Banks, insurers & asset managers*.
 
-**427 questions** · 105 from an OA · 83 reported in the last 90 days · 216 free to solve
+**426 questions** · 105 from an OA · 83 reported in the last 90 days · 215 free to solve
 
-**By level:** 🎓 Intern & New grad (151) · 🌱 Mid (230) · 🎯 Senior (262) · 🚀 Staff+ (76)
+**By level:** 🎓 Intern & New grad (150) · 🌱 Mid (229) · 🎯 Senior (261) · 🚀 Staff+ (76)
 
-**By role:** 💻 Software Engineering (260) · 🤖 ML, AI & Research (19) · 📊 Data Science & Analytics (124) · 📈 Quantitative Finance (13) · 📱 Product Management (8)
+**By role:** 💻 Software Engineering (259) · 🤖 ML, AI & Research (19) · 📊 Data Science & Analytics (124) · 📈 Quantitative Finance (13) · 📱 Product Management (8)
 
-**Rounds:** 📝 OA (105) · 📞 Phone (214) · 🏢 Onsite (131) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (105) · 📞 Phone (214) · 🏢 Onsite (130) · 🏠 Take-home (1)
 
-**Companies:** [Capital One (213)](../companies/capital-one.md) · [Bloomberg (95)](../companies/bloomberg.md) · [Goldman Sachs (68)](../companies/goldman-sachs.md) · [JPMorgan (28)](../companies/jpmorgan.md) · [Visa (15)](../companies/visa.md) · [GEICO (7)](../companies/geico.md) · [Lead Bank (7)](../companies/lead-bank.md)
+**Companies:** [Capital One (213)](../companies/capital-one.md) · [Bloomberg (95)](../companies/bloomberg.md) · [Goldman Sachs (67)](../companies/goldman-sachs.md) · [JPMorgan (28)](../companies/jpmorgan.md) · [Visa (15)](../companies/visa.md) · [GEICO (7)](../companies/geico.md) · [Lead Bank (7)](../companies/lead-bank.md)
 
 <sub>Page [1](banking-finance.md) · **2**</sub>
 
@@ -25,7 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Capital One](../companies/capital-one.md)** | [Map stakeholders and influence routes](https://trueinterview.io/questions/map-stakeholders-and-influence-routes) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/map-stakeholders-and-influence-routes) | — |
 | **[Capital One](../companies/capital-one.md)** | [Match Netflix profit; derive required subscribers](https://trueinterview.io/questions/match-netflix-profit-derive-required-subscribers) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/match-netflix-profit-derive-required-subscribers) | — |
 | **[Capital One](../companies/capital-one.md)** | [Match Year-2 profit to Year-1](https://trueinterview.io/questions/match-year-2-profit-to-year-1) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/match-year-2-profit-to-year-1) | — |
 | **[Capital One](../companies/capital-one.md)** | [Merge ad CSVs and compute CTR](https://trueinterview.io/questions/merge-ad-csvs-and-compute-ctr) | OA | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/merge-ad-csvs-and-compute-ctr) | — |

@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Airtable on TrueInterview](https://trueinterview.io/problems/company/airtable) · [How Airtable interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/airtable/README.md)
 
-🏢 Enterprise & business software · **11 questions** · last reported Jul 2026
+🏢 Enterprise & business software · **10 questions** · last reported Jul 2026
 
-**By level:** 🎓 Intern & New grad (3) · 🌱 Mid (7) · 🎯 Senior (11) · 🚀 Staff+ (1)
+**By level:** 🎓 Intern & New grad (3) · 🌱 Mid (6) · 🎯 Senior (10) · 🚀 Staff+ (1)
 
-**By role:** 💻 Software Engineering (9) · 🤖 ML, AI & Research (1) · 📊 Data Science & Analytics (1)
+**By role:** 💻 Software Engineering (8) · 🤖 ML, AI & Research (1) · 📊 Data Science & Analytics (1)
 
-**Rounds:** 📞 Phone (5) · 🏢 Onsite (6)
+**Rounds:** 📞 Phone (4) · 🏢 Onsite (6)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -23,7 +23,6 @@
 | [Implement a DB Connection Pool](https://trueinterview.io/questions/implement-a-db-connection-pool)<br><sub>also [Harvey](../companies/harvey.md)</sub> | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/implement-a-db-connection-pool) | Apr 30, 2026 |
 | [Describe an inclusive action you took](https://trueinterview.io/questions/describe-an-inclusive-action-you-took) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/describe-an-inclusive-action-you-took) | Feb 12, 2026 |
 | [Optimize a dispatcher’s scheduling data structures](https://trueinterview.io/questions/optimize-a-dispatcher-s-scheduling-data-structures) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/optimize-a-dispatcher-s-scheduling-data-structures) | Feb 12, 2026 |
-| [Implement a Connection Pool](https://trueinterview.io/questions/implement-a-connection-pool) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/implement-a-connection-pool) | Jan 25, 2026 |
 | [Design NL-to-Formula assistant for Airtable](https://trueinterview.io/questions/design-nl-to-formula-assistant-for-airtable) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-nl-to-formula-assistant-for-airtable) | Dec 2025 |
 | [Answer ambiguity and PM disagreement behavioral questions](https://trueinterview.io/questions/answer-ambiguity-and-pm-disagreement-behavioral-questions) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/answer-ambiguity-and-pm-disagreement-behavioral-questions) | Oct 14, 2025 |
 | [Approximate Percentiles](https://trueinterview.io/questions/774c6614-c4f5-4f5b-8320-7278c55502e2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/774c6614-c4f5-4f5b-8320-7278c55502e2) | — |

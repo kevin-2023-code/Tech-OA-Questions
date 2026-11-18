@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Microsoft on TrueInterview](https://trueinterview.io/problems/company/microsoft) · [How Microsoft interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/microsoft/README.md)
 
-🏢 Enterprise & business software · **240 questions** · 32 from an OA · last reported Oct 2026
+🏢 Enterprise & business software · **239 questions** · 32 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (61) · 🌱 Mid (152) · 🎯 Senior (166) · 🚀 Staff+ (37)
+**By level:** 🎓 Intern & New grad (61) · 🌱 Mid (151) · 🎯 Senior (165) · 🚀 Staff+ (37)
 
-**By role:** 💻 Software Engineering (192) · 🤖 ML, AI & Research (26) · 📊 Data Science & Analytics (17) · 📈 Quantitative Finance (2) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (191) · 🤖 ML, AI & Research (26) · 📊 Data Science & Analytics (17) · 📈 Quantitative Finance (2) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (32) · 📞 Phone (107) · 🏢 Onsite (121)
+**Rounds:** 📝 OA (32) · 📞 Phone (107) · 🏢 Onsite (120)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/microsoft-interview-process) · [SWE](https://trueinterview.io/study/microsoft-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/microsoft-machine-learning-engineer-interview-process) · [AI engineer](https://trueinterview.io/study/microsoft-ai-engineer-interview-process) · [Infra](https://trueinterview.io/study/microsoft-infrastructure-engineer-interview-process)
 
@@ -257,7 +257,6 @@
 | [React Performance Review](https://trueinterview.io/questions/90794d67-2f02-4fea-8b1a-2c0d024a0416) | Onsite | Mid · Senior | AI coding | [![Practice][p]](https://trueinterview.io/questions/90794d67-2f02-4fea-8b1a-2c0d024a0416) | — |
 | [Reverse a list in-place](https://trueinterview.io/questions/reverse-a-list-in-place) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/reverse-a-list-in-place) | — |
 | [Second Highest Salary](https://trueinterview.io/questions/second-highest-salary-4) | Phone · Onsite | New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/second-highest-salary-4) | — |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | [Subarray with Most Target Element](https://trueinterview.io/questions/subarray-with-most-target-element-2)<br><sub>also [Roblox](../companies/roblox.md) / [Tesla](../companies/tesla.md)</sub> | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/subarray-with-most-target-element-2) | — |
 | [Test classifier difference with McNemar's test](https://trueinterview.io/questions/test-classifier-difference-with-mcnemars-test) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/test-classifier-difference-with-mcnemars-test) | — |
 | [Top K Relevant Apps by Keyword Scores](https://trueinterview.io/questions/512b2078-e57b-4c18-b5d4-995b82722fe1) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/512b2078-e57b-4c18-b5d4-995b82722fe1) | — |

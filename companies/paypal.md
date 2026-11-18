@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice PayPal on TrueInterview](https://trueinterview.io/problems/company/paypal) · [How PayPal interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/paypal/README.md)
 
-💳 Fintech, payments & crypto · **37 questions** · 3 from an OA · last reported Oct 2026
+💳 Fintech, payments & crypto · **36 questions** · 3 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (10) · 🌱 Mid (25) · 🎯 Senior (27) · 🚀 Staff+ (12)
+**By level:** 🎓 Intern & New grad (10) · 🌱 Mid (24) · 🎯 Senior (27) · 🚀 Staff+ (12)
 
-**By role:** 💻 Software Engineering (21) · 📊 Data Science & Analytics (15)
+**By role:** 💻 Software Engineering (20) · 📊 Data Science & Analytics (15)
 
-**Rounds:** 📝 OA (3) · 📞 Phone (19) · 🏢 Onsite (15)
+**Rounds:** 📝 OA (3) · 📞 Phone (19) · 🏢 Onsite (14)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/paypal-interview-process)
 
@@ -45,7 +45,6 @@
 | [Number of Unique Binary Trees](https://trueinterview.io/questions/25b64cd7-2596-4ac5-bdf2-abd7cc18aeb0) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/25b64cd7-2596-4ac5-bdf2-abd7cc18aeb0) | Apr 2025 |
 | [Graph Traversal using BFS/DFS](https://trueinterview.io/questions/14dcf4e9-f252-4713-b8d1-6cc42457502f) | OA | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/14dcf4e9-f252-4713-b8d1-6cc42457502f) | Mar 2025 |
 | [Minimum Steps to Move Balls to Respective Holes](https://trueinterview.io/questions/34c74942-4b06-414a-a41c-67e01abccddb) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/34c74942-4b06-414a-a41c-67e01abccddb) | Mar 2025 |
-| [Banking System Operations](https://trueinterview.io/questions/aab753cb-ef8c-4f67-a2b4-d6c811f9c12e) | Onsite | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/aab753cb-ef8c-4f67-a2b4-d6c811f9c12e) | — |
 | [Count User Logins (Singapore)](https://trueinterview.io/questions/1ab60462-b812-470d-9ebc-0efde6eed6cf) | Phone | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/1ab60462-b812-470d-9ebc-0efde6eed6cf) | — |
 | [Design an A/B for ATO rule](https://trueinterview.io/questions/design-an-a-b-for-ato-rule) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-a-b-for-ato-rule) | — |
 | [Find Reachable Good Endings in Choose Your Own Adventure Book](https://trueinterview.io/questions/15808a55-af32-4748-a811-48bd2ef1f829) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/15808a55-af32-4748-a811-48bd2ef1f829) | — |

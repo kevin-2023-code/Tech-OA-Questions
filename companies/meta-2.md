@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Meta on TrueInterview](https://trueinterview.io/problems/company/meta) · [How Meta interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/meta/README.md)
 
-📱 Consumer internet & media · **489 questions** · 34 from an OA · last reported Oct 2026
+📱 Consumer internet & media · **488 questions** · 33 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (102) · 🌱 Mid (257) · 🎯 Senior (398) · 🚀 Staff+ (183)
+**By level:** 🎓 Intern & New grad (101) · 🌱 Mid (256) · 🎯 Senior (397) · 🚀 Staff+ (183)
 
-**By role:** 💻 Software Engineering (261) · 🤖 ML, AI & Research (28) · 📊 Data Science & Analytics (186) · 📱 Product Management (9)
+**By role:** 💻 Software Engineering (260) · 🤖 ML, AI & Research (28) · 📊 Data Science & Analytics (186) · 📱 Product Management (9)
 
-**Rounds:** 📝 OA (34) · 📞 Phone (250) · 🏢 Onsite (232) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (33) · 📞 Phone (250) · 🏢 Onsite (232) · 🏠 Take-home (1)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/meta-interview-process) · [SWE](https://trueinterview.io/study/meta-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/meta-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/meta-research-scientist-interview-process) · [Infra](https://trueinterview.io/study/meta-infrastructure-engineer-interview-process) · [Data scientist](https://trueinterview.io/study/meta-data-scientist-interview-process)
 
@@ -23,7 +23,6 @@
 
 | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-: | :-- |
-| [Design metrics for violating content exposure](https://trueinterview.io/questions/design-metrics-for-violating-content-exposure) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-metrics-for-violating-content-exposure) | — |
 | [Design offline segments for Meta Portal retail](https://trueinterview.io/questions/design-offline-segments-for-meta-portal-retail) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-offline-segments-for-meta-portal-retail) | — |
 | [Design pre-launch plan and cluster A/B test](https://trueinterview.io/questions/design-pre-launch-plan-and-cluster-a-b-test) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-pre-launch-plan-and-cluster-a-b-test) | — |
 | [Design robust group size limiting for calls](https://trueinterview.io/questions/design-robust-group-size-limiting-for-calls) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-robust-group-size-limiting-for-calls) | — |

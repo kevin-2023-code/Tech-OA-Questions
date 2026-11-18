@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Cybersecurity*.
 
-**79 questions** · 7 from an OA · 7 reported in the last 90 days · 27 free to solve
+**78 questions** · 7 from an OA · 7 reported in the last 90 days · 26 free to solve
 
-**By level:** 🎓 Intern & New grad (14) · 🌱 Mid (58) · 🎯 Senior (47) · 🚀 Staff+ (5)
+**By level:** 🎓 Intern & New grad (13) · 🌱 Mid (57) · 🎯 Senior (46) · 🚀 Staff+ (5)
 
-**By role:** 💻 Software Engineering (75) · 🤖 ML, AI & Research (1) · 📊 Data Science & Analytics (1) · 📈 Quantitative Finance (1) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (74) · 🤖 ML, AI & Research (1) · 📊 Data Science & Analytics (1) · 📈 Quantitative Finance (1) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (7) · 📞 Phone (50) · 🏢 Onsite (27)
+**Rounds:** 📝 OA (7) · 📞 Phone (50) · 🏢 Onsite (26)
 
-**Companies:** [Verkada (32)](../companies/verkada.md) · [Rubrik (19)](../companies/rubrik.md) · [Vanta (15)](../companies/vanta.md) · [Okta (13)](../companies/okta.md)
+**Companies:** [Verkada (31)](../companies/verkada.md) · [Rubrik (19)](../companies/rubrik.md) · [Vanta (15)](../companies/vanta.md) · [Okta (13)](../companies/okta.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -93,7 +93,6 @@
 | **[Rubrik](../companies/rubrik.md)** | [Get Minimum Operations](https://trueinterview.io/questions/cb43fa07-ddf7-494b-9e87-878972064c9d) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/cb43fa07-ddf7-494b-9e87-878972064c9d) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Key Sum Management](https://trueinterview.io/questions/bb400936-26d5-47af-adf3-bfc0445aa432) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/bb400936-26d5-47af-adf3-bfc0445aa432) | — |
 | **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) | [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | — |
-| **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Maximize Happiness](https://trueinterview.io/questions/9a5a6369-36c2-41ca-923b-276bf08c2011) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/9a5a6369-36c2-41ca-923b-276bf08c2011) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Mike and Gems](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/0d53579a-7075-43b2-9ea9-13807803a1a7) | — |
 | **[Rubrik](../companies/rubrik.md)** | [Redistribute Megaseeds](https://trueinterview.io/questions/8b3d0ac6-7941-413d-bdc1-1e60684f1afb) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/8b3d0ac6-7941-413d-bdc1-1e60684f1afb) | — |

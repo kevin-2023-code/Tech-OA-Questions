@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Autonomy, automotive & mobility*.
 
-**200 questions** · 25 from an OA · 40 reported in the last 90 days · 57 free to solve
+**199 questions** · 25 from an OA · 40 reported in the last 90 days · 58 free to solve
 
-**By level:** 🎓 Intern & New grad (42) · 🌱 Mid (111) · 🎯 Senior (132) · 🚀 Staff+ (22)
+**By level:** 🎓 Intern & New grad (42) · 🌱 Mid (110) · 🎯 Senior (131) · 🚀 Staff+ (22)
 
-**By role:** 💻 Software Engineering (159) · 🤖 ML, AI & Research (22) · 📊 Data Science & Analytics (15) · 📈 Quantitative Finance (1)
+**By role:** 💻 Software Engineering (158) · 🤖 ML, AI & Research (22) · 📊 Data Science & Analytics (15) · 📈 Quantitative Finance (1)
 
-**Rounds:** 📝 OA (25) · 📞 Phone (116) · 🏢 Onsite (64) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (25) · 📞 Phone (116) · 🏢 Onsite (63) · 🏠 Take-home (1)
 
-**Companies:** [Waymo (87)](../companies/waymo.md) · [Tesla (52)](../companies/tesla.md) · [Applied Intuition (29)](../companies/applied-intuition.md) · [WeRide (22)](../companies/weride.md) · [Nuro (12)](../companies/nuro.md)
+**Companies:** [Waymo (86)](../companies/waymo.md) · [Tesla (52)](../companies/tesla.md) · [Applied Intuition (29)](../companies/applied-intuition.md) · [WeRide (22)](../companies/weride.md) · [Nuro (12)](../companies/nuro.md)
 
 <sub>Newest first · 🔥 reported in the last 14 days · 🆕 last 45 days · **Level** = the level the loop was reported at · a dash means not recorded</sub>
 
@@ -188,7 +188,7 @@
 | **[Nuro](../companies/nuro.md)** | [Find gaps between intervals](https://trueinterview.io/questions/find-gaps-between-intervals) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/find-gaps-between-intervals) | Nov 9, 2025 |
 | **[Applied Intuition](../companies/applied-intuition.md)** | [Arithmetic Expression Evaluator II](https://trueinterview.io/questions/78d6d121-b1eb-489a-ad84-0e90cce7d0fc) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/78d6d121-b1eb-489a-ad84-0e90cce7d0fc) | Nov 2025 |
 | **[WeRide](../companies/weride.md)** | [Minimize Cost to Make Blocks Unique](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Phone | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/7ed29a4b-6ee0-4a1b-84ff-7e2531aeac37) | Nov 2025 |
-| **[Rokt](../companies/rokt.md)** / [Instacart](../companies/instacart.md) / [WeRide](../companies/weride.md) | [Modified Basic Calculator](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Nov 2025 |
+| **[Rokt](../companies/rokt.md)** / [Instacart](../companies/instacart.md) / [WeRide](../companies/weride.md) | [Modified Basic Calculator](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Phone | Senior | Coding | [![Free][f]](https://trueinterview.io/questions/498c0804-84fe-43e8-89c5-7e08cbe4a197) | Nov 2025 |
 | **[Goldman Sachs](../companies/goldman-sachs.md)** / [WeRide](../companies/weride.md) | [Preprocess Dates](https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099) | OA | Intern | Coding | [![Practice][p]](https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099) | Nov 2025 |
 | **[WeRide](../companies/weride.md)** | [Shortest Path to Collect All Coins](https://trueinterview.io/questions/ebc36290-8e59-49ee-aba8-88d6ce49f1cb) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/ebc36290-8e59-49ee-aba8-88d6ce49f1cb) | Nov 2025 |
 | **[Tesla](../companies/tesla.md)** | [First Solar Panel Placement in a Binary Grid](https://trueinterview.io/questions/solar-panel-placement-grid) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/solar-panel-placement-grid) | Oct 31, 2025 |
@@ -221,5 +221,4 @@
 | **[WeRide](../companies/weride.md)** | [Is Bipartite Graph](https://trueinterview.io/questions/91f2f12c-8e72-43d8-9225-faacf732e455) | Phone | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/91f2f12c-8e72-43d8-9225-faacf732e455) | — |
 | **[WeRide](../companies/weride.md)** | [Long Break](https://trueinterview.io/questions/908737d5-1e10-4ed9-b0f6-e6c280b24347) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/908737d5-1e10-4ed9-b0f6-e6c280b24347) | — |
 | **[WeRide](../companies/weride.md)** | [Meetup Schedule](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/c41a3abb-bca0-472e-9001-c8db9eb97fdb) | — |
-| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[Roblox](../companies/roblox.md)** / [Microsoft](../companies/microsoft.md) / [Tesla](../companies/tesla.md) | [Subarray with Most Target Element](https://trueinterview.io/questions/subarray-with-most-target-element-2) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/subarray-with-most-target-element-2) | — |

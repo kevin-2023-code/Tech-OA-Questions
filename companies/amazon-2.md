@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Amazon on TrueInterview](https://trueinterview.io/problems/company/amazon) · [How Amazon interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/amazon/README.md)
 
-🛒 E-commerce & marketplaces · **466 questions** · 53 from an OA · last reported Oct 2026
+🛒 E-commerce & marketplaces · **463 questions** · 53 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (148) · 🌱 Mid (297) · 🎯 Senior (287) · 🚀 Staff+ (70)
+**By level:** 🎓 Intern & New grad (147) · 🌱 Mid (294) · 🎯 Senior (284) · 🚀 Staff+ (70)
 
-**By role:** 💻 Software Engineering (337) · 🤖 ML, AI & Research (52) · 📊 Data Science & Analytics (67) · 📈 Quantitative Finance (3) · 📱 Product Management (1)
+**By role:** 💻 Software Engineering (334) · 🤖 ML, AI & Research (52) · 📊 Data Science & Analytics (67) · 📈 Quantitative Finance (3) · 📱 Product Management (1)
 
-**Rounds:** 📝 OA (53) · 📞 Phone (239) · 🏢 Onsite (207)
+**Rounds:** 📝 OA (53) · 📞 Phone (239) · 🏢 Onsite (204)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/amazon-interview-process) · [SWE](https://trueinterview.io/study/amazon-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/amazon-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/amazon-research-scientist-interview-process) · [Frontend](https://trueinterview.io/study/amazon-frontend-engineer-interview-process)
 
@@ -38,7 +38,6 @@
 | [Design SQL/Pandas aggregations on retail schema](https://trueinterview.io/questions/design-sql-pandas-aggregations-on-retail-schema) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/design-sql-pandas-aggregations-on-retail-schema) | — |
 | [Design student–course data models and SQL](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | Onsite | Senior · Staff+ | SQL | [![Practice][p]](https://trueinterview.io/questions/design-studentcourse-data-models-and-sql) | — |
 | [Design Tic-Tac-Toc](https://trueinterview.io/questions/design-tic-tac-toc) | Onsite | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-tic-tac-toc) | — |
-| [Design Unix File Search](https://trueinterview.io/questions/design-unix-file-search) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-unix-file-search) | — |
 | [Diagnose and fix underperforming ML model](https://trueinterview.io/questions/diagnose-and-fix-underperforming-ml-model) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/diagnose-and-fix-underperforming-ml-model) | — |
 | [Drive stakeholder alignment under trade-offs](https://trueinterview.io/questions/drive-stakeholder-alignment-under-trade-offs) | OA | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/drive-stakeholder-alignment-under-trade-offs) | — |
 | [Estimate live sports impact on subscriptions](https://trueinterview.io/questions/estimate-live-sports-impact-on-subscriptions) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/estimate-live-sports-impact-on-subscriptions) | — |
@@ -61,7 +60,6 @@
 | [Implement PyTorch training loop](https://trueinterview.io/questions/implement-pytorch-training-loop) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/implement-pytorch-training-loop) | — |
 | [List hyperparameter tuning methods](https://trueinterview.io/questions/list-hyperparameter-tuning-methods) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/list-hyperparameter-tuning-methods) | — |
 | [Longest Substring Without Repeating Characters](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0)<br><sub>also [Verkada](../companies/verkada.md) / [ByteDance](../companies/bytedance.md)</sub> | Phone | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/4b08af58-e4c4-4059-8320-b7e9f0c38de0) | — |
-| [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51)<br><sub>also [Verkada](../companies/verkada.md) / [ByteDance](../companies/bytedance.md) / [Goldman Sachs](../companies/goldman-sachs.md) / +2</sub> | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
 | [Machine Learning Coding: Reproduce a New Paper Experiment](https://trueinterview.io/questions/36bbfdc3-e117-4a78-bcb0-1e89dae78b5d) | Onsite | Senior · Staff+ | AI coding | [![Practice][p]](https://trueinterview.io/questions/36bbfdc3-e117-4a78-bcb0-1e89dae78b5d) | — |
 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9)<br><sub>also [Apple](../companies/apple.md) / [Atlassian](../companies/atlassian.md) / [ByteDance](../companies/bytedance.md) / +3</sub> | OA | New grad · Mid | Coding | [![Free][f]](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | — |
 | [Measure PMF for Alexa Shopping](https://trueinterview.io/questions/measure-pmf-for-alexa-shopping) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/measure-pmf-for-alexa-shopping) | — |
@@ -78,7 +76,6 @@
 | [Reversi Move Simulation](https://trueinterview.io/questions/reversi-move-simulation-2)<br><sub>also [Hudson River Trading](../companies/hudson-river-trading.md)</sub> | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/reversi-move-simulation-2) | — |
 | [Root-cause an incident and drive consensus](https://trueinterview.io/questions/root-cause-an-incident-and-drive-consensus) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/root-cause-an-incident-and-drive-consensus) | — |
 | [Server Request](https://trueinterview.io/questions/1b3d56cc-d40b-424b-8dd3-47a0e789cfcf) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/1b3d56cc-d40b-424b-8dd3-47a0e789cfcf) | — |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Rippling](../companies/rippling.md) / [Atlassian](../companies/atlassian.md) / [LinkedIn](../companies/linkedin.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | [Solve two string DP/hash problems](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | — |
 | [Solve two-sum variants at scale](https://trueinterview.io/questions/solve-two-sum-variants-at-scale) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-sum-variants-at-scale) | — |
 | [SQL Interview Questions (Window Functions and CTE)](https://trueinterview.io/questions/66986c12-8cc7-460c-8d29-f7dcec6170d1) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/66986c12-8cc7-460c-8d29-f7dcec6170d1) | — |

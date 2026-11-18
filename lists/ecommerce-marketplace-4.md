@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *E-commerce & marketplaces*.
 
-**1,231 questions** · 150 from an OA · 305 reported in the last 90 days · 468 free to solve
+**1,224 questions** · 147 from an OA · 303 reported in the last 90 days · 467 free to solve
 
-**By level:** 🎓 Intern & New grad (320) · 🌱 Mid (713) · 🎯 Senior (830) · 🚀 Staff+ (229)
+**By level:** 🎓 Intern & New grad (316) · 🌱 Mid (707) · 🎯 Senior (823) · 🚀 Staff+ (229)
 
-**By role:** 💻 Software Engineering (877) · 🤖 ML, AI & Research (98) · 📊 Data Science & Analytics (228) · 📈 Quantitative Finance (4) · 📱 Product Management (11)
+**By role:** 💻 Software Engineering (871) · 🤖 ML, AI & Research (98) · 📊 Data Science & Analytics (228) · 📈 Quantitative Finance (4) · 📱 Product Management (11)
 
-**Rounds:** 📝 OA (150) · 📞 Phone (623) · 🏢 Onsite (543) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (147) · 📞 Phone (623) · 🏢 Onsite (539) · 🏠 Take-home (1)
 
-**Companies:** [Amazon (466)](../companies/amazon.md) · [Uber (263)](../companies/uber.md) · [DoorDash (151)](../companies/doordash.md) · [Airbnb (112)](../companies/airbnb.md) · [Instacart (65)](../companies/instacart.md) · [Lyft (49)](../companies/lyft.md) · [eBay (48)](../companies/ebay.md) · [Expedia (41)](../companies/expedia.md) · [Shopify (41)](../companies/shopify.md) · [Walmart Labs (35)](../companies/walmart-labs.md) · [Pinduoduo (27)](../companies/pinduoduo.md) · [Whatnot (19)](../companies/whatnot.md) · [Faire (5)](../companies/faire.md) · [StubHub (3)](../companies/stubhub.md)
+**Companies:** [Amazon (463)](../companies/amazon.md) · [Uber (262)](../companies/uber.md) · [DoorDash (151)](../companies/doordash.md) · [Airbnb (109)](../companies/airbnb.md) · [Instacart (65)](../companies/instacart.md) · [eBay (48)](../companies/ebay.md) · [Lyft (48)](../companies/lyft.md) · [Expedia (41)](../companies/expedia.md) · [Shopify (41)](../companies/shopify.md) · [Walmart Labs (35)](../companies/walmart-labs.md) · [Pinduoduo (27)](../companies/pinduoduo.md) · [Whatnot (19)](../companies/whatnot.md) · [Faire (5)](../companies/faire.md) · [StubHub (3)](../companies/stubhub.md)
 
 <sub>Page [1](ecommerce-marketplace.md) · [2](ecommerce-marketplace-2.md) · [3](ecommerce-marketplace-3.md) · **4**</sub>
 
@@ -25,13 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Instacart](../companies/instacart.md)** | [Should you roll out if NSM decreases?](https://trueinterview.io/questions/should-you-roll-out-if-nsm-decreases) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/should-you-roll-out-if-nsm-decreases) | — |
-| **[Shopify](../companies/shopify.md)** | [Simulate a Robot Following Commands on a Grid](https://trueinterview.io/questions/800f318f-3aba-4c06-9eef-ee7b1da55f6d) | OA | Intern · New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/800f318f-3aba-4c06-9eef-ee7b1da55f6d) | — |
-| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
-| **[Instacart](../companies/instacart.md)** | [Solve a challenge using data](https://trueinterview.io/questions/solve-a-challenge-using-data) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/solve-a-challenge-using-data) | — |
-| **[Amazon](../companies/amazon.md)** | [Solve two string DP/hash problems](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-string-dp-hash-problems) | — |
-| **[Amazon](../companies/amazon.md)** | [Solve two-sum variants at scale](https://trueinterview.io/questions/solve-two-sum-variants-at-scale) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/solve-two-sum-variants-at-scale) | — |
-| **[ByteDance](../companies/bytedance.md)** / [Pinduoduo](../companies/pinduoduo.md) | [Spiral Matrix Fill](https://trueinterview.io/questions/3b33f241-83ae-4754-af33-8eac2267c5b2) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/3b33f241-83ae-4754-af33-8eac2267c5b2) | — |
 | **[Amazon](../companies/amazon.md)** | [SQL Interview Questions (Window Functions and CTE)](https://trueinterview.io/questions/66986c12-8cc7-460c-8d29-f7dcec6170d1) | OA | New grad · Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/66986c12-8cc7-460c-8d29-f7dcec6170d1) | — |
 | **[Instacart](../companies/instacart.md)** | [Summarize your background concisely](https://trueinterview.io/questions/summarize-your-background-concisely) | Phone | Mid · Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/summarize-your-background-concisely) | — |
 | **[Coinbase](../companies/coinbase.md)** / [Instacart](../companies/instacart.md) | [Task Management System III](https://trueinterview.io/questions/task-management-system) | OA | New grad · Mid | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/task-management-system) | — |

@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Meta on TrueInterview](https://trueinterview.io/problems/company/meta) · [How Meta interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/meta/README.md)
 
-📱 Consumer internet & media · **489 questions** · 34 from an OA · last reported Oct 2026
+📱 Consumer internet & media · **488 questions** · 33 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (102) · 🌱 Mid (257) · 🎯 Senior (398) · 🚀 Staff+ (183)
+**By level:** 🎓 Intern & New grad (101) · 🌱 Mid (256) · 🎯 Senior (397) · 🚀 Staff+ (183)
 
-**By role:** 💻 Software Engineering (261) · 🤖 ML, AI & Research (28) · 📊 Data Science & Analytics (186) · 📱 Product Management (9)
+**By role:** 💻 Software Engineering (260) · 🤖 ML, AI & Research (28) · 📊 Data Science & Analytics (186) · 📱 Product Management (9)
 
-**Rounds:** 📝 OA (34) · 📞 Phone (250) · 🏢 Onsite (232) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (33) · 📞 Phone (250) · 🏢 Onsite (232) · 🏠 Take-home (1)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/meta-interview-process) · [SWE](https://trueinterview.io/study/meta-software-engineer-interview-process) · [ML engineer](https://trueinterview.io/study/meta-machine-learning-engineer-interview-process) · [Research scientist](https://trueinterview.io/study/meta-research-scientist-interview-process) · [Infra](https://trueinterview.io/study/meta-infrastructure-engineer-interview-process) · [Data scientist](https://trueinterview.io/study/meta-data-scientist-interview-process)
 
@@ -156,7 +156,6 @@
 | [Task Management Filtering and Sorting](https://trueinterview.io/questions/159a317a-4e4a-5e58-8900-ec4aae417823)<br><sub>also [Rippling](../companies/rippling.md)</sub> | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/159a317a-4e4a-5e58-8900-ec4aae417823) | Jun 2026 |
 | [Valid Sudoku](https://trueinterview.io/questions/263c9c7c-07fd-508a-82a5-234de613401c)<br><sub>also [Apple](../companies/apple.md) / [Verkada](../companies/verkada.md)</sub> | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/263c9c7c-07fd-508a-82a5-234de613401c) | Jun 2026 |
 | [Ads Ranking](https://trueinterview.io/questions/mlsd-ads-ranking) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/mlsd-ads-ranking) | May 30, 2026 |
-| [Banking System (Progressive OOD)](https://trueinterview.io/questions/codesignal-oa-banking-system)<br><sub>also [Airbnb](../companies/airbnb.md)</sub> | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/codesignal-oa-banking-system) | May 26, 2026 |
 | [Advertising Time-of-Day Analysis](https://trueinterview.io/questions/advertising-time-of-day-analysis) | Onsite | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/advertising-time-of-day-analysis) | May 23, 2026 |
 | [Average Reactions per Post](https://trueinterview.io/questions/average-reactions-per-post) | Phone | New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/average-reactions-per-post) | May 23, 2026 |
 | [Recent Unrelated Posts](https://trueinterview.io/questions/recent-unrelated-posts) | Phone | Intern · New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/recent-unrelated-posts) | May 23, 2026 |
@@ -423,5 +422,6 @@
 | [Design experiment for fake accounts impact](https://trueinterview.io/questions/design-experiment-for-fake-accounts-impact) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-experiment-for-fake-accounts-impact) | — |
 | [Design experiment for unconnected content in feed](https://trueinterview.io/questions/design-experiment-for-unconnected-content-in-feed) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-experiment-for-unconnected-content-in-feed) | — |
 | [Design metrics and geo A/B for new feature](https://trueinterview.io/questions/design-metrics-and-geo-a-b-for-new-feature) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-metrics-and-geo-a-b-for-new-feature) | — |
+| [Design metrics for violating content exposure](https://trueinterview.io/questions/design-metrics-for-violating-content-exposure) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-metrics-for-violating-content-exposure) | — |
 
 <sub>Page **1** · [2](meta-2.md)</sub>

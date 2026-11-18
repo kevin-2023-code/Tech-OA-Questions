@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Consumer internet & media*.
 
-**1,581 questions** · 128 from an OA · 321 reported in the last 90 days · 590 free to solve
+**1,577 questions** · 127 from an OA · 320 reported in the last 90 days · 589 free to solve
 
-**By level:** 🎓 Intern & New grad (334) · 🌱 Mid (904) · 🎯 Senior (1,148) · 🚀 Staff+ (389)
+**By level:** 🎓 Intern & New grad (332) · 🌱 Mid (900) · 🎯 Senior (1,144) · 🚀 Staff+ (389)
 
-**By role:** 💻 Software Engineering (1,013) · 🤖 ML, AI & Research (135) · 📊 Data Science & Analytics (388) · 📈 Quantitative Finance (9) · 📱 Product Management (15)
+**By role:** 💻 Software Engineering (1,009) · 🤖 ML, AI & Research (135) · 📊 Data Science & Analytics (388) · 📈 Quantitative Finance (9) · 📱 Product Management (15)
 
-**Rounds:** 📝 OA (128) · 📞 Phone (882) · 🏢 Onsite (702) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (127) · 📞 Phone (881) · 🏢 Onsite (700) · 🏠 Take-home (1)
 
-**Companies:** [Meta (489)](../companies/meta.md) · [Google (382)](../companies/google.md) · [ByteDance (344)](../companies/bytedance.md) · [LinkedIn (145)](../companies/linkedin.md) · [Pinterest (128)](../companies/pinterest.md) · [Netflix (107)](../companies/netflix.md) · [Snapchat (87)](../companies/snapchat.md) · [Reddit (47)](../companies/reddit.md) · [Yelp (22)](../companies/yelp.md) · [Discord (11)](../companies/discord.md)
+**Companies:** [Meta (488)](../companies/meta.md) · [Google (382)](../companies/google.md) · [ByteDance (343)](../companies/bytedance.md) · [LinkedIn (144)](../companies/linkedin.md) · [Pinterest (128)](../companies/pinterest.md) · [Netflix (107)](../companies/netflix.md) · [Snapchat (87)](../companies/snapchat.md) · [Reddit (45)](../companies/reddit.md) · [Yelp (22)](../companies/yelp.md) · [Discord (11)](../companies/discord.md)
 
 <sub>Page [1](consumer-internet.md) · [2](consumer-internet-2.md) · **3** · [4](consumer-internet-4.md)</sub>
 
@@ -25,8 +25,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[ByteDance](../companies/bytedance.md)** | [Count Same-Day Registered Posters](https://trueinterview.io/questions/count-same-day-registered-posters) | Phone | Mid · Senior | SQL | [![Practice][p]](https://trueinterview.io/questions/count-same-day-registered-posters) | Mar 14, 2026 |
-| **[Snapchat](../companies/snapchat.md)** | [Word Ladder Reachability](https://trueinterview.io/questions/word-ladder-reachability) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/word-ladder-reachability) | Mar 12, 2026 |
 | **[Google](../companies/google.md)** | [Check if all substrings are anagrams of words](https://trueinterview.io/questions/check-if-all-substrings-are-anagrams-of-words) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/check-if-all-substrings-are-anagrams-of-words) | Mar 11, 2026 |
 | **[Google](../companies/google.md)** | [Check if all substrings are dictionary words](https://trueinterview.io/questions/check-if-all-substrings-are-dictionary-words) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/check-if-all-substrings-are-dictionary-words) | Mar 11, 2026 |
 | **[Meta](../companies/meta.md)** | [Design a location-based radius top-K search](https://trueinterview.io/questions/design-a-location-based-radius-top-k-search) | Onsite | Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-location-based-radius-top-k-search) | Mar 11, 2026 |
@@ -425,5 +423,7 @@
 | **[Google](../companies/google.md)** | [Design tests to measure latency impact](https://trueinterview.io/questions/design-tests-to-measure-latency-impact) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-tests-to-measure-latency-impact) | Oct 13, 2025 |
 | **[Meta](../companies/meta.md)** | [Evaluate emoji reactions launch](https://trueinterview.io/questions/evaluate-emoji-reactions-launch) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/evaluate-emoji-reactions-launch) | Oct 13, 2025 |
 | **[Google](../companies/google.md)** | [Explain mixed models and fixed vs random effects](https://trueinterview.io/questions/explain-mixed-models-and-fixed-vs-random-effects) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-mixed-models-and-fixed-vs-random-effects) | Oct 13, 2025 |
+| **[ByteDance](../companies/bytedance.md)** | [(Hard)](https://trueinterview.io/questions/write-sql-for-tiktok-live-creator-metrics-hard) | Phone | Mid · Senior | SQL | [![Free][f]](https://trueinterview.io/questions/write-sql-for-tiktok-live-creator-metrics-hard) | Oct 9, 2025 |
+| **[Google](../companies/google.md)** | [Solve three coding interview problems](https://trueinterview.io/questions/solve-three-coding-interview-problems) | Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/solve-three-coding-interview-problems) | Oct 9, 2025 |
 
 <sub>Page [1](consumer-internet.md) · [2](consumer-internet-2.md) · **3** · [4](consumer-internet-4.md)</sub>

@@ -6,15 +6,15 @@
 
 > **Industry:** Employers the shared company registry files under *Banks, insurers & asset managers*.
 
-**427 questions** · 105 from an OA · 83 reported in the last 90 days · 216 free to solve
+**426 questions** · 105 from an OA · 83 reported in the last 90 days · 215 free to solve
 
-**By level:** 🎓 Intern & New grad (151) · 🌱 Mid (230) · 🎯 Senior (262) · 🚀 Staff+ (76)
+**By level:** 🎓 Intern & New grad (150) · 🌱 Mid (229) · 🎯 Senior (261) · 🚀 Staff+ (76)
 
-**By role:** 💻 Software Engineering (260) · 🤖 ML, AI & Research (19) · 📊 Data Science & Analytics (124) · 📈 Quantitative Finance (13) · 📱 Product Management (8)
+**By role:** 💻 Software Engineering (259) · 🤖 ML, AI & Research (19) · 📊 Data Science & Analytics (124) · 📈 Quantitative Finance (13) · 📱 Product Management (8)
 
-**Rounds:** 📝 OA (105) · 📞 Phone (214) · 🏢 Onsite (131) · 🏠 Take-home (1)
+**Rounds:** 📝 OA (105) · 📞 Phone (214) · 🏢 Onsite (130) · 🏠 Take-home (1)
 
-**Companies:** [Capital One (213)](../companies/capital-one.md) · [Bloomberg (95)](../companies/bloomberg.md) · [Goldman Sachs (68)](../companies/goldman-sachs.md) · [JPMorgan (28)](../companies/jpmorgan.md) · [Visa (15)](../companies/visa.md) · [GEICO (7)](../companies/geico.md) · [Lead Bank (7)](../companies/lead-bank.md)
+**Companies:** [Capital One (213)](../companies/capital-one.md) · [Bloomberg (95)](../companies/bloomberg.md) · [Goldman Sachs (67)](../companies/goldman-sachs.md) · [JPMorgan (28)](../companies/jpmorgan.md) · [Visa (15)](../companies/visa.md) · [GEICO (7)](../companies/geico.md) · [Lead Bank (7)](../companies/lead-bank.md)
 
 <sub>Page **1** · [2](banking-finance-2.md)</sub>
 
@@ -423,7 +423,7 @@
 | **[Capital One](../companies/capital-one.md)** | [Interpret regression metrics and assumptions](https://trueinterview.io/questions/interpret-regression-metrics-and-assumptions) | Onsite | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/interpret-regression-metrics-and-assumptions) | — |
 | **[ByteDance](../companies/bytedance.md)** / [Bloomberg](../companies/bloomberg.md) | [Interval Problem Requiring Sorting by Start (or End)](https://trueinterview.io/questions/5164c36d-171e-41d6-8bf0-1f573c012781) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5164c36d-171e-41d6-8bf0-1f573c012781) | — |
 | **[Visa](../companies/visa.md)** | [Largest Square Area in Cityscape](https://trueinterview.io/questions/e89ab3f5-2a6f-456a-ab6b-bb0e599eafe6) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/e89ab3f5-2a6f-456a-ab6b-bb0e599eafe6) | — |
-| **[Verkada](../companies/verkada.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +3 | [LRU Cache III](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | Onsite | Intern · New grad · Mid · Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/aa8c1163-1a81-4ea5-975a-d662e56ccc51) | — |
 | **[Capital One](../companies/capital-one.md)** | [Maintain profit margin with new product line](https://trueinterview.io/questions/maintain-profit-margin-with-new-product-line) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/maintain-profit-margin-with-new-product-line) | — |
+| **[Capital One](../companies/capital-one.md)** | [Map stakeholders and influence routes](https://trueinterview.io/questions/map-stakeholders-and-influence-routes) | Onsite | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/map-stakeholders-and-influence-routes) | — |
 
 <sub>Page **1** · [2](banking-finance-2.md)</sub>

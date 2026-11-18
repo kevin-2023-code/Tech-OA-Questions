@@ -4,13 +4,13 @@
 
 [← Home](../README.md) · [Every company](README.md) · [Practice Rippling on TrueInterview](https://trueinterview.io/problems/company/rippling) · [How Rippling interviews](https://github.com/kevin-2023-code/Tech-Interview-Questions/blob/main/companies/rippling/README.md)
 
-🏢 Enterprise & business software · **58 questions** · 2 from an OA · last reported Oct 2026
+🏢 Enterprise & business software · **56 questions** · 2 from an OA · last reported Oct 2026
 
-**By level:** 🎓 Intern & New grad (11) · 🌱 Mid (36) · 🎯 Senior (49) · 🚀 Staff+ (5)
+**By level:** 🎓 Intern & New grad (11) · 🌱 Mid (35) · 🎯 Senior (47) · 🚀 Staff+ (5)
 
-**By role:** 💻 Software Engineering (57) · 📊 Data Science & Analytics (1)
+**By role:** 💻 Software Engineering (55) · 📊 Data Science & Analytics (1)
 
-**Rounds:** 📝 OA (2) · 📞 Phone (35) · 🏢 Onsite (30)
+**Rounds:** 📝 OA (2) · 📞 Phone (34) · 🏢 Onsite (29)
 
 **📖 Loop guides:** [Overview](https://trueinterview.io/study/rippling-interview-process)
 
@@ -29,7 +29,6 @@
 | [Explain the Scope and Impact of Your Most Important Project](https://trueinterview.io/questions/explain-the-scope-and-impact-of-your-most-important-project) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-the-scope-and-impact-of-your-most-important-project) | Sep 13, 2026 |
 | [Explain Your Current and Previous Engineering Roles](https://trueinterview.io/questions/explain-your-current-and-previous-engineering-roles) | Phone | New grad · Mid | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-your-current-and-previous-engineering-roles) | Sep 13, 2026 |
 | [Explain Your Reason for Changing Roles and Your Interest in the Team](https://trueinterview.io/questions/explain-your-reason-for-changing-roles-and-your-interest-in-the-team) | Phone | Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/explain-your-reason-for-changing-roles-and-your-interest-in-the-team) | Sep 13, 2026 |
-| [Extend an Expense Rules Engine with Nested Boolean Conditions](https://trueinterview.io/questions/extend-an-expense-rules-engine-with-nested-boolean-conditions) | Phone | Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/extend-an-expense-rules-engine-with-nested-boolean-conditions) | Sep 11, 2026 |
 | [Design News Pull Scheduling, Article Storage, and Topic Reads](https://trueinterview.io/questions/design-news-pull-scheduling-article-storage-and-topic-reads) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-news-pull-scheduling-article-storage-and-topic-reads) | Sep 10, 2026 |
 | [Design Hotel Booking System](https://trueinterview.io/questions/booking-system-design)<br><sub>also [Airbnb](../companies/airbnb.md) / [Amazon](../companies/amazon.md) / [eBay](../companies/ebay.md) / +6</sub> | Onsite | Mid · Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/booking-system-design) | Sep 2026 |
 | [Design a Logger with Independent Handlers](https://trueinterview.io/questions/design-a-logger-with-independent-handlers) | Phone | Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-logger-with-independent-handlers) | Aug 21, 2026 |
@@ -77,5 +76,4 @@
 | [Convert amounts between multiple currencies](https://trueinterview.io/questions/convert-amounts-between-multiple-currencies) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/convert-amounts-between-multiple-currencies) | — |
 | [Find minimum of unknown convex function](https://trueinterview.io/questions/find-minimum-of-unknown-convex-function) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/find-minimum-of-unknown-convex-function) | — |
 | [Longest Consecutive Sequence (variation)](https://trueinterview.io/questions/5828fb45-7c92-4a82-89c8-6cb11f8b12e2)<br><sub>also [ByteDance](../companies/bytedance.md) / [Meta](../companies/meta.md)</sub> | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/5828fb45-7c92-4a82-89c8-6cb11f8b12e2) | — |
-| [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f)<br><sub>also [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / [LinkedIn](../companies/linkedin.md) / +7</sub> | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | [SQL Aggregation and Percentage Calculation](https://trueinterview.io/questions/52404848-b8f6-477d-85a4-d58a360ae9e7) | OA | New grad · Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/52404848-b8f6-477d-85a4-d58a360ae9e7) | — |

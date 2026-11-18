@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Backend Engineer** role.
 
-**683 questions** · 49 from an OA · 150 reported in the last 90 days · 106 free to solve
+**679 questions** · 48 from an OA · 149 reported in the last 90 days · 106 free to solve
 
-**By level:** 🎓 Intern & New grad (80) · 🌱 Mid (306) · 🎯 Senior (527) · 🚀 Staff+ (155)
+**By level:** 🎓 Intern & New grad (79) · 🌱 Mid (302) · 🎯 Senior (525) · 🚀 Staff+ (155)
 
-**Rounds:** 📝 OA (49) · 📞 Phone (246) · 🏢 Onsite (439) · 🏠 Take-home (4)
+**Rounds:** 📝 OA (48) · 📞 Phone (244) · 🏢 Onsite (438) · 🏠 Take-home (4)
 
-**Companies:** [Stripe (43)](../companies/stripe.md) · [Amazon (42)](../companies/amazon.md) · [Meta (40)](../companies/meta.md) · [ByteDance (30)](../companies/bytedance.md) · [Microsoft (29)](../companies/microsoft.md) · [DoorDash (28)](../companies/doordash.md) · [OpenAI (27)](../companies/openai.md) · [Karat (25)](../companies/karat.md) · [Uber (25)](../companies/uber.md) · [Snowflake (23)](../companies/snowflake.md) · [Google (22)](../companies/google.md) · [Coinbase (21)](../companies/coinbase.md) · [LinkedIn (21)](../companies/linkedin.md) · [Anthropic (20)](../companies/anthropic.md) · [Atlassian (20)](../companies/atlassian.md)
+**Companies:** [Stripe (43)](../companies/stripe.md) · [Amazon (42)](../companies/amazon.md) · [Meta (40)](../companies/meta.md) · [ByteDance (30)](../companies/bytedance.md) · [Microsoft (29)](../companies/microsoft.md) · [DoorDash (28)](../companies/doordash.md) · [OpenAI (27)](../companies/openai.md) · [Karat (25)](../companies/karat.md) · [Uber (25)](../companies/uber.md) · [Snowflake (23)](../companies/snowflake.md) · [Google (22)](../companies/google.md) · [LinkedIn (21)](../companies/linkedin.md) · [Anthropic (20)](../companies/anthropic.md) · [Atlassian (20)](../companies/atlassian.md) · [Coinbase (20)](../companies/coinbase.md)
 
 <sub>Page **1** · [2](backend-2.md)</sub>
 
@@ -158,7 +158,6 @@
 | **[Stripe](../companies/stripe.md)** | [Design Merchant Lender System](https://trueinterview.io/questions/ledger-system) | Phone · Onsite | New grad · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/ledger-system) | Aug 29, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Choose Components for a Data Warehouse](https://trueinterview.io/questions/choose-components-for-a-data-warehouse) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/choose-components-for-a-data-warehouse) | Aug 28, 2026 |
 | **[ByteDance](../companies/bytedance.md)** | [Design a Data Service for Downstream Consumers](https://trueinterview.io/questions/design-a-data-service-for-downstream-consumers) | Phone | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-data-service-for-downstream-consumers) | Aug 28, 2026 |
-| **[Airbnb](../companies/airbnb.md)** | [Design a Multi-Level In-Memory Cloud Storage Service](https://trueinterview.io/questions/design-a-multi-level-in-memory-cloud-storage-service) | OA | New grad · Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-a-multi-level-in-memory-cloud-storage-service) | Aug 25, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Design a Video Sharing Platform](https://trueinterview.io/questions/design-a-video-sharing-platform) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-video-sharing-platform) | Aug 24, 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Design an Interactive Query Execution Notebook](https://trueinterview.io/questions/design-an-interactive-query-execution-notebook) | Phone | Mid | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-interactive-query-execution-notebook) | Aug 24, 2026 |
 | **[Tesla](../companies/tesla.md)** | [Design an Order Fulfillment System](https://trueinterview.io/questions/design-an-order-fulfillment-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-order-fulfillment-system) | Aug 24, 2026 |
@@ -423,5 +422,6 @@
 | **[Uber](../companies/uber.md)** | [Design Online Shopping Cart](https://trueinterview.io/questions/design-an-online-shopping-cart) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-an-online-shopping-cart) | Apr 2026 |
 | **[Meta](../companies/meta.md)** | [Design real-time live comments](https://trueinterview.io/questions/design-real-time-live-comments) | Onsite | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-real-time-live-comments) | Apr 2026 |
 | **[Pinterest](../companies/pinterest.md)** | [Design Soft 404 Detection](https://trueinterview.io/questions/design-soft-404-detection) | Onsite | Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-soft-404-detection) | Apr 2026 |
+| **[xAI](../companies/xai.md)** | [Design Token Limiter](https://trueinterview.io/questions/cc6f7ab2-4bdd-4914-85c9-f4912c2ffd73) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/cc6f7ab2-4bdd-4914-85c9-f4912c2ffd73) | Apr 2026 |
 
 <sub>Page **1** · [2](backend-2.md)</sub>

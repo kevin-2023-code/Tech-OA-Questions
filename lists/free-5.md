@@ -6,11 +6,11 @@
 
 > Every question the catalog opens without a paid plan: the full statement, a runnable editor and, on coding, OOD and SQL, a judged verdict. The site decides what is free; this page follows it on every sync.
 
-**2,167 questions** · 255 from an OA · 402 reported in the last 90 days · 2,167 free to solve
+**2,165 questions** · 255 from an OA · 402 reported in the last 90 days · 2,165 free to solve
 
-**By level:** 🎓 Intern & New grad (489) · 🌱 Mid (1,174) · 🎯 Senior (1,626) · 🚀 Staff+ (672)
+**By level:** 🎓 Intern & New grad (488) · 🌱 Mid (1,172) · 🎯 Senior (1,625) · 🚀 Staff+ (672)
 
-**Companies:** [Meta (209)](../companies/meta.md) · [Amazon (178)](../companies/amazon.md) · [ByteDance (151)](../companies/bytedance.md) · [Google (135)](../companies/google.md) · [Uber (116)](../companies/uber.md) · [Capital One (113)](../companies/capital-one.md) · [Microsoft (83)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (53)](../companies/doordash.md) · [Goldman Sachs (44)](../companies/goldman-sachs.md) · [LinkedIn (43)](../companies/linkedin.md) · [Anthropic (38)](../companies/anthropic.md) · [Snapchat (38)](../companies/snapchat.md) · [Bloomberg (37)](../companies/bloomberg.md)
+**Companies:** [Meta (209)](../companies/meta.md) · [Amazon (177)](../companies/amazon.md) · [ByteDance (150)](../companies/bytedance.md) · [Google (135)](../companies/google.md) · [Uber (115)](../companies/uber.md) · [Capital One (113)](../companies/capital-one.md) · [Microsoft (83)](../companies/microsoft.md) · [Apple (79)](../companies/apple.md) · [Snowflake (60)](../companies/snowflake.md) · [DoorDash (53)](../companies/doordash.md) · [Goldman Sachs (43)](../companies/goldman-sachs.md) · [LinkedIn (43)](../companies/linkedin.md) · [Anthropic (38)](../companies/anthropic.md) · [Snapchat (38)](../companies/snapchat.md) · [Bloomberg (37)](../companies/bloomberg.md)
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · [4](free-4.md) · **5** · [6](free-6.md)</sub>
 
@@ -268,7 +268,6 @@
 | **[DoorDash](../companies/doordash.md)** | [Design an experiment for order batching](https://trueinterview.io/questions/design-an-experiment-for-order-batching) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-experiment-for-order-batching) | — |
 | **[Snapchat](../companies/snapchat.md)** | [Design an experiment for spam filtering impact](https://trueinterview.io/questions/design-an-experiment-for-spam-filtering-impact) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-experiment-for-spam-filtering-impact) | — |
 | **[DoorDash](../companies/doordash.md)** | [Design an experiment for thermal bags](https://trueinterview.io/questions/design-an-experiment-for-thermal-bags) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-experiment-for-thermal-bags) | — |
-| **[Uber](../companies/uber.md)** | [Design an In-Memory File System with Recursive Wildcards](https://trueinterview.io/questions/6cbb765a-0358-5c10-aced-bc590e6d67cd) | Onsite | Senior | OOD / LLD | [![Free][f]](https://trueinterview.io/questions/6cbb765a-0358-5c10-aced-bc590e6d67cd) | — |
 | **[ByteDance](../companies/bytedance.md)** | [Design an interference-robust A/B test for monetization](https://trueinterview.io/questions/design-an-interference-robust-a-b-test-for-monetization) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-an-interference-robust-a-b-test-for-monetization) | — |
 | **[Meta](../companies/meta.md)** | [Design analysis to test social vs game engagement](https://trueinterview.io/questions/design-analysis-to-test-social-vs-game-engagement) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-analysis-to-test-social-vs-game-engagement) | — |
 | **[DoorDash](../companies/doordash.md)** | [Design analytics for a new-market launch](https://trueinterview.io/questions/design-analytics-for-a-new-market-launch) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/design-analytics-for-a-new-market-launch) | — |
@@ -421,5 +420,6 @@
 | **[C3.ai](../companies/c3-ai.md)** | [Greedy Line Wrapping with Even Word Spacing](https://trueinterview.io/questions/text-justification) | Onsite | Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/text-justification) | — |
 | **[Capital One](../companies/capital-one.md)** | [Handle an irate passenger after flight delay](https://trueinterview.io/questions/handle-an-irate-passenger-after-flight-delay) | Onsite | Senior · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-an-irate-passenger-after-flight-delay) | — |
 | **[CVS Health](../companies/cvs-health.md)** | [Handle challenges in MMM/MMX](https://trueinterview.io/questions/handle-challenges-in-mmm-mmx) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-challenges-in-mmm-mmx) | — |
+| **[DoorDash](../companies/doordash.md)** | [Handle conflict and time-pressured decision](https://trueinterview.io/questions/handle-conflict-and-time-pressured-decision) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/handle-conflict-and-time-pressured-decision) | — |
 
 <sub>Page [1](free.md) · [2](free-2.md) · [3](free-3.md) · [4](free-4.md) · **5** · [6](free-6.md)</sub>

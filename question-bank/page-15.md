@@ -4,11 +4,11 @@
 
 [← Home](../README.md) · [Every company](../companies/README.md) · [Every list](../lists/README.md)
 
-**5,890 questions** · 802 from an OA · 1,115 reported in the last 90 days · 2,167 free to solve
+**5,873 questions** · 799 from an OA · 1,110 reported in the last 90 days · 2,165 free to solve
 
-**By level:** 🎓 Intern & New grad (1,495) · 🌱 Mid (3,451) · 🎯 Senior (4,059) · 🚀 Staff+ (1,097)
+**By level:** 🎓 Intern & New grad (1,490) · 🌱 Mid (3,438) · 🎯 Senior (4,045) · 🚀 Staff+ (1,097)
 
-**Rounds:** 📝 OA (802) · 📞 Phone (3,115) · 🏢 Onsite (2,337) · 🏠 Take-home (12)
+**Rounds:** 📝 OA (799) · 📞 Phone (3,108) · 🏢 Onsite (2,330) · 🏠 Take-home (12)
 
 <sub>Page [1](README.md) · [2](page-2.md) · [3](page-3.md) · [4](page-4.md) · [5](page-5.md) · [6](page-6.md) · [7](page-7.md) · [8](page-8.md) · [9](page-9.md) · [10](page-10.md) · [11](page-11.md) · [12](page-12.md) · [13](page-13.md) · [14](page-14.md) · **15**</sub>
 
@@ -19,22 +19,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[ByteDance](../companies/bytedance.md)** | [Optimize threshold using confusion matrix and costs](https://trueinterview.io/questions/optimize-threshold-using-confusion-matrix-and-costs) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/optimize-threshold-using-confusion-matrix-and-costs) | — |
-| **[PayPal](../companies/paypal.md)** | [Optimize thresholds under fraud costs](https://trueinterview.io/questions/optimize-thresholds-under-fraud-costs) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/optimize-thresholds-under-fraud-costs) | — |
-| — | [Pacific Atlantic Water Flow](https://trueinterview.io/questions/pacific-atlantic-water-flow) | Phone | New grad · Mid · Senior | Coding | [![Free][f]](https://trueinterview.io/questions/pacific-atlantic-water-flow) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Pairing Tracks With Minute-Aligned Total Length](https://trueinterview.io/questions/song-pairs-divisible-by-60) | Onsite | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/song-pairs-divisible-by-60) | — |
-| **[Karat](../companies/karat.md)** | [Parent-Child Graph: Ancestor and Generation Queries](https://trueinterview.io/questions/parent-child-graph-generations) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/parent-child-graph-generations) | — |
-| **[Squarepoint](../companies/squarepoint.md)** | [Parse payroll file and answer queries](https://trueinterview.io/questions/parse-payroll-file-and-answer-queries) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/parse-payroll-file-and-answer-queries) | — |
-| **[C3.ai](../companies/c3-ai.md)** | [Path Between Two Nodes in a Binary Tree](https://trueinterview.io/questions/binary-tree-path-between-nodes) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/binary-tree-path-between-nodes) | — |
-| **[Shopify](../companies/shopify.md)** | [Perform no-calculator math accurately and fast](https://trueinterview.io/questions/perform-no-calculator-math-accurately-and-fast) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/perform-no-calculator-math-accurately-and-fast) | — |
-| **[Affirm](../companies/affirm.md)** | [Persistent Stack](https://trueinterview.io/questions/persistent-stack) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/persistent-stack) | — |
-| **[Meta](../companies/meta.md)** | [Persuade engineers to launch pinned-unread chats](https://trueinterview.io/questions/persuade-engineers-to-launch-pinned-unread-chats) | Phone | Senior · Staff+ · Manager | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/persuade-engineers-to-launch-pinned-unread-chats) | — |
-| **[Square](../companies/square.md)** | [Pick Two Books That Use a Voucher Exactly With Least Weight](https://trueinterview.io/questions/two-books-exact-voucher-spend) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/two-books-exact-voucher-spend) | — |
-| **[Amazon](../companies/amazon.md)** | [Pizza Slices Calculator Program](https://trueinterview.io/questions/43b6b9d3-5c99-4c4e-bfbd-0005865fd5e3) | OA | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/43b6b9d3-5c99-4c4e-bfbd-0005865fd5e3) | — |
-| **[Stripe](../companies/stripe.md)** | [Plan an experiment to validate targeting impact](https://trueinterview.io/questions/plan-an-experiment-to-validate-targeting-impact) | OA | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/plan-an-experiment-to-validate-targeting-impact) | — |
-| **[Netflix](../companies/netflix.md)** | [Plan and analyze a ranking A/B test](https://trueinterview.io/questions/plan-and-analyze-a-ranking-a-b-test) | Onsite | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/plan-and-analyze-a-ranking-a-b-test) | — |
-| **[SoFi](../companies/sofi.md)** | [Plan and validate ranking experiment](https://trueinterview.io/questions/plan-and-validate-ranking-experiment) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/plan-and-validate-ranking-experiment) | — |
-| **[Salesforce](../companies/salesforce.md)** | [Plan Cuts](https://trueinterview.io/questions/ab773d52-94f1-4fd6-bfab-5f1fd5b30525) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ab773d52-94f1-4fd6-bfab-5f1fd5b30525) | — |
 | **[Square](../companies/square.md)** | [Planet Distance, Blast Simulation and Cheapest Way to Clear Them All](https://trueinterview.io/questions/planet-weapon-targeting) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/planet-weapon-targeting) | — |
 | **[Google](../companies/google.md)** | [Predict and act on contract renewal risk](https://trueinterview.io/questions/predict-and-act-on-contract-renewal-risk) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/predict-and-act-on-contract-renewal-risk) | — |
 | **[C3.ai](../companies/c3-ai.md)** | [Predictive Early Warning System for Service Outages](https://trueinterview.io/questions/downtime-early-warning-system) | Onsite | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/downtime-early-warning-system) | — |
@@ -155,7 +139,6 @@
 | **[Karat](../companies/karat.md)** | [Sizing a Year of Search Engine Query Log Storage](https://trueinterview.io/questions/search-query-log-storage-estimate) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/search-query-log-storage-estimate) | — |
 | **[Karat](../companies/karat.md)** | [Sizing Storage Spend for a Self-Hosted Photo Service](https://trueinterview.io/questions/photo-storage-capacity-estimate) | Phone | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/photo-storage-capacity-estimate) | — |
 | **[Capital One](../companies/capital-one.md)** | [Sketch function from derivatives and limits](https://trueinterview.io/questions/sketch-function-from-derivatives-and-limits) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/sketch-function-from-derivatives-and-limits) | — |
-| **[Rippling](../companies/rippling.md)** / [Amazon](../companies/amazon.md) / [Atlassian](../companies/atlassian.md) / +8 | [Sliding-Window Rate Limiter III](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/f6b060d7-ad6e-5167-9988-9cb05356483f) | — |
 | **[Intuit](../companies/intuit.md)** | [Smart Gardener (Intuit India)](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/094b806b-d68d-413f-a536-249524c89249) | — |
 | **[Karat](../companies/karat.md)** | [Snake Board Lanes, Exits, and Nests](https://trueinterview.io/questions/snake-board-exits) | Phone | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/snake-board-exits) | — |
 | **[Instacart](../companies/instacart.md)** | [Solve a challenge using data](https://trueinterview.io/questions/solve-a-challenge-using-data) | Phone | Senior · Staff+ | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/solve-a-challenge-using-data) | — |

@@ -6,13 +6,13 @@
 
 > **Role:** Asked for a **Software** role — software, backend, frontend, platform and infrastructure engineers.
 
-**3,928 questions** · 586 from an OA · 903 reported in the last 90 days · 1,122 free to solve
+**3,913 questions** · 583 from an OA · 898 reported in the last 90 days · 1,122 free to solve
 
-**By level:** 🎓 Intern & New grad (1,110) · 🌱 Mid (2,526) · 🎯 Senior (2,493) · 🚀 Staff+ (358)
+**By level:** 🎓 Intern & New grad (1,105) · 🌱 Mid (2,514) · 🎯 Senior (2,480) · 🚀 Staff+ (358)
 
-**Rounds:** 📝 OA (586) · 📞 Phone (2,017) · 🏢 Onsite (1,627) · 🏠 Take-home (8)
+**Rounds:** 📝 OA (583) · 📞 Phone (2,011) · 🏢 Onsite (1,621) · 🏠 Take-home (8)
 
-**Companies:** [Amazon (337)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (261)](../companies/meta.md) · [ByteDance (239)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (192)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [OpenAI (119)](../companies/openai.md) · [LinkedIn (118)](../companies/linkedin.md) · [Oracle (105)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
+**Companies:** [Amazon (334)](../companies/amazon.md) · [Google (299)](../companies/google.md) · [Meta (260)](../companies/meta.md) · [ByteDance (238)](../companies/bytedance.md) · [Uber (199)](../companies/uber.md) · [Microsoft (191)](../companies/microsoft.md) · [Snowflake (131)](../companies/snowflake.md) · [Apple (128)](../companies/apple.md) · [LinkedIn (117)](../companies/linkedin.md) · [OpenAI (117)](../companies/openai.md) · [Oracle (103)](../companies/oracle.md) · [Salesforce (96)](../companies/salesforce.md) · [Stripe (94)](../companies/stripe.md) · [Bloomberg (91)](../companies/bloomberg.md) · [DoorDash (90)](../companies/doordash.md)
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · [3](swe-3.md) · **4** · [5](swe-5.md) · [6](swe-6.md) · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>
 
@@ -23,11 +23,6 @@
 
 | Company | Question | Round | Level | Format | Solve | Seen |
 | :-- | :-- | :-- | :-- | :-- | :-: | :-- |
-| **[Microsoft](../companies/microsoft.md)** | [Subtract Two Numbers Represented by Forward-Order Linked Lists](https://trueinterview.io/questions/ff0e0f3b-5fa8-542c-9f99-2afc8d2457fa) | Phone | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/ff0e0f3b-5fa8-542c-9f99-2afc8d2457fa) | Aug 2026 |
-| **[Microsoft](../companies/microsoft.md)** / [Microsoft AI](../companies/microsoft-ai.md) | [Suffix Maximum Count](https://trueinterview.io/questions/suffix-maximum-count-2) | Onsite | New grad · Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/suffix-maximum-count-2) | Aug 2026 |
-| **[Meta](../companies/meta.md)** | [Sum of BST Nodes Within Given Range](https://trueinterview.io/questions/08d3c6cb-aa6e-4d12-9236-73bfdf07ff60) | OA | New grad · Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/08d3c6cb-aa6e-4d12-9236-73bfdf07ff60) | Aug 2026 |
-| **[Apple](../companies/apple.md)** / [Oracle](../companies/oracle.md) | [Swap Two Variables Without Using Temporary Variable](https://trueinterview.io/questions/68870b4c-8508-4508-88c9-186133ebadf8) | OA | Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/68870b4c-8508-4508-88c9-186133ebadf8) | Aug 2026 |
-| **[Airbnb](../companies/airbnb.md)** | [Tag Matching and Annotation with Pattern Priority](https://trueinterview.io/questions/66c19222-268a-55ae-80db-62d14d9ad56c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/66c19222-268a-55ae-80db-62d14d9ad56c) | Aug 2026 |
 | **[Snowflake](../companies/snowflake.md)** | [Target Course Completion Plan](https://trueinterview.io/questions/62ce3ab3-e18e-5908-9a1b-df60f07d256d) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/62ce3ab3-e18e-5908-9a1b-df60f07d256d) | Aug 2026 |
 | **[Ramp](../companies/ramp.md)** | [Task Management System II](https://trueinterview.io/questions/oa-task-management-system-2) | OA | New grad | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-task-management-system-2) | Aug 2026 |
 | **[Anthropic](../companies/anthropic.md)** | [Task Manager (TTL + Snapshot)](https://trueinterview.io/questions/oa-task-management) | OA | New grad · Mid | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/oa-task-management) | Aug 2026 |
@@ -423,5 +418,10 @@
 | **[Rippling](../companies/rippling.md)** / [Snapchat](../companies/snapchat.md) | [Design a News Aggregation Feed](https://trueinterview.io/questions/design-a-news-aggregation-feed) | Phone | Mid · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-news-aggregation-feed) | Jun 2026 |
 | **[Microsoft](../companies/microsoft.md)** | [Design a replicated key-value store with quorums](https://trueinterview.io/questions/design-a-replicated-key-value-store-with-quorums) | OA | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-replicated-key-value-store-with-quorums) | Jun 2026 |
 | **[Stripe](../companies/stripe.md)** | [Design a Superhero Dispatch System](https://trueinterview.io/questions/design-a-superhero-dispatch-system) | Onsite | New grad · Senior | System design | [![Practice][p]](https://trueinterview.io/questions/design-a-superhero-dispatch-system) | Jun 2026 |
+| **[Instacart](../companies/instacart.md)** | [Design and Implement Idempotent Library Notifications for Due Dates and Holds](https://trueinterview.io/questions/7d71a4ee-7826-5c5d-97ec-af7be9f3fc39) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/7d71a4ee-7826-5c5d-97ec-af7be9f3fc39) | Jun 2026 |
+| **[Microsoft](../companies/microsoft.md)** | [Design device telemetry pipeline for real-time and batch](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | OA | Senior · Staff+ | System design | [![Practice][p]](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | Jun 2026 |
+| **[Lyft](../companies/lyft.md)** / [Uber](../companies/uber.md) | [Design Facebook Messenger](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Onsite | Senior | System design | [![Practice][p]](https://trueinterview.io/questions/c42d8b8a-21fe-4004-8e4b-4c84969d7f7a) | Jun 2026 |
+| **[Robinhood](../companies/robinhood.md)** / [Coinbase](../companies/coinbase.md) / [Databricks](../companies/databricks.md) / +1 | [Design Stock Trading Platform](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Onsite | Mid · Senior | System design | [![Free][f]](https://trueinterview.io/questions/design-a-stock-order-trade-management-system) | Jun 2026 |
+| **[Snowflake](../companies/snowflake.md)** | [Distance from Each 1 to the Nearest 2 in an Array](https://trueinterview.io/questions/473fe3ed-b49d-5d11-b6c6-ce03b84b55b4) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/473fe3ed-b49d-5d11-b6c6-ce03b84b55b4) | Jun 2026 |
 
 <sub>Page [1](swe.md) · [2](swe-2.md) · [3](swe-3.md) · **4** · [5](swe-5.md) · [6](swe-6.md) · [7](swe-7.md) · [8](swe-8.md) · [9](swe-9.md) · [10](swe-10.md)</sub>

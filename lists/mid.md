@@ -6,13 +6,13 @@
 
 > **Level:** Reported at a **Mid** loop (≈ L4 / E4 / SDE II).
 
-**3,451 questions** · 483 from an OA · 700 reported in the last 90 days · 1,174 free to solve
+**3,438 questions** · 480 from an OA · 696 reported in the last 90 days · 1,172 free to solve
 
-**By role:** 💻 Software Engineering (2,526) · 🤖 ML, AI & Research (185) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
+**By role:** 💻 Software Engineering (2,514) · 🤖 ML, AI & Research (184) · 📊 Data Science & Analytics (470) · 📈 Quantitative Finance (205) · 📱 Product Management (16) · 🔧 Hardware Engineering (5)
 
-**Rounds:** 📝 OA (483) · 📞 Phone (2,022) · 🏢 Onsite (1,229) · 🏠 Take-home (6)
+**Rounds:** 📝 OA (480) · 📞 Phone (2,017) · 🏢 Onsite (1,224) · 🏠 Take-home (6)
 
-**Companies:** [Amazon (297)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (257)](../companies/meta.md) · [ByteDance (227)](../companies/bytedance.md) · [Microsoft (152)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (89)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (82)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
+**Companies:** [Amazon (294)](../companies/amazon.md) · [Google (260)](../companies/google.md) · [Meta (256)](../companies/meta.md) · [ByteDance (226)](../companies/bytedance.md) · [Microsoft (151)](../companies/microsoft.md) · [Uber (142)](../companies/uber.md) · [Apple (119)](../companies/apple.md) · [Snowflake (109)](../companies/snowflake.md) · [Capital One (92)](../companies/capital-one.md) · [OpenAI (87)](../companies/openai.md) · [DoorDash (83)](../companies/doordash.md) · [LinkedIn (81)](../companies/linkedin.md) · [Stripe (77)](../companies/stripe.md) · [Pinterest (74)](../companies/pinterest.md) · [Bloomberg (72)](../companies/bloomberg.md)
 
 <sub>Page **1** · [2](mid-2.md) · [3](mid-3.md) · [4](mid-4.md) · [5](mid-5.md) · [6](mid-6.md) · [7](mid-7.md) · [8](mid-8.md) · [9](mid-9.md)</sub>
 
@@ -320,7 +320,6 @@
 | **[Siemens](../companies/siemens.md)** | [Choose LoRA for Fine-Tuning and Explain Its Limitations](https://trueinterview.io/questions/choose-lora-for-fine-tuning-and-explain-its-limitations) | Phone | New grad · Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/choose-lora-for-fine-tuning-and-explain-its-limitations) | Sep 4, 2026 |
 | **[Siemens](../companies/siemens.md)** | [Compare GRPO and PPO and Explain Sparse Versus Dense Rewards](https://trueinterview.io/questions/compare-grpo-and-ppo-and-explain-sparse-versus-dense-rewards) | Phone | Mid · Senior | Behavioral / concept | [![Free][f]](https://trueinterview.io/questions/compare-grpo-and-ppo-and-explain-sparse-versus-dense-rewards) | Sep 4, 2026 |
 | **[Robinhood](../companies/robinhood.md)** | [Define and Calculate Employee Referral Counts](https://trueinterview.io/questions/define-and-calculate-employee-referral-counts) | Onsite | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/define-and-calculate-employee-referral-counts) | Sep 4, 2026 |
-| **[Reddit](../companies/reddit.md)** | [Design Add, Overwrite, Undo, and Redo for Billing State](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Phone | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-add-overwrite-undo-and-redo-for-billing-state) | Sep 4, 2026 |
 | **[Meta](../companies/meta.md)** | [Design and Evaluate a Solver for a 36-Card Sum-Fifteen Game](https://trueinterview.io/questions/design-and-evaluate-a-solver-for-a-36-card-sum-fifteen-game) | Onsite | Mid · Senior | OOD / LLD | [![Practice][p]](https://trueinterview.io/questions/design-and-evaluate-a-solver-for-a-36-card-sum-fifteen-game) | Sep 4, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Estimate Page-Visit Duration from the Next User Event](https://trueinterview.io/questions/estimate-page-visit-duration-from-the-next-user-event) | Onsite | Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/estimate-page-visit-duration-from-the-next-user-event) | Sep 4, 2026 |
 | **[Airbnb](../companies/airbnb.md)** | [Find Hosts Meeting Listing, Rating, and Review-Coverage Rules](https://trueinterview.io/questions/find-hosts-meeting-listing-rating-and-review-coverage-rules) | Onsite | Mid | SQL | [![Practice][p]](https://trueinterview.io/questions/find-hosts-meeting-listing-rating-and-review-coverage-rules) | Sep 4, 2026 |
@@ -423,5 +422,6 @@
 | **[ByteDance](../companies/bytedance.md)** | [Delete k Elements to Balance](https://trueinterview.io/questions/delete-k-elements-to-balance) | Phone | Mid | Coding | [![Free][f]](https://trueinterview.io/questions/delete-k-elements-to-balance) | Sep 2026 |
 | **[Google](../companies/google.md)** | [Delete Nodes and Return the Resulting Forest](https://trueinterview.io/questions/f046cfc6-c18a-5576-95d3-e2aa0a01c33c) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/f046cfc6-c18a-5576-95d3-e2aa0a01c33c) | Sep 2026 |
 | **[Google](../companies/google.md)** | [Deliver to All Grid Locations and Return Home](https://trueinterview.io/questions/4f2dcbed-a308-5c7e-abc6-151ec6fe8790) | Phone | Mid | Coding | [![Practice][p]](https://trueinterview.io/questions/4f2dcbed-a308-5c7e-abc6-151ec6fe8790) | Sep 2026 |
+| **[Airbnb](../companies/airbnb.md)** / [Amazon](../companies/amazon.md) / [ByteDance](../companies/bytedance.md) / +1 | [Dependency Resolution / Build Order](https://trueinterview.io/questions/693d5641-09b6-4ead-a4ef-2805c7b4153e) | Phone | Mid · Senior | Coding | [![Practice][p]](https://trueinterview.io/questions/693d5641-09b6-4ead-a4ef-2805c7b4153e) | Sep 2026 |
 
 <sub>Page **1** · [2](mid-2.md) · [3](mid-3.md) · [4](mid-4.md) · [5](mid-5.md) · [6](mid-6.md) · [7](mid-7.md) · [8](mid-8.md) · [9](mid-9.md)</sub>
