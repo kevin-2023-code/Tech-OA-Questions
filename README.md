@@ -4,7 +4,7 @@
 
 Online assessment (OA) questions candidates reported at tech companies, one folder per company.
 
-**Snapshot as of 2026-11-21: 799 OA questions from 96 companies.**
+**Snapshot as of 2026-11-22: 799 OA questions from 96 companies.**
 
 The question pages are on [TrueInterview](https://trueinterview.io).
 
