@@ -2,13 +2,12 @@
 
 # Coinbase OA Questions
 
-19 online assessment questions reported at Coinbase, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+18 online assessment questions reported at Coinbase, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Bank System](https://trueinterview.io/questions/bank-system) | OOD / LLD | Hard | Mid | Backend Engineer | 2026-09 |
 | [Build Task Management Through Records, Search, Assignment, and Completion](https://trueinterview.io/questions/build-task-management-through-records-search-assignment-and-completion) | OOD / LLD | Medium | Mid | Software Engineer | 2026-09 |
-| [Moving Average over a Sliding Window](https://trueinterview.io/questions/404adef3-580e-58ed-80ed-37af565360df) | Coding | Easy | Senior | Software Engineer | 2026-08 |
 | [Recipe Manager](https://trueinterview.io/questions/recipe-manager) | OOD / LLD | Medium | New grad, Mid, Senior | Software Engineer | 2026-06 |
 | [Design a Task Assignment System](https://trueinterview.io/questions/design-a-task-assignment-system) | OOD / LLD | Medium | Mid, Senior | - | 2026-05 |
 | [Flappy Bird Jump Strategy](https://trueinterview.io/questions/flappy-bird-jump-strategy) | Coding | Easy | New grad, Mid | Software Engineer | 2026-05 |

@@ -2,7 +2,7 @@
 
 # Tesla OA Questions
 
-5 online assessment questions reported at Tesla, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+6 online assessment questions reported at Tesla, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -11,3 +11,4 @@
 | [Cumulative Monthly Sales by Store with Month Reset](https://trueinterview.io/questions/9d1b5b0b-959c-478c-9173-5af85df0dc1b) | SQL | Medium | Mid | Data Scientist | 2026-04 |
 | [Daily Metrics by Order Status in a Single SQL Pass](https://trueinterview.io/questions/3af30983-ab64-4415-98d1-c212ec5c39dc) | SQL | Easy | Mid | Data Scientist | 2026-04 |
 | [Find All Reports Under a Manager (n-level) and Return Hierarchy Path](https://trueinterview.io/questions/1f1e4db4-8e81-4550-86b1-5c5fb18fcb61) | SQL | Medium | Mid | Data Scientist | 2026-04 |
+| [Decode Ways / Alphanumeric Combination](https://trueinterview.io/questions/decode-ways) | Coding | Medium | New grad | Software Engineer | 2025-07 |

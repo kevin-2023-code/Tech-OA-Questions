@@ -2,11 +2,12 @@
 
 # Salesforce OA Questions
 
-26 online assessment questions reported at Salesforce, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+27 online assessment questions reported at Salesforce, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Maximum Requests in a Time Window](https://trueinterview.io/questions/maximum-requests-in-time-window) | Coding | Easy | New grad | Software Engineer | 2026-09 |
+| [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Coding | Medium | New grad, Mid | Software Engineer | 2026-08 |
 | [Determine Whether a Date Falls on a Weekend](https://trueinterview.io/questions/4445f526-42ef-5256-bc53-b6614133cfc3) | Coding | Easy | New grad | Software Engineer | 2026-08 |
 | [Path Sum in a Binary Tree](https://trueinterview.io/questions/47b63952-31a7-5519-a5d6-16d0eecff233) | Coding | Easy | Senior | Software Engineer | 2026-08 |
 | [Delete One Character Type, Minimize Unique-Character Segments](https://trueinterview.io/questions/delete-character-minimize-unique-segments) | Coding | Medium | New grad | Software Engineer | 2026-07 |

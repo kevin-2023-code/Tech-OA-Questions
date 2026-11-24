@@ -2,7 +2,7 @@
 
 # Airbnb OA Questions
 
-13 online assessment questions reported at Airbnb, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+14 online assessment questions reported at Airbnb, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -18,4 +18,5 @@
 | [FIFO Order Allocator](https://trueinterview.io/questions/a806c5ff-dc75-5b79-b259-9d5ba25d4b21) | Coding | Easy | Senior | Software Engineer | 2026-08 |
 | [Recipe Management System](https://trueinterview.io/questions/oa-recipe-management-system) | OOD / LLD | Medium | New grad | Software Engineer | 2026-07 |
 | [Parcel Tracking System](https://trueinterview.io/questions/oa-parcel-tracking-system) | OOD / LLD | Medium | Mid, Senior | Software Engineer | 2026-07 |
+| [Describe proudest project and cross-team work](https://trueinterview.io/questions/describe-proudest-project-and-cross-team-work) | Behavioral / concept | - | Mid, Senior | Software Engineer | 2026-05 |
 | [Replace Text for Review](https://trueinterview.io/questions/80731212-708a-43a5-a87a-ad06f2e56b6b) | Coding | Easy | Intern, New grad | Software Engineer | 2026-02 |

@@ -2,7 +2,7 @@
 
 # LinkedIn OA Questions
 
-6 online assessment questions reported at LinkedIn, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+5 online assessment questions reported at LinkedIn, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -11,4 +11,3 @@
 | [Validate a Decimal Number String](https://trueinterview.io/questions/c4ab51bc-0703-5e40-aca8-21c8d8a63a0a) | Coding | Easy | Mid | Software Engineer | 2026-10 |
 | [Tree Depth Calculation](https://trueinterview.io/questions/6044a0d6-8535-4971-ad1b-427f1d701c3c) | Coding | Easy | Senior | Software Engineer | 2026-09 |
 | [Degree of Connection Between LinkedIn Users](https://trueinterview.io/questions/1455a901-868c-4006-973c-c5bbc2c3206d) | Coding | Easy | Senior | Software Engineer | 2026-08 |
-| [Reverse a String](https://trueinterview.io/questions/28b8bcd2-9b73-4c32-9f13-f89038bc8e84) | Coding | Easy | Mid | Software Engineer | 2026-03 |

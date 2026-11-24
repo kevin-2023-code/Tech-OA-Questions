@@ -2,10 +2,11 @@
 
 # Palantir OA Questions
 
-3 online assessment questions reported at Palantir, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+4 online assessment questions reported at Palantir, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Apply Item Coupons with Exact Per-Item Cent Rounding](https://trueinterview.io/questions/apply-item-coupons-with-exact-per-item-cent-rounding) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-08 |
+| [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Coding | Medium | New grad, Mid | Software Engineer | 2026-08 |
 | [Optimize Coupon Selection Under a Twenty-Point Budget](https://trueinterview.io/questions/optimize-coupon-selection-under-a-twenty-point-budget) | Coding | Hard | New grad, Mid, Senior | Software Engineer | 2026-08 |
 | [Stack Item and Category Coupons with an Eighty-Percent Cap](https://trueinterview.io/questions/stack-item-and-category-coupons-with-an-eighty-percent-cap) | Coding | Hard | New grad, Mid, Senior | Software Engineer | 2026-08 |

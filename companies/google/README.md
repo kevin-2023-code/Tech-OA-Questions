@@ -28,10 +28,10 @@
 | [Minimum Distance Between People and Cakes](https://trueinterview.io/questions/787ed7cb-16c1-4605-a606-93dbbc22cb6c) | Coding | Easy | Mid | Software Engineer | 2026-05 |
 | [Choose Your Workplace Style](https://trueinterview.io/questions/choose-your-workplace-style) | Behavioral / concept | - | Intern, New grad, Mid | Software Engineer | 2026-04 |
 | [Minimum Operations to Reduce an Integer to 0](https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Shortest Subarray with At Least K Distinct](https://trueinterview.io/questions/oa-shortest-subarray-k-distinct) | Coding | Medium | New grad | Software Engineer | 2026-04 |
 | [Choose best/worst actions in workplace ethics scenarios](https://trueinterview.io/questions/choose-best-worst-actions-in-workplace-ethics-scenarios) | Behavioral / concept | - | New grad, Mid, Senior | Software Engineer | 2026-04 |
 | [Range Updates Using Difference Array (Template Problem)](https://trueinterview.io/questions/19526ad7-c78c-462e-a59d-80239253617a) | Coding | Easy | New grad | Software Engineer | 2026-04 |
 | [Chunking with an Unsplittable Header](https://trueinterview.io/questions/2f337555-8465-4711-9231-ee00cf57b26c) | Coding | Easy | New grad | Software Engineer | 2026-03 |
+| [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Coding | Medium | New grad | Software Engineer | 2026-02 |
 | [Find largest group of two-digit numbers sharing digits](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | Coding | Medium | New grad | Software Engineer | 2025-12 |
 | [Group Array](https://trueinterview.io/questions/19b3ac67-7f53-4497-9f89-93551984b216) | Coding | Easy | New grad | Software Engineer | 2025-12 |
 | [Maximum Coins Eaten](https://trueinterview.io/questions/6eca8cb0-2bbe-4bed-8e49-48257111c9b7) | Coding | Easy | New grad | Software Engineer | 2025-12 |

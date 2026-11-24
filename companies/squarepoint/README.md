@@ -2,7 +2,7 @@
 
 # Squarepoint OA Questions
 
-14 online assessment questions reported at Squarepoint, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+13 online assessment questions reported at Squarepoint, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -11,12 +11,11 @@
 | [Auction Lots with Highest Bids](https://trueinterview.io/questions/auction-lots-with-highest-bids) | SQL | Medium | New grad, Mid, Senior | Data Scientist | 2026-05 |
 | [Compute EMA Indicators and Detect Crossovers in Pandas](https://trueinterview.io/questions/eec3b2bb-0fda-44b2-bc31-5efa0e915e2d) | Coding | Easy | Mid | Quantitative Finance | 2026-05 |
 | [Minimum Idleness After K Flips](https://trueinterview.io/questions/minimum-idleness-after-k-flips) | Coding | Hard | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Shortest Subarray with At Least K Distinct](https://trueinterview.io/questions/oa-shortest-subarray-k-distinct) | Coding | Medium | New grad | Software Engineer | 2026-04 |
 | [Counting Words in a Text](https://trueinterview.io/questions/059bd91c-1f39-44d5-a729-775a1192ee7d) | Coding | Easy | New grad | Software Engineer | 2026-04 |
 | [Solve two coding assessment tasks](https://trueinterview.io/questions/solve-two-coding-assessment-tasks) | Coding | Medium | Intern, New grad, Mid | Quantitative Finance | 2026-02 |
+| [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Coding | Medium | New grad | Software Engineer | 2026-02 |
 | [Merge Two Sorted Vectors](https://trueinterview.io/questions/80025de7-bb7b-4d7a-bbef-34ca4648dad8) | Coding | Easy | Mid | Quantitative Finance | 2025-05 |
 | [Generate Unique Usernames](https://trueinterview.io/questions/1ac76be5-90d6-4f8f-b5af-24baa7b56ea9) | Coding | Medium | New grad | Software Engineer | 2025-03 |
 | [Grasshopper Problem](https://trueinterview.io/questions/6963da19-4f4b-4340-8237-43ced6656932) | Coding | Easy | Mid | Quantitative Finance | 2025-03 |
-| [Sentence Variations with Anagram](https://trueinterview.io/questions/715c9fe9-1402-470e-b461-3433e80ff0f9) | Coding | Medium | New grad | Software Engineer | 2025-03 |
 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | Easy | New grad, Mid | Software Engineer | - |
 | [Parse payroll file and answer queries](https://trueinterview.io/questions/parse-payroll-file-and-answer-queries) | Coding | Hard | New grad, Mid, Senior | Quantitative Finance | - |

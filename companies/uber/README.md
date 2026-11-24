@@ -22,9 +22,9 @@
 | [Solve Knight and Reversal Problems](https://trueinterview.io/questions/solve-knight-and-reversal-problems) | Coding | Hard | Mid, Senior | Software Engineer | 2026-04 |
 | [Final Prices With a Special Discount in a Shop](https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop) | Coding | Easy | New grad | Software Engineer | 2026-04 |
 | [Minimum Operations to Reduce an Integer to 0](https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Shortest Subarray with At Least K Distinct](https://trueinterview.io/questions/oa-shortest-subarray-k-distinct) | Coding | Medium | New grad | Software Engineer | 2026-04 |
 | [Zero Array Transformation](https://trueinterview.io/questions/zero-array-transformation) | Coding | Hard | New grad, Mid, Senior | Software Engineer | 2026-03 |
 | [Check Prefix Permutation](https://trueinterview.io/questions/oa-permutation-prefix-balanced) | Coding | Easy | New grad, Mid | Software Engineer | 2026-03 |
+| [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Coding | Medium | New grad | Software Engineer | 2026-02 |
 | [Check if each prefix forms 1..k permutation](https://trueinterview.io/questions/check-if-each-prefix-forms-1-k-permutation) | Coding | Medium | New grad | Software Engineer | 2026-02 |
 | [Find minimum reversals to orient edges away from root](https://trueinterview.io/questions/find-minimum-reversals-to-orient-edges-away-from-root) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-02 |
 | [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization) | Coding | Easy | New grad | Software Engineer | 2026-02 |

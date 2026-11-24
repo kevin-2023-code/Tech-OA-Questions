@@ -2,10 +2,9 @@
 
 # xAI OA Questions
 
-3 online assessment questions reported at xAI, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+2 online assessment questions reported at xAI, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [In-Memory Database — Levels 1–4 (TTL + Backup/Restore)](https://trueinterview.io/questions/in-memory-database-ttl-backup) | OOD / LLD | Hard | New grad, Mid, Senior | Backend Engineer | 2026-04 |
-| [Answer technical-challenge and motivation questions](https://trueinterview.io/questions/answer-technical-challenge-and-motivation-questions) | Behavioral / concept | - | Senior | Software Engineer | 2026-04 |
 | [Twitter Insight Platform](https://trueinterview.io/questions/twitter-insight-platform-take-home) | AI coding | Hard | Mid, Senior | Backend Engineer | 2026-01 |

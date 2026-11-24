@@ -15,10 +15,10 @@
 | [Reverse a Linked List](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | Coding | Easy | Mid | Software Engineer | 2026-09 |
 | [Time-Based Key-Value Store with Production Testing](https://trueinterview.io/questions/time-based-kv-store) | AI coding | Hard | Mid | Software Engineer | 2026-09 |
 | [Even Digit Count](https://trueinterview.io/questions/even-digit-count) | Coding | Easy | Mid | Software Engineer | 2026-08 |
-| [Sort Every Concentric Matrix Border Clockwise](https://trueinterview.io/questions/sort-every-concentric-matrix-border-clockwise-2) | Coding | Hard | Mid | Software Engineer | 2026-08 |
 | [Determine Whether an Integer Is a Palindrome](https://trueinterview.io/questions/7d106dbb-29a3-5a4f-ad22-8068feb4ecda) | Coding | Easy | Mid | Software Engineer | 2026-07 |
 | [Equalize Server Latency](https://trueinterview.io/questions/67d10813-b767-4d2d-8492-e2e32d196a80) | Coding | Hard | Mid | Software Engineer | 2026-07 |
 | [Longest Consecutive Login Days per User](https://trueinterview.io/questions/958957e9-157b-4f85-9660-bab2890de9f6) | SQL | Medium | Mid | Data Scientist | 2026-07 |
+| [Matrix Border Sort & Clockwise Fill](https://trueinterview.io/questions/matrix-border-sort-clockwise-fill) | Coding | Medium | New grad | Software Engineer | 2026-07 |
 | [House Segments After Deletions](https://trueinterview.io/questions/house-segments-after-deletions) | Coding | Medium | New grad | Software Engineer | 2026-05 |
 | [Semantic Similarity (Text Embedding + Cosine Similarity)](https://trueinterview.io/questions/76f49396-a3e1-499d-bcf8-e66cdb8ed785) | Coding | Easy | Mid | AI Engineer | 2026-04 |
 | [Aligned Memory Allocator and Related Tasks](https://trueinterview.io/questions/codesignal-swe-oa-spring-2026) | Coding | Hard | New grad, Mid | Software Engineer | 2026-03 |

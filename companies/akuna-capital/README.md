@@ -2,10 +2,11 @@
 
 # Akuna Capital OA Questions
 
-22 online assessment questions reported at Akuna Capital, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+23 online assessment questions reported at Akuna Capital, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Coding | Medium | New grad, Mid | Software Engineer | 2026-08 |
 | [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | Coding | Easy | Mid | Quantitative Finance | 2026-07 |
 | [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine) | OOD / LLD | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-06 |
 | [Cloud Resource Utilization Dashboard](https://trueinterview.io/questions/sql-cloud-resource-utilization-dashboard) | SQL | Easy | Mid | Data Scientist | 2026-05 |

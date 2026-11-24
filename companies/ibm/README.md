@@ -2,7 +2,7 @@
 
 # IBM OA Questions
 
-25 online assessment questions reported at IBM, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+24 online assessment questions reported at IBM, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -15,7 +15,6 @@
 | [Count 3^x * 5^y Numbers and Decreasing Subarrays](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | Coding | Medium | New grad | Software Engineer | 2026-04 |
 | [Count strictly decreasing-by-1 subarrays of length at least 2](https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16) | Coding | Easy | New grad | Software Engineer | 2026-04 |
 | [Maximum Number of Palindromic Strings](https://trueinterview.io/questions/maximum-palindromic-strings) | Coding | Medium | New grad | Software Engineer | 2026-03 |
-| [Maximum Palindromes After Cross-String Swaps](https://trueinterview.io/questions/maximum-palindromes-after-cross-string-swaps) | Coding | Medium | New grad | Software Engineer | 2026-02 |
 | [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Coding | Medium | New grad | Software Engineer | 2026-02 |
 | [Reverse Last Two Characters with a Space](https://trueinterview.io/questions/aed17c65-c5b3-4e56-a00d-9edbfd9f0f59) | Coding | Easy | New grad | Software Engineer | 2026-02 |
 | [JSON Prediction Diff](https://trueinterview.io/questions/json-prediction-diff) | Coding | Easy | Intern, New grad | Software Engineer | 2025-11 |

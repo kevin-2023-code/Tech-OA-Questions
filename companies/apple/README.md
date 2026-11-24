@@ -2,12 +2,13 @@
 
 # Apple OA Questions
 
-13 online assessment questions reported at Apple, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+14 online assessment questions reported at Apple, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Check Whether a String Is a Palindrome](https://trueinterview.io/questions/712ab877-8fe1-5411-92ca-b00a54856057) | Coding | Easy | Mid | Software Engineer | 2026-09 |
 | [Merge Two Strings by Maximum Edge Overlap](https://trueinterview.io/questions/e375a17a-d43d-501b-b79c-2fa09b7bcabc) | Coding | Easy | Mid | Software Engineer | 2026-09 |
+| [Reverse a Linked List](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | Coding | Easy | Mid | Software Engineer | 2026-09 |
 | [Trade In Payouts](https://trueinterview.io/questions/trade-in-payouts) | SQL | Easy | Intern, New grad, Mid | Data Scientist | 2026-08 |
 | [Swap Two Variables Without Using Temporary Variable](https://trueinterview.io/questions/68870b4c-8508-4508-88c9-186133ebadf8) | Coding | Easy | Senior | Software Engineer | 2026-08 |
 | [Constrain an Increasing Array With Minimum Adjacent Difference](https://trueinterview.io/questions/d5642f20-01c2-549f-833c-8e654d14cbd6) | Coding | Easy | Mid | Software Engineer | 2026-07 |
