@@ -2,11 +2,10 @@
 
 # Uber OA Questions
 
-32 online assessment questions reported at Uber, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+31 online assessment questions reported at Uber, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Describe your strongest project](https://trueinterview.io/questions/describe-your-strongest-project) | Behavioral / concept | - | Mid, Staff+ | Software Engineer | 2026-10 |
 | [Time-Based Key-Value Store with Production Testing](https://trueinterview.io/questions/time-based-kv-store) | AI coding | Hard | Mid | Software Engineer | 2026-09 |
 | [Count Paths That Can Form a Palindrome in a Tree](https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree) | Coding | Hard | New grad | Software Engineer | 2026-08 |
 | [Making a Large Island](https://trueinterview.io/questions/making-a-large-island) | Coding | Medium | Mid | Software Engineer | 2026-07 |

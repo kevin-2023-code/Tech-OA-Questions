@@ -2,13 +2,14 @@
 
 # Capital One OA Questions
 
-55 online assessment questions reported at Capital One, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+56 online assessment questions reported at Capital One, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Count Pairs of Points Within 2 Units on Both Axes](https://trueinterview.io/questions/count-pairs-of-points-within-2-units-on-both-axes) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
 | [Count Three-Digit Numbers With All-Distinct Digits in a Range](https://trueinterview.io/questions/count-three-digit-numbers-with-all-distinct-digits-in-a-range) | Coding | Easy | Intern, New grad | Software Engineer | 2026-10 |
 | [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | Coding | Medium | Mid | Software Engineer | 2026-10 |
+| [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | Coding | Hard | New grad | Software Engineer | 2026-10 |
 | [Driver Dataset Exploratory Analysis](https://trueinterview.io/questions/dca94c12-e6ad-549e-a6a9-18a195ab3cb6) | Coding | Easy | New grad | Data Scientist | 2026-10 |
 | [Evaluate Arithmetic Equations](https://trueinterview.io/questions/8baff98d-9bad-50cd-b485-13c9134feb8f) | Coding | Easy | Staff+ | Software Engineer | 2026-10 |
 | [Find the Branch with the Most Files](https://trueinterview.io/questions/6807588b-6890-55e5-80ed-0528f4a857aa) | Coding | Easy | Staff+ | Software Engineer | 2026-10 |

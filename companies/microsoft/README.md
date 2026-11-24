@@ -2,11 +2,13 @@
 
 # Microsoft OA Questions
 
-33 online assessment questions reported at Microsoft, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+35 online assessment questions reported at Microsoft, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Count Subarrays Whose Product Has an Odd Divisor Count](https://trueinterview.io/questions/count-subarrays-whose-product-has-an-odd-divisor-count) | Coding | Hard | Mid, Senior | Software Engineer | 2026-10 |
 | [Maximum Team Size with an Overlapping Hub](https://trueinterview.io/questions/maximum-team-size-with-an-overlapping-hub) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
+| [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | Coding | Hard | New grad | Software Engineer | 2026-10 |
 | [Employee Attrition Prediction](https://trueinterview.io/questions/employee-attrition-prediction) | Coding | Medium | Staff+ | Machine Learning Engineer | 2026-10 |
 | [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | Coding | Hard | Mid | Software Engineer | 2026-10 |
 | [Maximum Number of Occurrences of a Substring (LC 1297)](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | Coding | Medium | Mid | Software Engineer | 2026-10 |

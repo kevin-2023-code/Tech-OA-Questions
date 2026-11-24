@@ -2,7 +2,7 @@
 
 # Amazon OA Questions
 
-60 online assessment questions reported at Amazon, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+59 online assessment questions reported at Amazon, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -46,7 +46,6 @@
 | [Solve Two Array Optimization Problems](https://trueinterview.io/questions/solve-two-array-optimization-problems) | Coding | Hard | New grad, Mid | Software Engineer | 2026-04 |
 | [Frequency-Priority Error Code Sort](https://trueinterview.io/questions/frequency-priority-error-code-sort) | Coding | Easy | New grad | Software Engineer | 2026-03 |
 | [Lexicographically Minimal BoxIds via +1/9 Op](https://trueinterview.io/questions/lex-min-box-ids-plus-one-mod-nine) | Coding | Hard | Mid | Software Engineer | 2026-03 |
-| [Count Four-Neighbor Islands in a Binary Matrix](https://trueinterview.io/questions/count-four-neighbor-islands-in-a-binary-matrix) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-03 |
 | [Design a TTL-Aware LRU Cache Without Full Expiration Scans](https://trueinterview.io/questions/design-a-ttl-aware-lru-cache-without-full-expiration-scans) | OOD / LLD | Medium | Mid, Senior | Software Engineer | 2026-03 |
 | [Deduplicate Events List (with Sorting + Map/Stack)](https://trueinterview.io/questions/83856d15-e217-467d-9269-2da9d2a261cd) | Coding | Easy | Senior | Software Engineer | 2026-03 |
 | [In-place Array Reordering (0/1/2 sort variant)](https://trueinterview.io/questions/8f2cdb13-1620-4874-900f-1597fce80c27) | Coding | Easy | Mid | Software Engineer | 2026-03 |

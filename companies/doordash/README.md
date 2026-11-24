@@ -2,12 +2,11 @@
 
 # DoorDash OA Questions
 
-9 online assessment questions reported at DoorDash, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+8 online assessment questions reported at DoorDash, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Calculate Dasher Pay](https://trueinterview.io/questions/14422fe4-b9b1-4311-9900-313a365e8e70) | Coding | Easy | Mid, Senior | Software Engineer | 2026-09 |
-| [Describe handling conflict and a proud project](https://trueinterview.io/questions/describe-handling-conflict-and-a-proud-project) | Behavioral / concept | - | Senior | Software Engineer | 2026-03 |
 | [Design an API for pay computation with retries](https://trueinterview.io/questions/design-an-api-for-pay-computation-with-retries) | System design | Medium | Senior | Backend Engineer | 2026-03 |
 | [Max Sum Sliding Window and Return Start Days (1-based)](https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39) | Coding | Easy | New grad, Mid, Senior | Software Engineer | 2026-03 |
 | [Design a multi-channel notification system](https://trueinterview.io/questions/design-a-multi-channel-notification-system-2) | System design | Medium | Senior | Backend Engineer | 2026-01 |

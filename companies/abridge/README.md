@@ -2,12 +2,11 @@
 
 # Abridge OA Questions
 
-6 online assessment questions reported at Abridge, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+5 online assessment questions reported at Abridge, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Return Word Frequencies in Alphabetical Word Order](https://trueinterview.io/questions/return-word-frequencies-in-alphabetical-word-order) | Coding | Easy | Intern, New grad | Software Engineer | 2026-10 |
-| [Simulate Wind Moving Leaves on a Grid](https://trueinterview.io/questions/simulate-wind-moving-leaves-on-a-grid) | Coding | Medium | New grad, Mid | Software Engineer | 2026-10 |
 | [Count the Leaves Left on a Grid After a Sequence of Wind Gusts](https://trueinterview.io/questions/count-the-leaves-left-on-a-grid-after-a-sequence-of-wind-gusts) | Coding | Medium | New grad, Mid | Software Engineer | 2026-10 |
 | [Expand a Nested Repeat-Count Encoded String](https://trueinterview.io/questions/expand-a-nested-repeat-count-encoded-string) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-09 |
 | [Run-Length Compress a Character List With Multi-Digit Counts](https://trueinterview.io/questions/run-length-compress-a-character-list-with-multi-digit-counts) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-09 |

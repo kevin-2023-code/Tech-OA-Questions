@@ -4,7 +4,7 @@
 
 Online assessment (OA) questions candidates reported at tech companies, one folder per company.
 
-**Snapshot as of 2026-11-24: 868 OA questions from 110 companies.**
+**Snapshot as of 2026-11-24: 866 OA questions from 110 companies.**
 
 The question pages are on [TrueInterview](https://trueinterview.io).
 
@@ -30,13 +30,13 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 
 | Company | OA questions | Newest OA |
 | :-- | --: | :-- |
-| [Amazon](companies/amazon/README.md) | 60 | 2026-10 |
-| [Capital One](companies/capital-one/README.md) | 55 | 2026-10 |
+| [Amazon](companies/amazon/README.md) | 59 | 2026-10 |
+| [Capital One](companies/capital-one/README.md) | 56 | 2026-10 |
 | [ByteDance](companies/bytedance/README.md) | 36 | 2026-10 |
+| [Microsoft](companies/microsoft/README.md) | 35 | 2026-10 |
 | [Google](companies/google/README.md) | 34 | 2026-10 |
 | [Meta](companies/meta/README.md) | 33 | 2026-09 |
-| [Microsoft](companies/microsoft/README.md) | 33 | 2026-10 |
-| [Uber](companies/uber/README.md) | 32 | 2026-10 |
+| [Uber](companies/uber/README.md) | 31 | 2026-09 |
 | [Goldman Sachs](companies/goldman-sachs/README.md) | 29 | 2026-10 |
 | [Stripe](companies/stripe/README.md) | 29 | 2026-10 |
 | [Salesforce](companies/salesforce/README.md) | 27 | 2026-09 |
@@ -66,16 +66,16 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [C3.ai](companies/c3-ai/README.md) | 10 | 2026-10 |
 | [Instacart](companies/instacart/README.md) | 10 | 2026-09 |
 | [Oracle](companies/oracle/README.md) | 10 | 2026-08 |
-| [DoorDash](companies/doordash/README.md) | 9 | 2026-09 |
 | [OpenAI](companies/openai/README.md) | 9 | 2026-10 |
 | [Boston Consulting Group](companies/boston-consulting-group/README.md) | 8 | 2026-09 |
+| [DoorDash](companies/doordash/README.md) | 8 | 2026-09 |
 | [Expedia](companies/expedia/README.md) | 7 | 2026-07 |
 | [HubSpot](companies/hubspot/README.md) | 7 | 2026-06 |
 | [Intuit](companies/intuit/README.md) | 7 | 2026-01 |
-| [Abridge](companies/abridge/README.md) | 6 | 2026-10 |
 | [Tesla](companies/tesla/README.md) | 6 | 2026-06 |
 | [Tradedesk](companies/tradedesk/README.md) | 6 | 2026-08 |
 | [Walmart Labs](companies/walmart-labs/README.md) | 6 | 2026-07 |
+| [Abridge](companies/abridge/README.md) | 5 | 2026-10 |
 | [Databricks](companies/databricks/README.md) | 5 | 2026-10 |
 | [Hudson River Trading](companies/hudson-river-trading/README.md) | 5 | 2026-07 |
 | [LinkedIn](companies/linkedin/README.md) | 5 | 2026-10 |
@@ -111,7 +111,6 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [MongoDB](companies/mongodb/README.md) | 2 | 2026-08 |
 | [Okta](companies/okta/README.md) | 2 | 2025-11 |
 | [Rippling](companies/rippling/README.md) | 2 | 2025-11 |
-| [Rokt](companies/rokt/README.md) | 2 | 2026-10 |
 | [Rubrik](companies/rubrik/README.md) | 2 | 2025-02 |
 | [Vanta](companies/vanta/README.md) | 2 | 2026-07 |
 | [Wayfair](companies/wayfair/README.md) | 2 | 2026-02 |
@@ -136,6 +135,7 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [Reddit](companies/reddit/README.md) | 1 | 2026-03 |
 | [Ro Co](companies/ro-co/README.md) | 1 | 2026-09 |
 | [Robinhood](companies/robinhood/README.md) | 1 | 2026-04 |
+| [Rokt](companies/rokt/README.md) | 1 | 2026-10 |
 | [State](companies/state/README.md) | 1 | 2026-10 |
 | [Verkada](companies/verkada/README.md) | 1 | 2026-08 |
 | [Voleon](companies/voleon/README.md) | 1 | 2026-08 |

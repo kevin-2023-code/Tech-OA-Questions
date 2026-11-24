@@ -2,9 +2,8 @@
 
 # Rokt OA Questions
 
-2 online assessment questions reported at Rokt, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+1 online assessment question reported at Rokt, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [A Time Your First Technical Approach Failed and How You Changed Course](https://trueinterview.io/questions/a-time-your-first-technical-approach-failed-and-how-you-changed-course) | Behavioral / concept | - | Mid, Senior | Software Engineer | 2026-10 |
-| [Explain a Significant Software Product You Built in Two Minutes](https://trueinterview.io/questions/explain-a-significant-software-product-you-built-in-two-minutes) | Behavioral / concept | - | New grad, Mid, Senior | Software Engineer | 2026-10 |

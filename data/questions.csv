@@ -8,7 +8,6 @@ Company,Title,Format,Difficulty,Level,Role,Last Reported,Link
 Abridge,Expand a Nested Repeat-Count Encoded String,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/expand-a-nested-repeat-count-encoded-string
 Abridge,Return Word Frequencies in Alphabetical Word Order,Coding,Easy,Intern; New grad,Software Engineer,2026-10,https://trueinterview.io/questions/return-word-frequencies-in-alphabetical-word-order
 Abridge,Run-Length Compress a Character List With Multi-Digit Counts,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/run-length-compress-a-character-list-with-multi-digit-counts
-Abridge,Simulate Wind Moving Leaves on a Grid,Coding,Medium,New grad; Mid,Software Engineer,2026-10,https://trueinterview.io/questions/simulate-wind-moving-leaves-on-a-grid
 Abridge,"Sum of Integers Up to n Divisible by 3, 5, or 7",Coding,Easy,Intern; New grad,Software Engineer,2026-09,https://trueinterview.io/questions/sum-of-integers-up-to-n-divisible-by-3-5-or-7
 Affirm,Count Reversing Triples,Coding,Medium,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/count-reversing-triples
 Affirm,Prefix to Postfix,Coding,Medium,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/prefix-to-postfix
@@ -51,7 +50,6 @@ Amazon,AI Assistant Repo Bug-Fix,AI coding,Medium,Intern; New grad; Mid,Software
 Amazon,Array Generation Service,Coding,Medium,Mid,Software Engineer,2026-04,https://trueinterview.io/questions/lex-largest-string-via-state-flips
 Amazon,Binary Array Rearrangement,Coding,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/binary-array-minimum-adjacent-swaps
 Amazon,Circular Array — Multi-Query Distance Accumulation,Coding,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/circular-array-prefix-sum-multi-query
-Amazon,Count Four-Neighbor Islands in a Binary Matrix,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-03,https://trueinterview.io/questions/count-four-neighbor-islands-in-a-binary-matrix
 Amazon,Count Unique Morse Translations,Coding,Easy,Intern,Software Engineer,2026-02,https://trueinterview.io/questions/6304fc2c-e0b4-47b8-8fcb-c16ab518e215
 Amazon,"Debug a Node.js car-rental backend: leaked cars, missing new cars, lost edits",Coding,Medium,New grad,Backend Engineer,2026-09,https://trueinterview.io/questions/debug-a-node-js-car-rental-backend-leaked-cars-missing-new-cars-lost-edits
 Amazon,Debug Failing Tests in a Django Movie Search and Filter API,AI coding,Medium,Mid,Backend Engineer,2026-09,https://trueinterview.io/questions/debug-failing-tests-in-a-django-movie-search-and-filter-api
@@ -229,6 +227,7 @@ Capital One,Matrix Commands: Reverse / Swap / Rotate,Coding,Medium,Intern; New g
 Capital One,Matrix Expression Max Value,Coding,Medium,New grad; Mid,Software Engineer,2026-01,https://trueinterview.io/questions/matrix-expression-max-value
 Capital One,Matrix Pattern Matching,Coding,Medium,Mid,Software Engineer,2026-10,https://trueinterview.io/questions/matrix-pattern-matching
 Capital One,Merge ad CSVs and compute CTR,SQL,Hard,Mid; Senior,Data Scientist,,https://trueinterview.io/questions/merge-ad-csvs-and-compute-ctr
+Capital One,Number-Line Block Placement,Coding,Hard,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/number-line-block-placement
 Capital One,Outside-In String Reordering,Coding,Easy,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/outside-in-string-reordering
 Capital One,Pair Concatenation to Target,Coding,Medium,Intern; New grad,Software Engineer,2026-04,https://trueinterview.io/questions/pair-concatenation-to-target
 Capital One,Repeated Leading-Nonzero Subtraction,Coding,Medium,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/repeated-subtraction-zeroing
@@ -319,7 +318,6 @@ Disney,"Python Basics, Moving Points, Naive Bayes Spam Classifier",Coding,Hard,N
 DoorDash,Basic SQL Queries for Orders,SQL,Easy,Intern; New grad,Data Scientist,,https://trueinterview.io/questions/56a590ce-9602-42e8-b375-9c55e3b0e55d
 DoorDash,Calculate Dasher Pay,Coding,Easy,Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/14422fe4-b9b1-4311-9900-313a365e8e70
 DoorDash,Count and Say,Coding,Easy,Staff+,Software Engineer,2026-01,https://trueinterview.io/questions/fd94fd33-664d-46f3-b15b-9121ced75b5e
-DoorDash,Describe handling conflict and a proud project,Behavioral / concept,,Senior,Software Engineer,2026-03,https://trueinterview.io/questions/describe-handling-conflict-and-a-proud-project
 DoorDash,Design a multi-channel notification system,System design,Medium,Senior,Backend Engineer,2026-01,https://trueinterview.io/questions/design-a-multi-channel-notification-system-2
 DoorDash,Design an API for pay computation with retries,System design,Medium,Senior,Backend Engineer,2026-03,https://trueinterview.io/questions/design-an-api-for-pay-computation-with-retries
 DoorDash,Max Sum Sliding Window and Return Start Days (1-based),Coding,Easy,New grad; Mid; Senior,Software Engineer,2026-03,https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39
@@ -508,7 +506,9 @@ Meta; Airbnb; Lyft,Describe proudest project and cross-team work,Behavioral / co
 Meta; IBM; Oracle,Minimum Add to Make Parentheses Valid,Coding,Easy,Mid,Software Engineer,,https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de
 Meta; Microsoft; NVIDIA; Upstart,Remove Duplicates from Sorted Array,Coding,Easy,New grad; Mid,Software Engineer,2026-08,https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39
 Meta; Uber,Majority Element,Coding,Easy,Mid,Software Engineer,2026-01,https://trueinterview.io/questions/8ef6f482-db59-407f-adc7-1118a22fdae0
+Microsoft,Count Non-Decreasing Arrays with Target Digit Sums,Coding,Hard,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/non-decreasing-digit-sum-array-count
 Microsoft,Count Positive Pairs Satisfying 1/x + 1/y = 1/N,Coding,Medium,New grad; Mid,Software Engineer,2026-03,https://trueinterview.io/questions/equations-reciprocal-pair-count
+Microsoft,Count Subarrays Whose Product Has an Odd Divisor Count,Coding,Hard,Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/count-subarrays-whose-product-has-an-odd-divisor-count
 Microsoft,Debug distributed-system performance problems,System design,Hard,Senior; Staff+,Platform Engineer,2025-12,https://trueinterview.io/questions/debug-distributed-system-performance-problems
 Microsoft,Delete and Earn (LC 740),Coding,Medium,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/delete-and-earn
 Microsoft,Describe a recent innovation you delivered,Behavioral / concept,,Senior; Staff+; Manager,Software Engineer,2025-12,https://trueinterview.io/questions/describe-a-recent-innovation-you-delivered
@@ -655,7 +655,6 @@ Roblox,Handle Release Risks and Cross-Team Blockers,Behavioral / concept,,Mid; S
 Roblox,Implement four DS coding tasks,Coding,Hard,Mid; Senior,Data Scientist,2025-10,https://trueinterview.io/questions/implement-four-ds-coding-tasks
 Roblox,Optimize the Space of Code in Coding Screen,Coding,Easy,New grad; Mid,Software Engineer,,https://trueinterview.io/questions/92dadf5d-6db1-424c-b110-2cd7b367704d
 Rokt,A Time Your First Technical Approach Failed and How You Changed Course,Behavioral / concept,,Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/a-time-your-first-technical-approach-failed-and-how-you-changed-course
-Rokt,Explain a Significant Software Product You Built in Two Minutes,Behavioral / concept,,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/explain-a-significant-software-product-you-built-in-two-minutes
 Rubrik,String Shift,Coding,Easy,Mid,Software Engineer,2025-02,https://trueinterview.io/questions/dae58234-6fb4-4c0f-9168-307c63e27905
 Salesforce,Array Left / Right Duplicate Check (Binary Strings),Coding,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/array-left-right-duplicate-check
 Salesforce,Binary String Synchronous '01' → '10' Replacement,Coding,Hard,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/binary-string-01-10-swap
@@ -795,7 +794,6 @@ Two Sigma; Point72,IPO Share Allocation,Coding,Hard,New grad; Mid,Quantitative F
 Uber,Check if each prefix forms 1..k permutation,Coding,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/check-if-each-prefix-forms-1-k-permutation
 Uber,Construct Quad Tree,Coding,Medium,Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/construct-quad-tree
 Uber,Count paths with prime-ending jumps,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/count-paths-with-prime-ending-jumps
-Uber,Describe your strongest project,Behavioral / concept,,Mid; Staff+,Software Engineer,2026-10,https://trueinterview.io/questions/describe-your-strongest-project
 Uber,Find Combinations After Flip,Coding,Easy,New grad,Software Engineer,2025-02,https://trueinterview.io/questions/1da69ce4-74fb-48ef-9eb8-ebca7578ec21
 Uber,Find Index of Max Rate to Price Ratio,Coding,Easy,Mid,Software Engineer,2025-03,https://trueinterview.io/questions/2d92d9fc-3676-44e1-a4f8-db5e99c47868
 Uber,Find minimum reversals to orient edges away from root,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-02,https://trueinterview.io/questions/find-minimum-reversals-to-orient-edges-away-from-root
