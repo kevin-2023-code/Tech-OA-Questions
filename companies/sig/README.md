@@ -2,10 +2,19 @@
 
 # SIG OA Questions
 
-9 online assessment questions reported at SIG, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+18 online assessment questions reported at SIG, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Bayesian Posterior That k Red Parts Came From Factory A](https://trueinterview.io/questions/bayesian-posterior-that-k-red-parts-came-from-factory-a) | Behavioral / concept | - | Intern, New grad | Quantitative Finance | 2026-09 |
+| [Counting Rows Formed From Two Kinds of Identical Items](https://trueinterview.io/questions/counting-rows-formed-from-two-kinds-of-identical-items) | Behavioral / concept | - | Intern, New grad | Quantitative Finance | 2026-09 |
+| [Expected Number of Same-Rank Pairs in a Hand Dealt Without Replacement](https://trueinterview.io/questions/expected-number-of-same-rank-pairs-in-a-hand-dealt-without-replacement) | Behavioral / concept | - | Intern, New grad | Quantitative Finance | 2026-09 |
+| [Expected Payoff of a Three N-Sided Dice Matching Game](https://trueinterview.io/questions/expected-payoff-of-a-three-n-sided-dice-matching-game) | Behavioral / concept | - | New grad, Mid | Quantitative Finance | 2026-09 |
+| [Expected Spins of an Unequal Spinner to Land in K Distinct Regions](https://trueinterview.io/questions/expected-spins-of-an-unequal-spinner-to-land-in-k-distinct-regions) | Behavioral / concept | - | Mid, Senior | Quantitative Finance | 2026-09 |
+| [Probability Limited Stock Covers Every Customer in a Queue](https://trueinterview.io/questions/probability-limited-stock-covers-every-customer-in-a-queue) | Behavioral / concept | - | New grad, Mid | Quantitative Finance | 2026-09 |
+| [Probability of Reaching a Chip Target Under Bold Betting](https://trueinterview.io/questions/probability-of-reaching-a-chip-target-under-bold-betting) | Behavioral / concept | - | New grad, Mid | Quantitative Finance | 2026-09 |
+| [Probability Two Randomly Started Flower Bloom Periods Overlap](https://trueinterview.io/questions/probability-two-randomly-started-flower-bloom-periods-overlap) | Behavioral / concept | - | Intern, New grad | Quantitative Finance | 2026-09 |
+| [Probability You Picked the Strongest Cat Given Your Cat Lost the Race](https://trueinterview.io/questions/probability-you-picked-the-strongest-cat-given-your-cat-lost-the-race) | Behavioral / concept | - | New grad, Mid | Quantitative Finance | 2026-09 |
 | [Count Equal-Difference Triples After Each Add or Remove-All Operation](https://trueinterview.io/questions/count-equal-difference-triples-after-each-add-or-remove-all-operation) | Coding | Hard | Mid, Senior | Software Engineer | 2026-09 |
 | [Rotate a Square Matrix Clockwise While Both Diagonals Stay Fixed](https://trueinterview.io/questions/rotate-a-square-matrix-clockwise-while-both-diagonals-stay-fixed) | Coding | Hard | Mid, Senior | Quantitative Finance | 2026-09 |
 | [Calculate Expected Payoff from Two Dice](https://trueinterview.io/questions/calculate-expected-payoff-from-two-dice) | Behavioral / concept | - | Intern, New grad, Mid | Quantitative Finance | 2026-08 |

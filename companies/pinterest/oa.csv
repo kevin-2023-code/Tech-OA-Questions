@@ -1,4 +1,12 @@
 Title,Format,Difficulty,Level,Role,Last Reported,Link
+Compute Recall and FPR from Confusion Matrices to Select Classifiers,Coding,Easy,Intern; New grad,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/compute-recall-and-fpr-from-confusion-matrices-to-select-classifiers
+Ensemble Learning Trade-offs and Why Bagging Reduces Overfitting,Behavioral / concept,,New grad; Mid,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/ensemble-learning-trade-offs-and-why-bagging-reduces-overfitting
+Find All Strict Local Maxima in an Integer Array,Coding,Easy,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/find-all-strict-local-maxima-in-an-integer-array
+Hand-Compute a Small Neural Network Forward Pass with a Sigmoid Output,Behavioral / concept,,Intern; New grad; Mid,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/hand-compute-a-small-neural-network-forward-pass-with-a-sigmoid-output
+Implement a Decision Tree Classifier and a Bagging Ensemble from Scratch,Coding,Hard,Intern; New grad,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/implement-a-decision-tree-classifier-and-a-bagging-ensemble-from-scratch
+Implement a k-Nearest Neighbors Classifier from Scratch,OOD / LLD,Easy,Intern; New grad,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/implement-a-k-nearest-neighbors-classifier-from-scratch
+Implement Linear Regression with Batch Gradient Descent from Scratch,Coding,Medium,New grad; Mid; Senior,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/implement-linear-regression-with-batch-gradient-descent-from-scratch
+Which Regularization Penalties Set Model Coefficients Exactly to Zero,Behavioral / concept,,New grad; Mid; Senior,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/which-regularization-penalties-set-model-coefficients-exactly-to-zero
 Highly Active User Percentage by Country,SQL,Medium,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/f31f02a5-b053-59b1-a6ed-4246c575cd9c
 Top Two Categories by Engagement Rate per Country,SQL,Medium,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/3b783d83-6ac7-5599-9792-a02269856670
 MCQ + NN Forward + Coding + ML Implementations),Behavioral / concept,,New grad,Machine Learning Engineer,2026-06,https://trueinterview.io/questions/mle-intern-codesignal-oa

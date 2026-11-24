@@ -2,10 +2,11 @@
 
 # Goldman Sachs OA Questions
 
-28 online assessment questions reported at Goldman Sachs, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+29 online assessment questions reported at Goldman Sachs, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Rearrange an Array to Minimize the Sum of Distinct Counts over All Prefixes](https://trueinterview.io/questions/rearrange-an-array-to-minimize-the-sum-of-distinct-counts-over-all-prefixes) | Coding | Medium | New grad, Mid | Software Engineer | 2026-10 |
 | [Bound the Rank of BA Given Rank of AB](https://trueinterview.io/questions/bound-the-rank-of-ba-given-rank-of-ab) | Behavioral / concept | - | Mid | Data Scientist | 2026-09 |
 | [Compute the Arc Length of a Curve](https://trueinterview.io/questions/compute-the-arc-length-of-a-curve) | Behavioral / concept | - | Mid | Quantitative Finance | 2026-09 |
 | [Expected Number of Runs in Coin Tosses](https://trueinterview.io/questions/expected-number-of-runs-in-coin-tosses) | Behavioral / concept | - | New grad, Mid | Quantitative Finance | 2026-09 |

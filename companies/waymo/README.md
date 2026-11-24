@@ -7,7 +7,7 @@
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Match Dictionary Words After Collapsing Consecutive Duplicates](https://trueinterview.io/questions/4b019575-ee7a-52d8-ac1f-f8de2d5033d8) | Coding | Easy | Senior | Software Engineer | 2026-09 |
-| [Random Access in Run-Length Encoded Data](https://trueinterview.io/questions/6f2137c5-0639-5fd4-a800-365447eee0a6) | Coding | Easy | Senior | Software Engineer | 2026-09 |
+| [Random Access in Run-Length Encoded Data](https://trueinterview.io/questions/6f2137c5-0639-5fd4-a800-365447eee0a6) | Coding | Easy | Mid | Software Engineer | 2026-09 |
 | [Count Frequencies in a Bounded Integer Array](https://trueinterview.io/questions/80b6974a-397a-5a98-82d0-d78895577267) | Coding | Easy | Senior | Software Engineer | 2026-08 |
 | [Format Bytes as a Hexdump with ASCII Preview](https://trueinterview.io/questions/a4271820-2948-5b33-9f94-e2515685b70c) | Coding | Easy | Senior | Software Engineer | 2026-08 |
 | [7-Day Inactive Users](https://trueinterview.io/questions/7-day-inactive-users) | SQL | Easy | New grad | Data Scientist | 2026-07 |
@@ -16,5 +16,5 @@
 | [Low-Frequency Users By City](https://trueinterview.io/questions/low-frequency-users-by-city) | SQL | Easy | New grad | Data Scientist | 2026-07 |
 | [Monthly Ride Aggregation](https://trueinterview.io/questions/monthly-ride-aggregation) | SQL | Easy | New grad | Data Scientist | 2026-07 |
 | [Retention Rating By Active Month](https://trueinterview.io/questions/retention-rating-by-active-month) | SQL | Medium | New grad | Data Scientist | 2026-07 |
-| [Ratings in the First and Third Active Months](https://trueinterview.io/questions/analyze-user-ride-activity-with-sql-ratings-in-the-first-and-third-active-months) | SQL | Hard | Mid, Senior | Data & AI | 2026-03 |
+| [Ratings in the First and Third Active Months](https://trueinterview.io/questions/analyze-user-ride-activity-with-sql-ratings-in-the-first-and-third-active-months) | SQL | Hard | Mid, Senior | Data Scientist | 2026-03 |
 | [Compute Ride Metrics in SQL](https://trueinterview.io/questions/compute-ride-metrics-in-sql) | SQL | Medium | New grad, Mid, Senior | Data Scientist | 2026-03 |

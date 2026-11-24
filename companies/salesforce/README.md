@@ -2,7 +2,7 @@
 
 # Salesforce OA Questions
 
-25 online assessment questions reported at Salesforce, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+26 online assessment questions reported at Salesforce, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -16,6 +16,7 @@
 | [Minimum Operations to Reduce an Integer to 0](https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
 | [Maximum Number of Palindromic Strings](https://trueinterview.io/questions/maximum-palindromic-strings) | Coding | Medium | New grad | Software Engineer | 2026-03 |
 | [Code Review of a Python Repository](https://trueinterview.io/questions/code-review-oa) | AI coding | Medium | New grad | Software Engineer | 2026-03 |
+| [Delete Every Value That Repeats in an Unsorted Singly Linked List](https://trueinterview.io/questions/delete-every-value-that-repeats-in-an-unsorted-singly-linked-list) | Coding | Easy | New grad, Mid, Senior | Software Engineer | 2026-02 |
 | [TypeScript Test and Code Refactor](https://trueinterview.io/questions/typescript-refactor-oa) | AI coding | Medium | Senior | Frontend Engineer | 2026-02 |
 | [Singly Linked List — Remove Duplicate Values](https://trueinterview.io/questions/linked-list-remove-duplicates) | Coding | Easy | Mid, Senior | Software Engineer | 2026-01 |
 | [Longest Subsequence of X That Is a Substring of Y](https://trueinterview.io/questions/longest-subsequence-substring) | Coding | Medium | Mid, Senior | Software Engineer | 2026-01 |

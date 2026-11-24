@@ -2,18 +2,21 @@
 
 # Capital One OA Questions
 
-53 online assessment questions reported at Capital One, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+56 online assessment questions reported at Capital One, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | Coding | Medium | New grad | Software Engineer | 2026-10 |
+| [Count Pairs of Points Within 2 Units on Both Axes](https://trueinterview.io/questions/count-pairs-of-points-within-2-units-on-both-axes) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
+| [Count Three-Digit Numbers With All-Distinct Digits in a Range](https://trueinterview.io/questions/count-three-digit-numbers-with-all-distinct-digits-in-a-range) | Coding | Easy | Intern, New grad | Software Engineer | 2026-10 |
+| [Matrix Pattern Matching](https://trueinterview.io/questions/matrix-pattern-matching) | Coding | Medium | Mid | Software Engineer | 2026-10 |
 | [Number-Line Block Placement](https://trueinterview.io/questions/number-line-block-placement) | Coding | Hard | New grad | Software Engineer | 2026-10 |
 | [Driver Dataset Exploratory Analysis](https://trueinterview.io/questions/dca94c12-e6ad-549e-a6a9-18a195ab3cb6) | Coding | Easy | New grad | Data Scientist | 2026-10 |
 | [Evaluate Arithmetic Equations](https://trueinterview.io/questions/8baff98d-9bad-50cd-b485-13c9134feb8f) | Coding | Easy | Staff+ | Software Engineer | 2026-10 |
 | [Find the Branch with the Most Files](https://trueinterview.io/questions/6807588b-6890-55e5-80ed-0528f4a857aa) | Coding | Easy | Staff+ | Software Engineer | 2026-10 |
-| [First Element With Two Strictly Larger Neighbors](https://trueinterview.io/questions/5eb6637f-25b4-54af-9e85-461ab882a0c1) | Coding | Easy | New grad | Software Engineer | 2026-10 |
+| [First Element With Two Strictly Larger Neighbors](https://trueinterview.io/questions/5eb6637f-25b4-54af-9e85-461ab882a0c1) | Coding | Easy | Mid | Software Engineer | 2026-10 |
 | [Laser Grid Robot Max Safe Run](https://trueinterview.io/questions/laser-grid-robot-max-safe-run) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2026-10 |
 | [Sort Cyclic Shift Absolute-Difference Costs](https://trueinterview.io/questions/4eae3ac8-e1a0-53a3-9a12-577db977b6df) | Coding | Easy | New grad, Mid | Software Engineer | 2026-10 |
+| [Return a Matrix's Elements in Clockwise Spiral Order](https://trueinterview.io/questions/return-a-matrixs-elements-in-clockwise-spiral-order) | Coding | Medium | New grad, Mid | Software Engineer | 2026-09 |
 | [Team Ranking Based on Scores and Goal Difference](https://trueinterview.io/questions/9a4d2fca-782a-41ea-ad77-5cb7f1173e79) | Coding | Medium | Mid | Software Engineer | 2026-09 |
 | [Find Repeated-Value Patterns in a Matrix](https://trueinterview.io/questions/find-repeated-value-patterns-in-a-matrix) | Coding | Medium | New grad | Software Engineer | 2026-09 |
 | [Check Alternating Peaks and Valleys in a Circular Array](https://trueinterview.io/questions/2a51b3dc-6f2d-5830-89b2-7515275b4bad) | Coding | Easy | New grad | Software Engineer | 2026-09 |

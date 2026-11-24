@@ -2,10 +2,18 @@
 
 # Pinterest OA Questions
 
-10 online assessment questions reported at Pinterest, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+18 online assessment questions reported at Pinterest, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Compute Recall and FPR from Confusion Matrices to Select Classifiers](https://trueinterview.io/questions/compute-recall-and-fpr-from-confusion-matrices-to-select-classifiers) | Coding | Easy | Intern, New grad | Machine Learning Engineer | 2026-10 |
+| [Ensemble Learning Trade-offs and Why Bagging Reduces Overfitting](https://trueinterview.io/questions/ensemble-learning-trade-offs-and-why-bagging-reduces-overfitting) | Behavioral / concept | - | New grad, Mid | Machine Learning Engineer | 2026-10 |
+| [Find All Strict Local Maxima in an Integer Array](https://trueinterview.io/questions/find-all-strict-local-maxima-in-an-integer-array) | Coding | Easy | New grad, Mid, Senior | Software Engineer | 2026-10 |
+| [Hand-Compute a Small Neural Network Forward Pass with a Sigmoid Output](https://trueinterview.io/questions/hand-compute-a-small-neural-network-forward-pass-with-a-sigmoid-output) | Behavioral / concept | - | Intern, New grad, Mid | Machine Learning Engineer | 2026-10 |
+| [Implement a Decision Tree Classifier and a Bagging Ensemble from Scratch](https://trueinterview.io/questions/implement-a-decision-tree-classifier-and-a-bagging-ensemble-from-scratch) | Coding | Hard | Intern, New grad | Machine Learning Engineer | 2026-10 |
+| [Implement a k-Nearest Neighbors Classifier from Scratch](https://trueinterview.io/questions/implement-a-k-nearest-neighbors-classifier-from-scratch) | OOD / LLD | Easy | Intern, New grad | Machine Learning Engineer | 2026-10 |
+| [Implement Linear Regression with Batch Gradient Descent from Scratch](https://trueinterview.io/questions/implement-linear-regression-with-batch-gradient-descent-from-scratch) | Coding | Medium | New grad, Mid, Senior | Machine Learning Engineer | 2026-10 |
+| [Which Regularization Penalties Set Model Coefficients Exactly to Zero](https://trueinterview.io/questions/which-regularization-penalties-set-model-coefficients-exactly-to-zero) | Behavioral / concept | - | New grad, Mid, Senior | Machine Learning Engineer | 2026-10 |
 | [Highly Active User Percentage by Country](https://trueinterview.io/questions/f31f02a5-b053-59b1-a6ed-4246c575cd9c) | SQL | Medium | Mid | Data Scientist | 2026-09 |
 | [Top Two Categories by Engagement Rate per Country](https://trueinterview.io/questions/3b783d83-6ac7-5599-9792-a02269856670) | SQL | Medium | Mid | Data Scientist | 2026-09 |
 | [MCQ + NN Forward + Coding + ML Implementations)](https://trueinterview.io/questions/mle-intern-codesignal-oa) | Behavioral / concept | - | New grad | Machine Learning Engineer | 2026-06 |

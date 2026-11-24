@@ -2,10 +2,11 @@
 
 # Ramp OA Questions
 
-14 online assessment questions reported at Ramp, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+15 online assessment questions reported at Ramp, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Build a Wordle Guess Checker with Green, Yellow and Red Letter Feedback](https://trueinterview.io/questions/build-a-wordle-guess-checker-with-green-yellow-and-red-letter-feedback) | Coding | Medium | New grad, Mid | Frontend Engineer | 2026-09 |
 | [Task Management System II](https://trueinterview.io/questions/oa-task-management-system-2) | OOD / LLD | Medium | New grad | Software Engineer | 2026-08 |
 | [Recipe Manager](https://trueinterview.io/questions/recipe-manager) | OOD / LLD | Medium | New grad, Mid, Senior | Software Engineer | 2026-06 |
 | [Correct Bedroom Counts from Descriptions](https://trueinterview.io/questions/correct-bedroom-counts-from-descriptions) | Coding | Easy | Intern, New grad | Software Engineer | 2026-05 |

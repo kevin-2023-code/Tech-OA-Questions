@@ -2,12 +2,13 @@
 
 # IBM OA Questions
 
-24 online assessment questions reported at IBM, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+25 online assessment questions reported at IBM, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Customers with High Average Resource Usage](https://trueinterview.io/questions/sql-high-average-resource-usage) | SQL | Easy | New grad | Data Scientist | 2026-10 |
 | [Maximum Concurrent Processes / Meeting Rooms](https://trueinterview.io/questions/maximum-concurrent-processes) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
+| [Six Timed Behavioral Prompts: AI Tools, Debugging, Teamwork, Explaining, Goals, Quality](https://trueinterview.io/questions/six-timed-behavioral-prompts-ai-tools-debugging-teamwork-explaining-goals-quality) | Behavioral / concept | - | New grad, Mid | Software Engineer | 2026-09 |
 | [VM Rental Revenue from Changing Stock](https://trueinterview.io/questions/vm-rental-revenue) | Coding | Medium | New grad, Mid | Software Engineer | 2026-09 |
 | [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Coding | Medium | New grad, Mid | Software Engineer | 2026-08 |
 | [Card Packets with Identical Distribution](https://trueinterview.io/questions/card-packets-with-identical-distribution) | Coding | Medium | Intern, New grad | Software Engineer | 2026-05 |

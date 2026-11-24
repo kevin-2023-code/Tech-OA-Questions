@@ -2,10 +2,13 @@
 
 # Google OA Questions
 
-31 online assessment questions reported at Google, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+34 online assessment questions reported at Google, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Work-style and ethics judgment: customer gifts, harassment, coworker growth](https://trueinterview.io/questions/work-style-and-ethics-judgment-customer-gifts-harassment-coworker-growth) | Behavioral / concept | - | Intern, New grad | Software Engineer | 2026-10 |
+| [Count Evenings Needed to Finish Whole Chapters in Order](https://trueinterview.io/questions/count-evenings-needed-to-finish-whole-chapters-in-order) | Coding | Medium | New grad, Mid | Software Engineer | 2026-10 |
+| [Count Failing, Passing, and Honor-Roll Scores](https://trueinterview.io/questions/count-failing-passing-and-honor-roll-scores) | Coding | Easy | Intern, New grad | Software Engineer | 2026-10 |
 | [Answer Google Behavioral Questions](https://trueinterview.io/questions/answer-google-behavioral-questions) | Behavioral / concept | - | New grad, Mid, Senior | Data Scientist | 2026-10 |
 | [Google Hiring Assessment (GHA / Work Styles)](https://trueinterview.io/questions/google-hiring-assessment-gha) | Behavioral / concept | - | New grad, Mid | Software Engineer | 2026-10 |
 | [Maximum Concurrent Processes / Meeting Rooms](https://trueinterview.io/questions/maximum-concurrent-processes) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |

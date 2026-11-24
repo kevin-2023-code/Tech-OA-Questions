@@ -1,4 +1,6 @@
 Title,Format,Difficulty,Level,Role,Last Reported,Link
+Count Subarrays Whose Product Has an Odd Divisor Count,Coding,Hard,Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/count-subarrays-whose-product-has-an-odd-divisor-count
+Maximum Team Size with an Overlapping Hub,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/maximum-team-size-with-an-overlapping-hub
 Count Non-Decreasing Arrays with Target Digit Sums,Coding,Hard,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/non-decreasing-digit-sum-array-count
 Employee Attrition Prediction,Coding,Medium,Staff+,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/employee-attrition-prediction
 House Robber IV (LC 2560),Coding,Hard,Mid,Software Engineer,2026-10,https://trueinterview.io/questions/house-robber-iv
@@ -17,6 +19,7 @@ Design a replicated key-value store with quorums,System design,Medium,Senior; St
 Design device telemetry pipeline for real-time and batch,System design,Hard,Senior; Staff+,Backend Engineer,2026-06,https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch
 Hash Map Counting / Lookup Problem,Coding,Easy,Mid,Software Engineer,2026-06,https://trueinterview.io/questions/ad5888a6-8606-4bb2-9983-c9f28184e6d6
 Matrix Multiplication,Coding,Easy,Mid; Senior,Software Engineer,2026-05,https://trueinterview.io/questions/8873c68e-43b6-476d-be5f-36030a3aec82
+Move every zero to the end of an array while preserving the order of other values,Coding,Easy,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/move-every-zero-to-the-end-of-an-array-while-preserving-the-order-of-other-values
 Final Prices With a Special Discount in a Shop,Coding,Easy,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop
 Rotate String (variant with two string arrays),Coding,Easy,Mid,Software Engineer,2026-04,https://trueinterview.io/questions/5a8c9bdf-ba15-4e3f-bed8-09c457108d6e
 Count Positive Pairs Satisfying 1/x + 1/y = 1/N,Coding,Medium,New grad; Mid,Software Engineer,2026-03,https://trueinterview.io/questions/equations-reciprocal-pair-count

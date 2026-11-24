@@ -2,9 +2,10 @@
 
 # Scale AI OA Questions
 
-2 online assessment questions reported at Scale AI, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+3 online assessment questions reported at Scale AI, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Smaller Angle Between Clock Hands](https://trueinterview.io/questions/61dbdcbb-6345-50de-a0cf-3d6b0fa8c46c) | Coding | Easy | New grad, Mid | Software Engineer | 2026-10 |
+| [Least-Privileged Key Unlocking Every Requested Device in a Device Tree](https://trueinterview.io/questions/least-privileged-key-unlocking-every-requested-device-in-a-device-tree) | Coding | Medium | Mid, Senior | Software Engineer | 2026-08 |
 | [Distinct Wall Crossing on Number Line](https://trueinterview.io/questions/distinct-wall-crossing-on-number-line) | Coding | Hard | Mid, Senior | Software Engineer | 2026-02 |

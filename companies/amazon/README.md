@@ -2,21 +2,25 @@
 
 # Amazon OA Questions
 
-53 online assessment questions reported at Amazon, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+60 online assessment questions reported at Amazon, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Design a Food Order and Delivery Tracking System](https://trueinterview.io/questions/design-a-food-order-and-delivery-tracking-system) | System design | Medium | Mid, Senior | Backend Engineer | 2026-10 |
 | [Service Instance Rating Threshold](https://trueinterview.io/questions/max-k-instances-rated-at-least-k) | Coding | Easy | Mid | Software Engineer | 2026-10 |
 | [AI Assistant Repo Bug-Fix](https://trueinterview.io/questions/ai-assistant-repo-bug-fix) | AI coding | Medium | Intern, New grad, Mid | Software Engineer | 2026-10 |
 | [Delivery-Center Grid — Minimum Inconvenience](https://trueinterview.io/questions/delivery-center-grid-minimum-inconvenience) | Coding | Hard | New grad, Mid | Software Engineer | 2026-10 |
 | [Diagnose Return Eligibility Scoring Bugs](https://trueinterview.io/questions/diagnose-return-eligibility-scoring-bugs) | Behavioral / concept | - | Intern, New grad | Backend Engineer | 2026-10 |
 | [Max Money from K Consecutive Bags](https://trueinterview.io/questions/311525d4-2675-4709-b108-5237fc93c89c) | Coding | Medium | New grad, Mid | Software Engineer | 2026-10 |
-| [Maximize Bitwise AND Under a Budget](https://trueinterview.io/questions/max-bitwise-and-k-elements-budget) | Coding | Hard | Mid | Software Engineer | 2026-10 |
+| [Maximize Bitwise AND Under a Budget](https://trueinterview.io/questions/max-bitwise-and-k-elements-budget) | Coding | Hard | New grad, Mid | Software Engineer | 2026-10 |
 | [Maximum Concurrent Processes / Meeting Rooms](https://trueinterview.io/questions/maximum-concurrent-processes) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
 | [Maximum Island Area](https://trueinterview.io/questions/7e84bc82-8c78-5110-8f99-f6d0e37284d6) | Coding | Easy | Mid, Senior | Software Engineer | 2026-10 |
 | [Smaller Angle Between Clock Hands](https://trueinterview.io/questions/61dbdcbb-6345-50de-a0cf-3d6b0fa8c46c) | Coding | Easy | New grad, Mid | Software Engineer | 2026-10 |
 | [Work Simulation & Work Style Assessment](https://trueinterview.io/questions/work-style-simulation-assessment) | Behavioral / concept | - | Intern, New grad | Software Engineer | 2026-10 |
-| [Othello Move — Flip Captured Pieces](https://trueinterview.io/questions/othello-move-flip-simulation) | Coding | Medium | New grad | Software Engineer | 2026-09 |
+| [Fix a Buggy Spring Boot Movie Search Against Five Search Rules](https://trueinterview.io/questions/fix-a-buggy-spring-boot-movie-search-against-five-search-rules) | Coding | Medium | New grad, Mid | Backend Engineer | 2026-09 |
+| [Othello Move — Flip Captured Pieces](https://trueinterview.io/questions/othello-move-flip-simulation) | Coding | Medium | Mid | Software Engineer | 2026-09 |
+| [Debug a Node.js car-rental backend: leaked cars, missing new cars, lost edits](https://trueinterview.io/questions/debug-a-node-js-car-rental-backend-leaked-cars-missing-new-cars-lost-edits) | Coding | Medium | New grad | Backend Engineer | 2026-09 |
+| [Debug Failing Tests in a Django Movie Search and Filter API](https://trueinterview.io/questions/debug-failing-tests-in-a-django-movie-search-and-filter-api) | AI coding | Medium | Mid | Backend Engineer | 2026-09 |
 | [Binary Array Rearrangement](https://trueinterview.io/questions/binary-array-minimum-adjacent-swaps) | Coding | Medium | New grad | Software Engineer | 2026-09 |
 | [Drone Delivery on a Hub Ring — Minimum Travel](https://trueinterview.io/questions/drone-hub-ring-min-travel) | Coding | Medium | New grad, Mid | Software Engineer | 2026-09 |
 | [Frequent Page Visit Pattern](https://trueinterview.io/questions/b2a33813-d10b-4a9d-a596-778a2a7fc7e8) | Coding | Easy | Senior | Software Engineer | 2026-09 |
@@ -39,8 +43,11 @@
 | [Array Generation Service](https://trueinterview.io/questions/lex-largest-string-via-state-flips) | Coding | Medium | Mid | Software Engineer | 2026-04 |
 | [Min Errors in 0/1/! Subsequence DP](https://trueinterview.io/questions/errors-in-zero-one-bang-subsequence-dp) | Coding | Hard | Mid | Software Engineer | 2026-04 |
 | [Merge Values into Blocks](https://trueinterview.io/questions/min-ops-to-make-array-contiguous) | Coding | Hard | - | Software | 2026-04 |
+| [Solve Two Array Optimization Problems](https://trueinterview.io/questions/solve-two-array-optimization-problems) | Coding | Hard | New grad, Mid | Software Engineer | 2026-04 |
 | [Frequency-Priority Error Code Sort](https://trueinterview.io/questions/frequency-priority-error-code-sort) | Coding | Easy | New grad | Software Engineer | 2026-03 |
 | [Lexicographically Minimal BoxIds via +1/9 Op](https://trueinterview.io/questions/lex-min-box-ids-plus-one-mod-nine) | Coding | Hard | Mid | Software Engineer | 2026-03 |
+| [Count Four-Neighbor Islands in a Binary Matrix](https://trueinterview.io/questions/count-four-neighbor-islands-in-a-binary-matrix) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-03 |
+| [Design a TTL-Aware LRU Cache Without Full Expiration Scans](https://trueinterview.io/questions/design-a-ttl-aware-lru-cache-without-full-expiration-scans) | OOD / LLD | Medium | Mid, Senior | Software Engineer | 2026-03 |
 | [Deduplicate Events List (with Sorting + Map/Stack)](https://trueinterview.io/questions/83856d15-e217-467d-9269-2da9d2a261cd) | Coding | Easy | Senior | Software Engineer | 2026-03 |
 | [In-place Array Reordering (0/1/2 sort variant)](https://trueinterview.io/questions/8f2cdb13-1620-4874-900f-1597fce80c27) | Coding | Easy | Mid | Software Engineer | 2026-03 |
 | [Find a valid dependency order](https://trueinterview.io/questions/find-a-valid-dependency-order) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-02 |

@@ -2,10 +2,12 @@
 
 # Microsoft OA Questions
 
-32 online assessment questions reported at Microsoft, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+35 online assessment questions reported at Microsoft, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Count Subarrays Whose Product Has an Odd Divisor Count](https://trueinterview.io/questions/count-subarrays-whose-product-has-an-odd-divisor-count) | Coding | Hard | Mid, Senior | Software Engineer | 2026-10 |
+| [Maximum Team Size with an Overlapping Hub](https://trueinterview.io/questions/maximum-team-size-with-an-overlapping-hub) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
 | [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | Coding | Hard | New grad | Software Engineer | 2026-10 |
 | [Employee Attrition Prediction](https://trueinterview.io/questions/employee-attrition-prediction) | Coding | Medium | Staff+ | Machine Learning Engineer | 2026-10 |
 | [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | Coding | Hard | Mid | Software Engineer | 2026-10 |
@@ -24,6 +26,7 @@
 | [Design device telemetry pipeline for real-time and batch](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | System design | Hard | Senior, Staff+ | Backend Engineer | 2026-06 |
 | [Hash Map Counting / Lookup Problem](https://trueinterview.io/questions/ad5888a6-8606-4bb2-9983-c9f28184e6d6) | Coding | Easy | Mid | Software Engineer | 2026-06 |
 | [Matrix Multiplication](https://trueinterview.io/questions/8873c68e-43b6-476d-be5f-36030a3aec82) | Coding | Easy | Mid, Senior | Software Engineer | 2026-05 |
+| [Move every zero to the end of an array while preserving the order of other values](https://trueinterview.io/questions/move-every-zero-to-the-end-of-an-array-while-preserving-the-order-of-other-values) | Coding | Easy | New grad, Mid, Senior | Software Engineer | 2026-04 |
 | [Final Prices With a Special Discount in a Shop](https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop) | Coding | Easy | New grad | Software Engineer | 2026-04 |
 | [Rotate String (variant with two string arrays)](https://trueinterview.io/questions/5a8c9bdf-ba15-4e3f-bed8-09c457108d6e) | Coding | Easy | Mid | Software Engineer | 2026-04 |
 | [Count Positive Pairs Satisfying 1/x + 1/y = 1/N](https://trueinterview.io/questions/equations-reciprocal-pair-count) | Coding | Medium | New grad, Mid | Software Engineer | 2026-03 |
