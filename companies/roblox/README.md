@@ -2,7 +2,7 @@
 
 # Roblox OA Questions
 
-12 online assessment questions reported at Roblox, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+9 online assessment questions reported at Roblox, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -12,9 +12,6 @@
 | [Handle Release Risks and Cross-Team Blockers](https://trueinterview.io/questions/handle-release-risks-and-cross-team-blockers) | Behavioral / concept | - | Mid, Senior | Software Engineer | 2026-08 |
 | [Design Real-time Like Interation System](https://trueinterview.io/questions/design-like-unlike-favorite-system) | System design | Medium | Senior, Staff+ | Software Engineer | 2026-07 |
 | [Customized Programming Challenge for Roblox Business](https://trueinterview.io/questions/a391376f-4a36-466b-8e9a-3e9d95d82511) | Coding | Easy | New grad | Software Engineer | 2025-12 |
-| [Apply Bayes' rule to compute posterior](https://trueinterview.io/questions/apply-bayes-rule-to-compute-posterior) | Behavioral / concept | - | New grad, Mid, Senior | Data Scientist | 2025-11 |
-| [Compute DiD and validate parallel trends](https://trueinterview.io/questions/compute-did-and-validate-parallel-trends) | Coding | Medium | New grad, Mid, Senior | Data Scientist | 2025-11 |
 | [Implement four DS coding tasks](https://trueinterview.io/questions/implement-four-ds-coding-tasks) | Coding | Hard | Mid, Senior | Data Scientist | 2025-10 |
-| [Choose Best/Worst Actions Under Time Pressure](https://trueinterview.io/questions/choose-best-worst-actions-under-oa-pressure) | Behavioral / concept | - | Intern, New grad, Mid | Data Scientist | - |
 | [Design leakage-free predictive maintenance pipeline](https://trueinterview.io/questions/design-leakage-free-predictive-maintenance-pipeline) | System design | Hard | Senior, Staff+ | Data Scientist | - |
 | [Optimize the Space of Code in Coding Screen](https://trueinterview.io/questions/92dadf5d-6db1-424c-b110-2cd7b367704d) | Coding | Easy | New grad, Mid | Software Engineer | - |

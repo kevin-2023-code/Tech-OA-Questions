@@ -2,7 +2,7 @@
 
 # Uber OA Questions
 
-31 online assessment questions reported at Uber, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+28 online assessment questions reported at Uber, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -18,17 +18,14 @@
 | [Minimum Triggers to Absorb All Balls](https://trueinterview.io/questions/minimum-triggers-to-absorb-all-balls) | Coding | Medium | New grad, Mid | Software Engineer | 2026-06 |
 | [Minimum Root Edges Reversal](https://trueinterview.io/questions/b9de58ad-c058-4d46-b5b4-f04ed4f4af2a) | Coding | Medium | New grad, Mid | Software Engineer | 2026-05 |
 | [Maximize Portfolio Floor Value](https://trueinterview.io/questions/maximize-portfolio-floor-value) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-05 |
-| [Solve Knight and Reversal Problems](https://trueinterview.io/questions/solve-knight-and-reversal-problems) | Coding | Hard | Mid, Senior | Software Engineer | 2026-04 |
 | [Final Prices With a Special Discount in a Shop](https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop) | Coding | Easy | New grad | Software Engineer | 2026-04 |
 | [Minimum Operations to Reduce an Integer to 0](https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
 | [Zero Array Transformation](https://trueinterview.io/questions/zero-array-transformation) | Coding | Hard | New grad, Mid, Senior | Software Engineer | 2026-03 |
 | [Check Prefix Permutation](https://trueinterview.io/questions/oa-permutation-prefix-balanced) | Coding | Easy | New grad, Mid | Software Engineer | 2026-03 |
 | [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Coding | Medium | New grad | Software Engineer | 2026-02 |
 | [Check if each prefix forms 1..k permutation](https://trueinterview.io/questions/check-if-each-prefix-forms-1-k-permutation) | Coding | Medium | New grad | Software Engineer | 2026-02 |
-| [Find minimum reversals to orient edges away from root](https://trueinterview.io/questions/find-minimum-reversals-to-orient-edges-away-from-root) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-02 |
 | [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization) | Coding | Easy | New grad | Software Engineer | 2026-02 |
 | [Optimize Transition from Elevator to Stairs](https://trueinterview.io/questions/oa-stairs-elevator-energy-tradeoff) | Coding | Medium | New grad | Software Engineer | 2026-02 |
-| [Count paths with prime-ending jumps](https://trueinterview.io/questions/count-paths-with-prime-ending-jumps) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-01 |
 | [Majority Element](https://trueinterview.io/questions/8ef6f482-db59-407f-adc7-1118a22fdae0) | Coding | Easy | Mid | Software Engineer | 2026-01 |
 | [Max Levels from Each Index](https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc) | Coding | Medium | New grad | Software Engineer | 2025-11 |
 | [Round-Trip Mission Schedule](https://trueinterview.io/questions/oa-codesignal-multi-mission-routing) | Coding | Medium | New grad | Software Engineer | 2025-07 |

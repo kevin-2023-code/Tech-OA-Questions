@@ -2,7 +2,7 @@
 
 # IBM OA Questions
 
-24 online assessment questions reported at IBM, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+23 online assessment questions reported at IBM, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -22,7 +22,6 @@
 | [Process Execution Time (Merge Inclusive Intervals)](https://trueinterview.io/questions/process-execution-time-merge-intervals) | Coding | Medium | Mid | Software Engineer | 2025-11 |
 | [Frontend CSS Flexbox Layout Task](https://trueinterview.io/questions/frontend-css-flexbox-layout) | OOD / LLD | Easy | - | Data & AI, Software | 2025-10 |
 | [Find minimum operations to make array sorted](https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted) | Coding | Hard | Mid, Senior | Software Engineer | 2025-10 |
-| [Write SQL to compute max and min marks](https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks) | SQL | Easy | Intern, New grad, Mid | Data Scientist | 2025-10 |
 | [Rate Limiter by IP Address](https://trueinterview.io/questions/rate-limiter-by-ip-address) | Coding | Medium | New grad, Mid | Backend Engineer | 2025-09 |
 | [Minimum Link Reallocation to Connect Repositories](https://trueinterview.io/questions/minimum-link-reallocation) | Coding | Medium | New grad | Software Engineer | 2025-09 |
 | [Earliest Coordinate Reach with Optional Moves](https://trueinterview.io/questions/earliest-coordinate-reach-with-optional-moves) | Coding | Medium | Mid | Software Engineer | 2025-09 |

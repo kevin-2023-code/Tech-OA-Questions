@@ -2,7 +2,7 @@
 
 # Microsoft OA Questions
 
-34 online assessment questions reported at Microsoft, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+32 online assessment questions reported at Microsoft, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -15,7 +15,6 @@
 | [Delete and Earn (LC 740)](https://trueinterview.io/questions/delete-and-earn) | Coding | Medium | Mid | Software Engineer | 2026-09 |
 | [Grouped Binary Substrings](https://trueinterview.io/questions/grouped-binary-substrings) | Coding | Medium | New grad, Mid | Software Engineer | 2026-09 |
 | [Reverse a Linked List](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | Coding | Easy | Mid | Software Engineer | 2026-09 |
-| [Maximize Points by Deleting Values and Their Neighbors](https://trueinterview.io/questions/maximize-points-by-deleting-values-and-their-neighbors) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-08 |
 | [Minimum Fuel Cost Across a Road Network](https://trueinterview.io/questions/minimum-fuel-cost-road-network) | Coding | Hard | New grad | Software Engineer | 2026-08 |
 | [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | Coding | Medium | Mid | Software Engineer | 2026-08 |
 | [Generate Lexicographically Sorted String Subsets](https://trueinterview.io/questions/0de96483-d0cb-5095-8e67-dc544847a643) | Coding | Easy | Mid | Software Engineer | 2026-08 |
@@ -35,7 +34,6 @@
 | [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization) | Coding | Easy | New grad | Software Engineer | 2026-02 |
 | [Longest Subsequence of X That Is a Substring of Y](https://trueinterview.io/questions/longest-subsequence-substring) | Coding | Medium | Mid, Senior | Software Engineer | 2026-01 |
 | [Debug distributed-system performance problems](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | System design | Hard | Senior, Staff+ | Platform Engineer | 2025-12 |
-| [Explain hash map internals and edge cases](https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases) | Behavioral / concept | - | Mid | Software Engineer | 2025-12 |
 | [Invert Binary Tree](https://trueinterview.io/questions/190e82fa-f7f8-43a7-88a5-c06003cd621c) | Coding | Easy | Mid | Software Engineer | 2025-12 |
 | [Maximize Edge Sum in Graph](https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4) | Coding | Medium | New grad, Mid, Senior | Software Engineer | - |
 | [Minimal Board Length for Holes](https://trueinterview.io/questions/0df3b897-7563-413a-9bea-06eeeb50a399) | Coding | Medium | New grad, Mid, Senior | Software Engineer | - |

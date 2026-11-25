@@ -2,7 +2,7 @@
 
 # Airbnb OA Questions
 
-14 online assessment questions reported at Airbnb, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+13 online assessment questions reported at Airbnb, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -12,7 +12,6 @@
 | [In-Memory File System](https://trueinterview.io/questions/oa-in-memory-file-system) | OOD / LLD | Medium | New grad | Software Engineer | 2026-09 |
 | [Calculate Page Dwell Time from Event Logs](https://trueinterview.io/questions/12a384fe-ebda-5785-9cdb-d8adeff5e3ce) | SQL | Easy | Mid | Data Scientist | 2026-09 |
 | [Median Home Price by City](https://trueinterview.io/questions/0c07a7e2-8538-52ad-a790-8c1ca6621996) | Coding | Easy | Mid | Data Scientist | 2026-09 |
-| [Define a File Store with User Quotas and Compression](https://trueinterview.io/questions/define-a-file-store-with-user-quotas-and-compression) | OOD / LLD | Hard | Mid, Senior | Backend Engineer | 2026-08 |
 | [In-Memory Object Manager](https://trueinterview.io/questions/oa-object-manager-prefix-ttl) | OOD / LLD | Medium | Mid | Software Engineer | 2026-08 |
 | [Working Hours Register](https://trueinterview.io/questions/oa-working-hours-register) | OOD / LLD | Hard | New grad | Software Engineer | 2026-08 |
 | [FIFO Order Allocator](https://trueinterview.io/questions/a806c5ff-dc75-5b79-b259-9d5ba25d4b21) | Coding | Easy | Senior | Software Engineer | 2026-08 |

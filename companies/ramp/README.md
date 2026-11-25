@@ -2,7 +2,7 @@
 
 # Ramp OA Questions
 
-15 online assessment questions reported at Ramp, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+14 online assessment questions reported at Ramp, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -12,7 +12,6 @@
 | [Correct Bedroom Counts from Descriptions](https://trueinterview.io/questions/correct-bedroom-counts-from-descriptions) | Coding | Easy | Intern, New grad | Software Engineer | 2026-05 |
 | [Design a Task Assignment System](https://trueinterview.io/questions/design-a-task-assignment-system) | OOD / LLD | Medium | Mid, Senior | - | 2026-05 |
 | [Minimum Character Changes to Make Every k-Length Block a Palindrome](https://trueinterview.io/questions/minimum-character-changes-to-make-every-k-length-block-a-palindrome) | Coding | Medium | New grad | Software Engineer | 2026-03 |
-| [From Take-Home Script to Production: Python Trade-offs and Hardening a Data Job](https://trueinterview.io/questions/from-take-home-script-to-production-python-trade-offs-and-hardening-a-data-job) | Behavioral / concept | - | Mid, Senior | Quantitative Finance | 2026-03 |
 | [Frontend Hidden URL and React Wordle](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | OOD / LLD | Medium | New grad, Mid | Frontend Engineer | 2026-03 |
 | [In-Memory Banking System (4 Levels)](https://trueinterview.io/questions/oa-banking-system) | OOD / LLD | Medium | New grad, Mid, Senior | Backend Engineer | 2026-03 |
 | [Multi-Level Warehouse Storage with Weighted Retrieval](https://trueinterview.io/questions/multi-level-warehouse-storage-with-weighted-retrieval) | OOD / LLD | Hard | New grad, Mid, Senior | Software Engineer | 2026-02 |

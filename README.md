@@ -4,7 +4,7 @@
 
 Online assessment (OA) questions candidates reported at tech companies, one folder per company.
 
-**Snapshot as of 2026-11-25: 863 OA questions from 110 companies.**
+**Snapshot as of 2026-11-25: 835 OA questions from 110 companies.**
 
 The question pages are on [TrueInterview](https://trueinterview.io).
 
@@ -31,44 +31,44 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | Company | OA questions | Newest OA |
 | :-- | --: | :-- |
 | [Amazon](companies/amazon/README.md) | 59 | 2026-10 |
-| [Capital One](companies/capital-one/README.md) | 56 | 2026-10 |
-| [ByteDance](companies/bytedance/README.md) | 35 | 2026-10 |
+| [Capital One](companies/capital-one/README.md) | 55 | 2026-10 |
 | [Google](companies/google/README.md) | 34 | 2026-10 |
-| [Microsoft](companies/microsoft/README.md) | 34 | 2026-10 |
-| [Meta](companies/meta/README.md) | 33 | 2026-09 |
-| [Uber](companies/uber/README.md) | 31 | 2026-09 |
-| [Goldman Sachs](companies/goldman-sachs/README.md) | 29 | 2026-10 |
+| [ByteDance](companies/bytedance/README.md) | 32 | 2026-10 |
+| [Meta](companies/meta/README.md) | 32 | 2026-09 |
+| [Microsoft](companies/microsoft/README.md) | 32 | 2026-10 |
 | [Stripe](companies/stripe/README.md) | 29 | 2026-10 |
+| [Uber](companies/uber/README.md) | 28 | 2026-09 |
+| [Goldman Sachs](companies/goldman-sachs/README.md) | 27 | 2026-10 |
 | [Salesforce](companies/salesforce/README.md) | 27 | 2026-09 |
-| [IBM](companies/ibm/README.md) | 24 | 2026-10 |
 | [Akuna Capital](companies/akuna-capital/README.md) | 23 | 2026-08 |
+| [IBM](companies/ibm/README.md) | 23 | 2026-10 |
 | [Optiver](companies/optiver/README.md) | 19 | 2026-08 |
 | [Cisco](companies/cisco/README.md) | 18 | 2026-02 |
 | [Coinbase](companies/coinbase/README.md) | 18 | 2026-09 |
 | [Pinterest](companies/pinterest/README.md) | 18 | 2026-10 |
-| [SIG](companies/sig/README.md) | 18 | 2026-09 |
+| [SIG](companies/sig/README.md) | 17 | 2026-09 |
 | [Two Sigma](companies/two-sigma/README.md) | 17 | 2026-10 |
 | [Anthropic](companies/anthropic/README.md) | 16 | 2026-09 |
 | [Upstart](companies/upstart/README.md) | 16 | 2026-09 |
 | [Bitkernel](companies/bitkernel/README.md) | 15 | 2025-10 |
 | [Citadel](companies/citadel/README.md) | 15 | 2026-10 |
-| [Point72](companies/point72/README.md) | 15 | 2026-08 |
-| [Ramp](companies/ramp/README.md) | 15 | 2026-09 |
 | [Snowflake](companies/snowflake/README.md) | 15 | 2026-08 |
-| [Airbnb](companies/airbnb/README.md) | 14 | 2026-10 |
 | [Apple](companies/apple/README.md) | 14 | 2026-09 |
+| [Ramp](companies/ramp/README.md) | 14 | 2026-09 |
+| [Airbnb](companies/airbnb/README.md) | 13 | 2026-10 |
 | [eBay](companies/ebay/README.md) | 13 | 2026-06 |
 | [Netflix](companies/netflix/README.md) | 13 | 2026-09 |
 | [Squarepoint](companies/squarepoint/README.md) | 13 | 2026-07 |
 | [JPMorgan](companies/jpmorgan/README.md) | 12 | 2026-09 |
-| [Roblox](companies/roblox/README.md) | 12 | 2026-10 |
-| [Waymo](companies/waymo/README.md) | 12 | 2026-09 |
+| [Point72](companies/point72/README.md) | 12 | 2026-08 |
+| [Waymo](companies/waymo/README.md) | 11 | 2026-09 |
 | [C3.ai](companies/c3-ai/README.md) | 10 | 2026-10 |
-| [Instacart](companies/instacart/README.md) | 10 | 2026-09 |
 | [Oracle](companies/oracle/README.md) | 10 | 2026-08 |
+| [Instacart](companies/instacart/README.md) | 9 | 2026-09 |
 | [OpenAI](companies/openai/README.md) | 9 | 2026-10 |
+| [Roblox](companies/roblox/README.md) | 9 | 2026-10 |
 | [Boston Consulting Group](companies/boston-consulting-group/README.md) | 8 | 2026-09 |
-| [DoorDash](companies/doordash/README.md) | 8 | 2026-09 |
+| [DoorDash](companies/doordash/README.md) | 7 | 2026-09 |
 | [Expedia](companies/expedia/README.md) | 7 | 2026-07 |
 | [HubSpot](companies/hubspot/README.md) | 7 | 2026-06 |
 | [Intuit](companies/intuit/README.md) | 7 | 2026-01 |
@@ -84,7 +84,6 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [Bloomberg](companies/bloomberg/README.md) | 4 | 2026-02 |
 | [Confluent](companies/confluent/README.md) | 4 | 2026-05 |
 | [Cresta](companies/cresta/README.md) | 4 | 2026-10 |
-| [CVS Health](companies/cvs-health/README.md) | 4 | 2026-08 |
 | [Datadog](companies/datadog/README.md) | 4 | 2026-06 |
 | [DRW](companies/drw/README.md) | 4 | 2025-11 |
 | [NVIDIA](companies/nvidia/README.md) | 4 | 2026-08 |
@@ -105,6 +104,7 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [Visa](companies/visa/README.md) | 3 | 2026-08 |
 | [Affirm](companies/affirm/README.md) | 2 | - |
 | [Arista](companies/arista/README.md) | 2 | 2026-03 |
+| [CVS Health](companies/cvs-health/README.md) | 2 | 2026-08 |
 | [IMC](companies/imc/README.md) | 2 | 2025-12 |
 | [Lead Bank](companies/lead-bank/README.md) | 2 | 2025-02 |
 | [Lyft](companies/lyft/README.md) | 2 | 2026-10 |
@@ -113,7 +113,6 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [Rippling](companies/rippling/README.md) | 2 | 2025-11 |
 | [Rubrik](companies/rubrik/README.md) | 2 | 2025-02 |
 | [Vanta](companies/vanta/README.md) | 2 | 2026-07 |
-| [Wayfair](companies/wayfair/README.md) | 2 | 2026-02 |
 | [Wex](companies/wex/README.md) | 2 | 2026-09 |
 | [xAI](companies/xai/README.md) | 2 | 2026-04 |
 | [Airwallex](companies/airwallex/README.md) | 1 | 2026-09 |
@@ -139,6 +138,7 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [State](companies/state/README.md) | 1 | 2026-10 |
 | [Verkada](companies/verkada/README.md) | 1 | 2026-08 |
 | [Voleon](companies/voleon/README.md) | 1 | 2026-08 |
+| [Wayfair](companies/wayfair/README.md) | 1 | 2026-02 |
 | [Ziprecruiter](companies/ziprecruiter/README.md) | 1 | 2025-10 |
 
 ## Contributing

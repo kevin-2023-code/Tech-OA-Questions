@@ -2,7 +2,7 @@
 
 # ByteDance OA Questions
 
-35 online assessment questions reported at ByteDance, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+32 online assessment questions reported at ByteDance, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -26,7 +26,6 @@
 | [Two-Direction Justified Newspaper Layout](https://trueinterview.io/questions/codesignal-swe-oa-spring-2026-two-direction-justified-newspaper-layout) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-03 |
 | [Case-insensitive adjacent differences](https://trueinterview.io/questions/implement-several-oa-simulation-problems-case-insensitive-adjacent-differences) | Coding | Easy | Intern, New grad, Mid | Data & AI | 2026-03 |
 | [Group words that are anagrams](https://trueinterview.io/questions/solve-string-grouping-and-tree-right-view-problems-group-words-that-are-anagrams) | Coding | Medium | Mid | Software | 2026-02 |
-| [Solve string grouping and tree right-view problems](https://trueinterview.io/questions/solve-string-grouping-and-tree-right-view-problems) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-02 |
 | [Bagging from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | Coding | Easy | New grad | Machine Learning Engineer | 2026-01 |
 | [k-Means from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-k-means-from-scratch) | Coding | Medium | New grad | Machine Learning Engineer | 2026-01 |
 | [Local maximum on a 1-D stream](https://trueinterview.io/questions/codesignal-ml-rs-oa-local-maximum-on-a-1-d-stream) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2026-01 |
@@ -36,8 +35,6 @@
 | [Remove Duplicates from Sorted Linked List](https://trueinterview.io/questions/3e6892f9-8fb4-4bb3-b2e6-4182b5a25eed) | Coding | Easy | Mid | Software Engineer | 2025-02 |
 | [Count buggy vs non-buggy by employer](https://trueinterview.io/questions/count-buggy-vs-non-buggy-by-employer) | SQL | Medium | New grad, Mid, Senior | Data Scientist | - |
 | [Find Highest Salary In Each Department](https://trueinterview.io/questions/5348b956-13e3-4f3a-a381-f80594e38002) | SQL | Medium | New grad, Mid, Senior | Data Scientist | - |
-| [Maximize products bought under budget](https://trueinterview.io/questions/maximize-products-bought-under-budget) | Coding | Hard | Mid, Senior | Software Engineer | - |
 | [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | Easy | New grad, Mid | Software Engineer | - |
-| [Select max-discount product per category](https://trueinterview.io/questions/select-max-discount-product-per-category) | SQL | Easy | New grad, Mid, Senior | Data Scientist | - |
 | [SQL Query Session](https://trueinterview.io/questions/b0150c5e-8dd9-4acb-834f-e778ed8bff5f) | SQL | Easy | Intern, New grad, Mid | Data Scientist | - |
 | [Task Scheduling](https://trueinterview.io/questions/1ded6e81-6ed3-469d-b74c-a8f27c0668e9) | Coding | Easy | Intern, New grad | Backend Engineer | - |

@@ -2,7 +2,7 @@
 
 # Instacart OA Questions
 
-10 online assessment questions reported at Instacart, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+9 online assessment questions reported at Instacart, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -13,6 +13,5 @@
 | [Fix Backend Filtering for Book Search Results](https://trueinterview.io/questions/f622c3ca-f863-55e1-bc76-4e83354abd22) | Coding | Easy | Senior | Backend Engineer | 2026-06 |
 | [Decode Password from File](https://trueinterview.io/questions/f8add70b-e695-4d00-b0db-7a7b6aa7646c) | Coding | Easy | Mid | Software Engineer | 2026-05 |
 | [In-Memory Key-Value Store](https://trueinterview.io/questions/oa-in-memory-key-value-store) | OOD / LLD | Medium | Mid, Senior | Backend Engineer | 2026-04 |
-| [Implement an In-Memory File Storage System](https://trueinterview.io/questions/implement-an-in-memory-file-storage-system) | OOD / LLD | Medium | New grad, Mid, Senior | Software | 2026-04 |
 | [Worker Attendance & Payroll](https://trueinterview.io/questions/oa-worker-attendance-payroll) | OOD / LLD | Medium | New grad | Backend Engineer | 2026-01 |
 | [Task Management System III](https://trueinterview.io/questions/task-management-system) | OOD / LLD | Medium | New grad, Mid | Software Engineer | - |

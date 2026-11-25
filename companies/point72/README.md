@@ -2,7 +2,7 @@
 
 # Point72 OA Questions
 
-15 online assessment questions reported at Point72, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+12 online assessment questions reported at Point72, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -17,7 +17,4 @@
 | [Election Exit Poll by State Report (Top-3 states per candidate with ties)](https://trueinterview.io/questions/de777a06-c9a4-4a9d-9685-ae0ee64ed2c4) | SQL | Medium | Mid | Data Scientist | 2026-04 |
 | [Implement DictMixin and JSONMixin for object serialization](https://trueinterview.io/questions/7ad69fb1-c9a9-4b36-b763-d2f45f47cecc) | Coding | Easy | Mid | Software Engineer | 2026-04 |
 | [IPO Share Allocation](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | Coding | Hard | New grad, Mid | Quantitative Finance | 2026-04 |
-| [K-th missing number](https://trueinterview.io/questions/find-kth-missing-integer-and-redundant-operations-k-th-missing-number) | Coding | Medium | New grad, Mid, Senior | Data & AI | 2025-10 |
-| [Explain and tune decision trees robustly](https://trueinterview.io/questions/explain-and-tune-decision-trees-robustly) | Behavioral / concept | - | Intern, New grad, Mid | Data Scientist | - |
 | [Price a coin-doubling game rationally](https://trueinterview.io/questions/price-a-coin-doubling-game-rationally) | Behavioral / concept | - | Mid, Senior | Quantitative Finance | - |
-| [Write SQL for recent customer activity](https://trueinterview.io/questions/write-sql-for-recent-customer-activity) | SQL | Medium | New grad, Mid, Senior | Data Scientist | - |

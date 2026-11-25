@@ -2,7 +2,7 @@
 
 # Waymo OA Questions
 
-12 online assessment questions reported at Waymo, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+11 online assessment questions reported at Waymo, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -17,4 +17,3 @@
 | [Monthly Ride Aggregation](https://trueinterview.io/questions/monthly-ride-aggregation) | SQL | Easy | New grad | Data Scientist | 2026-07 |
 | [Retention Rating By Active Month](https://trueinterview.io/questions/retention-rating-by-active-month) | SQL | Medium | New grad | Data Scientist | 2026-07 |
 | [Ratings in the First and Third Active Months](https://trueinterview.io/questions/analyze-user-ride-activity-with-sql-ratings-in-the-first-and-third-active-months) | SQL | Hard | Mid, Senior | Data Scientist | 2026-03 |
-| [Compute Ride Metrics in SQL](https://trueinterview.io/questions/compute-ride-metrics-in-sql) | SQL | Medium | New grad, Mid, Senior | Data Scientist | 2026-03 |

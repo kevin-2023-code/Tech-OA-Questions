@@ -2,7 +2,7 @@
 
 # Goldman Sachs OA Questions
 
-29 online assessment questions reported at Goldman Sachs, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+27 online assessment questions reported at Goldman Sachs, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -12,7 +12,6 @@
 | [Expected Number of Runs in Coin Tosses](https://trueinterview.io/questions/expected-number-of-runs-in-coin-tosses) | Behavioral / concept | - | New grad, Mid | Quantitative Finance | 2026-09 |
 | [Infer BA When AB Is the Identity](https://trueinterview.io/questions/infer-ba-when-ab-is-the-identity) | Behavioral / concept | - | New grad, Mid, Senior | Data Scientist | 2026-09 |
 | [Integrate a Two-Sided Exponential Density](https://trueinterview.io/questions/integrate-a-two-sided-exponential-density) | Behavioral / concept | - | Mid | Data Scientist | 2026-09 |
-| [Maximize Covariance from Known Variances](https://trueinterview.io/questions/maximize-covariance-from-known-variances) | Behavioral / concept | - | Intern, New grad, Mid | Quantitative Finance | 2026-09 |
 | [Count Palindromic Substrings](https://trueinterview.io/questions/palindromic-substrings) | Coding | Medium | Mid | Software Engineer | 2026-08 |
 | [Highest Average Score Per Person](https://trueinterview.io/questions/max-average-score-per-person) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-07 |
 | [Math and Probability Multiple Choice Bank](https://trueinterview.io/questions/quant-oa-math-probability-bank) | Behavioral / concept | - | Intern, New grad | Quantitative Finance | 2026-05 |
@@ -21,7 +20,6 @@
 | [Transaction Segments / Increasing Subarrays of Length K](https://trueinterview.io/questions/transaction-segments-increasing-subarrays) | Coding | Easy | Mid | Software Engineer | 2025-11 |
 | [Preprocess Dates](https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099) | Coding | Easy | Intern | Software Engineer | 2025-11 |
 | [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Coding | Medium | New grad, Mid, Senior | Machine Learning Engineer | 2025-10 |
-| [Evaluate TPR/FPR, sigmoid, and activations](https://trueinterview.io/questions/evaluate-tpr-fpr-sigmoid-and-activations) | Behavioral / concept | - | Intern, New grad | Machine Learning Engineer | 2025-10 |
 | [Ethernet Cable Square Count](https://trueinterview.io/questions/ethernet-cable-square-count) | Coding | Easy | Intern, New grad | Software Engineer | 2025-09 |
 | [Process Starvation Time](https://trueinterview.io/questions/process-starvation-time) | Coding | Medium | New grad, Mid | Software Engineer | 2025-09 |
 | [Equalize Letter Frequencies With Add / Remove](https://trueinterview.io/questions/equalize-letter-frequencies) | Coding | Medium | New grad | Software Engineer | 2025-09 |

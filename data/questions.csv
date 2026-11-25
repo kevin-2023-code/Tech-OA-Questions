@@ -12,7 +12,6 @@ Abridge,"Sum of Integers Up to n Divisible by 3, 5, or 7",Coding,Easy,Intern; Ne
 Affirm,Count Reversing Triples,Coding,Medium,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/count-reversing-triples
 Affirm,Prefix to Postfix,Coding,Medium,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/prefix-to-postfix
 Airbnb,Calculate Page Dwell Time from Event Logs,SQL,Easy,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/12a384fe-ebda-5785-9cdb-d8adeff5e3ce
-Airbnb,Define a File Store with User Quotas and Compression,OOD / LLD,Hard,Mid; Senior,Backend Engineer,2026-08,https://trueinterview.io/questions/define-a-file-store-with-user-quotas-and-compression
 Airbnb,FIFO Order Allocator,Coding,Easy,Senior,Software Engineer,2026-08,https://trueinterview.io/questions/a806c5ff-dc75-5b79-b259-9d5ba25d4b21
 Airbnb,"In-Memory Banking System with Immediate, Offline and Deletable Transfers",OOD / LLD,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/in-memory-banking-system-with-immediate-offline-and-deletable-transfers
 Airbnb,In-Memory File System,OOD / LLD,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/oa-in-memory-file-system
@@ -171,12 +170,9 @@ ByteDance,Group words that are anagrams,Coding,Medium,Mid,Software,2026-02,https
 ByteDance,k-Means from scratch,Coding,Medium,New grad,Machine Learning Engineer,2026-01,https://trueinterview.io/questions/codesignal-ml-rs-oa-k-means-from-scratch
 ByteDance,Local maximum on a 1-D stream,Coding,Medium,Intern; New grad; Mid,Software Engineer,2026-01,https://trueinterview.io/questions/codesignal-ml-rs-oa-local-maximum-on-a-1-d-stream
 ByteDance,Longest Consecutive Login Days per User,SQL,Medium,Mid,Data Scientist,2026-07,https://trueinterview.io/questions/958957e9-157b-4f85-9660-bab2890de9f6
-ByteDance,Maximize products bought under budget,Coding,Hard,Mid; Senior,Software Engineer,,https://trueinterview.io/questions/maximize-products-bought-under-budget
 ByteDance,Minimum Cost to Reach Last Index (1 or 2 steps),Coding,Easy,New grad,Software Engineer,2026-01,https://trueinterview.io/questions/00ee897c-5673-4003-ad54-5c645b660b2a
 ByteDance,ML Concepts and Coding Assessment,Coding,Hard,New grad,Machine Learning Engineer,2026-01,https://trueinterview.io/questions/codesignal-ml-rs-oa
-ByteDance,Select max-discount product per category,SQL,Easy,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/select-max-discount-product-per-category
 ByteDance,Semantic Similarity (Text Embedding + Cosine Similarity),Coding,Easy,Mid,AI Engineer,2026-04,https://trueinterview.io/questions/76f49396-a3e1-499d-bcf8-e66cdb8ed785
-ByteDance,Solve string grouping and tree right-view problems,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-02,https://trueinterview.io/questions/solve-string-grouping-and-tree-right-view-problems
 ByteDance,SQL Query Session,SQL,Easy,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/b0150c5e-8dd9-4acb-834f-e778ed8bff5f
 ByteDance,Task Scheduling,Coding,Easy,Intern; New grad,Backend Engineer,,https://trueinterview.io/questions/1ded6e81-6ed3-469d-b74c-a8f27c0668e9
 ByteDance,Two-Direction Justified Newspaper Layout,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-03,https://trueinterview.io/questions/codesignal-swe-oa-spring-2026-two-direction-justified-newspaper-layout
@@ -208,7 +204,6 @@ Capital One,Count Three-Digit Numbers With All-Distinct Digits in a Range,Coding
 Capital One,Cumulative Views Reach Target Day,Coding,Easy,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/cumulative-views-target-day
 Capital One,"Describe projects, conflicts, and tough stakeholders",Behavioral / concept,,Mid; Senior,Machine Learning Engineer,2026-02,https://trueinterview.io/questions/describe-projects-conflicts-and-tough-stakeholders
 Capital One,Design and analyze ad A/B test,Behavioral / concept,,Senior; Staff+,Data Scientist,,https://trueinterview.io/questions/design-and-analyze-ad-a-b-test
-Capital One,Design and analyze ads A/B test this week,Behavioral / concept,,Senior; Staff+,Data Scientist,,https://trueinterview.io/questions/design-and-analyze-ads-a-b-test-this-week
 Capital One,Driver Dataset Exploratory Analysis,Coding,Easy,New grad,Data Scientist,2026-10,https://trueinterview.io/questions/dca94c12-e6ad-549e-a6a9-18a195ab3cb6
 Capital One,Dynamic Two-Array Pair Sum Queries,Coding,Medium,New grad,Software Engineer,2026-06,https://trueinterview.io/questions/dynamic-two-array-pair-sum-queries
 Capital One,Evaluate Arithmetic Equations,Coding,Easy,Staff+,Software Engineer,2026-10,https://trueinterview.io/questions/8baff98d-9bad-50cd-b485-13c9134feb8f
@@ -300,8 +295,6 @@ Cresta,Decode a Message of Letter-Scrambled Words Against a Known Word List,Codi
 Cresta,Longest Overlap Between the End of One String and the Start of Another,Coding,Medium,Intern; New grad; Mid,Software Engineer,2026-10,https://trueinterview.io/questions/longest-overlap-between-the-end-of-one-string-and-the-start-of-another
 Cresta,Recorded Walkthrough of a Past AI Project and Your Own Role in It,Behavioral / concept,,Mid; Senior,AI Engineer,2026-10,https://trueinterview.io/questions/recorded-walkthrough-of-a-past-ai-project-and-your-own-role-in-it
 Cresta; Abridge,Count the Leaves Left on a Grid After a Sequence of Wind Gusts,Coding,Medium,New grad; Mid,Software Engineer,2026-10,https://trueinterview.io/questions/count-the-leaves-left-on-a-grid-after-a-sequence-of-wind-gusts
-CVS Health,Calculate CI and Test Correlation Under Normality,Behavioral / concept,,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/calculate-ci-and-test-correlation-under-normality
-CVS Health,"Compute A/B significance, CI, and power",Behavioral / concept,,Mid; Senior,Data Scientist,,https://trueinterview.io/questions/compute-a-b-significance-ci-and-power
 CVS Health,Create and query an e-commerce schema,SQL,Medium,New grad; Mid; Senior,Data Scientist,2026-08,https://trueinterview.io/questions/create-and-query-an-e-commerce-schema
 CVS Health,"Create Views, Insert, and Update Correctly",SQL,Medium,Mid; Senior,Data Scientist,,https://trueinterview.io/questions/create-views-insert-and-update-correctly
 Databricks,IP CIDR Range Query,Coding,Easy,,Software,,https://trueinterview.io/questions/27c18b00-98ea-48a2-984f-27e6ad16170a
@@ -321,7 +314,6 @@ DoorDash,Design a multi-channel notification system,System design,Medium,Senior,
 DoorDash,Design an API for pay computation with retries,System design,Medium,Senior,Backend Engineer,2026-03,https://trueinterview.io/questions/design-an-api-for-pay-computation-with-retries
 DoorDash,Max Sum Sliding Window and Return Start Days (1-based),Coding,Easy,New grad; Mid; Senior,Software Engineer,2026-03,https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39
 DoorDash,Restaurant query (classic),SQL,Easy,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/76299eba-6d03-4939-abf9-0ae7af84c196
-DoorDash,Select the best dasher for an order,Coding,Easy,Intern; New grad,Software Engineer,2026-01,https://trueinterview.io/questions/select-the-best-dasher-for-an-order
 Dropbox,Word Guessing Feedback,Coding,Easy,Senior,Software Engineer,2025-11,https://trueinterview.io/questions/066f3b72-1a40-4fca-8001-eecd1ddc3565
 DRW,Compute expected arc length on a circle,Behavioral / concept,,New grad; Mid; Senior,Quantitative Finance,2025-11,https://trueinterview.io/questions/compute-expected-arc-length-on-a-circle
 DRW,Knockout Tournament Match Counts,Coding,Medium,New grad; Mid; Senior,Software,2025-10,https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-knockout-tournament-match-counts
@@ -363,14 +355,12 @@ Goldman Sachs,Efficient Tasks / Three-Server Difficulty Split,Coding,Medium,New 
 Goldman Sachs,Encyclopedia Removal Grid,Coding,Medium,New grad,Software Engineer,2025-09,https://trueinterview.io/questions/encyclopedia-removal-grid
 Goldman Sachs,Equalize Letter Frequencies With Add / Remove,Coding,Medium,New grad,Software Engineer,2025-09,https://trueinterview.io/questions/equalize-letter-frequencies
 Goldman Sachs,Ethernet Cable Square Count,Coding,Easy,Intern; New grad,Software Engineer,2025-09,https://trueinterview.io/questions/ethernet-cable-square-count
-Goldman Sachs,"Evaluate TPR/FPR, sigmoid, and activations",Behavioral / concept,,Intern; New grad,Machine Learning Engineer,2025-10,https://trueinterview.io/questions/evaluate-tpr-fpr-sigmoid-and-activations
 Goldman Sachs,Expected Number of Runs in Coin Tosses,Behavioral / concept,,New grad; Mid,Quantitative Finance,2026-09,https://trueinterview.io/questions/expected-number-of-runs-in-coin-tosses
 Goldman Sachs,Highest Average Score Per Person,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/max-average-score-per-person
 Goldman Sachs,Infer BA When AB Is the Identity,Behavioral / concept,,New grad; Mid; Senior,Data Scientist,2026-09,https://trueinterview.io/questions/infer-ba-when-ab-is-the-identity
 Goldman Sachs,Integrate a Two-Sided Exponential Density,Behavioral / concept,,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/integrate-a-two-sided-exponential-density
 Goldman Sachs,Longest Subarray With Sum ≤ K,Coding,Medium,New grad; Mid,Software Engineer,2024-10,https://trueinterview.io/questions/longest-subarray-sum-at-most-k
 Goldman Sachs,Math and Probability Multiple Choice Bank,Behavioral / concept,,Intern; New grad,Quantitative Finance,2026-05,https://trueinterview.io/questions/quant-oa-math-probability-bank
-Goldman Sachs,Maximize Covariance from Known Variances,Behavioral / concept,,Intern; New grad; Mid,Quantitative Finance,2026-09,https://trueinterview.io/questions/maximize-covariance-from-known-variances
 Goldman Sachs,Min × Max Product After Push / Pop,Coding,Hard,New grad,Software Engineer,2024-10,https://trueinterview.io/questions/min-max-product-stream
 Goldman Sachs,Plus-Multiply Even / Odd Parity,Coding,Medium,New grad,Software Engineer,2024-10,https://trueinterview.io/questions/plus-multiply-even-odd-parity
 Goldman Sachs,Process Starvation Time,Coding,Medium,New grad; Mid,Software Engineer,2025-09,https://trueinterview.io/questions/process-starvation-time
@@ -430,7 +420,6 @@ IBM,Reverse Last Two Characters with a Space,Coding,Easy,New grad,Software Engin
 IBM,"Six Timed Behavioral Prompts: AI Tools, Debugging, Teamwork, Explaining, Goals, Quality",Behavioral / concept,,New grad; Mid,Software Engineer,2026-09,https://trueinterview.io/questions/six-timed-behavioral-prompts-ai-tools-debugging-teamwork-explaining-goals-quality
 IBM,Sliding-Window Rate Limiter / Abuse IP Detection,Coding,Medium,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/sliding-window-rate-limiter-and-abuse-ips
 IBM,VM Rental Revenue from Changing Stock,Coding,Medium,New grad; Mid,Software Engineer,2026-09,https://trueinterview.io/questions/vm-rental-revenue
-IBM,Write SQL to compute max and min marks,SQL,Easy,Intern; New grad; Mid,Data Scientist,2025-10,https://trueinterview.io/questions/write-sql-to-compute-max-and-min-marks
 IBM; Akuna Capital; Palantir; Salesforce,Minimum Replacements for Adjacent Duplicate Characters,Coding,Medium,New grad; Mid,Software Engineer,2026-08,https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates
 IBM; Amazon; ByteDance; Google,Maximum Concurrent Processes / Meeting Rooms,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/maximum-concurrent-processes
 IBM; Capital One,Process Execution Time (Merge Inclusive Intervals),Coding,Medium,Mid,Software Engineer,2025-11,https://trueinterview.io/questions/process-execution-time-merge-intervals
@@ -442,7 +431,6 @@ Instacart,Decode Password from File,Coding,Easy,Mid,Software Engineer,2026-05,ht
 Instacart,Design Idempotent In-App Availability and Due-Date Notifications,System design,Medium,Mid; Senior,Backend Engineer,2026-09,https://trueinterview.io/questions/design-idempotent-in-app-availability-and-due-date-notifications
 Instacart,Fix Backend Filtering for Book Search Results,Coding,Easy,Senior,Backend Engineer,2026-06,https://trueinterview.io/questions/f622c3ca-f863-55e1-bc76-4e83354abd22
 Instacart,Full-Stack AI-Pairing Assessment,AI coding,Hard,Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/full-stack-ai-assessment
-Instacart,Implement an In-Memory File Storage System,OOD / LLD,Medium,New grad; Mid; Senior,Software,2026-04,https://trueinterview.io/questions/implement-an-in-memory-file-storage-system
 Instacart,"Implement Search and Filters, Then Diagnose a Query-Ordering Bug",Coding,Medium,Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/implement-search-and-filters-then-diagnose-a-query-ordering-bug
 Instacart,In-Memory Key-Value Store,OOD / LLD,Medium,Mid; Senior,Backend Engineer,2026-04,https://trueinterview.io/questions/oa-in-memory-key-value-store
 Instacart,Worker Attendance & Payroll,OOD / LLD,Medium,New grad,Backend Engineer,2026-01,https://trueinterview.io/questions/oa-worker-attendance-payroll
@@ -489,7 +477,6 @@ Meta,Get Minimum Round Trip Cost,Coding,Easy,New grad; Senior,Software Engineer,
 Meta,Group Video Call Data Analysis Queries,SQL,Medium,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/3f8ab151-1633-4675-a957-6dfb74b18779
 Meta,Implement a versioned in-memory DB with CAS and history,OOD / LLD,Hard,New grad; Mid; Senior,Backend Engineer,2026-02,https://trueinterview.io/questions/implement-a-versioned-in-memory-db-with-cas-and-history
 Meta,Implement Modified Intersection,Coding,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/4068b856-3566-4fc7-bd17-0b9fd211b3e4
-Meta,Implement Multi-Level In-Memory Services,OOD / LLD,Hard,New grad,Backend Engineer,2026-04,https://trueinterview.io/questions/implement-multi-level-in-memory-services
 Meta,Maze Solver: Print a Maze With Empty Cells Marked,Coding,Easy,Mid,Software Engineer,2026-01,https://trueinterview.io/questions/271c9609-f5e2-49dc-ae3b-192caf02b0fc
 Meta,Merge Three or N Sorted Lists Efficiently and Analyze Complexity,Coding,Easy,Senior,Software Engineer,2026-07,https://trueinterview.io/questions/4becbb35-63a3-4da1-8235-afd0a9bba30d
 Meta,Page With No Likes,SQL,Easy,Intern; New grad; Mid,Data Scientist,2026-07,https://trueinterview.io/questions/page-with-no-likes
@@ -513,12 +500,10 @@ Microsoft,Delete and Earn (LC 740),Coding,Medium,Mid,Software Engineer,2026-09,h
 Microsoft,Design a replicated key-value store with quorums,System design,Medium,Senior; Staff+,Backend Engineer,2026-06,https://trueinterview.io/questions/design-a-replicated-key-value-store-with-quorums
 Microsoft,Design device telemetry pipeline for real-time and batch,System design,Hard,Senior; Staff+,Backend Engineer,2026-06,https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch
 Microsoft,Employee Attrition Prediction,Coding,Medium,Staff+,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/employee-attrition-prediction
-Microsoft,Explain hash map internals and edge cases,Behavioral / concept,,Mid,Software Engineer,2025-12,https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases
 Microsoft,Generate Lexicographically Sorted String Subsets,Coding,Easy,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/0de96483-d0cb-5095-8e67-dc544847a643
 Microsoft,House Robber IV (LC 2560),Coding,Hard,Mid,Software Engineer,2026-10,https://trueinterview.io/questions/house-robber-iv
 Microsoft,Invert Binary Tree,Coding,Easy,Mid,Software Engineer,2025-12,https://trueinterview.io/questions/190e82fa-f7f8-43a7-88a5-c06003cd621c
 Microsoft,Maximize Edge Sum in Graph,Coding,Medium,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4
-Microsoft,Maximize Points by Deleting Values and Their Neighbors,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-08,https://trueinterview.io/questions/maximize-points-by-deleting-values-and-their-neighbors
 Microsoft,Maximum Number of Occurrences of a Substring (LC 1297),Coding,Medium,Mid,Software Engineer,2026-10,https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring
 Microsoft,Maximum Team Size with an Overlapping Hub,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/maximum-team-size-with-an-overlapping-hub
 Microsoft,Minimum Fuel Cost Across a Road Network,Coding,Hard,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/minimum-fuel-cost-road-network
@@ -615,20 +600,16 @@ Point72,Bank Transaction Mining,Coding,Easy,New grad; Mid,Software Engineer,2026
 Point72,Coins and Energy,Coding,Hard,Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/coins-and-energy
 Point72,Count Maximum Borrowing Days,Coding,Hard,Mid; Senior,Quantitative Finance,2026-07,https://trueinterview.io/questions/count-maximum-borrowing-days
 Point72,Election Exit Poll by State Report (Top-3 states per candidate with ties),SQL,Medium,Mid,Data Scientist,2026-04,https://trueinterview.io/questions/de777a06-c9a4-4a9d-9685-ae0ee64ed2c4
-Point72,Explain and tune decision trees robustly,Behavioral / concept,,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/explain-and-tune-decision-trees-robustly
 Point72,Implement DictMixin and JSONMixin for object serialization,Coding,Easy,Mid,Software Engineer,2026-04,https://trueinterview.io/questions/7ad69fb1-c9a9-4b36-b763-d2f45f47cecc
-Point72,K-th missing number,Coding,Medium,New grad; Mid; Senior,Data & AI,2025-10,https://trueinterview.io/questions/find-kth-missing-integer-and-redundant-operations-k-th-missing-number
 Point72,League Earnings,Coding,Easy,Intern; New grad,Software Engineer,2026-07,https://trueinterview.io/questions/league-earnings
 Point72,Optimal Stock Price Subsequence,Coding,Hard,New grad; Mid,Quantitative Finance,2026-07,https://trueinterview.io/questions/optimal-stock-price-subsequence
 Point72,Price a coin-doubling game rationally,Behavioral / concept,,Mid; Senior,Quantitative Finance,,https://trueinterview.io/questions/price-a-coin-doubling-game-rationally
 Point72,Price Percentile Cutoff,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/price-percentile-cutoff
 Point72,Simulate a Deterministic Finite Automaton,Coding,Easy,Mid,Quantitative Finance,2026-08,https://trueinterview.io/questions/0283970d-03dd-5dec-9c2f-df143d712cfe
-Point72,Write SQL for recent customer activity,SQL,Medium,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/write-sql-for-recent-customer-activity
 Point72; Akuna Capital; Google,Array Frequency Sort,Coding,Easy,Mid,Quantitative Finance,2026-07,https://trueinterview.io/questions/array-frequency-sort
 Ramp,"Build a Wordle Guess Checker with Green, Yellow and Red Letter Feedback",Coding,Medium,New grad; Mid,Frontend Engineer,2026-09,https://trueinterview.io/questions/build-a-wordle-guess-checker-with-green-yellow-and-red-letter-feedback
 Ramp,Cloud Storage System,Coding,Medium,New grad,Backend Engineer,2025-08,https://trueinterview.io/questions/cloud-storage-system
 Ramp,Correct Bedroom Counts from Descriptions,Coding,Easy,Intern; New grad,Software Engineer,2026-05,https://trueinterview.io/questions/correct-bedroom-counts-from-descriptions
-Ramp,From Take-Home Script to Production: Python Trade-offs and Hardening a Data Job,Behavioral / concept,,Mid; Senior,Quantitative Finance,2026-03,https://trueinterview.io/questions/from-take-home-script-to-production-python-trade-offs-and-hardening-a-data-job
 Ramp,Frontend Hidden URL and React Wordle,OOD / LLD,Medium,New grad; Mid,Frontend Engineer,2026-03,https://trueinterview.io/questions/frontend-challenge-dom-wordle
 Ramp,In-Memory Banking System (4 Levels),OOD / LLD,Medium,New grad; Mid; Senior,Backend Engineer,2026-03,https://trueinterview.io/questions/oa-banking-system
 Ramp,Multi-Level Warehouse Storage with Weighted Retrieval,OOD / LLD,Hard,New grad; Mid; Senior,Software Engineer,2026-02,https://trueinterview.io/questions/multi-level-warehouse-storage-with-weighted-retrieval
@@ -641,9 +622,6 @@ Rippling,DSA Multiple Choice and Costliest Chocolate,Behavioral / concept,,Mid,S
 Rippling,SQL Aggregation and Percentage Calculation,SQL,Easy,New grad; Mid,Data Scientist,,https://trueinterview.io/questions/52404848-b8f6-477d-85a4-d58a360ae9e7
 Ro Co,Debug an inaccurate patient-message triage classifier service and write up fixes,Coding,Hard,Senior,Machine Learning Engineer,2026-09,https://trueinterview.io/questions/debug-an-inaccurate-patient-message-triage-classifier-service-and-write-up-fixes
 Robinhood,Distribute Strings into K Lines with Greedy Placement,Coding,Easy,Senior,Software Engineer,2026-04,https://trueinterview.io/questions/84ccf656-2a40-4ff8-8080-a648e545eb50
-Roblox,Apply Bayes' rule to compute posterior,Behavioral / concept,,New grad; Mid; Senior,Data Scientist,2025-11,https://trueinterview.io/questions/apply-bayes-rule-to-compute-posterior
-Roblox,Choose Best/Worst Actions Under Time Pressure,Behavioral / concept,,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/choose-best-worst-actions-under-oa-pressure
-Roblox,Compute DiD and validate parallel trends,Coding,Medium,New grad; Mid; Senior,Data Scientist,2025-11,https://trueinterview.io/questions/compute-did-and-validate-parallel-trends
 Roblox,Customized Programming Challenge for Roblox Business,Coding,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/a391376f-4a36-466b-8e9a-3e9d95d82511
 Roblox,Design leakage-free predictive maintenance pipeline,System design,Hard,Senior; Staff+,Data Scientist,,https://trueinterview.io/questions/design-leakage-free-predictive-maintenance-pipeline
 Roblox,Design Real-time Like Interation System,System design,Medium,Senior; Staff+,Software Engineer,2026-07,https://trueinterview.io/questions/design-like-unlike-favorite-system
@@ -696,7 +674,6 @@ SIG,Expected Payoff of a Three N-Sided Dice Matching Game,Behavioral / concept,,
 SIG,Expected Spins of an Unequal Spinner to Land in K Distinct Regions,Behavioral / concept,,Mid; Senior,Quantitative Finance,2026-09,https://trueinterview.io/questions/expected-spins-of-an-unequal-spinner-to-land-in-k-distinct-regions
 SIG,Find a Green Triangle's Weight in a Balanced Mobile,Behavioral / concept,,Intern; New grad,Quantitative Finance,2026-08,https://trueinterview.io/questions/find-a-green-triangles-weight-in-a-balanced-mobile
 SIG,Find the Expected Number of Consecutive Chosen Pairs,Behavioral / concept,,Intern; New grad; Mid,Quantitative Finance,2026-08,https://trueinterview.io/questions/find-the-expected-number-of-consecutive-chosen-pairs
-SIG,Find the Probability Two Muffins Are Sufficient,Behavioral / concept,,New grad; Mid; Senior,Quantitative Finance,2026-08,https://trueinterview.io/questions/find-the-probability-two-muffins-are-sufficient
 SIG,Probability Limited Stock Covers Every Customer in a Queue,Behavioral / concept,,New grad; Mid,Quantitative Finance,2026-09,https://trueinterview.io/questions/probability-limited-stock-covers-every-customer-in-a-queue
 SIG,Probability of Reaching a Chip Target Under Bold Betting,Behavioral / concept,,New grad; Mid,Quantitative Finance,2026-09,https://trueinterview.io/questions/probability-of-reaching-a-chip-target-under-bold-betting
 SIG,Probability Two Randomly Started Flower Bloom Periods Overlap,Behavioral / concept,,Intern; New grad,Quantitative Finance,2026-09,https://trueinterview.io/questions/probability-two-randomly-started-flower-bloom-periods-overlap
@@ -790,10 +767,8 @@ Two Sigma; Microsoft,Stock Max Profit (Single or Multiple Transactions),Coding,E
 Two Sigma; Point72,IPO Share Allocation,Coding,Hard,New grad; Mid,Quantitative Finance,2026-04,https://trueinterview.io/questions/swe-oa-ipo-share-allocation
 Uber,Check if each prefix forms 1..k permutation,Coding,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/check-if-each-prefix-forms-1-k-permutation
 Uber,Construct Quad Tree,Coding,Medium,Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/construct-quad-tree
-Uber,Count paths with prime-ending jumps,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/count-paths-with-prime-ending-jumps
 Uber,Find Combinations After Flip,Coding,Easy,New grad,Software Engineer,2025-02,https://trueinterview.io/questions/1da69ce4-74fb-48ef-9eb8-ebca7578ec21
 Uber,Find Index of Max Rate to Price Ratio,Coding,Easy,Mid,Software Engineer,2025-03,https://trueinterview.io/questions/2d92d9fc-3676-44e1-a4f8-db5e99c47868
-Uber,Find minimum reversals to orient edges away from root,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-02,https://trueinterview.io/questions/find-minimum-reversals-to-orient-edges-away-from-root
 Uber,Find Target with Rotation,Coding,Easy,New grad,Software Engineer,2025-02,https://trueinterview.io/questions/b61576ab-0661-458e-ae7d-f1a3ed8e4d3d
 Uber,Jump Game Prime,Coding,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/jump-game-prime
 Uber,Max Levels from Each Index,Coding,Medium,New grad,Software Engineer,2025-11,https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc
@@ -804,7 +779,6 @@ Uber,Minimum Triggers to Absorb All Balls,Coding,Medium,New grad; Mid,Software E
 Uber,Optimize Transition from Elevator to Stairs,Coding,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/oa-stairs-elevator-energy-tradeoff
 Uber,Paint Line and Count Adjacent Same Colors,Coding,Easy,New grad,Software Engineer,2025-02,https://trueinterview.io/questions/688b80fe-8f40-45dc-8c98-61c2aaac7ea9
 Uber,Round-Trip Mission Schedule,Coding,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/oa-codesignal-multi-mission-routing
-Uber,Solve Knight and Reversal Problems,Coding,Hard,Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/solve-knight-and-reversal-problems
 Uber,Sort Clothing Sizes,Coding,Easy,New grad,Software Engineer,2026-07,https://trueinterview.io/questions/64053406-fd0a-5085-8c04-93f3d930b233
 Uber,Zero Array Transformation,Coding,Hard,New grad; Mid; Senior,Software Engineer,2026-03,https://trueinterview.io/questions/zero-array-transformation
 Uber; Google,Count Paths That Can Form a Palindrome in a Tree,Coding,Hard,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree
@@ -842,10 +816,8 @@ Walmart Labs,"Last-Mile Business Queries (Aggregations, Joins, Windows, Dates, O
 Walmart Labs,Minimum Talent-Complete Team from Every Start,Coding,Medium,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/minimum-talent-complete-team-from-each-start
 Walmart Labs,Permutation Maximizing Σ B[i] where B[i] > A[i],Coding,Easy,New grad,Software Engineer,2026-05,https://trueinterview.io/questions/permutation-max-greater-sum
 Walmart Labs; Amazon,Find the First Corrupted Character,Coding,Easy,Senior,Software Engineer,2025-12,https://trueinterview.io/questions/8593ff20-396d-44a7-9fb2-21c5eee2d0e1
-Wayfair,How to improve complaint resolution,SQL,Medium,New grad; Mid; Senior,Data Scientist,2026-02,https://trueinterview.io/questions/how-to-improve-complaint-resolution
 Wayfair,Solve SQL and Python Tasks,SQL,Medium,New grad; Mid; Senior,Data Scientist,2026-02,https://trueinterview.io/questions/solve-sql-and-python-oa-tasks
 Waymo,7-Day Inactive Users,SQL,Easy,New grad,Data Scientist,2026-07,https://trueinterview.io/questions/7-day-inactive-users
-Waymo,Compute Ride Metrics in SQL,SQL,Medium,New grad; Mid; Senior,Data Scientist,2026-03,https://trueinterview.io/questions/compute-ride-metrics-in-sql
 Waymo,Count Frequencies in a Bounded Integer Array,Coding,Easy,Senior,Software Engineer,2026-08,https://trueinterview.io/questions/80b6974a-397a-5a98-82d0-d78895577267
 Waymo,Evaluate Smart Wait Launch Impact,Behavioral / concept,,New grad,Data Scientist,2026-07,https://trueinterview.io/questions/evaluate-smart-wait-launch-impact
 Waymo,Format Bytes as a Hexdump with ASCII Preview,Coding,Easy,Senior,Software Engineer,2026-08,https://trueinterview.io/questions/a4271820-2948-5b33-9f94-e2515685b70c

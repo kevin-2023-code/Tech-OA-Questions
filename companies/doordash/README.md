@@ -2,7 +2,7 @@
 
 # DoorDash OA Questions
 
-8 online assessment questions reported at DoorDash, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+7 online assessment questions reported at DoorDash, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -10,7 +10,6 @@
 | [Design an API for pay computation with retries](https://trueinterview.io/questions/design-an-api-for-pay-computation-with-retries) | System design | Medium | Senior | Backend Engineer | 2026-03 |
 | [Max Sum Sliding Window and Return Start Days (1-based)](https://trueinterview.io/questions/cb56b885-74d2-47ca-aefe-725df4a97b39) | Coding | Easy | New grad, Mid, Senior | Software Engineer | 2026-03 |
 | [Design a multi-channel notification system](https://trueinterview.io/questions/design-a-multi-channel-notification-system-2) | System design | Medium | Senior | Backend Engineer | 2026-01 |
-| [Select the best dasher for an order](https://trueinterview.io/questions/select-the-best-dasher-for-an-order) | Coding | Easy | Intern, New grad | Software Engineer | 2026-01 |
 | [Count and Say](https://trueinterview.io/questions/fd94fd33-664d-46f3-b15b-9121ced75b5e) | Coding | Easy | Staff+ | Software Engineer | 2026-01 |
 | [Basic SQL Queries for Orders](https://trueinterview.io/questions/56a590ce-9602-42e8-b375-9c55e3b0e55d) | SQL | Easy | Intern, New grad | Data Scientist | - |
 | [Restaurant query (classic)](https://trueinterview.io/questions/76299eba-6d03-4939-abf9-0ae7af84c196) | SQL | Easy | New grad, Mid, Senior | Data Scientist | - |

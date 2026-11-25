@@ -2,7 +2,7 @@
 
 # Meta OA Questions
 
-33 online assessment questions reported at Meta, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+32 online assessment questions reported at Meta, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -19,7 +19,6 @@
 | [Parse System Metrics and Warn on Threshold Breaches](https://trueinterview.io/questions/7cb3cfba-be69-52a2-bb54-8ffac2c723c4) | Coding | Easy | Mid | Backend Engineer | 2026-06 |
 | [Describe proudest project and cross-team work](https://trueinterview.io/questions/describe-proudest-project-and-cross-team-work) | Behavioral / concept | - | Mid, Senior | Software Engineer | 2026-05 |
 | [Solve Subarray Sum and Local Minimum](https://trueinterview.io/questions/solve-subarray-sum-and-local-minimum) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Implement Multi-Level In-Memory Services](https://trueinterview.io/questions/implement-multi-level-in-memory-services) | OOD / LLD | Hard | New grad | Backend Engineer | 2026-04 |
 | [Arithmetic Expression Evaluator (Limited Operators)](https://trueinterview.io/questions/ddaa35f9-b880-41bb-bcd4-e6f0bac02b2c) | Coding | Easy | Senior | Software Engineer | 2026-03 |
 | [Unique Characters](https://trueinterview.io/questions/b765dd59-a8f5-468c-a15e-e2b80ec674f6) | Coding | Easy | Mid | Software Engineer | 2026-03 |
 | [Battery Usage with Recharge Cycle](https://trueinterview.io/questions/battery-recharge-cycle) | Coding | Medium | Mid | Machine Learning Engineer | 2026-02 |

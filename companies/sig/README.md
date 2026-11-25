@@ -2,7 +2,7 @@
 
 # SIG OA Questions
 
-18 online assessment questions reported at SIG, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+17 online assessment questions reported at SIG, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -23,4 +23,3 @@
 | [Count Grid Paths with No Three Equal Moves](https://trueinterview.io/questions/count-grid-paths-with-no-three-equal-moves) | Coding | Hard | Intern, New grad, Mid | Software Engineer | 2026-08 |
 | [Find a Green Triangle's Weight in a Balanced Mobile](https://trueinterview.io/questions/find-a-green-triangles-weight-in-a-balanced-mobile) | Behavioral / concept | - | Intern, New grad | Quantitative Finance | 2026-08 |
 | [Find the Expected Number of Consecutive Chosen Pairs](https://trueinterview.io/questions/find-the-expected-number-of-consecutive-chosen-pairs) | Behavioral / concept | - | Intern, New grad, Mid | Quantitative Finance | 2026-08 |
-| [Find the Probability Two Muffins Are Sufficient](https://trueinterview.io/questions/find-the-probability-two-muffins-are-sufficient) | Behavioral / concept | - | New grad, Mid, Senior | Quantitative Finance | 2026-08 |

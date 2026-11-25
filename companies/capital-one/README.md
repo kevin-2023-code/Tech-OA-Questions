@@ -2,7 +2,7 @@
 
 # Capital One OA Questions
 
-56 online assessment questions reported at Capital One, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+55 online assessment questions reported at Capital One, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -57,7 +57,6 @@
 | [Choose and compute correct t-test](https://trueinterview.io/questions/choose-and-compute-correct-t-test) | Behavioral / concept | - | Mid, Senior | Data Scientist | - |
 | [Compute and interpret 95% confidence intervals](https://trueinterview.io/questions/compute-and-interpret-95percent-confidence-intervals) | Behavioral / concept | - | New grad, Mid, Senior | Data Scientist | - |
 | [Design and analyze ad A/B test](https://trueinterview.io/questions/design-and-analyze-ad-a-b-test) | Behavioral / concept | - | Senior, Staff+ | Data Scientist | - |
-| [Design and analyze ads A/B test this week](https://trueinterview.io/questions/design-and-analyze-ads-a-b-test-this-week) | Behavioral / concept | - | Senior, Staff+ | Data Scientist | - |
 | [Find top category per region in Aug 2025](https://trueinterview.io/questions/find-top-category-per-region-in-aug-2025) | SQL | Medium | New grad, Mid, Senior | Data Scientist | - |
 | [Fix dash dates and aggregate watch time](https://trueinterview.io/questions/fix-dash-dates-and-aggregate-watch-time) | SQL | Medium | New grad, Mid, Senior | Data Scientist | - |
 | [Fraud Detection Algorithm for Credit Card Transactions](https://trueinterview.io/questions/86a950f4-60b5-454a-90e5-d8e02a13e342) | Coding | Easy | Intern, New grad | Software Engineer | - |
