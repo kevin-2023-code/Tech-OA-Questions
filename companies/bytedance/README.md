@@ -2,7 +2,7 @@
 
 # ByteDance OA Questions
 
-36 online assessment questions reported at ByteDance, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+35 online assessment questions reported at ByteDance, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -27,7 +27,6 @@
 | [Case-insensitive adjacent differences](https://trueinterview.io/questions/implement-several-oa-simulation-problems-case-insensitive-adjacent-differences) | Coding | Easy | Intern, New grad, Mid | Data & AI | 2026-03 |
 | [Group words that are anagrams](https://trueinterview.io/questions/solve-string-grouping-and-tree-right-view-problems-group-words-that-are-anagrams) | Coding | Medium | Mid | Software | 2026-02 |
 | [Solve string grouping and tree right-view problems](https://trueinterview.io/questions/solve-string-grouping-and-tree-right-view-problems) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-02 |
-| [Implement Moving Average from Data Stream](https://trueinterview.io/questions/94192aa7-a909-49a7-80b7-24c84876985d) | Coding | Easy | Senior | Software Engineer | 2026-02 |
 | [Bagging from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | Coding | Easy | New grad | Machine Learning Engineer | 2026-01 |
 | [k-Means from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-k-means-from-scratch) | Coding | Medium | New grad | Machine Learning Engineer | 2026-01 |
 | [Local maximum on a 1-D stream](https://trueinterview.io/questions/codesignal-ml-rs-oa-local-maximum-on-a-1-d-stream) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2026-01 |

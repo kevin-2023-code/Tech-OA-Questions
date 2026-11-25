@@ -33,10 +33,10 @@
 | [Check Prefix Permutation](https://trueinterview.io/questions/oa-permutation-prefix-balanced) | Coding | Easy | New grad, Mid | Software Engineer | 2026-03 |
 | [Temporal Key-Value Store](https://trueinterview.io/questions/temporal-key-value-store-online-assessment) | Coding | Hard | Mid | Software Engineer | 2026-02 |
 | [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization) | Coding | Easy | New grad | Software Engineer | 2026-02 |
+| [Longest Subsequence of X That Is a Substring of Y](https://trueinterview.io/questions/longest-subsequence-substring) | Coding | Medium | Mid, Senior | Software Engineer | 2026-01 |
 | [Debug distributed-system performance problems](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | System design | Hard | Senior, Staff+ | Platform Engineer | 2025-12 |
 | [Explain hash map internals and edge cases](https://trueinterview.io/questions/explain-hash-map-internals-and-edge-cases) | Behavioral / concept | - | Mid | Software Engineer | 2025-12 |
 | [Invert Binary Tree](https://trueinterview.io/questions/190e82fa-f7f8-43a7-88a5-c06003cd621c) | Coding | Easy | Mid | Software Engineer | 2025-12 |
-| [Longest Common Subsequence-Substring](https://trueinterview.io/questions/longest-common-subsequence-substring-2) | Coding | Medium | New grad, Mid, Senior | Software Engineer | - |
 | [Maximize Edge Sum in Graph](https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4) | Coding | Medium | New grad, Mid, Senior | Software Engineer | - |
 | [Minimal Board Length for Holes](https://trueinterview.io/questions/0df3b897-7563-413a-9bea-06eeeb50a399) | Coding | Medium | New grad, Mid, Senior | Software Engineer | - |
 | [Top K Relevant Apps by Keyword Scores](https://trueinterview.io/questions/512b2078-e57b-4c18-b5d4-995b82722fe1) | Coding | Easy | Mid | Software Engineer | - |

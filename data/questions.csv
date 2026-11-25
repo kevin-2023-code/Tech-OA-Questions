@@ -181,7 +181,6 @@ ByteDance,SQL Query Session,SQL,Easy,Intern; New grad; Mid,Data Scientist,,https
 ByteDance,Task Scheduling,Coding,Easy,Intern; New grad,Backend Engineer,,https://trueinterview.io/questions/1ded6e81-6ed3-469d-b74c-a8f27c0668e9
 ByteDance,Two-Direction Justified Newspaper Layout,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-03,https://trueinterview.io/questions/codesignal-swe-oa-spring-2026-two-direction-justified-newspaper-layout
 ByteDance; Amazon,Plus One,Coding,Easy,Senior,Software Engineer,2026-09,https://trueinterview.io/questions/65c03f5a-0fe9-4f02-8d66-d34a3b8193fd
-ByteDance; Atlassian,Implement Moving Average from Data Stream,Coding,Easy,Senior,Software Engineer,2026-02,https://trueinterview.io/questions/94192aa7-a909-49a7-80b7-24c84876985d
 ByteDance; Capital One,Sort Cyclic Shift Absolute-Difference Costs,Coding,Easy,New grad; Mid,Software Engineer,2026-10,https://trueinterview.io/questions/4eae3ac8-e1a0-53a3-9a12-577db977b6df
 ByteDance; Databricks; Roblox,Count Cyclic Rotation Pairs,Coding,Medium,Intern; New grad,Software Engineer,2026-09,https://trueinterview.io/questions/672dd86c-1610-5d71-be33-4c29e4d1387e
 ByteDance; Google,Determine Whether an Integer Is a Palindrome,Coding,Easy,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/7d106dbb-29a3-5a4f-ad22-8068feb4ecda
@@ -529,7 +528,6 @@ Microsoft,Top K Relevant Apps by Keyword Scores,Coding,Easy,Mid,Software Enginee
 Microsoft,Valid Time Combinations,Coding,Medium,New grad,Software Engineer,2026-07,https://trueinterview.io/questions/valid-time-combinations
 Microsoft; Apple; ByteDance,Reverse a Linked List,Coding,Easy,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c
 Microsoft; eBay; Visa,Hash Map Counting / Lookup Problem,Coding,Easy,Mid,Software Engineer,2026-06,https://trueinterview.io/questions/ad5888a6-8606-4bb2-9983-c9f28184e6d6
-Microsoft; Expedia,Longest Common Subsequence-Substring,Coding,Medium,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/longest-common-subsequence-substring-2
 Microsoft; GEICO; WeRide,Matrix Multiplication,Coding,Easy,Mid; Senior,Software Engineer,2026-05,https://trueinterview.io/questions/8873c68e-43b6-476d-be5f-36030a3aec82
 Microsoft; Meta,Minimal Board Length for Holes,Coding,Medium,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/0df3b897-7563-413a-9bea-06eeeb50a399
 MongoDB,Find a Value by Key in Nested JSON,Coding,Easy,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/b6932b13-bdf4-55b5-b902-2726b5238185
@@ -664,7 +662,6 @@ Salesforce,Delete Every Value That Repeats in an Unsorted Singly Linked List,Cod
 Salesforce,"Delete One Character Type, Minimize Unique-Character Segments",Coding,Medium,New grad,Software Engineer,2026-07,https://trueinterview.io/questions/delete-character-minimize-unique-segments
 Salesforce,Determine Whether a Date Falls on a Weekend,Coding,Easy,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/4445f526-42ef-5256-bc53-b6614133cfc3
 Salesforce,Find Words in String Not in Subsequence,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/a21005a4-c9a6-4555-bd24-9a18d77c05d6
-Salesforce,Longest Subsequence of X That Is a Substring of Y,Coding,Medium,Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/longest-subsequence-substring
 Salesforce,Maximum Requests in a Time Window,Coding,Easy,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/maximum-requests-in-time-window
 Salesforce,Min Cost to Complete All Projects,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/08ff536a-d720-46c5-be65-d1ae3443bead
 Salesforce,Most Visited Marker in Sprint Training,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f
@@ -677,6 +674,7 @@ Salesforce,Spam Classification,Coding,Easy,Intern; New grad; Mid,Software Engine
 Salesforce,Tool Changer,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5
 Salesforce,Top K Points,Coding,Easy,Senior,Software Engineer,2026-01,https://trueinterview.io/questions/259d81a6-4969-4ebb-9aaa-7c6466a0845f
 Salesforce,TypeScript Test and Code Refactor,AI coding,Medium,Senior,Frontend Engineer,2026-02,https://trueinterview.io/questions/typescript-refactor-oa
+Salesforce; Expedia; Microsoft,Longest Subsequence of X That Is a Substring of Y,Coding,Medium,Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/longest-subsequence-substring
 Salesforce; Goldman Sachs,String Compression,Coding,Medium,Mid,Software Engineer,2026-04,https://trueinterview.io/questions/string-compression-oa
 Salesforce; IBM,Maximum Number of Palindromic Strings,Coding,Medium,New grad,Software Engineer,2026-03,https://trueinterview.io/questions/maximum-palindromic-strings
 Scale AI,Distinct Wall Crossing on Number Line,Coding,Hard,Mid; Senior,Software Engineer,2026-02,https://trueinterview.io/questions/distinct-wall-crossing-on-number-line

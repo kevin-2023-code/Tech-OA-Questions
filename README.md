@@ -4,7 +4,7 @@
 
 Online assessment (OA) questions candidates reported at tech companies, one folder per company.
 
-**Snapshot as of 2026-11-25: 865 OA questions from 110 companies.**
+**Snapshot as of 2026-11-25: 863 OA questions from 110 companies.**
 
 The question pages are on [TrueInterview](https://trueinterview.io).
 
@@ -32,7 +32,7 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | :-- | --: | :-- |
 | [Amazon](companies/amazon/README.md) | 59 | 2026-10 |
 | [Capital One](companies/capital-one/README.md) | 56 | 2026-10 |
-| [ByteDance](companies/bytedance/README.md) | 36 | 2026-10 |
+| [ByteDance](companies/bytedance/README.md) | 35 | 2026-10 |
 | [Google](companies/google/README.md) | 34 | 2026-10 |
 | [Microsoft](companies/microsoft/README.md) | 34 | 2026-10 |
 | [Meta](companies/meta/README.md) | 33 | 2026-09 |
@@ -81,7 +81,6 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [LinkedIn](companies/linkedin/README.md) | 5 | 2026-10 |
 | [Shopify](companies/shopify/README.md) | 5 | 2025-08 |
 | [Applied Intuition](companies/applied-intuition/README.md) | 4 | 2026-09 |
-| [Atlassian](companies/atlassian/README.md) | 4 | 2026-02 |
 | [Bloomberg](companies/bloomberg/README.md) | 4 | 2026-02 |
 | [Confluent](companies/confluent/README.md) | 4 | 2026-05 |
 | [Cresta](companies/cresta/README.md) | 4 | 2026-10 |
@@ -92,6 +91,7 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [Palantir](companies/palantir/README.md) | 4 | 2026-08 |
 | [SoFi](companies/sofi/README.md) | 4 | 2026-03 |
 | [WeRide](companies/weride/README.md) | 4 | 2026-05 |
+| [Atlassian](companies/atlassian/README.md) | 3 | 2026-02 |
 | [Disney](companies/disney/README.md) | 3 | 2026-03 |
 | [ElevenLabs](companies/elevenlabs/README.md) | 3 | 2026-09 |
 | [GEICO](companies/geico/README.md) | 3 | 2026-05 |
