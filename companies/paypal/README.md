@@ -8,4 +8,4 @@
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Bank System](https://trueinterview.io/questions/bank-system) | OOD / LLD | - | Hard | Mid | Backend Engineer | 2026-09 |
 | [Graph Traversal using BFS/DFS](https://trueinterview.io/questions/paypal-graph-traversal-using-bfs-dfs) | Coding | - | Easy | Mid | Software Engineer | 2025-03 |
-| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
+| [Maximum Subarray](https://trueinterview.io/questions/apple-maximum-subarray) | Coding | - | Easy | New grad, Mid | Software Engineer | - |

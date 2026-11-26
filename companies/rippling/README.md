@@ -7,4 +7,4 @@
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [DSA Multiple Choice and Costliest Chocolate](https://trueinterview.io/questions/intern-oa-fixed-set) | Behavioral / concept | - | - | Mid | Software Engineer | 2025-11 |
-| [SQL Aggregation and Percentage Calculation](https://trueinterview.io/questions/52404848-b8f6-477d-85a4-d58a360ae9e7) | SQL | - | Easy | New grad, Mid | Data Scientist | - |
+| [SQL Aggregation and Percentage Calculation](https://trueinterview.io/questions/rippling-sql-aggregation-and-percentage-calculation) | SQL | HackerRank | Easy | New grad, Mid | Data Scientist | - |

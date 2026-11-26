@@ -15,14 +15,14 @@
 | [Contains Duplicate II](https://trueinterview.io/questions/contains-duplicate-ii) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-09 |
 | [Shortest Hexadecimal Color Shorthand](https://trueinterview.io/questions/google-shortest-hexadecimal-color-shorthand) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
 | [Top K Most Active Users](https://trueinterview.io/questions/google-top-k-most-active-users) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
-| [Count Paths That Can Form a Palindrome in a Tree](https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree) | Coding | - | Hard | New grad | Software Engineer | 2026-08 |
+| [Count Paths That Can Form a Palindrome in a Tree](https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree) | Coding | HackerRank | Hard | New grad | Software Engineer | 2026-08 |
 | [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | Coding | - | Medium | Mid | Software Engineer | 2026-08 |
 | [Partition Numbers by Distinct Frequencies](https://trueinterview.io/questions/google-partition-numbers-by-distinct-frequencies) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |
 | [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | Coding | - | Easy | Mid | Quantitative Finance | 2026-07 |
 | [Determine Whether an Integer Is a Palindrome](https://trueinterview.io/questions/bytedance-determine-whether-an-integer-is-a-palindrome) | Coding | - | Easy | Mid | Software Engineer | 2026-07 |
 | [Minimum Machines for Task Scheduling](https://trueinterview.io/questions/expedia-minimum-machines-for-task-scheduling) | Coding | - | Medium | Mid | Software Engineer | 2026-07 |
-| [Email Checksum + Verification-String Lookup](https://trueinterview.io/questions/oa-email-checksum-verification-string) | Coding | - | Easy | Intern, New grad | Software Engineer | 2026-05 |
-| [Feature Rollout with Dependency Cycle Detection](https://trueinterview.io/questions/oa-feature-rollout-dependency-cycle-report) | Coding | - | Medium | New grad | Software Engineer | 2026-05 |
+| [Email Checksum + Verification-String Lookup](https://trueinterview.io/questions/oa-email-checksum-verification-string) | Coding | HackerRank | Easy | Intern, New grad | Software Engineer | 2026-05 |
+| [Feature Rollout with Dependency Cycle Detection](https://trueinterview.io/questions/oa-feature-rollout-dependency-cycle-report) | Coding | HackerRank | Medium | New grad | Software Engineer | 2026-05 |
 | [Collect Coins on 1D Board](https://trueinterview.io/questions/oa-collect-coins-1d-board) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-05 |
 | [Largest Group Sharing a Digit](https://trueinterview.io/questions/oa-group-two-digit-numbers-shared-digit) | Coding | - | Medium | New grad | Software Engineer | 2026-05 |
 | [Minimum Distance Between People and Cakes](https://trueinterview.io/questions/google-minimum-distance-between-people-and-cakes) | Coding | - | Easy | Mid | Software Engineer | 2026-05 |
@@ -33,9 +33,9 @@
 | [Chunking with an Unsplittable Header](https://trueinterview.io/questions/google-chunking-with-an-unsplittable-header) | Coding | - | Easy | New grad | Software Engineer | 2026-03 |
 | [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Coding | - | Medium | New grad | Software Engineer | 2026-02 |
 | [Find largest group of two-digit numbers sharing digits](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | Coding | - | Medium | New grad | Software Engineer | 2025-12 |
-| [Group Array](https://trueinterview.io/questions/19b3ac67-7f53-4497-9f89-93551984b216) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
-| [Maximum Coins Eaten](https://trueinterview.io/questions/6eca8cb0-2bbe-4bed-8e49-48257111c9b7) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
-| [Maximum Related Numbers](https://trueinterview.io/questions/19b56bf2-394c-4931-aabe-3c28383eb7a3) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
+| [Group Array](https://trueinterview.io/questions/google-group-array) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
+| [Maximum Coins Eaten](https://trueinterview.io/questions/google-maximum-coins-eaten) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
+| [Maximum Related Numbers](https://trueinterview.io/questions/google-maximum-related-numbers) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
 | [Segregate Binary String (Move Ones to End)](https://trueinterview.io/questions/segregate-binary-string-move-ones) | Coding | - | Easy | Mid | Quantitative Finance | 2025-08 |
 | [Analyze video flags and reviews with SQL](https://trueinterview.io/questions/analyze-video-flags-and-reviews-with-sql) | SQL | - | Medium | New grad, Mid, Senior | Data Scientist | - |
 | [Find First Greater or Equal Element](https://trueinterview.io/questions/google-find-first-greater-or-equal-element) | Coding | - | Easy | Mid | Software Engineer | - |

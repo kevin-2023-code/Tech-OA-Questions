@@ -8,7 +8,7 @@
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | 2026-09 |
 | [Compute File Size on Disk](https://trueinterview.io/questions/upstart-compute-file-size-on-disk) | Coding | - | Easy | Mid | Software Engineer | 2026-08 |
-| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-08 |
+| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/meta-remove-duplicates-from-sorted-array) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-08 |
 | [Bounding Rectangle of Points](https://trueinterview.io/questions/upstart-bounding-rectangle-of-points) | Coding | - | Easy | New grad | Software Engineer | 2026-07 |
 | [Check Value Occurrence by Position and Half](https://trueinterview.io/questions/upstart-check-value-occurrence-by-position-and-half) | Coding | - | Easy | New grad | Software Engineer | 2026-07 |
 | [Increase Exclamation Marks and Replace Periods](https://trueinterview.io/questions/upstart-increase-exclamation-marks-and-replace-periods) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-07 |

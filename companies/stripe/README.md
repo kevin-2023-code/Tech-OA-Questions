@@ -12,26 +12,26 @@
 | [Request Routing System](https://trueinterview.io/questions/request-routing-system) | Coding | HackerRank | Medium | New grad, Mid | Software Engineer | 2026-09 |
 | [Financial Account Ledger](https://trueinterview.io/questions/financial-account-ledger-oa) | Coding | - | Medium | New grad | Software Engineer | 2026-09 |
 | [Specify Proximity-Based Request Routing](https://trueinterview.io/questions/specify-proximity-based-request-routing) | System design | - | Medium | New grad, Mid | Backend Engineer | 2026-09 |
-| [Transaction Logs — Trigger / Resolve](https://trueinterview.io/questions/transaction-logs-trigger-resolve) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-09 |
+| [Transaction Logs — Trigger / Resolve](https://trueinterview.io/questions/transaction-logs-trigger-resolve) | Coding | HackerRank | Medium | New grad, Mid, Senior | Software Engineer | 2026-09 |
 | [Subtract Blocked Periods from Allowed Deployment Windows](https://trueinterview.io/questions/subtract-blocked-periods-from-allowed-deployment-windows) | Coding | - | Medium | New grad | Software Engineer | 2026-09 |
-| [AI Token Billing Calculation](https://trueinterview.io/questions/chat-billing-calculation) | Coding | - | Medium | Mid, Senior | Backend Engineer | 2026-09 |
-| [Find Directly Linked Merchants by Shared Attributes](https://trueinterview.io/questions/bd8e4f4a-1201-4022-83ab-7f907b98c0e3) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-09 |
+| [AI Token Billing Calculation](https://trueinterview.io/questions/chat-billing-calculation) | Coding | HackerRank | Medium | Mid, Senior | Backend Engineer | 2026-09 |
+| [Find Directly Linked Merchants by Shared Attributes](https://trueinterview.io/questions/stripe-find-directly-linked-merchants-by-shared-attributes) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-09 |
 | [Find the Latest Bank Account Balance](https://trueinterview.io/questions/stripe-find-the-latest-bank-account-balance) | Coding | - | Easy | New grad | Data Scientist | 2026-09 |
 | [Reconcile Monthly Balances Between Two CSV Files](https://trueinterview.io/questions/stripe-reconcile-monthly-balances-between-two-csv-files) | Coding | - | Easy | New grad, Mid | Backend Engineer | 2026-09 |
 | [Validate a Length-Limited Field and Forbidden Description Terms](https://trueinterview.io/questions/stripe-validate-a-length-limited-field-and-forbidden-description-terms) | Coding | - | Easy | Mid | Backend Engineer | 2026-09 |
 | [Verify Business Records by Required Fields](https://trueinterview.io/questions/stripe-verify-business-records-by-required-fields) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
-| [CSV Processing](https://trueinterview.io/questions/79c3d2f6-5436-4d64-be35-a2a5b8797c1b) | Coding | - | Easy | Mid | Software Engineer | 2026-08 |
-| [Six Degrees of Collusion](https://trueinterview.io/questions/six-degrees-of-collusion) | Coding | - | Medium | New grad | Software Engineer | 2026-06 |
+| [CSV Processing](https://trueinterview.io/questions/stripe-csv-processing) | Coding | - | Easy | Mid | Software Engineer | 2026-08 |
+| [Six Degrees of Collusion](https://trueinterview.io/questions/six-degrees-of-collusion) | Coding | HackerRank | Medium | New grad | Software Engineer | 2026-06 |
 | [Account Balance Processor](https://trueinterview.io/questions/account-balance-manager) | Coding | - | Medium | Mid, Senior | Backend Engineer | 2026-05 |
-| [Email Log Processing / Grouping and Sorting](https://trueinterview.io/questions/a47b5493-0083-4083-a969-c296d8be6d2b) | Coding | - | Easy | Mid | Software Engineer | 2026-05 |
+| [Email Log Processing / Grouping and Sorting](https://trueinterview.io/questions/stripe-email-log-processing-grouping-and-sorting) | Coding | - | Easy | Mid | Software Engineer | 2026-05 |
 | [Implement Dataset Join Operation](https://trueinterview.io/questions/dataset-join) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-04 |
-| [Fee Calculation for Transactions](https://trueinterview.io/questions/012ccdf5-7691-4ff9-9a61-9b5cf3c60ead) | Coding | - | Easy | Mid, Senior | Backend Engineer | 2026-04 |
+| [Fee Calculation for Transactions](https://trueinterview.io/questions/stripe-fee-calculation-for-transactions) | Coding | - | Easy | Mid, Senior | Backend Engineer | 2026-04 |
 | [Shipping Route Cost Paths](https://trueinterview.io/questions/shipping-route-cost-paths) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-02 |
-| [Jupyter / WebSocket Load Balancer](https://trueinterview.io/questions/jupyter-load-balancer-oa) | Coding | - | Medium | Intern, New grad, Mid | Backend Engineer | 2026-02 |
+| [Jupyter / WebSocket Load Balancer](https://trueinterview.io/questions/jupyter-load-balancer-oa) | Coding | HackerRank | Medium | Intern, New grad, Mid | Backend Engineer | 2026-02 |
 | [Merchant Fraud Score](https://trueinterview.io/questions/merchant-fraud-score-oa) | Coding | - | Medium | New grad | Backend Engineer | 2026-01 |
 | [Worker-Task Matching with Specialties](https://trueinterview.io/questions/worker-task-assignment) | Coding | - | Hard | Mid, Senior | Software Engineer | 2025-10 |
-| [Compute Total Cost from Two Tables (SQL Aggregation + Join) with Tiered Fees Follow-up](https://trueinterview.io/questions/bdcdde80-7010-4c5f-b26c-7fc83901d0f9) | SQL | - | Medium | Mid, Senior | Data Scientist | - |
+| [Compute Total Cost from Two Tables (SQL Aggregation + Join) with Tiered Fees Follow-up](https://trueinterview.io/questions/stripe-compute-total-cost-from-two-tables-sql-aggregation-join-with-tiered-fees) | SQL | - | Medium | Mid, Senior | Data Scientist | - |
 | [Design a model for subscription adoption prediction](https://trueinterview.io/questions/design-a-model-for-subscription-adoption-prediction) | System design | - | Medium | Senior, Staff+ | Machine Learning Engineer | - |
-| [Email Time Update Problem](https://trueinterview.io/questions/2ada198e-0cfe-4fea-9e44-c5737c04b3f8) | Coding | - | Easy | Intern, New grad | Backend Engineer | - |
+| [Email Time Update Problem](https://trueinterview.io/questions/stripe-email-time-update-problem) | Coding | - | Easy | Intern, New grad | Backend Engineer | - |
 | [Plan an experiment to validate targeting impact](https://trueinterview.io/questions/plan-an-experiment-to-validate-targeting-impact) | Behavioral / concept | - | - | Senior, Staff+ | Data Scientist | - |
 | [Write SQL to detect recurring non-subscription users](https://trueinterview.io/questions/write-sql-to-detect-recurring-non-subscription-users) | SQL | - | Hard | Mid, Senior | Data Scientist | - |

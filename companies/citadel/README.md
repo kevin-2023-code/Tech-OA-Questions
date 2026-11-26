@@ -17,7 +17,7 @@
 | [Word Frequency Counter](https://trueinterview.io/questions/citadel-word-frequency-counter) | Coding | - | Easy | Senior | Quantitative Finance | 2026-08 |
 | [Maximum Throughput](https://trueinterview.io/questions/maximum-throughput) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
 | [Minimum Character Changes to Make Every k-Length Block a Palindrome](https://trueinterview.io/questions/minimum-character-changes-to-make-every-k-length-block-a-palindrome) | Coding | - | Medium | New grad | Software Engineer | 2026-03 |
-| [Largest Team Built Around a Core Employee](https://trueinterview.io/questions/interval-overlap-max-team) | Coding | - | Medium | New grad | Quantitative Finance | 2026-03 |
+| [Largest Team Built Around a Core Employee](https://trueinterview.io/questions/interval-overlap-max-team) | Coding | HackerRank | Medium | New grad | Quantitative Finance | 2026-03 |
 | [Refactor Obfuscated C++ Code (Hidden Best-Time-To-Buy-Sell)](https://trueinterview.io/questions/obfuscated-code-refactor) | Coding | - | Medium | Mid | Quantitative Finance | 2026-02 |
 | [Find Earliest Available Meeting Slot](https://trueinterview.io/questions/find-earliest-available-meeting-slot) | Coding | - | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-01 |
-| [Non-Consecutive Process Scheduling](https://trueinterview.io/questions/grace-hopper-non-consecutive-processes) | Coding | - | Medium | New grad | Software Engineer | 2025-12 |
+| [Non-Consecutive Process Scheduling](https://trueinterview.io/questions/grace-hopper-non-consecutive-processes) | Coding | HackerRank | Medium | New grad | Software Engineer | 2025-12 |

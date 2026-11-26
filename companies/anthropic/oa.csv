@@ -1,17 +1,17 @@
 Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
 Bank System,OOD / LLD,,Hard,Mid,Backend Engineer,2026-09,https://trueinterview.io/questions/bank-system
 File Deduplication,Coding,,Easy,Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/anthropic-file-deduplication
-Task Manager (TTL + Snapshot),OOD / LLD,,Medium,New grad; Mid,Backend Engineer,2026-08,https://trueinterview.io/questions/oa-task-management
-File Systems,OOD / LLD,,Medium,New grad; Mid,Backend Engineer,2026-07,https://trueinterview.io/questions/oa-file-systems
-Token Usage Calculation,Coding,,Easy,Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/1f861fb5-8d4f-46c0-b1f4-d2599788cc8a
-Worker / Employee Grant Management,OOD / LLD,,Medium,New grad; Senior; Manager,Software Engineer,2026-07,https://trueinterview.io/questions/oa-worker-management
-Bank System with Transfer/Accept and Merge,OOD / LLD,,Medium,New grad; Mid,Backend Engineer,2026-06,https://trueinterview.io/questions/oa-bank-system
-Recipe Manager,OOD / LLD,,Medium,New grad; Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/recipe-manager
-Route Multiple Prompt Calls to Multiple GPT Servers Using a Hash Table,Coding,,Easy,New grad,Backend Engineer,2026-06,https://trueinterview.io/questions/46a64535-7d55-4b9f-af3e-9db6d856187a
-"DNS Resolver (Fellows CodeSignal, Round 1)",OOD / LLD,,Hard,Mid,Software Engineer,2026-05,https://trueinterview.io/questions/oa-fellows-dns-resolver
+Task Manager (TTL + Snapshot),OOD / LLD,CodeSignal,Medium,New grad; Mid,Backend Engineer,2026-08,https://trueinterview.io/questions/oa-task-management
+File Systems,OOD / LLD,CodeSignal,Medium,New grad; Mid,Backend Engineer,2026-07,https://trueinterview.io/questions/oa-file-systems
+Token Usage Calculation,Coding,,Easy,Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/anthropic-token-usage-calculation
+Worker / Employee Grant Management,OOD / LLD,CodeSignal,Medium,New grad; Senior; Manager,Software Engineer,2026-07,https://trueinterview.io/questions/oa-worker-management
+Bank System with Transfer/Accept and Merge,OOD / LLD,CodeSignal,Medium,New grad; Mid,Backend Engineer,2026-06,https://trueinterview.io/questions/oa-bank-system
+Recipe Manager,OOD / LLD,CodeSignal,Medium,New grad; Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/recipe-manager
+Route Multiple Prompt Calls to Multiple GPT Servers Using a Hash Table,Coding,,Easy,New grad,Backend Engineer,2026-06,https://trueinterview.io/questions/anthropic-route-multiple-prompt-calls-to-multiple-gpt-servers-using-a-hash-table
+"DNS Resolver (Fellows CodeSignal, Round 1)",OOD / LLD,CodeSignal,Hard,Mid,Software Engineer,2026-05,https://trueinterview.io/questions/oa-fellows-dns-resolver
 Design a Task Assignment System,OOD / LLD,,Medium,Mid; Senior,,2026-05,https://trueinterview.io/questions/design-a-task-assignment-system
 Task Management System,Coding,,Hard,New grad; Mid,Backend Engineer,2026-05,https://trueinterview.io/questions/task-management-system-online-assessment
-In-Memory Database,OOD / LLD,,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/in-memory-database
-File Profiler,Coding,,Easy,Senior,Backend Engineer,2025-03,https://trueinterview.io/questions/dc568545-f217-4ade-8ba3-30d633579af6
-Basic SQL Exercise + Learning/Skill-Growth Discussion,SQL,,Medium,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/a278d355-79f7-44a0-8a10-ce7e6c8e055f
+In-Memory Database,OOD / LLD,CodeSignal,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/in-memory-database
+File Profiler,Coding,,Easy,Senior,Backend Engineer,2025-03,https://trueinterview.io/questions/anthropic-file-profiler
+Basic SQL Exercise + Learning/Skill-Growth Discussion,SQL,,Medium,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/anthropic-basic-sql-exercise-learning-skill-growth-discussion
 Design In-memory Database with Backup,OOD / LLD,,Easy,Intern; New grad; Mid,Backend Engineer,,https://trueinterview.io/questions/design-in-memory-database-with-backup-2

@@ -17,5 +17,5 @@
 | [Merge Two Sorted Vectors](https://trueinterview.io/questions/squarepoint-merge-two-sorted-vectors) | Coding | - | Easy | Mid | Quantitative Finance | 2025-05 |
 | [Generate Unique Usernames](https://trueinterview.io/questions/squarepoint-generate-unique-usernames) | Coding | - | Medium | New grad | Software Engineer | 2025-03 |
 | [Grasshopper Problem](https://trueinterview.io/questions/squarepoint-grasshopper-problem) | Coding | - | Easy | Mid | Quantitative Finance | 2025-03 |
-| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
+| [Maximum Subarray](https://trueinterview.io/questions/apple-maximum-subarray) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
 | [Parse payroll file and answer queries](https://trueinterview.io/questions/parse-payroll-file-and-answer-queries) | Coding | - | Hard | New grad, Mid, Senior | Quantitative Finance | - |

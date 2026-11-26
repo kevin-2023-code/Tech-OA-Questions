@@ -9,9 +9,9 @@
 | [Debug Search and Stock Behavior in a Library Application](https://trueinterview.io/questions/debug-search-and-stock-behavior-in-a-library-application) | Behavioral / concept | - | - | Senior | Software Engineer | 2026-09 |
 | [Design Idempotent In-App Availability and Due-Date Notifications](https://trueinterview.io/questions/design-idempotent-in-app-availability-and-due-date-notifications) | System design | - | Medium | Mid, Senior | Backend Engineer | 2026-09 |
 | [Implement Search and Filters, Then Diagnose a Query-Ordering Bug](https://trueinterview.io/questions/implement-search-and-filters-then-diagnose-a-query-ordering-bug) | Coding | - | Medium | Mid, Senior | Software Engineer | 2026-09 |
-| [Full-Stack AI-Pairing Assessment](https://trueinterview.io/questions/full-stack-ai-assessment) | AI coding | - | Hard | Mid, Senior | Software Engineer | 2026-06 |
+| [Full-Stack AI-Pairing Assessment](https://trueinterview.io/questions/full-stack-ai-assessment) | AI coding | CodeSignal | Hard | Mid, Senior | Software Engineer | 2026-06 |
 | [Fix Backend Filtering for Book Search Results](https://trueinterview.io/questions/instacart-fix-backend-filtering-for-book-search-results) | Coding | CodeSignal | Easy | Senior | Backend Engineer | 2026-06 |
 | [Decode Password from File](https://trueinterview.io/questions/instacart-decode-password-from-file) | Coding | - | Easy | Mid | Software Engineer | 2026-05 |
-| [In-Memory Key-Value Store](https://trueinterview.io/questions/oa-in-memory-key-value-store) | OOD / LLD | - | Medium | Mid, Senior | Backend Engineer | 2026-04 |
-| [Worker Attendance & Payroll](https://trueinterview.io/questions/oa-worker-attendance-payroll) | OOD / LLD | - | Medium | New grad | Backend Engineer | 2026-01 |
+| [In-Memory Key-Value Store](https://trueinterview.io/questions/oa-in-memory-key-value-store) | OOD / LLD | CodeSignal | Medium | Mid, Senior | Backend Engineer | 2026-04 |
+| [Worker Attendance & Payroll](https://trueinterview.io/questions/oa-worker-attendance-payroll) | OOD / LLD | CodeSignal | Medium | New grad | Backend Engineer | 2026-01 |
 | [Task Management System III](https://trueinterview.io/questions/task-management-system) | OOD / LLD | - | Medium | New grad, Mid | Software Engineer | - |

@@ -12,9 +12,9 @@
 | [Minimize Operations to Balance Shipments](https://trueinterview.io/questions/minimize-operations-to-balance-shipments) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-03 |
 | [Minimum Anagram Edits](https://trueinterview.io/questions/minimum-anagram-edits) | Coding | - | Hard | Mid | Software Engineer | 2026-03 |
 | [Table of Contents from Markdown Headings II](https://trueinterview.io/questions/markdown-table-of-contents) | Coding | - | Easy | New grad | Software Engineer | 2026-03 |
-| [Minimum Swaps to Sort (Cycle Decomposition)](https://trueinterview.io/questions/minimum-swaps-to-sort-cycle) | Coding | - | Medium | New grad, Mid | Quantitative Finance | 2025-12 |
+| [Minimum Swaps to Sort (Cycle Decomposition)](https://trueinterview.io/questions/minimum-swaps-to-sort-cycle) | Coding | HackerRank | Medium | New grad, Mid | Quantitative Finance | 2025-12 |
 | [Circular Active Computers Window](https://trueinterview.io/questions/circular-active-computers-window) | Coding | - | Medium | Mid, Senior | Software Engineer | 2025-12 |
 | [Interval Sign Flips](https://trueinterview.io/questions/interval-sign-flips) | Coding | - | Medium | Mid | Software Engineer | 2025-11 |
 | [Split Array: Left Sum Greater](https://trueinterview.io/questions/split-array-left-sum-greater) | Coding | - | Easy | New grad | Software Engineer | 2025-09 |
 | [Delete-One-Character Positions](https://trueinterview.io/questions/delete-one-character-positions) | Coding | - | Easy | Mid | Software Engineer | 2025-07 |
-| [Alphanumeric Vowel / Consonant Count](https://trueinterview.io/questions/alphanumeric-vowel-consonant-count) | Coding | - | Easy | New grad | Software Engineer | 2025-06 |
+| [Alphanumeric Vowel / Consonant Count](https://trueinterview.io/questions/alphanumeric-vowel-consonant-count) | Coding | HackerRank | Easy | New grad | Software Engineer | 2025-06 |

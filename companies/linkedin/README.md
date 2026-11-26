@@ -9,5 +9,5 @@
 | [Move the Nth Node of a Linked List to the Front](https://trueinterview.io/questions/linkedin-move-the-nth-node-of-a-linked-list-to-the-front) | Coding | - | Easy | Mid | Software Engineer | 2026-10 |
 | [Sum of a Multidimensional Array](https://trueinterview.io/questions/linkedin-sum-of-a-multidimensional-array) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-10 |
 | [Validate a Decimal Number String](https://trueinterview.io/questions/linkedin-validate-a-decimal-number-string) | Coding | - | Easy | Mid | Software Engineer | 2026-10 |
-| [Tree Depth Calculation](https://trueinterview.io/questions/6044a0d6-8535-4971-ad1b-427f1d701c3c) | Coding | - | Easy | Senior | Software Engineer | 2026-09 |
+| [Tree Depth Calculation](https://trueinterview.io/questions/netflix-tree-depth-calculation) | Coding | - | Easy | Senior | Software Engineer | 2026-09 |
 | [Degree of Connection Between LinkedIn Users](https://trueinterview.io/questions/linkedin-degree-of-connection-between-linkedin-users) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |

@@ -6,4 +6,4 @@
 
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Distribute Strings into K Lines with Greedy Placement](https://trueinterview.io/questions/84ccf656-2a40-4ff8-8080-a648e545eb50) | Coding | - | Easy | Senior | Software Engineer | 2026-04 |
+| [Distribute Strings into K Lines with Greedy Placement](https://trueinterview.io/questions/robinhood-distribute-strings-into-k-lines-with-greedy-placement) | Coding | - | Easy | Senior | Software Engineer | 2026-04 |

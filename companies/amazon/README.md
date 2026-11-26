@@ -22,11 +22,11 @@
 | [Debug a Node.js car-rental backend: leaked cars, missing new cars, lost edits](https://trueinterview.io/questions/debug-a-node-js-car-rental-backend-leaked-cars-missing-new-cars-lost-edits) | Coding | - | Medium | New grad | Backend Engineer | 2026-09 |
 | [Debug Failing Tests in a Django Movie Search and Filter API](https://trueinterview.io/questions/debug-failing-tests-in-a-django-movie-search-and-filter-api) | AI coding | - | Medium | Mid | Backend Engineer | 2026-09 |
 | [Binary Array Rearrangement](https://trueinterview.io/questions/binary-array-minimum-adjacent-swaps) | Coding | - | Medium | New grad | Software Engineer | 2026-09 |
-| [Drone Delivery on a Hub Ring — Minimum Travel](https://trueinterview.io/questions/drone-hub-ring-min-travel) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-09 |
+| [Drone Delivery on a Hub Ring — Minimum Travel](https://trueinterview.io/questions/drone-hub-ring-min-travel) | Coding | HackerRank | Medium | New grad, Mid | Software Engineer | 2026-09 |
 | [Frequent Page Visit Pattern](https://trueinterview.io/questions/amazon-frequent-page-visit-pattern) | Coding | - | Easy | Senior | Software Engineer | 2026-09 |
 | [Make Power Non-decreasing](https://trueinterview.io/questions/make-power-non-decreasing) | Coding | - | Medium | New grad | Software Engineer | 2026-09 |
 | [Palindrome Detection](https://trueinterview.io/questions/citadel-palindrome-detection) | Coding | HackerRank | Easy | Mid | Quantitative Finance | 2026-09 |
-| [Plus One](https://trueinterview.io/questions/65c03f5a-0fe9-4f02-8d66-d34a3b8193fd) | Coding | - | Easy | Senior | Software Engineer | 2026-09 |
+| [Plus One](https://trueinterview.io/questions/bytedance-plus-one) | Coding | - | Easy | Senior | Software Engineer | 2026-09 |
 | [Reachability in a Grid Without Turning](https://trueinterview.io/questions/amazon-reachability-in-a-grid-without-turning) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
 | [Package Tracking & Status Aggregator Engine](https://trueinterview.io/questions/package-tracking-status-aggregator) | Coding | - | Easy | Mid | Backend Engineer | 2026-08 |
 | [Find Duplicates in Integer List](https://trueinterview.io/questions/amazon-find-duplicates-in-integer-list) | Coding | - | Easy | Mid | Software Engineer | 2026-08 |
@@ -38,7 +38,7 @@
 | [Keyword List Membership Check](https://trueinterview.io/questions/amazon-keyword-list-membership-check) | Coding | - | Easy | Mid | Software Engineer | 2026-07 |
 | [Minimum Operations to Sort by Rotate and Flip](https://trueinterview.io/questions/minimum-operations-to-sort-by-rotate-and-flip) | Coding | - | Medium | Mid | Software Engineer | 2026-06 |
 | [Minimum Redistribution Cost](https://trueinterview.io/questions/min-redistribution-cost-ring) | Coding | - | Hard | New grad, Mid | Software Engineer | 2026-06 |
-| [Circular Array — Multi-Query Distance Accumulation](https://trueinterview.io/questions/circular-array-prefix-sum-multi-query) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
+| [Circular Array — Multi-Query Distance Accumulation](https://trueinterview.io/questions/circular-array-prefix-sum-multi-query) | Coding | HackerRank | Medium | New grad, Mid | Software Engineer | 2026-06 |
 | [Implement Softmax](https://trueinterview.io/questions/luma-ai-implement-softmax) | Coding | - | Easy | New grad | Machine Learning Engineer | 2026-06 |
 | [Array Generation Service](https://trueinterview.io/questions/lex-largest-string-via-state-flips) | Coding | - | Medium | Mid | Software Engineer | 2026-04 |
 | [Min Errors in 0/1/! Subsequence DP](https://trueinterview.io/questions/errors-in-zero-one-bang-subsequence-dp) | Coding | - | Hard | Mid | Software Engineer | 2026-04 |
@@ -50,14 +50,14 @@
 | [Deduplicate Events List (with Sorting + Map/Stack)](https://trueinterview.io/questions/amazon-deduplicate-events-list-with-sorting-map-stack) | Coding | - | Easy | Senior | Software Engineer | 2026-03 |
 | [In-place Array Reordering (0/1/2 sort variant)](https://trueinterview.io/questions/amazon-in-place-array-reordering-0-1-2-sort-variant) | Coding | - | Easy | Mid | Software Engineer | 2026-03 |
 | [Find a valid dependency order](https://trueinterview.io/questions/find-a-valid-dependency-order) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-02 |
-| [Count Unique Morse Translations](https://trueinterview.io/questions/6304fc2c-e0b4-47b8-8fcb-c16ab518e215) | Coding | - | Easy | Intern | Software Engineer | 2026-02 |
+| [Count Unique Morse Translations](https://trueinterview.io/questions/amazon-count-unique-morse-translations) | Coding | - | Easy | Intern | Software Engineer | 2026-02 |
 | [Prefix Frequency Partition](https://trueinterview.io/questions/equal-block-prefix-via-prefix-hash) | Coding | - | Medium | Intern | Software Engineer | 2026-01 |
 | [VM Inventory Rental — Heap Simulation](https://trueinterview.io/questions/vm-inventory-rental-heap) | Coding | - | Medium | Intern | Software Engineer | 2026-01 |
 | [Minimize Branch Merge Conflicts](https://trueinterview.io/questions/minimize-branch-merge-conflicts) | Coding | - | Hard | Mid, Senior | Software Engineer | 2026-01 |
 | [Find the First Corrupted Character](https://trueinterview.io/questions/walmart-labs-find-the-first-corrupted-character) | Coding | - | Easy | Senior | Software Engineer | 2025-12 |
 | [Drive stakeholder alignment under trade-offs](https://trueinterview.io/questions/drive-stakeholder-alignment-under-trade-offs) | Behavioral / concept | - | - | Senior, Staff+, Manager | Data Scientist | - |
-| [Find Minimum Operations](https://trueinterview.io/questions/0aa375be-b6b5-4767-a41e-2879f81b0dc0) | Coding | - | Hard | New grad | Software Engineer | - |
-| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
+| [Find Minimum Operations](https://trueinterview.io/questions/amazon-find-minimum-operations) | Coding | - | Hard | New grad | Software Engineer | - |
+| [Maximum Subarray](https://trueinterview.io/questions/apple-maximum-subarray) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
 | [Pizza Slices Calculator Program](https://trueinterview.io/questions/amazon-pizza-slices-calculator-program) | Coding | - | Easy | Mid | Software Engineer | - |
 | [Quantify build-vs-buy training decision](https://trueinterview.io/questions/quantify-build-vs-buy-training-decision) | Behavioral / concept | - | - | Senior, Staff+ | Data Scientist | - |
 | [Retrieve Every Merchant ID the First Order for Each Date](https://trueinterview.io/questions/amazon-retrieve-every-merchant-id-the-first-order-for-each-date) | SQL | - | Easy | Intern, New grad, Mid | Data Scientist | - |

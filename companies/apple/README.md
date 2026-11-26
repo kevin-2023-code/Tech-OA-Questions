@@ -16,7 +16,7 @@
 | [Design a Concurrent Image Upload System](https://trueinterview.io/questions/design-a-concurrent-image-upload-system) | System design | - | Medium | Mid, Senior | Backend Engineer | 2026-04 |
 | [Generate all permutations of a list](https://trueinterview.io/questions/oracle-generate-all-permutations-of-a-list) | Coding | - | Easy | Mid | Software Engineer | 2026-02 |
 | [Classify the Difference Between Two Calendar Dates](https://trueinterview.io/questions/apple-classify-the-difference-between-two-calendar-dates) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
-| [First Unique Element IV](https://trueinterview.io/questions/933927db-2acf-4529-88cf-b16cfd184b00) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
-| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
-| [Python Debugging — Fix a Loop Condition Bug](https://trueinterview.io/questions/e9adef64-7ceb-4294-bae4-8d77a203ee81) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
-| [Reverse String Using Stream](https://trueinterview.io/questions/cd0c8b7a-32b1-466f-8b99-1eea4d72719b) | Coding | - | Easy | - | - | - |
+| [First Unique Element IV](https://trueinterview.io/questions/apple-first-unique-element-iv) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
+| [Maximum Subarray](https://trueinterview.io/questions/apple-maximum-subarray) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
+| [Python Debugging — Fix a Loop Condition Bug](https://trueinterview.io/questions/apple-python-debugging-fix-a-loop-condition-bug) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
+| [Reverse String Using Stream](https://trueinterview.io/questions/apple-reverse-string-using-stream) | Coding | - | Easy | - | - | - |

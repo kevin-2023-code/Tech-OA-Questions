@@ -18,7 +18,7 @@
 | [Minimum Fuel Cost Across a Road Network](https://trueinterview.io/questions/minimum-fuel-cost-road-network) | Coding | - | Hard | New grad | Software Engineer | 2026-08 |
 | [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | Coding | - | Medium | Mid | Software Engineer | 2026-08 |
 | [Generate Lexicographically Sorted String Subsets](https://trueinterview.io/questions/microsoft-generate-lexicographically-sorted-string-subsets) | Coding | - | Easy | Mid | Software Engineer | 2026-08 |
-| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-08 |
+| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/meta-remove-duplicates-from-sorted-array) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-08 |
 | [Stock Max Profit (Single or Multiple Transactions)](https://trueinterview.io/questions/two-sigma-stock-max-profit-single-or-multiple-transactions) | Coding | - | Easy | Senior | Quantitative Finance | 2026-08 |
 | [Valid Time Combinations](https://trueinterview.io/questions/valid-time-combinations) | Coding | - | Medium | New grad | Software Engineer | 2026-07 |
 | [Design a replicated key-value store with quorums](https://trueinterview.io/questions/design-a-replicated-key-value-store-with-quorums) | System design | - | Medium | Senior, Staff+ | Backend Engineer | 2026-06 |
@@ -28,13 +28,13 @@
 | [Move every zero to the end of an array while preserving the order of other values](https://trueinterview.io/questions/move-every-zero-to-the-end-of-an-array-while-preserving-the-order-of-other-values) | Coding | - | Easy | New grad, Mid, Senior | Software Engineer | 2026-04 |
 | [Final Prices With a Special Discount in a Shop](https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop) | Coding | - | Easy | New grad | Software Engineer | 2026-04 |
 | [Rotate String (variant with two string arrays)](https://trueinterview.io/questions/microsoft-rotate-string-variant-with-two-string-arrays) | Coding | - | Easy | Mid | Software Engineer | 2026-04 |
-| [Count Positive Pairs Satisfying 1/x + 1/y = 1/N](https://trueinterview.io/questions/equations-reciprocal-pair-count) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-03 |
+| [Count Positive Pairs Satisfying 1/x + 1/y = 1/N](https://trueinterview.io/questions/equations-reciprocal-pair-count) | Coding | HackerRank | Medium | New grad, Mid | Software Engineer | 2026-03 |
 | [Check Prefix Permutation](https://trueinterview.io/questions/oa-permutation-prefix-balanced) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-03 |
-| [Temporal Key-Value Store](https://trueinterview.io/questions/temporal-key-value-store-online-assessment) | Coding | - | Hard | Mid | Software Engineer | 2026-02 |
+| [Temporal Key-Value Store](https://trueinterview.io/questions/temporal-key-value-store-online-assessment) | Coding | CoderPad | Hard | Mid | Software Engineer | 2026-02 |
 | [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization) | Coding | - | Easy | New grad | Software Engineer | 2026-02 |
 | [Longest Subsequence of X That Is a Substring of Y](https://trueinterview.io/questions/longest-subsequence-substring) | Coding | HackerRank | Medium | Mid, Senior | Software Engineer | 2026-01 |
 | [Debug distributed-system performance problems](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | System design | - | Hard | Senior, Staff+ | Platform Engineer | 2025-12 |
 | [Invert Binary Tree](https://trueinterview.io/questions/microsoft-invert-binary-tree) | Coding | - | Easy | Mid | Software Engineer | 2025-12 |
-| [Maximize Edge Sum in Graph](https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | - |
+| [Maximize Edge Sum in Graph](https://trueinterview.io/questions/microsoft-maximize-edge-sum-in-graph) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | - |
 | [Minimal Board Length for Holes](https://trueinterview.io/questions/microsoft-minimal-board-length-for-holes) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | - |
 | [Top K Relevant Apps by Keyword Scores](https://trueinterview.io/questions/microsoft-top-k-relevant-apps-by-keyword-scores) | Coding | - | Easy | Mid | Software Engineer | - |

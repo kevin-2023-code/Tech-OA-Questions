@@ -7,4 +7,4 @@
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [In-Memory Database — Levels 1–4 (TTL + Backup/Restore)](https://trueinterview.io/questions/in-memory-database-ttl-backup) | OOD / LLD | CodeSignal | Hard | New grad, Mid, Senior | Backend Engineer | 2026-04 |
-| [Twitter Insight Platform](https://trueinterview.io/questions/twitter-insight-platform-take-home) | AI coding | - | Hard | Mid, Senior | Backend Engineer | 2026-01 |
+| [Twitter Insight Platform](https://trueinterview.io/questions/twitter-insight-platform-take-home) | AI coding | CodeSignal | Hard | Mid, Senior | Backend Engineer | 2026-01 |

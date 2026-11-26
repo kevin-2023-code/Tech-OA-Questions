@@ -6,6 +6,6 @@
 
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Frontend Discover Infinite Scroll](https://trueinterview.io/questions/35618d45-785f-413b-ba19-66b7d4c0e730) | AI coding | - | Medium | New grad, Mid, Senior | Frontend Engineer | 2026-04 |
-| [Temporal Key-Value Store](https://trueinterview.io/questions/temporal-key-value-store-online-assessment) | Coding | - | Hard | Mid | Software Engineer | 2026-02 |
-| [Byte Tokenizer](https://trueinterview.io/questions/8edaef48-6a51-41bc-aa63-1a491ca4bcf3) | Coding | - | Medium | New grad | AI Engineer | 2026-01 |
+| [Frontend Discover Infinite Scroll](https://trueinterview.io/questions/perplexity-frontend-discover-infinite-scroll) | AI coding | - | Medium | New grad, Mid, Senior | Frontend Engineer | 2026-04 |
+| [Temporal Key-Value Store](https://trueinterview.io/questions/temporal-key-value-store-online-assessment) | Coding | CoderPad | Hard | Mid | Software Engineer | 2026-02 |
+| [Byte Tokenizer](https://trueinterview.io/questions/perplexity-byte-tokenizer) | Coding | - | Medium | New grad | AI Engineer | 2026-01 |

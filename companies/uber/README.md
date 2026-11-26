@@ -7,16 +7,16 @@
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Time-Based Key-Value Store with Production Testing](https://trueinterview.io/questions/time-based-kv-store) | AI coding | - | Hard | Mid | Software Engineer | 2026-09 |
-| [Count Paths That Can Form a Palindrome in a Tree](https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree) | Coding | - | Hard | New grad | Software Engineer | 2026-08 |
+| [Count Paths That Can Form a Palindrome in a Tree](https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree) | Coding | HackerRank | Hard | New grad | Software Engineer | 2026-08 |
 | [Making a Large Island](https://trueinterview.io/questions/making-a-large-island) | Coding | - | Medium | Mid | Software Engineer | 2026-07 |
 | [Minimum Knight Moves](https://trueinterview.io/questions/minimum-knight-moves) | Coding | - | Medium | Senior | Software Engineer | 2026-07 |
 | [Sort Clothing Sizes](https://trueinterview.io/questions/uber-sort-clothing-sizes) | Coding | - | Easy | New grad | Software Engineer | 2026-07 |
 | [Construct Quad Tree](https://trueinterview.io/questions/construct-quad-tree) | Coding | - | Medium | Mid, Senior | Software Engineer | 2026-06 |
-| [Maximize Pipeline Throughput](https://trueinterview.io/questions/oa-pipeline-throughput) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
+| [Maximize Pipeline Throughput](https://trueinterview.io/questions/oa-pipeline-throughput) | Coding | HackerRank | Medium | New grad, Mid | Software Engineer | 2026-06 |
 | [Jump Game Prime](https://trueinterview.io/questions/jump-game-prime) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
 | [Maximum Throughput](https://trueinterview.io/questions/maximum-throughput) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
 | [Minimum Triggers to Absorb All Balls](https://trueinterview.io/questions/minimum-triggers-to-absorb-all-balls) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
-| [Minimum Root Edges Reversal](https://trueinterview.io/questions/b9de58ad-c058-4d46-b5b4-f04ed4f4af2a) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-05 |
+| [Minimum Root Edges Reversal](https://trueinterview.io/questions/uber-minimum-root-edges-reversal) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-05 |
 | [Maximize Portfolio Floor Value](https://trueinterview.io/questions/maximize-portfolio-floor-value) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-05 |
 | [Final Prices With a Special Discount in a Shop](https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop) | Coding | - | Easy | New grad | Software Engineer | 2026-04 |
 | [Minimum Operations to Reduce an Integer to 0](https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
@@ -27,8 +27,8 @@
 | [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization) | Coding | - | Easy | New grad | Software Engineer | 2026-02 |
 | [Optimize Transition from Elevator to Stairs](https://trueinterview.io/questions/oa-stairs-elevator-energy-tradeoff) | Coding | - | Medium | New grad | Software Engineer | 2026-02 |
 | [Majority Element](https://trueinterview.io/questions/meta-majority-element) | Coding | - | Easy | Mid | Software Engineer | 2026-01 |
-| [Max Levels from Each Index](https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc) | Coding | - | Medium | New grad | Software Engineer | 2025-11 |
-| [Round-Trip Mission Schedule](https://trueinterview.io/questions/oa-codesignal-multi-mission-routing) | Coding | - | Medium | New grad | Software Engineer | 2025-07 |
+| [Max Levels from Each Index](https://trueinterview.io/questions/uber-max-levels-from-each-index) | Coding | - | Medium | New grad | Software Engineer | 2025-11 |
+| [Round-Trip Mission Schedule](https://trueinterview.io/questions/oa-codesignal-multi-mission-routing) | Coding | CodeSignal | Medium | New grad | Software Engineer | 2025-07 |
 | [Find Index of Max Rate to Price Ratio](https://trueinterview.io/questions/uber-find-index-of-max-rate-to-price-ratio) | Coding | - | Easy | Mid | Software Engineer | 2025-03 |
 | [Meeting Rooms Allocation with Delay](https://trueinterview.io/questions/uber-meeting-rooms-allocation-with-delay) | Coding | - | Easy | Senior | Software Engineer | 2025-03 |
 | [Find Combinations After Flip](https://trueinterview.io/questions/uber-find-combinations-after-flip) | Coding | - | Easy | New grad | Software Engineer | 2025-02 |

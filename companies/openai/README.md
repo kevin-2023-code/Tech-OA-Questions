@@ -10,8 +10,8 @@
 | [1-Nearest Neighbor Classification with Manhattan Distance](https://trueinterview.io/questions/openai-1-nearest-neighbor-classification-with-manhattan-distance) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
 | [Event Counting in a 15-Minute Sliding Window](https://trueinterview.io/questions/openai-event-counting-in-a-15-minute-sliding-window) | Coding | - | Easy | Senior | Software Engineer | 2026-09 |
 | [Time-Based Key-Value Store with Production Testing](https://trueinterview.io/questions/time-based-kv-store) | AI coding | - | Hard | Mid | Software Engineer | 2026-09 |
-| [GPU Credit Calculator](https://trueinterview.io/questions/d01fe6d8-e86a-4cf8-b36d-900107f35f74) | Coding | - | Easy | Senior | Software Engineer | 2026-06 |
-| [Toy Language Interpreter](https://trueinterview.io/questions/d7b129eb-5166-4c1e-97bc-02132d748c47) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-05 |
-| [Basic SQL Querying (Filtering, Aggregation, Join, Window Functions)](https://trueinterview.io/questions/4b150157-f8fc-435c-9ee4-348a49343e55) | SQL | - | Medium | Senior | Data Scientist | 2026-02 |
-| [General Coding Interview](https://trueinterview.io/questions/ced5e63d-df6c-4a76-8166-add49305f598) | Coding | - | Easy | Mid | Software Engineer | 2026-02 |
+| [GPU Credit Calculator](https://trueinterview.io/questions/openai-gpu-credit-calculator) | Coding | - | Easy | Senior | Software Engineer | 2026-06 |
+| [Toy Language Interpreter](https://trueinterview.io/questions/openai-toy-language-interpreter) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-05 |
+| [Basic SQL Querying (Filtering, Aggregation, Join, Window Functions)](https://trueinterview.io/questions/openai-basic-sql-querying-filtering-aggregation-join-window-functions) | SQL | - | Medium | Senior | Data Scientist | 2026-02 |
+| [General Coding Interview](https://trueinterview.io/questions/openai-general-coding-interview) | Coding | - | Easy | Mid | Software Engineer | 2026-02 |
 | [ML Coding with NP and NN Layers](https://trueinterview.io/questions/openai-ml-coding-with-np-and-nn-layers) | Coding | - | Easy | Mid | Software Engineer | 2026-02 |

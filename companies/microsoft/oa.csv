@@ -11,7 +11,7 @@ Reverse a Linked List,Coding,,Easy,Mid,Software Engineer,2026-09,https://trueint
 Minimum Fuel Cost Across a Road Network,Coding,,Hard,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/minimum-fuel-cost-road-network
 Find Common Free Days,Coding,,Medium,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/find-common-free-days-2
 Generate Lexicographically Sorted String Subsets,Coding,,Easy,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/microsoft-generate-lexicographically-sorted-string-subsets
-Remove Duplicates from Sorted Array,Coding,,Easy,New grad; Mid,Software Engineer,2026-08,https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39
+Remove Duplicates from Sorted Array,Coding,,Easy,New grad; Mid,Software Engineer,2026-08,https://trueinterview.io/questions/meta-remove-duplicates-from-sorted-array
 Stock Max Profit (Single or Multiple Transactions),Coding,,Easy,Senior,Quantitative Finance,2026-08,https://trueinterview.io/questions/two-sigma-stock-max-profit-single-or-multiple-transactions
 Valid Time Combinations,Coding,,Medium,New grad,Software Engineer,2026-07,https://trueinterview.io/questions/valid-time-combinations
 Design a replicated key-value store with quorums,System design,,Medium,Senior; Staff+,Backend Engineer,2026-06,https://trueinterview.io/questions/design-a-replicated-key-value-store-with-quorums
@@ -21,13 +21,13 @@ Matrix Multiplication,Coding,,Easy,Mid; Senior,Software Engineer,2026-05,https:/
 Move every zero to the end of an array while preserving the order of other values,Coding,,Easy,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/move-every-zero-to-the-end-of-an-array-while-preserving-the-order-of-other-values
 Final Prices With a Special Discount in a Shop,Coding,,Easy,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop
 Rotate String (variant with two string arrays),Coding,,Easy,Mid,Software Engineer,2026-04,https://trueinterview.io/questions/microsoft-rotate-string-variant-with-two-string-arrays
-Count Positive Pairs Satisfying 1/x + 1/y = 1/N,Coding,,Medium,New grad; Mid,Software Engineer,2026-03,https://trueinterview.io/questions/equations-reciprocal-pair-count
+Count Positive Pairs Satisfying 1/x + 1/y = 1/N,Coding,HackerRank,Medium,New grad; Mid,Software Engineer,2026-03,https://trueinterview.io/questions/equations-reciprocal-pair-count
 Check Prefix Permutation,Coding,,Easy,New grad; Mid,Software Engineer,2026-03,https://trueinterview.io/questions/oa-permutation-prefix-balanced
-Temporal Key-Value Store,Coding,,Hard,Mid,Software Engineer,2026-02,https://trueinterview.io/questions/temporal-key-value-store-online-assessment
+Temporal Key-Value Store,Coding,CoderPad,Hard,Mid,Software Engineer,2026-02,https://trueinterview.io/questions/temporal-key-value-store-online-assessment
 Purchase Optimization,Coding,,Easy,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/purchase-optimization
 Longest Subsequence of X That Is a Substring of Y,Coding,HackerRank,Medium,Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/longest-subsequence-substring
 Debug distributed-system performance problems,System design,,Hard,Senior; Staff+,Platform Engineer,2025-12,https://trueinterview.io/questions/debug-distributed-system-performance-problems
 Invert Binary Tree,Coding,,Easy,Mid,Software Engineer,2025-12,https://trueinterview.io/questions/microsoft-invert-binary-tree
-Maximize Edge Sum in Graph,Coding,,Medium,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4
+Maximize Edge Sum in Graph,Coding,,Medium,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/microsoft-maximize-edge-sum-in-graph
 Minimal Board Length for Holes,Coding,,Medium,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/microsoft-minimal-board-length-for-holes
 Top K Relevant Apps by Keyword Scores,Coding,,Easy,Mid,Software Engineer,,https://trueinterview.io/questions/microsoft-top-k-relevant-apps-by-keyword-scores

@@ -8,14 +8,14 @@
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [MLE Intern OA: ML Fundamentals](https://trueinterview.io/questions/mle-intern-oa-ml-fundamentals) | Behavioral / concept | - | - | Intern | Machine Learning Engineer | 2026-09 |
 | [Contains Duplicate II](https://trueinterview.io/questions/contains-duplicate-ii) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-09 |
-| [Tree Depth Calculation](https://trueinterview.io/questions/6044a0d6-8535-4971-ad1b-427f1d701c3c) | Coding | - | Easy | Senior | Software Engineer | 2026-09 |
+| [Tree Depth Calculation](https://trueinterview.io/questions/netflix-tree-depth-calculation) | Coding | - | Easy | Senior | Software Engineer | 2026-09 |
 | [Versioned File System](https://trueinterview.io/questions/versioned-file-system) | OOD / LLD | - | Medium | Mid, Senior | Software Engineer | 2026-05 |
 | [Homepage Title Deduplication](https://trueinterview.io/questions/homepage-title-deduplication) | Coding | - | Easy | Mid | Software Engineer | 2026-05 |
 | [Longest Run of Identical Characters](https://trueinterview.io/questions/netflix-longest-run-of-identical-characters) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-05 |
-| [Contains Duplicate](https://trueinterview.io/questions/7557ec37-3b6a-4359-9137-f6bec8d174ec) | Coding | - | Easy | Mid | Software Engineer | 2026-03 |
+| [Contains Duplicate](https://trueinterview.io/questions/netflix-contains-duplicate) | Coding | - | Easy | Mid | Software Engineer | 2026-03 |
 | [Highest Scoring Movie Group](https://trueinterview.io/questions/highest-scoring-movie-group) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | 2025-12 |
 | [One-Hot Encoding of An Array](https://trueinterview.io/questions/one-hot-encoding-of-an-array) | Coding | - | Easy | Intern, New grad | Software Engineer | 2025-12 |
-| [Sort Dictionary Keys](https://trueinterview.io/questions/ae01be58-8b41-4cdc-a071-17655d89c3ee) | Coding | - | Easy | Senior | Backend Engineer | 2025-05 |
-| [Calculate Kullback-Leibler Divergence Between Two Distributions](https://trueinterview.io/questions/d511049a-0e9c-4ef8-8716-7ed85fb33120) | AI coding | - | Easy | - | - | - |
-| [SQL Query to Retrieve User IDs and Names from Users Table](https://trueinterview.io/questions/46cf5bbc-362f-41d2-87e4-5ec71acac4ad) | SQL | - | Easy | Intern, New grad | Data Scientist | - |
-| [User Last Order Date and Order Count SQL Query](https://trueinterview.io/questions/271dd842-2fcc-4d29-834a-4db7987216dd) | SQL | - | Easy | New grad, Mid, Senior | Data Scientist | - |
+| [Sort Dictionary Keys](https://trueinterview.io/questions/netflix-sort-dictionary-keys) | Coding | - | Easy | Senior | Backend Engineer | 2025-05 |
+| [Calculate Kullback-Leibler Divergence Between Two Distributions](https://trueinterview.io/questions/netflix-calculate-kullback-leibler-divergence-between-two-distributions) | AI coding | - | Easy | - | - | - |
+| [SQL Query to Retrieve User IDs and Names from Users Table](https://trueinterview.io/questions/netflix-sql-query-to-retrieve-user-ids-and-names-from-users-table) | SQL | - | Easy | Intern, New grad | Data Scientist | - |
+| [User Last Order Date and Order Count SQL Query](https://trueinterview.io/questions/netflix-user-last-order-date-and-order-count-sql-query) | SQL | - | Easy | New grad, Mid, Senior | Data Scientist | - |

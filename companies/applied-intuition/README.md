@@ -7,6 +7,6 @@
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [File Deduplication](https://trueinterview.io/questions/anthropic-file-deduplication) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-09 |
-| [In-Memory Database](https://trueinterview.io/questions/in-memory-database) | OOD / LLD | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
+| [In-Memory Database](https://trueinterview.io/questions/in-memory-database) | OOD / LLD | CodeSignal | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
 | [Analyze Vehicle JSON Log](https://trueinterview.io/questions/applied-intuition-analyze-vehicle-json-log) | Coding | - | Easy | Mid | Software Engineer | 2025-03 |
 | [Parse String](https://trueinterview.io/questions/applied-intuition-parse-string) | Coding | - | Easy | Mid | Software Engineer | 2025-03 |

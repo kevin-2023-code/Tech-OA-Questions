@@ -9,7 +9,7 @@
 | [Find Values Unique to the Current User](https://trueinterview.io/questions/meta-find-values-unique-to-the-current-user) | Coding | - | Easy | Staff+ | Software Engineer | 2026-09 |
 | [Check for Duplicate within Range](https://trueinterview.io/questions/meta-check-for-duplicate-within-range) | Coding | - | Easy | Mid | Software Engineer | 2026-08 |
 | [Merge Three Sorted Arrays with Deduplication](https://trueinterview.io/questions/amazon-merge-three-sorted-arrays-with-deduplication) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |
-| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-08 |
+| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/meta-remove-duplicates-from-sorted-array) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-08 |
 | [Sum of BST Nodes Within Given Range](https://trueinterview.io/questions/meta-sum-of-bst-nodes-within-given-range) | Coding | - | Easy | New grad, Mid, Senior | Software Engineer | 2026-08 |
 | [Page With No Likes](https://trueinterview.io/questions/page-with-no-likes) | SQL | - | Easy | Intern, New grad, Mid | Data Scientist | 2026-07 |
 | [Get Minimum Round Trip Cost](https://trueinterview.io/questions/meta-get-minimum-round-trip-cost) | Coding | - | Easy | New grad, Senior | Software Engineer | 2026-07 |
@@ -21,11 +21,11 @@
 | [Solve Subarray Sum and Local Minimum](https://trueinterview.io/questions/solve-subarray-sum-and-local-minimum) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
 | [Arithmetic Expression Evaluator (Limited Operators)](https://trueinterview.io/questions/meta-arithmetic-expression-evaluator-limited-operators) | Coding | - | Easy | Senior | Software Engineer | 2026-03 |
 | [Unique Characters](https://trueinterview.io/questions/meta-unique-characters) | Coding | - | Easy | Mid | Software Engineer | 2026-03 |
-| [Battery Usage with Recharge Cycle](https://trueinterview.io/questions/battery-recharge-cycle) | Coding | - | Medium | Mid | Machine Learning Engineer | 2026-02 |
+| [Battery Usage with Recharge Cycle](https://trueinterview.io/questions/battery-recharge-cycle) | Coding | CodeSignal | Medium | Mid | Machine Learning Engineer | 2026-02 |
 | [Design an in-memory cloud file system](https://trueinterview.io/questions/design-an-in-memory-cloud-file-system) | OOD / LLD | - | Medium | New grad, Senior | Software | 2026-02 |
 | [Extend cloud file system with copy and compression](https://trueinterview.io/questions/extend-cloud-file-system-with-copy-and-compression) | OOD / LLD | - | Hard | New grad | Software Engineer | 2026-02 |
 | [Implement a versioned in-memory DB with CAS and history](https://trueinterview.io/questions/implement-a-versioned-in-memory-db-with-cas-and-history) | OOD / LLD | - | Hard | New grad, Mid, Senior | Backend Engineer | 2026-02 |
-| [Sawtooth (Alternating Parity) Subarray Count](https://trueinterview.io/questions/sawtooth-subarray-count) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-01 |
+| [Sawtooth (Alternating Parity) Subarray Count](https://trueinterview.io/questions/sawtooth-subarray-count) | Coding | CodeSignal | Medium | New grad, Mid | Software Engineer | 2026-01 |
 | [Majority Element](https://trueinterview.io/questions/meta-majority-element) | Coding | - | Easy | Mid | Software Engineer | 2026-01 |
 | [Maze Solver: Print a Maze With Empty Cells Marked](https://trueinterview.io/questions/meta-maze-solver-print-a-maze-with-empty-cells-marked) | Coding | - | Easy | Mid | Software Engineer | 2026-01 |
 | [Ads Impression SQL Query](https://trueinterview.io/questions/meta-ads-impression-sql-query) | SQL | - | Easy | Intern, New grad | Data Scientist | - |
@@ -33,8 +33,8 @@
 | [Group Video Call Data Analysis Queries](https://trueinterview.io/questions/meta-group-video-call-data-analysis-queries) | SQL | - | Medium | Intern, New grad, Mid | Data Scientist | - |
 | [Implement Modified Intersection](https://trueinterview.io/questions/meta-implement-modified-intersection) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
 | [Minimal Board Length for Holes](https://trueinterview.io/questions/microsoft-minimal-board-length-for-holes) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | - |
-| [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | Coding | - | Easy | Mid | Software Engineer | - |
-| [SQL Query for Connected Ad Tables](https://trueinterview.io/questions/a1591988-c338-4582-87e6-3c61cd131eba) | SQL | - | Easy | Intern, New grad, Mid | Data Scientist | - |
+| [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/meta-minimum-add-to-make-parentheses-valid) | Coding | - | Easy | Mid | Software Engineer | - |
+| [SQL Query for Connected Ad Tables](https://trueinterview.io/questions/meta-sql-query-for-connected-ad-tables) | SQL | - | Easy | Intern, New grad, Mid | Data Scientist | - |
 | [SQL Query for Data Processing](https://trueinterview.io/questions/meta-sql-query-for-data-processing) | SQL | - | Easy | Intern, New grad | Data Scientist | - |
 | [Sum of Elements Between Two Numbers](https://trueinterview.io/questions/meta-sum-of-elements-between-two-numbers) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
 | [Top 3 Customers by Book Purchases in Specific Categories](https://trueinterview.io/questions/meta-top-3-customers-by-book-purchases-in-specific-categories) | SQL | - | Easy | New grad, Mid, Senior | Data Scientist | - |

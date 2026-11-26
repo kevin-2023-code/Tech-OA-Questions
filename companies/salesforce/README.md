@@ -6,7 +6,7 @@
 
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Maximum Requests in a Time Window](https://trueinterview.io/questions/maximum-requests-in-time-window) | Coding | - | Easy | New grad | Software Engineer | 2026-09 |
+| [Maximum Requests in a Time Window](https://trueinterview.io/questions/maximum-requests-in-time-window) | Coding | HackerRank | Easy | New grad | Software Engineer | 2026-09 |
 | [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Coding | HackerRank | Medium | New grad, Mid | Software Engineer | 2026-08 |
 | [Determine Whether a Date Falls on a Weekend](https://trueinterview.io/questions/salesforce-determine-whether-a-date-falls-on-a-weekend) | Coding | HackerRank | Easy | New grad | Software Engineer | 2026-08 |
 | [Path Sum in a Binary Tree](https://trueinterview.io/questions/salesforce-path-sum-in-a-binary-tree) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |
@@ -15,7 +15,7 @@
 | [Solve Two Coding Problems](https://trueinterview.io/questions/solve-two-oa-coding-problems) | Coding | - | Medium | Senior | Software Engineer | 2026-04 |
 | [String Compression](https://trueinterview.io/questions/string-compression-oa) | Coding | HackerRank | Medium | Mid | Software Engineer | 2026-04 |
 | [Minimum Operations to Reduce an Integer to 0](https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Maximum Number of Palindromic Strings](https://trueinterview.io/questions/maximum-palindromic-strings) | Coding | - | Medium | New grad | Software Engineer | 2026-03 |
+| [Maximum Number of Palindromic Strings](https://trueinterview.io/questions/maximum-palindromic-strings) | Coding | HackerRank | Medium | New grad | Software Engineer | 2026-03 |
 | [Code Review of a Python Repository](https://trueinterview.io/questions/code-review-oa) | AI coding | - | Medium | New grad | Software Engineer | 2026-03 |
 | [Delete Every Value That Repeats in an Unsorted Singly Linked List](https://trueinterview.io/questions/delete-every-value-that-repeats-in-an-unsorted-singly-linked-list) | Coding | - | Easy | New grad, Mid, Senior | Software Engineer | 2026-02 |
 | [TypeScript Test and Code Refactor](https://trueinterview.io/questions/typescript-refactor-oa) | AI coding | HackerRank | Medium | Senior | Frontend Engineer | 2026-02 |

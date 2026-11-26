@@ -9,11 +9,11 @@
 | [Rate Limiter](https://trueinterview.io/questions/snowflake-rate-limiter) | Coding | - | Easy | Senior | Backend Engineer | 2026-08 |
 | [Wiki Hopper: Crawl All Reachable Pages](https://trueinterview.io/questions/snowflake-wiki-hopper-crawl-all-reachable-pages) | Coding | - | Easy | Mid | Software Engineer | 2026-07 |
 | [Work Schedule](https://trueinterview.io/questions/work-schedule) | Coding | - | Medium | Mid | Software Engineer | 2026-07 |
-| [Maximize Pipeline Throughput](https://trueinterview.io/questions/oa-pipeline-throughput) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
+| [Maximize Pipeline Throughput](https://trueinterview.io/questions/oa-pipeline-throughput) | Coding | HackerRank | Medium | New grad, Mid | Software Engineer | 2026-06 |
 | [Maximum Throughput](https://trueinterview.io/questions/maximum-throughput) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
 | [Minimum Clicks Between Wiki Pages](https://trueinterview.io/questions/solve-array-distance-and-wiki-navigation-minimum-clicks-between-wiki-pages) | Coding | - | Medium | Mid | Software | 2026-05 |
 | [Minimum Distance Between People and Cakes](https://trueinterview.io/questions/google-minimum-distance-between-people-and-cakes) | Coding | - | Easy | Mid | Software Engineer | 2026-05 |
-| [Root Equals Average of All Subtrees](https://trueinterview.io/questions/aaea0cb6-4ce4-4788-a014-8b1c1f507bd9) | Coding | - | Easy | Senior | Software Engineer | 2026-05 |
+| [Root Equals Average of All Subtrees](https://trueinterview.io/questions/snowflake-root-equals-average-of-all-subtrees) | Coding | - | Easy | Senior | Software Engineer | 2026-05 |
 | [Unequal Elements](https://trueinterview.io/questions/unequal-elements) | Coding | - | Medium | New grad | Software Engineer | 2025-07 |
 | [Vowels Substring](https://trueinterview.io/questions/vowels-substring) | Coding | - | Medium | New grad | Software Engineer | 2025-07 |
 | [Calculate Fibonacci Number](https://trueinterview.io/questions/snowflake-calculate-fibonacci-number) | Coding | - | Easy | Mid | Software Engineer | 2025-04 |

@@ -2,9 +2,9 @@ Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
 Debug Search and Stock Behavior in a Library Application,Behavioral / concept,,,Senior,Software Engineer,2026-09,https://trueinterview.io/questions/debug-search-and-stock-behavior-in-a-library-application
 Design Idempotent In-App Availability and Due-Date Notifications,System design,,Medium,Mid; Senior,Backend Engineer,2026-09,https://trueinterview.io/questions/design-idempotent-in-app-availability-and-due-date-notifications
 "Implement Search and Filters, Then Diagnose a Query-Ordering Bug",Coding,,Medium,Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/implement-search-and-filters-then-diagnose-a-query-ordering-bug
-Full-Stack AI-Pairing Assessment,AI coding,,Hard,Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/full-stack-ai-assessment
+Full-Stack AI-Pairing Assessment,AI coding,CodeSignal,Hard,Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/full-stack-ai-assessment
 Fix Backend Filtering for Book Search Results,Coding,CodeSignal,Easy,Senior,Backend Engineer,2026-06,https://trueinterview.io/questions/instacart-fix-backend-filtering-for-book-search-results
 Decode Password from File,Coding,,Easy,Mid,Software Engineer,2026-05,https://trueinterview.io/questions/instacart-decode-password-from-file
-In-Memory Key-Value Store,OOD / LLD,,Medium,Mid; Senior,Backend Engineer,2026-04,https://trueinterview.io/questions/oa-in-memory-key-value-store
-Worker Attendance & Payroll,OOD / LLD,,Medium,New grad,Backend Engineer,2026-01,https://trueinterview.io/questions/oa-worker-attendance-payroll
+In-Memory Key-Value Store,OOD / LLD,CodeSignal,Medium,Mid; Senior,Backend Engineer,2026-04,https://trueinterview.io/questions/oa-in-memory-key-value-store
+Worker Attendance & Payroll,OOD / LLD,CodeSignal,Medium,New grad,Backend Engineer,2026-01,https://trueinterview.io/questions/oa-worker-attendance-payroll
 Task Management System III,OOD / LLD,,Medium,New grad; Mid,Software Engineer,,https://trueinterview.io/questions/task-management-system

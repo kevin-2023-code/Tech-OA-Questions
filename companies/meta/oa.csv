@@ -2,7 +2,7 @@ Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
 Find Values Unique to the Current User,Coding,,Easy,Staff+,Software Engineer,2026-09,https://trueinterview.io/questions/meta-find-values-unique-to-the-current-user
 Check for Duplicate within Range,Coding,,Easy,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/meta-check-for-duplicate-within-range
 Merge Three Sorted Arrays with Deduplication,Coding,,Easy,Senior,Software Engineer,2026-08,https://trueinterview.io/questions/amazon-merge-three-sorted-arrays-with-deduplication
-Remove Duplicates from Sorted Array,Coding,,Easy,New grad; Mid,Software Engineer,2026-08,https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39
+Remove Duplicates from Sorted Array,Coding,,Easy,New grad; Mid,Software Engineer,2026-08,https://trueinterview.io/questions/meta-remove-duplicates-from-sorted-array
 Sum of BST Nodes Within Given Range,Coding,,Easy,New grad; Mid; Senior,Software Engineer,2026-08,https://trueinterview.io/questions/meta-sum-of-bst-nodes-within-given-range
 Page With No Likes,SQL,,Easy,Intern; New grad; Mid,Data Scientist,2026-07,https://trueinterview.io/questions/page-with-no-likes
 Get Minimum Round Trip Cost,Coding,,Easy,New grad; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/meta-get-minimum-round-trip-cost
@@ -14,11 +14,11 @@ Describe proudest project and cross-team work,Behavioral / concept,,,Mid; Senior
 Solve Subarray Sum and Local Minimum,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/solve-subarray-sum-and-local-minimum
 Arithmetic Expression Evaluator (Limited Operators),Coding,,Easy,Senior,Software Engineer,2026-03,https://trueinterview.io/questions/meta-arithmetic-expression-evaluator-limited-operators
 Unique Characters,Coding,,Easy,Mid,Software Engineer,2026-03,https://trueinterview.io/questions/meta-unique-characters
-Battery Usage with Recharge Cycle,Coding,,Medium,Mid,Machine Learning Engineer,2026-02,https://trueinterview.io/questions/battery-recharge-cycle
+Battery Usage with Recharge Cycle,Coding,CodeSignal,Medium,Mid,Machine Learning Engineer,2026-02,https://trueinterview.io/questions/battery-recharge-cycle
 Design an in-memory cloud file system,OOD / LLD,,Medium,New grad; Senior,Software,2026-02,https://trueinterview.io/questions/design-an-in-memory-cloud-file-system
 Extend cloud file system with copy and compression,OOD / LLD,,Hard,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/extend-cloud-file-system-with-copy-and-compression
 Implement a versioned in-memory DB with CAS and history,OOD / LLD,,Hard,New grad; Mid; Senior,Backend Engineer,2026-02,https://trueinterview.io/questions/implement-a-versioned-in-memory-db-with-cas-and-history
-Sawtooth (Alternating Parity) Subarray Count,Coding,,Medium,New grad; Mid,Software Engineer,2026-01,https://trueinterview.io/questions/sawtooth-subarray-count
+Sawtooth (Alternating Parity) Subarray Count,Coding,CodeSignal,Medium,New grad; Mid,Software Engineer,2026-01,https://trueinterview.io/questions/sawtooth-subarray-count
 Majority Element,Coding,,Easy,Mid,Software Engineer,2026-01,https://trueinterview.io/questions/meta-majority-element
 Maze Solver: Print a Maze With Empty Cells Marked,Coding,,Easy,Mid,Software Engineer,2026-01,https://trueinterview.io/questions/meta-maze-solver-print-a-maze-with-empty-cells-marked
 Ads Impression SQL Query,SQL,,Easy,Intern; New grad,Data Scientist,,https://trueinterview.io/questions/meta-ads-impression-sql-query
@@ -26,8 +26,8 @@ Find Total Sales by Unique Customers,SQL,,Easy,Intern; New grad; Mid,Data Scient
 Group Video Call Data Analysis Queries,SQL,,Medium,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/meta-group-video-call-data-analysis-queries
 Implement Modified Intersection,Coding,,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/meta-implement-modified-intersection
 Minimal Board Length for Holes,Coding,,Medium,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/microsoft-minimal-board-length-for-holes
-Minimum Add to Make Parentheses Valid,Coding,,Easy,Mid,Software Engineer,,https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de
-SQL Query for Connected Ad Tables,SQL,,Easy,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/a1591988-c338-4582-87e6-3c61cd131eba
+Minimum Add to Make Parentheses Valid,Coding,,Easy,Mid,Software Engineer,,https://trueinterview.io/questions/meta-minimum-add-to-make-parentheses-valid
+SQL Query for Connected Ad Tables,SQL,,Easy,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/meta-sql-query-for-connected-ad-tables
 SQL Query for Data Processing,SQL,,Easy,Intern; New grad,Data Scientist,,https://trueinterview.io/questions/meta-sql-query-for-data-processing
 Sum of Elements Between Two Numbers,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/meta-sum-of-elements-between-two-numbers
 Top 3 Customers by Book Purchases in Specific Categories,SQL,,Easy,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/meta-top-3-customers-by-book-purchases-in-specific-categories

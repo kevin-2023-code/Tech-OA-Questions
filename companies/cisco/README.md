@@ -23,4 +23,4 @@
 | [Word Search in Rows and Columns](https://trueinterview.io/questions/word-search-rows-columns) | Coding | - | Medium | New grad | Software Engineer | 2025-07 |
 | [Count Numbers with Sum of Digits](https://trueinterview.io/questions/cisco-count-numbers-with-sum-of-digits) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
 | [Identify the Non-Twin Person](https://trueinterview.io/questions/cisco-identify-the-non-twin-person) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
-| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
+| [Maximum Subarray](https://trueinterview.io/questions/apple-maximum-subarray) | Coding | - | Easy | New grad, Mid | Software Engineer | - |

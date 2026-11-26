@@ -14,5 +14,5 @@
 | [Generate all permutations of a list](https://trueinterview.io/questions/oracle-generate-all-permutations-of-a-list) | Coding | - | Easy | Mid | Software Engineer | 2026-02 |
 | [Eliminate Adjacent Duplicate Characters](https://trueinterview.io/questions/eliminate-adjacent-duplicate-characters) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2025-11 |
 | [Palindrome Check with Ignore Set](https://trueinterview.io/questions/palindrome-check-with-ignore-set) | Coding | - | Easy | Intern, New grad | Software Engineer | 2025-11 |
-| [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | Coding | - | Easy | Mid | Software Engineer | - |
+| [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/meta-minimum-add-to-make-parentheses-valid) | Coding | - | Easy | Mid | Software Engineer | - |
 | [Sum of Root To Leaf Binary Numbers](https://trueinterview.io/questions/oracle-sum-of-root-to-leaf-binary-numbers) | Coding | - | Easy | New grad, Mid, Senior | Software Engineer | - |

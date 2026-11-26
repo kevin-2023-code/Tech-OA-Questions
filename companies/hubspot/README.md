@@ -6,7 +6,7 @@
 
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Recipe Manager](https://trueinterview.io/questions/recipe-manager) | OOD / LLD | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-06 |
+| [Recipe Manager](https://trueinterview.io/questions/recipe-manager) | OOD / LLD | CodeSignal | Medium | New grad, Mid, Senior | Software Engineer | 2026-06 |
 | [Design a Task Assignment System](https://trueinterview.io/questions/design-a-task-assignment-system) | OOD / LLD | - | Medium | Mid, Senior | - | 2026-05 |
 | [Best Meeting Date by Country](https://trueinterview.io/questions/best-meeting-date-by-country) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-01 |
 | [Company Role Assignment](https://trueinterview.io/questions/company-role-assignment) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-01 |

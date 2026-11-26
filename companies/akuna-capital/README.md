@@ -8,12 +8,12 @@
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Coding | HackerRank | Medium | New grad, Mid | Software Engineer | 2026-08 |
 | [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | Coding | - | Easy | Mid | Quantitative Finance | 2026-07 |
-| [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine) | OOD / LLD | - | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-06 |
+| [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine) | OOD / LLD | HackerRank | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-06 |
 | [Cloud Resource Utilization Dashboard](https://trueinterview.io/questions/sql-cloud-resource-utilization-dashboard) | SQL | - | Easy | Mid | Data Scientist | 2026-05 |
 | [Maximum Difference Across Connected Components](https://trueinterview.io/questions/maximum-difference-connected-components) | Coding | - | Medium | Mid | Quantitative Finance | 2026-05 |
 | [Portfolio Rebalancer](https://trueinterview.io/questions/portfolio-rebalancer) | OOD / LLD | - | Medium | Mid | Quantitative Finance | 2026-05 |
-| [Minimum Swaps to Sort (Cycle Decomposition)](https://trueinterview.io/questions/minimum-swaps-to-sort-cycle) | Coding | - | Medium | New grad, Mid | Quantitative Finance | 2025-12 |
-| [QR HackerRank: Profitable Pairs and Delivery Order](https://trueinterview.io/questions/qr-hackerrank-profitable-pairs-and-delivery-order) | Coding | - | Medium | Mid | Quantitative Finance | 2025-12 |
+| [Minimum Swaps to Sort (Cycle Decomposition)](https://trueinterview.io/questions/minimum-swaps-to-sort-cycle) | Coding | HackerRank | Medium | New grad, Mid | Quantitative Finance | 2025-12 |
+| [QR HackerRank: Profitable Pairs and Delivery Order](https://trueinterview.io/questions/qr-hackerrank-profitable-pairs-and-delivery-order) | Coding | HackerRank | Medium | Mid | Quantitative Finance | 2025-12 |
 | [Trader Fair-Bet Probability and Number Sequences](https://trueinterview.io/questions/trader-fair-bet-probability-and-number-sequences) | Behavioral / concept | - | - | Intern, Mid | Quantitative Finance | 2025-11 |
 | [Communications Handler (CommsHandler)](https://trueinterview.io/questions/communications-handler) | OOD / LLD | - | Medium | New grad | Quantitative Finance | 2025-11 |
 | [Fun With Anagrams (Deduplicate Anagrams)](https://trueinterview.io/questions/fun-with-anagrams-dedup) | Coding | - | Easy | New grad | Quantitative Finance | 2025-11 |
@@ -25,7 +25,7 @@
 | [C++ Object Pool Debugging](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | AI coding | - | Medium | New grad, Mid | Software Engineer | 2025-10 |
 | [Calculate Positive Profit Combinations](https://trueinterview.io/questions/akuna-capital-calculate-positive-profit-combinations) | Coding | - | Easy | Mid | Quantitative Finance | 2025-10 |
 | [Earliest Completion Date](https://trueinterview.io/questions/akuna-capital-earliest-completion-date) | Coding | - | Easy | New grad | Quantitative Finance | 2025-10 |
-| [Array Challenge: Left-Comparison Running Counter](https://trueinterview.io/questions/left-comparison-running-counter) | Coding | - | Medium | Intern, New grad, Mid | Quantitative Finance | 2025-09 |
+| [Array Challenge: Left-Comparison Running Counter](https://trueinterview.io/questions/left-comparison-running-counter) | Coding | HackerRank | Medium | Intern, New grad, Mid | Quantitative Finance | 2025-09 |
 | [Round Price to Nearest Valid Tick](https://trueinterview.io/questions/round-price-to-nearest-tick) | Coding | - | Medium | New grad | Quantitative Finance | 2025-09 |
 | [Track Best Bid/Ask with Cancellations](https://trueinterview.io/questions/track-best-bid-ask-with-cancels) | OOD / LLD | - | Hard | New grad, Mid | Quantitative Finance | 2025-09 |
 | [Segregate Binary String (Move Ones to End)](https://trueinterview.io/questions/segregate-binary-string-move-ones) | Coding | - | Easy | Mid | Quantitative Finance | 2025-08 |

@@ -8,14 +8,14 @@ Maximum Concurrent Processes / Meeting Rooms,Coding,,Medium,New grad; Mid; Senio
 Contains Duplicate II,Coding,,Easy,Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/contains-duplicate-ii
 Shortest Hexadecimal Color Shorthand,Coding,,Easy,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/google-shortest-hexadecimal-color-shorthand
 Top K Most Active Users,Coding,,Easy,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/google-top-k-most-active-users
-Count Paths That Can Form a Palindrome in a Tree,Coding,,Hard,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree
+Count Paths That Can Form a Palindrome in a Tree,Coding,HackerRank,Hard,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree
 Find Common Free Days,Coding,,Medium,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/find-common-free-days-2
 Partition Numbers by Distinct Frequencies,Coding,,Easy,Senior,Software Engineer,2026-08,https://trueinterview.io/questions/google-partition-numbers-by-distinct-frequencies
 Array Frequency Sort,Coding,,Easy,Mid,Quantitative Finance,2026-07,https://trueinterview.io/questions/array-frequency-sort
 Determine Whether an Integer Is a Palindrome,Coding,,Easy,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/bytedance-determine-whether-an-integer-is-a-palindrome
 Minimum Machines for Task Scheduling,Coding,,Medium,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/expedia-minimum-machines-for-task-scheduling
-Email Checksum + Verification-String Lookup,Coding,,Easy,Intern; New grad,Software Engineer,2026-05,https://trueinterview.io/questions/oa-email-checksum-verification-string
-Feature Rollout with Dependency Cycle Detection,Coding,,Medium,New grad,Software Engineer,2026-05,https://trueinterview.io/questions/oa-feature-rollout-dependency-cycle-report
+Email Checksum + Verification-String Lookup,Coding,HackerRank,Easy,Intern; New grad,Software Engineer,2026-05,https://trueinterview.io/questions/oa-email-checksum-verification-string
+Feature Rollout with Dependency Cycle Detection,Coding,HackerRank,Medium,New grad,Software Engineer,2026-05,https://trueinterview.io/questions/oa-feature-rollout-dependency-cycle-report
 Collect Coins on 1D Board,Coding,,Medium,New grad; Mid,Software Engineer,2026-05,https://trueinterview.io/questions/oa-collect-coins-1d-board
 Largest Group Sharing a Digit,Coding,,Medium,New grad,Software Engineer,2026-05,https://trueinterview.io/questions/oa-group-two-digit-numbers-shared-digit
 Minimum Distance Between People and Cakes,Coding,,Easy,Mid,Software Engineer,2026-05,https://trueinterview.io/questions/google-minimum-distance-between-people-and-cakes
@@ -26,9 +26,9 @@ Range Updates Using Difference Array (Template Problem),Coding,,Easy,New grad,So
 Chunking with an Unsplittable Header,Coding,,Easy,New grad,Software Engineer,2026-03,https://trueinterview.io/questions/google-chunking-with-an-unsplittable-header
 Minimum Length Subarray with K Distinct Numbers,Coding,,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct
 Find largest group of two-digit numbers sharing digits,Coding,,Medium,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits
-Group Array,Coding,,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/19b3ac67-7f53-4497-9f89-93551984b216
-Maximum Coins Eaten,Coding,,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/6eca8cb0-2bbe-4bed-8e49-48257111c9b7
-Maximum Related Numbers,Coding,,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/19b56bf2-394c-4931-aabe-3c28383eb7a3
+Group Array,Coding,,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/google-group-array
+Maximum Coins Eaten,Coding,,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/google-maximum-coins-eaten
+Maximum Related Numbers,Coding,,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/google-maximum-related-numbers
 Segregate Binary String (Move Ones to End),Coding,,Easy,Mid,Quantitative Finance,2025-08,https://trueinterview.io/questions/segregate-binary-string-move-ones
 Analyze video flags and reviews with SQL,SQL,,Medium,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/analyze-video-flags-and-reviews-with-sql
 Find First Greater or Equal Element,Coding,,Easy,Mid,Software Engineer,,https://trueinterview.io/questions/google-find-first-greater-or-equal-element

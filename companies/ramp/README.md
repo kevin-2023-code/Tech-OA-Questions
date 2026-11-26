@@ -8,15 +8,15 @@
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
 | [Build a Wordle Guess Checker with Green, Yellow and Red Letter Feedback](https://trueinterview.io/questions/build-a-wordle-guess-checker-with-green-yellow-and-red-letter-feedback) | Coding | - | Medium | New grad, Mid | Frontend Engineer | 2026-09 |
 | [Task Management System II](https://trueinterview.io/questions/oa-task-management-system-2) | OOD / LLD | CodeSignal | Medium | New grad | Software Engineer | 2026-08 |
-| [Recipe Manager](https://trueinterview.io/questions/recipe-manager) | OOD / LLD | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-06 |
+| [Recipe Manager](https://trueinterview.io/questions/recipe-manager) | OOD / LLD | CodeSignal | Medium | New grad, Mid, Senior | Software Engineer | 2026-06 |
 | [Correct Bedroom Counts from Descriptions](https://trueinterview.io/questions/correct-bedroom-counts-from-descriptions) | Coding | - | Easy | Intern, New grad | Software Engineer | 2026-05 |
 | [Design a Task Assignment System](https://trueinterview.io/questions/design-a-task-assignment-system) | OOD / LLD | - | Medium | Mid, Senior | - | 2026-05 |
 | [Minimum Character Changes to Make Every k-Length Block a Palindrome](https://trueinterview.io/questions/minimum-character-changes-to-make-every-k-length-block-a-palindrome) | Coding | - | Medium | New grad | Software Engineer | 2026-03 |
-| [Frontend Hidden URL and React Wordle](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | OOD / LLD | - | Medium | New grad, Mid | Frontend Engineer | 2026-03 |
-| [In-Memory Banking System (4 Levels)](https://trueinterview.io/questions/oa-banking-system) | OOD / LLD | - | Medium | New grad, Mid, Senior | Backend Engineer | 2026-03 |
+| [Frontend Hidden URL and React Wordle](https://trueinterview.io/questions/frontend-challenge-dom-wordle) | OOD / LLD | CodeSignal | Medium | New grad, Mid | Frontend Engineer | 2026-03 |
+| [In-Memory Banking System (4 Levels)](https://trueinterview.io/questions/oa-banking-system) | OOD / LLD | CodeSignal | Medium | New grad, Mid, Senior | Backend Engineer | 2026-03 |
 | [Multi-Level Warehouse Storage with Weighted Retrieval](https://trueinterview.io/questions/multi-level-warehouse-storage-with-weighted-retrieval) | OOD / LLD | - | Hard | New grad, Mid, Senior | Software Engineer | 2026-02 |
 | [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization) | Coding | - | Easy | New grad | Software Engineer | 2026-02 |
 | [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Coding | - | Easy | New grad, Mid | Software Engineer | 2025-12 |
-| [Rate Limiter by IP Address](https://trueinterview.io/questions/rate-limiter-by-ip-address) | Coding | - | Medium | New grad, Mid | Backend Engineer | 2025-09 |
-| [Cloud Storage System](https://trueinterview.io/questions/cloud-storage-system) | Coding | - | Medium | New grad | Backend Engineer | 2025-08 |
+| [Rate Limiter by IP Address](https://trueinterview.io/questions/rate-limiter-by-ip-address) | Coding | CodeSignal | Medium | New grad, Mid | Backend Engineer | 2025-09 |
+| [Cloud Storage System](https://trueinterview.io/questions/cloud-storage-system) | Coding | CodeSignal | Medium | New grad | Backend Engineer | 2025-08 |
 | [Design In-memory Database with Backup](https://trueinterview.io/questions/design-in-memory-database-with-backup-2) | OOD / LLD | - | Easy | Intern, New grad, Mid | Backend Engineer | - |

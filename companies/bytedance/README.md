@@ -11,17 +11,17 @@
 | [Convert Identifier Naming in Docstrings](https://trueinterview.io/questions/bytedance-convert-identifier-naming-in-docstrings) | Coding | - | Medium | New grad | Software Engineer | 2026-09 |
 | [Count Cyclic Rotation Pairs](https://trueinterview.io/questions/bytedance-count-cyclic-rotation-pairs) | Coding | - | Medium | Intern, New grad | Software Engineer | 2026-09 |
 | [Find if a Path Exists in an Undirected Graph](https://trueinterview.io/questions/bytedance-find-if-a-path-exists-in-an-undirected-graph) | Coding | - | Medium | Senior | Software Engineer | 2026-09 |
-| [Plus One](https://trueinterview.io/questions/65c03f5a-0fe9-4f02-8d66-d34a3b8193fd) | Coding | - | Easy | Senior | Software Engineer | 2026-09 |
+| [Plus One](https://trueinterview.io/questions/bytedance-plus-one) | Coding | - | Easy | Senior | Software Engineer | 2026-09 |
 | [Reverse a Linked List](https://trueinterview.io/questions/microsoft-reverse-a-linked-list) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
 | [Time-Based Key-Value Store with Production Testing](https://trueinterview.io/questions/time-based-kv-store) | AI coding | - | Hard | Mid | Software Engineer | 2026-09 |
-| [Even Digit Count](https://trueinterview.io/questions/even-digit-count) | Coding | - | Easy | Mid | Software Engineer | 2026-08 |
+| [Even Digit Count](https://trueinterview.io/questions/even-digit-count) | Coding | CodeSignal | Easy | Mid | Software Engineer | 2026-08 |
 | [Determine Whether an Integer Is a Palindrome](https://trueinterview.io/questions/bytedance-determine-whether-an-integer-is-a-palindrome) | Coding | - | Easy | Mid | Software Engineer | 2026-07 |
 | [Equalize Server Latency](https://trueinterview.io/questions/bytedance-equalize-server-latency) | Coding | - | Hard | Mid | Software Engineer | 2026-07 |
 | [Longest Consecutive Login Days per User](https://trueinterview.io/questions/bytedance-longest-consecutive-login-days-per-user) | SQL | - | Medium | Mid | Data Scientist | 2026-07 |
-| [Matrix Border Sort & Clockwise Fill](https://trueinterview.io/questions/matrix-border-sort-clockwise-fill) | Coding | - | Medium | New grad | Software Engineer | 2026-07 |
-| [House Segments After Deletions](https://trueinterview.io/questions/house-segments-after-deletions) | Coding | - | Medium | New grad | Software Engineer | 2026-05 |
+| [Matrix Border Sort & Clockwise Fill](https://trueinterview.io/questions/matrix-border-sort-clockwise-fill) | Coding | CodeSignal | Medium | New grad | Software Engineer | 2026-07 |
+| [House Segments After Deletions](https://trueinterview.io/questions/house-segments-after-deletions) | Coding | CodeSignal | Medium | New grad | Software Engineer | 2026-05 |
 | [Semantic Similarity (Text Embedding + Cosine Similarity)](https://trueinterview.io/questions/bytedance-semantic-similarity-text-embedding-cosine-similarity) | Coding | - | Easy | Mid | AI Engineer | 2026-04 |
-| [Aligned Memory Allocator and Related Tasks](https://trueinterview.io/questions/codesignal-swe-oa-spring-2026) | Coding | - | Hard | New grad, Mid | Software Engineer | 2026-03 |
+| [Aligned Memory Allocator and Related Tasks](https://trueinterview.io/questions/codesignal-swe-oa-spring-2026) | Coding | CodeSignal | Hard | New grad, Mid | Software Engineer | 2026-03 |
 | [Drone Relay to Target](https://trueinterview.io/questions/codesignal-swe-oa-spring-2026-drone-relay-to-target) | Coding | - | Easy | Intern, New grad | Software Engineer | 2026-03 |
 | [Two-Direction Justified Newspaper Layout](https://trueinterview.io/questions/codesignal-swe-oa-spring-2026-two-direction-justified-newspaper-layout) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-03 |
 | [Case-insensitive adjacent differences](https://trueinterview.io/questions/implement-several-oa-simulation-problems-case-insensitive-adjacent-differences) | Coding | - | Easy | Intern, New grad, Mid | Data & AI | 2026-03 |
@@ -29,12 +29,12 @@
 | [Bagging from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-bagging-from-scratch) | Coding | - | Easy | New grad | Machine Learning Engineer | 2026-01 |
 | [k-Means from scratch](https://trueinterview.io/questions/codesignal-ml-rs-oa-k-means-from-scratch) | Coding | - | Medium | New grad | Machine Learning Engineer | 2026-01 |
 | [Local maximum on a 1-D stream](https://trueinterview.io/questions/codesignal-ml-rs-oa-local-maximum-on-a-1-d-stream) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2026-01 |
-| [ML Concepts and Coding Assessment](https://trueinterview.io/questions/codesignal-ml-rs-oa) | Coding | - | Hard | New grad | Machine Learning Engineer | 2026-01 |
+| [ML Concepts and Coding Assessment](https://trueinterview.io/questions/codesignal-ml-rs-oa) | Coding | CodeSignal | Hard | New grad | Machine Learning Engineer | 2026-01 |
 | [Minimum Cost to Reach Last Index (1 or 2 steps)](https://trueinterview.io/questions/bytedance-minimum-cost-to-reach-last-index-1-or-2-steps) | Coding | - | Easy | New grad | Software Engineer | 2026-01 |
 | [Array Partition](https://trueinterview.io/questions/bytedance-array-partition) | Coding | - | Easy | Mid | Software Engineer | 2025-12 |
 | [Remove Duplicates from Sorted Linked List](https://trueinterview.io/questions/bytedance-remove-duplicates-from-sorted-linked-list) | Coding | - | Easy | Mid | Software Engineer | 2025-02 |
 | [Count buggy vs non-buggy by employer](https://trueinterview.io/questions/count-buggy-vs-non-buggy-by-employer) | SQL | - | Medium | New grad, Mid, Senior | Data Scientist | - |
 | [Find Highest Salary In Each Department](https://trueinterview.io/questions/bytedance-find-highest-salary-in-each-department) | SQL | - | Medium | New grad, Mid, Senior | Data Scientist | - |
-| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
+| [Maximum Subarray](https://trueinterview.io/questions/apple-maximum-subarray) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
 | [SQL Query Session](https://trueinterview.io/questions/bytedance-sql-query-session) | SQL | - | Easy | Intern, New grad, Mid | Data Scientist | - |
 | [Task Scheduling](https://trueinterview.io/questions/bytedance-task-scheduling) | Coding | - | Easy | Intern, New grad | Backend Engineer | - |

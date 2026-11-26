@@ -6,12 +6,12 @@
 
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Laser Grid Robot Max Safe Run](https://trueinterview.io/questions/laser-grid-robot-max-safe-run) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2026-10 |
+| [Laser Grid Robot Max Safe Run](https://trueinterview.io/questions/laser-grid-robot-max-safe-run) | Coding | CodeSignal | Medium | Intern, New grad, Mid | Software Engineer | 2026-10 |
 | [Count Cyclic Rotation Pairs](https://trueinterview.io/questions/bytedance-count-cyclic-rotation-pairs) | Coding | - | Medium | Intern, New grad | Software Engineer | 2026-09 |
 | [File Chunk Range Tracking](https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges) | Coding | CodeSignal | Medium | Mid | Software Engineer | 2026-09 |
 | [Handle Release Risks and Cross-Team Blockers](https://trueinterview.io/questions/handle-release-risks-and-cross-team-blockers) | Behavioral / concept | - | - | Mid, Senior | Software Engineer | 2026-08 |
 | [Design Real-time Like Interation System](https://trueinterview.io/questions/design-like-unlike-favorite-system) | System design | - | Medium | Senior, Staff+ | Software Engineer | 2026-07 |
-| [Customized Programming Challenge for Roblox Business](https://trueinterview.io/questions/a391376f-4a36-466b-8e9a-3e9d95d82511) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
+| [Customized Programming Challenge for Roblox Business](https://trueinterview.io/questions/roblox-customized-programming-challenge-for-roblox-business) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
 | [Implement four DS coding tasks](https://trueinterview.io/questions/implement-four-ds-coding-tasks) | Coding | - | Hard | Mid, Senior | Data Scientist | 2025-10 |
 | [Design leakage-free predictive maintenance pipeline](https://trueinterview.io/questions/design-leakage-free-predictive-maintenance-pipeline) | System design | - | Hard | Senior, Staff+ | Data Scientist | - |
 | [Optimize the Space of Code in Coding Screen](https://trueinterview.io/questions/roblox-optimize-the-space-of-code-in-coding-screen) | Coding | - | Easy | New grad, Mid | Software Engineer | - |

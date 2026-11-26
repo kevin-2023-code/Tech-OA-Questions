@@ -6,11 +6,11 @@
 
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| [Linear Interpolation](https://trueinterview.io/questions/qr-oa-linear-interpolator) | Coding | - | Medium | New grad, Mid, Senior | Data Scientist | 2026-10 |
+| [Linear Interpolation](https://trueinterview.io/questions/qr-oa-linear-interpolator) | Coding | HackerRank | Medium | New grad, Mid, Senior | Data Scientist | 2026-10 |
 | [Prediction task](https://trueinterview.io/questions/analyze-temperatures-and-update-regression-prediction-task) | Coding | - | Medium | New grad, Mid, Senior | Data & AI | 2026-08 |
 | [Stock Max Profit (Single or Multiple Transactions)](https://trueinterview.io/questions/two-sigma-stock-max-profit-single-or-multiple-transactions) | Coding | - | Easy | Senior | Quantitative Finance | 2026-08 |
 | [Univariate OLS Regression Through Origin](https://trueinterview.io/questions/qr-oa-efficient-univariate-ols) | Coding | - | Medium | New grad, Mid, Senior | Data Scientist | 2026-08 |
-| [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine) | OOD / LLD | - | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-06 |
+| [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine) | OOD / LLD | HackerRank | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-06 |
 | [Maximum Throughput](https://trueinterview.io/questions/maximum-throughput) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
 | [NYC Temperature Regression Analysis](https://trueinterview.io/questions/qr-oa-nyc-temperature-regression) | Coding | HackerRank | Medium | New grad, Mid, Senior | Data Scientist | 2026-05 |
 | [Evaluate piecewise linear function at x](https://trueinterview.io/questions/evaluate-piecewise-linear-function-at-x) | Coding | - | Medium | New grad | Quantitative Finance | 2026-05 |

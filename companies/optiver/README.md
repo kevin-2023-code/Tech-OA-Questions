@@ -10,17 +10,17 @@
 | [Build Binary Tree from Edges / S-Expression](https://trueinterview.io/questions/binary-tree-from-edges) | Coding | - | Hard | New grad, Senior | Quantitative Finance | 2026-06 |
 | [Days Between Dates (Days Between 3.0 V2)](https://trueinterview.io/questions/optiver-days-between-dates-days-between-3-0-v2) | Coding | - | Medium | New grad, Mid | Quantitative Finance | 2026-06 |
 | [Number Logic — Sequence / Find the Pattern](https://trueinterview.io/questions/number-logic-sequence) | Behavioral / concept | - | - | Intern, New grad, Mid | Quantitative Finance | 2026-03 |
-| [Beat the Odds — Probability Test](https://trueinterview.io/questions/beat-the-odds-probability) | Behavioral / concept | - | - | Intern, New grad, Mid | Quantitative Finance | 2026-02 |
+| [Beat the Odds — Probability Test](https://trueinterview.io/questions/beat-the-odds-probability) | Behavioral / concept | HackerRank | - | Intern, New grad, Mid | Quantitative Finance | 2026-02 |
 | [Likelihood / Event-Ordering Test](https://trueinterview.io/questions/likelihood-ordering-test) | Behavioral / concept | - | - | New grad | Quantitative Finance | 2026-02 |
 | [Minimum Expected Asset Cost](https://trueinterview.io/questions/minimum-expected-asset-cost) | Coding | - | Hard | New grad, Mid | Quantitative Finance | 2026-02 |
 | [Target Stock Portfolio Operations](https://trueinterview.io/questions/target-stock-portfolio-operations) | Coding | - | Medium | Intern, New grad, Mid | Quantitative Finance | 2026-02 |
 | [Implement a Level-Aware Expiring Inventory Store](https://trueinterview.io/questions/implement-a-level-aware-expiring-inventory-store) | OOD / LLD | - | Medium | New grad, Mid, Senior | Software | 2026-02 |
 | [Compute probabilities and expectations in random processes](https://trueinterview.io/questions/compute-probabilities-and-expectations-in-random-processes) | Behavioral / concept | - | - | Intern, New grad | Quantitative Finance | 2026-02 |
 | [Implement a News Publishing System with Topic Subscriptions and Delivery Limits](https://trueinterview.io/questions/implement-a-news-publishing-system-with-topic-subscriptions-and-delivery-limits) | OOD / LLD | - | Medium | New grad | Software | 2025-11 |
-| [Order Book Matching Simulation](https://trueinterview.io/questions/order-book-matching) | Coding | - | Medium | New grad, Mid | Quantitative Finance | 2025-11 |
+| [Order Book Matching Simulation](https://trueinterview.io/questions/order-book-matching) | Coding | HackerRank | Medium | New grad, Mid | Quantitative Finance | 2025-11 |
 | [News Aggregation / Subscription System](https://trueinterview.io/questions/news-subscription-system) | OOD / LLD | - | Medium | New grad | Quantitative Finance | 2025-11 |
 | [Programming & Computer-System Knowledge Quiz](https://trueinterview.io/questions/coding-knowledge-test) | Behavioral / concept | - | - | New grad, Mid | Software Engineer | 2025-11 |
-| [Stock Transaction Sequence Counting (Catalan / DP)](https://trueinterview.io/questions/stock-transaction-counting) | Coding | - | Medium | New grad, Mid | Quantitative Finance | 2025-11 |
+| [Stock Transaction Sequence Counting (Catalan / DP)](https://trueinterview.io/questions/stock-transaction-counting) | Coding | HackerRank | Medium | New grad, Mid | Quantitative Finance | 2025-11 |
 | [Design Squirrel Nut Tracker](https://trueinterview.io/questions/squirrel-nut-storage) | OOD / LLD | - | Medium | Intern, New grad | Quantitative Finance | 2025-10 |
 | [Currency Arbitrage Detection](https://trueinterview.io/questions/currency-arbitrage-detection) | Coding | HackerRank | Hard | New grad | Quantitative Finance | 2025-10 |
 | [Hot Air Balloon Festival Simulation](https://trueinterview.io/questions/balloon-festival-simulation) | OOD / LLD | - | Medium | Intern, New grad, Mid | Quantitative Finance | 2025-09 |
