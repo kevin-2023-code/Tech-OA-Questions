@@ -114,8 +114,8 @@ COMPANY_LABELS: dict[str, str] = {
 
     # Transcribed from the site's web/lib/labels.ts (2026-11-26): the API names
     # only its 50 busiest companies, so every other employer is labelled here.
-    "c3.ai": "C3.ai",
-    "c3-ai": "C3.ai",
+    "c3.ai": "C3 AI",
+    "c3-ai": "C3 AI",
     "onemain-financial": "OneMain Financial",
     "u-s-bank": "U.S. Bank",
     "t-mobile": "T-Mobile",
