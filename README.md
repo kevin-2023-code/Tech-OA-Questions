@@ -62,7 +62,7 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [JPMorgan](companies/jpmorgan/README.md) | 12 | 2026-09 |
 | [Point72](companies/point72/README.md) | 12 | 2026-08 |
 | [Waymo](companies/waymo/README.md) | 11 | 2026-09 |
-| [C3.ai](companies/c3-ai/README.md) | 10 | 2026-10 |
+| [C3 AI](companies/c3-ai/README.md) | 10 | 2026-10 |
 | [Oracle](companies/oracle/README.md) | 10 | 2026-08 |
 | [Instacart](companies/instacart/README.md) | 9 | 2026-09 |
 | [OpenAI](companies/openai/README.md) | 9 | 2026-10 |

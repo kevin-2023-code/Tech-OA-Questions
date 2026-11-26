@@ -181,16 +181,16 @@ ByteDance; Capital One,Sort Cyclic Shift Absolute-Difference Costs,Coding,Easy,N
 ByteDance; Databricks; Roblox,Count Cyclic Rotation Pairs,Coding,Medium,Intern; New grad,Software Engineer,2026-09,https://trueinterview.io/questions/672dd86c-1610-5d71-be33-4c29e4d1387e
 ByteDance; Google,Determine Whether an Integer Is a Palindrome,Coding,Easy,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/7d106dbb-29a3-5a4f-ad22-8068feb4ecda
 ByteDance; Rubrik,Remove Duplicates from Sorted Linked List,Coding,Easy,Mid,Software Engineer,2025-02,https://trueinterview.io/questions/3e6892f9-8fb4-4bb3-b2e6-4182b5a25eed
-C3.ai,Can One k Always Maximize kNN Leave-One-Out Accuracy?,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/can-one-k-always-maximize-knn-leave-one-out-accuracy
-C3.ai,Choose a Parameter to Reduce Underfitting in Gradient-Boosted Trees,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/choose-a-parameter-to-reduce-underfitting-in-gradient-boosted-trees
-C3.ai,Compare How Models Respond to Multicollinearity,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/compare-how-models-respond-to-multicollinearity
-C3.ai,Evaluate Factual Accuracy and Consistency in a Domain-Specific RAG Chatbot,Behavioral / concept,,Mid; Senior,AI Engineer,2026-01,https://trueinterview.io/questions/evaluate-factual-accuracy-and-consistency-in-a-domain-specific-rag-chatbot
-C3.ai,Explain the Margin View of Boosting Classification,Behavioral / concept,,Intern; New grad,Data Scientist,2026-09,https://trueinterview.io/questions/explain-the-margin-view-of-boosting-classification
-C3.ai,Explain Training R-Squared After Adding a Random Feature,Behavioral / concept,,New grad; Mid; Senior,Data Scientist,2026-09,https://trueinterview.io/questions/explain-training-r-squared-after-adding-a-random-feature
-C3.ai,Find Sizes of Connected Components in Undirected Graph,Coding,Easy,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/af13d587-fd07-4ba9-b6f6-86a9f4b405ac
-C3.ai,Find the Most Likely Stopping Sum When Rolling a Die,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/find-the-most-likely-stopping-sum-when-rolling-a-die
-C3.ai,Identify What Does Not Fix Vanishing Gradients,Behavioral / concept,,New grad; Mid,Machine Learning Engineer,2026-09,https://trueinterview.io/questions/identify-what-does-not-fix-vanishing-gradients
-C3.ai,Star Sum: Best k-Star Sum in a Graph,Coding,Medium,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/oa-star-sum-best-k-star
+C3 AI,Can One k Always Maximize kNN Leave-One-Out Accuracy?,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/can-one-k-always-maximize-knn-leave-one-out-accuracy
+C3 AI,Choose a Parameter to Reduce Underfitting in Gradient-Boosted Trees,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/choose-a-parameter-to-reduce-underfitting-in-gradient-boosted-trees
+C3 AI,Compare How Models Respond to Multicollinearity,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/compare-how-models-respond-to-multicollinearity
+C3 AI,Evaluate Factual Accuracy and Consistency in a Domain-Specific RAG Chatbot,Behavioral / concept,,Mid; Senior,AI Engineer,2026-01,https://trueinterview.io/questions/evaluate-factual-accuracy-and-consistency-in-a-domain-specific-rag-chatbot
+C3 AI,Explain the Margin View of Boosting Classification,Behavioral / concept,,Intern; New grad,Data Scientist,2026-09,https://trueinterview.io/questions/explain-the-margin-view-of-boosting-classification
+C3 AI,Explain Training R-Squared After Adding a Random Feature,Behavioral / concept,,New grad; Mid; Senior,Data Scientist,2026-09,https://trueinterview.io/questions/explain-training-r-squared-after-adding-a-random-feature
+C3 AI,Find Sizes of Connected Components in Undirected Graph,Coding,Easy,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/af13d587-fd07-4ba9-b6f6-86a9f4b405ac
+C3 AI,Find the Most Likely Stopping Sum When Rolling a Die,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/find-the-most-likely-stopping-sum-when-rolling-a-die
+C3 AI,Identify What Does Not Fix Vanishing Gradients,Behavioral / concept,,New grad; Mid,Machine Learning Engineer,2026-09,https://trueinterview.io/questions/identify-what-does-not-fix-vanishing-gradients
+C3 AI,Star Sum: Best k-Star Sum in a Graph,Coding,Medium,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/oa-star-sum-best-k-star
 Capital One,Aggregate exam scores with NULL handling,SQL,Medium,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/aggregate-exam-scores-with-null-handling
 Capital One,AP Replacement Rounds,Coding,Medium,Intern; New grad,Software Engineer,2026-01,https://trueinterview.io/questions/ap-replacement-rounds
 Capital One,Apply Leakage-Safe Imputation and Ordinal Encoding,Behavioral / concept,,Mid; Senior,Data Scientist,2026-08,https://trueinterview.io/questions/apply-leakage-safe-imputation-and-ordinal-encoding
