@@ -95,7 +95,7 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [ElevenLabs](companies/elevenlabs/README.md) | 3 | 2026-09 |
 | [GEICO](companies/geico/README.md) | 3 | 2026-05 |
 | [Luma AI](companies/luma-ai/README.md) | 3 | 2026-06 |
-| [Mathworks](companies/mathworks/README.md) | 3 | 2026-10 |
+| [MathWorks](companies/mathworks/README.md) | 3 | 2026-10 |
 | [PayPal](companies/paypal/README.md) | 3 | 2026-09 |
 | [Perplexity](companies/perplexity/README.md) | 3 | 2026-04 |
 | [Scale AI](companies/scale-ai/README.md) | 3 | 2026-10 |
@@ -113,17 +113,17 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [Rippling](companies/rippling/README.md) | 2 | 2025-11 |
 | [Rubrik](companies/rubrik/README.md) | 2 | 2025-02 |
 | [Vanta](companies/vanta/README.md) | 2 | 2026-07 |
-| [Wex](companies/wex/README.md) | 2 | 2026-09 |
+| [WEX](companies/wex/README.md) | 2 | 2026-09 |
 | [xAI](companies/xai/README.md) | 2 | 2026-04 |
 | [Airwallex](companies/airwallex/README.md) | 1 | 2026-09 |
-| [Aqr](companies/aqr/README.md) | 1 | 2026-10 |
+| [AQR](companies/aqr/README.md) | 1 | 2026-10 |
 | [Block](companies/block/README.md) | 1 | - |
 | [Bobyard](companies/bobyard/README.md) | 1 | 2026-04 |
 | [Brex](companies/brex/README.md) | 1 | 2026-09 |
 | [Dropbox](companies/dropbox/README.md) | 1 | 2025-11 |
 | [Ethos](companies/ethos/README.md) | 1 | 2026-08 |
 | [Faire](companies/faire/README.md) | 1 | 2022-04 |
-| [Falconx](companies/falconx/README.md) | 1 | 2026-09 |
+| [FalconX](companies/falconx/README.md) | 1 | 2026-09 |
 | [Figma](companies/figma/README.md) | 1 | 2026-08 |
 | [Harvey](companies/harvey/README.md) | 1 | 2026-07 |
 | [Houzz](companies/houzz/README.md) | 1 | 2026-09 |
@@ -139,7 +139,7 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [Verkada](companies/verkada/README.md) | 1 | 2026-08 |
 | [Voleon](companies/voleon/README.md) | 1 | 2026-08 |
 | [Wayfair](companies/wayfair/README.md) | 1 | 2026-02 |
-| [Ziprecruiter](companies/ziprecruiter/README.md) | 1 | 2025-10 |
+| [ZipRecruiter](companies/ziprecruiter/README.md) | 1 | 2025-10 |
 
 ## Contributing
 
