@@ -162,6 +162,13 @@ COMPANY_LABELS: dict[str, str] = {
     "rapidsos": "RapidSOS",
     "socialpilot": "SocialPilot",
     "taskrabbit": "TaskRabbit",
+    # 2026-11-26: these five move the company folder too (atandt -> at-and-t ...),
+    # matching the site, whose old company URLs redirect to the new slug.
+    "atandt": "AT&T",
+    "deshaw": "D. E. Shaw",
+    "generalmotors": "General Motors",
+    "sigmacomputing": "Sigma Computing",
+    "tradedesk": "The Trade Desk",
 }
 
 # Practice formats, in the order every navigation block prints them. The order is
