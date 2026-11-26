@@ -74,7 +74,7 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [HubSpot](companies/hubspot/README.md) | 7 | 2026-06 |
 | [Intuit](companies/intuit/README.md) | 7 | 2026-01 |
 | [Tesla](companies/tesla/README.md) | 6 | 2026-06 |
-| [Tradedesk](companies/tradedesk/README.md) | 6 | 2026-08 |
+| [The Trade Desk](companies/the-trade-desk/README.md) | 6 | 2026-08 |
 | [Walmart Labs](companies/walmart-labs/README.md) | 6 | 2026-07 |
 | [Abridge](companies/abridge/README.md) | 5 | 2026-10 |
 | [Databricks](companies/databricks/README.md) | 5 | 2026-10 |
