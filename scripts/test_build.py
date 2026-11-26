@@ -57,7 +57,8 @@ def snapshot():
     return {
         "questions": [
             # OA rows.
-            q("order-book", ["citadel"], seniority=["senior"], roles=["Quantitative Finance"], titles=[], reported="2026-10-01", difficulty="hard"),
+            q("order-book", ["citadel"], seniority=["senior"], roles=["Quantitative Finance"], titles=[], reported="2026-10-01", difficulty="hard",
+              oaPlatform="HackerRank"),
             q("dice-game", ["citadel"], seniority=["junior"], roles=["Quantitative Finance"], titles=[], reported="2026-07-02"),
             q("lru-cache", ["amazon", "microsoft"], seniority=["new-grad", "junior"], reported="2026-05-05", last="2026-09"),
             q("sql-funnel", ["amazon"], seniority=["senior"], roles=["Data & AI"], titles=["Data Scientist"], type_="sql", last="2026-08"),
@@ -118,8 +119,8 @@ class OnlyOA(unittest.TestCase):
 class CompanyFiles(unittest.TestCase):
     def test_csv_columns(self):
         rows = rows_of(render()["companies/citadel/oa.csv"])
-        self.assertEqual(rows[0], ["Title", "Format", "Difficulty", "Level", "Role", "Last Reported", "Link"])
-        self.assertEqual(rows[1], ["Order Book", "Coding", "Hard", "Senior", "Quantitative Finance", "2026-10", "https://trueinterview.io/questions/order-book"])
+        self.assertEqual(rows[0], ["Title", "Format", "Platform", "Difficulty", "Level", "Role", "Last Reported", "Link"])
+        self.assertEqual(rows[1], ["Order Book", "Coding", "HackerRank", "Hard", "Senior", "Quantitative Finance", "2026-10", "https://trueinterview.io/questions/order-book"])
 
     def test_newest_first_in_table_and_csv(self):
         files = render()
@@ -131,29 +132,29 @@ class CompanyFiles(unittest.TestCase):
 
     def test_a_later_report_month_wins_over_the_first_report(self):
         rows = rows_of(render()["companies/amazon/oa.csv"])
-        self.assertEqual(rows[1][5], "2026-09")
+        self.assertEqual(rows[1][6], "2026-09")
 
     def test_levels_render_in_ladder_order(self):
         rows = rows_of(render()["companies/amazon/oa.csv"])
-        self.assertEqual(rows[1][3], "New grad; Mid")
+        self.assertEqual(rows[1][4], "New grad; Mid")
 
     def test_role_is_the_title_or_else_the_group_never_invented(self):
         files = render()
-        self.assertEqual(rows_of(files["companies/amazon/oa.csv"])[2][4], "Data Scientist")
-        self.assertEqual(rows_of(files["companies/citadel/oa.csv"])[1][4], "Quantitative Finance")
+        self.assertEqual(rows_of(files["companies/amazon/oa.csv"])[2][5], "Data Scientist")
+        self.assertEqual(rows_of(files["companies/citadel/oa.csv"])[1][5], "Quantitative Finance")
         snap = snapshot()
         snap["questions"] = [q("bare", ["acme"], roles=[], titles=[])]
-        self.assertEqual(rows_of(render(snap)["companies/acme/oa.csv"])[1][3:6], ["", "", ""])
+        self.assertEqual(rows_of(render(snap)["companies/acme/oa.csv"])[1][4:7], ["", "", ""])
 
     def test_missing_values_stay_empty(self):
         row = next(r for r in rows_of(render()["companies/amazon/oa.csv"]) if r[0] == "Tell Me Why")
-        self.assertEqual(row[1:4], ["Behavioral / concept", "", ""])
-        self.assertIn("| Behavioral / concept | - | - |", render()["companies/amazon/README.md"])
+        self.assertEqual(row[1:5], ["Behavioral / concept", "", "", ""])
+        self.assertIn("| Behavioral / concept | - | - | - |", render()["companies/amazon/README.md"])
 
     def test_future_and_undated_rows_sort_last_and_carry_no_date(self):
         rows = rows_of(render()["companies/stripe/oa.csv"])[1:]
         self.assertEqual([r[0] for r in rows], ["Rate Limiter", "Undated"])
-        self.assertEqual([r[5] for r in rows], ["", ""])
+        self.assertEqual([r[6] for r in rows], ["", ""])
 
     def test_table_cells_are_escaped(self):
         page = render()["companies/acme-widgets/README.md"]
@@ -199,7 +200,7 @@ class Data(unittest.TestCase):
         rows = rows_of(render()["data/questions.csv"])
         self.assertEqual(rows[0], ["Company", *build.COLUMNS])
         self.assertEqual(len(rows) - 1, 10)
-        self.assertIn(["Amazon; Microsoft", "Lru Cache", "Coding", "Medium", "New grad; Mid", "Software Engineer", "2026-09",
+        self.assertIn(["Amazon; Microsoft", "Lru Cache", "Coding", "", "Medium", "New grad; Mid", "Software Engineer", "2026-09",
                        "https://trueinterview.io/questions/lru-cache"], rows)
 
     def test_a_question_with_no_company_is_in_the_data_and_in_no_folder(self):
@@ -212,6 +213,37 @@ class Data(unittest.TestCase):
         self.assertEqual(len(lines), 10)
         for line in lines:
             self.assertEqual(sorted(json.loads(line)), sorted(("company", *build.FIELDS)))
+
+
+class Platform(unittest.TestCase):
+    def test_platform_renders_in_table_csv_and_jsonl(self):
+        files = render()
+        self.assertIn("| Coding | HackerRank | Hard |", files["companies/citadel/README.md"])
+        row = next(r for r in rows_of(files["data/questions.csv"]) if r[1] == "Order Book")
+        self.assertEqual(row[3], "HackerRank")
+        line = next(json.loads(x) for x in files["data/questions.jsonl"].splitlines() if "Order Book" in x)
+        self.assertEqual(line["platform"], "HackerRank")
+
+    def test_a_catalog_without_the_field_still_renders_with_the_column_empty(self):
+        # The API ships `oaPlatform` after this repository learns to read it: the
+        # hourly sync must keep working on a catalog that has no such key at all.
+        snap = snapshot()
+        for row in snap["questions"]:
+            row.pop("oaPlatform", None)
+        api.check_questions(snap["questions"])
+        rows = rows_of(render(snap)["companies/citadel/oa.csv"])
+        self.assertEqual(rows[0][2], "Platform")
+        self.assertEqual({r[2] for r in rows[1:]}, {""})
+
+    def test_null_and_junk_values_read_as_unknown(self):
+        for value in (None, "", "   ", 7, ["HackerRank"], "x" * 41):
+            self.assertIsNone(model.parse_platform(value), value)
+        self.assertEqual(model.parse_platform("  Code  Signal "), "Code Signal")
+
+    def test_platform_is_escaped_in_the_table(self):
+        snap = snapshot()
+        snap["questions"] = [q("weird", ["acme"], oaPlatform="Hacker|Rank")]
+        self.assertIn("Hacker\\|Rank", render(snap)["companies/acme/README.md"])
 
 
 class Safety(unittest.TestCase):

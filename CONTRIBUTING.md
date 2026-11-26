@@ -37,6 +37,10 @@ The fix is made in the catalog and arrives here by itself.
   rows, newest first. `data/questions.csv` and `data/questions.jsonl` hold every row.
 - Level and role are the catalog's own fields (`seniority`, `roleTitles`, `roles`).
   A value the catalog does not publish is left empty, never guessed.
+- Platform is the catalog's `oaPlatform`: the assessment platform (HackerRank,
+  CodeSignal, Codility, ...) a candidate's report names. It is empty when no report
+  names one, and the column stays empty, rather than failing, on a catalog that does
+  not carry the field.
 
 ## Running it locally
 

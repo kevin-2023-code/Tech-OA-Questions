@@ -38,11 +38,11 @@ README_MAX_BYTES = 60_000
 PAGE_MAX_BYTES = 400_000
 
 #: The columns of every CSV, in order. ``data/questions.csv`` puts COMPANY_COLUMN first.
-COLUMNS = ("Title", "Format", "Difficulty", "Level", "Role", "Last Reported", "Link")
+COLUMNS = ("Title", "Format", "Platform", "Difficulty", "Level", "Role", "Last Reported", "Link")
 COMPANY_COLUMN = "Company"
 
 #: The keys of :func:`record`, in the order of COLUMNS.
-FIELDS = ("title", "format", "difficulty", "level", "role", "last_reported", "link")
+FIELDS = ("title", "format", "platform", "difficulty", "level", "role", "last_reported", "link")
 
 
 # ── Cells ────────────────────────────────────────────────────────────────────
@@ -75,6 +75,7 @@ def record(q: Question, today: date) -> dict:
     return {
         "title": q.title,
         "format": FORMAT_SHORT.get(q.format, q.format),
+        "platform": q.platform or "",
         "difficulty": DIFFICULTY_SHORT.get(q.difficulty or "", q.difficulty or ""),
         "level": [LEVEL_SHORT[level] for level in q.levels],
         "role": list(role_values(q)),
@@ -129,14 +130,15 @@ def build_company(name: str, rows: list[Question], today: date) -> dict[str, str
         f"{num(len(rows))} online assessment question{'' if len(rows) == 1 else 's'} reported at {esc(name)}, newest first. "
         "The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).",
         "",
-        "| Title | Format | Difficulty | Level | Role | Last Reported |",
-        "| :-- | :-- | :-- | :-- | :-- | :-- |",
+        "| Title | Format | Platform | Difficulty | Level | Role | Last Reported |",
+        "| :-- | :-- | :-- | :-- | :-- | :-- | :-- |",
     ]
     for q in rows:
         r = record(q, today)
         cells = [
             f"[{esc(r['title'])}]({r['link']})",
             esc(r["format"]),
+            esc(r["platform"]),
             r["difficulty"],
             ", ".join(r["level"]),
             esc(", ".join(r["role"])),
@@ -182,6 +184,7 @@ def build_readme(questions: list[Question], groups: dict[str, tuple[str, list[Qu
         "",
         "- **Title**: the question title, linked to its page.",
         "- **Format**: Coding, SQL, OOD / LLD, System design, AI coding, or Behavioral / concept.",
+        "- **Platform**: the assessment platform it was given on (HackerRank, CodeSignal, Codility, ...), when a candidate's report names it. Empty when no report does.",
         "- **Difficulty**: Easy, Medium or Hard. Empty for formats that have no difficulty.",
         "- **Level**: the levels it was reported at (Intern, New grad, Mid, Senior, Staff+, Manager).",
         "- **Role**: the role it was reported for.",
