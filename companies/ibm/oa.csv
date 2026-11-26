@@ -1,24 +1,24 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Customers with High Average Resource Usage,SQL,Easy,New grad,Data Scientist,2026-10,https://trueinterview.io/questions/sql-high-average-resource-usage
-Maximum Concurrent Processes / Meeting Rooms,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/maximum-concurrent-processes
-"Six Timed Behavioral Prompts: AI Tools, Debugging, Teamwork, Explaining, Goals, Quality",Behavioral / concept,,New grad; Mid,Software Engineer,2026-09,https://trueinterview.io/questions/six-timed-behavioral-prompts-ai-tools-debugging-teamwork-explaining-goals-quality
-VM Rental Revenue from Changing Stock,Coding,Medium,New grad; Mid,Software Engineer,2026-09,https://trueinterview.io/questions/vm-rental-revenue
-Minimum Replacements for Adjacent Duplicate Characters,Coding,Medium,New grad; Mid,Software Engineer,2026-08,https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates
-Card Packets with Identical Distribution,Coding,Medium,Intern; New grad,Software Engineer,2026-05,https://trueinterview.io/questions/card-packets-with-identical-distribution
-Count 3^x * 5^y Numbers and Decreasing Subarrays,Coding,Medium,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa
-Count strictly decreasing-by-1 subarrays of length at least 2,Coding,Easy,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16
-Maximum Number of Palindromic Strings,Coding,Medium,New grad,Software Engineer,2026-03,https://trueinterview.io/questions/maximum-palindromic-strings
-Minimum Length Subarray with K Distinct Numbers,Coding,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct
-Reverse Last Two Characters with a Space,Coding,Easy,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/aed17c65-c5b3-4e56-a00d-9edbfd9f0f59
-JSON Prediction Diff,Coding,Easy,Intern; New grad,Software Engineer,2025-11,https://trueinterview.io/questions/json-prediction-diff
-Minimum Insertions to Form Repeated abc Pattern,Coding,Easy,New grad,Software Engineer,2025-11,https://trueinterview.io/questions/minimum-insertions-to-abc-pattern
-Process Execution Time (Merge Inclusive Intervals),Coding,Medium,Mid,Software Engineer,2025-11,https://trueinterview.io/questions/process-execution-time-merge-intervals
-Frontend CSS Flexbox Layout Task,OOD / LLD,Easy,,Data & AI; Software,2025-10,https://trueinterview.io/questions/frontend-css-flexbox-layout
-Find minimum operations to make array sorted,Coding,Hard,Mid; Senior,Software Engineer,2025-10,https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted
-Rate Limiter by IP Address,Coding,Medium,New grad; Mid,Backend Engineer,2025-09,https://trueinterview.io/questions/rate-limiter-by-ip-address
-Minimum Link Reallocation to Connect Repositories,Coding,Medium,New grad,Software Engineer,2025-09,https://trueinterview.io/questions/minimum-link-reallocation
-Earliest Coordinate Reach with Optional Moves,Coding,Medium,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/earliest-coordinate-reach-with-optional-moves
-Sliding-Window Rate Limiter / Abuse IP Detection,Coding,Medium,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/sliding-window-rate-limiter-and-abuse-ips
-Max Distinct Counts After Splitting Array,Coding,Medium,New grad; Mid,Software Engineer,2025-07,https://trueinterview.io/questions/distinct-count-split
-Minimum Removal Rounds by Smallest Response Time,Coding,Medium,New grad; Mid,Software Engineer,2025-07,https://trueinterview.io/questions/minimum-removal-rounds-by-smallest-response-time
-Minimum Add to Make Parentheses Valid,Coding,Easy,Mid,Software Engineer,,https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Customers with High Average Resource Usage,SQL,,Easy,New grad,Data Scientist,2026-10,https://trueinterview.io/questions/sql-high-average-resource-usage
+Maximum Concurrent Processes / Meeting Rooms,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/maximum-concurrent-processes
+"Six Timed Behavioral Prompts: AI Tools, Debugging, Teamwork, Explaining, Goals, Quality",Behavioral / concept,,,New grad; Mid,Software Engineer,2026-09,https://trueinterview.io/questions/six-timed-behavioral-prompts-ai-tools-debugging-teamwork-explaining-goals-quality
+VM Rental Revenue from Changing Stock,Coding,,Medium,New grad; Mid,Software Engineer,2026-09,https://trueinterview.io/questions/vm-rental-revenue
+Minimum Replacements for Adjacent Duplicate Characters,Coding,HackerRank,Medium,New grad; Mid,Software Engineer,2026-08,https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates
+Card Packets with Identical Distribution,Coding,,Medium,Intern; New grad,Software Engineer,2026-05,https://trueinterview.io/questions/card-packets-with-identical-distribution
+Count 3^x * 5^y Numbers and Decreasing Subarrays,Coding,,Medium,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa
+Count strictly decreasing-by-1 subarrays of length at least 2,Coding,,Easy,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/ibm-count-strictly-decreasing-by-1-subarrays-of-length-at-least-2
+Maximum Number of Palindromic Strings,Coding,,Medium,New grad,Software Engineer,2026-03,https://trueinterview.io/questions/maximum-palindromic-strings
+Minimum Length Subarray with K Distinct Numbers,Coding,,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct
+Reverse Last Two Characters with a Space,Coding,,Easy,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/ibm-reverse-last-two-characters-with-a-space
+JSON Prediction Diff,Coding,,Easy,Intern; New grad,Software Engineer,2025-11,https://trueinterview.io/questions/json-prediction-diff
+Minimum Insertions to Form Repeated abc Pattern,Coding,,Easy,New grad,Software Engineer,2025-11,https://trueinterview.io/questions/minimum-insertions-to-abc-pattern
+Process Execution Time (Merge Inclusive Intervals),Coding,,Medium,Mid,Software Engineer,2025-11,https://trueinterview.io/questions/process-execution-time-merge-intervals
+Frontend CSS Flexbox Layout Task,OOD / LLD,,Easy,,Data & AI; Software,2025-10,https://trueinterview.io/questions/frontend-css-flexbox-layout
+Find minimum operations to make array sorted,Coding,,Hard,Mid; Senior,Software Engineer,2025-10,https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted
+Rate Limiter by IP Address,Coding,,Medium,New grad; Mid,Backend Engineer,2025-09,https://trueinterview.io/questions/rate-limiter-by-ip-address
+Minimum Link Reallocation to Connect Repositories,Coding,,Medium,New grad,Software Engineer,2025-09,https://trueinterview.io/questions/minimum-link-reallocation
+Earliest Coordinate Reach with Optional Moves,Coding,,Medium,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/earliest-coordinate-reach-with-optional-moves
+Sliding-Window Rate Limiter / Abuse IP Detection,Coding,,Medium,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/sliding-window-rate-limiter-and-abuse-ips
+Max Distinct Counts After Splitting Array,Coding,,Medium,New grad; Mid,Software Engineer,2025-07,https://trueinterview.io/questions/distinct-count-split
+Minimum Removal Rounds by Smallest Response Time,Coding,,Medium,New grad; Mid,Software Engineer,2025-07,https://trueinterview.io/questions/minimum-removal-rounds-by-smallest-response-time
+Minimum Add to Make Parentheses Valid,Coding,,Easy,Mid,Software Engineer,,https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de

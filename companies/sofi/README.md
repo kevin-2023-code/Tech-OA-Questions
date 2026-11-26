@@ -4,9 +4,9 @@
 
 4 online assessment questions reported at SoFi, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Second Most Frequent Tag from Flattened Triples](https://trueinterview.io/questions/e89bef94-d185-481f-94fe-b1ad86364481) | Coding | Easy | Mid, Senior | Software Engineer | 2026-03 |
-| [Count Same-Bit Numbers](https://trueinterview.io/questions/count-same-bit-numbers) | Coding | Medium | New grad | Software Engineer | 2026-01 |
-| [Maximum Positive Prefixes](https://trueinterview.io/questions/maximum-positive-prefixes) | Coding | Medium | New grad | Software Engineer | 2026-01 |
-| [Maximum Occurring Character](https://trueinterview.io/questions/d73e4ed1-1ee4-479c-955e-249baf81ac1d) | Coding | Easy | New grad | Software Engineer | 2026-01 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Second Most Frequent Tag from Flattened Triples](https://trueinterview.io/questions/sofi-second-most-frequent-tag-from-flattened-triples) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-03 |
+| [Count Same-Bit Numbers](https://trueinterview.io/questions/count-same-bit-numbers) | Coding | - | Medium | New grad | Software Engineer | 2026-01 |
+| [Maximum Positive Prefixes](https://trueinterview.io/questions/maximum-positive-prefixes) | Coding | - | Medium | New grad | Software Engineer | 2026-01 |
+| [Maximum Occurring Character](https://trueinterview.io/questions/sofi-maximum-occurring-character) | Coding | - | Easy | New grad | Software Engineer | 2026-01 |

@@ -4,23 +4,23 @@
 
 18 online assessment questions reported at Coinbase, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Bank System](https://trueinterview.io/questions/bank-system) | OOD / LLD | Hard | Mid | Backend Engineer | 2026-09 |
-| [Build Task Management Through Records, Search, Assignment, and Completion](https://trueinterview.io/questions/build-task-management-through-records-search-assignment-and-completion) | OOD / LLD | Medium | Mid | Software Engineer | 2026-09 |
-| [Recipe Manager](https://trueinterview.io/questions/recipe-manager) | OOD / LLD | Medium | New grad, Mid, Senior | Software Engineer | 2026-06 |
-| [Design a Task Assignment System](https://trueinterview.io/questions/design-a-task-assignment-system) | OOD / LLD | Medium | Mid, Senior | - | 2026-05 |
-| [Flappy Bird Jump Strategy](https://trueinterview.io/questions/flappy-bird-jump-strategy) | Coding | Easy | New grad, Mid | Software Engineer | 2026-05 |
-| [Worker Salary](https://trueinterview.io/questions/worker-salary-oa) | OOD / LLD | Medium | Senior | Software Engineer | 2026-05 |
-| [Longest Run of Identical Characters](https://trueinterview.io/questions/ee3f373d-6a1f-5751-b6f7-d7f4577b6670) | Coding | Easy | New grad, Mid | Software Engineer | 2026-05 |
-| [Implement an In-Memory Database](https://trueinterview.io/questions/implement-an-in-memory-database-2) | Coding | Hard | New grad, Mid, Senior | Backend Engineer | 2026-04 |
-| [In-Memory Database](https://trueinterview.io/questions/in-memory-database) | OOD / LLD | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Flappy-Bird-like Autopilot With Coins as Jump Budget](https://trueinterview.io/questions/bb1c3959-faaf-438a-b87a-d07fb13b9668) | AI coding | Medium | New grad | Software Engineer | 2026-04 |
-| [Render Blog Posts (Multi-Stage CodeSignal)](https://trueinterview.io/questions/fe-render-blog-posts-oa) | AI coding | Medium | New grad | Frontend Engineer | 2026-03 |
-| [ML Concepts and Coding Assessment](https://trueinterview.io/questions/mle-codesignal-oa) | Coding | Medium | New grad, Mid, Senior | Machine Learning Engineer | 2026-02 |
-| [Design an in-memory database with TTL and backups](https://trueinterview.io/questions/design-an-in-memory-database-with-ttl-and-backups) | OOD / LLD | Hard | New grad | Backend Engineer | 2025-12 |
-| [Execution Task with Promise Chains](https://trueinterview.io/questions/7296b5d5-6b1c-4ff1-ae43-012cb3886ad1) | Coding | Easy | Mid | Frontend Engineer | 2025-12 |
-| [Snippet Vault](https://trueinterview.io/questions/snippet-vault) | OOD / LLD | Medium | New grad | Backend Engineer | 2025-12 |
-| [Design In-memory Database with Backup](https://trueinterview.io/questions/design-in-memory-database-with-backup-2) | OOD / LLD | Easy | Intern, New grad, Mid | Backend Engineer | - |
-| [Longest Consecutive Character in String](https://trueinterview.io/questions/ae5833c1-2569-4d9e-ae07-7087514da7f6) | Coding | Easy | Mid | Software Engineer | - |
-| [Task Management System III](https://trueinterview.io/questions/task-management-system) | OOD / LLD | Medium | New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Bank System](https://trueinterview.io/questions/bank-system) | OOD / LLD | - | Hard | Mid | Backend Engineer | 2026-09 |
+| [Build Task Management Through Records, Search, Assignment, and Completion](https://trueinterview.io/questions/build-task-management-through-records-search-assignment-and-completion) | OOD / LLD | - | Medium | Mid | Software Engineer | 2026-09 |
+| [Recipe Manager](https://trueinterview.io/questions/recipe-manager) | OOD / LLD | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-06 |
+| [Design a Task Assignment System](https://trueinterview.io/questions/design-a-task-assignment-system) | OOD / LLD | - | Medium | Mid, Senior | - | 2026-05 |
+| [Flappy Bird Jump Strategy](https://trueinterview.io/questions/flappy-bird-jump-strategy) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-05 |
+| [Worker Salary](https://trueinterview.io/questions/worker-salary-oa) | OOD / LLD | - | Medium | Senior | Software Engineer | 2026-05 |
+| [Longest Run of Identical Characters](https://trueinterview.io/questions/netflix-longest-run-of-identical-characters) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-05 |
+| [Implement an In-Memory Database](https://trueinterview.io/questions/implement-an-in-memory-database-2) | Coding | - | Hard | New grad, Mid, Senior | Backend Engineer | 2026-04 |
+| [In-Memory Database](https://trueinterview.io/questions/in-memory-database) | OOD / LLD | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
+| [Flappy-Bird-like Autopilot With Coins as Jump Budget](https://trueinterview.io/questions/bb1c3959-faaf-438a-b87a-d07fb13b9668) | AI coding | - | Medium | New grad | Software Engineer | 2026-04 |
+| [Render Blog Posts (Multi-Stage CodeSignal)](https://trueinterview.io/questions/fe-render-blog-posts-oa) | AI coding | - | Medium | New grad | Frontend Engineer | 2026-03 |
+| [ML Concepts and Coding Assessment](https://trueinterview.io/questions/mle-codesignal-oa) | Coding | - | Medium | New grad, Mid, Senior | Machine Learning Engineer | 2026-02 |
+| [Design an in-memory database with TTL and backups](https://trueinterview.io/questions/design-an-in-memory-database-with-ttl-and-backups) | OOD / LLD | - | Hard | New grad | Backend Engineer | 2025-12 |
+| [Execution Task with Promise Chains](https://trueinterview.io/questions/7296b5d5-6b1c-4ff1-ae43-012cb3886ad1) | Coding | - | Easy | Mid | Frontend Engineer | 2025-12 |
+| [Snippet Vault](https://trueinterview.io/questions/snippet-vault) | OOD / LLD | - | Medium | New grad | Backend Engineer | 2025-12 |
+| [Design In-memory Database with Backup](https://trueinterview.io/questions/design-in-memory-database-with-backup-2) | OOD / LLD | - | Easy | Intern, New grad, Mid | Backend Engineer | - |
+| [Longest Consecutive Character in String](https://trueinterview.io/questions/ae5833c1-2569-4d9e-ae07-7087514da7f6) | Coding | - | Easy | Mid | Software Engineer | - |
+| [Task Management System III](https://trueinterview.io/questions/task-management-system) | OOD / LLD | - | Medium | New grad, Mid | Software Engineer | - |

@@ -4,9 +4,9 @@
 
 4 online assessment questions reported at NVIDIA, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Coding | Easy | New grad, Mid | Software Engineer | 2026-08 |
-| [Python Data Processing Task (Parse, Aggregate, and Validate)](https://trueinterview.io/questions/3a714999-40ed-4da6-b12f-d0addf376068) | Coding | Easy | Mid | Data Scientist | 2026-02 |
-| [Log Parser for Top N Items](https://trueinterview.io/questions/7c107386-3c24-4acd-9385-b7d274fca67b) | Coding | Easy | Mid | Software Engineer | - |
-| [SQL Aggregation Across Country/State/City/Zip Tables](https://trueinterview.io/questions/53506fd0-9b04-40be-a6f6-eb349d9f220a) | SQL | Easy | Intern, New grad, Mid | Data Scientist | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-08 |
+| [Python Data Processing Task (Parse, Aggregate, and Validate)](https://trueinterview.io/questions/nvidia-python-data-processing-task-parse-aggregate-and-validate) | Coding | - | Easy | Mid | Data Scientist | 2026-02 |
+| [Log Parser for Top N Items](https://trueinterview.io/questions/nvidia-log-parser-for-top-n-items) | Coding | - | Easy | Mid | Software Engineer | - |
+| [SQL Aggregation Across Country/State/City/Zip Tables](https://trueinterview.io/questions/nvidia-sql-aggregation-across-country-state-city-zip-tables) | SQL | - | Easy | Intern, New grad, Mid | Data Scientist | - |

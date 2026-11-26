@@ -4,9 +4,9 @@
 
 4 online assessment questions reported at Cresta, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Count the Leaves Left on a Grid After a Sequence of Wind Gusts](https://trueinterview.io/questions/count-the-leaves-left-on-a-grid-after-a-sequence-of-wind-gusts) | Coding | Medium | New grad, Mid | Software Engineer | 2026-10 |
-| [Decode a Message of Letter-Scrambled Words Against a Known Word List](https://trueinterview.io/questions/decode-a-message-of-letter-scrambled-words-against-a-known-word-list) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2026-10 |
-| [Longest Overlap Between the End of One String and the Start of Another](https://trueinterview.io/questions/longest-overlap-between-the-end-of-one-string-and-the-start-of-another) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2026-10 |
-| [Recorded Walkthrough of a Past AI Project and Your Own Role in It](https://trueinterview.io/questions/recorded-walkthrough-of-a-past-ai-project-and-your-own-role-in-it) | Behavioral / concept | - | Mid, Senior | AI Engineer | 2026-10 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Count the Leaves Left on a Grid After a Sequence of Wind Gusts](https://trueinterview.io/questions/count-the-leaves-left-on-a-grid-after-a-sequence-of-wind-gusts) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-10 |
+| [Decode a Message of Letter-Scrambled Words Against a Known Word List](https://trueinterview.io/questions/decode-a-message-of-letter-scrambled-words-against-a-known-word-list) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2026-10 |
+| [Longest Overlap Between the End of One String and the Start of Another](https://trueinterview.io/questions/longest-overlap-between-the-end-of-one-string-and-the-start-of-another) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2026-10 |
+| [Recorded Walkthrough of a Past AI Project and Your Own Role in It](https://trueinterview.io/questions/recorded-walkthrough-of-a-past-ai-project-and-your-own-role-in-it) | Behavioral / concept | - | - | Mid, Senior | AI Engineer | 2026-10 |

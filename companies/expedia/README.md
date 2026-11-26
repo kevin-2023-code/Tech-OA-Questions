@@ -4,12 +4,12 @@
 
 7 online assessment questions reported at Expedia, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Minimum Machines for Task Scheduling](https://trueinterview.io/questions/e02c3223-11d4-4282-b5b6-f97380da0e36) | Coding | Medium | Mid | Software Engineer | 2026-07 |
-| [Card Packets with Identical Distribution](https://trueinterview.io/questions/card-packets-with-identical-distribution) | Coding | Medium | Intern, New grad | Software Engineer | 2026-05 |
-| [Range Negate Data Updates](https://trueinterview.io/questions/range-negate-data-updates) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2026-05 |
-| [Longest Subsequence of X That Is a Substring of Y](https://trueinterview.io/questions/longest-subsequence-substring) | Coding | Medium | Mid, Senior | Software Engineer | 2026-01 |
-| [Calculate Triangle Area from Three Coordinate Points](https://trueinterview.io/questions/f13e1f46-76a9-4caa-b697-ffdd9abcd68e) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
-| [Minimum Steps to Reorder Layers](https://trueinterview.io/questions/b99ee58c-743f-4caf-a4f4-751b8ca48ecc) | Coding | Hard | Mid, Senior | Software Engineer | - |
-| [Rank Songs by Popularity](https://trueinterview.io/questions/a849f910-580a-4423-ad79-2a2524364c49) | Coding | Medium | New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Minimum Machines for Task Scheduling](https://trueinterview.io/questions/expedia-minimum-machines-for-task-scheduling) | Coding | - | Medium | Mid | Software Engineer | 2026-07 |
+| [Card Packets with Identical Distribution](https://trueinterview.io/questions/card-packets-with-identical-distribution) | Coding | - | Medium | Intern, New grad | Software Engineer | 2026-05 |
+| [Range Negate Data Updates](https://trueinterview.io/questions/range-negate-data-updates) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2026-05 |
+| [Longest Subsequence of X That Is a Substring of Y](https://trueinterview.io/questions/longest-subsequence-substring) | Coding | HackerRank | Medium | Mid, Senior | Software Engineer | 2026-01 |
+| [Calculate Triangle Area from Three Coordinate Points](https://trueinterview.io/questions/expedia-calculate-triangle-area-from-three-coordinate-points) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
+| [Minimum Steps to Reorder Layers](https://trueinterview.io/questions/expedia-minimum-steps-to-reorder-layers) | Coding | - | Hard | Mid, Senior | Software Engineer | - |
+| [Rank Songs by Popularity](https://trueinterview.io/questions/expedia-rank-songs-by-popularity) | Coding | - | Medium | New grad, Mid | Software Engineer | - |

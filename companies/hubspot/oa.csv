@@ -1,8 +1,8 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Recipe Manager,OOD / LLD,Medium,New grad; Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/recipe-manager
-Design a Task Assignment System,OOD / LLD,Medium,Mid; Senior,,2026-05,https://trueinterview.io/questions/design-a-task-assignment-system
-Best Meeting Date by Country,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/best-meeting-date-by-country
-Company Role Assignment,Coding,Medium,New grad; Mid,Software Engineer,2026-01,https://trueinterview.io/questions/company-role-assignment
-Maximum Concurrent Calls,Coding,Medium,New grad; Mid; Senior,Data Scientist,2026-01,https://trueinterview.io/questions/maximum-concurrent-calls
-Snippet Vault,OOD / LLD,Medium,New grad,Backend Engineer,2025-12,https://trueinterview.io/questions/snippet-vault
-Design In-memory Database with Backup,OOD / LLD,Easy,Intern; New grad; Mid,Backend Engineer,,https://trueinterview.io/questions/design-in-memory-database-with-backup-2
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Recipe Manager,OOD / LLD,,Medium,New grad; Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/recipe-manager
+Design a Task Assignment System,OOD / LLD,,Medium,Mid; Senior,,2026-05,https://trueinterview.io/questions/design-a-task-assignment-system
+Best Meeting Date by Country,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/best-meeting-date-by-country
+Company Role Assignment,Coding,,Medium,New grad; Mid,Software Engineer,2026-01,https://trueinterview.io/questions/company-role-assignment
+Maximum Concurrent Calls,Coding,,Medium,New grad; Mid; Senior,Data Scientist,2026-01,https://trueinterview.io/questions/maximum-concurrent-calls
+Snippet Vault,OOD / LLD,,Medium,New grad,Backend Engineer,2025-12,https://trueinterview.io/questions/snippet-vault
+Design In-memory Database with Backup,OOD / LLD,,Easy,Intern; New grad; Mid,Backend Engineer,,https://trueinterview.io/questions/design-in-memory-database-with-backup-2

@@ -1,30 +1,30 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Payment State Machine,OOD / LLD,Medium,New grad,Backend Engineer,2026-10,https://trueinterview.io/questions/payment-state-machine-oa
-Business Account Data Verification,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/business-account-data-verification
-Deployment Window Scheduler II,Coding,Hard,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/deployment-window-scheduler-oa
-Request Routing System,Coding,Medium,New grad; Mid,Software Engineer,2026-09,https://trueinterview.io/questions/request-routing-system
-Financial Account Ledger,Coding,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/financial-account-ledger-oa
-Specify Proximity-Based Request Routing,System design,Medium,New grad; Mid,Backend Engineer,2026-09,https://trueinterview.io/questions/specify-proximity-based-request-routing
-Transaction Logs — Trigger / Resolve,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/transaction-logs-trigger-resolve
-Subtract Blocked Periods from Allowed Deployment Windows,Coding,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/subtract-blocked-periods-from-allowed-deployment-windows
-AI Token Billing Calculation,Coding,Medium,Mid; Senior,Backend Engineer,2026-09,https://trueinterview.io/questions/chat-billing-calculation
-Find Directly Linked Merchants by Shared Attributes,Coding,Easy,Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/bd8e4f4a-1201-4022-83ab-7f907b98c0e3
-Find the Latest Bank Account Balance,Coding,Easy,New grad,Data Scientist,2026-09,https://trueinterview.io/questions/74133864-60db-59b8-b4f9-663c0ff1ad00
-Reconcile Monthly Balances Between Two CSV Files,Coding,Easy,New grad; Mid,Backend Engineer,2026-09,https://trueinterview.io/questions/0cb1e3fc-02d4-53bc-9272-a8286f17e013
-Validate a Length-Limited Field and Forbidden Description Terms,Coding,Easy,Mid,Backend Engineer,2026-09,https://trueinterview.io/questions/9baeb5c4-0679-5fda-aa74-bad3d7a9a5e4
-Verify Business Records by Required Fields,Coding,Easy,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/f8231511-f6ac-545f-b959-3920ee7eac6c
-CSV Processing,Coding,Easy,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/79c3d2f6-5436-4d64-be35-a2a5b8797c1b
-Six Degrees of Collusion,Coding,Medium,New grad,Software Engineer,2026-06,https://trueinterview.io/questions/six-degrees-of-collusion
-Account Balance Processor,Coding,Medium,Mid; Senior,Backend Engineer,2026-05,https://trueinterview.io/questions/account-balance-manager
-Email Log Processing / Grouping and Sorting,Coding,Easy,Mid,Software Engineer,2026-05,https://trueinterview.io/questions/a47b5493-0083-4083-a969-c296d8be6d2b
-Implement Dataset Join Operation,Coding,Medium,New grad; Mid,Software Engineer,2026-04,https://trueinterview.io/questions/dataset-join
-Fee Calculation for Transactions,Coding,Easy,Mid; Senior,Backend Engineer,2026-04,https://trueinterview.io/questions/012ccdf5-7691-4ff9-9a61-9b5cf3c60ead
-Shipping Route Cost Paths,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-02,https://trueinterview.io/questions/shipping-route-cost-paths
-Jupyter / WebSocket Load Balancer,Coding,Medium,Intern; New grad; Mid,Backend Engineer,2026-02,https://trueinterview.io/questions/jupyter-load-balancer-oa
-Merchant Fraud Score,Coding,Medium,New grad,Backend Engineer,2026-01,https://trueinterview.io/questions/merchant-fraud-score-oa
-Worker-Task Matching with Specialties,Coding,Hard,Mid; Senior,Software Engineer,2025-10,https://trueinterview.io/questions/worker-task-assignment
-Compute Total Cost from Two Tables (SQL Aggregation + Join) with Tiered Fees Follow-up,SQL,Medium,Mid; Senior,Data Scientist,,https://trueinterview.io/questions/bdcdde80-7010-4c5f-b26c-7fc83901d0f9
-Design a model for subscription adoption prediction,System design,Medium,Senior; Staff+,Machine Learning Engineer,,https://trueinterview.io/questions/design-a-model-for-subscription-adoption-prediction
-Email Time Update Problem,Coding,Easy,Intern; New grad,Backend Engineer,,https://trueinterview.io/questions/2ada198e-0cfe-4fea-9e44-c5737c04b3f8
-Plan an experiment to validate targeting impact,Behavioral / concept,,Senior; Staff+,Data Scientist,,https://trueinterview.io/questions/plan-an-experiment-to-validate-targeting-impact
-Write SQL to detect recurring non-subscription users,SQL,Hard,Mid; Senior,Data Scientist,,https://trueinterview.io/questions/write-sql-to-detect-recurring-non-subscription-users
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Payment State Machine,OOD / LLD,,Medium,New grad,Backend Engineer,2026-10,https://trueinterview.io/questions/payment-state-machine-oa
+Business Account Data Verification,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/business-account-data-verification
+Deployment Window Scheduler II,Coding,,Hard,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/deployment-window-scheduler-oa
+Request Routing System,Coding,HackerRank,Medium,New grad; Mid,Software Engineer,2026-09,https://trueinterview.io/questions/request-routing-system
+Financial Account Ledger,Coding,,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/financial-account-ledger-oa
+Specify Proximity-Based Request Routing,System design,,Medium,New grad; Mid,Backend Engineer,2026-09,https://trueinterview.io/questions/specify-proximity-based-request-routing
+Transaction Logs — Trigger / Resolve,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/transaction-logs-trigger-resolve
+Subtract Blocked Periods from Allowed Deployment Windows,Coding,,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/subtract-blocked-periods-from-allowed-deployment-windows
+AI Token Billing Calculation,Coding,,Medium,Mid; Senior,Backend Engineer,2026-09,https://trueinterview.io/questions/chat-billing-calculation
+Find Directly Linked Merchants by Shared Attributes,Coding,,Easy,Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/bd8e4f4a-1201-4022-83ab-7f907b98c0e3
+Find the Latest Bank Account Balance,Coding,,Easy,New grad,Data Scientist,2026-09,https://trueinterview.io/questions/stripe-find-the-latest-bank-account-balance
+Reconcile Monthly Balances Between Two CSV Files,Coding,,Easy,New grad; Mid,Backend Engineer,2026-09,https://trueinterview.io/questions/stripe-reconcile-monthly-balances-between-two-csv-files
+Validate a Length-Limited Field and Forbidden Description Terms,Coding,,Easy,Mid,Backend Engineer,2026-09,https://trueinterview.io/questions/stripe-validate-a-length-limited-field-and-forbidden-description-terms
+Verify Business Records by Required Fields,Coding,,Easy,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/stripe-verify-business-records-by-required-fields
+CSV Processing,Coding,,Easy,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/79c3d2f6-5436-4d64-be35-a2a5b8797c1b
+Six Degrees of Collusion,Coding,,Medium,New grad,Software Engineer,2026-06,https://trueinterview.io/questions/six-degrees-of-collusion
+Account Balance Processor,Coding,,Medium,Mid; Senior,Backend Engineer,2026-05,https://trueinterview.io/questions/account-balance-manager
+Email Log Processing / Grouping and Sorting,Coding,,Easy,Mid,Software Engineer,2026-05,https://trueinterview.io/questions/a47b5493-0083-4083-a969-c296d8be6d2b
+Implement Dataset Join Operation,Coding,,Medium,New grad; Mid,Software Engineer,2026-04,https://trueinterview.io/questions/dataset-join
+Fee Calculation for Transactions,Coding,,Easy,Mid; Senior,Backend Engineer,2026-04,https://trueinterview.io/questions/012ccdf5-7691-4ff9-9a61-9b5cf3c60ead
+Shipping Route Cost Paths,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-02,https://trueinterview.io/questions/shipping-route-cost-paths
+Jupyter / WebSocket Load Balancer,Coding,,Medium,Intern; New grad; Mid,Backend Engineer,2026-02,https://trueinterview.io/questions/jupyter-load-balancer-oa
+Merchant Fraud Score,Coding,,Medium,New grad,Backend Engineer,2026-01,https://trueinterview.io/questions/merchant-fraud-score-oa
+Worker-Task Matching with Specialties,Coding,,Hard,Mid; Senior,Software Engineer,2025-10,https://trueinterview.io/questions/worker-task-assignment
+Compute Total Cost from Two Tables (SQL Aggregation + Join) with Tiered Fees Follow-up,SQL,,Medium,Mid; Senior,Data Scientist,,https://trueinterview.io/questions/bdcdde80-7010-4c5f-b26c-7fc83901d0f9
+Design a model for subscription adoption prediction,System design,,Medium,Senior; Staff+,Machine Learning Engineer,,https://trueinterview.io/questions/design-a-model-for-subscription-adoption-prediction
+Email Time Update Problem,Coding,,Easy,Intern; New grad,Backend Engineer,,https://trueinterview.io/questions/2ada198e-0cfe-4fea-9e44-c5737c04b3f8
+Plan an experiment to validate targeting impact,Behavioral / concept,,,Senior; Staff+,Data Scientist,,https://trueinterview.io/questions/plan-an-experiment-to-validate-targeting-impact
+Write SQL to detect recurring non-subscription users,SQL,,Hard,Mid; Senior,Data Scientist,,https://trueinterview.io/questions/write-sql-to-detect-recurring-non-subscription-users

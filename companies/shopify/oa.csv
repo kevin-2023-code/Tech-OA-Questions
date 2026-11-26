@@ -1,6 +1,6 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-"C++ only, ~10 min",Coding,Easy,Intern; New grad; Mid,Software Engineer,2025-08,https://trueinterview.io/questions/swe-intern-coding-oa-c-only-10-min
-"Dynamic programming, ~45 min, any language",Coding,Medium,Intern; New grad; Mid,Software Engineer,2025-08,https://trueinterview.io/questions/swe-intern-coding-oa-dynamic-programming-45-min-any-language
-Paint House,Coding,Medium,New grad; Mid; Senior,Software Engineer,2025-08,https://trueinterview.io/questions/swe-intern-coding-oa
-"Ruby only, ~10 min",Coding,Easy,Intern; New grad,Software Engineer,2025-08,https://trueinterview.io/questions/swe-intern-coding-oa-ruby-only-10-min
-Simulate a Robot Following Commands on a Grid,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/800f318f-3aba-4c06-9eef-ee7b1da55f6d
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+"C++ only, ~10 min",Coding,,Easy,Intern; New grad; Mid,Software Engineer,2025-08,https://trueinterview.io/questions/swe-intern-coding-oa-c-only-10-min
+"Dynamic programming, ~45 min, any language",Coding,,Medium,Intern; New grad; Mid,Software Engineer,2025-08,https://trueinterview.io/questions/swe-intern-coding-oa-dynamic-programming-45-min-any-language
+Paint House,Coding,CoderPad,Medium,New grad; Mid; Senior,Software Engineer,2025-08,https://trueinterview.io/questions/swe-intern-coding-oa
+"Ruby only, ~10 min",Coding,,Easy,Intern; New grad,Software Engineer,2025-08,https://trueinterview.io/questions/swe-intern-coding-oa-ruby-only-10-min
+Simulate a Robot Following Commands on a Grid,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/shopify-simulate-a-robot-following-commands-on-a-grid

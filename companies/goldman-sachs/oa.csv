@@ -1,28 +1,28 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Rearrange an Array to Minimize the Sum of Distinct Counts over All Prefixes,Coding,Medium,New grad; Mid,Software Engineer,2026-10,https://trueinterview.io/questions/rearrange-an-array-to-minimize-the-sum-of-distinct-counts-over-all-prefixes
-Bound the Rank of BA Given Rank of AB,Behavioral / concept,,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/bound-the-rank-of-ba-given-rank-of-ab
-Compute the Arc Length of a Curve,Behavioral / concept,,Mid,Quantitative Finance,2026-09,https://trueinterview.io/questions/compute-the-arc-length-of-a-curve
-Expected Number of Runs in Coin Tosses,Behavioral / concept,,New grad; Mid,Quantitative Finance,2026-09,https://trueinterview.io/questions/expected-number-of-runs-in-coin-tosses
-Infer BA When AB Is the Identity,Behavioral / concept,,New grad; Mid; Senior,Data Scientist,2026-09,https://trueinterview.io/questions/infer-ba-when-ab-is-the-identity
-Integrate a Two-Sided Exponential Density,Behavioral / concept,,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/integrate-a-two-sided-exponential-density
-Count Palindromic Substrings,Coding,Medium,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/palindromic-substrings
-Highest Average Score Per Person,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/max-average-score-per-person
-Math and Probability Multiple Choice Bank,Behavioral / concept,,Intern; New grad,Quantitative Finance,2026-05,https://trueinterview.io/questions/quant-oa-math-probability-bank
-String Compression,Coding,Medium,Mid,Software Engineer,2026-04,https://trueinterview.io/questions/string-compression-oa
-Efficient Tasks / Three-Server Difficulty Split,Coding,Medium,New grad; Mid,Software Engineer,2025-11,https://trueinterview.io/questions/efficient-tasks-three-server-difficulty
-Transaction Segments / Increasing Subarrays of Length K,Coding,Easy,Mid,Software Engineer,2025-11,https://trueinterview.io/questions/transaction-segments-increasing-subarrays
-Preprocess Dates,Coding,Easy,Intern,Software Engineer,2025-11,https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099
-Complete decision tree and gradient descent functions,Coding,Medium,New grad; Mid; Senior,Machine Learning Engineer,2025-10,https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions
-Ethernet Cable Square Count,Coding,Easy,Intern; New grad,Software Engineer,2025-09,https://trueinterview.io/questions/ethernet-cable-square-count
-Process Starvation Time,Coding,Medium,New grad; Mid,Software Engineer,2025-09,https://trueinterview.io/questions/process-starvation-time
-Equalize Letter Frequencies With Add / Remove,Coding,Medium,New grad,Software Engineer,2025-09,https://trueinterview.io/questions/equalize-letter-frequencies
-Encyclopedia Removal Grid,Coding,Medium,New grad,Software Engineer,2025-09,https://trueinterview.io/questions/encyclopedia-removal-grid
-Decode Ways / Alphanumeric Combination,Coding,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/decode-ways
-Anagram Queries on Word List,Coding,Easy,Intern; New grad; Mid,Software Engineer,2024-10,https://trueinterview.io/questions/anagram-queries
-Chairs / Restaurant Order Simulation,Coding,Easy,Intern; New grad,Software Engineer,2024-10,https://trueinterview.io/questions/chairs-restaurant-simulation
-Compliance Alert / Trailing-Average Sliding Window,Coding,Easy,Intern; New grad,Software Engineer,2024-10,https://trueinterview.io/questions/compliance-alert-sliding-window
-Count Unique Pairs With Difference K,Coding,Easy,Intern; New grad,Software Engineer,2024-10,https://trueinterview.io/questions/unique-pairs-difference-k
-Longest Subarray With Sum ≤ K,Coding,Medium,New grad; Mid,Software Engineer,2024-10,https://trueinterview.io/questions/longest-subarray-sum-at-most-k
-Min × Max Product After Push / Pop,Coding,Hard,New grad,Software Engineer,2024-10,https://trueinterview.io/questions/min-max-product-stream
-Plus-Multiply Even / Odd Parity,Coding,Medium,New grad,Software Engineer,2024-10,https://trueinterview.io/questions/plus-multiply-even-odd-parity
-Valid Triangle + Point Inclusion,Coding,Medium,New grad; Mid,Quantitative Finance,2024-10,https://trueinterview.io/questions/valid-triangle-point-inclusion
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Rearrange an Array to Minimize the Sum of Distinct Counts over All Prefixes,Coding,,Medium,New grad; Mid,Software Engineer,2026-10,https://trueinterview.io/questions/rearrange-an-array-to-minimize-the-sum-of-distinct-counts-over-all-prefixes
+Bound the Rank of BA Given Rank of AB,Behavioral / concept,,,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/bound-the-rank-of-ba-given-rank-of-ab
+Compute the Arc Length of a Curve,Behavioral / concept,,,Mid,Quantitative Finance,2026-09,https://trueinterview.io/questions/compute-the-arc-length-of-a-curve
+Expected Number of Runs in Coin Tosses,Behavioral / concept,,,New grad; Mid,Quantitative Finance,2026-09,https://trueinterview.io/questions/expected-number-of-runs-in-coin-tosses
+Infer BA When AB Is the Identity,Behavioral / concept,,,New grad; Mid; Senior,Data Scientist,2026-09,https://trueinterview.io/questions/infer-ba-when-ab-is-the-identity
+Integrate a Two-Sided Exponential Density,Behavioral / concept,,,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/integrate-a-two-sided-exponential-density
+Count Palindromic Substrings,Coding,,Medium,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/palindromic-substrings
+Highest Average Score Per Person,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/max-average-score-per-person
+Math and Probability Multiple Choice Bank,Behavioral / concept,,,Intern; New grad,Quantitative Finance,2026-05,https://trueinterview.io/questions/quant-oa-math-probability-bank
+String Compression,Coding,HackerRank,Medium,Mid,Software Engineer,2026-04,https://trueinterview.io/questions/string-compression-oa
+Efficient Tasks / Three-Server Difficulty Split,Coding,,Medium,New grad; Mid,Software Engineer,2025-11,https://trueinterview.io/questions/efficient-tasks-three-server-difficulty
+Transaction Segments / Increasing Subarrays of Length K,Coding,,Easy,Mid,Software Engineer,2025-11,https://trueinterview.io/questions/transaction-segments-increasing-subarrays
+Preprocess Dates,Coding,,Easy,Intern,Software Engineer,2025-11,https://trueinterview.io/questions/goldman-sachs-preprocess-dates
+Complete decision tree and gradient descent functions,Coding,,Medium,New grad; Mid; Senior,Machine Learning Engineer,2025-10,https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions
+Ethernet Cable Square Count,Coding,,Easy,Intern; New grad,Software Engineer,2025-09,https://trueinterview.io/questions/ethernet-cable-square-count
+Process Starvation Time,Coding,,Medium,New grad; Mid,Software Engineer,2025-09,https://trueinterview.io/questions/process-starvation-time
+Equalize Letter Frequencies With Add / Remove,Coding,,Medium,New grad,Software Engineer,2025-09,https://trueinterview.io/questions/equalize-letter-frequencies
+Encyclopedia Removal Grid,Coding,,Medium,New grad,Software Engineer,2025-09,https://trueinterview.io/questions/encyclopedia-removal-grid
+Decode Ways / Alphanumeric Combination,Coding,,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/decode-ways
+Anagram Queries on Word List,Coding,,Easy,Intern; New grad; Mid,Software Engineer,2024-10,https://trueinterview.io/questions/anagram-queries
+Chairs / Restaurant Order Simulation,Coding,,Easy,Intern; New grad,Software Engineer,2024-10,https://trueinterview.io/questions/chairs-restaurant-simulation
+Compliance Alert / Trailing-Average Sliding Window,Coding,,Easy,Intern; New grad,Software Engineer,2024-10,https://trueinterview.io/questions/compliance-alert-sliding-window
+Count Unique Pairs With Difference K,Coding,,Easy,Intern; New grad,Software Engineer,2024-10,https://trueinterview.io/questions/unique-pairs-difference-k
+Longest Subarray With Sum ≤ K,Coding,,Medium,New grad; Mid,Software Engineer,2024-10,https://trueinterview.io/questions/longest-subarray-sum-at-most-k
+Min × Max Product After Push / Pop,Coding,,Hard,New grad,Software Engineer,2024-10,https://trueinterview.io/questions/min-max-product-stream
+Plus-Multiply Even / Odd Parity,Coding,,Medium,New grad,Software Engineer,2024-10,https://trueinterview.io/questions/plus-multiply-even-odd-parity
+Valid Triangle + Point Inclusion,Coding,,Medium,New grad; Mid,Quantitative Finance,2024-10,https://trueinterview.io/questions/valid-triangle-point-inclusion

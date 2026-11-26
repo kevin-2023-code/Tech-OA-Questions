@@ -4,8 +4,8 @@
 
 3 online assessment questions reported at MathWorks, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Describe How You Assessed Code Quality and Added Tests](https://trueinterview.io/questions/describe-how-you-assessed-code-quality-and-added-tests) | Behavioral / concept | - | New grad, Mid | Software Engineer | 2026-10 |
-| [Optimize Repeated Mirrored XOR Updates](https://trueinterview.io/questions/optimize-repeated-mirrored-xor-updates) | Coding | Hard | Mid, Senior | Software Engineer | 2026-10 |
-| [Why Does Software Development in Test Interest You?](https://trueinterview.io/questions/why-does-software-development-in-test-interest-you) | Behavioral / concept | - | New grad, Mid | Software Engineer | 2026-10 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Describe How You Assessed Code Quality and Added Tests](https://trueinterview.io/questions/describe-how-you-assessed-code-quality-and-added-tests) | Behavioral / concept | - | - | New grad, Mid | Software Engineer | 2026-10 |
+| [Optimize Repeated Mirrored XOR Updates](https://trueinterview.io/questions/optimize-repeated-mirrored-xor-updates) | Coding | - | Hard | Mid, Senior | Software Engineer | 2026-10 |
+| [Why Does Software Development in Test Interest You?](https://trueinterview.io/questions/why-does-software-development-in-test-interest-you) | Behavioral / concept | - | - | New grad, Mid | Software Engineer | 2026-10 |

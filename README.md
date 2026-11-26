@@ -18,6 +18,7 @@ The question pages are on [TrueInterview](https://trueinterview.io).
 
 - **Title**: the question title, linked to its page.
 - **Format**: Coding, SQL, OOD / LLD, System design, AI coding, or Behavioral / concept.
+- **Platform**: the assessment platform it was given on (HackerRank, CodeSignal, Codility, ...), when a candidate's report names it. Empty when no report does.
 - **Difficulty**: Easy, Medium or Hard. Empty for formats that have no difficulty.
 - **Level**: the levels it was reported at (Intern, New grad, Mid, Senior, Staff+, Manager).
 - **Role**: the role it was reported for.

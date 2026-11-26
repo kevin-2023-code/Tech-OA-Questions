@@ -4,19 +4,19 @@
 
 14 online assessment questions reported at Apple, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Check Whether a String Is a Palindrome](https://trueinterview.io/questions/712ab877-8fe1-5411-92ca-b00a54856057) | Coding | Easy | Mid | Software Engineer | 2026-09 |
-| [Merge Two Strings by Maximum Edge Overlap](https://trueinterview.io/questions/e375a17a-d43d-501b-b79c-2fa09b7bcabc) | Coding | Easy | Mid | Software Engineer | 2026-09 |
-| [Reverse a Linked List](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | Coding | Easy | Mid | Software Engineer | 2026-09 |
-| [Trade In Payouts](https://trueinterview.io/questions/trade-in-payouts) | SQL | Easy | Intern, New grad, Mid | Data Scientist | 2026-08 |
-| [Swap Two Variables Without Using Temporary Variable](https://trueinterview.io/questions/68870b4c-8508-4508-88c9-186133ebadf8) | Coding | Easy | Senior | Software Engineer | 2026-08 |
-| [Constrain an Increasing Array With Minimum Adjacent Difference](https://trueinterview.io/questions/d5642f20-01c2-549f-833c-8e654d14cbd6) | Coding | Easy | Mid | Software Engineer | 2026-07 |
-| [Write a One-Hot SystemVerilog Constraint Without $onehot](https://trueinterview.io/questions/7772306e-c2e1-50b0-b143-ea071affcf0b) | Coding | Easy | Mid | Software | 2026-07 |
-| [Design a Concurrent Image Upload System](https://trueinterview.io/questions/design-a-concurrent-image-upload-system) | System design | Medium | Mid, Senior | Backend Engineer | 2026-04 |
-| [Generate all permutations of a list](https://trueinterview.io/questions/55b47ffb-5c4d-4c32-b3fc-350263687e62) | Coding | Easy | Mid | Software Engineer | 2026-02 |
-| [Classify the Difference Between Two Calendar Dates](https://trueinterview.io/questions/1fd937c6-7de8-57d7-9b2d-c96a07d39ab2) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
-| [First Unique Element IV](https://trueinterview.io/questions/933927db-2acf-4529-88cf-b16cfd184b00) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
-| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | Easy | New grad, Mid | Software Engineer | - |
-| [Python Debugging — Fix a Loop Condition Bug](https://trueinterview.io/questions/e9adef64-7ceb-4294-bae4-8d77a203ee81) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
-| [Reverse String Using Stream](https://trueinterview.io/questions/cd0c8b7a-32b1-466f-8b99-1eea4d72719b) | Coding | Easy | - | - | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Check Whether a String Is a Palindrome](https://trueinterview.io/questions/apple-check-whether-a-string-is-a-palindrome) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
+| [Merge Two Strings by Maximum Edge Overlap](https://trueinterview.io/questions/apple-merge-two-strings-by-maximum-edge-overlap) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
+| [Reverse a Linked List](https://trueinterview.io/questions/microsoft-reverse-a-linked-list) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
+| [Trade In Payouts](https://trueinterview.io/questions/trade-in-payouts) | SQL | - | Easy | Intern, New grad, Mid | Data Scientist | 2026-08 |
+| [Swap Two Variables Without Using Temporary Variable](https://trueinterview.io/questions/apple-swap-two-variables-without-using-temporary-variable) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |
+| [Constrain an Increasing Array With Minimum Adjacent Difference](https://trueinterview.io/questions/apple-constrain-an-increasing-array-with-minimum-adjacent-difference) | Coding | - | Easy | Mid | Software Engineer | 2026-07 |
+| [Write a One-Hot SystemVerilog Constraint Without $onehot](https://trueinterview.io/questions/apple-write-a-one-hot-systemverilog-constraint-without-onehot) | Coding | - | Easy | Mid | Software | 2026-07 |
+| [Design a Concurrent Image Upload System](https://trueinterview.io/questions/design-a-concurrent-image-upload-system) | System design | - | Medium | Mid, Senior | Backend Engineer | 2026-04 |
+| [Generate all permutations of a list](https://trueinterview.io/questions/oracle-generate-all-permutations-of-a-list) | Coding | - | Easy | Mid | Software Engineer | 2026-02 |
+| [Classify the Difference Between Two Calendar Dates](https://trueinterview.io/questions/apple-classify-the-difference-between-two-calendar-dates) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
+| [First Unique Element IV](https://trueinterview.io/questions/933927db-2acf-4529-88cf-b16cfd184b00) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
+| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | - | Easy | New grad, Mid | Software Engineer | - |
+| [Python Debugging — Fix a Loop Condition Bug](https://trueinterview.io/questions/e9adef64-7ceb-4294-bae4-8d77a203ee81) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
+| [Reverse String Using Stream](https://trueinterview.io/questions/cd0c8b7a-32b1-466f-8b99-1eea4d72719b) | Coding | - | Easy | - | - | - |

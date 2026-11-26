@@ -4,7 +4,7 @@
 
 2 online assessment questions reported at WEX, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [List All Permutations of an Alphanumeric String in Digit, Lowercase, Uppercase Order](https://trueinterview.io/questions/list-all-permutations-of-an-alphanumeric-string-in-digit-lowercase-uppercase-order) | Coding | Medium | New grad, Mid | Software Engineer | 2026-09 |
-| [Simulate a Stack from Push, Pop and End-of-Input Commands](https://trueinterview.io/questions/simulate-a-stack-from-push-pop-and-end-of-input-commands) | Coding | Easy | New grad, Mid | Software Engineer | 2026-09 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [List All Permutations of an Alphanumeric String in Digit, Lowercase, Uppercase Order](https://trueinterview.io/questions/list-all-permutations-of-an-alphanumeric-string-in-digit-lowercase-uppercase-order) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-09 |
+| [Simulate a Stack from Push, Pop and End-of-Input Commands](https://trueinterview.io/questions/simulate-a-stack-from-push-pop-and-end-of-input-commands) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-09 |

@@ -4,11 +4,11 @@
 
 6 online assessment questions reported at Tradedesk, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Fetch and Cache Daily Stock Prices Across a Date Range](https://trueinterview.io/questions/fetch-and-cache-daily-stock-prices-across-a-date-range) | AI coding | Hard | Mid, Senior | Software Engineer | 2026-08 |
-| [Process Operations in a Timestamped In-Memory Database](https://trueinterview.io/questions/process-operations-in-a-timestamped-in-memory-database) | OOD / LLD | Hard | Mid | Software Engineer | 2026-08 |
-| [Interpolate Y-Value for Given X-Value](https://trueinterview.io/questions/f7ad40a0-87f6-4b4b-9903-e2558f1f276c) | Coding | Easy | Intern | Software Engineer | 2025-12 |
-| [Buddies Greater than Target](https://trueinterview.io/questions/055e2b8e-9813-42ea-be04-71e25dff05a4) | Coding | Easy | Intern, New grad | Software Engineer | - |
-| [Last to Be Checked](https://trueinterview.io/questions/2069bf07-0c49-475c-8ef8-9e11c443b509) | Coding | Easy | Intern, New grad | Software Engineer | - |
-| [Narrative Words](https://trueinterview.io/questions/9ad96e3a-7f96-4ddb-bcbb-724f098ce6e9) | Coding | Easy | Intern | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Fetch and Cache Daily Stock Prices Across a Date Range](https://trueinterview.io/questions/fetch-and-cache-daily-stock-prices-across-a-date-range) | AI coding | - | Hard | Mid, Senior | Software Engineer | 2026-08 |
+| [Process Operations in a Timestamped In-Memory Database](https://trueinterview.io/questions/process-operations-in-a-timestamped-in-memory-database) | OOD / LLD | - | Hard | Mid | Software Engineer | 2026-08 |
+| [Interpolate Y-Value for Given X-Value](https://trueinterview.io/questions/tradedesk-interpolate-y-value-for-given-x-value) | Coding | - | Easy | Intern | Software Engineer | 2025-12 |
+| [Buddies Greater than Target](https://trueinterview.io/questions/tradedesk-buddies-greater-than-target) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
+| [Last to Be Checked](https://trueinterview.io/questions/tradedesk-last-to-be-checked) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
+| [Narrative Words](https://trueinterview.io/questions/tradedesk-narrative-words) | Coding | - | Easy | Intern | Software Engineer | - |

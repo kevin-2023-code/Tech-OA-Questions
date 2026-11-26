@@ -1,11 +1,11 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Star Sum: Best k-Star Sum in a Graph,Coding,Medium,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/oa-star-sum-best-k-star
-Can One k Always Maximize kNN Leave-One-Out Accuracy?,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/can-one-k-always-maximize-knn-leave-one-out-accuracy
-Choose a Parameter to Reduce Underfitting in Gradient-Boosted Trees,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/choose-a-parameter-to-reduce-underfitting-in-gradient-boosted-trees
-Compare How Models Respond to Multicollinearity,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/compare-how-models-respond-to-multicollinearity
-Explain the Margin View of Boosting Classification,Behavioral / concept,,Intern; New grad,Data Scientist,2026-09,https://trueinterview.io/questions/explain-the-margin-view-of-boosting-classification
-Explain Training R-Squared After Adding a Random Feature,Behavioral / concept,,New grad; Mid; Senior,Data Scientist,2026-09,https://trueinterview.io/questions/explain-training-r-squared-after-adding-a-random-feature
-Find the Most Likely Stopping Sum When Rolling a Die,Behavioral / concept,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/find-the-most-likely-stopping-sum-when-rolling-a-die
-Identify What Does Not Fix Vanishing Gradients,Behavioral / concept,,New grad; Mid,Machine Learning Engineer,2026-09,https://trueinterview.io/questions/identify-what-does-not-fix-vanishing-gradients
-Evaluate Factual Accuracy and Consistency in a Domain-Specific RAG Chatbot,Behavioral / concept,,Mid; Senior,AI Engineer,2026-01,https://trueinterview.io/questions/evaluate-factual-accuracy-and-consistency-in-a-domain-specific-rag-chatbot
-Find Sizes of Connected Components in Undirected Graph,Coding,Easy,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/af13d587-fd07-4ba9-b6f6-86a9f4b405ac
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Star Sum: Best k-Star Sum in a Graph,Coding,HackerRank,Medium,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/oa-star-sum-best-k-star
+Can One k Always Maximize kNN Leave-One-Out Accuracy?,Behavioral / concept,,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/can-one-k-always-maximize-knn-leave-one-out-accuracy
+Choose a Parameter to Reduce Underfitting in Gradient-Boosted Trees,Behavioral / concept,,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/choose-a-parameter-to-reduce-underfitting-in-gradient-boosted-trees
+Compare How Models Respond to Multicollinearity,Behavioral / concept,,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/compare-how-models-respond-to-multicollinearity
+Explain the Margin View of Boosting Classification,Behavioral / concept,,,Intern; New grad,Data Scientist,2026-09,https://trueinterview.io/questions/explain-the-margin-view-of-boosting-classification
+Explain Training R-Squared After Adding a Random Feature,Behavioral / concept,,,New grad; Mid; Senior,Data Scientist,2026-09,https://trueinterview.io/questions/explain-training-r-squared-after-adding-a-random-feature
+Find the Most Likely Stopping Sum When Rolling a Die,Behavioral / concept,,,New grad; Mid,Data Scientist,2026-09,https://trueinterview.io/questions/find-the-most-likely-stopping-sum-when-rolling-a-die
+Identify What Does Not Fix Vanishing Gradients,Behavioral / concept,,,New grad; Mid,Machine Learning Engineer,2026-09,https://trueinterview.io/questions/identify-what-does-not-fix-vanishing-gradients
+Evaluate Factual Accuracy and Consistency in a Domain-Specific RAG Chatbot,Behavioral / concept,,,Mid; Senior,AI Engineer,2026-01,https://trueinterview.io/questions/evaluate-factual-accuracy-and-consistency-in-a-domain-specific-rag-chatbot
+Find Sizes of Connected Components in Undirected Graph,Coding,,Easy,New grad; Mid; Senior,Software Engineer,,https://trueinterview.io/questions/c3-ai-find-sizes-of-connected-components-in-undirected-graph

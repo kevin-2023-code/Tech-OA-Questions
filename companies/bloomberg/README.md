@@ -4,9 +4,9 @@
 
 4 online assessment questions reported at Bloomberg, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Bucket Values Into Boundary Ranges](https://trueinterview.io/questions/1d02d34f-d87d-4e50-a0ca-2428899bdd99) | Coding | Easy | Mid | Software Engineer | 2026-02 |
-| [String to Integer (atoi) (Digits Only)](https://trueinterview.io/questions/9d8ec9cd-fdc4-4fac-806c-07ff99d1c875) | Coding | Easy | Mid | Software Engineer | 2026-02 |
-| [Anagram Question](https://trueinterview.io/questions/34828e80-d9ef-43e4-856f-8b5bf8c29609) | Coding | Easy | Intern, New grad | Software Engineer | - |
-| [Nested Parentheses](https://trueinterview.io/questions/a4f9512c-b596-4e84-8c15-20ae5e555c6f) | Coding | Easy | Senior | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Bucket Values Into Boundary Ranges](https://trueinterview.io/questions/bloomberg-bucket-values-into-boundary-ranges) | Coding | - | Easy | Mid | Software Engineer | 2026-02 |
+| [String to Integer (atoi) (Digits Only)](https://trueinterview.io/questions/bloomberg-string-to-integer-atoi-digits-only) | Coding | - | Easy | Mid | Software Engineer | 2026-02 |
+| [Anagram Question](https://trueinterview.io/questions/bloomberg-anagram-question) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
+| [Nested Parentheses](https://trueinterview.io/questions/bloomberg-nested-parentheses) | Coding | - | Easy | Senior | Software Engineer | - |

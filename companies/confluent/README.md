@@ -4,9 +4,9 @@
 
 4 online assessment questions reported at Confluent, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Implement n-tail (return last n elements)](https://trueinterview.io/questions/c97ba551-772a-4164-8eef-2fde784db5f4) | Coding | Easy | Mid, Senior | Software Engineer | 2026-05 |
-| [Retrieve Token List](https://trueinterview.io/questions/cc6a0750-1741-4f8c-bdb3-7cca719d0b30) | Coding | Easy | Mid | Software Engineer | 2026-01 |
-| [Minimum Value to Get Positive Step by Step Sum](https://trueinterview.io/questions/3e9983d2-b98e-4f1e-b80a-0d32d1317fbd) | Coding | Easy | New grad | Software Engineer | 2025-11 |
-| [Rank Songs by Popularity](https://trueinterview.io/questions/a849f910-580a-4423-ad79-2a2524364c49) | Coding | Medium | New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Implement n-tail (return last n elements)](https://trueinterview.io/questions/confluent-implement-n-tail-return-last-n-elements) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-05 |
+| [Retrieve Token List](https://trueinterview.io/questions/confluent-retrieve-token-list) | Coding | - | Easy | Mid | Software Engineer | 2026-01 |
+| [Minimum Value to Get Positive Step by Step Sum](https://trueinterview.io/questions/confluent-minimum-value-to-get-positive-step-by-step-sum) | Coding | - | Easy | New grad | Software Engineer | 2025-11 |
+| [Rank Songs by Popularity](https://trueinterview.io/questions/expedia-rank-songs-by-popularity) | Coding | - | Medium | New grad, Mid | Software Engineer | - |

@@ -4,9 +4,9 @@
 
 4 online assessment questions reported at Datadog, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Implement Binary Focal Loss](https://trueinterview.io/questions/5bb12488-878a-5601-87cd-e71d171a50cc) | Coding | Easy | Mid | Machine Learning Engineer | 2026-06 |
-| [Geography Related Log Query](https://trueinterview.io/questions/4e25dade-77dd-4886-a217-9542455cab48) | Coding | Easy | Senior | Software Engineer | 2025-11 |
-| [Detect Duplicate Words in Paragraph Ignoring Case](https://trueinterview.io/questions/f66f9244-8126-4fce-a31f-23c5a3974b69) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
-| [Find Repeated Words in Text Using Regular Expressions](https://trueinterview.io/questions/0f0b2ee7-c88c-46e8-b6af-1e88cf27aa6f) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Implement Binary Focal Loss](https://trueinterview.io/questions/datadog-implement-binary-focal-loss) | Coding | - | Easy | Mid | Machine Learning Engineer | 2026-06 |
+| [Geography Related Log Query](https://trueinterview.io/questions/datadog-geography-related-log-query) | Coding | - | Easy | Senior | Software Engineer | 2025-11 |
+| [Detect Duplicate Words in Paragraph Ignoring Case](https://trueinterview.io/questions/datadog-detect-duplicate-words-in-paragraph-ignoring-case) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
+| [Find Repeated Words in Text Using Regular Expressions](https://trueinterview.io/questions/datadog-find-repeated-words-in-text-using-regular-expressions) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |

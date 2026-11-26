@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Rokt, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [A Time Your First Technical Approach Failed and How You Changed Course](https://trueinterview.io/questions/a-time-your-first-technical-approach-failed-and-how-you-changed-course) | Behavioral / concept | - | Mid, Senior | Software Engineer | 2026-10 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [A Time Your First Technical Approach Failed and How You Changed Course](https://trueinterview.io/questions/a-time-your-first-technical-approach-failed-and-how-you-changed-course) | Behavioral / concept | - | - | Mid, Senior | Software Engineer | 2026-10 |

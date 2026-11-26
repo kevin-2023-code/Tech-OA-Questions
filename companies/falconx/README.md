@@ -4,6 +4,6 @@
 
 1 online assessment question reported at FalconX, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Longest Single-Venue Execution Window Within Price-Range and Slippage Limits](https://trueinterview.io/questions/longest-single-venue-execution-window-within-price-range-and-slippage-limits) | Coding | Hard | Mid, Senior | Software Engineer | 2026-09 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Longest Single-Venue Execution Window Within Price-Range and Slippage Limits](https://trueinterview.io/questions/longest-single-venue-execution-window-within-price-range-and-slippage-limits) | Coding | - | Hard | Mid, Senior | Software Engineer | 2026-09 |

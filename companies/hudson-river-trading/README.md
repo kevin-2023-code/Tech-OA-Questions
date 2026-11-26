@@ -4,10 +4,10 @@
 
 5 online assessment questions reported at Hudson River Trading, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Two Sum Existence](https://trueinterview.io/questions/4afb91f6-e5ba-5712-a1db-c2970accb228) | Coding | Easy | Mid | Quantitative Finance | 2026-07 |
-| [Implement a Coroutine Step by Step](https://trueinterview.io/questions/c0380879-c2f8-4102-a3e7-20383793ed48) | Coding | Easy | Mid | Quantitative Finance | 2025-03 |
-| [Fancy Number](https://trueinterview.io/questions/e4e49d37-3d74-4d00-b000-445874bf217a) | Coding | Medium | Intern, New grad | Quantitative Finance | - |
-| [Reversi Move Simulation](https://trueinterview.io/questions/reversi-move-simulation-2) | Coding | Medium | Intern, New grad, Mid | Quantitative Finance | - |
-| [Travese and Merge Two N-ary Trees](https://trueinterview.io/questions/642b9c47-c6ed-43dc-863d-112f6426db92) | Coding | Easy | Intern, New grad | Quantitative Finance | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Two Sum Existence](https://trueinterview.io/questions/hudson-river-trading-two-sum-existence) | Coding | - | Easy | Mid | Quantitative Finance | 2026-07 |
+| [Implement a Coroutine Step by Step](https://trueinterview.io/questions/hudson-river-trading-implement-a-coroutine-step-by-step) | Coding | - | Easy | Mid | Quantitative Finance | 2025-03 |
+| [Fancy Number](https://trueinterview.io/questions/hudson-river-trading-fancy-number) | Coding | - | Medium | Intern, New grad | Quantitative Finance | - |
+| [Reversi Move Simulation](https://trueinterview.io/questions/reversi-move-simulation-2) | Coding | - | Medium | Intern, New grad, Mid | Quantitative Finance | - |
+| [Travese and Merge Two N-ary Trees](https://trueinterview.io/questions/hudson-river-trading-travese-and-merge-two-n-ary-trees) | Coding | - | Easy | Intern, New grad | Quantitative Finance | - |

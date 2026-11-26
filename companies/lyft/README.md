@@ -4,7 +4,7 @@
 
 2 online assessment questions reported at Lyft, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Rotten Oranges / Grid Infection BFS](https://trueinterview.io/questions/rotten-oranges-grid-bfs) | Coding | Medium | Mid | Software Engineer | 2026-10 |
-| [Describe proudest project and cross-team work](https://trueinterview.io/questions/describe-proudest-project-and-cross-team-work) | Behavioral / concept | - | Mid, Senior | Software Engineer | 2026-05 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Rotten Oranges / Grid Infection BFS](https://trueinterview.io/questions/rotten-oranges-grid-bfs) | Coding | - | Medium | Mid | Software Engineer | 2026-10 |
+| [Describe proudest project and cross-team work](https://trueinterview.io/questions/describe-proudest-project-and-cross-team-work) | Behavioral / concept | - | - | Mid, Senior | Software Engineer | 2026-05 |

@@ -4,10 +4,10 @@
 
 5 online assessment questions reported at Databricks, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Laser Grid Robot Max Safe Run](https://trueinterview.io/questions/laser-grid-robot-max-safe-run) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2026-10 |
-| [Count Cyclic Rotation Pairs](https://trueinterview.io/questions/672dd86c-1610-5d71-be33-4c29e4d1387e) | Coding | Medium | Intern, New grad | Software Engineer | 2026-09 |
-| [IP CIDR Range Query](https://trueinterview.io/questions/27c18b00-98ea-48a2-984f-27e6ad16170a) | Coding | Easy | - | Software | - |
-| [SQL for Data Analysis](https://trueinterview.io/questions/fbafc874-d6f5-487f-988f-47f0b70c83c1) | SQL | Easy | Intern, New grad, Mid | Data Scientist | - |
-| [Top-5 Most Similar Rows Using MSE Across Multiple Features](https://trueinterview.io/questions/a30e9f92-4754-47a1-a8c0-4a8bcf748e50) | SQL | Medium | Mid, Senior | Data Scientist | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Laser Grid Robot Max Safe Run](https://trueinterview.io/questions/laser-grid-robot-max-safe-run) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2026-10 |
+| [Count Cyclic Rotation Pairs](https://trueinterview.io/questions/bytedance-count-cyclic-rotation-pairs) | Coding | - | Medium | Intern, New grad | Software Engineer | 2026-09 |
+| [IP CIDR Range Query](https://trueinterview.io/questions/27c18b00-98ea-48a2-984f-27e6ad16170a) | Coding | - | Easy | - | Software | - |
+| [SQL for Data Analysis](https://trueinterview.io/questions/fbafc874-d6f5-487f-988f-47f0b70c83c1) | SQL | - | Easy | Intern, New grad, Mid | Data Scientist | - |
+| [Top-5 Most Similar Rows Using MSE Across Multiple Features](https://trueinterview.io/questions/a30e9f92-4754-47a1-a8c0-4a8bcf748e50) | SQL | - | Medium | Mid, Senior | Data Scientist | - |

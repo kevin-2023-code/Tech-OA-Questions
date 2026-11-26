@@ -1,7 +1,7 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-AI-Assisted Full-Stack Project Debugging,AI coding,Medium,Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/ai-assisted-fullstack-oa
-Minimum Talent-Complete Team from Every Start,Coding,Medium,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/minimum-talent-complete-team-from-each-start
-Work Schedule,Coding,Medium,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/work-schedule
-Permutation Maximizing Σ B[i] where B[i] > A[i],Coding,Easy,New grad,Software Engineer,2026-05,https://trueinterview.io/questions/permutation-max-greater-sum
-Find the First Corrupted Character,Coding,Easy,Senior,Software Engineer,2025-12,https://trueinterview.io/questions/8593ff20-396d-44a7-9fb2-21c5eee2d0e1
-"Last-Mile Business Queries (Aggregations, Joins, Windows, Dates, Optimization)",SQL,Medium,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/0621ce99-ba72-46ab-b3f0-3bbc90c0f217
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+AI-Assisted Full-Stack Project Debugging,AI coding,,Medium,Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/ai-assisted-fullstack-oa
+Minimum Talent-Complete Team from Every Start,Coding,,Medium,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/minimum-talent-complete-team-from-each-start
+Work Schedule,Coding,,Medium,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/work-schedule
+Permutation Maximizing Σ B[i] where B[i] > A[i],Coding,,Easy,New grad,Software Engineer,2026-05,https://trueinterview.io/questions/permutation-max-greater-sum
+Find the First Corrupted Character,Coding,,Easy,Senior,Software Engineer,2025-12,https://trueinterview.io/questions/walmart-labs-find-the-first-corrupted-character
+"Last-Mile Business Queries (Aggregations, Joins, Windows, Dates, Optimization)",SQL,,Medium,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/walmart-labs-last-mile-business-queries-aggregations-joins-windows-dates

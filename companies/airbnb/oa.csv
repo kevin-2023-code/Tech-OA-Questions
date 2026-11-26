@@ -1,14 +1,14 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Progressive Banking System,OOD / LLD,Medium,New grad; Mid,Software Engineer,2026-10,https://trueinterview.io/questions/oa-banking-system-2
-Parcel Attribute Store,OOD / LLD,Medium,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/oa-parcel-attribute-store
-"In-Memory Banking System with Immediate, Offline and Deletable Transfers",OOD / LLD,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/in-memory-banking-system-with-immediate-offline-and-deletable-transfers
-In-Memory File System,OOD / LLD,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/oa-in-memory-file-system
-Calculate Page Dwell Time from Event Logs,SQL,Easy,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/12a384fe-ebda-5785-9cdb-d8adeff5e3ce
-Median Home Price by City,Coding,Easy,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/0c07a7e2-8538-52ad-a790-8c1ca6621996
-In-Memory Object Manager,OOD / LLD,Medium,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/oa-object-manager-prefix-ttl
-Working Hours Register,OOD / LLD,Hard,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/oa-working-hours-register
-FIFO Order Allocator,Coding,Easy,Senior,Software Engineer,2026-08,https://trueinterview.io/questions/a806c5ff-dc75-5b79-b259-9d5ba25d4b21
-Recipe Management System,OOD / LLD,Medium,New grad,Software Engineer,2026-07,https://trueinterview.io/questions/oa-recipe-management-system
-Parcel Tracking System,OOD / LLD,Medium,Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/oa-parcel-tracking-system
-Describe proudest project and cross-team work,Behavioral / concept,,Mid; Senior,Software Engineer,2026-05,https://trueinterview.io/questions/describe-proudest-project-and-cross-team-work
-Replace Text for Review,Coding,Easy,Intern; New grad,Software Engineer,2026-02,https://trueinterview.io/questions/80731212-708a-43a5-a87a-ad06f2e56b6b
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Progressive Banking System,OOD / LLD,,Medium,New grad; Mid,Software Engineer,2026-10,https://trueinterview.io/questions/oa-banking-system-2
+Parcel Attribute Store,OOD / LLD,,Medium,New grad,Software Engineer,2026-10,https://trueinterview.io/questions/oa-parcel-attribute-store
+"In-Memory Banking System with Immediate, Offline and Deletable Transfers",OOD / LLD,,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/in-memory-banking-system-with-immediate-offline-and-deletable-transfers
+In-Memory File System,OOD / LLD,CodeSignal,Medium,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/oa-in-memory-file-system
+Calculate Page Dwell Time from Event Logs,SQL,,Easy,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/airbnb-calculate-page-dwell-time-from-event-logs
+Median Home Price by City,Coding,,Easy,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/airbnb-median-home-price-by-city
+In-Memory Object Manager,OOD / LLD,CodeSignal,Medium,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/oa-object-manager-prefix-ttl
+Working Hours Register,OOD / LLD,CodeSignal,Hard,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/oa-working-hours-register
+FIFO Order Allocator,Coding,,Easy,Senior,Software Engineer,2026-08,https://trueinterview.io/questions/airbnb-fifo-order-allocator
+Recipe Management System,OOD / LLD,,Medium,New grad,Software Engineer,2026-07,https://trueinterview.io/questions/oa-recipe-management-system
+Parcel Tracking System,OOD / LLD,CodeSignal,Medium,Mid; Senior,Software Engineer,2026-07,https://trueinterview.io/questions/oa-parcel-tracking-system
+Describe proudest project and cross-team work,Behavioral / concept,,,Mid; Senior,Software Engineer,2026-05,https://trueinterview.io/questions/describe-proudest-project-and-cross-team-work
+Replace Text for Review,Coding,,Easy,Intern; New grad,Software Engineer,2026-02,https://trueinterview.io/questions/airbnb-replace-text-for-review

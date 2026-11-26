@@ -4,7 +4,7 @@
 
 2 online assessment questions reported at Vanta, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Implement Unix uniq](https://trueinterview.io/questions/cd987f0a-05bc-5107-a6eb-49b660ccffce) | Coding | Easy | Mid, Senior | Software Engineer | 2026-07 |
-| [Check Whether an Employee Completed Security Training by a Given Day and Compute Overdue Days](https://trueinterview.io/questions/a7ab15e1-2a50-414d-86d4-f145c442b46c) | Coding | Easy | Mid | Software Engineer | 2026-03 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Implement Unix uniq](https://trueinterview.io/questions/vanta-implement-unix-uniq) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-07 |
+| [Check Whether an Employee Completed Security Training by a Given Day and Compute Overdue Days](https://trueinterview.io/questions/vanta-check-whether-an-employee-completed-security-training-by-a-given-day-and) | Coding | - | Easy | Mid | Software Engineer | 2026-03 |

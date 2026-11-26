@@ -4,8 +4,8 @@
 
 3 online assessment questions reported at Snapchat, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Decode Ways / Alphanumeric Combination](https://trueinterview.io/questions/decode-ways) | Coding | Medium | New grad | Software Engineer | 2025-07 |
-| [Count Events Before Timestamp](https://trueinterview.io/questions/0b95fc5b-51c9-4dbd-952b-731e6e606dfb) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
-| [LeetCode 626](https://trueinterview.io/questions/ced96981-8e5c-4ba2-b1d9-eef1e3f20c7f) | SQL | Easy | New grad, Mid, Senior | Data Scientist | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Decode Ways / Alphanumeric Combination](https://trueinterview.io/questions/decode-ways) | Coding | - | Medium | New grad | Software Engineer | 2025-07 |
+| [Count Events Before Timestamp](https://trueinterview.io/questions/snapchat-count-events-before-timestamp) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |
+| [LeetCode 626](https://trueinterview.io/questions/snapchat-leetcode-626) | SQL | - | Easy | New grad, Mid, Senior | Data Scientist | - |

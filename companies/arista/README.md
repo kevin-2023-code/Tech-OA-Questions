@@ -4,7 +4,7 @@
 
 2 online assessment questions reported at Arista, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Palindrome String Check (Handle Empty and Null)](https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352) | Coding | Easy | Mid | Software Engineer | 2026-03 |
-| [Remove all occurrences of a target value from a linked list](https://trueinterview.io/questions/c1b98ae1-5c9a-4dfc-b252-7d04bd84a544) | Coding | Easy | Mid | Software Engineer | 2026-03 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Palindrome String Check (Handle Empty and Null)](https://trueinterview.io/questions/arista-palindrome-string-check-handle-empty-and-null) | Coding | - | Easy | Mid | Software Engineer | 2026-03 |
+| [Remove all occurrences of a target value from a linked list](https://trueinterview.io/questions/arista-remove-all-occurrences-of-a-target-value-from-a-linked-list) | Coding | - | Easy | Mid | Software Engineer | 2026-03 |

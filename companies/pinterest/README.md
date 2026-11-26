@@ -4,23 +4,23 @@
 
 18 online assessment questions reported at Pinterest, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Compute Recall and FPR from Confusion Matrices to Select Classifiers](https://trueinterview.io/questions/compute-recall-and-fpr-from-confusion-matrices-to-select-classifiers) | Coding | Easy | Intern, New grad | Machine Learning Engineer | 2026-10 |
-| [Ensemble Learning Trade-offs and Why Bagging Reduces Overfitting](https://trueinterview.io/questions/ensemble-learning-trade-offs-and-why-bagging-reduces-overfitting) | Behavioral / concept | - | New grad, Mid | Machine Learning Engineer | 2026-10 |
-| [Find All Strict Local Maxima in an Integer Array](https://trueinterview.io/questions/find-all-strict-local-maxima-in-an-integer-array) | Coding | Easy | New grad, Mid, Senior | Software Engineer | 2026-10 |
-| [Hand-Compute a Small Neural Network Forward Pass with a Sigmoid Output](https://trueinterview.io/questions/hand-compute-a-small-neural-network-forward-pass-with-a-sigmoid-output) | Behavioral / concept | - | Intern, New grad, Mid | Machine Learning Engineer | 2026-10 |
-| [Implement a Decision Tree Classifier and a Bagging Ensemble from Scratch](https://trueinterview.io/questions/implement-a-decision-tree-classifier-and-a-bagging-ensemble-from-scratch) | Coding | Hard | Intern, New grad | Machine Learning Engineer | 2026-10 |
-| [Implement a k-Nearest Neighbors Classifier from Scratch](https://trueinterview.io/questions/implement-a-k-nearest-neighbors-classifier-from-scratch) | OOD / LLD | Easy | Intern, New grad | Machine Learning Engineer | 2026-10 |
-| [Implement Linear Regression with Batch Gradient Descent from Scratch](https://trueinterview.io/questions/implement-linear-regression-with-batch-gradient-descent-from-scratch) | Coding | Medium | New grad, Mid, Senior | Machine Learning Engineer | 2026-10 |
-| [Which Regularization Penalties Set Model Coefficients Exactly to Zero](https://trueinterview.io/questions/which-regularization-penalties-set-model-coefficients-exactly-to-zero) | Behavioral / concept | - | New grad, Mid, Senior | Machine Learning Engineer | 2026-10 |
-| [Highly Active User Percentage by Country](https://trueinterview.io/questions/f31f02a5-b053-59b1-a6ed-4246c575cd9c) | SQL | Medium | Mid | Data Scientist | 2026-09 |
-| [Top Two Categories by Engagement Rate per Country](https://trueinterview.io/questions/3b783d83-6ac7-5599-9792-a02269856670) | SQL | Medium | Mid | Data Scientist | 2026-09 |
-| [MCQ + NN Forward + Coding + ML Implementations)](https://trueinterview.io/questions/mle-intern-codesignal-oa) | Behavioral / concept | - | New grad | Machine Learning Engineer | 2026-06 |
-| [Check If All Numbers in a Window Are Monotonic](https://trueinterview.io/questions/b713b44f-bc25-4935-8f17-c24342c90f89) | Coding | Easy | New grad | Software Engineer | 2026-06 |
-| [Longest Run of Identical Characters](https://trueinterview.io/questions/ee3f373d-6a1f-5751-b6f7-d7f4577b6670) | Coding | Easy | New grad, Mid | Software Engineer | 2026-05 |
-| [Answer core ML fundamentals questions](https://trueinterview.io/questions/answer-core-ml-fundamentals-questions) | Behavioral / concept | - | Mid, Senior | Machine Learning Engineer | 2026-02 |
-| [Implement bagging with decision trees](https://trueinterview.io/questions/implement-bagging-with-decision-trees) | Coding | Medium | New grad, Mid, Senior | Machine Learning Engineer | 2026-02 |
-| [Delete Node in a Linked List](https://trueinterview.io/questions/13d6911a-76ff-4500-b9d4-54ca1a194576) | Coding | Easy | Intern, Senior | Software Engineer | 2025-12 |
-| [Search Engine Input Suggestions](https://trueinterview.io/questions/d56954e6-11b8-45ac-a5b1-2d26c7bd2506) | Coding | Easy | Senior | Software Engineer | 2025-12 |
-| [Set Equality Verification](https://trueinterview.io/questions/0def6fa8-60e7-41ea-bf60-ab321aa731ea) | Coding | Easy | Senior | Software Engineer | 2025-12 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Compute Recall and FPR from Confusion Matrices to Select Classifiers](https://trueinterview.io/questions/compute-recall-and-fpr-from-confusion-matrices-to-select-classifiers) | Coding | - | Easy | Intern, New grad | Machine Learning Engineer | 2026-10 |
+| [Ensemble Learning Trade-offs and Why Bagging Reduces Overfitting](https://trueinterview.io/questions/ensemble-learning-trade-offs-and-why-bagging-reduces-overfitting) | Behavioral / concept | - | - | New grad, Mid | Machine Learning Engineer | 2026-10 |
+| [Find All Strict Local Maxima in an Integer Array](https://trueinterview.io/questions/find-all-strict-local-maxima-in-an-integer-array) | Coding | - | Easy | New grad, Mid, Senior | Software Engineer | 2026-10 |
+| [Hand-Compute a Small Neural Network Forward Pass with a Sigmoid Output](https://trueinterview.io/questions/hand-compute-a-small-neural-network-forward-pass-with-a-sigmoid-output) | Behavioral / concept | - | - | Intern, New grad, Mid | Machine Learning Engineer | 2026-10 |
+| [Implement a Decision Tree Classifier and a Bagging Ensemble from Scratch](https://trueinterview.io/questions/implement-a-decision-tree-classifier-and-a-bagging-ensemble-from-scratch) | Coding | - | Hard | Intern, New grad | Machine Learning Engineer | 2026-10 |
+| [Implement a k-Nearest Neighbors Classifier from Scratch](https://trueinterview.io/questions/implement-a-k-nearest-neighbors-classifier-from-scratch) | OOD / LLD | - | Easy | Intern, New grad | Machine Learning Engineer | 2026-10 |
+| [Implement Linear Regression with Batch Gradient Descent from Scratch](https://trueinterview.io/questions/implement-linear-regression-with-batch-gradient-descent-from-scratch) | Coding | - | Medium | New grad, Mid, Senior | Machine Learning Engineer | 2026-10 |
+| [Which Regularization Penalties Set Model Coefficients Exactly to Zero](https://trueinterview.io/questions/which-regularization-penalties-set-model-coefficients-exactly-to-zero) | Behavioral / concept | - | - | New grad, Mid, Senior | Machine Learning Engineer | 2026-10 |
+| [Highly Active User Percentage by Country](https://trueinterview.io/questions/pinterest-highly-active-user-percentage-by-country) | SQL | - | Medium | Mid | Data Scientist | 2026-09 |
+| [Top Two Categories by Engagement Rate per Country](https://trueinterview.io/questions/pinterest-top-two-categories-by-engagement-rate-per-country) | SQL | - | Medium | Mid | Data Scientist | 2026-09 |
+| [MCQ + NN Forward + Coding + ML Implementations)](https://trueinterview.io/questions/mle-intern-codesignal-oa) | Behavioral / concept | CodeSignal | - | New grad | Machine Learning Engineer | 2026-06 |
+| [Check If All Numbers in a Window Are Monotonic](https://trueinterview.io/questions/pinterest-check-if-all-numbers-in-a-window-are-monotonic) | Coding | - | Easy | New grad | Software Engineer | 2026-06 |
+| [Longest Run of Identical Characters](https://trueinterview.io/questions/netflix-longest-run-of-identical-characters) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-05 |
+| [Answer core ML fundamentals questions](https://trueinterview.io/questions/answer-core-ml-fundamentals-questions) | Behavioral / concept | - | - | Mid, Senior | Machine Learning Engineer | 2026-02 |
+| [Implement bagging with decision trees](https://trueinterview.io/questions/implement-bagging-with-decision-trees) | Coding | - | Medium | New grad, Mid, Senior | Machine Learning Engineer | 2026-02 |
+| [Delete Node in a Linked List](https://trueinterview.io/questions/pinterest-delete-node-in-a-linked-list) | Coding | - | Easy | Intern, Senior | Software Engineer | 2025-12 |
+| [Search Engine Input Suggestions](https://trueinterview.io/questions/pinterest-search-engine-input-suggestions) | Coding | - | Easy | Senior | Software Engineer | 2025-12 |
+| [Set Equality Verification](https://trueinterview.io/questions/pinterest-set-equality-verification) | Coding | - | Easy | Senior | Software Engineer | 2025-12 |

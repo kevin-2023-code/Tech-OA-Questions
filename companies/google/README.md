@@ -4,39 +4,39 @@
 
 34 online assessment questions reported at Google, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Work-style and ethics judgment: customer gifts, harassment, coworker growth](https://trueinterview.io/questions/work-style-and-ethics-judgment-customer-gifts-harassment-coworker-growth) | Behavioral / concept | - | Intern, New grad | Software Engineer | 2026-10 |
-| [Count Evenings Needed to Finish Whole Chapters in Order](https://trueinterview.io/questions/count-evenings-needed-to-finish-whole-chapters-in-order) | Coding | Medium | New grad, Mid | Software Engineer | 2026-10 |
-| [Count Failing, Passing, and Honor-Roll Scores](https://trueinterview.io/questions/count-failing-passing-and-honor-roll-scores) | Coding | Easy | Intern, New grad | Software Engineer | 2026-10 |
-| [Answer Google Behavioral Questions](https://trueinterview.io/questions/answer-google-behavioral-questions) | Behavioral / concept | - | New grad, Mid, Senior | Data Scientist | 2026-10 |
-| [Google Hiring Assessment (GHA / Work Styles)](https://trueinterview.io/questions/google-hiring-assessment-gha) | Behavioral / concept | - | New grad, Mid | Software Engineer | 2026-10 |
-| [Maximum Concurrent Processes / Meeting Rooms](https://trueinterview.io/questions/maximum-concurrent-processes) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
-| [Contains Duplicate II](https://trueinterview.io/questions/contains-duplicate-ii) | Coding | Easy | Mid, Senior | Software Engineer | 2026-09 |
-| [Shortest Hexadecimal Color Shorthand](https://trueinterview.io/questions/f648a475-f86a-5f36-84b7-405961491e63) | Coding | Easy | Mid | Software Engineer | 2026-09 |
-| [Top K Most Active Users](https://trueinterview.io/questions/8d468bff-638e-555e-ba6c-f586cf99e6c5) | Coding | Easy | Mid | Software Engineer | 2026-09 |
-| [Count Paths That Can Form a Palindrome in a Tree](https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree) | Coding | Hard | New grad | Software Engineer | 2026-08 |
-| [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | Coding | Medium | Mid | Software Engineer | 2026-08 |
-| [Partition Numbers by Distinct Frequencies](https://trueinterview.io/questions/288aa01a-6399-551f-a549-1c3aaa1ce231) | Coding | Easy | Senior | Software Engineer | 2026-08 |
-| [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | Coding | Easy | Mid | Quantitative Finance | 2026-07 |
-| [Determine Whether an Integer Is a Palindrome](https://trueinterview.io/questions/7d106dbb-29a3-5a4f-ad22-8068feb4ecda) | Coding | Easy | Mid | Software Engineer | 2026-07 |
-| [Minimum Machines for Task Scheduling](https://trueinterview.io/questions/e02c3223-11d4-4282-b5b6-f97380da0e36) | Coding | Medium | Mid | Software Engineer | 2026-07 |
-| [Email Checksum + Verification-String Lookup](https://trueinterview.io/questions/oa-email-checksum-verification-string) | Coding | Easy | Intern, New grad | Software Engineer | 2026-05 |
-| [Feature Rollout with Dependency Cycle Detection](https://trueinterview.io/questions/oa-feature-rollout-dependency-cycle-report) | Coding | Medium | New grad | Software Engineer | 2026-05 |
-| [Collect Coins on 1D Board](https://trueinterview.io/questions/oa-collect-coins-1d-board) | Coding | Medium | New grad, Mid | Software Engineer | 2026-05 |
-| [Largest Group Sharing a Digit](https://trueinterview.io/questions/oa-group-two-digit-numbers-shared-digit) | Coding | Medium | New grad | Software Engineer | 2026-05 |
-| [Minimum Distance Between People and Cakes](https://trueinterview.io/questions/787ed7cb-16c1-4605-a606-93dbbc22cb6c) | Coding | Easy | Mid | Software Engineer | 2026-05 |
-| [Choose Your Workplace Style](https://trueinterview.io/questions/choose-your-workplace-style) | Behavioral / concept | - | Intern, New grad, Mid | Software Engineer | 2026-04 |
-| [Minimum Operations to Reduce an Integer to 0](https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Choose best/worst actions in workplace ethics scenarios](https://trueinterview.io/questions/choose-best-worst-actions-in-workplace-ethics-scenarios) | Behavioral / concept | - | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Range Updates Using Difference Array (Template Problem)](https://trueinterview.io/questions/19526ad7-c78c-462e-a59d-80239253617a) | Coding | Easy | New grad | Software Engineer | 2026-04 |
-| [Chunking with an Unsplittable Header](https://trueinterview.io/questions/2f337555-8465-4711-9231-ee00cf57b26c) | Coding | Easy | New grad | Software Engineer | 2026-03 |
-| [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Coding | Medium | New grad | Software Engineer | 2026-02 |
-| [Find largest group of two-digit numbers sharing digits](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | Coding | Medium | New grad | Software Engineer | 2025-12 |
-| [Group Array](https://trueinterview.io/questions/19b3ac67-7f53-4497-9f89-93551984b216) | Coding | Easy | New grad | Software Engineer | 2025-12 |
-| [Maximum Coins Eaten](https://trueinterview.io/questions/6eca8cb0-2bbe-4bed-8e49-48257111c9b7) | Coding | Easy | New grad | Software Engineer | 2025-12 |
-| [Maximum Related Numbers](https://trueinterview.io/questions/19b56bf2-394c-4931-aabe-3c28383eb7a3) | Coding | Easy | New grad | Software Engineer | 2025-12 |
-| [Segregate Binary String (Move Ones to End)](https://trueinterview.io/questions/segregate-binary-string-move-ones) | Coding | Easy | Mid | Quantitative Finance | 2025-08 |
-| [Analyze video flags and reviews with SQL](https://trueinterview.io/questions/analyze-video-flags-and-reviews-with-sql) | SQL | Medium | New grad, Mid, Senior | Data Scientist | - |
-| [Find First Greater or Equal Element](https://trueinterview.io/questions/215ab576-ac0c-498c-b4b3-e14e50b24539) | Coding | Easy | Mid | Software Engineer | - |
-| [Refactoring Exercise](https://trueinterview.io/questions/c827c677-e606-4d3c-8704-230bdc66ab55) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Work-style and ethics judgment: customer gifts, harassment, coworker growth](https://trueinterview.io/questions/work-style-and-ethics-judgment-customer-gifts-harassment-coworker-growth) | Behavioral / concept | - | - | Intern, New grad | Software Engineer | 2026-10 |
+| [Count Evenings Needed to Finish Whole Chapters in Order](https://trueinterview.io/questions/count-evenings-needed-to-finish-whole-chapters-in-order) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-10 |
+| [Count Failing, Passing, and Honor-Roll Scores](https://trueinterview.io/questions/count-failing-passing-and-honor-roll-scores) | Coding | - | Easy | Intern, New grad | Software Engineer | 2026-10 |
+| [Answer Google Behavioral Questions](https://trueinterview.io/questions/answer-google-behavioral-questions) | Behavioral / concept | - | - | New grad, Mid, Senior | Data Scientist | 2026-10 |
+| [Google Hiring Assessment (GHA / Work Styles)](https://trueinterview.io/questions/google-hiring-assessment-gha) | Behavioral / concept | - | - | New grad, Mid | Software Engineer | 2026-10 |
+| [Maximum Concurrent Processes / Meeting Rooms](https://trueinterview.io/questions/maximum-concurrent-processes) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
+| [Contains Duplicate II](https://trueinterview.io/questions/contains-duplicate-ii) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-09 |
+| [Shortest Hexadecimal Color Shorthand](https://trueinterview.io/questions/google-shortest-hexadecimal-color-shorthand) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
+| [Top K Most Active Users](https://trueinterview.io/questions/google-top-k-most-active-users) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
+| [Count Paths That Can Form a Palindrome in a Tree](https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree) | Coding | - | Hard | New grad | Software Engineer | 2026-08 |
+| [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | Coding | - | Medium | Mid | Software Engineer | 2026-08 |
+| [Partition Numbers by Distinct Frequencies](https://trueinterview.io/questions/google-partition-numbers-by-distinct-frequencies) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |
+| [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | Coding | - | Easy | Mid | Quantitative Finance | 2026-07 |
+| [Determine Whether an Integer Is a Palindrome](https://trueinterview.io/questions/bytedance-determine-whether-an-integer-is-a-palindrome) | Coding | - | Easy | Mid | Software Engineer | 2026-07 |
+| [Minimum Machines for Task Scheduling](https://trueinterview.io/questions/expedia-minimum-machines-for-task-scheduling) | Coding | - | Medium | Mid | Software Engineer | 2026-07 |
+| [Email Checksum + Verification-String Lookup](https://trueinterview.io/questions/oa-email-checksum-verification-string) | Coding | - | Easy | Intern, New grad | Software Engineer | 2026-05 |
+| [Feature Rollout with Dependency Cycle Detection](https://trueinterview.io/questions/oa-feature-rollout-dependency-cycle-report) | Coding | - | Medium | New grad | Software Engineer | 2026-05 |
+| [Collect Coins on 1D Board](https://trueinterview.io/questions/oa-collect-coins-1d-board) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-05 |
+| [Largest Group Sharing a Digit](https://trueinterview.io/questions/oa-group-two-digit-numbers-shared-digit) | Coding | - | Medium | New grad | Software Engineer | 2026-05 |
+| [Minimum Distance Between People and Cakes](https://trueinterview.io/questions/google-minimum-distance-between-people-and-cakes) | Coding | - | Easy | Mid | Software Engineer | 2026-05 |
+| [Choose Your Workplace Style](https://trueinterview.io/questions/choose-your-workplace-style) | Behavioral / concept | - | - | Intern, New grad, Mid | Software Engineer | 2026-04 |
+| [Minimum Operations to Reduce an Integer to 0](https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
+| [Choose best/worst actions in workplace ethics scenarios](https://trueinterview.io/questions/choose-best-worst-actions-in-workplace-ethics-scenarios) | Behavioral / concept | - | - | New grad, Mid, Senior | Software Engineer | 2026-04 |
+| [Range Updates Using Difference Array (Template Problem)](https://trueinterview.io/questions/google-range-updates-using-difference-array-template-problem) | Coding | - | Easy | New grad | Software Engineer | 2026-04 |
+| [Chunking with an Unsplittable Header](https://trueinterview.io/questions/google-chunking-with-an-unsplittable-header) | Coding | - | Easy | New grad | Software Engineer | 2026-03 |
+| [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Coding | - | Medium | New grad | Software Engineer | 2026-02 |
+| [Find largest group of two-digit numbers sharing digits](https://trueinterview.io/questions/find-largest-group-of-two-digit-numbers-sharing-digits) | Coding | - | Medium | New grad | Software Engineer | 2025-12 |
+| [Group Array](https://trueinterview.io/questions/19b3ac67-7f53-4497-9f89-93551984b216) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
+| [Maximum Coins Eaten](https://trueinterview.io/questions/6eca8cb0-2bbe-4bed-8e49-48257111c9b7) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
+| [Maximum Related Numbers](https://trueinterview.io/questions/19b56bf2-394c-4931-aabe-3c28383eb7a3) | Coding | - | Easy | New grad | Software Engineer | 2025-12 |
+| [Segregate Binary String (Move Ones to End)](https://trueinterview.io/questions/segregate-binary-string-move-ones) | Coding | - | Easy | Mid | Quantitative Finance | 2025-08 |
+| [Analyze video flags and reviews with SQL](https://trueinterview.io/questions/analyze-video-flags-and-reviews-with-sql) | SQL | - | Medium | New grad, Mid, Senior | Data Scientist | - |
+| [Find First Greater or Equal Element](https://trueinterview.io/questions/google-find-first-greater-or-equal-element) | Coding | - | Easy | Mid | Software Engineer | - |
+| [Refactoring Exercise](https://trueinterview.io/questions/google-refactoring-exercise) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |

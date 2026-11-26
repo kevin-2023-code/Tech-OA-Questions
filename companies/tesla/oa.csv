@@ -1,7 +1,7 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Find Size of Largest Subset,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/find-size-of-largest-subset
-Fuel Station Queue Simulation,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/fuel-station-queue-simulation
-Cumulative Monthly Sales by Store with Month Reset,SQL,Medium,Mid,Data Scientist,2026-04,https://trueinterview.io/questions/9d1b5b0b-959c-478c-9173-5af85df0dc1b
-Daily Metrics by Order Status in a Single SQL Pass,SQL,Easy,Mid,Data Scientist,2026-04,https://trueinterview.io/questions/3af30983-ab64-4415-98d1-c212ec5c39dc
-Find All Reports Under a Manager (n-level) and Return Hierarchy Path,SQL,Medium,Mid,Data Scientist,2026-04,https://trueinterview.io/questions/1f1e4db4-8e81-4550-86b1-5c5fb18fcb61
-Decode Ways / Alphanumeric Combination,Coding,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/decode-ways
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Find Size of Largest Subset,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/find-size-of-largest-subset
+Fuel Station Queue Simulation,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/fuel-station-queue-simulation
+Cumulative Monthly Sales by Store with Month Reset,SQL,,Medium,Mid,Data Scientist,2026-04,https://trueinterview.io/questions/tesla-cumulative-monthly-sales-by-store-with-month-reset
+Daily Metrics by Order Status in a Single SQL Pass,SQL,,Easy,Mid,Data Scientist,2026-04,https://trueinterview.io/questions/tesla-daily-metrics-by-order-status-in-a-single-sql-pass
+Find All Reports Under a Manager (n-level) and Return Hierarchy Path,SQL,,Medium,Mid,Data Scientist,2026-04,https://trueinterview.io/questions/tesla-find-all-reports-under-a-manager-n-level-and-return-hierarchy-path
+Decode Ways / Alphanumeric Combination,Coding,,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/decode-ways

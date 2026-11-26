@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Bobyard, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Add sorting to a comment list with persistence across refresh](https://trueinterview.io/questions/9efb740a-713a-4618-aee6-a2161feaabc5) | Coding | Easy | Senior | Frontend Engineer | 2026-04 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Add sorting to a comment list with persistence across refresh](https://trueinterview.io/questions/bobyard-add-sorting-to-a-comment-list-with-persistence-across-refresh) | Coding | - | Easy | Senior | Frontend Engineer | 2026-04 |

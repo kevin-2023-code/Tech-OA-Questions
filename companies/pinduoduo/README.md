@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Pinduoduo, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Sort Colors and Sizes](https://trueinterview.io/questions/23ca2a64-66e5-4330-97ce-05fdcb3672cc) | Coding | Easy | New grad | Software Engineer | 2025-05 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Sort Colors and Sizes](https://trueinterview.io/questions/pinduoduo-sort-colors-and-sizes) | Coding | - | Easy | New grad | Software Engineer | 2025-05 |

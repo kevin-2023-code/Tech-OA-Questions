@@ -4,8 +4,8 @@
 
 3 online assessment questions reported at Visa, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Best Time to Buy and Sell Stock](https://trueinterview.io/questions/b22b8d56-b468-4bec-86db-22b981d32761) | Coding | Easy | Senior | Software Engineer | 2026-08 |
-| [Connected Groups](https://trueinterview.io/questions/6053e4f1-8399-5673-bbd5-ae75726d6a0b) | Coding | Easy | Staff+ | Software Engineer | 2026-07 |
-| [Hash Map Counting / Lookup Problem](https://trueinterview.io/questions/ad5888a6-8606-4bb2-9983-c9f28184e6d6) | Coding | Easy | Mid | Software Engineer | 2026-06 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Best Time to Buy and Sell Stock](https://trueinterview.io/questions/visa-best-time-to-buy-and-sell-stock) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |
+| [Connected Groups](https://trueinterview.io/questions/visa-connected-groups) | Coding | - | Easy | Staff+ | Software Engineer | 2026-07 |
+| [Hash Map Counting / Lookup Problem](https://trueinterview.io/questions/microsoft-hash-map-counting-lookup-problem) | Coding | - | Easy | Mid | Software Engineer | 2026-06 |

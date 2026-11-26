@@ -4,7 +4,7 @@
 
 2 online assessment questions reported at Okta, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Build an Auth0-based MCP Server (Hands-on)](https://trueinterview.io/questions/oa-mcp-auth0-server) | AI coding | Hard | New grad | Backend Engineer | 2025-11 |
-| [Unique Paths](https://trueinterview.io/questions/6d951c54-52b0-4703-b541-a928b1d855ed) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Build an Auth0-based MCP Server (Hands-on)](https://trueinterview.io/questions/oa-mcp-auth0-server) | AI coding | CodeSignal | Hard | New grad | Backend Engineer | 2025-11 |
+| [Unique Paths](https://trueinterview.io/questions/okta-unique-paths) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |

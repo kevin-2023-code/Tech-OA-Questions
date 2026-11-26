@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Figma, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Validate INDENT/DEDENT Token Sequence](https://trueinterview.io/questions/c9e11307-d41a-5d23-8371-436987ec6541) | Coding | Easy | Senior | Software Engineer | 2026-08 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Validate INDENT/DEDENT Token Sequence](https://trueinterview.io/questions/figma-validate-indent-dedent-token-sequence) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |

@@ -4,15 +4,15 @@
 
 10 online assessment questions reported at Oracle, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Add One to a Number Represented by Digits Without ArrayList](https://trueinterview.io/questions/928c453b-ec05-5a5d-ab6c-58c7147da117) | Coding | Easy | Senior | Backend Engineer | 2026-08 |
-| [Best Time to Buy and Sell Stock](https://trueinterview.io/questions/b22b8d56-b468-4bec-86db-22b981d32761) | Coding | Easy | Senior | Software Engineer | 2026-08 |
-| [Remove Even-Positioned Nodes from a Singly Linked List](https://trueinterview.io/questions/c88afd74-8f74-56e2-87d5-312fdedc5a14) | Coding | Easy | Senior | Software Engineer | 2026-08 |
-| [Swap Two Variables Without Using Temporary Variable](https://trueinterview.io/questions/68870b4c-8508-4508-88c9-186133ebadf8) | Coding | Easy | Senior | Software Engineer | 2026-08 |
-| [Missing Number](https://trueinterview.io/questions/42d82a10-60bb-5d00-8b5c-f33dc969fb80) | Coding | Easy | Senior | Software Engineer | 2026-06 |
-| [Generate all permutations of a list](https://trueinterview.io/questions/55b47ffb-5c4d-4c32-b3fc-350263687e62) | Coding | Easy | Mid | Software Engineer | 2026-02 |
-| [Eliminate Adjacent Duplicate Characters](https://trueinterview.io/questions/eliminate-adjacent-duplicate-characters) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2025-11 |
-| [Palindrome Check with Ignore Set](https://trueinterview.io/questions/palindrome-check-with-ignore-set) | Coding | Easy | Intern, New grad | Software Engineer | 2025-11 |
-| [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | Coding | Easy | Mid | Software Engineer | - |
-| [Sum of Root To Leaf Binary Numbers](https://trueinterview.io/questions/dc973cce-cdef-5be4-b8d4-83e37296c291) | Coding | Easy | New grad, Mid, Senior | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Add One to a Number Represented by Digits Without ArrayList](https://trueinterview.io/questions/oracle-add-one-to-a-number-represented-by-digits-without-arraylist) | Coding | - | Easy | Senior | Backend Engineer | 2026-08 |
+| [Best Time to Buy and Sell Stock](https://trueinterview.io/questions/visa-best-time-to-buy-and-sell-stock) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |
+| [Remove Even-Positioned Nodes from a Singly Linked List](https://trueinterview.io/questions/oracle-remove-even-positioned-nodes-from-a-singly-linked-list) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |
+| [Swap Two Variables Without Using Temporary Variable](https://trueinterview.io/questions/apple-swap-two-variables-without-using-temporary-variable) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |
+| [Missing Number](https://trueinterview.io/questions/oracle-missing-number) | Coding | - | Easy | Senior | Software Engineer | 2026-06 |
+| [Generate all permutations of a list](https://trueinterview.io/questions/oracle-generate-all-permutations-of-a-list) | Coding | - | Easy | Mid | Software Engineer | 2026-02 |
+| [Eliminate Adjacent Duplicate Characters](https://trueinterview.io/questions/eliminate-adjacent-duplicate-characters) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2025-11 |
+| [Palindrome Check with Ignore Set](https://trueinterview.io/questions/palindrome-check-with-ignore-set) | Coding | - | Easy | Intern, New grad | Software Engineer | 2025-11 |
+| [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | Coding | - | Easy | Mid | Software Engineer | - |
+| [Sum of Root To Leaf Binary Numbers](https://trueinterview.io/questions/oracle-sum-of-root-to-leaf-binary-numbers) | Coding | - | Easy | New grad, Mid, Senior | Software Engineer | - |

@@ -1,9 +1,9 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Palindrome Detection,Coding,Easy,Mid,Quantitative Finance,2026-09,https://trueinterview.io/questions/f9fabc2f-0e3c-4bbe-aad2-3825752960c3
-Palindrome String Check (Handle Empty and Null),Coding,Easy,Mid,Software Engineer,2026-03,https://trueinterview.io/questions/904ad21b-eb42-4b7f-a319-5ca42e393352
-Build and evaluate imbalanced binary classifier,Behavioral / concept,,Mid; Senior; Staff+,Data Scientist,2025-11,https://trueinterview.io/questions/build-and-evaluate-imbalanced-binary-classifier
-Achieve 0.95 precision via thresholding,Coding,Medium,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/achieve-0-95-precision-via-thresholding
-Compute averages and binomial/Poisson probabilities,Behavioral / concept,,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/compute-averages-and-binomial-poisson-probabilities
-Compute posterior and predictive coin probabilities,Behavioral / concept,,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/compute-posterior-and-predictive-coin-probabilities
-"Explain AUC, activations, ensembles, and imbalance",Behavioral / concept,,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/explain-auc-activations-ensembles-and-imbalance
-Transform and aggregate messy event data,Coding,Hard,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/transform-and-aggregate-messy-event-data
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Palindrome Detection,Coding,HackerRank,Easy,Mid,Quantitative Finance,2026-09,https://trueinterview.io/questions/citadel-palindrome-detection
+Palindrome String Check (Handle Empty and Null),Coding,,Easy,Mid,Software Engineer,2026-03,https://trueinterview.io/questions/arista-palindrome-string-check-handle-empty-and-null
+Build and evaluate imbalanced binary classifier,Behavioral / concept,,,Mid; Senior; Staff+,Data Scientist,2025-11,https://trueinterview.io/questions/build-and-evaluate-imbalanced-binary-classifier
+Achieve 0.95 precision via thresholding,Coding,,Medium,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/achieve-0-95-precision-via-thresholding
+Compute averages and binomial/Poisson probabilities,Behavioral / concept,,,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/compute-averages-and-binomial-poisson-probabilities
+Compute posterior and predictive coin probabilities,Behavioral / concept,,,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/compute-posterior-and-predictive-coin-probabilities
+"Explain AUC, activations, ensembles, and imbalance",Behavioral / concept,,,New grad; Mid; Senior,Data Scientist,,https://trueinterview.io/questions/explain-auc-activations-ensembles-and-imbalance
+Transform and aggregate messy event data,Coding,,Hard,Intern; New grad; Mid,Data Scientist,,https://trueinterview.io/questions/transform-and-aggregate-messy-event-data

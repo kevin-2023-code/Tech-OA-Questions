@@ -4,8 +4,8 @@
 
 3 online assessment questions reported at Atlassian, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Calculate and Sort Customer Ratings](https://trueinterview.io/questions/f0ad4811-d7eb-4489-beee-e2ff1149f904) | Coding | Easy | Senior | Software Engineer | 2026-02 |
-| [Is one string a subsequence of another?](https://trueinterview.io/questions/bc22cdd6-a42e-4871-9342-b3016bba9933) | Coding | Easy | Senior | Software Engineer | 2026-01 |
-| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | Easy | New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Calculate and Sort Customer Ratings](https://trueinterview.io/questions/atlassian-calculate-and-sort-customer-ratings) | Coding | - | Easy | Senior | Software Engineer | 2026-02 |
+| [Is one string a subsequence of another?](https://trueinterview.io/questions/atlassian-is-one-string-a-subsequence-of-another) | Coding | - | Easy | Senior | Software Engineer | 2026-01 |
+| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | - | Easy | New grad, Mid | Software Engineer | - |

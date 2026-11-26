@@ -4,11 +4,11 @@
 
 6 online assessment questions reported at Walmart Labs, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [AI-Assisted Full-Stack Project Debugging](https://trueinterview.io/questions/ai-assisted-fullstack-oa) | AI coding | Medium | Mid, Senior | Software Engineer | 2026-07 |
-| [Minimum Talent-Complete Team from Every Start](https://trueinterview.io/questions/minimum-talent-complete-team-from-each-start) | Coding | Medium | Mid | Software Engineer | 2026-07 |
-| [Work Schedule](https://trueinterview.io/questions/work-schedule) | Coding | Medium | Mid | Software Engineer | 2026-07 |
-| [Permutation Maximizing Σ B\[i\] where B\[i\] > A\[i\]](https://trueinterview.io/questions/permutation-max-greater-sum) | Coding | Easy | New grad | Software Engineer | 2026-05 |
-| [Find the First Corrupted Character](https://trueinterview.io/questions/8593ff20-396d-44a7-9fb2-21c5eee2d0e1) | Coding | Easy | Senior | Software Engineer | 2025-12 |
-| [Last-Mile Business Queries (Aggregations, Joins, Windows, Dates, Optimization)](https://trueinterview.io/questions/0621ce99-ba72-46ab-b3f0-3bbc90c0f217) | SQL | Medium | New grad, Mid, Senior | Data Scientist | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [AI-Assisted Full-Stack Project Debugging](https://trueinterview.io/questions/ai-assisted-fullstack-oa) | AI coding | - | Medium | Mid, Senior | Software Engineer | 2026-07 |
+| [Minimum Talent-Complete Team from Every Start](https://trueinterview.io/questions/minimum-talent-complete-team-from-each-start) | Coding | - | Medium | Mid | Software Engineer | 2026-07 |
+| [Work Schedule](https://trueinterview.io/questions/work-schedule) | Coding | - | Medium | Mid | Software Engineer | 2026-07 |
+| [Permutation Maximizing Σ B\[i\] where B\[i\] > A\[i\]](https://trueinterview.io/questions/permutation-max-greater-sum) | Coding | - | Easy | New grad | Software Engineer | 2026-05 |
+| [Find the First Corrupted Character](https://trueinterview.io/questions/walmart-labs-find-the-first-corrupted-character) | Coding | - | Easy | Senior | Software Engineer | 2025-12 |
+| [Last-Mile Business Queries (Aggregations, Joins, Windows, Dates, Optimization)](https://trueinterview.io/questions/walmart-labs-last-mile-business-queries-aggregations-joins-windows-dates) | SQL | - | Medium | New grad, Mid, Senior | Data Scientist | - |

@@ -4,8 +4,8 @@
 
 3 online assessment questions reported at GEICO, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Matrix Multiplication](https://trueinterview.io/questions/8873c68e-43b6-476d-be5f-36030a3aec82) | Coding | Easy | Mid, Senior | Software Engineer | 2026-05 |
-| [Airplane Seat Parsing and Availability Computation](https://trueinterview.io/questions/5520d3bb-3303-4d7d-a26a-92467abe119a) | Coding | Easy | Senior | Software Engineer | 2026-02 |
-| [Text Editor String Operations: Insert, Delete, Get Character](https://trueinterview.io/questions/60a0d918-8055-4c96-9280-0c3fac523eba) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Matrix Multiplication](https://trueinterview.io/questions/microsoft-matrix-multiplication) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-05 |
+| [Airplane Seat Parsing and Availability Computation](https://trueinterview.io/questions/geico-airplane-seat-parsing-and-availability-computation) | Coding | - | Easy | Senior | Software Engineer | 2026-02 |
+| [Text Editor String Operations: Insert, Delete, Get Character](https://trueinterview.io/questions/geico-text-editor-string-operations-insert-delete-get-character) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |

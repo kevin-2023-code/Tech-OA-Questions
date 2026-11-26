@@ -4,20 +4,20 @@
 
 15 online assessment questions reported at Bitkernel, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Analyze TCP three-way handshake states](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | Behavioral / concept | - | New grad, Mid, Senior | Platform Engineer | 2025-10 |
-| [Choose best prompt for AI code debugging](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | Behavioral / concept | - | Intern, New grad, Mid | AI Engineer | 2025-10 |
-| [Classify concurrency anomaly between two transactions](https://trueinterview.io/questions/classify-concurrency-anomaly-between-two-transactions) | Behavioral / concept | - | New grad, Mid, Senior | Backend Engineer | 2025-10 |
-| [Convert binary tree traversals to forest count](https://trueinterview.io/questions/convert-binary-tree-traversals-to-forest-count) | Behavioral / concept | - | New grad, Mid, Senior | Software Engineer | 2025-10 |
-| [Count binary search steps for specific keys](https://trueinterview.io/questions/count-binary-search-steps-for-specific-keys) | Behavioral / concept | - | Intern, New grad, Mid | Software Engineer | 2025-10 |
-| [Count calls in recursive function evaluation](https://trueinterview.io/questions/count-calls-in-recursive-function-evaluation) | Behavioral / concept | - | Intern, New grad, Mid | Software Engineer | 2025-10 |
-| [Detect impossible binary search comparison sequence](https://trueinterview.io/questions/detect-impossible-binary-search-comparison-sequence) | Behavioral / concept | - | New grad, Mid, Senior | Software Engineer | 2025-10 |
-| [Evaluate C for-loop execution count](https://trueinterview.io/questions/evaluate-c-for-loop-execution-count) | Behavioral / concept | - | Intern, New grad, Mid | Software Engineer | 2025-10 |
-| [Identify incorrect HTTP status code description](https://trueinterview.io/questions/identify-incorrect-http-status-code-description) | Behavioral / concept | - | Intern, New grad, Mid | Backend Engineer | 2025-10 |
-| [Identify incorrect statement about primary keys](https://trueinterview.io/questions/identify-incorrect-statement-about-primary-keys) | Behavioral / concept | - | Intern, New grad, Mid | Backend Engineer | 2025-10 |
-| [Identify incorrect statement about sockets](https://trueinterview.io/questions/identify-incorrect-statement-about-sockets) | Behavioral / concept | - | Intern, New grad, Mid | Platform Engineer | 2025-10 |
-| [Order SQL query logical processing steps](https://trueinterview.io/questions/order-sql-query-logical-processing-steps) | Behavioral / concept | - | New grad, Mid, Senior | Data Scientist | 2025-10 |
-| [Solve cups logic puzzle with one true statement](https://trueinterview.io/questions/solve-cups-logic-puzzle-with-one-true-statement) | Behavioral / concept | - | Intern, New grad | Software Engineer | 2025-10 |
-| [Trace first pass of heap sort](https://trueinterview.io/questions/trace-first-pass-of-heap-sort) | Behavioral / concept | - | New grad, Mid, Senior | Software Engineer | 2025-10 |
-| [Implement popup and redirect in JavaScript](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | Coding | Medium | New grad, Mid, Senior | Frontend Engineer | 2025-10 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Analyze TCP three-way handshake states](https://trueinterview.io/questions/analyze-tcp-three-way-handshake-states) | Behavioral / concept | - | - | New grad, Mid, Senior | Platform Engineer | 2025-10 |
+| [Choose best prompt for AI code debugging](https://trueinterview.io/questions/choose-best-prompt-for-ai-code-debugging) | Behavioral / concept | - | - | Intern, New grad, Mid | AI Engineer | 2025-10 |
+| [Classify concurrency anomaly between two transactions](https://trueinterview.io/questions/classify-concurrency-anomaly-between-two-transactions) | Behavioral / concept | - | - | New grad, Mid, Senior | Backend Engineer | 2025-10 |
+| [Convert binary tree traversals to forest count](https://trueinterview.io/questions/convert-binary-tree-traversals-to-forest-count) | Behavioral / concept | - | - | New grad, Mid, Senior | Software Engineer | 2025-10 |
+| [Count binary search steps for specific keys](https://trueinterview.io/questions/count-binary-search-steps-for-specific-keys) | Behavioral / concept | - | - | Intern, New grad, Mid | Software Engineer | 2025-10 |
+| [Count calls in recursive function evaluation](https://trueinterview.io/questions/count-calls-in-recursive-function-evaluation) | Behavioral / concept | - | - | Intern, New grad, Mid | Software Engineer | 2025-10 |
+| [Detect impossible binary search comparison sequence](https://trueinterview.io/questions/detect-impossible-binary-search-comparison-sequence) | Behavioral / concept | - | - | New grad, Mid, Senior | Software Engineer | 2025-10 |
+| [Evaluate C for-loop execution count](https://trueinterview.io/questions/evaluate-c-for-loop-execution-count) | Behavioral / concept | - | - | Intern, New grad, Mid | Software Engineer | 2025-10 |
+| [Identify incorrect HTTP status code description](https://trueinterview.io/questions/identify-incorrect-http-status-code-description) | Behavioral / concept | - | - | Intern, New grad, Mid | Backend Engineer | 2025-10 |
+| [Identify incorrect statement about primary keys](https://trueinterview.io/questions/identify-incorrect-statement-about-primary-keys) | Behavioral / concept | - | - | Intern, New grad, Mid | Backend Engineer | 2025-10 |
+| [Identify incorrect statement about sockets](https://trueinterview.io/questions/identify-incorrect-statement-about-sockets) | Behavioral / concept | - | - | Intern, New grad, Mid | Platform Engineer | 2025-10 |
+| [Order SQL query logical processing steps](https://trueinterview.io/questions/order-sql-query-logical-processing-steps) | Behavioral / concept | - | - | New grad, Mid, Senior | Data Scientist | 2025-10 |
+| [Solve cups logic puzzle with one true statement](https://trueinterview.io/questions/solve-cups-logic-puzzle-with-one-true-statement) | Behavioral / concept | - | - | Intern, New grad | Software Engineer | 2025-10 |
+| [Trace first pass of heap sort](https://trueinterview.io/questions/trace-first-pass-of-heap-sort) | Behavioral / concept | - | - | New grad, Mid, Senior | Software Engineer | 2025-10 |
+| [Implement popup and redirect in JavaScript](https://trueinterview.io/questions/implement-popup-and-redirect-in-javascript) | Coding | - | Medium | New grad, Mid, Senior | Frontend Engineer | 2025-10 |

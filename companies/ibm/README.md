@@ -4,28 +4,28 @@
 
 23 online assessment questions reported at IBM, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Customers with High Average Resource Usage](https://trueinterview.io/questions/sql-high-average-resource-usage) | SQL | Easy | New grad | Data Scientist | 2026-10 |
-| [Maximum Concurrent Processes / Meeting Rooms](https://trueinterview.io/questions/maximum-concurrent-processes) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
-| [Six Timed Behavioral Prompts: AI Tools, Debugging, Teamwork, Explaining, Goals, Quality](https://trueinterview.io/questions/six-timed-behavioral-prompts-ai-tools-debugging-teamwork-explaining-goals-quality) | Behavioral / concept | - | New grad, Mid | Software Engineer | 2026-09 |
-| [VM Rental Revenue from Changing Stock](https://trueinterview.io/questions/vm-rental-revenue) | Coding | Medium | New grad, Mid | Software Engineer | 2026-09 |
-| [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Coding | Medium | New grad, Mid | Software Engineer | 2026-08 |
-| [Card Packets with Identical Distribution](https://trueinterview.io/questions/card-packets-with-identical-distribution) | Coding | Medium | Intern, New grad | Software Engineer | 2026-05 |
-| [Count 3^x * 5^y Numbers and Decreasing Subarrays](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | Coding | Medium | New grad | Software Engineer | 2026-04 |
-| [Count strictly decreasing-by-1 subarrays of length at least 2](https://trueinterview.io/questions/a411438c-f3c1-4036-b11a-9bc8151d5e16) | Coding | Easy | New grad | Software Engineer | 2026-04 |
-| [Maximum Number of Palindromic Strings](https://trueinterview.io/questions/maximum-palindromic-strings) | Coding | Medium | New grad | Software Engineer | 2026-03 |
-| [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Coding | Medium | New grad | Software Engineer | 2026-02 |
-| [Reverse Last Two Characters with a Space](https://trueinterview.io/questions/aed17c65-c5b3-4e56-a00d-9edbfd9f0f59) | Coding | Easy | New grad | Software Engineer | 2026-02 |
-| [JSON Prediction Diff](https://trueinterview.io/questions/json-prediction-diff) | Coding | Easy | Intern, New grad | Software Engineer | 2025-11 |
-| [Minimum Insertions to Form Repeated abc Pattern](https://trueinterview.io/questions/minimum-insertions-to-abc-pattern) | Coding | Easy | New grad | Software Engineer | 2025-11 |
-| [Process Execution Time (Merge Inclusive Intervals)](https://trueinterview.io/questions/process-execution-time-merge-intervals) | Coding | Medium | Mid | Software Engineer | 2025-11 |
-| [Frontend CSS Flexbox Layout Task](https://trueinterview.io/questions/frontend-css-flexbox-layout) | OOD / LLD | Easy | - | Data & AI, Software | 2025-10 |
-| [Find minimum operations to make array sorted](https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted) | Coding | Hard | Mid, Senior | Software Engineer | 2025-10 |
-| [Rate Limiter by IP Address](https://trueinterview.io/questions/rate-limiter-by-ip-address) | Coding | Medium | New grad, Mid | Backend Engineer | 2025-09 |
-| [Minimum Link Reallocation to Connect Repositories](https://trueinterview.io/questions/minimum-link-reallocation) | Coding | Medium | New grad | Software Engineer | 2025-09 |
-| [Earliest Coordinate Reach with Optional Moves](https://trueinterview.io/questions/earliest-coordinate-reach-with-optional-moves) | Coding | Medium | Mid | Software Engineer | 2025-09 |
-| [Sliding-Window Rate Limiter / Abuse IP Detection](https://trueinterview.io/questions/sliding-window-rate-limiter-and-abuse-ips) | Coding | Medium | Mid | Software Engineer | 2025-09 |
-| [Max Distinct Counts After Splitting Array](https://trueinterview.io/questions/distinct-count-split) | Coding | Medium | New grad, Mid | Software Engineer | 2025-07 |
-| [Minimum Removal Rounds by Smallest Response Time](https://trueinterview.io/questions/minimum-removal-rounds-by-smallest-response-time) | Coding | Medium | New grad, Mid | Software Engineer | 2025-07 |
-| [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | Coding | Easy | Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Customers with High Average Resource Usage](https://trueinterview.io/questions/sql-high-average-resource-usage) | SQL | - | Easy | New grad | Data Scientist | 2026-10 |
+| [Maximum Concurrent Processes / Meeting Rooms](https://trueinterview.io/questions/maximum-concurrent-processes) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
+| [Six Timed Behavioral Prompts: AI Tools, Debugging, Teamwork, Explaining, Goals, Quality](https://trueinterview.io/questions/six-timed-behavioral-prompts-ai-tools-debugging-teamwork-explaining-goals-quality) | Behavioral / concept | - | - | New grad, Mid | Software Engineer | 2026-09 |
+| [VM Rental Revenue from Changing Stock](https://trueinterview.io/questions/vm-rental-revenue) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-09 |
+| [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Coding | HackerRank | Medium | New grad, Mid | Software Engineer | 2026-08 |
+| [Card Packets with Identical Distribution](https://trueinterview.io/questions/card-packets-with-identical-distribution) | Coding | - | Medium | Intern, New grad | Software Engineer | 2026-05 |
+| [Count 3^x * 5^y Numbers and Decreasing Subarrays](https://trueinterview.io/questions/dotnet-number-and-decreasing-subarray-oa) | Coding | - | Medium | New grad | Software Engineer | 2026-04 |
+| [Count strictly decreasing-by-1 subarrays of length at least 2](https://trueinterview.io/questions/ibm-count-strictly-decreasing-by-1-subarrays-of-length-at-least-2) | Coding | - | Easy | New grad | Software Engineer | 2026-04 |
+| [Maximum Number of Palindromic Strings](https://trueinterview.io/questions/maximum-palindromic-strings) | Coding | - | Medium | New grad | Software Engineer | 2026-03 |
+| [Minimum Length Subarray with K Distinct Numbers](https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct) | Coding | - | Medium | New grad | Software Engineer | 2026-02 |
+| [Reverse Last Two Characters with a Space](https://trueinterview.io/questions/ibm-reverse-last-two-characters-with-a-space) | Coding | - | Easy | New grad | Software Engineer | 2026-02 |
+| [JSON Prediction Diff](https://trueinterview.io/questions/json-prediction-diff) | Coding | - | Easy | Intern, New grad | Software Engineer | 2025-11 |
+| [Minimum Insertions to Form Repeated abc Pattern](https://trueinterview.io/questions/minimum-insertions-to-abc-pattern) | Coding | - | Easy | New grad | Software Engineer | 2025-11 |
+| [Process Execution Time (Merge Inclusive Intervals)](https://trueinterview.io/questions/process-execution-time-merge-intervals) | Coding | - | Medium | Mid | Software Engineer | 2025-11 |
+| [Frontend CSS Flexbox Layout Task](https://trueinterview.io/questions/frontend-css-flexbox-layout) | OOD / LLD | - | Easy | - | Data & AI, Software | 2025-10 |
+| [Find minimum operations to make array sorted](https://trueinterview.io/questions/find-minimum-operations-to-make-array-sorted) | Coding | - | Hard | Mid, Senior | Software Engineer | 2025-10 |
+| [Rate Limiter by IP Address](https://trueinterview.io/questions/rate-limiter-by-ip-address) | Coding | - | Medium | New grad, Mid | Backend Engineer | 2025-09 |
+| [Minimum Link Reallocation to Connect Repositories](https://trueinterview.io/questions/minimum-link-reallocation) | Coding | - | Medium | New grad | Software Engineer | 2025-09 |
+| [Earliest Coordinate Reach with Optional Moves](https://trueinterview.io/questions/earliest-coordinate-reach-with-optional-moves) | Coding | - | Medium | Mid | Software Engineer | 2025-09 |
+| [Sliding-Window Rate Limiter / Abuse IP Detection](https://trueinterview.io/questions/sliding-window-rate-limiter-and-abuse-ips) | Coding | - | Medium | Mid | Software Engineer | 2025-09 |
+| [Max Distinct Counts After Splitting Array](https://trueinterview.io/questions/distinct-count-split) | Coding | - | Medium | New grad, Mid | Software Engineer | 2025-07 |
+| [Minimum Removal Rounds by Smallest Response Time](https://trueinterview.io/questions/minimum-removal-rounds-by-smallest-response-time) | Coding | - | Medium | New grad, Mid | Software Engineer | 2025-07 |
+| [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/56074ec6-dddf-458d-8d85-3fdd4430c2de) | Coding | - | Easy | Mid | Software Engineer | - |

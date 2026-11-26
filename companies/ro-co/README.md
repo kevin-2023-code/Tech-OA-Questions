@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Ro Co, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Debug an inaccurate patient-message triage classifier service and write up fixes](https://trueinterview.io/questions/debug-an-inaccurate-patient-message-triage-classifier-service-and-write-up-fixes) | Coding | Hard | Senior | Machine Learning Engineer | 2026-09 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Debug an inaccurate patient-message triage classifier service and write up fixes](https://trueinterview.io/questions/debug-an-inaccurate-patient-message-triage-classifier-service-and-write-up-fixes) | Coding | - | Hard | Senior | Machine Learning Engineer | 2026-09 |

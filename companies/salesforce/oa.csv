@@ -1,28 +1,28 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Maximum Requests in a Time Window,Coding,Easy,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/maximum-requests-in-time-window
-Minimum Replacements for Adjacent Duplicate Characters,Coding,Medium,New grad; Mid,Software Engineer,2026-08,https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates
-Determine Whether a Date Falls on a Weekend,Coding,Easy,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/4445f526-42ef-5256-bc53-b6614133cfc3
-Path Sum in a Binary Tree,Coding,Easy,Senior,Software Engineer,2026-08,https://trueinterview.io/questions/47b63952-31a7-5519-a5d6-16d0eecff233
-"Delete One Character Type, Minimize Unique-Character Segments",Coding,Medium,New grad,Software Engineer,2026-07,https://trueinterview.io/questions/delete-character-minimize-unique-segments
-Minimum Knight Moves,Coding,Medium,Senior,Software Engineer,2026-07,https://trueinterview.io/questions/minimum-knight-moves
-Solve Two Coding Problems,Coding,Medium,Senior,Software Engineer,2026-04,https://trueinterview.io/questions/solve-two-oa-coding-problems
-String Compression,Coding,Medium,Mid,Software Engineer,2026-04,https://trueinterview.io/questions/string-compression-oa
-Minimum Operations to Reduce an Integer to 0,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0
-Maximum Number of Palindromic Strings,Coding,Medium,New grad,Software Engineer,2026-03,https://trueinterview.io/questions/maximum-palindromic-strings
-Code Review of a Python Repository,AI coding,Medium,New grad,Software Engineer,2026-03,https://trueinterview.io/questions/code-review-oa
-Delete Every Value That Repeats in an Unsorted Singly Linked List,Coding,Easy,New grad; Mid; Senior,Software Engineer,2026-02,https://trueinterview.io/questions/delete-every-value-that-repeats-in-an-unsorted-singly-linked-list
-TypeScript Test and Code Refactor,AI coding,Medium,Senior,Frontend Engineer,2026-02,https://trueinterview.io/questions/typescript-refactor-oa
-Singly Linked List — Remove Duplicate Values,Coding,Easy,Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/linked-list-remove-duplicates
-Longest Subsequence of X That Is a Substring of Y,Coding,Medium,Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/longest-subsequence-substring
-Top K Points,Coding,Easy,Senior,Software Engineer,2026-01,https://trueinterview.io/questions/259d81a6-4969-4ebb-9aaa-7c6466a0845f
-Array Left / Right Duplicate Check (Binary Strings),Coding,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/array-left-right-duplicate-check
-Binary String Synchronous '01' → '10' Replacement,Coding,Hard,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/binary-string-01-10-swap
-Solve array duplicate flags and binary swaps,Coding,Medium,New grad; Mid; Senior,Software Engineer,2025-12,https://trueinterview.io/questions/solve-array-duplicate-flags-and-binary-swaps
-Bit Pattern (MTS),Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/14c1b63f-b5bf-4cec-9ee7-4e5c54e8b2b5
-Count Numbers with Unique Digits,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/24b829ff-76e9-4eeb-a1b5-bbfea0437c4e
-Find Words in String Not in Subsequence,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/a21005a4-c9a6-4555-bd24-9a18d77c05d6
-Min Cost to Complete All Projects,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/08ff536a-d720-46c5-be65-d1ae3443bead
-Most Visited Marker in Sprint Training,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/65f00d0c-3f95-41c3-9de7-a7efa08dfd1f
-Schedule Batch Difference,Coding,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/196f56f0-c674-4d5d-b2f4-8e5f97f8e0c1
-Spam Classification,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/32ae8ac4-07db-42b6-9ace-a99f3b13c4ed
-Tool Changer,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/1b6c9c29-7ec9-404a-9861-0b75a31d9dd5
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Maximum Requests in a Time Window,Coding,,Easy,New grad,Software Engineer,2026-09,https://trueinterview.io/questions/maximum-requests-in-time-window
+Minimum Replacements for Adjacent Duplicate Characters,Coding,HackerRank,Medium,New grad; Mid,Software Engineer,2026-08,https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates
+Determine Whether a Date Falls on a Weekend,Coding,HackerRank,Easy,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/salesforce-determine-whether-a-date-falls-on-a-weekend
+Path Sum in a Binary Tree,Coding,,Easy,Senior,Software Engineer,2026-08,https://trueinterview.io/questions/salesforce-path-sum-in-a-binary-tree
+"Delete One Character Type, Minimize Unique-Character Segments",Coding,,Medium,New grad,Software Engineer,2026-07,https://trueinterview.io/questions/delete-character-minimize-unique-segments
+Minimum Knight Moves,Coding,,Medium,Senior,Software Engineer,2026-07,https://trueinterview.io/questions/minimum-knight-moves
+Solve Two Coding Problems,Coding,,Medium,Senior,Software Engineer,2026-04,https://trueinterview.io/questions/solve-two-oa-coding-problems
+String Compression,Coding,HackerRank,Medium,Mid,Software Engineer,2026-04,https://trueinterview.io/questions/string-compression-oa
+Minimum Operations to Reduce an Integer to 0,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0
+Maximum Number of Palindromic Strings,Coding,,Medium,New grad,Software Engineer,2026-03,https://trueinterview.io/questions/maximum-palindromic-strings
+Code Review of a Python Repository,AI coding,,Medium,New grad,Software Engineer,2026-03,https://trueinterview.io/questions/code-review-oa
+Delete Every Value That Repeats in an Unsorted Singly Linked List,Coding,,Easy,New grad; Mid; Senior,Software Engineer,2026-02,https://trueinterview.io/questions/delete-every-value-that-repeats-in-an-unsorted-singly-linked-list
+TypeScript Test and Code Refactor,AI coding,HackerRank,Medium,Senior,Frontend Engineer,2026-02,https://trueinterview.io/questions/typescript-refactor-oa
+Singly Linked List — Remove Duplicate Values,Coding,HackerRank,Easy,Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/linked-list-remove-duplicates
+Longest Subsequence of X That Is a Substring of Y,Coding,HackerRank,Medium,Mid; Senior,Software Engineer,2026-01,https://trueinterview.io/questions/longest-subsequence-substring
+Top K Points,Coding,,Easy,Senior,Software Engineer,2026-01,https://trueinterview.io/questions/salesforce-top-k-points
+Array Left / Right Duplicate Check (Binary Strings),Coding,,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/array-left-right-duplicate-check
+Binary String Synchronous '01' → '10' Replacement,Coding,,Hard,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/binary-string-01-10-swap
+Solve array duplicate flags and binary swaps,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2025-12,https://trueinterview.io/questions/solve-array-duplicate-flags-and-binary-swaps
+Bit Pattern (MTS),Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/salesforce-bit-pattern-mts
+Count Numbers with Unique Digits,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/salesforce-count-numbers-with-unique-digits
+Find Words in String Not in Subsequence,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/salesforce-find-words-in-string-not-in-subsequence
+Min Cost to Complete All Projects,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/salesforce-min-cost-to-complete-all-projects
+Most Visited Marker in Sprint Training,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/salesforce-most-visited-marker-in-sprint-training
+Schedule Batch Difference,Coding,,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/salesforce-schedule-batch-difference
+Spam Classification,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/salesforce-spam-classification
+Tool Changer,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/salesforce-tool-changer

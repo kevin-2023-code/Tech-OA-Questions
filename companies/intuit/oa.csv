@@ -1,8 +1,8 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Bash Largest File from Listing Output,Coding,Medium,New grad; Mid,Software Engineer,2026-01,https://trueinterview.io/questions/bash-largest-file-from-ls-output
-DNA Substring Palindrome Cost Sum,Coding,Medium,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/dna-substring-palindrome-cost-sum
-Transactions Status Report SQL,SQL,Medium,New grad,Data Scientist,2025-12,https://trueinterview.io/questions/transactions-status-report-sql
-Clean String: Remove Punctuation and Stop Words,Coding,Easy,New grad,Software Engineer,2025-11,https://trueinterview.io/questions/clean-string-remove-punctuation-stop-words
-Three-Column Grid Coloring Count,Coding,Medium,New grad,Software Engineer,2025-11,https://trueinterview.io/questions/three-column-grid-coloring-count
-Look-and-Say Sequence,Coding,Easy,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/look-and-say-sequence
-SQL Related Multiple Choice,SQL,Easy,Intern; New grad,Data Scientist,,https://trueinterview.io/questions/aba450f6-4f57-4470-8608-cf72eb213c12
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Bash Largest File from Listing Output,Coding,,Medium,New grad; Mid,Software Engineer,2026-01,https://trueinterview.io/questions/bash-largest-file-from-ls-output
+DNA Substring Palindrome Cost Sum,Coding,,Medium,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/dna-substring-palindrome-cost-sum
+Transactions Status Report SQL,SQL,,Medium,New grad,Data Scientist,2025-12,https://trueinterview.io/questions/transactions-status-report-sql
+Clean String: Remove Punctuation and Stop Words,Coding,,Easy,New grad,Software Engineer,2025-11,https://trueinterview.io/questions/clean-string-remove-punctuation-stop-words
+Three-Column Grid Coloring Count,Coding,,Medium,New grad,Software Engineer,2025-11,https://trueinterview.io/questions/three-column-grid-coloring-count
+Look-and-Say Sequence,Coding,,Easy,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/look-and-say-sequence
+SQL Related Multiple Choice,SQL,,Easy,Intern; New grad,Data Scientist,,https://trueinterview.io/questions/intuit-sql-related-multiple-choice

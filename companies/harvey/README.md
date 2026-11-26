@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Harvey, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Citation Problem](https://trueinterview.io/questions/e56966f5-529a-4c66-880f-7b903adcf76e) | Coding | Easy | Mid, Senior | Software Engineer | 2026-07 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Citation Problem](https://trueinterview.io/questions/harvey-citation-problem) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-07 |

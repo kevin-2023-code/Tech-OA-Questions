@@ -1,5 +1,5 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Implement Binary Focal Loss,Coding,Easy,Mid,Machine Learning Engineer,2026-06,https://trueinterview.io/questions/5bb12488-878a-5601-87cd-e71d171a50cc
-Geography Related Log Query,Coding,Easy,Senior,Software Engineer,2025-11,https://trueinterview.io/questions/4e25dade-77dd-4886-a217-9542455cab48
-Detect Duplicate Words in Paragraph Ignoring Case,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/f66f9244-8126-4fce-a31f-23c5a3974b69
-Find Repeated Words in Text Using Regular Expressions,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/0f0b2ee7-c88c-46e8-b6af-1e88cf27aa6f
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Implement Binary Focal Loss,Coding,,Easy,Mid,Machine Learning Engineer,2026-06,https://trueinterview.io/questions/datadog-implement-binary-focal-loss
+Geography Related Log Query,Coding,,Easy,Senior,Software Engineer,2025-11,https://trueinterview.io/questions/datadog-geography-related-log-query
+Detect Duplicate Words in Paragraph Ignoring Case,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/datadog-detect-duplicate-words-in-paragraph-ignoring-case
+Find Repeated Words in Text Using Regular Expressions,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/datadog-find-repeated-words-in-text-using-regular-expressions

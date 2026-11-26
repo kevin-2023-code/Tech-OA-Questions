@@ -4,12 +4,12 @@
 
 7 online assessment questions reported at Intuit, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Bash Largest File from Listing Output](https://trueinterview.io/questions/bash-largest-file-from-ls-output) | Coding | Medium | New grad, Mid | Software Engineer | 2026-01 |
-| [DNA Substring Palindrome Cost Sum](https://trueinterview.io/questions/dna-substring-palindrome-cost-sum) | Coding | Medium | New grad | Software Engineer | 2025-12 |
-| [Transactions Status Report SQL](https://trueinterview.io/questions/transactions-status-report-sql) | SQL | Medium | New grad | Data Scientist | 2025-12 |
-| [Clean String: Remove Punctuation and Stop Words](https://trueinterview.io/questions/clean-string-remove-punctuation-stop-words) | Coding | Easy | New grad | Software Engineer | 2025-11 |
-| [Three-Column Grid Coloring Count](https://trueinterview.io/questions/three-column-grid-coloring-count) | Coding | Medium | New grad | Software Engineer | 2025-11 |
-| [Look-and-Say Sequence](https://trueinterview.io/questions/look-and-say-sequence) | Coding | Easy | Mid | Software Engineer | 2025-09 |
-| [SQL Related Multiple Choice](https://trueinterview.io/questions/aba450f6-4f57-4470-8608-cf72eb213c12) | SQL | Easy | Intern, New grad | Data Scientist | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Bash Largest File from Listing Output](https://trueinterview.io/questions/bash-largest-file-from-ls-output) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-01 |
+| [DNA Substring Palindrome Cost Sum](https://trueinterview.io/questions/dna-substring-palindrome-cost-sum) | Coding | - | Medium | New grad | Software Engineer | 2025-12 |
+| [Transactions Status Report SQL](https://trueinterview.io/questions/transactions-status-report-sql) | SQL | - | Medium | New grad | Data Scientist | 2025-12 |
+| [Clean String: Remove Punctuation and Stop Words](https://trueinterview.io/questions/clean-string-remove-punctuation-stop-words) | Coding | - | Easy | New grad | Software Engineer | 2025-11 |
+| [Three-Column Grid Coloring Count](https://trueinterview.io/questions/three-column-grid-coloring-count) | Coding | - | Medium | New grad | Software Engineer | 2025-11 |
+| [Look-and-Say Sequence](https://trueinterview.io/questions/look-and-say-sequence) | Coding | - | Easy | Mid | Software Engineer | 2025-09 |
+| [SQL Related Multiple Choice](https://trueinterview.io/questions/intuit-sql-related-multiple-choice) | SQL | - | Easy | Intern, New grad | Data Scientist | - |

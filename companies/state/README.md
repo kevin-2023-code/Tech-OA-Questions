@@ -4,6 +4,6 @@
 
 1 online assessment question reported at State, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Explain Java Automatic Memory Management: Heap, Reachability and Garbage Collectors](https://trueinterview.io/questions/explain-java-automatic-memory-management-heap-reachability-and-garbage-collectors) | Behavioral / concept | - | Mid, Senior | Platform Engineer | 2026-10 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Explain Java Automatic Memory Management: Heap, Reachability and Garbage Collectors](https://trueinterview.io/questions/explain-java-automatic-memory-management-heap-reachability-and-garbage-collectors) | Behavioral / concept | - | - | Mid, Senior | Platform Engineer | 2026-10 |

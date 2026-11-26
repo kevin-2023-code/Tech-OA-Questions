@@ -4,20 +4,20 @@
 
 15 online assessment questions reported at Citadel, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Memory Blocks — Reachable MEX After One Increment](https://trueinterview.io/questions/oa-memory-block-mex-one-increment) | Coding | Medium | New grad | Quantitative Finance | 2026-10 |
-| [SDE OA Fundamentals Quiz](https://trueinterview.io/questions/sde-oa-fundamentals-quiz) | Behavioral / concept | - | New grad | Quantitative Finance | 2026-09 |
-| [Palindrome Detection](https://trueinterview.io/questions/f9fabc2f-0e3c-4bbe-aad2-3825752960c3) | Coding | Easy | Mid | Quantitative Finance | 2026-09 |
-| [Count Palindromic Substrings](https://trueinterview.io/questions/palindromic-substrings) | Coding | Medium | Mid | Software Engineer | 2026-08 |
-| [Print a Message Repeatedly with Blank Lines](https://trueinterview.io/questions/e3077f6d-c663-5701-8372-4cd14485be37) | Coding | Easy | Senior | Quantitative Finance | 2026-08 |
-| [Probability and Combinatorics Quickfire Quiz](https://trueinterview.io/questions/trading-probability-quickfire) | Behavioral / concept | - | Intern, New grad | Quantitative Finance | 2026-08 |
-| [Second Largest Distinct Value](https://trueinterview.io/questions/e94171d2-2436-5ce7-8c4f-ba711a9dc42b) | Coding | Easy | Senior | Quantitative Finance | 2026-08 |
-| [Square and Reverse a List](https://trueinterview.io/questions/053a4fe5-1f9c-51b1-a965-6f9698ca8bcd) | Coding | Easy | Senior | Quantitative Finance | 2026-08 |
-| [Word Frequency Counter](https://trueinterview.io/questions/aada71de-6b38-53c5-89d3-6988b6a5865a) | Coding | Easy | Senior | Quantitative Finance | 2026-08 |
-| [Maximum Throughput](https://trueinterview.io/questions/maximum-throughput) | Coding | Medium | New grad, Mid | Software Engineer | 2026-06 |
-| [Minimum Character Changes to Make Every k-Length Block a Palindrome](https://trueinterview.io/questions/minimum-character-changes-to-make-every-k-length-block-a-palindrome) | Coding | Medium | New grad | Software Engineer | 2026-03 |
-| [Largest Team Built Around a Core Employee](https://trueinterview.io/questions/interval-overlap-max-team) | Coding | Medium | New grad | Quantitative Finance | 2026-03 |
-| [Refactor Obfuscated C++ Code (Hidden Best-Time-To-Buy-Sell)](https://trueinterview.io/questions/obfuscated-code-refactor) | Coding | Medium | Mid | Quantitative Finance | 2026-02 |
-| [Find Earliest Available Meeting Slot](https://trueinterview.io/questions/find-earliest-available-meeting-slot) | Coding | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-01 |
-| [Non-Consecutive Process Scheduling](https://trueinterview.io/questions/grace-hopper-non-consecutive-processes) | Coding | Medium | New grad | Software Engineer | 2025-12 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Memory Blocks — Reachable MEX After One Increment](https://trueinterview.io/questions/oa-memory-block-mex-one-increment) | Coding | - | Medium | New grad | Quantitative Finance | 2026-10 |
+| [SDE OA Fundamentals Quiz](https://trueinterview.io/questions/sde-oa-fundamentals-quiz) | Behavioral / concept | - | - | New grad | Quantitative Finance | 2026-09 |
+| [Palindrome Detection](https://trueinterview.io/questions/citadel-palindrome-detection) | Coding | HackerRank | Easy | Mid | Quantitative Finance | 2026-09 |
+| [Count Palindromic Substrings](https://trueinterview.io/questions/palindromic-substrings) | Coding | - | Medium | Mid | Software Engineer | 2026-08 |
+| [Print a Message Repeatedly with Blank Lines](https://trueinterview.io/questions/citadel-print-a-message-repeatedly-with-blank-lines) | Coding | - | Easy | Senior | Quantitative Finance | 2026-08 |
+| [Probability and Combinatorics Quickfire Quiz](https://trueinterview.io/questions/trading-probability-quickfire) | Behavioral / concept | - | - | Intern, New grad | Quantitative Finance | 2026-08 |
+| [Second Largest Distinct Value](https://trueinterview.io/questions/citadel-second-largest-distinct-value) | Coding | - | Easy | Senior | Quantitative Finance | 2026-08 |
+| [Square and Reverse a List](https://trueinterview.io/questions/citadel-square-and-reverse-a-list) | Coding | - | Easy | Senior | Quantitative Finance | 2026-08 |
+| [Word Frequency Counter](https://trueinterview.io/questions/citadel-word-frequency-counter) | Coding | - | Easy | Senior | Quantitative Finance | 2026-08 |
+| [Maximum Throughput](https://trueinterview.io/questions/maximum-throughput) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
+| [Minimum Character Changes to Make Every k-Length Block a Palindrome](https://trueinterview.io/questions/minimum-character-changes-to-make-every-k-length-block-a-palindrome) | Coding | - | Medium | New grad | Software Engineer | 2026-03 |
+| [Largest Team Built Around a Core Employee](https://trueinterview.io/questions/interval-overlap-max-team) | Coding | - | Medium | New grad | Quantitative Finance | 2026-03 |
+| [Refactor Obfuscated C++ Code (Hidden Best-Time-To-Buy-Sell)](https://trueinterview.io/questions/obfuscated-code-refactor) | Coding | - | Medium | Mid | Quantitative Finance | 2026-02 |
+| [Find Earliest Available Meeting Slot](https://trueinterview.io/questions/find-earliest-available-meeting-slot) | Coding | - | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-01 |
+| [Non-Consecutive Process Scheduling](https://trueinterview.io/questions/grace-hopper-non-consecutive-processes) | Coding | - | Medium | New grad | Software Engineer | 2025-12 |

@@ -4,37 +4,37 @@
 
 32 online assessment questions reported at Microsoft, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Count Subarrays Whose Product Has an Odd Divisor Count](https://trueinterview.io/questions/count-subarrays-whose-product-has-an-odd-divisor-count) | Coding | Hard | Mid, Senior | Software Engineer | 2026-10 |
-| [Maximum Team Size with an Overlapping Hub](https://trueinterview.io/questions/maximum-team-size-with-an-overlapping-hub) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
-| [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | Coding | Hard | New grad | Software Engineer | 2026-10 |
-| [Employee Attrition Prediction](https://trueinterview.io/questions/employee-attrition-prediction) | Coding | Medium | Staff+ | Machine Learning Engineer | 2026-10 |
-| [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | Coding | Hard | Mid | Software Engineer | 2026-10 |
-| [Maximum Number of Occurrences of a Substring (LC 1297)](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | Coding | Medium | Mid | Software Engineer | 2026-10 |
-| [Delete and Earn (LC 740)](https://trueinterview.io/questions/delete-and-earn) | Coding | Medium | Mid | Software Engineer | 2026-09 |
-| [Grouped Binary Substrings](https://trueinterview.io/questions/grouped-binary-substrings) | Coding | Medium | New grad, Mid | Software Engineer | 2026-09 |
-| [Reverse a Linked List](https://trueinterview.io/questions/e65902ca-ab54-4dcc-a633-e1d3b54d718c) | Coding | Easy | Mid | Software Engineer | 2026-09 |
-| [Minimum Fuel Cost Across a Road Network](https://trueinterview.io/questions/minimum-fuel-cost-road-network) | Coding | Hard | New grad | Software Engineer | 2026-08 |
-| [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | Coding | Medium | Mid | Software Engineer | 2026-08 |
-| [Generate Lexicographically Sorted String Subsets](https://trueinterview.io/questions/0de96483-d0cb-5095-8e67-dc544847a643) | Coding | Easy | Mid | Software Engineer | 2026-08 |
-| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Coding | Easy | New grad, Mid | Software Engineer | 2026-08 |
-| [Stock Max Profit (Single or Multiple Transactions)](https://trueinterview.io/questions/7b157f40-79a0-48dd-a935-b4e27d6a6d0a) | Coding | Easy | Senior | Quantitative Finance | 2026-08 |
-| [Valid Time Combinations](https://trueinterview.io/questions/valid-time-combinations) | Coding | Medium | New grad | Software Engineer | 2026-07 |
-| [Design a replicated key-value store with quorums](https://trueinterview.io/questions/design-a-replicated-key-value-store-with-quorums) | System design | Medium | Senior, Staff+ | Backend Engineer | 2026-06 |
-| [Design device telemetry pipeline for real-time and batch](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | System design | Hard | Senior, Staff+ | Backend Engineer | 2026-06 |
-| [Hash Map Counting / Lookup Problem](https://trueinterview.io/questions/ad5888a6-8606-4bb2-9983-c9f28184e6d6) | Coding | Easy | Mid | Software Engineer | 2026-06 |
-| [Matrix Multiplication](https://trueinterview.io/questions/8873c68e-43b6-476d-be5f-36030a3aec82) | Coding | Easy | Mid, Senior | Software Engineer | 2026-05 |
-| [Move every zero to the end of an array while preserving the order of other values](https://trueinterview.io/questions/move-every-zero-to-the-end-of-an-array-while-preserving-the-order-of-other-values) | Coding | Easy | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Final Prices With a Special Discount in a Shop](https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop) | Coding | Easy | New grad | Software Engineer | 2026-04 |
-| [Rotate String (variant with two string arrays)](https://trueinterview.io/questions/5a8c9bdf-ba15-4e3f-bed8-09c457108d6e) | Coding | Easy | Mid | Software Engineer | 2026-04 |
-| [Count Positive Pairs Satisfying 1/x + 1/y = 1/N](https://trueinterview.io/questions/equations-reciprocal-pair-count) | Coding | Medium | New grad, Mid | Software Engineer | 2026-03 |
-| [Check Prefix Permutation](https://trueinterview.io/questions/oa-permutation-prefix-balanced) | Coding | Easy | New grad, Mid | Software Engineer | 2026-03 |
-| [Temporal Key-Value Store](https://trueinterview.io/questions/temporal-key-value-store-online-assessment) | Coding | Hard | Mid | Software Engineer | 2026-02 |
-| [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization) | Coding | Easy | New grad | Software Engineer | 2026-02 |
-| [Longest Subsequence of X That Is a Substring of Y](https://trueinterview.io/questions/longest-subsequence-substring) | Coding | Medium | Mid, Senior | Software Engineer | 2026-01 |
-| [Debug distributed-system performance problems](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | System design | Hard | Senior, Staff+ | Platform Engineer | 2025-12 |
-| [Invert Binary Tree](https://trueinterview.io/questions/190e82fa-f7f8-43a7-88a5-c06003cd621c) | Coding | Easy | Mid | Software Engineer | 2025-12 |
-| [Maximize Edge Sum in Graph](https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4) | Coding | Medium | New grad, Mid, Senior | Software Engineer | - |
-| [Minimal Board Length for Holes](https://trueinterview.io/questions/0df3b897-7563-413a-9bea-06eeeb50a399) | Coding | Medium | New grad, Mid, Senior | Software Engineer | - |
-| [Top K Relevant Apps by Keyword Scores](https://trueinterview.io/questions/512b2078-e57b-4c18-b5d4-995b82722fe1) | Coding | Easy | Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Count Subarrays Whose Product Has an Odd Divisor Count](https://trueinterview.io/questions/count-subarrays-whose-product-has-an-odd-divisor-count) | Coding | - | Hard | Mid, Senior | Software Engineer | 2026-10 |
+| [Maximum Team Size with an Overlapping Hub](https://trueinterview.io/questions/maximum-team-size-with-an-overlapping-hub) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-10 |
+| [Count Non-Decreasing Arrays with Target Digit Sums](https://trueinterview.io/questions/non-decreasing-digit-sum-array-count) | Coding | - | Hard | New grad | Software Engineer | 2026-10 |
+| [Employee Attrition Prediction](https://trueinterview.io/questions/employee-attrition-prediction) | Coding | CodeSignal | Medium | Staff+ | Machine Learning Engineer | 2026-10 |
+| [House Robber IV (LC 2560)](https://trueinterview.io/questions/house-robber-iv) | Coding | HackerRank | Hard | Mid | Software Engineer | 2026-10 |
+| [Maximum Number of Occurrences of a Substring (LC 1297)](https://trueinterview.io/questions/maximum-number-of-occurrences-of-a-substring) | Coding | HackerRank | Medium | Mid | Software Engineer | 2026-10 |
+| [Delete and Earn (LC 740)](https://trueinterview.io/questions/delete-and-earn) | Coding | - | Medium | Mid | Software Engineer | 2026-09 |
+| [Grouped Binary Substrings](https://trueinterview.io/questions/grouped-binary-substrings) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-09 |
+| [Reverse a Linked List](https://trueinterview.io/questions/microsoft-reverse-a-linked-list) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |
+| [Minimum Fuel Cost Across a Road Network](https://trueinterview.io/questions/minimum-fuel-cost-road-network) | Coding | - | Hard | New grad | Software Engineer | 2026-08 |
+| [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | Coding | - | Medium | Mid | Software Engineer | 2026-08 |
+| [Generate Lexicographically Sorted String Subsets](https://trueinterview.io/questions/microsoft-generate-lexicographically-sorted-string-subsets) | Coding | - | Easy | Mid | Software Engineer | 2026-08 |
+| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-08 |
+| [Stock Max Profit (Single or Multiple Transactions)](https://trueinterview.io/questions/two-sigma-stock-max-profit-single-or-multiple-transactions) | Coding | - | Easy | Senior | Quantitative Finance | 2026-08 |
+| [Valid Time Combinations](https://trueinterview.io/questions/valid-time-combinations) | Coding | - | Medium | New grad | Software Engineer | 2026-07 |
+| [Design a replicated key-value store with quorums](https://trueinterview.io/questions/design-a-replicated-key-value-store-with-quorums) | System design | - | Medium | Senior, Staff+ | Backend Engineer | 2026-06 |
+| [Design device telemetry pipeline for real-time and batch](https://trueinterview.io/questions/design-device-telemetry-pipeline-for-real-time-and-batch) | System design | - | Hard | Senior, Staff+ | Backend Engineer | 2026-06 |
+| [Hash Map Counting / Lookup Problem](https://trueinterview.io/questions/microsoft-hash-map-counting-lookup-problem) | Coding | - | Easy | Mid | Software Engineer | 2026-06 |
+| [Matrix Multiplication](https://trueinterview.io/questions/microsoft-matrix-multiplication) | Coding | - | Easy | Mid, Senior | Software Engineer | 2026-05 |
+| [Move every zero to the end of an array while preserving the order of other values](https://trueinterview.io/questions/move-every-zero-to-the-end-of-an-array-while-preserving-the-order-of-other-values) | Coding | - | Easy | New grad, Mid, Senior | Software Engineer | 2026-04 |
+| [Final Prices With a Special Discount in a Shop](https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop) | Coding | - | Easy | New grad | Software Engineer | 2026-04 |
+| [Rotate String (variant with two string arrays)](https://trueinterview.io/questions/microsoft-rotate-string-variant-with-two-string-arrays) | Coding | - | Easy | Mid | Software Engineer | 2026-04 |
+| [Count Positive Pairs Satisfying 1/x + 1/y = 1/N](https://trueinterview.io/questions/equations-reciprocal-pair-count) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-03 |
+| [Check Prefix Permutation](https://trueinterview.io/questions/oa-permutation-prefix-balanced) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-03 |
+| [Temporal Key-Value Store](https://trueinterview.io/questions/temporal-key-value-store-online-assessment) | Coding | - | Hard | Mid | Software Engineer | 2026-02 |
+| [Purchase Optimization](https://trueinterview.io/questions/purchase-optimization) | Coding | - | Easy | New grad | Software Engineer | 2026-02 |
+| [Longest Subsequence of X That Is a Substring of Y](https://trueinterview.io/questions/longest-subsequence-substring) | Coding | HackerRank | Medium | Mid, Senior | Software Engineer | 2026-01 |
+| [Debug distributed-system performance problems](https://trueinterview.io/questions/debug-distributed-system-performance-problems) | System design | - | Hard | Senior, Staff+ | Platform Engineer | 2025-12 |
+| [Invert Binary Tree](https://trueinterview.io/questions/microsoft-invert-binary-tree) | Coding | - | Easy | Mid | Software Engineer | 2025-12 |
+| [Maximize Edge Sum in Graph](https://trueinterview.io/questions/1d26ae33-53bb-4d9b-b5a4-201ff25783b4) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | - |
+| [Minimal Board Length for Holes](https://trueinterview.io/questions/microsoft-minimal-board-length-for-holes) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | - |
+| [Top K Relevant Apps by Keyword Scores](https://trueinterview.io/questions/microsoft-top-k-relevant-apps-by-keyword-scores) | Coding | - | Easy | Mid | Software Engineer | - |

@@ -4,21 +4,21 @@
 
 16 online assessment questions reported at Upstart, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | Coding | Easy | Intern, New grad, Mid | Software Engineer | 2026-09 |
-| [Compute File Size on Disk](https://trueinterview.io/questions/a211b99f-1398-5507-9083-717ef2216133) | Coding | Easy | Mid | Software Engineer | 2026-08 |
-| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Coding | Easy | New grad, Mid | Software Engineer | 2026-08 |
-| [Bounding Rectangle of Points](https://trueinterview.io/questions/9d823331-a85f-512a-b445-25f5ef04e96d) | Coding | Easy | New grad | Software Engineer | 2026-07 |
-| [Check Value Occurrence by Position and Half](https://trueinterview.io/questions/b66c3fdf-2dee-553d-ad9d-baa7bee7db8a) | Coding | Easy | New grad | Software Engineer | 2026-07 |
-| [Increase Exclamation Marks and Replace Periods](https://trueinterview.io/questions/f2aa7ead-a63b-5709-8feb-03c891c03e4d) | Coding | Easy | New grad, Mid | Software Engineer | 2026-07 |
-| [Interleave Three Equal-Length Strings](https://trueinterview.io/questions/0b074bbd-5c4d-5d9c-a970-b8bd946084a7) | Coding | Easy | New grad | Software Engineer | 2026-07 |
-| [Scale Ingredient Quantities](https://trueinterview.io/questions/9afaf0f8-87bc-5dfe-b93c-224f4075b902) | Coding | Easy | New grad | Software Engineer | 2026-07 |
-| [Buffet Restaurant Entry/Exit Billing with Capacity Constraints](https://trueinterview.io/questions/ad4d08a8-81ae-4e50-874c-42d39325d532) | Coding | Easy | Mid | Software Engineer | 2026-05 |
-| [Format Bytes into Human-Readable String (B/KB/MB)](https://trueinterview.io/questions/51be1242-45a4-47fc-9f37-e1bcd9800d17) | Coding | Easy | Mid | Software Engineer | 2026-05 |
-| [Extract disallowed URLs for bot user agents](https://trueinterview.io/questions/solve-five-oa-coding-tasks-extract-disallowed-urls-for-bot-user-agents) | Coding | Medium | Intern, New grad, Mid | Software | 2026-04 |
-| [Find incorrect digit positions in a sum](https://trueinterview.io/questions/solve-five-oa-coding-tasks-find-incorrect-digit-positions-in-a-sum) | Coding | Medium | New grad, Mid, Senior | Software | 2026-04 |
-| [Solve Reported Coding Problems](https://trueinterview.io/questions/solve-reported-oa-coding-problems) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Solve Remembered Coding Tasks](https://trueinterview.io/questions/solve-remembered-oa-coding-tasks) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2026-01 |
-| [Decipher using two hashmaps](https://trueinterview.io/questions/6a88ab18-e062-493a-80b1-528e00f50d3e) | Coding | Easy | Mid | Software Engineer | 2026-01 |
-| [addDrama](https://trueinterview.io/questions/e4325a5b-96a7-440c-8712-bfe087708f59) | Coding | Easy | Mid | Software Engineer | 2025-11 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Check Whether Two Words Are Case-Insensitive Anagrams](https://trueinterview.io/questions/check-whether-two-words-are-case-insensitive-anagrams) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | 2026-09 |
+| [Compute File Size on Disk](https://trueinterview.io/questions/upstart-compute-file-size-on-disk) | Coding | - | Easy | Mid | Software Engineer | 2026-08 |
+| [Remove Duplicates from Sorted Array](https://trueinterview.io/questions/15169e41-e24b-49dc-8789-70fdaf573c39) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-08 |
+| [Bounding Rectangle of Points](https://trueinterview.io/questions/upstart-bounding-rectangle-of-points) | Coding | - | Easy | New grad | Software Engineer | 2026-07 |
+| [Check Value Occurrence by Position and Half](https://trueinterview.io/questions/upstart-check-value-occurrence-by-position-and-half) | Coding | - | Easy | New grad | Software Engineer | 2026-07 |
+| [Increase Exclamation Marks and Replace Periods](https://trueinterview.io/questions/upstart-increase-exclamation-marks-and-replace-periods) | Coding | - | Easy | New grad, Mid | Software Engineer | 2026-07 |
+| [Interleave Three Equal-Length Strings](https://trueinterview.io/questions/upstart-interleave-three-equal-length-strings) | Coding | - | Easy | New grad | Software Engineer | 2026-07 |
+| [Scale Ingredient Quantities](https://trueinterview.io/questions/upstart-scale-ingredient-quantities) | Coding | - | Easy | New grad | Software Engineer | 2026-07 |
+| [Buffet Restaurant Entry/Exit Billing with Capacity Constraints](https://trueinterview.io/questions/upstart-buffet-restaurant-entry-exit-billing-with-capacity-constraints) | Coding | - | Easy | Mid | Software Engineer | 2026-05 |
+| [Format Bytes into Human-Readable String (B/KB/MB)](https://trueinterview.io/questions/upstart-format-bytes-into-human-readable-string-b-kb-mb) | Coding | - | Easy | Mid | Software Engineer | 2026-05 |
+| [Extract disallowed URLs for bot user agents](https://trueinterview.io/questions/solve-five-oa-coding-tasks-extract-disallowed-urls-for-bot-user-agents) | Coding | - | Medium | Intern, New grad, Mid | Software | 2026-04 |
+| [Find incorrect digit positions in a sum](https://trueinterview.io/questions/solve-five-oa-coding-tasks-find-incorrect-digit-positions-in-a-sum) | Coding | - | Medium | New grad, Mid, Senior | Software | 2026-04 |
+| [Solve Reported Coding Problems](https://trueinterview.io/questions/solve-reported-oa-coding-problems) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
+| [Solve Remembered Coding Tasks](https://trueinterview.io/questions/solve-remembered-oa-coding-tasks) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2026-01 |
+| [Decipher using two hashmaps](https://trueinterview.io/questions/upstart-decipher-using-two-hashmaps) | Coding | - | Easy | Mid | Software Engineer | 2026-01 |
+| [addDrama](https://trueinterview.io/questions/upstart-adddrama) | Coding | - | Easy | Mid | Software Engineer | 2025-11 |

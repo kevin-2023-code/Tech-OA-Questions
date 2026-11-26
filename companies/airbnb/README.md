@@ -4,18 +4,18 @@
 
 13 online assessment questions reported at Airbnb, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Progressive Banking System](https://trueinterview.io/questions/oa-banking-system-2) | OOD / LLD | Medium | New grad, Mid | Software Engineer | 2026-10 |
-| [Parcel Attribute Store](https://trueinterview.io/questions/oa-parcel-attribute-store) | OOD / LLD | Medium | New grad | Software Engineer | 2026-10 |
-| [In-Memory Banking System with Immediate, Offline and Deletable Transfers](https://trueinterview.io/questions/in-memory-banking-system-with-immediate-offline-and-deletable-transfers) | OOD / LLD | Medium | New grad | Software Engineer | 2026-09 |
-| [In-Memory File System](https://trueinterview.io/questions/oa-in-memory-file-system) | OOD / LLD | Medium | New grad | Software Engineer | 2026-09 |
-| [Calculate Page Dwell Time from Event Logs](https://trueinterview.io/questions/12a384fe-ebda-5785-9cdb-d8adeff5e3ce) | SQL | Easy | Mid | Data Scientist | 2026-09 |
-| [Median Home Price by City](https://trueinterview.io/questions/0c07a7e2-8538-52ad-a790-8c1ca6621996) | Coding | Easy | Mid | Data Scientist | 2026-09 |
-| [In-Memory Object Manager](https://trueinterview.io/questions/oa-object-manager-prefix-ttl) | OOD / LLD | Medium | Mid | Software Engineer | 2026-08 |
-| [Working Hours Register](https://trueinterview.io/questions/oa-working-hours-register) | OOD / LLD | Hard | New grad | Software Engineer | 2026-08 |
-| [FIFO Order Allocator](https://trueinterview.io/questions/a806c5ff-dc75-5b79-b259-9d5ba25d4b21) | Coding | Easy | Senior | Software Engineer | 2026-08 |
-| [Recipe Management System](https://trueinterview.io/questions/oa-recipe-management-system) | OOD / LLD | Medium | New grad | Software Engineer | 2026-07 |
-| [Parcel Tracking System](https://trueinterview.io/questions/oa-parcel-tracking-system) | OOD / LLD | Medium | Mid, Senior | Software Engineer | 2026-07 |
-| [Describe proudest project and cross-team work](https://trueinterview.io/questions/describe-proudest-project-and-cross-team-work) | Behavioral / concept | - | Mid, Senior | Software Engineer | 2026-05 |
-| [Replace Text for Review](https://trueinterview.io/questions/80731212-708a-43a5-a87a-ad06f2e56b6b) | Coding | Easy | Intern, New grad | Software Engineer | 2026-02 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Progressive Banking System](https://trueinterview.io/questions/oa-banking-system-2) | OOD / LLD | - | Medium | New grad, Mid | Software Engineer | 2026-10 |
+| [Parcel Attribute Store](https://trueinterview.io/questions/oa-parcel-attribute-store) | OOD / LLD | - | Medium | New grad | Software Engineer | 2026-10 |
+| [In-Memory Banking System with Immediate, Offline and Deletable Transfers](https://trueinterview.io/questions/in-memory-banking-system-with-immediate-offline-and-deletable-transfers) | OOD / LLD | - | Medium | New grad | Software Engineer | 2026-09 |
+| [In-Memory File System](https://trueinterview.io/questions/oa-in-memory-file-system) | OOD / LLD | CodeSignal | Medium | New grad | Software Engineer | 2026-09 |
+| [Calculate Page Dwell Time from Event Logs](https://trueinterview.io/questions/airbnb-calculate-page-dwell-time-from-event-logs) | SQL | - | Easy | Mid | Data Scientist | 2026-09 |
+| [Median Home Price by City](https://trueinterview.io/questions/airbnb-median-home-price-by-city) | Coding | - | Easy | Mid | Data Scientist | 2026-09 |
+| [In-Memory Object Manager](https://trueinterview.io/questions/oa-object-manager-prefix-ttl) | OOD / LLD | CodeSignal | Medium | Mid | Software Engineer | 2026-08 |
+| [Working Hours Register](https://trueinterview.io/questions/oa-working-hours-register) | OOD / LLD | CodeSignal | Hard | New grad | Software Engineer | 2026-08 |
+| [FIFO Order Allocator](https://trueinterview.io/questions/airbnb-fifo-order-allocator) | Coding | - | Easy | Senior | Software Engineer | 2026-08 |
+| [Recipe Management System](https://trueinterview.io/questions/oa-recipe-management-system) | OOD / LLD | - | Medium | New grad | Software Engineer | 2026-07 |
+| [Parcel Tracking System](https://trueinterview.io/questions/oa-parcel-tracking-system) | OOD / LLD | CodeSignal | Medium | Mid, Senior | Software Engineer | 2026-07 |
+| [Describe proudest project and cross-team work](https://trueinterview.io/questions/describe-proudest-project-and-cross-team-work) | Behavioral / concept | - | - | Mid, Senior | Software Engineer | 2026-05 |
+| [Replace Text for Review](https://trueinterview.io/questions/airbnb-replace-text-for-review) | Coding | - | Easy | Intern, New grad | Software Engineer | 2026-02 |

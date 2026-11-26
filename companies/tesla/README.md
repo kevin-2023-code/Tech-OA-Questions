@@ -4,11 +4,11 @@
 
 6 online assessment questions reported at Tesla, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Find Size of Largest Subset](https://trueinterview.io/questions/find-size-of-largest-subset) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-06 |
-| [Fuel Station Queue Simulation](https://trueinterview.io/questions/fuel-station-queue-simulation) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
-| [Cumulative Monthly Sales by Store with Month Reset](https://trueinterview.io/questions/9d1b5b0b-959c-478c-9173-5af85df0dc1b) | SQL | Medium | Mid | Data Scientist | 2026-04 |
-| [Daily Metrics by Order Status in a Single SQL Pass](https://trueinterview.io/questions/3af30983-ab64-4415-98d1-c212ec5c39dc) | SQL | Easy | Mid | Data Scientist | 2026-04 |
-| [Find All Reports Under a Manager (n-level) and Return Hierarchy Path](https://trueinterview.io/questions/1f1e4db4-8e81-4550-86b1-5c5fb18fcb61) | SQL | Medium | Mid | Data Scientist | 2026-04 |
-| [Decode Ways / Alphanumeric Combination](https://trueinterview.io/questions/decode-ways) | Coding | Medium | New grad | Software Engineer | 2025-07 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Find Size of Largest Subset](https://trueinterview.io/questions/find-size-of-largest-subset) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-06 |
+| [Fuel Station Queue Simulation](https://trueinterview.io/questions/fuel-station-queue-simulation) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-04 |
+| [Cumulative Monthly Sales by Store with Month Reset](https://trueinterview.io/questions/tesla-cumulative-monthly-sales-by-store-with-month-reset) | SQL | - | Medium | Mid | Data Scientist | 2026-04 |
+| [Daily Metrics by Order Status in a Single SQL Pass](https://trueinterview.io/questions/tesla-daily-metrics-by-order-status-in-a-single-sql-pass) | SQL | - | Easy | Mid | Data Scientist | 2026-04 |
+| [Find All Reports Under a Manager (n-level) and Return Hierarchy Path](https://trueinterview.io/questions/tesla-find-all-reports-under-a-manager-n-level-and-return-hierarchy-path) | SQL | - | Medium | Mid | Data Scientist | 2026-04 |
+| [Decode Ways / Alphanumeric Combination](https://trueinterview.io/questions/decode-ways) | Coding | - | Medium | New grad | Software Engineer | 2025-07 |

@@ -4,10 +4,10 @@
 
 5 online assessment questions reported at Shopify, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [C++ only, ~10 min](https://trueinterview.io/questions/swe-intern-coding-oa-c-only-10-min) | Coding | Easy | Intern, New grad, Mid | Software Engineer | 2025-08 |
-| [Dynamic programming, ~45 min, any language](https://trueinterview.io/questions/swe-intern-coding-oa-dynamic-programming-45-min-any-language) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2025-08 |
-| [Paint House](https://trueinterview.io/questions/swe-intern-coding-oa) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2025-08 |
-| [Ruby only, ~10 min](https://trueinterview.io/questions/swe-intern-coding-oa-ruby-only-10-min) | Coding | Easy | Intern, New grad | Software Engineer | 2025-08 |
-| [Simulate a Robot Following Commands on a Grid](https://trueinterview.io/questions/800f318f-3aba-4c06-9eef-ee7b1da55f6d) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [C++ only, ~10 min](https://trueinterview.io/questions/swe-intern-coding-oa-c-only-10-min) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | 2025-08 |
+| [Dynamic programming, ~45 min, any language](https://trueinterview.io/questions/swe-intern-coding-oa-dynamic-programming-45-min-any-language) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2025-08 |
+| [Paint House](https://trueinterview.io/questions/swe-intern-coding-oa) | Coding | CoderPad | Medium | New grad, Mid, Senior | Software Engineer | 2025-08 |
+| [Ruby only, ~10 min](https://trueinterview.io/questions/swe-intern-coding-oa-ruby-only-10-min) | Coding | - | Easy | Intern, New grad | Software Engineer | 2025-08 |
+| [Simulate a Robot Following Commands on a Grid](https://trueinterview.io/questions/shopify-simulate-a-robot-following-commands-on-a-grid) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |

@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Voleon, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Count Palindromic Substrings](https://trueinterview.io/questions/palindromic-substrings) | Coding | Medium | Mid | Software Engineer | 2026-08 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Count Palindromic Substrings](https://trueinterview.io/questions/palindromic-substrings) | Coding | - | Medium | Mid | Software Engineer | 2026-08 |

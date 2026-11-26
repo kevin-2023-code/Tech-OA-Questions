@@ -4,15 +4,15 @@
 
 10 online assessment questions reported at C3 AI, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Star Sum: Best k-Star Sum in a Graph](https://trueinterview.io/questions/oa-star-sum-best-k-star) | Coding | Medium | New grad | Software Engineer | 2026-10 |
-| [Can One k Always Maximize kNN Leave-One-Out Accuracy?](https://trueinterview.io/questions/can-one-k-always-maximize-knn-leave-one-out-accuracy) | Behavioral / concept | - | New grad, Mid | Data Scientist | 2026-09 |
-| [Choose a Parameter to Reduce Underfitting in Gradient-Boosted Trees](https://trueinterview.io/questions/choose-a-parameter-to-reduce-underfitting-in-gradient-boosted-trees) | Behavioral / concept | - | New grad, Mid | Data Scientist | 2026-09 |
-| [Compare How Models Respond to Multicollinearity](https://trueinterview.io/questions/compare-how-models-respond-to-multicollinearity) | Behavioral / concept | - | New grad, Mid | Data Scientist | 2026-09 |
-| [Explain the Margin View of Boosting Classification](https://trueinterview.io/questions/explain-the-margin-view-of-boosting-classification) | Behavioral / concept | - | Intern, New grad | Data Scientist | 2026-09 |
-| [Explain Training R-Squared After Adding a Random Feature](https://trueinterview.io/questions/explain-training-r-squared-after-adding-a-random-feature) | Behavioral / concept | - | New grad, Mid, Senior | Data Scientist | 2026-09 |
-| [Find the Most Likely Stopping Sum When Rolling a Die](https://trueinterview.io/questions/find-the-most-likely-stopping-sum-when-rolling-a-die) | Behavioral / concept | - | New grad, Mid | Data Scientist | 2026-09 |
-| [Identify What Does Not Fix Vanishing Gradients](https://trueinterview.io/questions/identify-what-does-not-fix-vanishing-gradients) | Behavioral / concept | - | New grad, Mid | Machine Learning Engineer | 2026-09 |
-| [Evaluate Factual Accuracy and Consistency in a Domain-Specific RAG Chatbot](https://trueinterview.io/questions/evaluate-factual-accuracy-and-consistency-in-a-domain-specific-rag-chatbot) | Behavioral / concept | - | Mid, Senior | AI Engineer | 2026-01 |
-| [Find Sizes of Connected Components in Undirected Graph](https://trueinterview.io/questions/af13d587-fd07-4ba9-b6f6-86a9f4b405ac) | Coding | Easy | New grad, Mid, Senior | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Star Sum: Best k-Star Sum in a Graph](https://trueinterview.io/questions/oa-star-sum-best-k-star) | Coding | HackerRank | Medium | New grad | Software Engineer | 2026-10 |
+| [Can One k Always Maximize kNN Leave-One-Out Accuracy?](https://trueinterview.io/questions/can-one-k-always-maximize-knn-leave-one-out-accuracy) | Behavioral / concept | - | - | New grad, Mid | Data Scientist | 2026-09 |
+| [Choose a Parameter to Reduce Underfitting in Gradient-Boosted Trees](https://trueinterview.io/questions/choose-a-parameter-to-reduce-underfitting-in-gradient-boosted-trees) | Behavioral / concept | - | - | New grad, Mid | Data Scientist | 2026-09 |
+| [Compare How Models Respond to Multicollinearity](https://trueinterview.io/questions/compare-how-models-respond-to-multicollinearity) | Behavioral / concept | - | - | New grad, Mid | Data Scientist | 2026-09 |
+| [Explain the Margin View of Boosting Classification](https://trueinterview.io/questions/explain-the-margin-view-of-boosting-classification) | Behavioral / concept | - | - | Intern, New grad | Data Scientist | 2026-09 |
+| [Explain Training R-Squared After Adding a Random Feature](https://trueinterview.io/questions/explain-training-r-squared-after-adding-a-random-feature) | Behavioral / concept | - | - | New grad, Mid, Senior | Data Scientist | 2026-09 |
+| [Find the Most Likely Stopping Sum When Rolling a Die](https://trueinterview.io/questions/find-the-most-likely-stopping-sum-when-rolling-a-die) | Behavioral / concept | - | - | New grad, Mid | Data Scientist | 2026-09 |
+| [Identify What Does Not Fix Vanishing Gradients](https://trueinterview.io/questions/identify-what-does-not-fix-vanishing-gradients) | Behavioral / concept | - | - | New grad, Mid | Machine Learning Engineer | 2026-09 |
+| [Evaluate Factual Accuracy and Consistency in a Domain-Specific RAG Chatbot](https://trueinterview.io/questions/evaluate-factual-accuracy-and-consistency-in-a-domain-specific-rag-chatbot) | Behavioral / concept | - | - | Mid, Senior | AI Engineer | 2026-01 |
+| [Find Sizes of Connected Components in Undirected Graph](https://trueinterview.io/questions/c3-ai-find-sizes-of-connected-components-in-undirected-graph) | Coding | - | Easy | New grad, Mid, Senior | Software Engineer | - |

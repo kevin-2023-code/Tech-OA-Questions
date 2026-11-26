@@ -1,5 +1,5 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-File Deduplication,Coding,Easy,Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/2c5a041b-d32a-53e1-9304-4b4d2680352f
-In-Memory Database,OOD / LLD,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/in-memory-database
-Analyze Vehicle JSON Log,Coding,Easy,Mid,Software Engineer,2025-03,https://trueinterview.io/questions/d091f935-1e00-4404-9eb1-7b80c3db58f4
-Parse String,Coding,Easy,Mid,Software Engineer,2025-03,https://trueinterview.io/questions/85e44d08-cdef-4933-a912-c1217e339beb
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+File Deduplication,Coding,,Easy,Mid; Senior,Software Engineer,2026-09,https://trueinterview.io/questions/anthropic-file-deduplication
+In-Memory Database,OOD / LLD,,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/in-memory-database
+Analyze Vehicle JSON Log,Coding,,Easy,Mid,Software Engineer,2025-03,https://trueinterview.io/questions/applied-intuition-analyze-vehicle-json-log
+Parse String,Coding,,Easy,Mid,Software Engineer,2025-03,https://trueinterview.io/questions/applied-intuition-parse-string

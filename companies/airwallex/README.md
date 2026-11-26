@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Airwallex, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [AI-Assisted Build: Tic-Tac-Toe Logic Grown Into a Frontend and Backend App](https://trueinterview.io/questions/ai-assisted-build-tic-tac-toe-logic-grown-into-a-frontend-and-backend-app) | Coding | Easy | New grad, Mid | Backend Engineer | 2026-09 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [AI-Assisted Build: Tic-Tac-Toe Logic Grown Into a Frontend and Backend App](https://trueinterview.io/questions/ai-assisted-build-tic-tac-toe-logic-grown-into-a-frontend-and-backend-app) | Coding | - | Easy | New grad, Mid | Backend Engineer | 2026-09 |

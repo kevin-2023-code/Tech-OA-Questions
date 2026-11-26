@@ -4,7 +4,7 @@
 
 2 online assessment questions reported at Affirm, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Count Reversing Triples](https://trueinterview.io/questions/count-reversing-triples) | Coding | Medium | Intern, New grad, Mid | Software Engineer | - |
-| [Prefix to Postfix](https://trueinterview.io/questions/prefix-to-postfix) | Coding | Medium | Intern, New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Count Reversing Triples](https://trueinterview.io/questions/count-reversing-triples) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | - |
+| [Prefix to Postfix](https://trueinterview.io/questions/prefix-to-postfix) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | - |

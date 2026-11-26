@@ -4,7 +4,7 @@
 
 2 online assessment questions reported at IMC, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Find k-th recipient in command propagation order](https://trueinterview.io/questions/find-k-th-recipient-in-command-propagation-order) | Coding | Medium | New grad, Mid, Senior | Quantitative Finance | 2025-12 |
-| [Choose container set to minimize waste](https://trueinterview.io/questions/choose-container-set-to-minimize-waste) | Coding | Medium | New grad, Mid, Senior | Quantitative Finance | 2025-10 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Find k-th recipient in command propagation order](https://trueinterview.io/questions/find-k-th-recipient-in-command-propagation-order) | Coding | - | Medium | New grad, Mid, Senior | Quantitative Finance | 2025-12 |
+| [Choose container set to minimize waste](https://trueinterview.io/questions/choose-container-set-to-minimize-waste) | Coding | - | Medium | New grad, Mid, Senior | Quantitative Finance | 2025-10 |

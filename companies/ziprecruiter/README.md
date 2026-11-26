@@ -4,6 +4,6 @@
 
 1 online assessment question reported at ZipRecruiter, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [In-Memory Bank Account System: Create, Deposit, Transfer and Merge Accounts](https://trueinterview.io/questions/in-memory-bank-account-system-create-deposit-transfer-and-merge-accounts) | OOD / LLD | Medium | New grad, Mid | Software Engineer | 2025-10 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [In-Memory Bank Account System: Create, Deposit, Transfer and Merge Accounts](https://trueinterview.io/questions/in-memory-bank-account-system-create-deposit-transfer-and-merge-accounts) | OOD / LLD | - | Medium | New grad, Mid | Software Engineer | 2025-10 |

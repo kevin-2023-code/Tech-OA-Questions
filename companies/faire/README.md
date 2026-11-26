@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Faire, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Sliding Window Problem](https://trueinterview.io/questions/d11caa89-857e-4682-9d73-d5df09ca2782) | Coding | Easy | Mid | Software Engineer | 2022-04 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Sliding Window Problem](https://trueinterview.io/questions/faire-sliding-window-problem) | Coding | - | Easy | Mid | Software Engineer | 2022-04 |

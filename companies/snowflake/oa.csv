@@ -1,16 +1,16 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Rate Limiter,Coding,Easy,Senior,Backend Engineer,2026-08,https://trueinterview.io/questions/5ac1e372-948a-4af9-b467-5e495795ba16
-Wiki Hopper: Crawl All Reachable Pages,Coding,Easy,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/fb29adba-08ba-5631-8405-02b39be6f187
-Work Schedule,Coding,Medium,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/work-schedule
-Maximize Pipeline Throughput,Coding,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/oa-pipeline-throughput
-Maximum Throughput,Coding,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/maximum-throughput
-Minimum Clicks Between Wiki Pages,Coding,Medium,Mid,Software,2026-05,https://trueinterview.io/questions/solve-array-distance-and-wiki-navigation-minimum-clicks-between-wiki-pages
-Minimum Distance Between People and Cakes,Coding,Easy,Mid,Software Engineer,2026-05,https://trueinterview.io/questions/787ed7cb-16c1-4605-a606-93dbbc22cb6c
-Root Equals Average of All Subtrees,Coding,Easy,Senior,Software Engineer,2026-05,https://trueinterview.io/questions/aaea0cb6-4ce4-4788-a014-8b1c1f507bd9
-Unequal Elements,Coding,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/unequal-elements
-Vowels Substring,Coding,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/vowels-substring
-Calculate Fibonacci Number,Coding,Easy,Mid,Software Engineer,2025-04,https://trueinterview.io/questions/85108a7d-7e80-47be-bae4-69bca33e7216
-Simple TypeScript Program,Coding,Easy,Mid,Software Engineer,2025-04,https://trueinterview.io/questions/3d8bad65-315a-4938-9ee9-e3567fcf8c55
-Check Validity of Input String,Coding,Easy,Mid,Software Engineer,2025-03,https://trueinterview.io/questions/3b8252fc-0be1-4755-984e-eebf16237f7a
-Determine Employees to Promote,Coding,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/4833cb6c-1b0f-42e2-95f4-751c03039086
-Vowel Substring,Coding,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/1d80c735-5231-4343-a34b-0dade4106bdb
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Rate Limiter,Coding,,Easy,Senior,Backend Engineer,2026-08,https://trueinterview.io/questions/snowflake-rate-limiter
+Wiki Hopper: Crawl All Reachable Pages,Coding,,Easy,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/snowflake-wiki-hopper-crawl-all-reachable-pages
+Work Schedule,Coding,,Medium,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/work-schedule
+Maximize Pipeline Throughput,Coding,,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/oa-pipeline-throughput
+Maximum Throughput,Coding,,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/maximum-throughput
+Minimum Clicks Between Wiki Pages,Coding,,Medium,Mid,Software,2026-05,https://trueinterview.io/questions/solve-array-distance-and-wiki-navigation-minimum-clicks-between-wiki-pages
+Minimum Distance Between People and Cakes,Coding,,Easy,Mid,Software Engineer,2026-05,https://trueinterview.io/questions/google-minimum-distance-between-people-and-cakes
+Root Equals Average of All Subtrees,Coding,,Easy,Senior,Software Engineer,2026-05,https://trueinterview.io/questions/aaea0cb6-4ce4-4788-a014-8b1c1f507bd9
+Unequal Elements,Coding,,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/unequal-elements
+Vowels Substring,Coding,,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/vowels-substring
+Calculate Fibonacci Number,Coding,,Easy,Mid,Software Engineer,2025-04,https://trueinterview.io/questions/snowflake-calculate-fibonacci-number
+Simple TypeScript Program,Coding,,Easy,Mid,Software Engineer,2025-04,https://trueinterview.io/questions/snowflake-simple-typescript-program
+Check Validity of Input String,Coding,,Easy,Mid,Software Engineer,2025-03,https://trueinterview.io/questions/snowflake-check-validity-of-input-string
+Determine Employees to Promote,Coding,,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/snowflake-determine-employees-to-promote
+Vowel Substring,Coding,,Easy,Intern; New grad; Mid,Software Engineer,,https://trueinterview.io/questions/snowflake-vowel-substring

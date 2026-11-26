@@ -4,8 +4,8 @@
 
 3 online assessment questions reported at Virtu Financial, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Heaviest Plate Subset Within a Barbell Capacity, Up to 42 Plates](https://trueinterview.io/questions/heaviest-plate-subset-within-a-barbell-capacity-up-to-42-plates) | Coding | Hard | New grad, Mid | Quantitative Finance | 2026-09 |
-| [Maximum Total Height of Mountain-Shaped Towers Under Per-Plot Height Caps](https://trueinterview.io/questions/maximum-total-height-of-mountain-shaped-towers-under-per-plot-height-caps) | Coding | Medium | Mid, Senior | Quantitative Finance | 2026-09 |
-| [Reach a Target Pair by Repeatedly Adding One Coordinate to the Other](https://trueinterview.io/questions/reach-a-target-pair-by-repeatedly-adding-one-coordinate-to-the-other) | Coding | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-09 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Heaviest Plate Subset Within a Barbell Capacity, Up to 42 Plates](https://trueinterview.io/questions/heaviest-plate-subset-within-a-barbell-capacity-up-to-42-plates) | Coding | - | Hard | New grad, Mid | Quantitative Finance | 2026-09 |
+| [Maximum Total Height of Mountain-Shaped Towers Under Per-Plot Height Caps](https://trueinterview.io/questions/maximum-total-height-of-mountain-shaped-towers-under-per-plot-height-caps) | Coding | - | Medium | Mid, Senior | Quantitative Finance | 2026-09 |
+| [Reach a Target Pair by Repeatedly Adding One Coordinate to the Other](https://trueinterview.io/questions/reach-a-target-pair-by-repeatedly-adding-one-coordinate-to-the-other) | Coding | - | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-09 |

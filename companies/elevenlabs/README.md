@@ -4,8 +4,8 @@
 
 3 online assessment questions reported at ElevenLabs, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Cheapest Shirt Color Sequence With No Color Repeated on Consecutive Days](https://trueinterview.io/questions/cheapest-shirt-color-sequence-with-no-color-repeated-on-consecutive-days) | Coding | Medium | New grad, Mid | Software Engineer | 2026-09 |
-| [Fewest Stones Left After Merging Equal-Level Pairs](https://trueinterview.io/questions/fewest-stones-left-after-merging-equal-level-pairs) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-09 |
-| [Smallest Larger Integer That Uses None of the Digits of n](https://trueinterview.io/questions/smallest-larger-integer-that-uses-none-of-the-digits-of-n) | Coding | Hard | New grad, Mid | Software Engineer | 2026-09 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Cheapest Shirt Color Sequence With No Color Repeated on Consecutive Days](https://trueinterview.io/questions/cheapest-shirt-color-sequence-with-no-color-repeated-on-consecutive-days) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-09 |
+| [Fewest Stones Left After Merging Equal-Level Pairs](https://trueinterview.io/questions/fewest-stones-left-after-merging-equal-level-pairs) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-09 |
+| [Smallest Larger Integer That Uses None of the Digits of n](https://trueinterview.io/questions/smallest-larger-integer-that-uses-none-of-the-digits-of-n) | Coding | - | Hard | New grad, Mid | Software Engineer | 2026-09 |

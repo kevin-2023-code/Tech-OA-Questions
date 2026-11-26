@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Reddit, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Logger Rate Limiter](https://trueinterview.io/questions/logger-rate-limiter) | Coding | Easy | Mid | Software Engineer | 2026-03 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Logger Rate Limiter](https://trueinterview.io/questions/logger-rate-limiter) | Coding | - | Easy | Mid | Software Engineer | 2026-03 |

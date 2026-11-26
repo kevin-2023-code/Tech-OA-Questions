@@ -4,23 +4,23 @@
 
 18 online assessment questions reported at Cisco, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Find Largest Sum Contiguous Subarray](https://trueinterview.io/questions/f29c0c29-2a76-42d9-9ece-3eeaa42c017b) | Coding | Easy | Intern, New grad | Software Engineer | 2026-02 |
-| [Look-and-Say Sequence](https://trueinterview.io/questions/look-and-say-sequence) | Coding | Easy | Mid | Software Engineer | 2025-09 |
-| [Add Two Reversed Digit Lists](https://trueinterview.io/questions/add-two-reversed-digit-lists) | Coding | Easy | Intern, New grad, Mid | Software Engineer | 2025-09 |
-| [Linked List Binary to Decimal](https://trueinterview.io/questions/linked-list-binary-to-decimal) | Coding | Easy | Intern, New grad | Software Engineer | 2025-09 |
-| [Minimum Insertions / Deletions Password Update](https://trueinterview.io/questions/minimum-insertions-deletions-password-update) | Coding | Medium | Mid | Software Engineer | 2025-09 |
-| [Alternating String Merge](https://trueinterview.io/questions/alternating-string-merge) | Coding | Easy | Intern, New grad, Mid | Software Engineer | 2025-09 |
-| [Minimum Swaps for Even / Odd Partition](https://trueinterview.io/questions/minimum-swaps-even-odd-partition) | Coding | Easy | Intern, New grad | Software Engineer | 2025-09 |
-| [Row Maximum / Column Minimum](https://trueinterview.io/questions/83372ba6-ecf6-4c1c-9b56-dd6156a7ff84) | Coding | Easy | Senior | Software Engineer | 2025-09 |
-| [Compress Consecutive Ranges](https://trueinterview.io/questions/compress-consecutive-ranges) | Coding | Easy | Mid | Software Engineer | 2025-08 |
-| [Nested Pattern String Expansion](https://trueinterview.io/questions/nested-pattern-string-expansion) | Coding | Hard | New grad, Mid | Software Engineer | 2025-08 |
-| [Matrix Zig-Zag Traversal](https://trueinterview.io/questions/matrix-zig-zag-traversal) | Coding | Medium | New grad | Software Engineer | 2025-08 |
-| [Find Out Prime or Composite](https://trueinterview.io/questions/bb654baa-42a6-45a5-9b96-fa99e3789184) | Coding | Easy | Mid | Software Engineer | 2025-08 |
-| [Maximum Drop Points in One Line](https://trueinterview.io/questions/maximum-drop-points-in-one-line) | Coding | Easy | Intern, New grad | Software Engineer | 2025-07 |
-| [Maximum Non-Adjacent Chocolates](https://trueinterview.io/questions/3c880993-3030-4a5c-8474-3e74e89d32f3) | Coding | Medium | Intern, New grad, Mid | Software Engineer | 2025-07 |
-| [Word Search in Rows and Columns](https://trueinterview.io/questions/word-search-rows-columns) | Coding | Medium | New grad | Software Engineer | 2025-07 |
-| [Count Numbers with Sum of Digits](https://trueinterview.io/questions/c17c4233-5a37-452b-933f-4a3994c7295f) | Coding | Easy | Intern, New grad | Software Engineer | - |
-| [Identify the Non-Twin Person](https://trueinterview.io/questions/61ccd7ec-3ff5-4114-8e18-d910c7dc001e) | Coding | Easy | Intern, New grad | Software Engineer | - |
-| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | Easy | New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Find Largest Sum Contiguous Subarray](https://trueinterview.io/questions/cisco-find-largest-sum-contiguous-subarray) | Coding | - | Easy | Intern, New grad | Software Engineer | 2026-02 |
+| [Look-and-Say Sequence](https://trueinterview.io/questions/look-and-say-sequence) | Coding | - | Easy | Mid | Software Engineer | 2025-09 |
+| [Add Two Reversed Digit Lists](https://trueinterview.io/questions/add-two-reversed-digit-lists) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | 2025-09 |
+| [Linked List Binary to Decimal](https://trueinterview.io/questions/linked-list-binary-to-decimal) | Coding | - | Easy | Intern, New grad | Software Engineer | 2025-09 |
+| [Minimum Insertions / Deletions Password Update](https://trueinterview.io/questions/minimum-insertions-deletions-password-update) | Coding | - | Medium | Mid | Software Engineer | 2025-09 |
+| [Alternating String Merge](https://trueinterview.io/questions/alternating-string-merge) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | 2025-09 |
+| [Minimum Swaps for Even / Odd Partition](https://trueinterview.io/questions/minimum-swaps-even-odd-partition) | Coding | - | Easy | Intern, New grad | Software Engineer | 2025-09 |
+| [Row Maximum / Column Minimum](https://trueinterview.io/questions/cisco-row-maximum-column-minimum) | Coding | - | Easy | Senior | Software Engineer | 2025-09 |
+| [Compress Consecutive Ranges](https://trueinterview.io/questions/compress-consecutive-ranges) | Coding | - | Easy | Mid | Software Engineer | 2025-08 |
+| [Nested Pattern String Expansion](https://trueinterview.io/questions/nested-pattern-string-expansion) | Coding | - | Hard | New grad, Mid | Software Engineer | 2025-08 |
+| [Matrix Zig-Zag Traversal](https://trueinterview.io/questions/matrix-zig-zag-traversal) | Coding | - | Medium | New grad | Software Engineer | 2025-08 |
+| [Find Out Prime or Composite](https://trueinterview.io/questions/cisco-find-out-prime-or-composite) | Coding | - | Easy | Mid | Software Engineer | 2025-08 |
+| [Maximum Drop Points in One Line](https://trueinterview.io/questions/maximum-drop-points-in-one-line) | Coding | - | Easy | Intern, New grad | Software Engineer | 2025-07 |
+| [Maximum Non-Adjacent Chocolates](https://trueinterview.io/questions/cisco-maximum-non-adjacent-chocolates) | Coding | - | Medium | Intern, New grad, Mid | Software Engineer | 2025-07 |
+| [Word Search in Rows and Columns](https://trueinterview.io/questions/word-search-rows-columns) | Coding | - | Medium | New grad | Software Engineer | 2025-07 |
+| [Count Numbers with Sum of Digits](https://trueinterview.io/questions/cisco-count-numbers-with-sum-of-digits) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
+| [Identify the Non-Twin Person](https://trueinterview.io/questions/cisco-identify-the-non-twin-person) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
+| [Maximum Subarray](https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9) | Coding | - | Easy | New grad, Mid | Software Engineer | - |

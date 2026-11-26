@@ -4,6 +4,6 @@
 
 1 online assessment question reported at AQR, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Autopilot for a Flappy Bird-Style Game Across Maps with Varying Pipe Gaps](https://trueinterview.io/questions/autopilot-for-a-flappy-bird-style-game-across-maps-with-varying-pipe-gaps) | Coding | Hard | Mid, Senior | Software Engineer | 2026-10 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Autopilot for a Flappy Bird-Style Game Across Maps with Varying Pipe Gaps](https://trueinterview.io/questions/autopilot-for-a-flappy-bird-style-game-across-maps-with-varying-pipe-gaps) | Coding | - | Hard | Mid, Senior | Software Engineer | 2026-10 |

@@ -4,7 +4,7 @@
 
 2 online assessment questions reported at Rubrik, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Remove Duplicates from Sorted Linked List](https://trueinterview.io/questions/3e6892f9-8fb4-4bb3-b2e6-4182b5a25eed) | Coding | Easy | Mid | Software Engineer | 2025-02 |
-| [String Shift](https://trueinterview.io/questions/dae58234-6fb4-4c0f-9168-307c63e27905) | Coding | Easy | Mid | Software Engineer | 2025-02 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Remove Duplicates from Sorted Linked List](https://trueinterview.io/questions/bytedance-remove-duplicates-from-sorted-linked-list) | Coding | - | Easy | Mid | Software Engineer | 2025-02 |
+| [String Shift](https://trueinterview.io/questions/rubrik-string-shift) | Coding | - | Easy | Mid | Software Engineer | 2025-02 |

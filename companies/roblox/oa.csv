@@ -1,10 +1,10 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Laser Grid Robot Max Safe Run,Coding,Medium,Intern; New grad; Mid,Software Engineer,2026-10,https://trueinterview.io/questions/laser-grid-robot-max-safe-run
-Count Cyclic Rotation Pairs,Coding,Medium,Intern; New grad,Software Engineer,2026-09,https://trueinterview.io/questions/672dd86c-1610-5d71-be33-4c29e4d1387e
-File Chunk Range Tracking,Coding,Medium,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges
-Handle Release Risks and Cross-Team Blockers,Behavioral / concept,,Mid; Senior,Software Engineer,2026-08,https://trueinterview.io/questions/handle-release-risks-and-cross-team-blockers
-Design Real-time Like Interation System,System design,Medium,Senior; Staff+,Software Engineer,2026-07,https://trueinterview.io/questions/design-like-unlike-favorite-system
-Customized Programming Challenge for Roblox Business,Coding,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/a391376f-4a36-466b-8e9a-3e9d95d82511
-Implement four DS coding tasks,Coding,Hard,Mid; Senior,Data Scientist,2025-10,https://trueinterview.io/questions/implement-four-ds-coding-tasks
-Design leakage-free predictive maintenance pipeline,System design,Hard,Senior; Staff+,Data Scientist,,https://trueinterview.io/questions/design-leakage-free-predictive-maintenance-pipeline
-Optimize the Space of Code in Coding Screen,Coding,Easy,New grad; Mid,Software Engineer,,https://trueinterview.io/questions/92dadf5d-6db1-424c-b110-2cd7b367704d
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Laser Grid Robot Max Safe Run,Coding,,Medium,Intern; New grad; Mid,Software Engineer,2026-10,https://trueinterview.io/questions/laser-grid-robot-max-safe-run
+Count Cyclic Rotation Pairs,Coding,,Medium,Intern; New grad,Software Engineer,2026-09,https://trueinterview.io/questions/bytedance-count-cyclic-rotation-pairs
+File Chunk Range Tracking,Coding,CodeSignal,Medium,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/file-chunks-consecutive-byte-ranges
+Handle Release Risks and Cross-Team Blockers,Behavioral / concept,,,Mid; Senior,Software Engineer,2026-08,https://trueinterview.io/questions/handle-release-risks-and-cross-team-blockers
+Design Real-time Like Interation System,System design,,Medium,Senior; Staff+,Software Engineer,2026-07,https://trueinterview.io/questions/design-like-unlike-favorite-system
+Customized Programming Challenge for Roblox Business,Coding,,Easy,New grad,Software Engineer,2025-12,https://trueinterview.io/questions/a391376f-4a36-466b-8e9a-3e9d95d82511
+Implement four DS coding tasks,Coding,,Hard,Mid; Senior,Data Scientist,2025-10,https://trueinterview.io/questions/implement-four-ds-coding-tasks
+Design leakage-free predictive maintenance pipeline,System design,,Hard,Senior; Staff+,Data Scientist,,https://trueinterview.io/questions/design-leakage-free-predictive-maintenance-pipeline
+Optimize the Space of Code in Coding Screen,Coding,,Easy,New grad; Mid,Software Engineer,,https://trueinterview.io/questions/roblox-optimize-the-space-of-code-in-coding-screen

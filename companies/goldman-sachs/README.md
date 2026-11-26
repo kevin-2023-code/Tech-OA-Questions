@@ -4,32 +4,32 @@
 
 27 online assessment questions reported at Goldman Sachs, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Rearrange an Array to Minimize the Sum of Distinct Counts over All Prefixes](https://trueinterview.io/questions/rearrange-an-array-to-minimize-the-sum-of-distinct-counts-over-all-prefixes) | Coding | Medium | New grad, Mid | Software Engineer | 2026-10 |
-| [Bound the Rank of BA Given Rank of AB](https://trueinterview.io/questions/bound-the-rank-of-ba-given-rank-of-ab) | Behavioral / concept | - | Mid | Data Scientist | 2026-09 |
-| [Compute the Arc Length of a Curve](https://trueinterview.io/questions/compute-the-arc-length-of-a-curve) | Behavioral / concept | - | Mid | Quantitative Finance | 2026-09 |
-| [Expected Number of Runs in Coin Tosses](https://trueinterview.io/questions/expected-number-of-runs-in-coin-tosses) | Behavioral / concept | - | New grad, Mid | Quantitative Finance | 2026-09 |
-| [Infer BA When AB Is the Identity](https://trueinterview.io/questions/infer-ba-when-ab-is-the-identity) | Behavioral / concept | - | New grad, Mid, Senior | Data Scientist | 2026-09 |
-| [Integrate a Two-Sided Exponential Density](https://trueinterview.io/questions/integrate-a-two-sided-exponential-density) | Behavioral / concept | - | Mid | Data Scientist | 2026-09 |
-| [Count Palindromic Substrings](https://trueinterview.io/questions/palindromic-substrings) | Coding | Medium | Mid | Software Engineer | 2026-08 |
-| [Highest Average Score Per Person](https://trueinterview.io/questions/max-average-score-per-person) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-07 |
-| [Math and Probability Multiple Choice Bank](https://trueinterview.io/questions/quant-oa-math-probability-bank) | Behavioral / concept | - | Intern, New grad | Quantitative Finance | 2026-05 |
-| [String Compression](https://trueinterview.io/questions/string-compression-oa) | Coding | Medium | Mid | Software Engineer | 2026-04 |
-| [Efficient Tasks / Three-Server Difficulty Split](https://trueinterview.io/questions/efficient-tasks-three-server-difficulty) | Coding | Medium | New grad, Mid | Software Engineer | 2025-11 |
-| [Transaction Segments / Increasing Subarrays of Length K](https://trueinterview.io/questions/transaction-segments-increasing-subarrays) | Coding | Easy | Mid | Software Engineer | 2025-11 |
-| [Preprocess Dates](https://trueinterview.io/questions/4bf9c78c-1032-4eb2-b1b6-0d3aa580a099) | Coding | Easy | Intern | Software Engineer | 2025-11 |
-| [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Coding | Medium | New grad, Mid, Senior | Machine Learning Engineer | 2025-10 |
-| [Ethernet Cable Square Count](https://trueinterview.io/questions/ethernet-cable-square-count) | Coding | Easy | Intern, New grad | Software Engineer | 2025-09 |
-| [Process Starvation Time](https://trueinterview.io/questions/process-starvation-time) | Coding | Medium | New grad, Mid | Software Engineer | 2025-09 |
-| [Equalize Letter Frequencies With Add / Remove](https://trueinterview.io/questions/equalize-letter-frequencies) | Coding | Medium | New grad | Software Engineer | 2025-09 |
-| [Encyclopedia Removal Grid](https://trueinterview.io/questions/encyclopedia-removal-grid) | Coding | Medium | New grad | Software Engineer | 2025-09 |
-| [Decode Ways / Alphanumeric Combination](https://trueinterview.io/questions/decode-ways) | Coding | Medium | New grad | Software Engineer | 2025-07 |
-| [Anagram Queries on Word List](https://trueinterview.io/questions/anagram-queries) | Coding | Easy | Intern, New grad, Mid | Software Engineer | 2024-10 |
-| [Chairs / Restaurant Order Simulation](https://trueinterview.io/questions/chairs-restaurant-simulation) | Coding | Easy | Intern, New grad | Software Engineer | 2024-10 |
-| [Compliance Alert / Trailing-Average Sliding Window](https://trueinterview.io/questions/compliance-alert-sliding-window) | Coding | Easy | Intern, New grad | Software Engineer | 2024-10 |
-| [Count Unique Pairs With Difference K](https://trueinterview.io/questions/unique-pairs-difference-k) | Coding | Easy | Intern, New grad | Software Engineer | 2024-10 |
-| [Longest Subarray With Sum ≤ K](https://trueinterview.io/questions/longest-subarray-sum-at-most-k) | Coding | Medium | New grad, Mid | Software Engineer | 2024-10 |
-| [Min × Max Product After Push / Pop](https://trueinterview.io/questions/min-max-product-stream) | Coding | Hard | New grad | Software Engineer | 2024-10 |
-| [Plus-Multiply Even / Odd Parity](https://trueinterview.io/questions/plus-multiply-even-odd-parity) | Coding | Medium | New grad | Software Engineer | 2024-10 |
-| [Valid Triangle + Point Inclusion](https://trueinterview.io/questions/valid-triangle-point-inclusion) | Coding | Medium | New grad, Mid | Quantitative Finance | 2024-10 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Rearrange an Array to Minimize the Sum of Distinct Counts over All Prefixes](https://trueinterview.io/questions/rearrange-an-array-to-minimize-the-sum-of-distinct-counts-over-all-prefixes) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-10 |
+| [Bound the Rank of BA Given Rank of AB](https://trueinterview.io/questions/bound-the-rank-of-ba-given-rank-of-ab) | Behavioral / concept | - | - | Mid | Data Scientist | 2026-09 |
+| [Compute the Arc Length of a Curve](https://trueinterview.io/questions/compute-the-arc-length-of-a-curve) | Behavioral / concept | - | - | Mid | Quantitative Finance | 2026-09 |
+| [Expected Number of Runs in Coin Tosses](https://trueinterview.io/questions/expected-number-of-runs-in-coin-tosses) | Behavioral / concept | - | - | New grad, Mid | Quantitative Finance | 2026-09 |
+| [Infer BA When AB Is the Identity](https://trueinterview.io/questions/infer-ba-when-ab-is-the-identity) | Behavioral / concept | - | - | New grad, Mid, Senior | Data Scientist | 2026-09 |
+| [Integrate a Two-Sided Exponential Density](https://trueinterview.io/questions/integrate-a-two-sided-exponential-density) | Behavioral / concept | - | - | Mid | Data Scientist | 2026-09 |
+| [Count Palindromic Substrings](https://trueinterview.io/questions/palindromic-substrings) | Coding | - | Medium | Mid | Software Engineer | 2026-08 |
+| [Highest Average Score Per Person](https://trueinterview.io/questions/max-average-score-per-person) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-07 |
+| [Math and Probability Multiple Choice Bank](https://trueinterview.io/questions/quant-oa-math-probability-bank) | Behavioral / concept | - | - | Intern, New grad | Quantitative Finance | 2026-05 |
+| [String Compression](https://trueinterview.io/questions/string-compression-oa) | Coding | HackerRank | Medium | Mid | Software Engineer | 2026-04 |
+| [Efficient Tasks / Three-Server Difficulty Split](https://trueinterview.io/questions/efficient-tasks-three-server-difficulty) | Coding | - | Medium | New grad, Mid | Software Engineer | 2025-11 |
+| [Transaction Segments / Increasing Subarrays of Length K](https://trueinterview.io/questions/transaction-segments-increasing-subarrays) | Coding | - | Easy | Mid | Software Engineer | 2025-11 |
+| [Preprocess Dates](https://trueinterview.io/questions/goldman-sachs-preprocess-dates) | Coding | - | Easy | Intern | Software Engineer | 2025-11 |
+| [Complete decision tree and gradient descent functions](https://trueinterview.io/questions/complete-decision-tree-and-gradient-descent-functions) | Coding | - | Medium | New grad, Mid, Senior | Machine Learning Engineer | 2025-10 |
+| [Ethernet Cable Square Count](https://trueinterview.io/questions/ethernet-cable-square-count) | Coding | - | Easy | Intern, New grad | Software Engineer | 2025-09 |
+| [Process Starvation Time](https://trueinterview.io/questions/process-starvation-time) | Coding | - | Medium | New grad, Mid | Software Engineer | 2025-09 |
+| [Equalize Letter Frequencies With Add / Remove](https://trueinterview.io/questions/equalize-letter-frequencies) | Coding | - | Medium | New grad | Software Engineer | 2025-09 |
+| [Encyclopedia Removal Grid](https://trueinterview.io/questions/encyclopedia-removal-grid) | Coding | - | Medium | New grad | Software Engineer | 2025-09 |
+| [Decode Ways / Alphanumeric Combination](https://trueinterview.io/questions/decode-ways) | Coding | - | Medium | New grad | Software Engineer | 2025-07 |
+| [Anagram Queries on Word List](https://trueinterview.io/questions/anagram-queries) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | 2024-10 |
+| [Chairs / Restaurant Order Simulation](https://trueinterview.io/questions/chairs-restaurant-simulation) | Coding | - | Easy | Intern, New grad | Software Engineer | 2024-10 |
+| [Compliance Alert / Trailing-Average Sliding Window](https://trueinterview.io/questions/compliance-alert-sliding-window) | Coding | - | Easy | Intern, New grad | Software Engineer | 2024-10 |
+| [Count Unique Pairs With Difference K](https://trueinterview.io/questions/unique-pairs-difference-k) | Coding | - | Easy | Intern, New grad | Software Engineer | 2024-10 |
+| [Longest Subarray With Sum ≤ K](https://trueinterview.io/questions/longest-subarray-sum-at-most-k) | Coding | - | Medium | New grad, Mid | Software Engineer | 2024-10 |
+| [Min × Max Product After Push / Pop](https://trueinterview.io/questions/min-max-product-stream) | Coding | - | Hard | New grad | Software Engineer | 2024-10 |
+| [Plus-Multiply Even / Odd Parity](https://trueinterview.io/questions/plus-multiply-even-odd-parity) | Coding | - | Medium | New grad | Software Engineer | 2024-10 |
+| [Valid Triangle + Point Inclusion](https://trueinterview.io/questions/valid-triangle-point-inclusion) | Coding | - | Medium | New grad, Mid | Quantitative Finance | 2024-10 |

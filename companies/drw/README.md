@@ -4,9 +4,9 @@
 
 4 online assessment questions reported at DRW, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Compute expected arc length on a circle](https://trueinterview.io/questions/compute-expected-arc-length-on-a-circle) | Behavioral / concept | - | New grad, Mid, Senior | Quantitative Finance | 2025-11 |
-| [Knockout Tournament Match Counts](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-knockout-tournament-match-counts) | Coding | Medium | New grad, Mid, Senior | Software | 2025-10 |
-| [Robot Path Planning](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-robot-path-planning) | Coding | Hard | Intern, New grad, Mid | Software | 2025-10 |
-| [Solve Three Algorithmic Problems](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems) | Coding | Hard | Mid, Senior | Quantitative Finance | 2025-10 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Compute expected arc length on a circle](https://trueinterview.io/questions/compute-expected-arc-length-on-a-circle) | Behavioral / concept | - | - | New grad, Mid, Senior | Quantitative Finance | 2025-11 |
+| [Knockout Tournament Match Counts](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-knockout-tournament-match-counts) | Coding | - | Medium | New grad, Mid, Senior | Software | 2025-10 |
+| [Robot Path Planning](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems-robot-path-planning) | Coding | - | Hard | Intern, New grad, Mid | Software | 2025-10 |
+| [Solve Three Algorithmic Problems](https://trueinterview.io/questions/solve-three-algorithmic-oa-problems) | Coding | - | Hard | Mid, Senior | Quantitative Finance | 2025-10 |

@@ -4,20 +4,20 @@
 
 15 online assessment questions reported at Snowflake, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Rate Limiter](https://trueinterview.io/questions/5ac1e372-948a-4af9-b467-5e495795ba16) | Coding | Easy | Senior | Backend Engineer | 2026-08 |
-| [Wiki Hopper: Crawl All Reachable Pages](https://trueinterview.io/questions/fb29adba-08ba-5631-8405-02b39be6f187) | Coding | Easy | Mid | Software Engineer | 2026-07 |
-| [Work Schedule](https://trueinterview.io/questions/work-schedule) | Coding | Medium | Mid | Software Engineer | 2026-07 |
-| [Maximize Pipeline Throughput](https://trueinterview.io/questions/oa-pipeline-throughput) | Coding | Medium | New grad, Mid | Software Engineer | 2026-06 |
-| [Maximum Throughput](https://trueinterview.io/questions/maximum-throughput) | Coding | Medium | New grad, Mid | Software Engineer | 2026-06 |
-| [Minimum Clicks Between Wiki Pages](https://trueinterview.io/questions/solve-array-distance-and-wiki-navigation-minimum-clicks-between-wiki-pages) | Coding | Medium | Mid | Software | 2026-05 |
-| [Minimum Distance Between People and Cakes](https://trueinterview.io/questions/787ed7cb-16c1-4605-a606-93dbbc22cb6c) | Coding | Easy | Mid | Software Engineer | 2026-05 |
-| [Root Equals Average of All Subtrees](https://trueinterview.io/questions/aaea0cb6-4ce4-4788-a014-8b1c1f507bd9) | Coding | Easy | Senior | Software Engineer | 2026-05 |
-| [Unequal Elements](https://trueinterview.io/questions/unequal-elements) | Coding | Medium | New grad | Software Engineer | 2025-07 |
-| [Vowels Substring](https://trueinterview.io/questions/vowels-substring) | Coding | Medium | New grad | Software Engineer | 2025-07 |
-| [Calculate Fibonacci Number](https://trueinterview.io/questions/85108a7d-7e80-47be-bae4-69bca33e7216) | Coding | Easy | Mid | Software Engineer | 2025-04 |
-| [Simple TypeScript Program](https://trueinterview.io/questions/3d8bad65-315a-4938-9ee9-e3567fcf8c55) | Coding | Easy | Mid | Software Engineer | 2025-04 |
-| [Check Validity of Input String](https://trueinterview.io/questions/3b8252fc-0be1-4755-984e-eebf16237f7a) | Coding | Easy | Mid | Software Engineer | 2025-03 |
-| [Determine Employees to Promote](https://trueinterview.io/questions/4833cb6c-1b0f-42e2-95f4-751c03039086) | Coding | Easy | Intern, New grad | Software Engineer | - |
-| [Vowel Substring](https://trueinterview.io/questions/1d80c735-5231-4343-a34b-0dade4106bdb) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Rate Limiter](https://trueinterview.io/questions/snowflake-rate-limiter) | Coding | - | Easy | Senior | Backend Engineer | 2026-08 |
+| [Wiki Hopper: Crawl All Reachable Pages](https://trueinterview.io/questions/snowflake-wiki-hopper-crawl-all-reachable-pages) | Coding | - | Easy | Mid | Software Engineer | 2026-07 |
+| [Work Schedule](https://trueinterview.io/questions/work-schedule) | Coding | - | Medium | Mid | Software Engineer | 2026-07 |
+| [Maximize Pipeline Throughput](https://trueinterview.io/questions/oa-pipeline-throughput) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
+| [Maximum Throughput](https://trueinterview.io/questions/maximum-throughput) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
+| [Minimum Clicks Between Wiki Pages](https://trueinterview.io/questions/solve-array-distance-and-wiki-navigation-minimum-clicks-between-wiki-pages) | Coding | - | Medium | Mid | Software | 2026-05 |
+| [Minimum Distance Between People and Cakes](https://trueinterview.io/questions/google-minimum-distance-between-people-and-cakes) | Coding | - | Easy | Mid | Software Engineer | 2026-05 |
+| [Root Equals Average of All Subtrees](https://trueinterview.io/questions/aaea0cb6-4ce4-4788-a014-8b1c1f507bd9) | Coding | - | Easy | Senior | Software Engineer | 2026-05 |
+| [Unequal Elements](https://trueinterview.io/questions/unequal-elements) | Coding | - | Medium | New grad | Software Engineer | 2025-07 |
+| [Vowels Substring](https://trueinterview.io/questions/vowels-substring) | Coding | - | Medium | New grad | Software Engineer | 2025-07 |
+| [Calculate Fibonacci Number](https://trueinterview.io/questions/snowflake-calculate-fibonacci-number) | Coding | - | Easy | Mid | Software Engineer | 2025-04 |
+| [Simple TypeScript Program](https://trueinterview.io/questions/snowflake-simple-typescript-program) | Coding | - | Easy | Mid | Software Engineer | 2025-04 |
+| [Check Validity of Input String](https://trueinterview.io/questions/snowflake-check-validity-of-input-string) | Coding | - | Easy | Mid | Software Engineer | 2025-03 |
+| [Determine Employees to Promote](https://trueinterview.io/questions/snowflake-determine-employees-to-promote) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
+| [Vowel Substring](https://trueinterview.io/questions/snowflake-vowel-substring) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |

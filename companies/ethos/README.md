@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Ethos, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Find Array Elements Uniquely Determined by Known Range Sums](https://trueinterview.io/questions/find-array-elements-uniquely-determined-by-known-range-sums) | Coding | Hard | New grad, Mid | Software Engineer | 2026-08 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Find Array Elements Uniquely Determined by Known Range Sums](https://trueinterview.io/questions/find-array-elements-uniquely-determined-by-known-range-sums) | Coding | - | Hard | New grad, Mid | Software Engineer | 2026-08 |

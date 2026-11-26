@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Verkada, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | Coding | Medium | Mid | Software Engineer | 2026-08 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Find Common Free Days](https://trueinterview.io/questions/find-common-free-days-2) | Coding | - | Medium | Mid | Software Engineer | 2026-08 |

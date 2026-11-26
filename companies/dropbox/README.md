@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Dropbox, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Word Guessing Feedback](https://trueinterview.io/questions/066f3b72-1a40-4fca-8001-eecd1ddc3565) | Coding | Easy | Senior | Software Engineer | 2025-11 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Word Guessing Feedback](https://trueinterview.io/questions/dropbox-word-guessing-feedback) | Coding | - | Easy | Senior | Software Engineer | 2025-11 |

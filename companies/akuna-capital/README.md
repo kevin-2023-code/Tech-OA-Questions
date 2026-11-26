@@ -4,28 +4,28 @@
 
 23 online assessment questions reported at Akuna Capital, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Coding | Medium | New grad, Mid | Software Engineer | 2026-08 |
-| [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | Coding | Easy | Mid | Quantitative Finance | 2026-07 |
-| [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine) | OOD / LLD | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-06 |
-| [Cloud Resource Utilization Dashboard](https://trueinterview.io/questions/sql-cloud-resource-utilization-dashboard) | SQL | Easy | Mid | Data Scientist | 2026-05 |
-| [Maximum Difference Across Connected Components](https://trueinterview.io/questions/maximum-difference-connected-components) | Coding | Medium | Mid | Quantitative Finance | 2026-05 |
-| [Portfolio Rebalancer](https://trueinterview.io/questions/portfolio-rebalancer) | OOD / LLD | Medium | Mid | Quantitative Finance | 2026-05 |
-| [Minimum Swaps to Sort (Cycle Decomposition)](https://trueinterview.io/questions/minimum-swaps-to-sort-cycle) | Coding | Medium | New grad, Mid | Quantitative Finance | 2025-12 |
-| [QR HackerRank: Profitable Pairs and Delivery Order](https://trueinterview.io/questions/qr-hackerrank-profitable-pairs-and-delivery-order) | Coding | Medium | Mid | Quantitative Finance | 2025-12 |
-| [Trader Fair-Bet Probability and Number Sequences](https://trueinterview.io/questions/trader-fair-bet-probability-and-number-sequences) | Behavioral / concept | - | Intern, Mid | Quantitative Finance | 2025-11 |
-| [Communications Handler (CommsHandler)](https://trueinterview.io/questions/communications-handler) | OOD / LLD | Medium | New grad | Quantitative Finance | 2025-11 |
-| [Fun With Anagrams (Deduplicate Anagrams)](https://trueinterview.io/questions/fun-with-anagrams-dedup) | Coding | Easy | New grad | Quantitative Finance | 2025-11 |
-| [Min Mod and Max](https://trueinterview.io/questions/300141c0-9e82-4bc4-8055-d73e3ca2fae2) | Coding | Easy | Mid | Quantitative Finance | 2025-11 |
-| [Max Subsequence Sum Without Skipping Two in a Row](https://trueinterview.io/questions/max-sum-no-two-consecutive-skips) | Coding | Medium | New grad | Quantitative Finance | 2025-10 |
-| [Maximum Distinct Elements After K Swaps](https://trueinterview.io/questions/maximum-distinct-after-k-swaps) | Coding | Medium | Intern, New grad | Quantitative Finance | 2025-10 |
-| [Minimum Days to Release Updates](https://trueinterview.io/questions/minimum-days-to-release-updates) | Coding | Medium | Intern | Quantitative Finance | 2025-10 |
-| [Advanced Math and Reasoning Brain Teasers](https://trueinterview.io/questions/qr-video-oa-advanced-math-and-reasoning) | Behavioral / concept | - | Intern, New grad | Quantitative Finance | 2025-10 |
-| [C++ Object Pool Debugging](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | AI coding | Medium | New grad, Mid | Software Engineer | 2025-10 |
-| [Calculate Positive Profit Combinations](https://trueinterview.io/questions/9919842d-f64c-4fc5-9a0a-a636ac00bf95) | Coding | Easy | Mid | Quantitative Finance | 2025-10 |
-| [Earliest Completion Date](https://trueinterview.io/questions/8aac20d0-1504-4d77-a135-6d802ad17cc3) | Coding | Easy | New grad | Quantitative Finance | 2025-10 |
-| [Array Challenge: Left-Comparison Running Counter](https://trueinterview.io/questions/left-comparison-running-counter) | Coding | Medium | Intern, New grad, Mid | Quantitative Finance | 2025-09 |
-| [Round Price to Nearest Valid Tick](https://trueinterview.io/questions/round-price-to-nearest-tick) | Coding | Medium | New grad | Quantitative Finance | 2025-09 |
-| [Track Best Bid/Ask with Cancellations](https://trueinterview.io/questions/track-best-bid-ask-with-cancels) | OOD / LLD | Hard | New grad, Mid | Quantitative Finance | 2025-09 |
-| [Segregate Binary String (Move Ones to End)](https://trueinterview.io/questions/segregate-binary-string-move-ones) | Coding | Easy | Mid | Quantitative Finance | 2025-08 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Minimum Replacements for Adjacent Duplicate Characters](https://trueinterview.io/questions/minimum-replacements-adjacent-duplicates) | Coding | HackerRank | Medium | New grad, Mid | Software Engineer | 2026-08 |
+| [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | Coding | - | Easy | Mid | Quantitative Finance | 2026-07 |
+| [Exchange Order Matching Engine](https://trueinterview.io/questions/exchange-order-matching-engine) | OOD / LLD | - | Medium | New grad, Mid, Senior | Quantitative Finance | 2026-06 |
+| [Cloud Resource Utilization Dashboard](https://trueinterview.io/questions/sql-cloud-resource-utilization-dashboard) | SQL | - | Easy | Mid | Data Scientist | 2026-05 |
+| [Maximum Difference Across Connected Components](https://trueinterview.io/questions/maximum-difference-connected-components) | Coding | - | Medium | Mid | Quantitative Finance | 2026-05 |
+| [Portfolio Rebalancer](https://trueinterview.io/questions/portfolio-rebalancer) | OOD / LLD | - | Medium | Mid | Quantitative Finance | 2026-05 |
+| [Minimum Swaps to Sort (Cycle Decomposition)](https://trueinterview.io/questions/minimum-swaps-to-sort-cycle) | Coding | - | Medium | New grad, Mid | Quantitative Finance | 2025-12 |
+| [QR HackerRank: Profitable Pairs and Delivery Order](https://trueinterview.io/questions/qr-hackerrank-profitable-pairs-and-delivery-order) | Coding | - | Medium | Mid | Quantitative Finance | 2025-12 |
+| [Trader Fair-Bet Probability and Number Sequences](https://trueinterview.io/questions/trader-fair-bet-probability-and-number-sequences) | Behavioral / concept | - | - | Intern, Mid | Quantitative Finance | 2025-11 |
+| [Communications Handler (CommsHandler)](https://trueinterview.io/questions/communications-handler) | OOD / LLD | - | Medium | New grad | Quantitative Finance | 2025-11 |
+| [Fun With Anagrams (Deduplicate Anagrams)](https://trueinterview.io/questions/fun-with-anagrams-dedup) | Coding | - | Easy | New grad | Quantitative Finance | 2025-11 |
+| [Min Mod and Max](https://trueinterview.io/questions/akuna-capital-min-mod-and-max) | Coding | - | Easy | Mid | Quantitative Finance | 2025-11 |
+| [Max Subsequence Sum Without Skipping Two in a Row](https://trueinterview.io/questions/max-sum-no-two-consecutive-skips) | Coding | - | Medium | New grad | Quantitative Finance | 2025-10 |
+| [Maximum Distinct Elements After K Swaps](https://trueinterview.io/questions/maximum-distinct-after-k-swaps) | Coding | - | Medium | Intern, New grad | Quantitative Finance | 2025-10 |
+| [Minimum Days to Release Updates](https://trueinterview.io/questions/minimum-days-to-release-updates) | Coding | - | Medium | Intern | Quantitative Finance | 2025-10 |
+| [Advanced Math and Reasoning Brain Teasers](https://trueinterview.io/questions/qr-video-oa-advanced-math-and-reasoning) | Behavioral / concept | - | - | Intern, New grad | Quantitative Finance | 2025-10 |
+| [C++ Object Pool Debugging](https://trueinterview.io/questions/c-plus-plus-object-pool-debugging) | AI coding | - | Medium | New grad, Mid | Software Engineer | 2025-10 |
+| [Calculate Positive Profit Combinations](https://trueinterview.io/questions/akuna-capital-calculate-positive-profit-combinations) | Coding | - | Easy | Mid | Quantitative Finance | 2025-10 |
+| [Earliest Completion Date](https://trueinterview.io/questions/akuna-capital-earliest-completion-date) | Coding | - | Easy | New grad | Quantitative Finance | 2025-10 |
+| [Array Challenge: Left-Comparison Running Counter](https://trueinterview.io/questions/left-comparison-running-counter) | Coding | - | Medium | Intern, New grad, Mid | Quantitative Finance | 2025-09 |
+| [Round Price to Nearest Valid Tick](https://trueinterview.io/questions/round-price-to-nearest-tick) | Coding | - | Medium | New grad | Quantitative Finance | 2025-09 |
+| [Track Best Bid/Ask with Cancellations](https://trueinterview.io/questions/track-best-bid-ask-with-cancels) | OOD / LLD | - | Hard | New grad, Mid | Quantitative Finance | 2025-09 |
+| [Segregate Binary String (Move Ones to End)](https://trueinterview.io/questions/segregate-binary-string-move-ones) | Coding | - | Easy | Mid | Quantitative Finance | 2025-08 |

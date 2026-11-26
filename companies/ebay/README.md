@@ -4,18 +4,18 @@
 
 13 online assessment questions reported at eBay, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Circular Storage Allocator](https://trueinterview.io/questions/circular-storage-allocator) | OOD / LLD | Medium | Mid | Software Engineer | 2026-06 |
-| [Count and Flip Binary Operations](https://trueinterview.io/questions/count-and-flip-binary-operations) | Coding | Medium | New grad, Mid | Software Engineer | 2026-06 |
-| [Find Matching Skeletons](https://trueinterview.io/questions/find-matching-skeletons) | Coding | Medium | Intern, New grad | Software Engineer | 2026-06 |
-| [Fit Saved Rectangles in a Box](https://trueinterview.io/questions/fit-saved-rectangles-in-a-box) | Coding | Medium | Mid, Senior | Software Engineer | 2026-06 |
-| [Match Cyclic Shift to Descending Sequence](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | Coding | Easy | Intern, New grad | Software Engineer | 2026-06 |
-| [Max Matrix Border Distinct Sum](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | Coding | Medium | Intern, New grad | Software Engineer | 2026-06 |
-| [Obstacle Placement and Block Check](https://trueinterview.io/questions/obstacle-placement-and-block-check) | Coding | Hard | New grad, Mid, Senior | Software Engineer | 2026-06 |
-| [Hash Map Counting / Lookup Problem](https://trueinterview.io/questions/ad5888a6-8606-4bb2-9983-c9f28184e6d6) | Coding | Easy | Mid | Software Engineer | 2026-06 |
-| [Validate US Phone Numbers with Regular Expression](https://trueinterview.io/questions/1714f199-0812-421e-8e1a-edb4b9379eb8) | Coding | Easy | Mid | Software Engineer | 2026-01 |
-| [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Coding | Easy | New grad, Mid | Software Engineer | 2025-12 |
-| [Count Difference in Uppercase and Lowercase Letters](https://trueinterview.io/questions/012dd142-0e9b-4871-95f8-a216182794b4) | Coding | Easy | New grad | Software Engineer | 2025-12 |
-| [Snippet Vault](https://trueinterview.io/questions/snippet-vault) | OOD / LLD | Medium | New grad | Backend Engineer | 2025-12 |
-| [Ticket Reference Tally](https://trueinterview.io/questions/ticket-reference-tally) | Coding | Easy | Intern, New grad, Mid | Software Engineer | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Circular Storage Allocator](https://trueinterview.io/questions/circular-storage-allocator) | OOD / LLD | - | Medium | Mid | Software Engineer | 2026-06 |
+| [Count and Flip Binary Operations](https://trueinterview.io/questions/count-and-flip-binary-operations) | Coding | - | Medium | New grad, Mid | Software Engineer | 2026-06 |
+| [Find Matching Skeletons](https://trueinterview.io/questions/find-matching-skeletons) | Coding | - | Medium | Intern, New grad | Software Engineer | 2026-06 |
+| [Fit Saved Rectangles in a Box](https://trueinterview.io/questions/fit-saved-rectangles-in-a-box) | Coding | - | Medium | Mid, Senior | Software Engineer | 2026-06 |
+| [Match Cyclic Shift to Descending Sequence](https://trueinterview.io/questions/match-cyclic-shift-to-descending-sequence) | Coding | - | Easy | Intern, New grad | Software Engineer | 2026-06 |
+| [Max Matrix Border Distinct Sum](https://trueinterview.io/questions/max-matrix-border-distinct-sum) | Coding | - | Medium | Intern, New grad | Software Engineer | 2026-06 |
+| [Obstacle Placement and Block Check](https://trueinterview.io/questions/obstacle-placement-and-block-check) | Coding | - | Hard | New grad, Mid, Senior | Software Engineer | 2026-06 |
+| [Hash Map Counting / Lookup Problem](https://trueinterview.io/questions/microsoft-hash-map-counting-lookup-problem) | Coding | - | Easy | Mid | Software Engineer | 2026-06 |
+| [Validate US Phone Numbers with Regular Expression](https://trueinterview.io/questions/ebay-validate-us-phone-numbers-with-regular-expression) | Coding | - | Easy | Mid | Software Engineer | 2026-01 |
+| [Convert Snake Case to Camel Case](https://trueinterview.io/questions/convert-snake-case-names-to-lowercamelcase) | Coding | - | Easy | New grad, Mid | Software Engineer | 2025-12 |
+| [Count Difference in Uppercase and Lowercase Letters](https://trueinterview.io/questions/ebay-count-difference-in-uppercase-and-lowercase-letters) | Coding | CodeSignal | Easy | New grad | Software Engineer | 2025-12 |
+| [Snippet Vault](https://trueinterview.io/questions/snippet-vault) | OOD / LLD | - | Medium | New grad | Backend Engineer | 2025-12 |
+| [Ticket Reference Tally](https://trueinterview.io/questions/ticket-reference-tally) | Coding | - | Easy | Intern, New grad, Mid | Software Engineer | - |

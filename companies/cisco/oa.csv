@@ -1,19 +1,19 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Find Largest Sum Contiguous Subarray,Coding,Easy,Intern; New grad,Software Engineer,2026-02,https://trueinterview.io/questions/f29c0c29-2a76-42d9-9ece-3eeaa42c017b
-Look-and-Say Sequence,Coding,Easy,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/look-and-say-sequence
-Add Two Reversed Digit Lists,Coding,Easy,Intern; New grad; Mid,Software Engineer,2025-09,https://trueinterview.io/questions/add-two-reversed-digit-lists
-Linked List Binary to Decimal,Coding,Easy,Intern; New grad,Software Engineer,2025-09,https://trueinterview.io/questions/linked-list-binary-to-decimal
-Minimum Insertions / Deletions Password Update,Coding,Medium,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/minimum-insertions-deletions-password-update
-Alternating String Merge,Coding,Easy,Intern; New grad; Mid,Software Engineer,2025-09,https://trueinterview.io/questions/alternating-string-merge
-Minimum Swaps for Even / Odd Partition,Coding,Easy,Intern; New grad,Software Engineer,2025-09,https://trueinterview.io/questions/minimum-swaps-even-odd-partition
-Row Maximum / Column Minimum,Coding,Easy,Senior,Software Engineer,2025-09,https://trueinterview.io/questions/83372ba6-ecf6-4c1c-9b56-dd6156a7ff84
-Compress Consecutive Ranges,Coding,Easy,Mid,Software Engineer,2025-08,https://trueinterview.io/questions/compress-consecutive-ranges
-Nested Pattern String Expansion,Coding,Hard,New grad; Mid,Software Engineer,2025-08,https://trueinterview.io/questions/nested-pattern-string-expansion
-Matrix Zig-Zag Traversal,Coding,Medium,New grad,Software Engineer,2025-08,https://trueinterview.io/questions/matrix-zig-zag-traversal
-Find Out Prime or Composite,Coding,Easy,Mid,Software Engineer,2025-08,https://trueinterview.io/questions/bb654baa-42a6-45a5-9b96-fa99e3789184
-Maximum Drop Points in One Line,Coding,Easy,Intern; New grad,Software Engineer,2025-07,https://trueinterview.io/questions/maximum-drop-points-in-one-line
-Maximum Non-Adjacent Chocolates,Coding,Medium,Intern; New grad; Mid,Software Engineer,2025-07,https://trueinterview.io/questions/3c880993-3030-4a5c-8474-3e74e89d32f3
-Word Search in Rows and Columns,Coding,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/word-search-rows-columns
-Count Numbers with Sum of Digits,Coding,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/c17c4233-5a37-452b-933f-4a3994c7295f
-Identify the Non-Twin Person,Coding,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/61ccd7ec-3ff5-4114-8e18-d910c7dc001e
-Maximum Subarray,Coding,Easy,New grad; Mid,Software Engineer,,https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Find Largest Sum Contiguous Subarray,Coding,,Easy,Intern; New grad,Software Engineer,2026-02,https://trueinterview.io/questions/cisco-find-largest-sum-contiguous-subarray
+Look-and-Say Sequence,Coding,,Easy,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/look-and-say-sequence
+Add Two Reversed Digit Lists,Coding,,Easy,Intern; New grad; Mid,Software Engineer,2025-09,https://trueinterview.io/questions/add-two-reversed-digit-lists
+Linked List Binary to Decimal,Coding,,Easy,Intern; New grad,Software Engineer,2025-09,https://trueinterview.io/questions/linked-list-binary-to-decimal
+Minimum Insertions / Deletions Password Update,Coding,,Medium,Mid,Software Engineer,2025-09,https://trueinterview.io/questions/minimum-insertions-deletions-password-update
+Alternating String Merge,Coding,,Easy,Intern; New grad; Mid,Software Engineer,2025-09,https://trueinterview.io/questions/alternating-string-merge
+Minimum Swaps for Even / Odd Partition,Coding,,Easy,Intern; New grad,Software Engineer,2025-09,https://trueinterview.io/questions/minimum-swaps-even-odd-partition
+Row Maximum / Column Minimum,Coding,,Easy,Senior,Software Engineer,2025-09,https://trueinterview.io/questions/cisco-row-maximum-column-minimum
+Compress Consecutive Ranges,Coding,,Easy,Mid,Software Engineer,2025-08,https://trueinterview.io/questions/compress-consecutive-ranges
+Nested Pattern String Expansion,Coding,,Hard,New grad; Mid,Software Engineer,2025-08,https://trueinterview.io/questions/nested-pattern-string-expansion
+Matrix Zig-Zag Traversal,Coding,,Medium,New grad,Software Engineer,2025-08,https://trueinterview.io/questions/matrix-zig-zag-traversal
+Find Out Prime or Composite,Coding,,Easy,Mid,Software Engineer,2025-08,https://trueinterview.io/questions/cisco-find-out-prime-or-composite
+Maximum Drop Points in One Line,Coding,,Easy,Intern; New grad,Software Engineer,2025-07,https://trueinterview.io/questions/maximum-drop-points-in-one-line
+Maximum Non-Adjacent Chocolates,Coding,,Medium,Intern; New grad; Mid,Software Engineer,2025-07,https://trueinterview.io/questions/cisco-maximum-non-adjacent-chocolates
+Word Search in Rows and Columns,Coding,,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/word-search-rows-columns
+Count Numbers with Sum of Digits,Coding,,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/cisco-count-numbers-with-sum-of-digits
+Identify the Non-Twin Person,Coding,,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/cisco-identify-the-non-twin-person
+Maximum Subarray,Coding,,Easy,New grad; Mid,Software Engineer,,https://trueinterview.io/questions/bdf491a2-4e68-40d5-b7d9-3117bf5afbe9

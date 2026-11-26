@@ -1,7 +1,7 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Fetch and Cache Daily Stock Prices Across a Date Range,AI coding,Hard,Mid; Senior,Software Engineer,2026-08,https://trueinterview.io/questions/fetch-and-cache-daily-stock-prices-across-a-date-range
-Process Operations in a Timestamped In-Memory Database,OOD / LLD,Hard,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/process-operations-in-a-timestamped-in-memory-database
-Interpolate Y-Value for Given X-Value,Coding,Easy,Intern,Software Engineer,2025-12,https://trueinterview.io/questions/f7ad40a0-87f6-4b4b-9903-e2558f1f276c
-Buddies Greater than Target,Coding,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/055e2b8e-9813-42ea-be04-71e25dff05a4
-Last to Be Checked,Coding,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/2069bf07-0c49-475c-8ef8-9e11c443b509
-Narrative Words,Coding,Easy,Intern,Software Engineer,,https://trueinterview.io/questions/9ad96e3a-7f96-4ddb-bcbb-724f098ce6e9
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Fetch and Cache Daily Stock Prices Across a Date Range,AI coding,,Hard,Mid; Senior,Software Engineer,2026-08,https://trueinterview.io/questions/fetch-and-cache-daily-stock-prices-across-a-date-range
+Process Operations in a Timestamped In-Memory Database,OOD / LLD,,Hard,Mid,Software Engineer,2026-08,https://trueinterview.io/questions/process-operations-in-a-timestamped-in-memory-database
+Interpolate Y-Value for Given X-Value,Coding,,Easy,Intern,Software Engineer,2025-12,https://trueinterview.io/questions/tradedesk-interpolate-y-value-for-given-x-value
+Buddies Greater than Target,Coding,,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/tradedesk-buddies-greater-than-target
+Last to Be Checked,Coding,,Easy,Intern; New grad,Software Engineer,,https://trueinterview.io/questions/tradedesk-last-to-be-checked
+Narrative Words,Coding,,Easy,Intern,Software Engineer,,https://trueinterview.io/questions/tradedesk-narrative-words

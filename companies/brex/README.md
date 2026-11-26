@@ -4,6 +4,6 @@
 
 1 online assessment question reported at Brex, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Card Game Gem Affordability and Discount Calculation Functions](https://trueinterview.io/questions/3a9b7dbc-43d6-4eeb-a3ab-7003077dd6b4) | Coding | Easy | Mid | Software Engineer | 2026-09 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Card Game Gem Affordability and Discount Calculation Functions](https://trueinterview.io/questions/brex-card-game-gem-affordability-and-discount-calculation-functions) | Coding | - | Easy | Mid | Software Engineer | 2026-09 |

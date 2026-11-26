@@ -1,29 +1,29 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Time-Based Key-Value Store with Production Testing,AI coding,Hard,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/time-based-kv-store
-Count Paths That Can Form a Palindrome in a Tree,Coding,Hard,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree
-Making a Large Island,Coding,Medium,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/making-a-large-island
-Minimum Knight Moves,Coding,Medium,Senior,Software Engineer,2026-07,https://trueinterview.io/questions/minimum-knight-moves
-Sort Clothing Sizes,Coding,Easy,New grad,Software Engineer,2026-07,https://trueinterview.io/questions/64053406-fd0a-5085-8c04-93f3d930b233
-Construct Quad Tree,Coding,Medium,Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/construct-quad-tree
-Maximize Pipeline Throughput,Coding,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/oa-pipeline-throughput
-Jump Game Prime,Coding,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/jump-game-prime
-Maximum Throughput,Coding,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/maximum-throughput
-Minimum Triggers to Absorb All Balls,Coding,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/minimum-triggers-to-absorb-all-balls
-Minimum Root Edges Reversal,Coding,Medium,New grad; Mid,Software Engineer,2026-05,https://trueinterview.io/questions/b9de58ad-c058-4d46-b5b4-f04ed4f4af2a
-Maximize Portfolio Floor Value,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-05,https://trueinterview.io/questions/maximize-portfolio-floor-value
-Final Prices With a Special Discount in a Shop,Coding,Easy,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop
-Minimum Operations to Reduce an Integer to 0,Coding,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0
-Zero Array Transformation,Coding,Hard,New grad; Mid; Senior,Software Engineer,2026-03,https://trueinterview.io/questions/zero-array-transformation
-Check Prefix Permutation,Coding,Easy,New grad; Mid,Software Engineer,2026-03,https://trueinterview.io/questions/oa-permutation-prefix-balanced
-Minimum Length Subarray with K Distinct Numbers,Coding,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct
-Check if each prefix forms 1..k permutation,Coding,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/check-if-each-prefix-forms-1-k-permutation
-Purchase Optimization,Coding,Easy,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/purchase-optimization
-Optimize Transition from Elevator to Stairs,Coding,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/oa-stairs-elevator-energy-tradeoff
-Majority Element,Coding,Easy,Mid,Software Engineer,2026-01,https://trueinterview.io/questions/8ef6f482-db59-407f-adc7-1118a22fdae0
-Max Levels from Each Index,Coding,Medium,New grad,Software Engineer,2025-11,https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc
-Round-Trip Mission Schedule,Coding,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/oa-codesignal-multi-mission-routing
-Find Index of Max Rate to Price Ratio,Coding,Easy,Mid,Software Engineer,2025-03,https://trueinterview.io/questions/2d92d9fc-3676-44e1-a4f8-db5e99c47868
-Meeting Rooms Allocation with Delay,Coding,Easy,Senior,Software Engineer,2025-03,https://trueinterview.io/questions/b924cbdd-9530-43e5-9b0b-80bd8b825ca1
-Find Combinations After Flip,Coding,Easy,New grad,Software Engineer,2025-02,https://trueinterview.io/questions/1da69ce4-74fb-48ef-9eb8-ebca7578ec21
-Find Target with Rotation,Coding,Easy,New grad,Software Engineer,2025-02,https://trueinterview.io/questions/b61576ab-0661-458e-ae7d-f1a3ed8e4d3d
-Paint Line and Count Adjacent Same Colors,Coding,Easy,New grad,Software Engineer,2025-02,https://trueinterview.io/questions/688b80fe-8f40-45dc-8c98-61c2aaac7ea9
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Time-Based Key-Value Store with Production Testing,AI coding,,Hard,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/time-based-kv-store
+Count Paths That Can Form a Palindrome in a Tree,Coding,,Hard,New grad,Software Engineer,2026-08,https://trueinterview.io/questions/count-paths-that-can-form-a-palindrome-in-a-tree
+Making a Large Island,Coding,,Medium,Mid,Software Engineer,2026-07,https://trueinterview.io/questions/making-a-large-island
+Minimum Knight Moves,Coding,,Medium,Senior,Software Engineer,2026-07,https://trueinterview.io/questions/minimum-knight-moves
+Sort Clothing Sizes,Coding,,Easy,New grad,Software Engineer,2026-07,https://trueinterview.io/questions/uber-sort-clothing-sizes
+Construct Quad Tree,Coding,,Medium,Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/construct-quad-tree
+Maximize Pipeline Throughput,Coding,,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/oa-pipeline-throughput
+Jump Game Prime,Coding,,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/jump-game-prime
+Maximum Throughput,Coding,,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/maximum-throughput
+Minimum Triggers to Absorb All Balls,Coding,,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/minimum-triggers-to-absorb-all-balls
+Minimum Root Edges Reversal,Coding,,Medium,New grad; Mid,Software Engineer,2026-05,https://trueinterview.io/questions/b9de58ad-c058-4d46-b5b4-f04ed4f4af2a
+Maximize Portfolio Floor Value,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-05,https://trueinterview.io/questions/maximize-portfolio-floor-value
+Final Prices With a Special Discount in a Shop,Coding,,Easy,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/final-prices-with-a-special-discount-in-a-shop
+Minimum Operations to Reduce an Integer to 0,Coding,,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/minimum-operations-to-reduce-an-integer-to-0
+Zero Array Transformation,Coding,,Hard,New grad; Mid; Senior,Software Engineer,2026-03,https://trueinterview.io/questions/zero-array-transformation
+Check Prefix Permutation,Coding,,Easy,New grad; Mid,Software Engineer,2026-03,https://trueinterview.io/questions/oa-permutation-prefix-balanced
+Minimum Length Subarray with K Distinct Numbers,Coding,,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/minimum-length-subarray-with-k-distinct
+Check if each prefix forms 1..k permutation,Coding,,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/check-if-each-prefix-forms-1-k-permutation
+Purchase Optimization,Coding,,Easy,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/purchase-optimization
+Optimize Transition from Elevator to Stairs,Coding,,Medium,New grad,Software Engineer,2026-02,https://trueinterview.io/questions/oa-stairs-elevator-energy-tradeoff
+Majority Element,Coding,,Easy,Mid,Software Engineer,2026-01,https://trueinterview.io/questions/meta-majority-element
+Max Levels from Each Index,Coding,,Medium,New grad,Software Engineer,2025-11,https://trueinterview.io/questions/cd60b396-8c00-4022-8e75-8c2c02cff3dc
+Round-Trip Mission Schedule,Coding,,Medium,New grad,Software Engineer,2025-07,https://trueinterview.io/questions/oa-codesignal-multi-mission-routing
+Find Index of Max Rate to Price Ratio,Coding,,Easy,Mid,Software Engineer,2025-03,https://trueinterview.io/questions/uber-find-index-of-max-rate-to-price-ratio
+Meeting Rooms Allocation with Delay,Coding,,Easy,Senior,Software Engineer,2025-03,https://trueinterview.io/questions/uber-meeting-rooms-allocation-with-delay
+Find Combinations After Flip,Coding,,Easy,New grad,Software Engineer,2025-02,https://trueinterview.io/questions/uber-find-combinations-after-flip
+Find Target with Rotation,Coding,,Easy,New grad,Software Engineer,2025-02,https://trueinterview.io/questions/uber-find-target-with-rotation
+Paint Line and Count Adjacent Same Colors,Coding,,Easy,New grad,Software Engineer,2025-02,https://trueinterview.io/questions/uber-paint-line-and-count-adjacent-same-colors

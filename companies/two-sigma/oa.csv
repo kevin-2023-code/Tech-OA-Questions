@@ -1,18 +1,18 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Linear Interpolation,Coding,Medium,New grad; Mid; Senior,Data Scientist,2026-10,https://trueinterview.io/questions/qr-oa-linear-interpolator
-Prediction task,Coding,Medium,New grad; Mid; Senior,Data & AI,2026-08,https://trueinterview.io/questions/analyze-temperatures-and-update-regression-prediction-task
-Stock Max Profit (Single or Multiple Transactions),Coding,Easy,Senior,Quantitative Finance,2026-08,https://trueinterview.io/questions/7b157f40-79a0-48dd-a935-b4e27d6a6d0a
-Univariate OLS Regression Through Origin,Coding,Medium,New grad; Mid; Senior,Data Scientist,2026-08,https://trueinterview.io/questions/qr-oa-efficient-univariate-ols
-Exchange Order Matching Engine,OOD / LLD,Medium,New grad; Mid; Senior,Quantitative Finance,2026-06,https://trueinterview.io/questions/exchange-order-matching-engine
-Maximum Throughput,Coding,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/maximum-throughput
-NYC Temperature Regression Analysis,Coding,Medium,New grad; Mid; Senior,Data Scientist,2026-05,https://trueinterview.io/questions/qr-oa-nyc-temperature-regression
-Evaluate piecewise linear function at x,Coding,Medium,New grad,Quantitative Finance,2026-05,https://trueinterview.io/questions/evaluate-piecewise-linear-function-at-x
-Greedy feature selection,Coding,Medium,New grad,Data & AI,2026-05,https://trueinterview.io/questions/analyze-temperatures-and-update-regression-greedy-feature-selection
-Similarity analysis,Coding,Medium,New grad,Data & AI,2026-05,https://trueinterview.io/questions/analyze-temperatures-and-update-regression-similarity-analysis
-Volatility analysis,Coding,Medium,New grad,Data & AI,2026-05,https://trueinterview.io/questions/analyze-temperatures-and-update-regression-volatility-analysis
-No-intercept linear regression,Coding,Medium,New grad; Mid; Senior,Data & AI,2026-04,https://trueinterview.io/questions/analyze-temperatures-and-update-regression-no-intercept-linear-regression
-IPO Share Allocation,Coding,Hard,New grad; Mid,Quantitative Finance,2026-04,https://trueinterview.io/questions/swe-oa-ipo-share-allocation
-Split Drainage Tree,Coding,Medium,New grad; Mid,Quantitative Finance,2026-03,https://trueinterview.io/questions/swe-oa-sewer-tree-partition
-Minimum Operations to Reduce to Zero,Coding,Hard,New grad; Mid; Senior,Quantitative Finance,2026-03,https://trueinterview.io/questions/minimum-operations-to-reduce-to-zero
-Calculate y/x using Patch,Coding,Easy,Senior,Quantitative Finance,2025-11,https://trueinterview.io/questions/08463bd2-ae87-4cda-9a87-de246d9df796
-Analyze NYC taxi trips efficiently over last 7 days,SQL,Medium,Mid; Senior,Quantitative Finance,,https://trueinterview.io/questions/analyze-nyc-taxi-trips-efficiently-over-last-7-days
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Linear Interpolation,Coding,,Medium,New grad; Mid; Senior,Data Scientist,2026-10,https://trueinterview.io/questions/qr-oa-linear-interpolator
+Prediction task,Coding,,Medium,New grad; Mid; Senior,Data & AI,2026-08,https://trueinterview.io/questions/analyze-temperatures-and-update-regression-prediction-task
+Stock Max Profit (Single or Multiple Transactions),Coding,,Easy,Senior,Quantitative Finance,2026-08,https://trueinterview.io/questions/two-sigma-stock-max-profit-single-or-multiple-transactions
+Univariate OLS Regression Through Origin,Coding,,Medium,New grad; Mid; Senior,Data Scientist,2026-08,https://trueinterview.io/questions/qr-oa-efficient-univariate-ols
+Exchange Order Matching Engine,OOD / LLD,,Medium,New grad; Mid; Senior,Quantitative Finance,2026-06,https://trueinterview.io/questions/exchange-order-matching-engine
+Maximum Throughput,Coding,,Medium,New grad; Mid,Software Engineer,2026-06,https://trueinterview.io/questions/maximum-throughput
+NYC Temperature Regression Analysis,Coding,HackerRank,Medium,New grad; Mid; Senior,Data Scientist,2026-05,https://trueinterview.io/questions/qr-oa-nyc-temperature-regression
+Evaluate piecewise linear function at x,Coding,,Medium,New grad,Quantitative Finance,2026-05,https://trueinterview.io/questions/evaluate-piecewise-linear-function-at-x
+Greedy feature selection,Coding,,Medium,New grad,Data & AI,2026-05,https://trueinterview.io/questions/analyze-temperatures-and-update-regression-greedy-feature-selection
+Similarity analysis,Coding,,Medium,New grad,Data & AI,2026-05,https://trueinterview.io/questions/analyze-temperatures-and-update-regression-similarity-analysis
+Volatility analysis,Coding,,Medium,New grad,Data & AI,2026-05,https://trueinterview.io/questions/analyze-temperatures-and-update-regression-volatility-analysis
+No-intercept linear regression,Coding,,Medium,New grad; Mid; Senior,Data & AI,2026-04,https://trueinterview.io/questions/analyze-temperatures-and-update-regression-no-intercept-linear-regression
+IPO Share Allocation,Coding,,Hard,New grad; Mid,Quantitative Finance,2026-04,https://trueinterview.io/questions/swe-oa-ipo-share-allocation
+Split Drainage Tree,Coding,,Medium,New grad; Mid,Quantitative Finance,2026-03,https://trueinterview.io/questions/swe-oa-sewer-tree-partition
+Minimum Operations to Reduce to Zero,Coding,,Hard,New grad; Mid; Senior,Quantitative Finance,2026-03,https://trueinterview.io/questions/minimum-operations-to-reduce-to-zero
+Calculate y/x using Patch,Coding,,Easy,Senior,Quantitative Finance,2025-11,https://trueinterview.io/questions/two-sigma-calculate-y-x-using-patch
+Analyze NYC taxi trips efficiently over last 7 days,SQL,,Medium,Mid; Senior,Quantitative Finance,,https://trueinterview.io/questions/analyze-nyc-taxi-trips-efficiently-over-last-7-days

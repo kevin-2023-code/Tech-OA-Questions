@@ -4,8 +4,8 @@
 
 3 online assessment questions reported at Luma AI, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Copy an Image Matrix](https://trueinterview.io/questions/6f016452-d9b6-5e16-b260-34ec46994410) | Coding | Easy | New grad | Software Engineer | 2026-06 |
-| [Implement Softmax](https://trueinterview.io/questions/18c240e2-f238-5284-82b7-f4153b3b8844) | Coding | Easy | New grad | Machine Learning Engineer | 2026-06 |
-| [Transpose an Image Matrix](https://trueinterview.io/questions/f85a7968-6ba9-5be9-a5ab-4f13d57b3fd4) | Coding | Easy | New grad | Software Engineer | 2026-06 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Copy an Image Matrix](https://trueinterview.io/questions/luma-ai-copy-an-image-matrix) | Coding | - | Easy | New grad | Software Engineer | 2026-06 |
+| [Implement Softmax](https://trueinterview.io/questions/luma-ai-implement-softmax) | Coding | - | Easy | New grad | Machine Learning Engineer | 2026-06 |
+| [Transpose an Image Matrix](https://trueinterview.io/questions/luma-ai-transpose-an-image-matrix) | Coding | - | Easy | New grad | Software Engineer | 2026-06 |

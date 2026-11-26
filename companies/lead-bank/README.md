@@ -4,7 +4,7 @@
 
 2 online assessment questions reported at Lead Bank, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Social Network Likes Count](https://trueinterview.io/questions/1c742494-739f-424d-acbf-53c7d3252d76) | Coding | Easy | Mid | Software Engineer | 2025-02 |
-| [Social Network Recommendation](https://trueinterview.io/questions/fcd13740-ff86-40d7-93ab-1ec33dfaaeb5) | Coding | Easy | Mid | Software Engineer | 2025-02 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Social Network Likes Count](https://trueinterview.io/questions/lead-bank-social-network-likes-count) | Coding | - | Easy | Mid | Software Engineer | 2025-02 |
+| [Social Network Recommendation](https://trueinterview.io/questions/lead-bank-social-network-recommendation) | Coding | - | Easy | Mid | Software Engineer | 2025-02 |

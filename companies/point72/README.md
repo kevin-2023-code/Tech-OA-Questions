@@ -4,17 +4,17 @@
 
 12 online assessment questions reported at Point72, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Simulate a Deterministic Finite Automaton](https://trueinterview.io/questions/0283970d-03dd-5dec-9c2f-df143d712cfe) | Coding | Easy | Mid | Quantitative Finance | 2026-08 |
-| [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | Coding | Easy | Mid | Quantitative Finance | 2026-07 |
-| [Bank Transaction Mining](https://trueinterview.io/questions/bank-transaction-mining) | Coding | Easy | New grad, Mid | Software Engineer | 2026-07 |
-| [Coins and Energy](https://trueinterview.io/questions/coins-and-energy) | Coding | Hard | Mid, Senior | Software Engineer | 2026-07 |
-| [Count Maximum Borrowing Days](https://trueinterview.io/questions/count-maximum-borrowing-days) | Coding | Hard | Mid, Senior | Quantitative Finance | 2026-07 |
-| [League Earnings](https://trueinterview.io/questions/league-earnings) | Coding | Easy | Intern, New grad | Software Engineer | 2026-07 |
-| [Optimal Stock Price Subsequence](https://trueinterview.io/questions/optimal-stock-price-subsequence) | Coding | Hard | New grad, Mid | Quantitative Finance | 2026-07 |
-| [Price Percentile Cutoff](https://trueinterview.io/questions/price-percentile-cutoff) | Coding | Medium | New grad, Mid, Senior | Software Engineer | 2026-07 |
-| [Election Exit Poll by State Report (Top-3 states per candidate with ties)](https://trueinterview.io/questions/de777a06-c9a4-4a9d-9685-ae0ee64ed2c4) | SQL | Medium | Mid | Data Scientist | 2026-04 |
-| [Implement DictMixin and JSONMixin for object serialization](https://trueinterview.io/questions/7ad69fb1-c9a9-4b36-b763-d2f45f47cecc) | Coding | Easy | Mid | Software Engineer | 2026-04 |
-| [IPO Share Allocation](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | Coding | Hard | New grad, Mid | Quantitative Finance | 2026-04 |
-| [Price a coin-doubling game rationally](https://trueinterview.io/questions/price-a-coin-doubling-game-rationally) | Behavioral / concept | - | Mid, Senior | Quantitative Finance | - |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Simulate a Deterministic Finite Automaton](https://trueinterview.io/questions/point72-simulate-a-deterministic-finite-automaton) | Coding | - | Easy | Mid | Quantitative Finance | 2026-08 |
+| [Array Frequency Sort](https://trueinterview.io/questions/array-frequency-sort) | Coding | - | Easy | Mid | Quantitative Finance | 2026-07 |
+| [Bank Transaction Mining](https://trueinterview.io/questions/bank-transaction-mining) | Coding | HackerRank | Easy | New grad, Mid | Software Engineer | 2026-07 |
+| [Coins and Energy](https://trueinterview.io/questions/coins-and-energy) | Coding | - | Hard | Mid, Senior | Software Engineer | 2026-07 |
+| [Count Maximum Borrowing Days](https://trueinterview.io/questions/count-maximum-borrowing-days) | Coding | - | Hard | Mid, Senior | Quantitative Finance | 2026-07 |
+| [League Earnings](https://trueinterview.io/questions/league-earnings) | Coding | - | Easy | Intern, New grad | Software Engineer | 2026-07 |
+| [Optimal Stock Price Subsequence](https://trueinterview.io/questions/optimal-stock-price-subsequence) | Coding | - | Hard | New grad, Mid | Quantitative Finance | 2026-07 |
+| [Price Percentile Cutoff](https://trueinterview.io/questions/price-percentile-cutoff) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | 2026-07 |
+| [Election Exit Poll by State Report (Top-3 states per candidate with ties)](https://trueinterview.io/questions/point72-election-exit-poll-by-state-report-top-3-states-per-candidate-with-ties) | SQL | HackerRank | Medium | Mid | Data Scientist | 2026-04 |
+| [Implement DictMixin and JSONMixin for object serialization](https://trueinterview.io/questions/point72-implement-dictmixin-and-jsonmixin-for-object-serialization) | Coding | - | Easy | Mid | Software Engineer | 2026-04 |
+| [IPO Share Allocation](https://trueinterview.io/questions/swe-oa-ipo-share-allocation) | Coding | - | Hard | New grad, Mid | Quantitative Finance | 2026-04 |
+| [Price a coin-doubling game rationally](https://trueinterview.io/questions/price-a-coin-doubling-game-rationally) | Behavioral / concept | - | - | Mid, Senior | Quantitative Finance | - |

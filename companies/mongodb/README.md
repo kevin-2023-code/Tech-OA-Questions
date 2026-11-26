@@ -4,7 +4,7 @@
 
 2 online assessment questions reported at MongoDB, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Find a Value by Key in Nested JSON](https://trueinterview.io/questions/b6932b13-bdf4-55b5-b902-2726b5238185) | Coding | Easy | New grad | Software Engineer | 2026-08 |
-| [Suppress repeat log messages printed within 10 seconds of their last printed occurrence](https://trueinterview.io/questions/suppress-repeat-log-messages-printed-within-10-seconds-of-their-last-printed-occurrence) | Coding | Easy | New grad, Mid, Senior | Software Engineer | 2026-07 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Find a Value by Key in Nested JSON](https://trueinterview.io/questions/mongodb-find-a-value-by-key-in-nested-json) | Coding | - | Easy | New grad | Software Engineer | 2026-08 |
+| [Suppress repeat log messages printed within 10 seconds of their last printed occurrence](https://trueinterview.io/questions/suppress-repeat-log-messages-printed-within-10-seconds-of-their-last-printed-occurrence) | Coding | - | Easy | New grad, Mid, Senior | Software Engineer | 2026-07 |

@@ -1,19 +1,19 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Bank System,OOD / LLD,Hard,Mid,Backend Engineer,2026-09,https://trueinterview.io/questions/bank-system
-"Build Task Management Through Records, Search, Assignment, and Completion",OOD / LLD,Medium,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/build-task-management-through-records-search-assignment-and-completion
-Recipe Manager,OOD / LLD,Medium,New grad; Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/recipe-manager
-Design a Task Assignment System,OOD / LLD,Medium,Mid; Senior,,2026-05,https://trueinterview.io/questions/design-a-task-assignment-system
-Flappy Bird Jump Strategy,Coding,Easy,New grad; Mid,Software Engineer,2026-05,https://trueinterview.io/questions/flappy-bird-jump-strategy
-Worker Salary,OOD / LLD,Medium,Senior,Software Engineer,2026-05,https://trueinterview.io/questions/worker-salary-oa
-Longest Run of Identical Characters,Coding,Easy,New grad; Mid,Software Engineer,2026-05,https://trueinterview.io/questions/ee3f373d-6a1f-5751-b6f7-d7f4577b6670
-Implement an In-Memory Database,Coding,Hard,New grad; Mid; Senior,Backend Engineer,2026-04,https://trueinterview.io/questions/implement-an-in-memory-database-2
-In-Memory Database,OOD / LLD,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/in-memory-database
-Flappy-Bird-like Autopilot With Coins as Jump Budget,AI coding,Medium,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/bb1c3959-faaf-438a-b87a-d07fb13b9668
-Render Blog Posts (Multi-Stage CodeSignal),AI coding,Medium,New grad,Frontend Engineer,2026-03,https://trueinterview.io/questions/fe-render-blog-posts-oa
-ML Concepts and Coding Assessment,Coding,Medium,New grad; Mid; Senior,Machine Learning Engineer,2026-02,https://trueinterview.io/questions/mle-codesignal-oa
-Design an in-memory database with TTL and backups,OOD / LLD,Hard,New grad,Backend Engineer,2025-12,https://trueinterview.io/questions/design-an-in-memory-database-with-ttl-and-backups
-Execution Task with Promise Chains,Coding,Easy,Mid,Frontend Engineer,2025-12,https://trueinterview.io/questions/7296b5d5-6b1c-4ff1-ae43-012cb3886ad1
-Snippet Vault,OOD / LLD,Medium,New grad,Backend Engineer,2025-12,https://trueinterview.io/questions/snippet-vault
-Design In-memory Database with Backup,OOD / LLD,Easy,Intern; New grad; Mid,Backend Engineer,,https://trueinterview.io/questions/design-in-memory-database-with-backup-2
-Longest Consecutive Character in String,Coding,Easy,Mid,Software Engineer,,https://trueinterview.io/questions/ae5833c1-2569-4d9e-ae07-7087514da7f6
-Task Management System III,OOD / LLD,Medium,New grad; Mid,Software Engineer,,https://trueinterview.io/questions/task-management-system
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Bank System,OOD / LLD,,Hard,Mid,Backend Engineer,2026-09,https://trueinterview.io/questions/bank-system
+"Build Task Management Through Records, Search, Assignment, and Completion",OOD / LLD,,Medium,Mid,Software Engineer,2026-09,https://trueinterview.io/questions/build-task-management-through-records-search-assignment-and-completion
+Recipe Manager,OOD / LLD,,Medium,New grad; Mid; Senior,Software Engineer,2026-06,https://trueinterview.io/questions/recipe-manager
+Design a Task Assignment System,OOD / LLD,,Medium,Mid; Senior,,2026-05,https://trueinterview.io/questions/design-a-task-assignment-system
+Flappy Bird Jump Strategy,Coding,,Easy,New grad; Mid,Software Engineer,2026-05,https://trueinterview.io/questions/flappy-bird-jump-strategy
+Worker Salary,OOD / LLD,,Medium,Senior,Software Engineer,2026-05,https://trueinterview.io/questions/worker-salary-oa
+Longest Run of Identical Characters,Coding,,Easy,New grad; Mid,Software Engineer,2026-05,https://trueinterview.io/questions/netflix-longest-run-of-identical-characters
+Implement an In-Memory Database,Coding,,Hard,New grad; Mid; Senior,Backend Engineer,2026-04,https://trueinterview.io/questions/implement-an-in-memory-database-2
+In-Memory Database,OOD / LLD,,Medium,New grad; Mid; Senior,Software Engineer,2026-04,https://trueinterview.io/questions/in-memory-database
+Flappy-Bird-like Autopilot With Coins as Jump Budget,AI coding,,Medium,New grad,Software Engineer,2026-04,https://trueinterview.io/questions/bb1c3959-faaf-438a-b87a-d07fb13b9668
+Render Blog Posts (Multi-Stage CodeSignal),AI coding,,Medium,New grad,Frontend Engineer,2026-03,https://trueinterview.io/questions/fe-render-blog-posts-oa
+ML Concepts and Coding Assessment,Coding,,Medium,New grad; Mid; Senior,Machine Learning Engineer,2026-02,https://trueinterview.io/questions/mle-codesignal-oa
+Design an in-memory database with TTL and backups,OOD / LLD,,Hard,New grad,Backend Engineer,2025-12,https://trueinterview.io/questions/design-an-in-memory-database-with-ttl-and-backups
+Execution Task with Promise Chains,Coding,,Easy,Mid,Frontend Engineer,2025-12,https://trueinterview.io/questions/7296b5d5-6b1c-4ff1-ae43-012cb3886ad1
+Snippet Vault,OOD / LLD,,Medium,New grad,Backend Engineer,2025-12,https://trueinterview.io/questions/snippet-vault
+Design In-memory Database with Backup,OOD / LLD,,Easy,Intern; New grad; Mid,Backend Engineer,,https://trueinterview.io/questions/design-in-memory-database-with-backup-2
+Longest Consecutive Character in String,Coding,,Easy,Mid,Software Engineer,,https://trueinterview.io/questions/ae5833c1-2569-4d9e-ae07-7087514da7f6
+Task Management System III,OOD / LLD,,Medium,New grad; Mid,Software Engineer,,https://trueinterview.io/questions/task-management-system

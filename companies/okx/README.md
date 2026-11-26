@@ -4,6 +4,6 @@
 
 1 online assessment question reported at OKX, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
-| Title | Format | Difficulty | Level | Role | Last Reported |
-| :-- | :-- | :-- | :-- | :-- | :-- |
-| [Basic coding to validate syntax and data structure familiarity](https://trueinterview.io/questions/f7e85517-2ec7-4102-b09a-dff03cd76939) | Coding | Easy | Mid | Software Engineer | 2026-01 |
+| Title | Format | Platform | Difficulty | Level | Role | Last Reported |
+| :-- | :-- | :-- | :-- | :-- | :-- | :-- |
+| [Basic coding to validate syntax and data structure familiarity](https://trueinterview.io/questions/okx-basic-coding-to-validate-syntax-and-data-structure-familiarity) | Coding | - | Easy | Mid | Software Engineer | 2026-01 |

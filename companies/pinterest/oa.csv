@@ -1,19 +1,19 @@
-Title,Format,Difficulty,Level,Role,Last Reported,Link
-Compute Recall and FPR from Confusion Matrices to Select Classifiers,Coding,Easy,Intern; New grad,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/compute-recall-and-fpr-from-confusion-matrices-to-select-classifiers
-Ensemble Learning Trade-offs and Why Bagging Reduces Overfitting,Behavioral / concept,,New grad; Mid,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/ensemble-learning-trade-offs-and-why-bagging-reduces-overfitting
-Find All Strict Local Maxima in an Integer Array,Coding,Easy,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/find-all-strict-local-maxima-in-an-integer-array
-Hand-Compute a Small Neural Network Forward Pass with a Sigmoid Output,Behavioral / concept,,Intern; New grad; Mid,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/hand-compute-a-small-neural-network-forward-pass-with-a-sigmoid-output
-Implement a Decision Tree Classifier and a Bagging Ensemble from Scratch,Coding,Hard,Intern; New grad,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/implement-a-decision-tree-classifier-and-a-bagging-ensemble-from-scratch
-Implement a k-Nearest Neighbors Classifier from Scratch,OOD / LLD,Easy,Intern; New grad,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/implement-a-k-nearest-neighbors-classifier-from-scratch
-Implement Linear Regression with Batch Gradient Descent from Scratch,Coding,Medium,New grad; Mid; Senior,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/implement-linear-regression-with-batch-gradient-descent-from-scratch
-Which Regularization Penalties Set Model Coefficients Exactly to Zero,Behavioral / concept,,New grad; Mid; Senior,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/which-regularization-penalties-set-model-coefficients-exactly-to-zero
-Highly Active User Percentage by Country,SQL,Medium,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/f31f02a5-b053-59b1-a6ed-4246c575cd9c
-Top Two Categories by Engagement Rate per Country,SQL,Medium,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/3b783d83-6ac7-5599-9792-a02269856670
-MCQ + NN Forward + Coding + ML Implementations),Behavioral / concept,,New grad,Machine Learning Engineer,2026-06,https://trueinterview.io/questions/mle-intern-codesignal-oa
-Check If All Numbers in a Window Are Monotonic,Coding,Easy,New grad,Software Engineer,2026-06,https://trueinterview.io/questions/b713b44f-bc25-4935-8f17-c24342c90f89
-Longest Run of Identical Characters,Coding,Easy,New grad; Mid,Software Engineer,2026-05,https://trueinterview.io/questions/ee3f373d-6a1f-5751-b6f7-d7f4577b6670
-Answer core ML fundamentals questions,Behavioral / concept,,Mid; Senior,Machine Learning Engineer,2026-02,https://trueinterview.io/questions/answer-core-ml-fundamentals-questions
-Implement bagging with decision trees,Coding,Medium,New grad; Mid; Senior,Machine Learning Engineer,2026-02,https://trueinterview.io/questions/implement-bagging-with-decision-trees
-Delete Node in a Linked List,Coding,Easy,Intern; Senior,Software Engineer,2025-12,https://trueinterview.io/questions/13d6911a-76ff-4500-b9d4-54ca1a194576
-Search Engine Input Suggestions,Coding,Easy,Senior,Software Engineer,2025-12,https://trueinterview.io/questions/d56954e6-11b8-45ac-a5b1-2d26c7bd2506
-Set Equality Verification,Coding,Easy,Senior,Software Engineer,2025-12,https://trueinterview.io/questions/0def6fa8-60e7-41ea-bf60-ab321aa731ea
+Title,Format,Platform,Difficulty,Level,Role,Last Reported,Link
+Compute Recall and FPR from Confusion Matrices to Select Classifiers,Coding,,Easy,Intern; New grad,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/compute-recall-and-fpr-from-confusion-matrices-to-select-classifiers
+Ensemble Learning Trade-offs and Why Bagging Reduces Overfitting,Behavioral / concept,,,New grad; Mid,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/ensemble-learning-trade-offs-and-why-bagging-reduces-overfitting
+Find All Strict Local Maxima in an Integer Array,Coding,,Easy,New grad; Mid; Senior,Software Engineer,2026-10,https://trueinterview.io/questions/find-all-strict-local-maxima-in-an-integer-array
+Hand-Compute a Small Neural Network Forward Pass with a Sigmoid Output,Behavioral / concept,,,Intern; New grad; Mid,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/hand-compute-a-small-neural-network-forward-pass-with-a-sigmoid-output
+Implement a Decision Tree Classifier and a Bagging Ensemble from Scratch,Coding,,Hard,Intern; New grad,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/implement-a-decision-tree-classifier-and-a-bagging-ensemble-from-scratch
+Implement a k-Nearest Neighbors Classifier from Scratch,OOD / LLD,,Easy,Intern; New grad,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/implement-a-k-nearest-neighbors-classifier-from-scratch
+Implement Linear Regression with Batch Gradient Descent from Scratch,Coding,,Medium,New grad; Mid; Senior,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/implement-linear-regression-with-batch-gradient-descent-from-scratch
+Which Regularization Penalties Set Model Coefficients Exactly to Zero,Behavioral / concept,,,New grad; Mid; Senior,Machine Learning Engineer,2026-10,https://trueinterview.io/questions/which-regularization-penalties-set-model-coefficients-exactly-to-zero
+Highly Active User Percentage by Country,SQL,,Medium,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/pinterest-highly-active-user-percentage-by-country
+Top Two Categories by Engagement Rate per Country,SQL,,Medium,Mid,Data Scientist,2026-09,https://trueinterview.io/questions/pinterest-top-two-categories-by-engagement-rate-per-country
+MCQ + NN Forward + Coding + ML Implementations),Behavioral / concept,CodeSignal,,New grad,Machine Learning Engineer,2026-06,https://trueinterview.io/questions/mle-intern-codesignal-oa
+Check If All Numbers in a Window Are Monotonic,Coding,,Easy,New grad,Software Engineer,2026-06,https://trueinterview.io/questions/pinterest-check-if-all-numbers-in-a-window-are-monotonic
+Longest Run of Identical Characters,Coding,,Easy,New grad; Mid,Software Engineer,2026-05,https://trueinterview.io/questions/netflix-longest-run-of-identical-characters
+Answer core ML fundamentals questions,Behavioral / concept,,,Mid; Senior,Machine Learning Engineer,2026-02,https://trueinterview.io/questions/answer-core-ml-fundamentals-questions
+Implement bagging with decision trees,Coding,,Medium,New grad; Mid; Senior,Machine Learning Engineer,2026-02,https://trueinterview.io/questions/implement-bagging-with-decision-trees
+Delete Node in a Linked List,Coding,,Easy,Intern; Senior,Software Engineer,2025-12,https://trueinterview.io/questions/pinterest-delete-node-in-a-linked-list
+Search Engine Input Suggestions,Coding,,Easy,Senior,Software Engineer,2025-12,https://trueinterview.io/questions/pinterest-search-engine-input-suggestions
+Set Equality Verification,Coding,,Easy,Senior,Software Engineer,2025-12,https://trueinterview.io/questions/pinterest-set-equality-verification
