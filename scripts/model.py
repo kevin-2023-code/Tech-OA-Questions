@@ -65,6 +65,21 @@ FORMAT_SHORT = {
 
 DIFFICULTY_SHORT = {"easy": "Easy", "medium": "Medium", "hard": "Hard"}
 
+#: Longest platform name kept; anything longer is not a display name.
+PLATFORM_MAX = 40
+
+
+def parse_platform(value: Any) -> str | None:
+    """The API's ``oaPlatform``: the assessment platform a report names
+    (``HackerRank``, ``CodeSignal``, ...). Tolerant on purpose: the field is
+    newer than this repository, so a catalog that does not carry it yet (or
+    carries ``null``, or anything that is not a short string) reads as unknown
+    and the Platform column stays empty. Never guessed from the company."""
+    if not isinstance(value, str):
+        return None
+    text = " ".join(value.split())
+    return text if 0 < len(text) <= PLATFORM_MAX else None
+
 
 @dataclass(frozen=True)
 class Question:
@@ -79,6 +94,7 @@ class Question:
     levels: tuple[str, ...]
     roles: tuple[str, ...]
     role_titles: tuple[str, ...]
+    platform: str | None              # the OA platform a report names, or None
     seen: date | None                 # the most recent report we know of
     seen_month_only: bool
 
@@ -132,6 +148,7 @@ def load(snapshot: dict[str, Any]) -> Catalog:
                 levels=tuple(level for level in LEVELS if level in (row.get("seniority") or [])),
                 roles=tuple(row.get("roles") or []),
                 role_titles=tuple(row.get("roleTitles") or []),
+                platform=parse_platform(row.get("oaPlatform")),
                 seen=seen,
                 seen_month_only=month_only,
             )
