@@ -2,7 +2,7 @@
 
 # Meta OA Questions
 
-32 online assessment questions reported at Meta, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+31 online assessment questions reported at Meta, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -30,7 +30,6 @@
 | [Maze Solver: Print a Maze With Empty Cells Marked](https://trueinterview.io/questions/meta-maze-solver-print-a-maze-with-empty-cells-marked) | Coding | - | Easy | Mid | Software Engineer | 2026-01 |
 | [Ads Impression SQL Query](https://trueinterview.io/questions/meta-ads-impression-sql-query) | SQL | - | Easy | Intern, New grad | Data Scientist | - |
 | [Find Total Sales by Unique Customers](https://trueinterview.io/questions/meta-find-total-sales-by-unique-customers) | SQL | - | Easy | Intern, New grad, Mid | Data Scientist | - |
-| [Group Video Call Data Analysis Queries](https://trueinterview.io/questions/meta-group-video-call-data-analysis-queries) | SQL | - | Medium | Intern, New grad, Mid | Data Scientist | - |
 | [Implement Modified Intersection](https://trueinterview.io/questions/meta-implement-modified-intersection) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
 | [Minimal Board Length for Holes](https://trueinterview.io/questions/microsoft-minimal-board-length-for-holes) | Coding | - | Medium | New grad, Mid, Senior | Software Engineer | - |
 | [Minimum Add to Make Parentheses Valid](https://trueinterview.io/questions/meta-minimum-add-to-make-parentheses-valid) | Coding | - | Easy | Mid | Software Engineer | - |

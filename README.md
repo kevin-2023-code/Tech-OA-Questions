@@ -4,7 +4,7 @@
 
 Online assessment (OA) questions candidates reported at tech companies, one folder per company.
 
-**Snapshot as of 2026-11-27: 835 OA questions from 110 companies.**
+**Snapshot as of 2026-11-27: 833 OA questions from 110 companies.**
 
 The question pages are on [TrueInterview](https://trueinterview.io).
 
@@ -32,11 +32,11 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | Company | OA questions | Newest OA |
 | :-- | --: | :-- |
 | [Amazon](companies/amazon/README.md) | 59 | 2026-10 |
-| [Capital One](companies/capital-one/README.md) | 55 | 2026-10 |
+| [Capital One](companies/capital-one/README.md) | 54 | 2026-10 |
 | [Google](companies/google/README.md) | 34 | 2026-10 |
 | [ByteDance](companies/bytedance/README.md) | 32 | 2026-10 |
-| [Meta](companies/meta/README.md) | 32 | 2026-09 |
 | [Microsoft](companies/microsoft/README.md) | 32 | 2026-10 |
+| [Meta](companies/meta/README.md) | 31 | 2026-09 |
 | [Stripe](companies/stripe/README.md) | 29 | 2026-10 |
 | [Uber](companies/uber/README.md) | 28 | 2026-09 |
 | [Goldman Sachs](companies/goldman-sachs/README.md) | 27 | 2026-10 |

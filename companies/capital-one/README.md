@@ -2,7 +2,7 @@
 
 # Capital One OA Questions
 
-55 online assessment questions reported at Capital One, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
+54 online assessment questions reported at Capital One, newest first. The same rows as data: [oa.csv](oa.csv). Back to [all companies](../../README.md).
 
 | Title | Format | Platform | Difficulty | Level | Role | Last Reported |
 | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
@@ -59,5 +59,4 @@
 | [Design and analyze ad A/B test](https://trueinterview.io/questions/design-and-analyze-ad-a-b-test) | Behavioral / concept | - | - | Senior, Staff+ | Data Scientist | - |
 | [Find top category per region in Aug 2025](https://trueinterview.io/questions/find-top-category-per-region-in-aug-2025) | SQL | - | Medium | New grad, Mid, Senior | Data Scientist | - |
 | [Fix dash dates and aggregate watch time](https://trueinterview.io/questions/fix-dash-dates-and-aggregate-watch-time) | SQL | - | Medium | New grad, Mid, Senior | Data Scientist | - |
-| [Fraud Detection Algorithm for Credit Card Transactions](https://trueinterview.io/questions/capital-one-fraud-detection-algorithm-for-credit-card-transactions) | Coding | - | Easy | Intern, New grad | Software Engineer | - |
 | [Merge ad CSVs and compute CTR](https://trueinterview.io/questions/merge-ad-csvs-and-compute-ctr) | SQL | - | Hard | Mid, Senior | Data Scientist | - |
