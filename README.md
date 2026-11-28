@@ -4,7 +4,7 @@
 
 Online assessment (OA) questions candidates reported at tech companies, one folder per company.
 
-**Snapshot as of 2026-11-28: 833 OA questions from 110 companies.**
+**Snapshot as of 2026-11-28: 832 OA questions from 110 companies.**
 
 The question pages are on [TrueInterview](https://trueinterview.io).
 
@@ -92,7 +92,6 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [SoFi](companies/sofi/README.md) | 4 | 2026-03 |
 | [WeRide](companies/weride/README.md) | 4 | 2026-05 |
 | [Atlassian](companies/atlassian/README.md) | 3 | 2026-02 |
-| [Disney](companies/disney/README.md) | 3 | 2026-03 |
 | [ElevenLabs](companies/elevenlabs/README.md) | 3 | 2026-09 |
 | [GEICO](companies/geico/README.md) | 3 | 2026-05 |
 | [Luma AI](companies/luma-ai/README.md) | 3 | 2026-06 |
@@ -106,6 +105,7 @@ A question is listed when the catalog tags it with the OA round. The tag belongs
 | [Affirm](companies/affirm/README.md) | 2 | - |
 | [Arista](companies/arista/README.md) | 2 | 2026-03 |
 | [CVS Health](companies/cvs-health/README.md) | 2 | 2026-08 |
+| [Disney](companies/disney/README.md) | 2 | 2025-12 |
 | [IMC](companies/imc/README.md) | 2 | 2025-12 |
 | [Lead Bank](companies/lead-bank/README.md) | 2 | 2025-02 |
 | [Lyft](companies/lyft/README.md) | 2 | 2026-10 |
